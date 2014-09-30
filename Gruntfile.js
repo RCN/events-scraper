@@ -29,8 +29,25 @@ module.exports = function(grunt) {
     mochacli: {
       options: {
         require: ['should'],
-        reporter: 'spec',
+
+        slow: 1000,
+        timeout: 0,
         bail: true
+      },
+      spec: {
+        options: {
+          reporter: 'spec'
+        }
+      },
+      nyan: {
+        options: {
+          reporter: 'nyan'
+        }
+      },
+      progress: {
+        options: {
+          reporter: 'progress'
+        }
       },
       all: ['test/*.js']
     },
@@ -52,4 +69,7 @@ module.exports = function(grunt) {
 
   // Default task.
   grunt.registerTask('default', ['jshint', 'mochacli']);
+  grunt.registerTask('mocha', ['mochacli:spec']);
+  grunt.registerTask('mocha-dot', ['mochacli:dot']);
+  grunt.registerTask('mocha-progress', ['mochacli:progress']);
 };

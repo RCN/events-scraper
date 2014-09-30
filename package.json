@@ -1,10 +1,10 @@
 {
-  "name": "scrape-usacycling",
-  "version": "0.0.0",
-  "main": "lib/scrape-usacycling.js",
+  "name": "usacycling-scraper",
+  "version": "0.0.1",
+  "main": "lib/usacycling-scraper.js",
   "description": "Use for scraping data from usacycling.org",
   "homepage": "n/a",
-  "bugs": "https://github.com/Restuta/scrape-usacycling/issues",
+  "bugs": "https://github.com/Restuta/usacycling-scraper/issues",
   "author": {
     "name": "Restuta",
     "email": "restuta8@gmail.com",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Restuta/scrape-usacycling"
+    "url": "https://github.com/Restuta/usacycling-scraper"
   },
   "license": "MIT",
   "files": [
@@ -37,6 +37,6 @@
   },
   "scripts": {
     "test": "grunt",
-    "browser": "browserify lib/scrape-usacycling.js > browser.js"
+    "browser": "browserify lib/usacycling-scraper.js > browser.js"
   }
 }

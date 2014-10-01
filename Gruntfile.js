@@ -30,9 +30,9 @@ module.exports = function(grunt) {
       options: {
         require: ['should'],
 
-        slow: 1000,
-        timeout: 0,
-        bail: true
+        slow: 2000,
+        timeout: 999999999,
+        bail: false
       },
       spec: {
         options: {

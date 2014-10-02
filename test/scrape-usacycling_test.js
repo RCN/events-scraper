@@ -1,8 +1,6 @@
 /*global describe,it*/
 'use strict';
 
-var usaCyclingScraper = require('../lib/usacycling-scraper.js');
-
 var request = require('request').defaults({jar: true}),
     requestp = require('request-promise').defaults({jar: true}),
     cheerio = require('cheerio'),
@@ -11,19 +9,6 @@ var request = require('request').defaults({jar: true}),
         error: 'red',
         info: 'cyan'
     });
-
-describe('test', function() {
-    it('should bla', function() {
-       usaCyclingScraper.scrapeEventsFor2014();
-    })
-})
-
-
-describe('usacycling-scraper node module.', function() {
-    it('must be awesome', function() {
-        usaCyclingScraper.awesome().should.equal('awesome')
-    })
-});
 
 describe('When calling to "https://www.usacycling.org/events/state_search.php"', function() {
     describe('with the following parameters "?state=CN&race=Road&fyear=2014&rrfilter=rr&ajax=2"', function() {

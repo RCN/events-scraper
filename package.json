@@ -46,6 +46,7 @@
     "mocha": "^1.21.4",
     "request": "^2.44.0",
     "request-promise": "^0.2.0",
+    "string": "^2.2.0",
     "string-format": "^0.2.1"
   }
 }

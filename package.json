@@ -40,14 +40,14 @@
     "browser": "browserify lib/usacycling-scraper.js > browser.js"
   },
   "dependencies": {
-    "bluebird": "^2.3.4",
+    "bluebird": "^2.3.10",
     "cheerio": "^0.17.0",
-    "colors": "^0.6.2",
+    "colors": "^1.0.3",
     "date": "^1.0.2",
-    "mocha": "^1.21.4",
+    "mocha": "^1.21.5",
     "moment": "^2.8.3",
-    "request": "^2.44.0",
-    "request-promise": "^0.2.0",
+    "request": "^2.47.0",
+    "request-promise": "^0.2.4",
     "string": "^2.2.0",
     "string-format": "^0.2.1"
   }

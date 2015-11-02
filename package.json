@@ -46,7 +46,7 @@
     "date": "^1.0.2",
     "lodash": "^2.4.1",
     "mocha": "^1.21.5",
-    "moment": "^2.8.4",
+    "moment": "^2.10.6",
     "request": "^2.48.0",
     "request-promise": "^0.2.7",
     "string": "^2.2.0",

@@ -36,6 +36,7 @@
     "time-grunt": "^0.3.1"
   },
   "scripts": {
+    "start": "node index.js",
     "test": "grunt",
     "browser": "browserify lib/usacycling-scraper.js > browser.js"
   },

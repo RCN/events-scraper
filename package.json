@@ -25,11 +25,15 @@
     "cycling"
   ],
   "devDependencies": {
+    "babel-core": "^6.9.0",
+    "babel-plugin-add-module-exports": "^0.2.1",
+    "babel-polyfill": "^6.9.0",
+    "babel-preset-es2015-node5": "^1.2.0",
+    "babel-preset-stage-2": "^6.3.13"
   },
   "scripts": {
-    "start": "node index.js",
-    "test": "grunt",
-    "browser": "browserify lib/usacycling-scraper.js > browser.js"
+    "start": "NODE_PATH=./lib node index.js",
+    "dev": "NODE_PATH=./lib nodemon index.js"
   },
   "dependencies": {
     "bluebird": "^3.4.0",
@@ -39,10 +43,10 @@
     "lodash": "^4.12.0",
     "mocha": "^2.4.5",
     "moment": "^2.10.6",
+    "query-string": "^4.1.0",
     "request": "^2.48.0",
     "request-promise": "^3.0.0",
     "string": "^3.3.1",
-    "string-format": "^0.5.0",
     "yargs": "^4.7.1"
   }
 }

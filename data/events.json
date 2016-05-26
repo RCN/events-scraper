@@ -1,0 +1,3178 @@
+[
+  {
+    "permit": "2016-115",
+    "name": "2016 San Bruno Mountain Hill Climb",
+    "dates": [
+      "2016-01-01T08:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Brisbane, CA",
+      "detailed": [
+        "East Side of San Bruno Mtn",
+        "Brisbane, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/East+Side+of+San+Bruno+Mtn+Brisbane,+CA+94005,+USA"
+    },
+    "promoter": {
+      "club": "Peninsula Velo Cycling Club",
+      "raceDirector": "Tommy Evans",
+      "url": "/clubs/index.php?club=327"
+    },
+    "eventWebSite": "http://penvelo.org/secondary/events.html",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-210",
+    "name": "Cal Aggie Criterium",
+    "dates": [
+      "2016-01-30T08:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Sacramento, CA",
+      "detailed": [
+        "Park Rd.",
+        "Sacramento, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/Park+Rd.+Sacramento,+CA+95822,+USA"
+    },
+    "promoter": {
+      "club": "University of California-Davis",
+      "raceDirector": "Wei Yan",
+      "url": "/clubs/index.php?club=806"
+    },
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-578",
+    "name": "Tuttle Creek Road Race",
+    "dates": [
+      "2016-02-06T08:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Lone Pine, CA, CA",
+      "detailed": "Lone Pine, CA, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+Lone+Pine,+CA,+CA+93545,+USA"
+    },
+    "promoter": {
+      "club": "AntiGravity Cycling",
+      "raceDirector": "Steven Barnes",
+      "url": "/clubs/index.php?club=12627"
+    },
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-230",
+    "name": "Cherry Pie Criterium",
+    "dates": [
+      "2016-02-07T08:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Napa, CA",
+      "detailed": [
+        "2277 Napa Vallejo Hwy",
+        "Napa, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/2277+Napa+Vallejo+Hwy+Napa,+CA+94558,+USA"
+    },
+    "promoter": {
+      "club": "Eagle Cycling Club",
+      "raceDirector": "Andre Garcia",
+      "url": "/clubs/index.php?club=6211"
+    },
+    "eventWebSite": "http://www.eaglecyclingclub.org",
+    "status": "Complete",
+    "usacCategory": "Category - D",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-362",
+    "name": "Folsom Winter Criterium",
+    "dates": [
+      "2016-02-13T08:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Folsom, CA",
+      "detailed": "Folsom, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+Folsom,+CA+95630,+USA"
+    },
+    "promoter": {
+      "club": "Sierra Nevada/Reliable Racing p/b Kinetic Cycles",
+      "raceDirector": "Jeff Tanforan",
+      "url": "/clubs/index.php?club=9895"
+    },
+    "status": "Complete",
+    "usacCategory": "Category - D",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-416",
+    "name": "Cantua Creek Road Race",
+    "dates": [
+      "2016-02-13T08:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Coalinga, CA",
+      "detailed": [
+        "Highway 33 and Coalinga Mendota Road",
+        "Coalinga, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/Highway+33+and+Coalinga+Mendota+Road+Coalinga,+CA+93210,+USA"
+    },
+    "promoter": {
+      "club": "Golden Chain Cyclists",
+      "raceDirector": "Robert Leibold",
+      "url": "/clubs/index.php?club=2568"
+    },
+    "eventWebSite": "http://www.velopromo.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-417",
+    "name": "Pine Flat Road Race",
+    "dates": [
+      "2016-02-14T08:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Piedra, CA",
+      "detailed": [
+        "Island Park Marina, Pine Flat Lake",
+        "Piedra, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/Island+Park+Marina,+Pine+Flat+Lake+Piedra,+CA+93649,+USA"
+    },
+    "promoter": {
+      "club": "Golden Chain Cyclists",
+      "raceDirector": "Robert Leibold",
+      "url": "/clubs/index.php?club=2568"
+    },
+    "eventWebSite": "http://www.velopromo.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-418",
+    "name": "Dinuba Criterium",
+    "dates": [
+      "2016-02-15T08:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Dinuba, CA",
+      "detailed": [
+        "289 South K Street",
+        "Dinuba, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/289+South+K+Street+Dinuba,+CA+93618,+USA"
+    },
+    "promoter": {
+      "club": "Golden Chain Cyclists",
+      "raceDirector": "Robert Leibold",
+      "url": "/clubs/index.php?club=2568"
+    },
+    "eventWebSite": "http://www.velopromo.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-419",
+    "name": "Snelling Road Race",
+    "dates": [
+      "2016-02-20T08:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Snelling, CA",
+      "detailed": [
+        "Henderson County Park",
+        "Snelling, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/Henderson+County+Park+Snelling,+CA+95369,+USA"
+    },
+    "promoter": {
+      "club": "Golden Chain Cyclists",
+      "raceDirector": "Robert Leibold",
+      "url": "/clubs/index.php?club=2568"
+    },
+    "eventWebSite": "http://www.velopromo.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-420",
+    "name": "Original Merced Criterium",
+    "dates": [
+      "2016-02-21T08:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Merced, CA",
+      "detailed": [
+        "1811 M Street",
+        "Merced, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/1811+M+Street+Merced,+CA+95340,+USA"
+    },
+    "promoter": {
+      "club": "Golden Chain Cyclists",
+      "raceDirector": "Robert Leibold",
+      "url": "/clubs/index.php?club=2568"
+    },
+    "eventWebSite": "http://www.velopromo.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-482",
+    "name": "Chico Stage Race p/b Sierra Nevada Brewing Co.",
+    "dates": [
+      "2016-02-26T08:00:00.000Z",
+      "2016-02-28T08:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Chico, CA",
+      "detailed": "Chico, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+Chico,+CA+95926,+USA"
+    },
+    "promoter": {
+      "club": "Chico Corsa Cycling Team",
+      "raceDirector": "Michael Painter",
+      "url": "/clubs/index.php?club=11037"
+    },
+    "eventWebSite": "http://www.chicostagerace.com",
+    "status": "Complete",
+    "usacCategory": "Category - C",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-922",
+    "name": "Madera County Stage Race",
+    "dates": [
+      "2016-03-04T08:00:00.000Z",
+      "2016-03-06T08:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Chowchilla, CA",
+      "detailed": [
+        "Montgomery Lake at Genoa Lake",
+        "Chowchilla, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/Montgomery+Lake+at+Genoa+Lake+Chowchilla,+CA+93610,+USA"
+    },
+    "promoter": {
+      "club": "Golden Chain Cyclists",
+      "raceDirector": "Robert Leibold",
+      "url": "/clubs/index.php?club=2568"
+    },
+    "eventWebSite": "http://www.velopromo.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-791",
+    "name": "RED KITE OMNIUM EVENT #2 - RED KITE CRITERIUM (MARCH)",
+    "dates": [
+      "2016-03-06T08:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Livermore, CA",
+      "detailed": [
+        "448 Comerce Way",
+        "Livermore, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/448+Comerce+Way+Livermore,+CA+94551,+USA"
+    },
+    "promoter": {
+      "club": "Red Kite Racing",
+      "raceDirector": "Steve Rosefield",
+      "url": "/clubs/index.php?club=12690"
+    },
+    "eventWebSite": "http://www.redkiteracing.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-487",
+    "name": "Land Park Criterium",
+    "dates": [
+      "2016-03-12T08:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Sacramento, CA",
+      "detailed": [
+        "Land Park, corner of Freeport Blvd. and Sutterville Road",
+        "Sacramento, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/Land+Park,+corner+of+Freeport+Blvd.+and+Sutterville+Road+Sacramento,+CA+95819,+USA"
+    },
+    "promoter": {
+      "club": "Sacramento Golden Wheelmen",
+      "raceDirector": "Stephen Stuart",
+      "url": "/clubs/index.php?club=247"
+    },
+    "eventWebSite": "http://www.ncnca.org",
+    "status": "Complete",
+    "usacCategory": "Category - D",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-514",
+    "name": "Stanford Cycling Road Race Weekend",
+    "dates": [
+      "2016-03-12T08:00:00.000Z",
+      "2016-03-13T08:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Seaside, CA",
+      "detailed": "Seaside, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+Seaside,+CA+93955,+USA"
+    },
+    "promoter": {
+      "club": "Stanford University",
+      "raceDirector": "Jacob Crabill",
+      "url": "/clubs/index.php?club=3400"
+    },
+    "eventWebSite": "http://www.stanfordcycling.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-923",
+    "name": "Wards Ferry Road Race",
+    "dates": [
+      "2016-03-12T08:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Sonora, CA",
+      "detailed": [
+        "18885 Nugget Blvd",
+        "Sonora, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/18885+Nugget+Blvd+Sonora,+CA+95370,+USA"
+    },
+    "promoter": {
+      "club": "Golden Chain Cyclists",
+      "raceDirector": "Robert Leibold",
+      "url": "/clubs/index.php?club=2568"
+    },
+    "eventWebSite": "http://www.velopromo.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-489",
+    "name": " Bariani Road Race",
+    "dates": [
+      "2016-03-13T08:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Zamora, CA, CA",
+      "detailed": [
+        "Bariani Olive Oil, Zamora, CA",
+        "Zamora, CA, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/Bariani+Olive+Oil,+Zamora,+CA+Zamora,+CA,+CA+95698,+USA"
+    },
+    "promoter": {
+      "club": "Sacramento Golden Wheelmen",
+      "raceDirector": "Stephen Stuart",
+      "url": "/clubs/index.php?club=247"
+    },
+    "eventWebSite": "http://www.sgwracing.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-292",
+    "name": "UC Merced Race Weekend",
+    "dates": [
+      "2016-03-19T07:00:00.000Z",
+      "2016-03-20T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Merced, CA",
+      "detailed": "Merced, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+Merced,+CA+95348,+USA"
+    },
+    "promoter": {
+      "club": "University of California-Merced",
+      "raceDirector": "Aaron Martin",
+      "url": "/clubs/index.php?club=15328"
+    },
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-927",
+    "name": "Santa Cruz Classic Criterium",
+    "dates": [
+      "2016-03-20T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Santa Cruz, CA",
+      "detailed": [
+        "1000 3rd Street",
+        "Santa Cruz, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/1000+3rd+Street+Santa+Cruz,+CA+95060,+USA"
+    },
+    "promoter": {
+      "club": "Golden Chain Cyclists",
+      "raceDirector": "Robert Leibold",
+      "url": "/clubs/index.php?club=2568"
+    },
+    "eventWebSite": "http://www.velopromo.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-984",
+    "name": "2016 RED KITE OMNIUM EVENT #3 - TEMPUS FUGIT INDIVIDUAL TIME TRIAL",
+    "dates": [
+      "2016-03-20T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Castro Valley, CA",
+      "detailed": "Castro Valley, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+Castro+Valley,+CA+94546,+USA"
+    },
+    "promoter": {
+      "club": "Red Kite Racing",
+      "raceDirector": "Steve Rosefield",
+      "url": "/clubs/index.php?club=12690"
+    },
+    "eventWebSite": "http://www.redkiteracing.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-654",
+    "name": "Cal Cycling Road Weekend",
+    "dates": [
+      "2016-03-26T07:00:00.000Z",
+      "2016-03-27T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Berkeley, CA",
+      "detailed": "Berkeley, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+Berkeley,+CA+94704,+USA"
+    },
+    "promoter": {
+      "club": "University of California-Berkeley",
+      "raceDirector": "Reese Levine",
+      "url": "/clubs/index.php?club=3387"
+    },
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-929",
+    "name": "Copperopolis Road Race",
+    "dates": [
+      "2016-03-26T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Milton, CA",
+      "detailed": "Milton, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+Milton,+CA+95228,+USA"
+    },
+    "promoter": {
+      "club": "Golden Chain Cyclists",
+      "raceDirector": "Robert Leibold",
+      "url": "/clubs/index.php?club=2568"
+    },
+    "eventWebSite": "http://www.velopromo.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-846",
+    "name": "Turlock Lake Road Race",
+    "dates": [
+      "2016-04-09T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "La Grange, CA",
+      "detailed": [
+        "22600 Lake Road",
+        "La Grange, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/22600+Lake+Road+La+Grange,+CA+95329,+USA"
+    },
+    "promoter": {
+      "club": "Ciclistas del Valle",
+      "raceDirector": "John Kekuewa",
+      "url": "/clubs/index.php?club=12688"
+    },
+    "eventWebSite": "http://www.ciclistasdelvalle.org/tlrr/",
+    "status": "Complete",
+    "usacCategory": "Category - D",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-957",
+    "name": "TEA Solar Cycling Classic/ PB CSU Stanislaus",
+    "dates": [
+      "2016-04-10T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Turlock, CA",
+      "detailed": [
+        "6588 Dwight Way",
+        "Turlock, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/6588+Dwight+Way+Turlock,+CA+95380,+USA"
+    },
+    "promoter": {
+      "club": "Bell Real Estate Cycling",
+      "raceDirector": "Mitch Boehs",
+      "url": "/clubs/index.php?club=14700"
+    },
+    "status": "Complete",
+    "usacCategory": "Category - D",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-154",
+    "name": "2016 SUBARU Sea Otter Classic - Road",
+    "dates": [
+      "2016-04-14T07:00:00.000Z",
+      "2016-04-17T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Monterey, CA",
+      "detailed": [
+        "Laguna Seca Recreation Area",
+        "Monterey, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/Laguna+Seca+Recreation+Area+Monterey,+CA+93940,+USA"
+    },
+    "promoter": {
+      "club": "Sea Otter Classic, Inc.",
+      "raceDirector": "Jeffery Frost",
+      "url": "/clubs/index.php?club=9870"
+    },
+    "eventWebSite": "http://www.seaotterclassic.com",
+    "status": "Complete",
+    "usacCategory": "Category - D",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-1063",
+    "name": "Wheelmen Road Race",
+    "dates": [
+      "2016-04-16T07:00:00.000Z",
+      "2016-04-17T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Monterey, CA",
+      "detailed": "Monterey, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+Monterey,+CA+93940,+USA"
+    },
+    "promoter": {
+      "club": "California Polytechnic-San Luis Obispo",
+      "raceDirector": "Adam OCamb",
+      "url": "/clubs/index.php?club=2254"
+    },
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-792",
+    "name": "2016 RED KITE OMNIUM EVENT #4 - RED KITE CRITERIUM (APRIL)",
+    "dates": [
+      "2016-04-17T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Livermore, CA",
+      "detailed": [
+        "448 Comerce Way",
+        "Livermore, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/448+Comerce+Way+Livermore,+CA+94551,+USA"
+    },
+    "promoter": {
+      "club": "Red Kite Racing",
+      "raceDirector": "Steve Rosefield",
+      "url": "/clubs/index.php?club=12690"
+    },
+    "eventWebSite": "http://www.redkiteracing.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-1194",
+    "name": "2016 Red Kite Omnium Event #5 - Winchester Circuit Race",
+    "dates": [
+      "2016-04-23T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Meadow Vista, CA",
+      "detailed": [
+        "1100 Sugar Pine Road",
+        "Meadow Vista, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/1100+Sugar+Pine+Road+Meadow+Vista,+CA+95722,+USA"
+    },
+    "promoter": {
+      "club": "Red Kite Racing",
+      "raceDirector": "Body Concepts",
+      "url": "/clubs/index.php?club=12690"
+    },
+    "eventWebSite": "http://www.redkiteracing.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-870",
+    "name": "Golden State Race Series",
+    "dates": [
+      "2016-04-30T07:00:00.000Z",
+      "2016-05-01T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Rancho Cordova, CA",
+      "detailed": [
+        "11000 Cobblerock Drive",
+        " Rancho Cordova, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/11000+Cobblerock+Drive++Rancho+Cordova,+CA+95670,+USA"
+    },
+    "promoter": {
+      "club": "Rio Strada Racing",
+      "raceDirector": "Scott Gelbke",
+      "url": "/clubs/index.php?club=885"
+    },
+    "eventWebSite": "http://www.riostradaracing.org",
+    "status": "Complete",
+    "usacCategory": "Category - D",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-942",
+    "name": "Sonora Gran Fondo",
+    "dates": [
+      "2016-05-01T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Sonora, CA",
+      "detailed": [
+        "1000 Greenley Road",
+        "Sonora, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/1000+Greenley+Road+Sonora,+CA+95370,+USA"
+    },
+    "promoter": {
+      "club": "Sonora Regional Medical Center",
+      "raceDirector": "Gail Witzlsteiner",
+      "url": "/clubs/index.php?club=16013"
+    },
+    "eventWebSite": "http://sonoramedicalcenter.org",
+    "status": "Permitted",
+    "usacCategory": "Category - F",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-1237",
+    "name": "Salinas Criterium",
+    "dates": [
+      "2016-05-01T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Salinas, California, CA",
+      "detailed": [
+        "Moffet Industrial Park",
+        "Salinas, California, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/Moffet+Industrial+Park+Salinas,+California,+CA+93901,+USA"
+    },
+    "promoter": {
+      "club": "Pedali Alpini, Inc.",
+      "raceDirector": "Eric Petersen",
+      "url": "/clubs/index.php?club=1372"
+    },
+    "eventWebSite": "http://www.PedaliAlpini.org",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-1228",
+    "name": "Berkeley Hills Road Race ",
+    "dates": [
+      "2016-05-07T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Richmond , CA",
+      "detailed": [
+        "1061 Cragmont Ave",
+        "Richmond , CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/1061+Cragmont+Ave+Richmond+,+CA+94563,+USA"
+    },
+    "promoter": {
+      "club": "Berkeley Bicycle Club (BBC)",
+      "raceDirector": "Paul  Hainsworth",
+      "url": "/clubs/index.php?club=229"
+    },
+    "eventWebSite": "http://Berkeleybike.org ",
+    "status": "Complete",
+    "usacCategory": "Category - D",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-1729",
+    "name": "Regalado Road Race",
+    "dates": [
+      "2016-05-08T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Oakdale, CA",
+      "detailed": [
+        "12000 State  Hwy 120 (at Wamble Rd)",
+        "Oakdale, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/12000+State++Hwy+120+(at+Wamble+Rd)+Oakdale,+CA+95361,+USA"
+    },
+    "promoter": {
+      "club": "Golden Chain Cyclists",
+      "raceDirector": "Robert Leibold",
+      "url": "/clubs/index.php?club=2568"
+    },
+    "eventWebSite": "http://www.velopromo.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-793",
+    "name": "2016 RED KITE OMNIUM EVENT #6 - RED KITE CRITERIUM (MAY)",
+    "dates": [
+      "2016-05-15T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Livermore, CA",
+      "detailed": [
+        "448 Comerce Way",
+        "Livermore, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/448+Comerce+Way+Livermore,+CA+94551,+USA"
+    },
+    "promoter": {
+      "club": "Red Kite Racing",
+      "raceDirector": "Steve Rosefield",
+      "url": "/clubs/index.php?club=12690"
+    },
+    "eventWebSite": "http://www.redkiteracing.com",
+    "status": "Permitted",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-173",
+    "name": "Honor Ride Sacramento",
+    "dates": [
+      "2016-05-21T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Sacramento, CA",
+      "detailed": [
+        "801 Capitol Mall",
+        "Sacramento, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/801+Capitol+Mall+Sacramento,+CA+95814,+USA"
+    },
+    "promoter": {
+      "club": "Ride 2 Recovery",
+      "raceDirector": "Jack Shepard",
+      "url": "/clubs/index.php?club=13438"
+    },
+    "eventWebSite": "http://r2r.convio.net/site/PageNavigator/honor_ride_landing.html",
+    "status": "Permitted",
+    "usacCategory": "Category - F",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-1849",
+    "name": "Death Valley Road Omnium",
+    "dates": [
+      "2016-05-28T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Big Pine, CA",
+      "detailed": "Big Pine, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+Big+Pine,+CA+93513,+USA"
+    },
+    "promoter": {
+      "club": "AntiGravity Cycling",
+      "raceDirector": "Steven Barnes",
+      "url": "/clubs/index.php?club=12627"
+    },
+    "status": "Permitted",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-1587",
+    "name": "OTF Omnium",
+    "dates": [
+      "2016-05-28T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Fresnp, CA",
+      "detailed": "Fresnp, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+Fresnp,+CA+93626,+USA"
+    },
+    "promoter": {
+      "club": "Off The Front",
+      "raceDirector": "Steven Grusis",
+      "url": "/clubs/index.php?club=15110"
+    },
+    "eventWebSite": "http://otfrace.com/",
+    "status": "Permitted",
+    "usacCategory": "Category - D",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-1750",
+    "name": "Folsom Classic Criterium",
+    "dates": [
+      "2016-05-28T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Folsom, CA",
+      "detailed": [
+        "181 Blue Ravine Road",
+        "Folsom, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/181+Blue+Ravine+Road+Folsom,+CA+95630,+USA"
+    },
+    "promoter": {
+      "club": "Sierra Nevada/Reliable Racing p/b Kinetic Cycles",
+      "raceDirector": "Sierra Nevada/Reliable Racing p/b Kinetic Cycles",
+      "url": "/clubs/index.php?club=9895"
+    },
+    "status": "Permitted",
+    "usacCategory": "Category - D",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-1679",
+    "name": "Budweiser Sequoia Cycling Classic",
+    "dates": [
+      "2016-05-29T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Visalia, CA",
+      "detailed": [
+        "707 W Acequia Ave",
+        "Visalia, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/707+W+Acequia+Ave+Visalia,+CA+93291,+USA"
+    },
+    "promoter": {
+      "club": "Craft Factory Cycling Team",
+      "raceDirector": "Craft Factory Cycling Team",
+      "url": "/clubs/index.php?club=16143"
+    },
+    "eventWebSite": "http://sequoiaclassic.com ",
+    "status": "Permitted",
+    "usacCategory": "Category - C",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-251",
+    "name": "Memorial Day Criterium",
+    "dates": [
+      "2016-05-30T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Morgan Hill, CA",
+      "detailed": "Morgan Hill, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+Morgan+Hill,+CA+95037,+USA"
+    },
+    "promoter": {
+      "club": "San Jose Bicycle Club",
+      "raceDirector": "Todd Munk",
+      "url": "/clubs/index.php?club=249"
+    },
+    "eventWebSite": "http://www.memorialdaycriterium.com/",
+    "status": "Permitted",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=40&"
+  },
+  {
+    "permit": "2016-755",
+    "name": "Pescadero Coastal Classic Road Race",
+    "dates": [
+      "2016-06-04T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Pescadero, CA",
+      "detailed": [
+        "350 Butano Cut-Off",
+        "Pescadero, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/350+Butano+Cut-Off+Pescadero,+CA+94060,+USA"
+    },
+    "promoter": {
+      "club": "Alto Velo Racing Club",
+      "raceDirector": "John Pliska",
+      "url": "/clubs/index.php?club=3178"
+    },
+    "eventWebSite": "http://www.altovelo.org/pescadero",
+    "status": "Permitted",
+    "usacCategory": "Category - D",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=40&"
+  },
+  {
+    "permit": "2016-1145",
+    "name": "Dash for Cash",
+    "dates": [
+      "2016-06-04T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Pleasanton, CA",
+      "detailed": "Pleasanton, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+Pleasanton,+CA+94566,+USA"
+    },
+    "promoter": {
+      "club": "ChristianCycling",
+      "raceDirector": "Steve Chew",
+      "url": "/clubs/index.php?club=2226"
+    },
+    "eventWebSite": "http://www.norcalchristiancycling.com",
+    "status": "Permitted",
+    "usacCategory": "Category - D",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=40&"
+  },
+  {
+    "permit": "2016-1695",
+    "name": "Lodi Cycle Fest",
+    "dates": [
+      "2016-06-05T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Lodi, CA",
+      "detailed": [
+        "203 S School St",
+        "Lodi, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/203+S+School+St+Lodi,+CA+95240,+USA"
+    },
+    "promoter": {
+      "club": "Delta Velo",
+      "raceDirector": "Damian Gonzalez",
+      "url": "/clubs/index.php?club=253"
+    },
+    "eventWebSite": "http://www.deltavelo.com/lodi_cyclefest/",
+    "status": "Permitted",
+    "usacCategory": "Category - D",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=40&"
+  },
+  {
+    "permit": "2016-2007",
+    "name": "2016 RED KITE OMNIUM EVENT #7 - TRI-VALLEY CRITERIUM CLASSIC",
+    "dates": [
+      "2016-06-18T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Pleasanton, CA",
+      "detailed": [
+        "5000 Hopyard Road",
+        "Pleasanton, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/5000+Hopyard+Road+Pleasanton,+CA+94568,+USA"
+    },
+    "promoter": {
+      "club": "Red Kite Racing",
+      "raceDirector": "Steve Rosefield",
+      "url": "/clubs/index.php?club=12690"
+    },
+    "eventWebSite": "http://www.redkiteracing.com",
+    "status": "Permitted",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=40&"
+  },
+  {
+    "permit": "2016-2139",
+    "name": "56th Annual Nevada City Bicycle Classic",
+    "dates": [
+      "2016-06-19T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Nevada City, CA",
+      "detailed": [
+        "503 Sacramento St.",
+        "Nevada City, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/503+Sacramento+St.+Nevada+City,+CA+95959,+USA"
+    },
+    "promoter": {
+      "club": "ol’ Republic / SERT ",
+      "raceDirector": "ol’ Republic / SERT ",
+      "url": "/clubs/index.php?club=8943"
+    },
+    "status": "Pending",
+    "usacCategory": "Category - A",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=40&"
+  },
+  {
+    "permit": "2016-730",
+    "name": "Mount Diablo Hill Climb Time Trial",
+    "dates": [
+      "2016-06-25T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Walnut Creek, CA",
+      "detailed": [
+        "100 N. Gate Road",
+        "Walnut Creek, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/100+N.+Gate+Road+Walnut+Creek,+CA+94598,+USA"
+    },
+    "promoter": {
+      "club": "Contra Costa Cycling Club",
+      "raceDirector": "Rick Lawton",
+      "url": "/clubs/index.php?club=10353"
+    },
+    "status": "Permitted",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=40&"
+  },
+  {
+    "permit": "2016-1991",
+    "name": "The Parnassus Investments Burlingame Criterium",
+    "dates": [
+      "2016-06-26T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Burlingame , CA",
+      "detailed": [
+        "501 Primrose Road",
+        "Burlingame , CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/501+Primrose+Road+Burlingame+,+CA+94010,+USA"
+    },
+    "promoter": {
+      "club": "Peninsula Velo Cycling Club",
+      "raceDirector": "Tommy Evans",
+      "url": "/clubs/index.php?club=327"
+    },
+    "eventWebSite": "http://www.burlingamecriterium.com",
+    "status": "Permitted",
+    "usacCategory": "Category - D",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=40&"
+  },
+  {
+    "permit": "2016-1491",
+    "name": "King City Road Race",
+    "dates": [
+      "2016-06-26T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "King City, CA",
+      "detailed": "King City, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+King+City,+CA+93930,+USA"
+    },
+    "promoter": {
+      "club": "Pedali Alpini, Inc.",
+      "raceDirector": "Eric Petersen",
+      "url": "/clubs/index.php?club=1372"
+    },
+    "status": "Cancelled",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=40&"
+  },
+  {
+    "permit": "2016-1990",
+    "name": "Ryan's Ride",
+    "dates": [
+      "2016-06-26T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Burlingame, CA",
+      "detailed": [
+        "501 Primrose Ave",
+        "Burlingame, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/501+Primrose+Ave+Burlingame,+CA+94010,+USA"
+    },
+    "promoter": {
+      "club": "Peninsula Velo Cycling Club",
+      "raceDirector": "Peninsula Velo Cycling Club",
+      "url": "/clubs/index.php?club=327"
+    },
+    "eventWebSite": "http://www.ryansride.org/",
+    "status": "Permitted",
+    "usacCategory": "Category - F",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=40&"
+  },
+  {
+    "permit": "2016-2123",
+    "name": "RED KITE OMNIUM EVENT #9 - RED KITE CRITERIUM (JULY)",
+    "dates": [
+      "2016-07-10T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Livermore, CA",
+      "detailed": [
+        "448 Comerce Way",
+        "Livermore, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/448+Comerce+Way+Livermore,+CA+94551,+USA"
+    },
+    "promoter": {
+      "club": "Red Kite Racing",
+      "raceDirector": "Northern California/Nevada Cycling Association (NCNCA)",
+      "url": "/clubs/index.php?club=12690"
+    },
+    "status": "Pending",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=40&"
+  },
+  {
+    "permit": "2016-2125",
+    "name": "2016-RED KITE OMNIUM EVENT #11 - THE BUMP CIRCUIT RACE- SUMMER",
+    "dates": [
+      "2016-07-24T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Livermore, CA",
+      "detailed": [
+        "1575 Greenville Road",
+        "Livermore, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/1575+Greenville+Road+Livermore,+CA+94550,+USA"
+    },
+    "promoter": {
+      "club": "Red Kite Racing",
+      "raceDirector": "Steve Rosefield",
+      "url": "/clubs/index.php?club=12690"
+    },
+    "status": "Pending",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=40&"
+  },
+  {
+    "permit": "2016-1941",
+    "name": "San Rafael Sunset Criterium",
+    "dates": [
+      "2016-07-30T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "San Rafael, CA",
+      "detailed": [
+        "4th &amp; C St, San Rafael",
+        "San Rafael, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/4th+&+C+St,+San+Rafael+San+Rafael,+CA+94901,+USA"
+    },
+    "promoter": {
+      "club": "Team Mikes Bikes p/b Equator Coffees",
+      "raceDirector": "Ravinder Rajcoomar",
+      "url": "/clubs/index.php?club=13460"
+    },
+    "status": "Pending",
+    "usacCategory": "Category - D",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=40&"
+  },
+  {
+    "permit": "2016-2124",
+    "name": "2016 RED KITE OMNIUM EVENT #13 - RED KITE CRITERIUM (AUGUST)",
+    "dates": [
+      "2016-08-07T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Livermore, CA",
+      "detailed": [
+        "448 Comerce Way",
+        "Livermore, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/448+Comerce+Way+Livermore,+CA+94551,+USA"
+    },
+    "promoter": {
+      "club": "Red Kite Racing",
+      "raceDirector": "Northern California/Nevada Cycling Association (NCNCA)",
+      "url": "/clubs/index.php?club=12690"
+    },
+    "status": "Pending",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=40&"
+  },
+  {
+    "permit": "2016-496",
+    "name": "Mt Diablo Challenge Hill Climb",
+    "dates": [
+      "2016-09-25T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Danville, CA",
+      "detailed": [
+        "2100 Mount Diablo Scenic Boulevard. Danville, California, 94506",
+        "Danville, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/2100+Mount+Diablo+Scenic+Boulevard.+Danville,+California,+94506+Danville,+CA+94596,+USA"
+    },
+    "promoter": {
+      "club": "USA Cycling Race Director",
+      "raceDirector": "Roger Johnson",
+      "url": "/clubs/index.php?club=14196"
+    },
+    "status": "Permit in Process",
+    "usacCategory": "Category - D",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=Road&rrfilter=rr&noncomp=0&cnt=40&"
+  },
+  {
+    "permit": "2016-115",
+    "name": "2016 San Bruno Mountain Hill Climb",
+    "dates": [
+      "2016-01-01T08:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Brisbane, CA",
+      "detailed": [
+        "East Side of San Bruno Mtn",
+        "Brisbane, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/East+Side+of+San+Bruno+Mtn+Brisbane,+CA+94005,+USA"
+    },
+    "promoter": {
+      "club": "Peninsula Velo Cycling Club",
+      "raceDirector": "Tommy Evans",
+      "url": "/clubs/index.php?club=327"
+    },
+    "eventWebSite": "http://penvelo.org/secondary/events.html",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-210",
+    "name": "Cal Aggie Criterium",
+    "dates": [
+      "2016-01-30T08:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Sacramento, CA",
+      "detailed": [
+        "Park Rd.",
+        "Sacramento, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/Park+Rd.+Sacramento,+CA+95822,+USA"
+    },
+    "promoter": {
+      "club": "University of California-Davis",
+      "raceDirector": "Wei Yan",
+      "url": "/clubs/index.php?club=806"
+    },
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-578",
+    "name": "Tuttle Creek Road Race",
+    "dates": [
+      "2016-02-06T08:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Lone Pine, CA, CA",
+      "detailed": "Lone Pine, CA, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+Lone+Pine,+CA,+CA+93545,+USA"
+    },
+    "promoter": {
+      "club": "AntiGravity Cycling",
+      "raceDirector": "Steven Barnes",
+      "url": "/clubs/index.php?club=12627"
+    },
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-230",
+    "name": "Cherry Pie Criterium",
+    "dates": [
+      "2016-02-07T08:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Napa, CA",
+      "detailed": [
+        "2277 Napa Vallejo Hwy",
+        "Napa, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/2277+Napa+Vallejo+Hwy+Napa,+CA+94558,+USA"
+    },
+    "promoter": {
+      "club": "Eagle Cycling Club",
+      "raceDirector": "Andre Garcia",
+      "url": "/clubs/index.php?club=6211"
+    },
+    "eventWebSite": "http://www.eaglecyclingclub.org",
+    "status": "Complete",
+    "usacCategory": "Category - D",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-362",
+    "name": "Folsom Winter Criterium",
+    "dates": [
+      "2016-02-13T08:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Folsom, CA",
+      "detailed": "Folsom, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+Folsom,+CA+95630,+USA"
+    },
+    "promoter": {
+      "club": "Sierra Nevada/Reliable Racing p/b Kinetic Cycles",
+      "raceDirector": "Jeff Tanforan",
+      "url": "/clubs/index.php?club=9895"
+    },
+    "status": "Complete",
+    "usacCategory": "Category - D",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-416",
+    "name": "Cantua Creek Road Race",
+    "dates": [
+      "2016-02-13T08:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Coalinga, CA",
+      "detailed": [
+        "Highway 33 and Coalinga Mendota Road",
+        "Coalinga, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/Highway+33+and+Coalinga+Mendota+Road+Coalinga,+CA+93210,+USA"
+    },
+    "promoter": {
+      "club": "Golden Chain Cyclists",
+      "raceDirector": "Robert Leibold",
+      "url": "/clubs/index.php?club=2568"
+    },
+    "eventWebSite": "http://www.velopromo.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-417",
+    "name": "Pine Flat Road Race",
+    "dates": [
+      "2016-02-14T08:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Piedra, CA",
+      "detailed": [
+        "Island Park Marina, Pine Flat Lake",
+        "Piedra, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/Island+Park+Marina,+Pine+Flat+Lake+Piedra,+CA+93649,+USA"
+    },
+    "promoter": {
+      "club": "Golden Chain Cyclists",
+      "raceDirector": "Robert Leibold",
+      "url": "/clubs/index.php?club=2568"
+    },
+    "eventWebSite": "http://www.velopromo.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-418",
+    "name": "Dinuba Criterium",
+    "dates": [
+      "2016-02-15T08:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Dinuba, CA",
+      "detailed": [
+        "289 South K Street",
+        "Dinuba, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/289+South+K+Street+Dinuba,+CA+93618,+USA"
+    },
+    "promoter": {
+      "club": "Golden Chain Cyclists",
+      "raceDirector": "Robert Leibold",
+      "url": "/clubs/index.php?club=2568"
+    },
+    "eventWebSite": "http://www.velopromo.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-419",
+    "name": "Snelling Road Race",
+    "dates": [
+      "2016-02-20T08:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Snelling, CA",
+      "detailed": [
+        "Henderson County Park",
+        "Snelling, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/Henderson+County+Park+Snelling,+CA+95369,+USA"
+    },
+    "promoter": {
+      "club": "Golden Chain Cyclists",
+      "raceDirector": "Robert Leibold",
+      "url": "/clubs/index.php?club=2568"
+    },
+    "eventWebSite": "http://www.velopromo.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-420",
+    "name": "Original Merced Criterium",
+    "dates": [
+      "2016-02-21T08:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Merced, CA",
+      "detailed": [
+        "1811 M Street",
+        "Merced, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/1811+M+Street+Merced,+CA+95340,+USA"
+    },
+    "promoter": {
+      "club": "Golden Chain Cyclists",
+      "raceDirector": "Robert Leibold",
+      "url": "/clubs/index.php?club=2568"
+    },
+    "eventWebSite": "http://www.velopromo.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-482",
+    "name": "Chico Stage Race p/b Sierra Nevada Brewing Co.",
+    "dates": [
+      "2016-02-26T08:00:00.000Z",
+      "2016-02-28T08:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Chico, CA",
+      "detailed": "Chico, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+Chico,+CA+95926,+USA"
+    },
+    "promoter": {
+      "club": "Chico Corsa Cycling Team",
+      "raceDirector": "Michael Painter",
+      "url": "/clubs/index.php?club=11037"
+    },
+    "eventWebSite": "http://www.chicostagerace.com",
+    "status": "Complete",
+    "usacCategory": "Category - C",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-922",
+    "name": "Madera County Stage Race",
+    "dates": [
+      "2016-03-04T08:00:00.000Z",
+      "2016-03-06T08:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Chowchilla, CA",
+      "detailed": [
+        "Montgomery Lake at Genoa Lake",
+        "Chowchilla, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/Montgomery+Lake+at+Genoa+Lake+Chowchilla,+CA+93610,+USA"
+    },
+    "promoter": {
+      "club": "Golden Chain Cyclists",
+      "raceDirector": "Robert Leibold",
+      "url": "/clubs/index.php?club=2568"
+    },
+    "eventWebSite": "http://www.velopromo.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-791",
+    "name": "RED KITE OMNIUM EVENT #2 - RED KITE CRITERIUM (MARCH)",
+    "dates": [
+      "2016-03-06T08:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Livermore, CA",
+      "detailed": [
+        "448 Comerce Way",
+        "Livermore, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/448+Comerce+Way+Livermore,+CA+94551,+USA"
+    },
+    "promoter": {
+      "club": "Red Kite Racing",
+      "raceDirector": "Steve Rosefield",
+      "url": "/clubs/index.php?club=12690"
+    },
+    "eventWebSite": "http://www.redkiteracing.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-487",
+    "name": "Land Park Criterium",
+    "dates": [
+      "2016-03-12T08:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Sacramento, CA",
+      "detailed": [
+        "Land Park, corner of Freeport Blvd. and Sutterville Road",
+        "Sacramento, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/Land+Park,+corner+of+Freeport+Blvd.+and+Sutterville+Road+Sacramento,+CA+95819,+USA"
+    },
+    "promoter": {
+      "club": "Sacramento Golden Wheelmen",
+      "raceDirector": "Stephen Stuart",
+      "url": "/clubs/index.php?club=247"
+    },
+    "eventWebSite": "http://www.ncnca.org",
+    "status": "Complete",
+    "usacCategory": "Category - D",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-514",
+    "name": "Stanford Cycling Road Race Weekend",
+    "dates": [
+      "2016-03-12T08:00:00.000Z",
+      "2016-03-13T08:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Seaside, CA",
+      "detailed": "Seaside, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+Seaside,+CA+93955,+USA"
+    },
+    "promoter": {
+      "club": "Stanford University",
+      "raceDirector": "Jacob Crabill",
+      "url": "/clubs/index.php?club=3400"
+    },
+    "eventWebSite": "http://www.stanfordcycling.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-923",
+    "name": "Wards Ferry Road Race",
+    "dates": [
+      "2016-03-12T08:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Sonora, CA",
+      "detailed": [
+        "18885 Nugget Blvd",
+        "Sonora, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/18885+Nugget+Blvd+Sonora,+CA+95370,+USA"
+    },
+    "promoter": {
+      "club": "Golden Chain Cyclists",
+      "raceDirector": "Robert Leibold",
+      "url": "/clubs/index.php?club=2568"
+    },
+    "eventWebSite": "http://www.velopromo.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-489",
+    "name": " Bariani Road Race",
+    "dates": [
+      "2016-03-13T08:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Zamora, CA, CA",
+      "detailed": [
+        "Bariani Olive Oil, Zamora, CA",
+        "Zamora, CA, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/Bariani+Olive+Oil,+Zamora,+CA+Zamora,+CA,+CA+95698,+USA"
+    },
+    "promoter": {
+      "club": "Sacramento Golden Wheelmen",
+      "raceDirector": "Stephen Stuart",
+      "url": "/clubs/index.php?club=247"
+    },
+    "eventWebSite": "http://www.sgwracing.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-292",
+    "name": "UC Merced Race Weekend",
+    "dates": [
+      "2016-03-19T07:00:00.000Z",
+      "2016-03-20T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Merced, CA",
+      "detailed": "Merced, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+Merced,+CA+95348,+USA"
+    },
+    "promoter": {
+      "club": "University of California-Merced",
+      "raceDirector": "Aaron Martin",
+      "url": "/clubs/index.php?club=15328"
+    },
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-927",
+    "name": "Santa Cruz Classic Criterium",
+    "dates": [
+      "2016-03-20T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Santa Cruz, CA",
+      "detailed": [
+        "1000 3rd Street",
+        "Santa Cruz, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/1000+3rd+Street+Santa+Cruz,+CA+95060,+USA"
+    },
+    "promoter": {
+      "club": "Golden Chain Cyclists",
+      "raceDirector": "Robert Leibold",
+      "url": "/clubs/index.php?club=2568"
+    },
+    "eventWebSite": "http://www.velopromo.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-984",
+    "name": "2016 RED KITE OMNIUM EVENT #3 - TEMPUS FUGIT INDIVIDUAL TIME TRIAL",
+    "dates": [
+      "2016-03-20T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Castro Valley, CA",
+      "detailed": "Castro Valley, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+Castro+Valley,+CA+94546,+USA"
+    },
+    "promoter": {
+      "club": "Red Kite Racing",
+      "raceDirector": "Steve Rosefield",
+      "url": "/clubs/index.php?club=12690"
+    },
+    "eventWebSite": "http://www.redkiteracing.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=0&"
+  },
+  {
+    "permit": "2016-654",
+    "name": "Cal Cycling Road Weekend",
+    "dates": [
+      "2016-03-26T07:00:00.000Z",
+      "2016-03-27T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Berkeley, CA",
+      "detailed": "Berkeley, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+Berkeley,+CA+94704,+USA"
+    },
+    "promoter": {
+      "club": "University of California-Berkeley",
+      "raceDirector": "Reese Levine",
+      "url": "/clubs/index.php?club=3387"
+    },
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-929",
+    "name": "Copperopolis Road Race",
+    "dates": [
+      "2016-03-26T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Milton, CA",
+      "detailed": "Milton, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+Milton,+CA+95228,+USA"
+    },
+    "promoter": {
+      "club": "Golden Chain Cyclists",
+      "raceDirector": "Robert Leibold",
+      "url": "/clubs/index.php?club=2568"
+    },
+    "eventWebSite": "http://www.velopromo.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-846",
+    "name": "Turlock Lake Road Race",
+    "dates": [
+      "2016-04-09T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "La Grange, CA",
+      "detailed": [
+        "22600 Lake Road",
+        "La Grange, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/22600+Lake+Road+La+Grange,+CA+95329,+USA"
+    },
+    "promoter": {
+      "club": "Ciclistas del Valle",
+      "raceDirector": "John Kekuewa",
+      "url": "/clubs/index.php?club=12688"
+    },
+    "eventWebSite": "http://www.ciclistasdelvalle.org/tlrr/",
+    "status": "Complete",
+    "usacCategory": "Category - D",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-599",
+    "name": "Napa Valley Dirt Classic",
+    "dates": [
+      "2016-04-10T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Angwin, CA",
+      "detailed": [
+        "One Angwin Avenue",
+        "Angwin, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/One+Angwin+Avenue+Angwin,+CA+94508,+USA"
+    },
+    "promoter": {
+      "club": "USA Cycling Race Director",
+      "raceDirector": "USA Cycling Race Director",
+      "url": "/clubs/index.php?club=14196"
+    },
+    "eventWebSite": "http://puc.edu/nvdc",
+    "status": "Complete",
+    "usacCategory": "Category - C",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-957",
+    "name": "TEA Solar Cycling Classic/ PB CSU Stanislaus",
+    "dates": [
+      "2016-04-10T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Turlock, CA",
+      "detailed": [
+        "6588 Dwight Way",
+        "Turlock, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/6588+Dwight+Way+Turlock,+CA+95380,+USA"
+    },
+    "promoter": {
+      "club": "Bell Real Estate Cycling",
+      "raceDirector": "Mitch Boehs",
+      "url": "/clubs/index.php?club=14700"
+    },
+    "status": "Complete",
+    "usacCategory": "Category - D",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-154",
+    "name": "2016 SUBARU Sea Otter Classic - Road",
+    "dates": [
+      "2016-04-14T07:00:00.000Z",
+      "2016-04-17T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Monterey, CA",
+      "detailed": [
+        "Laguna Seca Recreation Area",
+        "Monterey, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/Laguna+Seca+Recreation+Area+Monterey,+CA+93940,+USA"
+    },
+    "promoter": {
+      "club": "Sea Otter Classic, Inc.",
+      "raceDirector": "Jeffery Frost",
+      "url": "/clubs/index.php?club=9870"
+    },
+    "eventWebSite": "http://www.seaotterclassic.com",
+    "status": "Complete",
+    "usacCategory": "Category - D",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-231",
+    "name": "2016 SUBARU Sea Otter Classic- MOUNTAIN BIKE",
+    "dates": [
+      "2016-04-14T07:00:00.000Z",
+      "2016-04-17T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Monterey, CA",
+      "detailed": [
+        "Laguna Seca Recreation Area",
+        "Monterey, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/Laguna+Seca+Recreation+Area+Monterey,+CA+93940,+USA"
+    },
+    "promoter": {
+      "club": "Sea Otter Classic, Inc.",
+      "raceDirector": "Jeffery Frost",
+      "url": "/clubs/index.php?club=9870"
+    },
+    "eventWebSite": "http://www.seaotterclassic.com",
+    "status": "Complete",
+    "usacCategory": "Category - A",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-1063",
+    "name": "Wheelmen Road Race",
+    "dates": [
+      "2016-04-16T07:00:00.000Z",
+      "2016-04-17T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Monterey, CA",
+      "detailed": "Monterey, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+Monterey,+CA+93940,+USA"
+    },
+    "promoter": {
+      "club": "California Polytechnic-San Luis Obispo",
+      "raceDirector": "Adam OCamb",
+      "url": "/clubs/index.php?club=2254"
+    },
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-792",
+    "name": "2016 RED KITE OMNIUM EVENT #4 - RED KITE CRITERIUM (APRIL)",
+    "dates": [
+      "2016-04-17T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Livermore, CA",
+      "detailed": [
+        "448 Comerce Way",
+        "Livermore, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/448+Comerce+Way+Livermore,+CA+94551,+USA"
+    },
+    "promoter": {
+      "club": "Red Kite Racing",
+      "raceDirector": "Steve Rosefield",
+      "url": "/clubs/index.php?club=12690"
+    },
+    "eventWebSite": "http://www.redkiteracing.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-1049",
+    "name": "2016 Nevada City Dirt Classic Series",
+    "dates": [
+      "2016-04-23T07:00:00.000Z",
+      "2016-05-15T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Nevada City, CA",
+      "detailed": "Nevada City, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+Nevada+City,+CA+95959,+USA"
+    },
+    "promoter": {
+      "club": "Youth Bicyclists of Nev. Co. (YBONC) Foundation",
+      "raceDirector": "Jeanette (Jet) Lowe",
+      "url": "/clubs/index.php?club=12615"
+    },
+    "eventWebSite": "http://ybonc.org/events/",
+    "status": "Permitted",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-1194",
+    "name": "2016 Red Kite Omnium Event #5 - Winchester Circuit Race",
+    "dates": [
+      "2016-04-23T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Meadow Vista, CA",
+      "detailed": [
+        "1100 Sugar Pine Road",
+        "Meadow Vista, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/1100+Sugar+Pine+Road+Meadow+Vista,+CA+95722,+USA"
+    },
+    "promoter": {
+      "club": "Red Kite Racing",
+      "raceDirector": "Body Concepts",
+      "url": "/clubs/index.php?club=12690"
+    },
+    "eventWebSite": "http://www.redkiteracing.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-1197",
+    "name": "FFWD Wheels Wednesday Night Track League p/b Vie13",
+    "dates": [
+      "2016-04-27T07:00:00.000Z",
+      "2016-08-24T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "SAN JOSE, CA",
+      "detailed": [
+        "Hellyer Park Velodrome",
+        "SAN JOSE, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/Hellyer+Park+Velodrome+SAN+JOSE,+CA+95111,+USA"
+    },
+    "promoter": {
+      "club": "Performance Cycle Coaching",
+      "raceDirector": "Daryl Hemenway",
+      "url": "/clubs/index.php?club=15066"
+    },
+    "status": "Permitted",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-1050",
+    "name": "Miners Dirt (STXC) Piccolo Fondo for Under 18 yrs. old",
+    "dates": [
+      "2016-04-29T07:00:00.000Z",
+      "2016-05-13T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Grass Valley, CA",
+      "detailed": "Grass Valley, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+Grass+Valley,+CA+95945,+USA"
+    },
+    "promoter": {
+      "club": "Youth Bicyclists of Nev. Co. (YBONC) Foundation",
+      "raceDirector": "Jeanette (Jet) Lowe",
+      "url": "/clubs/index.php?club=12615"
+    },
+    "eventWebSite": "http://ybonc.org/events/miners-dirt-series/",
+    "status": "Permitted",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-870",
+    "name": "Golden State Race Series",
+    "dates": [
+      "2016-04-30T07:00:00.000Z",
+      "2016-05-01T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Rancho Cordova, CA",
+      "detailed": [
+        "11000 Cobblerock Drive",
+        " Rancho Cordova, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/11000+Cobblerock+Drive++Rancho+Cordova,+CA+95670,+USA"
+    },
+    "promoter": {
+      "club": "Rio Strada Racing",
+      "raceDirector": "Scott Gelbke",
+      "url": "/clubs/index.php?club=885"
+    },
+    "eventWebSite": "http://www.riostradaracing.org",
+    "status": "Complete",
+    "usacCategory": "Category - D",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-942",
+    "name": "Sonora Gran Fondo",
+    "dates": [
+      "2016-05-01T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Sonora, CA",
+      "detailed": [
+        "1000 Greenley Road",
+        "Sonora, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/1000+Greenley+Road+Sonora,+CA+95370,+USA"
+    },
+    "promoter": {
+      "club": "Sonora Regional Medical Center",
+      "raceDirector": "Gail Witzlsteiner",
+      "url": "/clubs/index.php?club=16013"
+    },
+    "eventWebSite": "http://sonoramedicalcenter.org",
+    "status": "Permitted",
+    "usacCategory": "Category - F",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-1237",
+    "name": "Salinas Criterium",
+    "dates": [
+      "2016-05-01T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Salinas, California, CA",
+      "detailed": [
+        "Moffet Industrial Park",
+        "Salinas, California, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/Moffet+Industrial+Park+Salinas,+California,+CA+93901,+USA"
+    },
+    "promoter": {
+      "club": "Pedali Alpini, Inc.",
+      "raceDirector": "Eric Petersen",
+      "url": "/clubs/index.php?club=1372"
+    },
+    "eventWebSite": "http://www.PedaliAlpini.org",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-1228",
+    "name": "Berkeley Hills Road Race ",
+    "dates": [
+      "2016-05-07T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Richmond , CA",
+      "detailed": [
+        "1061 Cragmont Ave",
+        "Richmond , CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/1061+Cragmont+Ave+Richmond+,+CA+94563,+USA"
+    },
+    "promoter": {
+      "club": "Berkeley Bicycle Club (BBC)",
+      "raceDirector": "Paul  Hainsworth",
+      "url": "/clubs/index.php?club=229"
+    },
+    "eventWebSite": "http://Berkeleybike.org ",
+    "status": "Complete",
+    "usacCategory": "Category - D",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-1729",
+    "name": "Regalado Road Race",
+    "dates": [
+      "2016-05-08T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Oakdale, CA",
+      "detailed": [
+        "12000 State  Hwy 120 (at Wamble Rd)",
+        "Oakdale, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/12000+State++Hwy+120+(at+Wamble+Rd)+Oakdale,+CA+95361,+USA"
+    },
+    "promoter": {
+      "club": "Golden Chain Cyclists",
+      "raceDirector": "Robert Leibold",
+      "url": "/clubs/index.php?club=2568"
+    },
+    "eventWebSite": "http://www.velopromo.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-793",
+    "name": "2016 RED KITE OMNIUM EVENT #6 - RED KITE CRITERIUM (MAY)",
+    "dates": [
+      "2016-05-15T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Livermore, CA",
+      "detailed": [
+        "448 Comerce Way",
+        "Livermore, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/448+Comerce+Way+Livermore,+CA+94551,+USA"
+    },
+    "promoter": {
+      "club": "Red Kite Racing",
+      "raceDirector": "Steve Rosefield",
+      "url": "/clubs/index.php?club=12690"
+    },
+    "eventWebSite": "http://www.redkiteracing.com",
+    "status": "Permitted",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=20&"
+  },
+  {
+    "permit": "2016-173",
+    "name": "Honor Ride Sacramento",
+    "dates": [
+      "2016-05-21T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Sacramento, CA",
+      "detailed": [
+        "801 Capitol Mall",
+        "Sacramento, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/801+Capitol+Mall+Sacramento,+CA+95814,+USA"
+    },
+    "promoter": {
+      "club": "Ride 2 Recovery",
+      "raceDirector": "Jack Shepard",
+      "url": "/clubs/index.php?club=13438"
+    },
+    "eventWebSite": "http://r2r.convio.net/site/PageNavigator/honor_ride_landing.html",
+    "status": "Permitted",
+    "usacCategory": "Category - F",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=40&"
+  },
+  {
+    "permit": "2016-1849",
+    "name": "Death Valley Road Omnium",
+    "dates": [
+      "2016-05-28T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Big Pine, CA",
+      "detailed": "Big Pine, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+Big+Pine,+CA+93513,+USA"
+    },
+    "promoter": {
+      "club": "AntiGravity Cycling",
+      "raceDirector": "Steven Barnes",
+      "url": "/clubs/index.php?club=12627"
+    },
+    "status": "Permitted",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=40&"
+  },
+  {
+    "permit": "2016-1956",
+    "name": "SwitchBackRelayRace",
+    "dates": [
+      "2016-05-28T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Santa Cruz, CA",
+      "detailed": [
+        "De la Veaga Park @1238 Branciforte Drive",
+        "Santa Cruz, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/De+la+Veaga+Park+@1238+Branciforte+Drive+Santa+Cruz,+CA+95060,+USA"
+    },
+    "promoter": {
+      "club": "USA Cycling Race Director",
+      "raceDirector": "Karen Ehlers",
+      "url": "/clubs/index.php?club=14196"
+    },
+    "eventWebSite": "http://Karenehlers.wix.com/mysite",
+    "status": "Permitted",
+    "usacCategory": "Category - C",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=40&"
+  },
+  {
+    "permit": "2016-1232",
+    "name": "Ridin' High at the Ranch",
+    "dates": [
+      "2016-05-28T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Susanville, CA",
+      "detailed": [
+        "Meadow View Drive",
+        "Susanville, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/Meadow+View+Drive+Susanville,+CA+96130,+USA"
+    },
+    "promoter": {
+      "club": "USA Cycling Race Director",
+      "raceDirector": "Kevin Joell",
+      "url": "/clubs/index.php?club=14196"
+    },
+    "eventWebSite": "http://www.sabadirtriders.com/ridin--high.html",
+    "status": "Permitted",
+    "usacCategory": "Category - D",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=40&"
+  },
+  {
+    "permit": "2016-1587",
+    "name": "OTF Omnium",
+    "dates": [
+      "2016-05-28T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Fresnp, CA",
+      "detailed": "Fresnp, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+Fresnp,+CA+93626,+USA"
+    },
+    "promoter": {
+      "club": "Off The Front",
+      "raceDirector": "Steven Grusis",
+      "url": "/clubs/index.php?club=15110"
+    },
+    "eventWebSite": "http://otfrace.com/",
+    "status": "Permitted",
+    "usacCategory": "Category - D",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=40&"
+  },
+  {
+    "permit": "2016-1750",
+    "name": "Folsom Classic Criterium",
+    "dates": [
+      "2016-05-28T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Folsom, CA",
+      "detailed": [
+        "181 Blue Ravine Road",
+        "Folsom, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/181+Blue+Ravine+Road+Folsom,+CA+95630,+USA"
+    },
+    "promoter": {
+      "club": "Sierra Nevada/Reliable Racing p/b Kinetic Cycles",
+      "raceDirector": "Sierra Nevada/Reliable Racing p/b Kinetic Cycles",
+      "url": "/clubs/index.php?club=9895"
+    },
+    "status": "Permitted",
+    "usacCategory": "Category - D",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=40&"
+  },
+  {
+    "permit": "2016-1679",
+    "name": "Budweiser Sequoia Cycling Classic",
+    "dates": [
+      "2016-05-29T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Visalia, CA",
+      "detailed": [
+        "707 W Acequia Ave",
+        "Visalia, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/707+W+Acequia+Ave+Visalia,+CA+93291,+USA"
+    },
+    "promoter": {
+      "club": "Craft Factory Cycling Team",
+      "raceDirector": "Craft Factory Cycling Team",
+      "url": "/clubs/index.php?club=16143"
+    },
+    "eventWebSite": "http://sequoiaclassic.com ",
+    "status": "Permitted",
+    "usacCategory": "Category - C",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=40&"
+  },
+  {
+    "permit": "2016-251",
+    "name": "Memorial Day Criterium",
+    "dates": [
+      "2016-05-30T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Morgan Hill, CA",
+      "detailed": "Morgan Hill, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+Morgan+Hill,+CA+95037,+USA"
+    },
+    "promoter": {
+      "club": "San Jose Bicycle Club",
+      "raceDirector": "Todd Munk",
+      "url": "/clubs/index.php?club=249"
+    },
+    "eventWebSite": "http://www.memorialdaycriterium.com/",
+    "status": "Permitted",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=40&"
+  },
+  {
+    "permit": "2016-755",
+    "name": "Pescadero Coastal Classic Road Race",
+    "dates": [
+      "2016-06-04T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Pescadero, CA",
+      "detailed": [
+        "350 Butano Cut-Off",
+        "Pescadero, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/350+Butano+Cut-Off+Pescadero,+CA+94060,+USA"
+    },
+    "promoter": {
+      "club": "Alto Velo Racing Club",
+      "raceDirector": "John Pliska",
+      "url": "/clubs/index.php?club=3178"
+    },
+    "eventWebSite": "http://www.altovelo.org/pescadero",
+    "status": "Permitted",
+    "usacCategory": "Category - D",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=40&"
+  },
+  {
+    "permit": "2016-1145",
+    "name": "Dash for Cash",
+    "dates": [
+      "2016-06-04T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Pleasanton, CA",
+      "detailed": "Pleasanton, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+Pleasanton,+CA+94566,+USA"
+    },
+    "promoter": {
+      "club": "ChristianCycling",
+      "raceDirector": "Steve Chew",
+      "url": "/clubs/index.php?club=2226"
+    },
+    "eventWebSite": "http://www.norcalchristiancycling.com",
+    "status": "Permitted",
+    "usacCategory": "Category - D",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=40&"
+  },
+  {
+    "permit": "2016-1593",
+    "name": "The Rockhopper Classic",
+    "dates": [
+      "2016-06-05T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Vacaville, CA",
+      "detailed": [
+        "Lagoon Valley Park",
+        "Vacaville, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/Lagoon+Valley+Park+Vacaville,+CA+95688,+USA"
+    },
+    "promoter": {
+      "club": "Monticello Cycling Club",
+      "raceDirector": "Mike Wilson",
+      "url": "/clubs/index.php?club=2253"
+    },
+    "eventWebSite": "http://www.monticellocycling.com",
+    "status": "Permitted",
+    "usacCategory": "Category - C",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=40&"
+  },
+  {
+    "permit": "2016-1695",
+    "name": "Lodi Cycle Fest",
+    "dates": [
+      "2016-06-05T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Lodi, CA",
+      "detailed": [
+        "203 S School St",
+        "Lodi, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/203+S+School+St+Lodi,+CA+95240,+USA"
+    },
+    "promoter": {
+      "club": "Delta Velo",
+      "raceDirector": "Damian Gonzalez",
+      "url": "/clubs/index.php?club=253"
+    },
+    "eventWebSite": "http://www.deltavelo.com/lodi_cyclefest/",
+    "status": "Permitted",
+    "usacCategory": "Category - D",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=40&"
+  },
+  {
+    "permit": "2016-2032",
+    "name": "NCNCA Junior Track Championship",
+    "dates": [
+      "2016-06-11T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "San Jose, CA",
+      "detailed": [
+        "985 Hellyer Ave",
+        "San Jose, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/985+Hellyer+Ave+San+Jose,+CA+95111,+USA"
+    },
+    "promoter": {
+      "club": "San Jose Bicycle Club",
+      "raceDirector": "Andrew Lanier",
+      "url": "/clubs/index.php?club=249"
+    },
+    "eventWebSite": "http://www.ridethetrack.com",
+    "status": "Permitted",
+    "usacCategory": "Category - D",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=40&"
+  },
+  {
+    "permit": "2016-2007",
+    "name": "2016 RED KITE OMNIUM EVENT #7 - TRI-VALLEY CRITERIUM CLASSIC",
+    "dates": [
+      "2016-06-18T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Pleasanton, CA",
+      "detailed": [
+        "5000 Hopyard Road",
+        "Pleasanton, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/5000+Hopyard+Road+Pleasanton,+CA+94568,+USA"
+    },
+    "promoter": {
+      "club": "Red Kite Racing",
+      "raceDirector": "Steve Rosefield",
+      "url": "/clubs/index.php?club=12690"
+    },
+    "eventWebSite": "http://www.redkiteracing.com",
+    "status": "Permitted",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=40&"
+  },
+  {
+    "permit": "2016-2139",
+    "name": "56th Annual Nevada City Bicycle Classic",
+    "dates": [
+      "2016-06-19T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Nevada City, CA",
+      "detailed": [
+        "503 Sacramento St.",
+        "Nevada City, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/503+Sacramento+St.+Nevada+City,+CA+95959,+USA"
+    },
+    "promoter": {
+      "club": "ol’ Republic / SERT ",
+      "raceDirector": "ol’ Republic / SERT ",
+      "url": "/clubs/index.php?club=8943"
+    },
+    "status": "Pending",
+    "usacCategory": "Category - A",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=40&"
+  },
+  {
+    "permit": "2016-730",
+    "name": "Mount Diablo Hill Climb Time Trial",
+    "dates": [
+      "2016-06-25T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Walnut Creek, CA",
+      "detailed": [
+        "100 N. Gate Road",
+        "Walnut Creek, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/100+N.+Gate+Road+Walnut+Creek,+CA+94598,+USA"
+    },
+    "promoter": {
+      "club": "Contra Costa Cycling Club",
+      "raceDirector": "Rick Lawton",
+      "url": "/clubs/index.php?club=10353"
+    },
+    "status": "Permitted",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=40&"
+  },
+  {
+    "permit": "2016-1991",
+    "name": "The Parnassus Investments Burlingame Criterium",
+    "dates": [
+      "2016-06-26T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Burlingame , CA",
+      "detailed": [
+        "501 Primrose Road",
+        "Burlingame , CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/501+Primrose+Road+Burlingame+,+CA+94010,+USA"
+    },
+    "promoter": {
+      "club": "Peninsula Velo Cycling Club",
+      "raceDirector": "Tommy Evans",
+      "url": "/clubs/index.php?club=327"
+    },
+    "eventWebSite": "http://www.burlingamecriterium.com",
+    "status": "Permitted",
+    "usacCategory": "Category - D",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=40&"
+  },
+  {
+    "permit": "2016-1491",
+    "name": "King City Road Race",
+    "dates": [
+      "2016-06-26T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "King City, CA",
+      "detailed": "King City, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+King+City,+CA+93930,+USA"
+    },
+    "promoter": {
+      "club": "Pedali Alpini, Inc.",
+      "raceDirector": "Eric Petersen",
+      "url": "/clubs/index.php?club=1372"
+    },
+    "status": "Cancelled",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=40&"
+  },
+  {
+    "permit": "2016-1990",
+    "name": "Ryan's Ride",
+    "dates": [
+      "2016-06-26T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Burlingame, CA",
+      "detailed": [
+        "501 Primrose Ave",
+        "Burlingame, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/501+Primrose+Ave+Burlingame,+CA+94010,+USA"
+    },
+    "promoter": {
+      "club": "Peninsula Velo Cycling Club",
+      "raceDirector": "Peninsula Velo Cycling Club",
+      "url": "/clubs/index.php?club=327"
+    },
+    "eventWebSite": "http://www.ryansride.org/",
+    "status": "Permitted",
+    "usacCategory": "Category - F",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=40&"
+  },
+  {
+    "permit": "2016-2123",
+    "name": "RED KITE OMNIUM EVENT #9 - RED KITE CRITERIUM (JULY)",
+    "dates": [
+      "2016-07-10T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Livermore, CA",
+      "detailed": [
+        "448 Comerce Way",
+        "Livermore, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/448+Comerce+Way+Livermore,+CA+94551,+USA"
+    },
+    "promoter": {
+      "club": "Red Kite Racing",
+      "raceDirector": "Northern California/Nevada Cycling Association (NCNCA)",
+      "url": "/clubs/index.php?club=12690"
+    },
+    "status": "Pending",
+    "usacCategory": "Category - E",
+    "year": 2016,
+    "state": "CN",
+    "discipline": "MTB",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2016&state=CN&race=MTB&rrfilter=rr&noncomp=0&cnt=40&"
+  }
+]

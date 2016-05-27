@@ -1,0 +1,5506 @@
+[
+  {
+    "licenceNo": 2,
+    "name": "Daniel Shuman",
+    "age": "43",
+    "raceCount": 9,
+    "address": "Millersville, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=2"
+  },
+  {
+    "licenceNo": 4,
+    "name": "Chad Matteson",
+    "age": "60",
+    "raceCount": 0,
+    "address": "Fort Collins, CO",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=4"
+  },
+  {
+    "licenceNo": 5,
+    "name": "Kenan Alexander",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Fort Collins, CO",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=5"
+  },
+  {
+    "licenceNo": 6,
+    "name": "Jimmy Kopter",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Baltimore, MD",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=6"
+  },
+  {
+    "licenceNo": 7,
+    "name": "Chris Von Waning",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Oswego, IL",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=7"
+  },
+  {
+    "licenceNo": 8,
+    "name": "P H",
+    "raceCount": 0,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=8"
+  },
+  {
+    "licenceNo": 9,
+    "name": "P H",
+    "raceCount": 0,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=9"
+  },
+  {
+    "licenceNo": 10,
+    "name": "Jonathan Smith",
+    "age": "56",
+    "raceCount": 2,
+    "address": "Fort Collins, CO",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=10"
+  },
+  {
+    "licenceNo": 11,
+    "name": "UCI Official",
+    "raceCount": 0,
+    "address": "USA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=11"
+  },
+  {
+    "licenceNo": 12,
+    "name": "Kevin Halick",
+    "age": "56",
+    "raceCount": 1,
+    "address": "Sunnyvale, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=12"
+  },
+  {
+    "licenceNo": 13,
+    "name": "Wilson Clayton",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Lakewood, CO",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=13"
+  },
+  {
+    "licenceNo": 14,
+    "name": "Jamas Stiber",
+    "age": "43",
+    "raceCount": 69,
+    "address": "Vail, CO",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=14"
+  },
+  {
+    "licenceNo": 15,
+    "name": "Radek Panz",
+    "age": "56",
+    "raceCount": 2,
+    "address": "Boulder, CO",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=15"
+  },
+  {
+    "licenceNo": 16,
+    "name": "Stephen Neubauer",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Nacogdoches, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=16"
+  },
+  {
+    "licenceNo": 18,
+    "name": "Jennifer Duncaa",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Annapolis, MD",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=18"
+  },
+  {
+    "licenceNo": 19,
+    "name": "P H",
+    "raceCount": 0,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=19"
+  },
+  {
+    "licenceNo": 20,
+    "name": "Slater Crosby",
+    "age": "51",
+    "raceCount": 0,
+    "address": "Minneapolis, MN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=20"
+  },
+  {
+    "licenceNo": 21,
+    "name": "Gary Gomulinski",
+    "age": "51",
+    "raceCount": 0,
+    "address": "Lexington, KY",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=21"
+  },
+  {
+    "licenceNo": 22,
+    "name": "Eric Peterson",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Inver Grove Heights, MN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=22"
+  },
+  {
+    "licenceNo": 23,
+    "name": "P H",
+    "raceCount": 0,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=23"
+  },
+  {
+    "licenceNo": 24,
+    "name": "Terrance Yee",
+    "age": "49",
+    "raceCount": 1,
+    "address": "Oceanside, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=24"
+  },
+  {
+    "licenceNo": 25,
+    "name": "P H",
+    "raceCount": 0,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=25"
+  },
+  {
+    "licenceNo": 26,
+    "name": "Carol Simmons",
+    "age": "69",
+    "raceCount": 2,
+    "address": "Flowery Branch, GA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=26"
+  },
+  {
+    "licenceNo": 27,
+    "name": "P H",
+    "raceCount": 0,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=27"
+  },
+  {
+    "licenceNo": 28,
+    "name": "Susan Bookspan",
+    "age": "73",
+    "raceCount": 1,
+    "address": "Phoenix, AZ",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=28"
+  },
+  {
+    "licenceNo": 29,
+    "name": "Tim Nicholson",
+    "age": "56",
+    "raceCount": 1,
+    "address": "Palo Alto, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=29"
+  },
+  {
+    "licenceNo": 30,
+    "name": "P H",
+    "raceCount": 0,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=30"
+  },
+  {
+    "licenceNo": 31,
+    "name": "Doug Berry",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Texas City, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=31"
+  },
+  {
+    "licenceNo": 32,
+    "name": "Vikki McKane",
+    "age": "46",
+    "raceCount": 0,
+    "address": "Albany, NY",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=32"
+  },
+  {
+    "licenceNo": 34,
+    "name": "Yannick LeBoulch",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Reading, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=34"
+  },
+  {
+    "licenceNo": 35,
+    "name": "David  Helfrich",
+    "age": "59",
+    "raceCount": 6,
+    "address": "Woodside, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=35"
+  },
+  {
+    "licenceNo": 36,
+    "name": "Timothy Rapp",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Reston, VA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=36"
+  },
+  {
+    "licenceNo": 37,
+    "name": "Jason Selong",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Blacksburg, VA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=37"
+  },
+  {
+    "licenceNo": 38,
+    "name": "Stanley Bean",
+    "age": "56",
+    "raceCount": 3,
+    "address": "Springfield, VA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=38"
+  },
+  {
+    "licenceNo": 39,
+    "name": "P H",
+    "raceCount": 0,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=39"
+  },
+  {
+    "licenceNo": 40,
+    "name": "Paul Smith",
+    "age": "42",
+    "raceCount": 0,
+    "address": "Millersville, MD",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=40"
+  },
+  {
+    "licenceNo": 41,
+    "name": "Jeramiah Collins",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Blacksburg, VA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=41"
+  },
+  {
+    "licenceNo": 42,
+    "name": "Brian Weeks",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Fredericksburg, VA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=42"
+  },
+  {
+    "licenceNo": 43,
+    "name": "Paul \"Ike\" Eichenlaub",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Erie, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=43"
+  },
+  {
+    "licenceNo": 44,
+    "name": "Eric Sanborn",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Contoocook, NH",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=44"
+  },
+  {
+    "licenceNo": 45,
+    "name": "Tony Azola",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Blacksburg, VA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=45"
+  },
+  {
+    "licenceNo": 46,
+    "name": "P H",
+    "raceCount": 0,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=46"
+  },
+  {
+    "licenceNo": 47,
+    "name": "Lester Oberg",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Portsmouth, VA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=47"
+  },
+  {
+    "licenceNo": 48,
+    "name": "P H",
+    "raceCount": 0,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=48"
+  },
+  {
+    "licenceNo": 49,
+    "name": "Daniel Opdyke",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Schenectady, NY",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=49"
+  },
+  {
+    "licenceNo": 50,
+    "name": "Nicholas Larson",
+    "age": "36",
+    "raceCount": 1,
+    "address": "Wasilla, AK",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=50"
+  },
+  {
+    "licenceNo": 51,
+    "name": "P H",
+    "raceCount": 0,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=51"
+  },
+  {
+    "licenceNo": 52,
+    "name": "Nick Bosco",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Miami, FL",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=52"
+  },
+  {
+    "licenceNo": 53,
+    "name": "Darren Cor",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Smyrna, GA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=53"
+  },
+  {
+    "licenceNo": 54,
+    "name": "Sam Cox",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Johnson City, TN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=54"
+  },
+  {
+    "licenceNo": 55,
+    "name": "Sandy Draper",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Athens, GA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=55"
+  },
+  {
+    "licenceNo": 56,
+    "name": "Robby Mullins",
+    "age": "42",
+    "raceCount": 0,
+    "address": "Lithonia, GA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=56"
+  },
+  {
+    "licenceNo": 57,
+    "name": "Brad Jones",
+    "age": "44",
+    "raceCount": 1,
+    "address": "Northridge, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=57"
+  },
+  {
+    "licenceNo": 58,
+    "name": "Elizabeth Ainceticeno",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Atlanta, GA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=58"
+  },
+  {
+    "licenceNo": 59,
+    "name": "Kyle Kuykendall",
+    "age": "46",
+    "raceCount": 0,
+    "address": "Athens, GA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=59"
+  },
+  {
+    "licenceNo": 60,
+    "name": "Scott Edge",
+    "age": "46",
+    "raceCount": 137,
+    "address": "Greenville, SC",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=60"
+  },
+  {
+    "licenceNo": 61,
+    "name": "Benjamin Eicholtz",
+    "age": "43",
+    "raceCount": 69,
+    "address": "Aliso Viejo, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=61"
+  },
+  {
+    "licenceNo": 62,
+    "name": "Gerald Walker",
+    "age": "60",
+    "raceCount": 1,
+    "address": "Lithia Springs, GA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=62"
+  },
+  {
+    "licenceNo": 63,
+    "name": "William Landphier",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Atlanta, GA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=63"
+  },
+  {
+    "licenceNo": 64,
+    "name": "P H",
+    "raceCount": 0,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=64"
+  },
+  {
+    "licenceNo": 65,
+    "name": "P H",
+    "raceCount": 0,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=65"
+  },
+  {
+    "licenceNo": 66,
+    "name": "Richie Hunt",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Atlanta, GA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=66"
+  },
+  {
+    "licenceNo": 67,
+    "name": "P H",
+    "raceCount": 0,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=67"
+  },
+  {
+    "licenceNo": 68,
+    "name": "P H",
+    "raceCount": 0,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=68"
+  },
+  {
+    "licenceNo": 69,
+    "name": "Dustin Haley",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Johnson City, TN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=69"
+  },
+  {
+    "licenceNo": 70,
+    "name": "Chris Farish",
+    "age": "46",
+    "raceCount": 0,
+    "address": "Waco, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=70"
+  },
+  {
+    "licenceNo": 71,
+    "name": "Roger Curtis",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Ruston, LA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=71"
+  },
+  {
+    "licenceNo": 72,
+    "name": "Justin Price",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Ruston, LA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=72"
+  },
+  {
+    "licenceNo": 73,
+    "name": "P H",
+    "raceCount": 0,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=73"
+  },
+  {
+    "licenceNo": 74,
+    "name": "Patrick Marr",
+    "age": "47",
+    "raceCount": 120,
+    "address": "Shreveport, LA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=74"
+  },
+  {
+    "licenceNo": 75,
+    "name": "Nancy Weitzel",
+    "age": "52",
+    "raceCount": 0,
+    "address": "Tallahassee, FL",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=75"
+  },
+  {
+    "licenceNo": 76,
+    "name": "Scott Todd",
+    "age": "45",
+    "raceCount": 3,
+    "address": "Wichita Falls, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=76"
+  },
+  {
+    "licenceNo": 77,
+    "name": "Robert Spangle",
+    "age": "49",
+    "raceCount": 0,
+    "address": "Wichita Falls, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=77"
+  },
+  {
+    "licenceNo": 78,
+    "name": "Shannon Peckham",
+    "age": "47",
+    "raceCount": 0,
+    "address": "Wichita Falls, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=78"
+  },
+  {
+    "licenceNo": 79,
+    "name": "Ron Lewis",
+    "age": "47",
+    "raceCount": 0,
+    "address": "Wichita Falls, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=79"
+  },
+  {
+    "licenceNo": 80,
+    "name": "Ron Hays",
+    "age": "57",
+    "raceCount": 0,
+    "address": "Wichita Falls, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=80"
+  },
+  {
+    "licenceNo": 81,
+    "name": "Chris Amaya",
+    "age": "41",
+    "raceCount": 1,
+    "address": "Dallas, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=81"
+  },
+  {
+    "licenceNo": 82,
+    "name": "Robbie Brown",
+    "age": "45",
+    "raceCount": 0,
+    "address": "Wichita Falls, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=82"
+  },
+  {
+    "licenceNo": 83,
+    "name": "Crystal Butler",
+    "age": "47",
+    "raceCount": 1,
+    "address": "Wichita Falls, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=83"
+  },
+  {
+    "licenceNo": 84,
+    "name": "Travis Lawson",
+    "age": "45",
+    "raceCount": 0,
+    "address": "Wichita Falls, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=84"
+  },
+  {
+    "licenceNo": 85,
+    "name": "P H",
+    "raceCount": 0,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=85"
+  },
+  {
+    "licenceNo": 86,
+    "name": "Stanley Peterson",
+    "age": "45",
+    "raceCount": 0,
+    "address": "Plano, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=86"
+  },
+  {
+    "licenceNo": 87,
+    "name": "P H",
+    "raceCount": 0,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=87"
+  },
+  {
+    "licenceNo": 88,
+    "name": "Adam Spikes",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Wichita Falls, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=88"
+  },
+  {
+    "licenceNo": 89,
+    "name": "P H",
+    "raceCount": 0,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=89"
+  },
+  {
+    "licenceNo": 90,
+    "name": "Brian Knowles",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Yukon, OK",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=90"
+  },
+  {
+    "licenceNo": 91,
+    "name": "Philip Bradley",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Alexandria, VA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=91"
+  },
+  {
+    "licenceNo": 92,
+    "name": "P H",
+    "raceCount": 0,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=92"
+  },
+  {
+    "licenceNo": 93,
+    "name": "David Kuhlker",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Dallas, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=93"
+  },
+  {
+    "licenceNo": 94,
+    "name": "Mathew Eckstein",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Smithtown, NY",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=94"
+  },
+  {
+    "licenceNo": 95,
+    "name": "Adam Czelusta",
+    "age": "56",
+    "raceCount": 1,
+    "address": "Houston, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=95"
+  },
+  {
+    "licenceNo": 96,
+    "name": "Amy Scurria",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Houston, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=96"
+  },
+  {
+    "licenceNo": 97,
+    "name": "P H",
+    "raceCount": 0,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=97"
+  },
+  {
+    "licenceNo": 98,
+    "name": "Jennifer Kelso",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Houston, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=98"
+  },
+  {
+    "licenceNo": 99,
+    "name": "Jonathan Eunn",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Decatur, GA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=99"
+  },
+  {
+    "licenceNo": 100,
+    "name": "Owen Faris",
+    "age": "41",
+    "raceCount": 0,
+    "address": "Houston, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=100"
+  },
+  {
+    "licenceNo": 101,
+    "name": "Marc Franz",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Berryville, AR",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=101"
+  },
+  {
+    "licenceNo": 102,
+    "name": "Thomas Sullivan",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Midland, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=102"
+  },
+  {
+    "licenceNo": 103,
+    "name": "Curtis Huynh",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Houston, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=103"
+  },
+  {
+    "licenceNo": 104,
+    "name": "Victoria Kohl",
+    "age": "43",
+    "raceCount": 0,
+    "address": "San Marcos, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=104"
+  },
+  {
+    "licenceNo": 105,
+    "name": "Nicholas Moomaw",
+    "age": "43",
+    "raceCount": 0,
+    "address": "San Marcos, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=105"
+  },
+  {
+    "licenceNo": 106,
+    "name": "Jeremy Tracy",
+    "age": "42",
+    "raceCount": 0,
+    "address": "Pampa, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=106"
+  },
+  {
+    "licenceNo": 107,
+    "name": "Tre Walker",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Katy, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=107"
+  },
+  {
+    "licenceNo": 108,
+    "name": "Austin Kingsbery",
+    "age": "44",
+    "raceCount": 1,
+    "address": "San Marcos, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=108"
+  },
+  {
+    "licenceNo": 109,
+    "name": "Jeffrey Hopewell",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Arlington, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=109"
+  },
+  {
+    "licenceNo": 110,
+    "name": "Christine White",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Meridian, ID",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=110"
+  },
+  {
+    "licenceNo": 111,
+    "name": "Joe Poirier",
+    "age": "54",
+    "raceCount": 1,
+    "address": "North Richland Hills, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=111"
+  },
+  {
+    "licenceNo": 112,
+    "name": "Rey Trevino",
+    "age": "48",
+    "raceCount": 0,
+    "address": "Schenectady, NY",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=112"
+  },
+  {
+    "licenceNo": 113,
+    "name": "Weston McWhorter",
+    "age": "44",
+    "raceCount": 40,
+    "address": "New Orleans, LA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=113"
+  },
+  {
+    "licenceNo": 114,
+    "name": "P H",
+    "raceCount": 0,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=114"
+  },
+  {
+    "licenceNo": 115,
+    "name": "P H",
+    "raceCount": 0,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=115"
+  },
+  {
+    "licenceNo": 116,
+    "name": "P H",
+    "raceCount": 0,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=116"
+  },
+  {
+    "licenceNo": 117,
+    "name": "Edgar Nunnelly",
+    "age": "44",
+    "raceCount": 138,
+    "address": "Houston, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=117"
+  },
+  {
+    "licenceNo": 118,
+    "name": "P H",
+    "raceCount": 0,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=118"
+  },
+  {
+    "licenceNo": 119,
+    "name": "P H",
+    "raceCount": 0,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=119"
+  },
+  {
+    "licenceNo": 120,
+    "name": "P H",
+    "raceCount": 0,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=120"
+  },
+  {
+    "licenceNo": 121,
+    "name": "P H",
+    "raceCount": 0,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=121"
+  },
+  {
+    "licenceNo": 122,
+    "name": "Rodney Bowden",
+    "age": "50",
+    "raceCount": 1,
+    "address": "Nacogdoches, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=122"
+  },
+  {
+    "licenceNo": 123,
+    "name": "Diego Jimenez",
+    "age": "44",
+    "raceCount": 91,
+    "address": "Flower Mound, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=123"
+  },
+  {
+    "licenceNo": 124,
+    "name": "Marc Poteet",
+    "age": "48",
+    "raceCount": 0,
+    "address": "Arlington, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=124"
+  },
+  {
+    "licenceNo": 125,
+    "name": "Michael Stout",
+    "age": "44",
+    "raceCount": 0,
+    "address": "De Soto, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=125"
+  },
+  {
+    "licenceNo": 126,
+    "name": "P H",
+    "raceCount": 3,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=126"
+  },
+  {
+    "licenceNo": 128,
+    "name": "Brad Standridge",
+    "age": "48",
+    "raceCount": 0,
+    "address": "Fort Worth, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=128"
+  },
+  {
+    "licenceNo": 129,
+    "name": "Mark Wright",
+    "age": "44",
+    "raceCount": 1,
+    "address": "San Antonio, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=129"
+  },
+  {
+    "licenceNo": 130,
+    "name": "Laurence Boyd",
+    "age": "55",
+    "raceCount": 0,
+    "address": "Bryan, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=130"
+  },
+  {
+    "licenceNo": 131,
+    "name": "Ed Leuitas",
+    "age": "51",
+    "raceCount": 0,
+    "address": "Bryan, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=131"
+  },
+  {
+    "licenceNo": 132,
+    "name": "Mack Williams",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Bryan, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=132"
+  },
+  {
+    "licenceNo": 133,
+    "name": "Ryan Crissey",
+    "age": "44",
+    "raceCount": 88,
+    "address": "Garland, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=133"
+  },
+  {
+    "licenceNo": 134,
+    "name": "Luis Gabza",
+    "age": "45",
+    "raceCount": 0,
+    "address": "San Antonio, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=134"
+  },
+  {
+    "licenceNo": 135,
+    "name": "Scott Meadows",
+    "age": "56",
+    "raceCount": 0,
+    "address": "College Station, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=135"
+  },
+  {
+    "licenceNo": 136,
+    "name": "P H",
+    "raceCount": 0,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=136"
+  },
+  {
+    "licenceNo": 137,
+    "name": "John Noss",
+    "age": "40",
+    "raceCount": 0,
+    "address": "Del Rio, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=137"
+  },
+  {
+    "licenceNo": 138,
+    "name": "Adam Kristoff",
+    "age": "45",
+    "raceCount": 0,
+    "address": "Houston, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=138"
+  },
+  {
+    "licenceNo": 139,
+    "name": "Lori Stephens",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Midland, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=139"
+  },
+  {
+    "licenceNo": 140,
+    "name": "Isaac Chung",
+    "age": "52",
+    "raceCount": 0,
+    "address": "College Station, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=140"
+  },
+  {
+    "licenceNo": 141,
+    "name": "Mark Minnigerode",
+    "age": "49",
+    "raceCount": 0,
+    "address": "Kansas City, MO",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=141"
+  },
+  {
+    "licenceNo": 142,
+    "name": "Ayman Farahat",
+    "age": "52",
+    "raceCount": 0,
+    "address": "Bryan, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=142"
+  },
+  {
+    "licenceNo": 143,
+    "name": "Kenneth Ford",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Richardson, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=143"
+  },
+  {
+    "licenceNo": 144,
+    "name": "Earl Zipp",
+    "age": "44",
+    "raceCount": 0,
+    "address": "El Paso, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=144"
+  },
+  {
+    "licenceNo": 145,
+    "name": "David Ross",
+    "age": "41",
+    "raceCount": 0,
+    "address": "Houston, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=145"
+  },
+  {
+    "licenceNo": 146,
+    "name": "Gage Galinger",
+    "age": "42",
+    "raceCount": 0,
+    "address": "College Station, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=146"
+  },
+  {
+    "licenceNo": 147,
+    "name": "Diana Soliz",
+    "age": "41",
+    "raceCount": 0,
+    "address": "San Marcos, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=147"
+  },
+  {
+    "licenceNo": 148,
+    "name": "P H",
+    "raceCount": 0,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=148"
+  },
+  {
+    "licenceNo": 149,
+    "name": "Chris Coulter",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Bryan, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=149"
+  },
+  {
+    "licenceNo": 150,
+    "name": "Sean Graves",
+    "age": "51",
+    "raceCount": 0,
+    "address": "Charlottesville, VA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=150"
+  },
+  {
+    "licenceNo": 151,
+    "name": "Katherine Larson",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Houston, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=151"
+  },
+  {
+    "licenceNo": 152,
+    "name": "Clark Davidson",
+    "age": "42",
+    "raceCount": 29,
+    "address": "Austin, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=152"
+  },
+  {
+    "licenceNo": 153,
+    "name": "Michael McBrierty",
+    "age": "42",
+    "raceCount": 0,
+    "address": "Falls Church, VA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=153"
+  },
+  {
+    "licenceNo": 154,
+    "name": "Ricardo Yepez",
+    "age": "48",
+    "raceCount": 1,
+    "address": "Bryan, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=154"
+  },
+  {
+    "licenceNo": 155,
+    "name": "Tim Davies",
+    "age": "45",
+    "raceCount": 0,
+    "address": "League City, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=155"
+  },
+  {
+    "licenceNo": 156,
+    "name": "P H",
+    "raceCount": 1,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=156"
+  },
+  {
+    "licenceNo": 157,
+    "name": "Brittany McDonald",
+    "age": "42",
+    "raceCount": 0,
+    "address": "Fort Worth, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=157"
+  },
+  {
+    "licenceNo": 158,
+    "name": "Rachel Barnes",
+    "age": "41",
+    "raceCount": 0,
+    "address": "College Station, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=158"
+  },
+  {
+    "licenceNo": 159,
+    "name": "Jeannette Read",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Plano, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=159"
+  },
+  {
+    "licenceNo": 160,
+    "name": "Cory McKee",
+    "age": "42",
+    "raceCount": 0,
+    "address": "College Station, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=160"
+  },
+  {
+    "licenceNo": 161,
+    "name": "Alan Dahlberg",
+    "age": "47",
+    "raceCount": 0,
+    "address": "College Station, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=161"
+  },
+  {
+    "licenceNo": 162,
+    "name": "Donald Brenner",
+    "age": "46",
+    "raceCount": 1,
+    "address": "Austin, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=162"
+  },
+  {
+    "licenceNo": 163,
+    "name": "Neul Moun",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Burleson, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=163"
+  },
+  {
+    "licenceNo": 164,
+    "name": "Maurice Nunez",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Richardson, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=164"
+  },
+  {
+    "licenceNo": 165,
+    "name": "Jay Ganaden",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Dallas, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=165"
+  },
+  {
+    "licenceNo": 166,
+    "name": "P H",
+    "raceCount": 0,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=166"
+  },
+  {
+    "licenceNo": 167,
+    "name": "Patrick Mailloyx",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Manhasset, NY",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=167"
+  },
+  {
+    "licenceNo": 168,
+    "name": "Maura Widicue",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Austin, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=168"
+  },
+  {
+    "licenceNo": 169,
+    "name": "Bryan Carbon",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Lewisville, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=169"
+  },
+  {
+    "licenceNo": 170,
+    "name": "Michael Dooley",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Portland, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=170"
+  },
+  {
+    "licenceNo": 171,
+    "name": "Sean McMillan",
+    "age": "56",
+    "raceCount": 0,
+    "address": "San Antonio, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=171"
+  },
+  {
+    "licenceNo": 173,
+    "name": "Dan Connor",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Humble, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=173"
+  },
+  {
+    "licenceNo": 174,
+    "name": "Christian Cobaugh",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Austin, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=174"
+  },
+  {
+    "licenceNo": 175,
+    "name": "Kirtley Wienbroer",
+    "age": "42",
+    "raceCount": 1,
+    "address": "Austin, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=175"
+  },
+  {
+    "licenceNo": 176,
+    "name": "Pankaj Wadhwa",
+    "age": "42",
+    "raceCount": 3,
+    "address": "Houston, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=176"
+  },
+  {
+    "licenceNo": 177,
+    "name": "Jean-Paul Cruikshank",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Galveston, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=177"
+  },
+  {
+    "licenceNo": 178,
+    "name": "Michael Blackmon",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Round Rock, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=178"
+  },
+  {
+    "licenceNo": 179,
+    "name": "Robert Walker",
+    "age": "42",
+    "raceCount": 0,
+    "address": "Austin, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=179"
+  },
+  {
+    "licenceNo": 180,
+    "name": "Alex Tomlinson",
+    "age": "52",
+    "raceCount": 1,
+    "address": "Austin, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=180"
+  },
+  {
+    "licenceNo": 182,
+    "name": "Richard Garlow",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Irving, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=182"
+  },
+  {
+    "licenceNo": 183,
+    "name": "Carl Popelar",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Austin, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=183"
+  },
+  {
+    "licenceNo": 184,
+    "name": "Jeffrey Lucido",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Richardson, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=184"
+  },
+  {
+    "licenceNo": 185,
+    "name": "Todd Callaway",
+    "age": "42",
+    "raceCount": 2,
+    "address": "Colorado Springs, CO",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=185"
+  },
+  {
+    "licenceNo": 186,
+    "name": "Thomas Finger",
+    "age": "56",
+    "raceCount": 0,
+    "address": "League City, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=186"
+  },
+  {
+    "licenceNo": 187,
+    "name": "P H",
+    "raceCount": 0,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=187"
+  },
+  {
+    "licenceNo": 188,
+    "name": "Wes Robinson",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Austin, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=188"
+  },
+  {
+    "licenceNo": 189,
+    "name": "David Clark",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Stratham, NH",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=189"
+  },
+  {
+    "licenceNo": 190,
+    "name": "Glen Calhoun",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Moorestown, NJ",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=190"
+  },
+  {
+    "licenceNo": 192,
+    "name": "Dennis Meeks",
+    "age": "46",
+    "raceCount": 0,
+    "address": "Austin, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=192"
+  },
+  {
+    "licenceNo": 193,
+    "name": "Travis Russell",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Denton, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=193"
+  },
+  {
+    "licenceNo": 194,
+    "name": "John Padyett",
+    "age": "46",
+    "raceCount": 0,
+    "address": "Arlington, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=194"
+  },
+  {
+    "licenceNo": 196,
+    "name": "Richard Jones",
+    "age": "50",
+    "raceCount": 0,
+    "address": "Denton, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=196"
+  },
+  {
+    "licenceNo": 197,
+    "name": "P H",
+    "raceCount": 0,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=197"
+  },
+  {
+    "licenceNo": 198,
+    "name": "John Boyd",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Alvin, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=198"
+  },
+  {
+    "licenceNo": 200,
+    "name": "Travis Mitchel",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Huntsville, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=200"
+  },
+  {
+    "licenceNo": 201,
+    "name": "Jeremy Reitman",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Brenham, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=201"
+  },
+  {
+    "licenceNo": 202,
+    "name": "Nelson Jetter",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Yoakum, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=202"
+  },
+  {
+    "licenceNo": 203,
+    "name": "Mike Ramsey",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Huntsville, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=203"
+  },
+  {
+    "licenceNo": 205,
+    "name": "Andy Giffhorn",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Humble, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=205"
+  },
+  {
+    "licenceNo": 206,
+    "name": "Robert Colling",
+    "age": "56",
+    "raceCount": 1,
+    "address": "Vestal, NY",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=206"
+  },
+  {
+    "licenceNo": 207,
+    "name": "Russell Boullion",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Missouri City, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=207"
+  },
+  {
+    "licenceNo": 208,
+    "name": "P H",
+    "raceCount": 0,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=208"
+  },
+  {
+    "licenceNo": 209,
+    "name": "Gregory Schmidt",
+    "age": "49",
+    "raceCount": 0,
+    "address": "Bryan, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=209"
+  },
+  {
+    "licenceNo": 210,
+    "name": "Becky Gill",
+    "age": "42",
+    "raceCount": 1,
+    "address": "College Station, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=210"
+  },
+  {
+    "licenceNo": 211,
+    "name": "Jason Peckham",
+    "age": "41",
+    "raceCount": 0,
+    "address": "Las Vegas, NV",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=211"
+  },
+  {
+    "licenceNo": 212,
+    "name": "Joshua Bembenek",
+    "age": "41",
+    "raceCount": 0,
+    "address": "Dallas, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=212"
+  },
+  {
+    "licenceNo": 213,
+    "name": "Theresa Munoz",
+    "age": "56",
+    "raceCount": 1,
+    "address": "San Marcos, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=213"
+  },
+  {
+    "licenceNo": 214,
+    "name": "Meredith Jones",
+    "age": "41",
+    "raceCount": 0,
+    "address": "Plano, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=214"
+  },
+  {
+    "licenceNo": 215,
+    "name": "Anthony Allen",
+    "age": "43",
+    "raceCount": 2,
+    "address": "Garland, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=215"
+  },
+  {
+    "licenceNo": 216,
+    "name": "Chris Schaible",
+    "age": "42",
+    "raceCount": 0,
+    "address": "Wright Patterson Afb, OH",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=216"
+  },
+  {
+    "licenceNo": 217,
+    "name": "Tim Maschal",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Round Rock, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=217"
+  },
+  {
+    "licenceNo": 218,
+    "name": "Adam Couch",
+    "age": "56",
+    "raceCount": 0,
+    "address": "San Marcos, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=218"
+  },
+  {
+    "licenceNo": 219,
+    "name": "David Larner",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Austin, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=219"
+  },
+  {
+    "licenceNo": 220,
+    "name": "Erik Hawkins",
+    "age": "56",
+    "raceCount": 0,
+    "address": "San Marcos, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=220"
+  },
+  {
+    "licenceNo": 221,
+    "name": "Paul Johnson",
+    "age": "54",
+    "raceCount": 0,
+    "address": "Austin, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=221"
+  },
+  {
+    "licenceNo": 222,
+    "name": "Christopher Reese",
+    "age": "46",
+    "raceCount": 1,
+    "address": "Austin, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=222"
+  },
+  {
+    "licenceNo": 223,
+    "name": "P H",
+    "raceCount": 0,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=223"
+  },
+  {
+    "licenceNo": 224,
+    "name": "Jason Stilli",
+    "age": "46",
+    "raceCount": 0,
+    "address": "San Marcos, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=224"
+  },
+  {
+    "licenceNo": 225,
+    "name": "Charles Nelson",
+    "age": "39",
+    "raceCount": 0,
+    "address": "San Marcos, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=225"
+  },
+  {
+    "licenceNo": 226,
+    "name": "Dan Elzner",
+    "age": "45",
+    "raceCount": 0,
+    "address": "Corpus Christi, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=226"
+  },
+  {
+    "licenceNo": 227,
+    "name": "Diane Thornton",
+    "age": "48",
+    "raceCount": 32,
+    "address": "Kerrville, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=227"
+  },
+  {
+    "licenceNo": 228,
+    "name": "Sarah Johnson",
+    "age": "43",
+    "raceCount": 2,
+    "address": "San Marcos, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=228"
+  },
+  {
+    "licenceNo": 229,
+    "name": "Laurel Golding",
+    "age": "49",
+    "raceCount": 0,
+    "address": "San Marcos, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=229"
+  },
+  {
+    "licenceNo": 230,
+    "name": "Shannon Graham",
+    "age": "43",
+    "raceCount": 87,
+    "address": "Austin, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=230"
+  },
+  {
+    "licenceNo": 231,
+    "name": "Christopher Davidson",
+    "age": "46",
+    "raceCount": 38,
+    "address": "Salt Lake City, UT",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=231"
+  },
+  {
+    "licenceNo": 232,
+    "name": "P H",
+    "raceCount": 0,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=232"
+  },
+  {
+    "licenceNo": 233,
+    "name": "P H",
+    "raceCount": 0,
+    "address": "",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=233"
+  },
+  {
+    "licenceNo": 235,
+    "name": "Doren Bingham",
+    "age": "43",
+    "raceCount": 70,
+    "address": "Tempe, AZ",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=235"
+  },
+  {
+    "licenceNo": 237,
+    "name": "John Martin",
+    "age": "44",
+    "raceCount": 1,
+    "address": "Arlington, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=237"
+  },
+  {
+    "licenceNo": 241,
+    "name": "Todd Webb",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Garland, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=241"
+  },
+  {
+    "licenceNo": 242,
+    "name": "Nancy Dzina",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Dallas, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=242"
+  },
+  {
+    "licenceNo": 243,
+    "name": "Chris Murphy",
+    "age": "37",
+    "raceCount": 0,
+    "address": "New Paltz, NY",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=243"
+  },
+  {
+    "licenceNo": 244,
+    "name": "John LeBihan",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Austin, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=244"
+  },
+  {
+    "licenceNo": 245,
+    "name": "Wade Fitzgerald",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Austin, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=245"
+  },
+  {
+    "licenceNo": 247,
+    "name": "Bart Kanggs",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Austin, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=247"
+  },
+  {
+    "licenceNo": 248,
+    "name": "Shehzaad Kaka",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Garland, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=248"
+  },
+  {
+    "licenceNo": 249,
+    "name": "Elisabeth Bucy",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Austin, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=249"
+  },
+  {
+    "licenceNo": 250,
+    "name": "Emma McNagny",
+    "age": "46",
+    "raceCount": 0,
+    "address": "Austin, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=250"
+  },
+  {
+    "licenceNo": 251,
+    "name": "Ronald Tee",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Austin, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=251"
+  },
+  {
+    "licenceNo": 252,
+    "name": "Thanh Nguyen",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Houston, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=252"
+  },
+  {
+    "licenceNo": 253,
+    "name": "John Gillespie",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Dallas, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=253"
+  },
+  {
+    "licenceNo": 254,
+    "name": "Scott Henry",
+    "age": "43",
+    "raceCount": 341,
+    "address": "Austin, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=254"
+  },
+  {
+    "licenceNo": 255,
+    "name": "Federico Fischer",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Austin, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=255"
+  },
+  {
+    "licenceNo": 256,
+    "name": "Peter Dove",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Austin, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=256"
+  },
+  {
+    "licenceNo": 257,
+    "name": "Jeff Webb",
+    "age": "44",
+    "raceCount": 2,
+    "address": "Ardmore, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=257"
+  },
+  {
+    "licenceNo": 258,
+    "name": "Joel Metzger",
+    "age": "42",
+    "raceCount": 1,
+    "address": "Pensacola, FL",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=258"
+  },
+  {
+    "licenceNo": 259,
+    "name": "Jon Hager",
+    "age": "42",
+    "raceCount": 0,
+    "address": "Annapolis, MD",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=259"
+  },
+  {
+    "licenceNo": 260,
+    "name": "Christopher Hunter",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Waterloo, NE",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=260"
+  },
+  {
+    "licenceNo": 261,
+    "name": "Brent Fulton",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Annapolis, MD",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=261"
+  },
+  {
+    "licenceNo": 262,
+    "name": "Melissa Lawrence",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Annapolis, MD",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=262"
+  },
+  {
+    "licenceNo": 263,
+    "name": "Gina Foltz",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Annapolis, MD",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=263"
+  },
+  {
+    "licenceNo": 264,
+    "name": "Amy Hutchison",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Mechanicsburg, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=264"
+  },
+  {
+    "licenceNo": 265,
+    "name": "Patrick Clark",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Annapolis, MD",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=265"
+  },
+  {
+    "licenceNo": 266,
+    "name": "Ann Chamberlain",
+    "age": "42",
+    "raceCount": 1,
+    "address": "Lk Forest Pk, WA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=266"
+  },
+  {
+    "licenceNo": 268,
+    "name": "Thomas Leahny",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Annapolis, MD",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=268"
+  },
+  {
+    "licenceNo": 270,
+    "name": "Mark Skubis",
+    "age": "42",
+    "raceCount": 121,
+    "address": "Arlington, VA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=270"
+  },
+  {
+    "licenceNo": 271,
+    "name": "Jefferey Parsons",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Saint Paul, MN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=271"
+  },
+  {
+    "licenceNo": 272,
+    "name": "Raymond Donnelly",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Annapolis, MD",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=272"
+  },
+  {
+    "licenceNo": 273,
+    "name": "Eddy Ha",
+    "age": "46",
+    "raceCount": 0,
+    "address": "Annapolis, MD",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=273"
+  },
+  {
+    "licenceNo": 274,
+    "name": "Kirsten Murphy",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Alexandria, VA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=274"
+  },
+  {
+    "licenceNo": 275,
+    "name": "Joshua Hilby",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Atlanta, GA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=275"
+  },
+  {
+    "licenceNo": 276,
+    "name": "Eric Bronson",
+    "age": "41",
+    "raceCount": 0,
+    "address": "Annapolis, MD",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=276"
+  },
+  {
+    "licenceNo": 277,
+    "name": "Marc Gemassmer",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Annapolis, MD",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=277"
+  },
+  {
+    "licenceNo": 279,
+    "name": "Wayne Stelly",
+    "age": "60",
+    "raceCount": 10,
+    "address": "Santa Barbara, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=279"
+  },
+  {
+    "licenceNo": 280,
+    "name": "Bryan Will",
+    "age": "42",
+    "raceCount": 0,
+    "address": "Norcorss, GA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=280"
+  },
+  {
+    "licenceNo": 282,
+    "name": "Amy Spiegelglass",
+    "age": "41",
+    "raceCount": 0,
+    "address": "Saint Louis, MO",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=282"
+  },
+  {
+    "licenceNo": 283,
+    "name": "James Rosenkoetter",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Indianapolis, IN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=283"
+  },
+  {
+    "licenceNo": 285,
+    "name": "Jason Rahimzadeh",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Chicago, IL",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=285"
+  },
+  {
+    "licenceNo": 286,
+    "name": "Michael Halicki",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Granger, IN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=286"
+  },
+  {
+    "licenceNo": 288,
+    "name": "Jay Weinshenker",
+    "age": "42",
+    "raceCount": 0,
+    "address": "Georgetown, KY",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=288"
+  },
+  {
+    "licenceNo": 289,
+    "name": "Bradley Owens",
+    "age": "45",
+    "raceCount": 0,
+    "address": "Greenwood, IN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=289"
+  },
+  {
+    "licenceNo": 290,
+    "name": "Derek Brandt",
+    "age": "46",
+    "raceCount": 0,
+    "address": "Bloomington, IN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=290"
+  },
+  {
+    "licenceNo": 291,
+    "name": "Matt Chitwood",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Bloomington, IN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=291"
+  },
+  {
+    "licenceNo": 292,
+    "name": "Julie Schmalz",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Indianapolis, IN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=292"
+  },
+  {
+    "licenceNo": 294,
+    "name": "Betsy Moehn",
+    "age": "45",
+    "raceCount": 0,
+    "address": "Bloomington, IN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=294"
+  },
+  {
+    "licenceNo": 295,
+    "name": "Joel Kelly",
+    "age": "45",
+    "raceCount": 29,
+    "address": "New Albany, IN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=295"
+  },
+  {
+    "licenceNo": 296,
+    "name": "Greg Carlson",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Indianapolis, IN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=296"
+  },
+  {
+    "licenceNo": 297,
+    "name": "Steve Sawa",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Greenwood, IN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=297"
+  },
+  {
+    "licenceNo": 299,
+    "name": "Shawn Humphries",
+    "age": "42",
+    "raceCount": 4,
+    "address": "Zionsville, IN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=299"
+  },
+  {
+    "licenceNo": 300,
+    "name": "Jason Blocksom",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Dearborn, MI",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=300"
+  },
+  {
+    "licenceNo": 301,
+    "name": "Matt Siemer",
+    "age": "42",
+    "raceCount": 2,
+    "address": "Bloomington, IN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=301"
+  },
+  {
+    "licenceNo": 302,
+    "name": "Stephen Logan",
+    "age": "41",
+    "raceCount": 1,
+    "address": "New York, NY",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=302"
+  },
+  {
+    "licenceNo": 303,
+    "name": "Nathan Schickel",
+    "age": "43",
+    "raceCount": 78,
+    "address": "Carmel, IN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=303"
+  },
+  {
+    "licenceNo": 304,
+    "name": "Lynn Crecelius",
+    "age": "46",
+    "raceCount": 1,
+    "address": "Bloomington, IN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=304"
+  },
+  {
+    "licenceNo": 305,
+    "name": "Jessica Dratt",
+    "age": "42",
+    "raceCount": 0,
+    "address": "Chicago, IL",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=305"
+  },
+  {
+    "licenceNo": 306,
+    "name": "Aline Gubrium",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Gainesville, FL",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=306"
+  },
+  {
+    "licenceNo": 307,
+    "name": "Geoffrey Thurner",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Colorado Springs, CO",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=307"
+  },
+  {
+    "licenceNo": 308,
+    "name": "Tina Schmidt",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Munster, IN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=308"
+  },
+  {
+    "licenceNo": 309,
+    "name": "Kathryne Burkhead",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Ft Collins, CO",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=309"
+  },
+  {
+    "licenceNo": 310,
+    "name": "Eric Stonebraker",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Deerfield, IL",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=310"
+  },
+  {
+    "licenceNo": 311,
+    "name": "Steve White",
+    "age": "45",
+    "raceCount": 0,
+    "address": "Lima, OH",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=311"
+  },
+  {
+    "licenceNo": 312,
+    "name": "Kip Kuhn",
+    "age": "46",
+    "raceCount": 0,
+    "address": "Fort Wayne, IN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=312"
+  },
+  {
+    "licenceNo": 313,
+    "name": "Chad Lewis",
+    "age": "43",
+    "raceCount": 0,
+    "address": "New Albany, IN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=313"
+  },
+  {
+    "licenceNo": 314,
+    "name": "Staci Bloomberg",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Newark, OH",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=314"
+  },
+  {
+    "licenceNo": 315,
+    "name": "Alyssa Solomon",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Fishers, IN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=315"
+  },
+  {
+    "licenceNo": 316,
+    "name": "Kurt Adams",
+    "age": "45",
+    "raceCount": 0,
+    "address": "Roanoke, IN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=316"
+  },
+  {
+    "licenceNo": 317,
+    "name": "Angie Songstad",
+    "age": "42",
+    "raceCount": 0,
+    "address": "Columbus, OH",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=317"
+  },
+  {
+    "licenceNo": 319,
+    "name": "Patrick Patangan",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Jacksonville, FL",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=319"
+  },
+  {
+    "licenceNo": 320,
+    "name": "Marjon Marik Walrod",
+    "age": "41",
+    "raceCount": 10,
+    "address": "Portland, OR",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=320"
+  },
+  {
+    "licenceNo": 321,
+    "name": "Jennifer Primak",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Santa Rosa, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=321"
+  },
+  {
+    "licenceNo": 322,
+    "name": "Dave Hilbish",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Bloomington, IN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=322"
+  },
+  {
+    "licenceNo": 323,
+    "name": "David Perez",
+    "age": "45",
+    "raceCount": 1,
+    "address": "Fishers, IN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=323"
+  },
+  {
+    "licenceNo": 324,
+    "name": "Mark Oldani",
+    "age": "44",
+    "raceCount": 1,
+    "address": "Valparaiso, IN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=324"
+  },
+  {
+    "licenceNo": 326,
+    "name": "Brian Oliger",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Seymour, IN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=326"
+  },
+  {
+    "licenceNo": 327,
+    "name": "Greta Hoetzer",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Boulder, CO",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=327"
+  },
+  {
+    "licenceNo": 328,
+    "name": "Nathan Snyder",
+    "age": "46",
+    "raceCount": 9,
+    "address": "Carmel, IN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=328"
+  },
+  {
+    "licenceNo": 329,
+    "name": "Jason Wools",
+    "age": "45",
+    "raceCount": 0,
+    "address": "Carmel, IN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=329"
+  },
+  {
+    "licenceNo": 330,
+    "name": "Ryan Calsbeek",
+    "age": "42",
+    "raceCount": 0,
+    "address": "Grand Rapids, MI",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=330"
+  },
+  {
+    "licenceNo": 331,
+    "name": "Craig Hixon",
+    "age": "45",
+    "raceCount": 0,
+    "address": "Bloomington, IN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=331"
+  },
+  {
+    "licenceNo": 332,
+    "name": "Kevin Meskill",
+    "age": "53",
+    "raceCount": 3,
+    "address": "Bloomington, IN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=332"
+  },
+  {
+    "licenceNo": 335,
+    "name": "Larry Dillman",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Bloomington, IN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=335"
+  },
+  {
+    "licenceNo": 337,
+    "name": "Amy Wolford",
+    "age": "42",
+    "raceCount": 0,
+    "address": "Decatur, IL",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=337"
+  },
+  {
+    "licenceNo": 338,
+    "name": "Jon Alegranti",
+    "age": "45",
+    "raceCount": 102,
+    "address": "Superior, CO",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=338"
+  },
+  {
+    "licenceNo": 339,
+    "name": "Geoffrey Williams",
+    "age": "45",
+    "raceCount": 169,
+    "address": "Riverside, RI",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=339"
+  },
+  {
+    "licenceNo": 340,
+    "name": "Brian Sena",
+    "age": "42",
+    "raceCount": 0,
+    "address": "New London, CT",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=340"
+  },
+  {
+    "licenceNo": 341,
+    "name": "David Cluett",
+    "age": "42",
+    "raceCount": 0,
+    "address": "New London, CT",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=341"
+  },
+  {
+    "licenceNo": 342,
+    "name": "Joel Kress",
+    "age": "44",
+    "raceCount": 0,
+    "address": "New London, CT",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=342"
+  },
+  {
+    "licenceNo": 343,
+    "name": "Christopher Kimball",
+    "age": "42",
+    "raceCount": 2,
+    "address": "New London, CT",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=343"
+  },
+  {
+    "licenceNo": 344,
+    "name": "Christopher Collier",
+    "age": "42",
+    "raceCount": 0,
+    "address": "New London, CT",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=344"
+  },
+  {
+    "licenceNo": 345,
+    "name": "John Noyes",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Plymouth, NH",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=345"
+  },
+  {
+    "licenceNo": 346,
+    "name": "Juan Prado",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Chico, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=346"
+  },
+  {
+    "licenceNo": 348,
+    "name": "Sean Gettmann",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Palo Alto, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=348"
+  },
+  {
+    "licenceNo": 350,
+    "name": "Michael Cipolla",
+    "age": "52",
+    "raceCount": 0,
+    "address": "Chico, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=350"
+  },
+  {
+    "licenceNo": 351,
+    "name": "Dana Evans",
+    "age": "42",
+    "raceCount": 0,
+    "address": "Napa, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=351"
+  },
+  {
+    "licenceNo": 352,
+    "name": "Tiffany Valentine",
+    "age": "42",
+    "raceCount": 2,
+    "address": "Rancho Santa Margarita, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=352"
+  },
+  {
+    "licenceNo": 353,
+    "name": "Keith Wood",
+    "age": "43",
+    "raceCount": 7,
+    "address": "Lakewood, CO",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=353"
+  },
+  {
+    "licenceNo": 355,
+    "name": "Scott Gruby",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Coronado, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=355"
+  },
+  {
+    "licenceNo": 356,
+    "name": "Kaan Erdener",
+    "age": "41",
+    "raceCount": 26,
+    "address": "Boulder, CO",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=356"
+  },
+  {
+    "licenceNo": 357,
+    "name": "Davin Agustines",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Huntington Beach, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=357"
+  },
+  {
+    "licenceNo": 359,
+    "name": "Jason Goldberg",
+    "age": "43",
+    "raceCount": 113,
+    "address": "Saint Paul, MN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=359"
+  },
+  {
+    "licenceNo": 360,
+    "name": "Benjamin Liu",
+    "age": "44",
+    "raceCount": 13,
+    "address": "Costa Mesa, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=360"
+  },
+  {
+    "licenceNo": 361,
+    "name": "Molly Rightmyer",
+    "age": "41",
+    "raceCount": 0,
+    "address": "San Diego, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=361"
+  },
+  {
+    "licenceNo": 362,
+    "name": "Whitman Kwok",
+    "age": "41",
+    "raceCount": 0,
+    "address": "Claremont, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=362"
+  },
+  {
+    "licenceNo": 363,
+    "name": "Jeffrey King",
+    "age": "41",
+    "raceCount": 0,
+    "address": "Claremont, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=363"
+  },
+  {
+    "licenceNo": 364,
+    "name": "Ahmad Ridzuan Ahmad Razali",
+    "age": "45",
+    "raceCount": 0,
+    "address": "Claremont, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=364"
+  },
+  {
+    "licenceNo": 365,
+    "name": "Steven Kim",
+    "age": "41",
+    "raceCount": 1,
+    "address": "Bonita, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=365"
+  },
+  {
+    "licenceNo": 367,
+    "name": "Stuart Taylor",
+    "age": "41",
+    "raceCount": 0,
+    "address": "Santa Clara, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=367"
+  },
+  {
+    "licenceNo": 368,
+    "name": "Ryan Hata",
+    "age": "42",
+    "raceCount": 25,
+    "address": "Sacramento, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=368"
+  },
+  {
+    "licenceNo": 370,
+    "name": "Scott Schochler",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Abilene, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=370"
+  },
+  {
+    "licenceNo": 371,
+    "name": "Shawn Bohrer",
+    "age": "42",
+    "raceCount": 1,
+    "address": "Fairport, NY",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=371"
+  },
+  {
+    "licenceNo": 373,
+    "name": "Syrus Jaffe",
+    "age": "44",
+    "raceCount": 1,
+    "address": "North San Juan, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=373"
+  },
+  {
+    "licenceNo": 374,
+    "name": "Marc Franklin",
+    "age": "46",
+    "raceCount": 1,
+    "address": "Menlo Park, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=374"
+  },
+  {
+    "licenceNo": 375,
+    "name": "Chris Coleman",
+    "age": "46",
+    "raceCount": 0,
+    "address": "Fresno, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=375"
+  },
+  {
+    "licenceNo": 377,
+    "name": "Erik Pipins",
+    "age": "51",
+    "raceCount": 0,
+    "address": "Upland, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=377"
+  },
+  {
+    "licenceNo": 378,
+    "name": "Peter Wang",
+    "age": "47",
+    "raceCount": 0,
+    "address": "Rowland Heights, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=378"
+  },
+  {
+    "licenceNo": 379,
+    "name": "Chong Lee",
+    "age": "46",
+    "raceCount": 0,
+    "address": "Buena Park, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=379"
+  },
+  {
+    "licenceNo": 380,
+    "name": "Chad Davis  DVM",
+    "age": "45",
+    "raceCount": 10,
+    "address": "The Plains, VA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=380"
+  },
+  {
+    "licenceNo": 381,
+    "name": "Patrick Branch",
+    "age": "47",
+    "raceCount": 0,
+    "address": "Bellingham, WA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=381"
+  },
+  {
+    "licenceNo": 382,
+    "name": "Kelly Fick",
+    "age": "44",
+    "raceCount": 13,
+    "address": "Chino Hills, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=382"
+  },
+  {
+    "licenceNo": 383,
+    "name": "Andrew Liu",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Rancho Cucamonga, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=383"
+  },
+  {
+    "licenceNo": 384,
+    "name": "Ross Lesins",
+    "age": "51",
+    "raceCount": 0,
+    "address": "Pomona, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=384"
+  },
+  {
+    "licenceNo": 385,
+    "name": "Christopher DeMarchi",
+    "age": "45",
+    "raceCount": 0,
+    "address": "Chino Hills, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=385"
+  },
+  {
+    "licenceNo": 386,
+    "name": "Michael Robles",
+    "age": "48",
+    "raceCount": 0,
+    "address": "La Habra Heights, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=386"
+  },
+  {
+    "licenceNo": 387,
+    "name": "Jason Burkhead",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Fort Collins, CO",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=387"
+  },
+  {
+    "licenceNo": 390,
+    "name": "Jaima Belluomini",
+    "age": "46",
+    "raceCount": 0,
+    "address": "Bakersfield, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=390"
+  },
+  {
+    "licenceNo": 392,
+    "name": "Chad Ruston",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Evansville, IN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=392"
+  },
+  {
+    "licenceNo": 393,
+    "name": "Keish Doi",
+    "age": "49",
+    "raceCount": 0,
+    "address": "Cupertino, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=393"
+  },
+  {
+    "licenceNo": 394,
+    "name": "Ricardo Gonzalez",
+    "age": "47",
+    "raceCount": 0,
+    "address": "Menlo Park, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=394"
+  },
+  {
+    "licenceNo": 395,
+    "name": "Mark Prior",
+    "age": "41",
+    "raceCount": 0,
+    "address": "Portola Valley, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=395"
+  },
+  {
+    "licenceNo": 396,
+    "name": "Anthony Brabazon",
+    "age": "49",
+    "raceCount": 0,
+    "address": "Irvine, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=396"
+  },
+  {
+    "licenceNo": 397,
+    "name": "Benjamin Geiger",
+    "age": "41",
+    "raceCount": 0,
+    "address": "Stanford, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=397"
+  },
+  {
+    "licenceNo": 398,
+    "name": "Ted Huang",
+    "age": "46",
+    "raceCount": 88,
+    "address": "Portola Valley, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=398"
+  },
+  {
+    "licenceNo": 400,
+    "name": "Robin Jones-Mendoza",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Mountain View, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=400"
+  },
+  {
+    "licenceNo": 401,
+    "name": "Nicole Calakos",
+    "age": "49",
+    "raceCount": 7,
+    "address": "Chapel Hill, NC",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=401"
+  },
+  {
+    "licenceNo": 404,
+    "name": "Megan Troxell",
+    "age": "47",
+    "raceCount": 0,
+    "address": "Portland, OR",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=404"
+  },
+  {
+    "licenceNo": 405,
+    "name": "Kelly Chang",
+    "age": "45",
+    "raceCount": 67,
+    "address": "Oakland, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=405"
+  },
+  {
+    "licenceNo": 406,
+    "name": "Kelley Herndon Ford",
+    "age": "42",
+    "raceCount": 0,
+    "address": "Kensington, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=406"
+  },
+  {
+    "licenceNo": 407,
+    "name": "William Melick",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Palo Alto, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=407"
+  },
+  {
+    "licenceNo": 408,
+    "name": "Theresa McEvoy",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Palo Alto, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=408"
+  },
+  {
+    "licenceNo": 409,
+    "name": "Lisa Porter",
+    "age": "49",
+    "raceCount": 0,
+    "address": "Palo Alto, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=409"
+  },
+  {
+    "licenceNo": 410,
+    "name": "Bettina Steffen",
+    "age": "51",
+    "raceCount": 0,
+    "address": "Palo Alto, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=410"
+  },
+  {
+    "licenceNo": 411,
+    "name": "Cynthia Maree",
+    "age": "48",
+    "raceCount": 86,
+    "address": "Seattle, WA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=411"
+  },
+  {
+    "licenceNo": 412,
+    "name": "Peter Crawford",
+    "age": "48",
+    "raceCount": 0,
+    "address": "Menlo Park, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=412"
+  },
+  {
+    "licenceNo": 413,
+    "name": "Carlos Gonzalez",
+    "age": "50",
+    "raceCount": 5,
+    "address": "North Bergen, NJ",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=413"
+  },
+  {
+    "licenceNo": 414,
+    "name": "Christopher Carlson",
+    "age": "42",
+    "raceCount": 0,
+    "address": "Sitka, AK",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=414"
+  },
+  {
+    "licenceNo": 416,
+    "name": "Dukhyong Chang",
+    "age": "46",
+    "raceCount": 0,
+    "address": "Stanford, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=416"
+  },
+  {
+    "licenceNo": 417,
+    "name": "Juan Guerra",
+    "age": "48",
+    "raceCount": 47,
+    "address": "Seattle, WA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=417"
+  },
+  {
+    "licenceNo": 418,
+    "name": "Rod Batycky",
+    "age": "49",
+    "raceCount": 0,
+    "address": "Mountain View, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=418"
+  },
+  {
+    "licenceNo": 419,
+    "name": "Andrew Maag",
+    "age": "42",
+    "raceCount": 0,
+    "address": "Claremont, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=419"
+  },
+  {
+    "licenceNo": 420,
+    "name": "Sean Lev-Tov",
+    "age": "51",
+    "raceCount": 0,
+    "address": "Mountain View, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=420"
+  },
+  {
+    "licenceNo": 421,
+    "name": "Matthew Lyon",
+    "age": "49",
+    "raceCount": 1,
+    "address": "Mountain View, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=421"
+  },
+  {
+    "licenceNo": 423,
+    "name": "Lee Fleming",
+    "age": "54",
+    "raceCount": 2,
+    "address": "Boulder, CO",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=423"
+  },
+  {
+    "licenceNo": 424,
+    "name": "Berkeley Burbank",
+    "age": "43",
+    "raceCount": 39,
+    "address": "Memphis, TN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=424"
+  },
+  {
+    "licenceNo": 425,
+    "name": "David Bailey",
+    "age": "45",
+    "raceCount": 46,
+    "address": "Truckee, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=425"
+  },
+  {
+    "licenceNo": 427,
+    "name": "Richard Long",
+    "age": "45",
+    "raceCount": 0,
+    "address": "Belmont, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=427"
+  },
+  {
+    "licenceNo": 428,
+    "name": "Jim Hwang",
+    "age": "60",
+    "raceCount": 1,
+    "address": "Menlo Park, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=428"
+  },
+  {
+    "licenceNo": 431,
+    "name": "Ted Manning",
+    "age": "49",
+    "raceCount": 2,
+    "address": "Belmont, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=431"
+  },
+  {
+    "licenceNo": 432,
+    "name": "Bettina Younge",
+    "age": "47",
+    "raceCount": 0,
+    "address": "Boulder, CO",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=432"
+  },
+  {
+    "licenceNo": 433,
+    "name": "Doug Beattie",
+    "age": "49",
+    "raceCount": 0,
+    "address": "Palo Alto, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=433"
+  },
+  {
+    "licenceNo": 434,
+    "name": "John Suh",
+    "age": "49",
+    "raceCount": 0,
+    "address": "Palo Alto, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=434"
+  },
+  {
+    "licenceNo": 435,
+    "name": "Andrew Chang",
+    "age": "49",
+    "raceCount": 0,
+    "address": "Palo Alto, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=435"
+  },
+  {
+    "licenceNo": 436,
+    "name": "Paulo Correia",
+    "age": "45",
+    "raceCount": 0,
+    "address": "Cambridge, MA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=436"
+  },
+  {
+    "licenceNo": 437,
+    "name": "Brian Park",
+    "age": "49",
+    "raceCount": 0,
+    "address": "Stanford, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=437"
+  },
+  {
+    "licenceNo": 438,
+    "name": "Derrick Sung",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Palo Alto, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=438"
+  },
+  {
+    "licenceNo": 439,
+    "name": "James Sununu",
+    "age": "47",
+    "raceCount": 0,
+    "address": "Palo Alto, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=439"
+  },
+  {
+    "licenceNo": 440,
+    "name": "Jerry Tsai",
+    "age": "47",
+    "raceCount": 0,
+    "address": "Palo Alto, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=440"
+  },
+  {
+    "licenceNo": 441,
+    "name": "Sanjiv Shah",
+    "age": "41",
+    "raceCount": 0,
+    "address": "Flushing, NY",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=441"
+  },
+  {
+    "licenceNo": 442,
+    "name": "William Lloyd",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Stanford, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=442"
+  },
+  {
+    "licenceNo": 444,
+    "name": "Todd Jankiewicz",
+    "age": "45",
+    "raceCount": 18,
+    "address": "Boise, ID",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=444"
+  },
+  {
+    "licenceNo": 445,
+    "name": "Dan Madru",
+    "age": "41",
+    "raceCount": 17,
+    "address": "Austin, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=445"
+  },
+  {
+    "licenceNo": 446,
+    "name": "Reed Kelly",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Yarmouth, ME",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=446"
+  },
+  {
+    "licenceNo": 447,
+    "name": "Christopher McMath",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Castle Rock, CO",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=447"
+  },
+  {
+    "licenceNo": 448,
+    "name": "Aaron Bean",
+    "age": "41",
+    "raceCount": 0,
+    "address": "Long Lake, MN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=448"
+  },
+  {
+    "licenceNo": 449,
+    "name": "Rima Lathrop",
+    "age": "42",
+    "raceCount": 0,
+    "address": "Waterville, ME",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=449"
+  },
+  {
+    "licenceNo": 450,
+    "name": "Greg McDonald",
+    "age": "45",
+    "raceCount": 0,
+    "address": "Waterville, ME",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=450"
+  },
+  {
+    "licenceNo": 451,
+    "name": "Kevin O'Grady",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Winchester, MA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=451"
+  },
+  {
+    "licenceNo": 452,
+    "name": "Andrew Kulmatiski",
+    "age": "44",
+    "raceCount": 48,
+    "address": "Logan, UT",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=452"
+  },
+  {
+    "licenceNo": 453,
+    "name": "Patrick Regan",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Allston, MA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=453"
+  },
+  {
+    "licenceNo": 454,
+    "name": "Dylan Rothwell",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Waterville, ME",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=454"
+  },
+  {
+    "licenceNo": 455,
+    "name": "Michael King",
+    "age": "42",
+    "raceCount": 0,
+    "address": "Gloversville, NY",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=455"
+  },
+  {
+    "licenceNo": 456,
+    "name": "Sean Aquilino",
+    "age": "46",
+    "raceCount": 0,
+    "address": "Hollis, NH",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=456"
+  },
+  {
+    "licenceNo": 457,
+    "name": "Joseph Vitulli",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Plymouth, NH",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=457"
+  },
+  {
+    "licenceNo": 461,
+    "name": "Christopher Digangi",
+    "age": "45",
+    "raceCount": 0,
+    "address": "Plymouth, NH",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=461"
+  },
+  {
+    "licenceNo": 463,
+    "name": "Whitney Brown",
+    "age": "42",
+    "raceCount": 0,
+    "address": "Colebrook, CT",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=463"
+  },
+  {
+    "licenceNo": 464,
+    "name": "Amy Walker",
+    "age": "41",
+    "raceCount": 0,
+    "address": "West Dummerston, VT",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=464"
+  },
+  {
+    "licenceNo": 466,
+    "name": "Miles Billings",
+    "age": "42",
+    "raceCount": 40,
+    "address": "Newton, MA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=466"
+  },
+  {
+    "licenceNo": 468,
+    "name": "Brian Girard",
+    "age": "42",
+    "raceCount": 93,
+    "address": "Grantham, NH",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=468"
+  },
+  {
+    "licenceNo": 469,
+    "name": "Stefan Bumbeck",
+    "age": "45",
+    "raceCount": 23,
+    "address": "South Hero, VT",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=469"
+  },
+  {
+    "licenceNo": 471,
+    "name": "Terry Maxfield",
+    "age": "45",
+    "raceCount": 0,
+    "address": "Rutland, VT",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=471"
+  },
+  {
+    "licenceNo": 472,
+    "name": "Adam Jones",
+    "age": "42",
+    "raceCount": 0,
+    "address": "Burlington, VT",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=472"
+  },
+  {
+    "licenceNo": 473,
+    "name": "Alan Romania",
+    "age": "41",
+    "raceCount": 0,
+    "address": "Tempe, AZ",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=473"
+  },
+  {
+    "licenceNo": 474,
+    "name": "Matthew Siber",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Burlington, VT",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=474"
+  },
+  {
+    "licenceNo": 476,
+    "name": "Gregory Brown",
+    "age": "44",
+    "raceCount": 0,
+    "address": "White Riv Jct, VT",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=476"
+  },
+  {
+    "licenceNo": 479,
+    "name": "Evan Steiner",
+    "age": "41",
+    "raceCount": 0,
+    "address": "Hingham, MA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=479"
+  },
+  {
+    "licenceNo": 480,
+    "name": "Thomas Corson",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Burlington, VT",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=480"
+  },
+  {
+    "licenceNo": 481,
+    "name": "Dave Kennedy",
+    "age": "42",
+    "raceCount": 0,
+    "address": "Marshfield, MA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=481"
+  },
+  {
+    "licenceNo": 482,
+    "name": "Colin Sinish",
+    "age": "42",
+    "raceCount": 0,
+    "address": "Collinsville, CT",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=482"
+  },
+  {
+    "licenceNo": 486,
+    "name": "Paul Blandini",
+    "age": "44",
+    "raceCount": 1,
+    "address": "Alton Bay, NH",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=486"
+  },
+  {
+    "licenceNo": 487,
+    "name": "Andrew Uermeersch",
+    "age": "41",
+    "raceCount": 0,
+    "address": "North Hampton, NH",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=487"
+  },
+  {
+    "licenceNo": 491,
+    "name": "Eric Skinner",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Londonderry, NH",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=491"
+  },
+  {
+    "licenceNo": 494,
+    "name": "Kevin Mun",
+    "age": "48",
+    "raceCount": 2,
+    "address": "Carlsbad, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=494"
+  },
+  {
+    "licenceNo": 495,
+    "name": "Chhien Chauv",
+    "age": "45",
+    "raceCount": 0,
+    "address": "Anaheim, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=495"
+  },
+  {
+    "licenceNo": 496,
+    "name": "Richard Graziano",
+    "age": "47",
+    "raceCount": 0,
+    "address": "Santa Ana, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=496"
+  },
+  {
+    "licenceNo": 497,
+    "name": "Anthony Morrow",
+    "age": "42",
+    "raceCount": 297,
+    "address": "Cerritos, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=497"
+  },
+  {
+    "licenceNo": 498,
+    "name": "Brian Sauls",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Santa Ana, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=498"
+  },
+  {
+    "licenceNo": 499,
+    "name": "Suzanne Dean",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Cypress, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=499"
+  },
+  {
+    "licenceNo": 500,
+    "name": "Mike Jones",
+    "age": "52",
+    "raceCount": 0,
+    "address": "Fullerton, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=500"
+  },
+  {
+    "licenceNo": 501,
+    "name": "John Franklin",
+    "age": "45",
+    "raceCount": 0,
+    "address": "Encinitas, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=501"
+  },
+  {
+    "licenceNo": 503,
+    "name": "Trevor White",
+    "age": "45",
+    "raceCount": 171,
+    "address": "Alameda, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=503"
+  },
+  {
+    "licenceNo": 504,
+    "name": "Brian Whitcomb",
+    "age": "45",
+    "raceCount": 15,
+    "address": "Amherst, MA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=504"
+  },
+  {
+    "licenceNo": 505,
+    "name": "Gabriel Webster",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Oakland, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=505"
+  },
+  {
+    "licenceNo": 506,
+    "name": "Geoffrey Tennican",
+    "age": "45",
+    "raceCount": 0,
+    "address": "Oakland, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=506"
+  },
+  {
+    "licenceNo": 507,
+    "name": "John Leslie",
+    "age": "40",
+    "raceCount": 0,
+    "address": "Berkeley, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=507"
+  },
+  {
+    "licenceNo": 508,
+    "name": "Taka Tevachi",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Berkeley, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=508"
+  },
+  {
+    "licenceNo": 509,
+    "name": "Mark Silva",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Orinda, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=509"
+  },
+  {
+    "licenceNo": 510,
+    "name": "Javier Rey",
+    "age": "42",
+    "raceCount": 0,
+    "address": "San Leandro, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=510"
+  },
+  {
+    "licenceNo": 511,
+    "name": "Chanca Preston",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Olivehurst, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=511"
+  },
+  {
+    "licenceNo": 512,
+    "name": "Michael Prime",
+    "age": "50",
+    "raceCount": 0,
+    "address": "Los Alamos, NM",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=512"
+  },
+  {
+    "licenceNo": 513,
+    "name": "Mark McKenna",
+    "age": "42",
+    "raceCount": 0,
+    "address": "Berkeley, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=513"
+  },
+  {
+    "licenceNo": 514,
+    "name": "John Lim",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Encino, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=514"
+  },
+  {
+    "licenceNo": 515,
+    "name": "Nerius Landys",
+    "age": "41",
+    "raceCount": 10,
+    "address": "Solana Beach, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=515"
+  },
+  {
+    "licenceNo": 517,
+    "name": "Kim Kelly",
+    "age": "50",
+    "raceCount": 0,
+    "address": "Oakland, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=517"
+  },
+  {
+    "licenceNo": 518,
+    "name": "Thomas Jasmin",
+    "age": "48",
+    "raceCount": 0,
+    "address": "Berkeley, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=518"
+  },
+  {
+    "licenceNo": 521,
+    "name": "Todd Edmister",
+    "age": "47",
+    "raceCount": 5,
+    "address": "Oakland, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=521"
+  },
+  {
+    "licenceNo": 523,
+    "name": "Joe Chang",
+    "age": "43",
+    "raceCount": 51,
+    "address": "Los Angeles, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=523"
+  },
+  {
+    "licenceNo": 524,
+    "name": "John Gehlen",
+    "age": "52",
+    "raceCount": 0,
+    "address": "Berkeley, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=524"
+  },
+  {
+    "licenceNo": 525,
+    "name": "Scott Chegwidden",
+    "age": "46",
+    "raceCount": 0,
+    "address": "San Jose, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=525"
+  },
+  {
+    "licenceNo": 526,
+    "name": "Trevor Sosebee",
+    "age": "48",
+    "raceCount": 0,
+    "address": "Austin, TX",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=526"
+  },
+  {
+    "licenceNo": 527,
+    "name": "Samir Shah",
+    "age": "41",
+    "raceCount": 0,
+    "address": "Mission Viejo, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=527"
+  },
+  {
+    "licenceNo": 528,
+    "name": "Andrew Ryan",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Menlo Park, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=528"
+  },
+  {
+    "licenceNo": 529,
+    "name": "B Regan",
+    "age": "46",
+    "raceCount": 0,
+    "address": "Oakland, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=529"
+  },
+  {
+    "licenceNo": 530,
+    "name": "Jay Pal",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Danville, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=530"
+  },
+  {
+    "licenceNo": 532,
+    "name": "Dania Magri",
+    "age": "46",
+    "raceCount": 8,
+    "address": "New Haven, CT",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=532"
+  },
+  {
+    "licenceNo": 533,
+    "name": "Douglas Machado",
+    "age": "46",
+    "raceCount": 0,
+    "address": "Berkeley, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=533"
+  },
+  {
+    "licenceNo": 534,
+    "name": "Michael Lepie",
+    "age": "42",
+    "raceCount": 3,
+    "address": "Berkeley, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=534"
+  },
+  {
+    "licenceNo": 535,
+    "name": "Andrew Hwang",
+    "age": "42",
+    "raceCount": 0,
+    "address": "Palo Alto, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=535"
+  },
+  {
+    "licenceNo": 536,
+    "name": "Peter Grudberg",
+    "age": "54",
+    "raceCount": 0,
+    "address": "El Cerrito, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=536"
+  },
+  {
+    "licenceNo": 537,
+    "name": "Dye-Zone Chan",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Berkeley, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=537"
+  },
+  {
+    "licenceNo": 538,
+    "name": "Paul Brown",
+    "age": "46",
+    "raceCount": 0,
+    "address": "Berkeley, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=538"
+  },
+  {
+    "licenceNo": 539,
+    "name": "Kristin Yarema",
+    "age": "46",
+    "raceCount": 0,
+    "address": "Berkeley, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=539"
+  },
+  {
+    "licenceNo": 541,
+    "name": "Milton Yu",
+    "age": "41",
+    "raceCount": 0,
+    "address": "Berkeley, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=541"
+  },
+  {
+    "licenceNo": 543,
+    "name": "Daejoon Anh",
+    "age": "45",
+    "raceCount": 0,
+    "address": "Berkeley, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=543"
+  },
+  {
+    "licenceNo": 544,
+    "name": "Daniel Acuston",
+    "age": "41",
+    "raceCount": 0,
+    "address": "Montebello, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=544"
+  },
+  {
+    "licenceNo": 546,
+    "name": "Edward Conley",
+    "age": "49",
+    "raceCount": 0,
+    "address": "Irvine, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=546"
+  },
+  {
+    "licenceNo": 547,
+    "name": "Stacey Harwood-Valvende",
+    "age": "48",
+    "raceCount": 0,
+    "address": "Irvine, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=547"
+  },
+  {
+    "licenceNo": 548,
+    "name": "Yuzo Kanomata",
+    "age": "51",
+    "raceCount": 0,
+    "address": "Montebello, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=548"
+  },
+  {
+    "licenceNo": 549,
+    "name": "Christopher Lee",
+    "age": "41",
+    "raceCount": 2,
+    "address": "Irvine, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=549"
+  },
+  {
+    "licenceNo": 550,
+    "name": "Stephan Miller",
+    "age": "52",
+    "raceCount": 0,
+    "address": "Irvine, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=550"
+  },
+  {
+    "licenceNo": 551,
+    "name": "Ken Miyaki",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Los Angeles, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=551"
+  },
+  {
+    "licenceNo": 552,
+    "name": "Frederick Onion",
+    "age": "48",
+    "raceCount": 0,
+    "address": "Irvine, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=552"
+  },
+  {
+    "licenceNo": 553,
+    "name": "Jeremy Patapoff",
+    "age": "43",
+    "raceCount": 5,
+    "address": "Santa Ana, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=553"
+  },
+  {
+    "licenceNo": 554,
+    "name": "Mark Pitzer",
+    "age": "48",
+    "raceCount": 0,
+    "address": "San Gabriel, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=554"
+  },
+  {
+    "licenceNo": 555,
+    "name": "Michael Quileza",
+    "age": "43",
+    "raceCount": 1,
+    "address": "Tustin, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=555"
+  },
+  {
+    "licenceNo": 556,
+    "name": "Jennifer Scott",
+    "age": "49",
+    "raceCount": 0,
+    "address": "Newport Beach, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=556"
+  },
+  {
+    "licenceNo": 558,
+    "name": "John Self",
+    "age": "51",
+    "raceCount": 0,
+    "address": "Irvine, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=558"
+  },
+  {
+    "licenceNo": 559,
+    "name": "David Shattuck",
+    "age": "46",
+    "raceCount": 0,
+    "address": "Cypress, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=559"
+  },
+  {
+    "licenceNo": 560,
+    "name": "Caleb Sotuhworth",
+    "age": "49",
+    "raceCount": 0,
+    "address": "Los Angeles, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=560"
+  },
+  {
+    "licenceNo": 561,
+    "name": "Mark Taparauskas",
+    "age": "50",
+    "raceCount": 0,
+    "address": "Newport Beach, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=561"
+  },
+  {
+    "licenceNo": 564,
+    "name": "Mark Christian",
+    "age": "45",
+    "raceCount": 28,
+    "address": "San Francisco, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=564"
+  },
+  {
+    "licenceNo": 565,
+    "name": "Eric Haase",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Fairfield, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=565"
+  },
+  {
+    "licenceNo": 566,
+    "name": "Hong Liang",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Gainesville, FL",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=566"
+  },
+  {
+    "licenceNo": 567,
+    "name": "Bridget Alcorn",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Hollis, NH",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=567"
+  },
+  {
+    "licenceNo": 568,
+    "name": "Alden Tanaka",
+    "age": "46",
+    "raceCount": 97,
+    "address": "San Mateo, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=568"
+  },
+  {
+    "licenceNo": 569,
+    "name": "John Moisan",
+    "age": "43",
+    "raceCount": 21,
+    "address": "Solvang, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=569"
+  },
+  {
+    "licenceNo": 570,
+    "name": "Derek Yegian",
+    "age": "47",
+    "raceCount": 0,
+    "address": "Berkeley, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=570"
+  },
+  {
+    "licenceNo": 572,
+    "name": "Anthony Falzone",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Berkeley, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=572"
+  },
+  {
+    "licenceNo": 573,
+    "name": "Brian Gibbs",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Burlington, VT",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=573"
+  },
+  {
+    "licenceNo": 574,
+    "name": "Jason Clark",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Burlington, NC",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=574"
+  },
+  {
+    "licenceNo": 575,
+    "name": "Brian Vedder",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Center Valley, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=575"
+  },
+  {
+    "licenceNo": 577,
+    "name": "Pierre Devaux",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Ithaca, NY",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=577"
+  },
+  {
+    "licenceNo": 578,
+    "name": "Michael McCune",
+    "age": "45",
+    "raceCount": 0,
+    "address": "Downingtown, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=578"
+  },
+  {
+    "licenceNo": 579,
+    "name": "Nate Seymour",
+    "age": "42",
+    "raceCount": 73,
+    "address": "Alexandria, VA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=579"
+  },
+  {
+    "licenceNo": 580,
+    "name": "Patrick Flannery",
+    "age": "41",
+    "raceCount": 79,
+    "address": "Madison, WI",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=580"
+  },
+  {
+    "licenceNo": 581,
+    "name": "Matt Wyczalkowski",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Harrisburg, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=581"
+  },
+  {
+    "licenceNo": 582,
+    "name": "Chad Burkins",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Philadelphia, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=582"
+  },
+  {
+    "licenceNo": 583,
+    "name": "Kevin Keith",
+    "age": "51",
+    "raceCount": 23,
+    "address": "Lancaster, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=583"
+  },
+  {
+    "licenceNo": 584,
+    "name": "Christopher Ward",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Phoenixville, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=584"
+  },
+  {
+    "licenceNo": 585,
+    "name": "Matt Reilly",
+    "age": "41",
+    "raceCount": 1,
+    "address": "Somerset, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=585"
+  },
+  {
+    "licenceNo": 586,
+    "name": "Mike Kvlakowski",
+    "age": "41",
+    "raceCount": 0,
+    "address": "Lemont, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=586"
+  },
+  {
+    "licenceNo": 587,
+    "name": "Matthew Donadio",
+    "age": "43",
+    "raceCount": 0,
+    "address": "University Park, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=587"
+  },
+  {
+    "licenceNo": 588,
+    "name": "Paul Janzen",
+    "age": "46",
+    "raceCount": 0,
+    "address": "Sunnyvale, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=588"
+  },
+  {
+    "licenceNo": 589,
+    "name": "Albert Michini",
+    "age": "41",
+    "raceCount": 41,
+    "address": "Salt Lake City, UT",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=589"
+  },
+  {
+    "licenceNo": 590,
+    "name": "Keith Lauchle",
+    "age": "43",
+    "raceCount": 1,
+    "address": "Alpharetta, GA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=590"
+  },
+  {
+    "licenceNo": 591,
+    "name": "Michael Hertner",
+    "age": "44",
+    "raceCount": 56,
+    "address": "Erie, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=591"
+  },
+  {
+    "licenceNo": 593,
+    "name": "James Tweed",
+    "age": "45",
+    "raceCount": 0,
+    "address": "State College, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=593"
+  },
+  {
+    "licenceNo": 594,
+    "name": "Sheri Rothermel",
+    "age": "42",
+    "raceCount": 20,
+    "address": "Williamsport, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=594"
+  },
+  {
+    "licenceNo": 595,
+    "name": "Stacee Frost",
+    "age": "41",
+    "raceCount": 0,
+    "address": "Morris Plains, NJ",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=595"
+  },
+  {
+    "licenceNo": 597,
+    "name": "Angela Lavery",
+    "age": "44",
+    "raceCount": 2,
+    "address": "Shickshinny, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=597"
+  },
+  {
+    "licenceNo": 598,
+    "name": "Leon Chou",
+    "age": "41",
+    "raceCount": 29,
+    "address": "Fredericksburg, VA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=598"
+  },
+  {
+    "licenceNo": 599,
+    "name": "Robert Kyper",
+    "age": "43",
+    "raceCount": 69,
+    "address": "Durango, CO",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=599"
+  },
+  {
+    "licenceNo": 600,
+    "name": "Joseph Bucciaglia",
+    "age": "47",
+    "raceCount": 1,
+    "address": "Oxford, CT",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=600"
+  },
+  {
+    "licenceNo": 601,
+    "name": "Mark Warno",
+    "age": "44",
+    "raceCount": 268,
+    "address": "Fairfax, VA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=601"
+  },
+  {
+    "licenceNo": 602,
+    "name": "Michael O'Mahony",
+    "age": "43",
+    "raceCount": 1,
+    "address": "Murrysville, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=602"
+  },
+  {
+    "licenceNo": 603,
+    "name": "Edward Campbell",
+    "age": "45",
+    "raceCount": 0,
+    "address": "State College, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=603"
+  },
+  {
+    "licenceNo": 604,
+    "name": "Benjamin Stratton",
+    "age": "41",
+    "raceCount": 14,
+    "address": "Delta, CO",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=604"
+  },
+  {
+    "licenceNo": 606,
+    "name": "David Boyd",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Saint Petersburg, FL",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=606"
+  },
+  {
+    "licenceNo": 607,
+    "name": "Wilson Yang",
+    "age": "40",
+    "raceCount": 0,
+    "address": "Fresno, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=607"
+  },
+  {
+    "licenceNo": 608,
+    "name": "Jana Lord",
+    "age": "55",
+    "raceCount": 0,
+    "address": "Berkeley, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=608"
+  },
+  {
+    "licenceNo": 609,
+    "name": "Stephen Teipe",
+    "age": "52",
+    "raceCount": 0,
+    "address": "Cypress, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=609"
+  },
+  {
+    "licenceNo": 610,
+    "name": "Diana Zumstein",
+    "age": "45",
+    "raceCount": 0,
+    "address": "Warren, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=610"
+  },
+  {
+    "licenceNo": 611,
+    "name": "Timothy Lyons",
+    "age": "42",
+    "raceCount": 17,
+    "address": "Beaver Falls, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=611"
+  },
+  {
+    "licenceNo": 612,
+    "name": "Heather Thomas",
+    "age": "45",
+    "raceCount": 2,
+    "address": "Pittsburgh, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=612"
+  },
+  {
+    "licenceNo": 613,
+    "name": "Edward Cabana",
+    "age": "47",
+    "raceCount": 0,
+    "address": "Pittsburgh, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=613"
+  },
+  {
+    "licenceNo": 614,
+    "name": "Dawn Wolcott",
+    "age": "41",
+    "raceCount": 0,
+    "address": "Erie, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=614"
+  },
+  {
+    "licenceNo": 615,
+    "name": "Casey Williams",
+    "age": "48",
+    "raceCount": 2,
+    "address": "Boiling Springs, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=615"
+  },
+  {
+    "licenceNo": 616,
+    "name": "Sean Davis",
+    "age": "45",
+    "raceCount": 1,
+    "address": "Pittsburgh, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=616"
+  },
+  {
+    "licenceNo": 617,
+    "name": "Russell Dryer",
+    "age": "45",
+    "raceCount": 30,
+    "address": "Pittsburgh, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=617"
+  },
+  {
+    "licenceNo": 618,
+    "name": "Deron Luzar",
+    "age": "45",
+    "raceCount": 0,
+    "address": "San Ramon, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=618"
+  },
+  {
+    "licenceNo": 619,
+    "name": "John Herron",
+    "age": "45",
+    "raceCount": 0,
+    "address": "Gloucester, MA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=619"
+  },
+  {
+    "licenceNo": 620,
+    "name": "Wai Hung Fong",
+    "age": "42",
+    "raceCount": 16,
+    "address": "Brooklyn, NY",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=620"
+  },
+  {
+    "licenceNo": 621,
+    "name": "Aaron Bartone",
+    "age": "45",
+    "raceCount": 0,
+    "address": "Pittsburgh, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=621"
+  },
+  {
+    "licenceNo": 622,
+    "name": "Gary Knapick",
+    "age": "44",
+    "raceCount": 0,
+    "address": "North Huntingdon, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=622"
+  },
+  {
+    "licenceNo": 623,
+    "name": "Thomas Lacy",
+    "age": "47",
+    "raceCount": 0,
+    "address": "Pittsburgh, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=623"
+  },
+  {
+    "licenceNo": 624,
+    "name": "Michael Hedrick",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Gettysburg, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=624"
+  },
+  {
+    "licenceNo": 625,
+    "name": "Cyril Svoboda",
+    "age": "41",
+    "raceCount": 0,
+    "address": "Pittsburgh, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=625"
+  },
+  {
+    "licenceNo": 626,
+    "name": "William Krimsky",
+    "age": "48",
+    "raceCount": 0,
+    "address": "Narberth, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=626"
+  },
+  {
+    "licenceNo": 627,
+    "name": "Derek Davis",
+    "age": "45",
+    "raceCount": 0,
+    "address": "Butler, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=627"
+  },
+  {
+    "licenceNo": 628,
+    "name": "Richard Maguire",
+    "age": "45",
+    "raceCount": 0,
+    "address": "Pittsburgh, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=628"
+  },
+  {
+    "licenceNo": 629,
+    "name": "Julie Levri",
+    "age": "47",
+    "raceCount": 1,
+    "address": "Pittsburgh, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=629"
+  },
+  {
+    "licenceNo": 630,
+    "name": "Jeremy Larson",
+    "age": "48",
+    "raceCount": 1,
+    "address": "Pickerington, OH",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=630"
+  },
+  {
+    "licenceNo": 631,
+    "name": "Stephen Putnam",
+    "age": "45",
+    "raceCount": 0,
+    "address": "Harman, WV",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=631"
+  },
+  {
+    "licenceNo": 632,
+    "name": "Matthew Frey",
+    "age": "45",
+    "raceCount": 8,
+    "address": "Huntingdon Valley, PA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=632"
+  },
+  {
+    "licenceNo": 633,
+    "name": "John Seckinger",
+    "age": "46",
+    "raceCount": 8,
+    "address": "Lafayette, CO",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=633"
+  },
+  {
+    "licenceNo": 635,
+    "name": "Jason Rayles",
+    "age": "42",
+    "raceCount": 0,
+    "address": "Tacoma Park, MD",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=635"
+  },
+  {
+    "licenceNo": 636,
+    "name": "Thomas Cloppert",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Cincinnati, OH",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=636"
+  },
+  {
+    "licenceNo": 637,
+    "name": "Scott Danny",
+    "age": "52",
+    "raceCount": 0,
+    "address": "Fairfield, OH",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=637"
+  },
+  {
+    "licenceNo": 638,
+    "name": "Kevin Haynes",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Springfield, OH",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=638"
+  },
+  {
+    "licenceNo": 639,
+    "name": "Richard Hoeting",
+    "age": "44",
+    "raceCount": 49,
+    "address": "Cincinnati, OH",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=639"
+  },
+  {
+    "licenceNo": 641,
+    "name": "Steven Rupp",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Indianapolis, IN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=641"
+  },
+  {
+    "licenceNo": 642,
+    "name": "Robert Ryan",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Cincinnati, OH",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=642"
+  },
+  {
+    "licenceNo": 643,
+    "name": "Stephen Schofield",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Waterville, OH",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=643"
+  },
+  {
+    "licenceNo": 644,
+    "name": "Steven Wanek",
+    "age": "42",
+    "raceCount": 0,
+    "address": "Cincinnati, OH",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=644"
+  },
+  {
+    "licenceNo": 645,
+    "name": "Timothy Upton",
+    "age": "49",
+    "raceCount": 0,
+    "address": "Marlborough, NH",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=645"
+  },
+  {
+    "licenceNo": 646,
+    "name": "Ie-Chen Cheng",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Temple City, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=646"
+  },
+  {
+    "licenceNo": 647,
+    "name": "Richard Jacobsen",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Riverside, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=647"
+  },
+  {
+    "licenceNo": 648,
+    "name": "Nai Kang Kuan",
+    "age": "43",
+    "raceCount": 1,
+    "address": "Riverside, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=648"
+  },
+  {
+    "licenceNo": 649,
+    "name": "Ron Keichline",
+    "age": "48",
+    "raceCount": 0,
+    "address": "Arlington, VA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=649"
+  },
+  {
+    "licenceNo": 650,
+    "name": "Kenneth Pratt",
+    "age": "41",
+    "raceCount": 0,
+    "address": "Loomis, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=650"
+  },
+  {
+    "licenceNo": 652,
+    "name": "Andrew Potts",
+    "age": "41",
+    "raceCount": 0,
+    "address": "New Orleans, LA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=652"
+  },
+  {
+    "licenceNo": 653,
+    "name": "Scott Maciboba",
+    "age": "51",
+    "raceCount": 0,
+    "address": "Riverside, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=653"
+  },
+  {
+    "licenceNo": 654,
+    "name": "David Millard",
+    "age": "49",
+    "raceCount": 0,
+    "address": "Angwin, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=654"
+  },
+  {
+    "licenceNo": 655,
+    "name": "Joe Nakagawa",
+    "age": "42",
+    "raceCount": 0,
+    "address": "Torrance, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=655"
+  },
+  {
+    "licenceNo": 656,
+    "name": "Michael Veatch",
+    "age": "45",
+    "raceCount": 0,
+    "address": "Riverside, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=656"
+  },
+  {
+    "licenceNo": 658,
+    "name": "Lisa Cody",
+    "age": "51",
+    "raceCount": 0,
+    "address": "Palo Alto, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=658"
+  },
+  {
+    "licenceNo": 659,
+    "name": "Mike Spitz",
+    "age": "44",
+    "raceCount": 0,
+    "address": "San Jose, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=659"
+  },
+  {
+    "licenceNo": 661,
+    "name": "Kristin Drumm",
+    "age": "47",
+    "raceCount": 152,
+    "address": "Novato, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=661"
+  },
+  {
+    "licenceNo": 662,
+    "name": "Kevin Farrauto",
+    "age": "53",
+    "raceCount": 75,
+    "address": "Livermore, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=662"
+  },
+  {
+    "licenceNo": 665,
+    "name": "Randall Shem",
+    "age": "42",
+    "raceCount": 0,
+    "address": "Foster City, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=665"
+  },
+  {
+    "licenceNo": 666,
+    "name": "Elena Militar",
+    "age": "45",
+    "raceCount": 0,
+    "address": "Gold River, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=666"
+  },
+  {
+    "licenceNo": 668,
+    "name": "Erika Bourne",
+    "age": "48",
+    "raceCount": 0,
+    "address": "San Jose, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=668"
+  },
+  {
+    "licenceNo": 669,
+    "name": "Matt Bole",
+    "age": "41",
+    "raceCount": 287,
+    "address": "Loveland, OH",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=669"
+  },
+  {
+    "licenceNo": 670,
+    "name": "Leonard Coe",
+    "age": "51",
+    "raceCount": 1,
+    "address": "Sunnyvale, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=670"
+  },
+  {
+    "licenceNo": 671,
+    "name": "Shannon Hughes",
+    "age": "43",
+    "raceCount": 1,
+    "address": "Fuquay Varina, NC",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=671"
+  },
+  {
+    "licenceNo": 672,
+    "name": "Aaron Breitbard",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Golden, CO",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=672"
+  },
+  {
+    "licenceNo": 673,
+    "name": "Ferris Boulos",
+    "age": "46",
+    "raceCount": 0,
+    "address": "Fremont, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=673"
+  },
+  {
+    "licenceNo": 674,
+    "name": "Jeffrey Lin",
+    "age": "49",
+    "raceCount": 0,
+    "address": "Montebello, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=674"
+  },
+  {
+    "licenceNo": 675,
+    "name": "Pat Nay",
+    "age": "62",
+    "raceCount": 7,
+    "address": "Pasadena, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=675"
+  },
+  {
+    "licenceNo": 676,
+    "name": "Richard Todd",
+    "age": "47",
+    "raceCount": 2,
+    "address": "San Jose, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=676"
+  },
+  {
+    "licenceNo": 677,
+    "name": "Laurence Core",
+    "age": "47",
+    "raceCount": 4,
+    "address": "Boulder Creek, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=677"
+  },
+  {
+    "licenceNo": 678,
+    "name": "Bjorn Loucard",
+    "age": "42",
+    "raceCount": 1,
+    "address": "Santa Rosa, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=678"
+  },
+  {
+    "licenceNo": 679,
+    "name": "Gary Westby",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Menlo Park, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=679"
+  },
+  {
+    "licenceNo": 680,
+    "name": "Gregory Silva",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Hacienda Heights, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=680"
+  },
+  {
+    "licenceNo": 681,
+    "name": "Mark Scott",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Bonita, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=681"
+  },
+  {
+    "licenceNo": 682,
+    "name": "Matthew Booth",
+    "age": "44",
+    "raceCount": 1,
+    "address": "Boise, ID",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=682"
+  },
+  {
+    "licenceNo": 683,
+    "name": "Marc Vermill",
+    "age": "49",
+    "raceCount": 0,
+    "address": "Laguna Hills, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=683"
+  },
+  {
+    "licenceNo": 684,
+    "name": "Luca Pasqualini",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Los Angeles, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=684"
+  },
+  {
+    "licenceNo": 685,
+    "name": "Dianna Zupp",
+    "age": "50",
+    "raceCount": 0,
+    "address": "Palo Alto, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=685"
+  },
+  {
+    "licenceNo": 686,
+    "name": "Kevin Kwon",
+    "age": "45",
+    "raceCount": 0,
+    "address": "Fullerton, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=686"
+  },
+  {
+    "licenceNo": 687,
+    "name": "Garryck Hampton",
+    "age": "45",
+    "raceCount": 1,
+    "address": "Los Angeles, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=687"
+  },
+  {
+    "licenceNo": 688,
+    "name": "Armando Granillo",
+    "age": "47",
+    "raceCount": 0,
+    "address": "Huntington Park, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=688"
+  },
+  {
+    "licenceNo": 689,
+    "name": "Dion Carr",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Phoenix, AZ",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=689"
+  },
+  {
+    "licenceNo": 690,
+    "name": "Eric Balfus",
+    "age": "45",
+    "raceCount": 75,
+    "address": "Los Gatos, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=690"
+  },
+  {
+    "licenceNo": 691,
+    "name": "Christopher Martin",
+    "age": "52",
+    "raceCount": 0,
+    "address": "Los Angeles, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=691"
+  },
+  {
+    "licenceNo": 692,
+    "name": "Simon Kann",
+    "age": "43",
+    "raceCount": 6,
+    "address": "Rancho Palos Verdes, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=692"
+  },
+  {
+    "licenceNo": 693,
+    "name": "Daniel Beck",
+    "age": "42",
+    "raceCount": 1,
+    "address": "Santa Barbara, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=693"
+  },
+  {
+    "licenceNo": 694,
+    "name": "K Lane Herrick",
+    "age": "44",
+    "raceCount": 8,
+    "address": "Costa Mesa, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=694"
+  },
+  {
+    "licenceNo": 695,
+    "name": "Rolando Toledo",
+    "age": "48",
+    "raceCount": 0,
+    "address": "Los Angeles, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=695"
+  },
+  {
+    "licenceNo": 696,
+    "name": "David Jones",
+    "age": "51",
+    "raceCount": 1,
+    "address": "Coeur D' Alene, ID",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=696"
+  },
+  {
+    "licenceNo": 697,
+    "name": "Fred Anderson",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Los Angeles, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=697"
+  },
+  {
+    "licenceNo": 698,
+    "name": "Allison Nagel",
+    "age": "42",
+    "raceCount": 0,
+    "address": "Reno, NV",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=698"
+  },
+  {
+    "licenceNo": 699,
+    "name": "Sirisat Khalsa",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Los Angeles, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=699"
+  },
+  {
+    "licenceNo": 700,
+    "name": "Shelley Furlong",
+    "age": "47",
+    "raceCount": 0,
+    "address": "Sparks, NV",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=700"
+  },
+  {
+    "licenceNo": 701,
+    "name": "Nila Ruslen",
+    "age": "42",
+    "raceCount": 1,
+    "address": "San Jose, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=701"
+  },
+  {
+    "licenceNo": 702,
+    "name": "Eric Ronsheimer",
+    "age": "46",
+    "raceCount": 0,
+    "address": "San Jose, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=702"
+  },
+  {
+    "licenceNo": 703,
+    "name": "Michael Diehl",
+    "age": "42",
+    "raceCount": 0,
+    "address": "Las Vegas, NV",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=703"
+  },
+  {
+    "licenceNo": 704,
+    "name": "Julie Haberkorn",
+    "age": "45",
+    "raceCount": 0,
+    "address": "Alameda, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=704"
+  },
+  {
+    "licenceNo": 706,
+    "name": "Michael Seid",
+    "age": "43",
+    "raceCount": 0,
+    "address": "San Diego, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=706"
+  },
+  {
+    "licenceNo": 707,
+    "name": "Alan Whitten",
+    "age": "48",
+    "raceCount": 0,
+    "address": "Pittsburg, KS",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=707"
+  },
+  {
+    "licenceNo": 710,
+    "name": "Natalie Moratti",
+    "age": "58",
+    "raceCount": 0,
+    "address": "Reno, NV",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=710"
+  },
+  {
+    "licenceNo": 711,
+    "name": "Michael Baker",
+    "age": "45",
+    "raceCount": 0,
+    "address": "Del Mar, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=711"
+  },
+  {
+    "licenceNo": 714,
+    "name": "Diana Griffin",
+    "age": "54",
+    "raceCount": 0,
+    "address": "Reno, NV",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=714"
+  },
+  {
+    "licenceNo": 715,
+    "name": "Dan Ennig",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Manhattan Beach, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=715"
+  },
+  {
+    "licenceNo": 716,
+    "name": "Alex Vendler",
+    "age": "49",
+    "raceCount": 0,
+    "address": "Venice, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=716"
+  },
+  {
+    "licenceNo": 717,
+    "name": "Rachel Tobin",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Atlanta, GA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=717"
+  },
+  {
+    "licenceNo": 718,
+    "name": "Paul Martin",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Reno, NV",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=718"
+  },
+  {
+    "licenceNo": 719,
+    "name": "Dusty Harmon",
+    "age": "45",
+    "raceCount": 0,
+    "address": "Sparks, NV",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=719"
+  },
+  {
+    "licenceNo": 720,
+    "name": "Mark Patterson",
+    "age": "41",
+    "raceCount": 0,
+    "address": "Mountain View, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=720"
+  },
+  {
+    "licenceNo": 721,
+    "name": "Ken Harmon",
+    "age": "45",
+    "raceCount": 0,
+    "address": "Reno, NV",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=721"
+  },
+  {
+    "licenceNo": 722,
+    "name": "Aimee Martin",
+    "age": "44",
+    "raceCount": 0,
+    "address": "San Diego, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=722"
+  },
+  {
+    "licenceNo": 723,
+    "name": "Joseph Nelesen",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Simi Valley, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=723"
+  },
+  {
+    "licenceNo": 725,
+    "name": "Glenn Sanders",
+    "age": "56",
+    "raceCount": 9,
+    "address": "Boulder, CO",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=725"
+  },
+  {
+    "licenceNo": 726,
+    "name": "Kevin Lunde",
+    "age": "41",
+    "raceCount": 0,
+    "address": "Oakland, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=726"
+  },
+  {
+    "licenceNo": 728,
+    "name": "Rachel Kay",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Long Beach, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=728"
+  },
+  {
+    "licenceNo": 729,
+    "name": "Chad Roemer",
+    "age": "45",
+    "raceCount": 8,
+    "address": "Vacaville, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=729"
+  },
+  {
+    "licenceNo": 730,
+    "name": "David Moore",
+    "age": "45",
+    "raceCount": 0,
+    "address": "San Diego, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=730"
+  },
+  {
+    "licenceNo": 731,
+    "name": "Michael McCowen",
+    "age": "54",
+    "raceCount": 0,
+    "address": "Carson City, NV",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=731"
+  },
+  {
+    "licenceNo": 732,
+    "name": "Tom Kennedy",
+    "age": "48",
+    "raceCount": 0,
+    "address": "Reno, NV",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=732"
+  },
+  {
+    "licenceNo": 735,
+    "name": "Benjamin Bonnes",
+    "age": "41",
+    "raceCount": 0,
+    "address": "Berkeley, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=735"
+  },
+  {
+    "licenceNo": 736,
+    "name": "Ann Cass",
+    "age": "47",
+    "raceCount": 0,
+    "address": "La Jolla, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=736"
+  },
+  {
+    "licenceNo": 738,
+    "name": "Eric Werner",
+    "age": "45",
+    "raceCount": 2,
+    "address": "Mountain View, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=738"
+  },
+  {
+    "licenceNo": 739,
+    "name": "Karina Francis",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Santa Barbara, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=739"
+  },
+  {
+    "licenceNo": 740,
+    "name": "Gregory Schmitt",
+    "age": "46",
+    "raceCount": 0,
+    "address": "Ridgecrest, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=740"
+  },
+  {
+    "licenceNo": 741,
+    "name": "Joshua Zlotlow",
+    "age": "42",
+    "raceCount": 43,
+    "address": "Encinitas, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=741"
+  },
+  {
+    "licenceNo": 742,
+    "name": "Nicholas Moede",
+    "age": "48",
+    "raceCount": 0,
+    "address": "San Diego, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=742"
+  },
+  {
+    "licenceNo": 743,
+    "name": "Efrain Cerrato",
+    "age": "52",
+    "raceCount": 0,
+    "address": "Costa Mesa, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=743"
+  },
+  {
+    "licenceNo": 744,
+    "name": "Kris Wells",
+    "age": "45",
+    "raceCount": 4,
+    "address": "La Mesa, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=744"
+  },
+  {
+    "licenceNo": 745,
+    "name": "William Mifsud",
+    "age": "45",
+    "raceCount": 0,
+    "address": "South San Francisco, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=745"
+  },
+  {
+    "licenceNo": 746,
+    "name": "Sang Park",
+    "age": "48",
+    "raceCount": 0,
+    "address": "La Jolla, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=746"
+  },
+  {
+    "licenceNo": 747,
+    "name": "Ryan Cady",
+    "age": "42",
+    "raceCount": 15,
+    "address": "Carlsbad, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=747"
+  },
+  {
+    "licenceNo": 748,
+    "name": "Amy Churchill",
+    "age": "44",
+    "raceCount": 0,
+    "address": "San Luis Obispo, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=748"
+  },
+  {
+    "licenceNo": 749,
+    "name": "Adam Livingston",
+    "age": "42",
+    "raceCount": 141,
+    "address": "Oceanside, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=749"
+  },
+  {
+    "licenceNo": 751,
+    "name": "Tim Clark",
+    "age": "49",
+    "raceCount": 0,
+    "address": "Clovis, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=751"
+  },
+  {
+    "licenceNo": 752,
+    "name": "Katherine Elsley",
+    "age": "43",
+    "raceCount": 0,
+    "address": "New York, NY",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=752"
+  },
+  {
+    "licenceNo": 753,
+    "name": "David Shih",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Brookline, MA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=753"
+  },
+  {
+    "licenceNo": 754,
+    "name": "Christopher Feezor",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Granada Hills, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=754"
+  },
+  {
+    "licenceNo": 755,
+    "name": "Tim Knudsen",
+    "age": "42",
+    "raceCount": 19,
+    "address": "Mill Valley, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=755"
+  },
+  {
+    "licenceNo": 756,
+    "name": "Mark Linenberg",
+    "age": "44",
+    "raceCount": 15,
+    "address": "Decatur, GA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=756"
+  },
+  {
+    "licenceNo": 757,
+    "name": "Daniel Sawada",
+    "age": "42",
+    "raceCount": 0,
+    "address": "Canoga Park, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=757"
+  },
+  {
+    "licenceNo": 758,
+    "name": "Genaro Riffo",
+    "age": "41",
+    "raceCount": 0,
+    "address": "Jacksonville, FL",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=758"
+  },
+  {
+    "licenceNo": 759,
+    "name": "Kathy Li",
+    "age": "41",
+    "raceCount": 0,
+    "address": "San Diego, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=759"
+  },
+  {
+    "licenceNo": 761,
+    "name": "Jed Brintzenhoff",
+    "age": "46",
+    "raceCount": 0,
+    "address": "Portland, OR",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=761"
+  },
+  {
+    "licenceNo": 763,
+    "name": "Sarah Hines",
+    "age": "41",
+    "raceCount": 0,
+    "address": "Mill Valley, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=763"
+  },
+  {
+    "licenceNo": 764,
+    "name": "Sal Bundi",
+    "age": "46",
+    "raceCount": 0,
+    "address": "San Jose, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=764"
+  },
+  {
+    "licenceNo": 765,
+    "name": "John Meehan",
+    "age": "55",
+    "raceCount": 15,
+    "address": "Granville, OH",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=765"
+  },
+  {
+    "licenceNo": 766,
+    "name": "Mike Robles",
+    "age": "44",
+    "raceCount": 0,
+    "address": "El Monte, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=766"
+  },
+  {
+    "licenceNo": 767,
+    "name": "Benjamin Koyle",
+    "age": "45",
+    "raceCount": 54,
+    "address": "Lynnfield, MA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=767"
+  },
+  {
+    "licenceNo": 769,
+    "name": "Trissa Ayala",
+    "age": "46",
+    "raceCount": 0,
+    "address": "Azusa, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=769"
+  },
+  {
+    "licenceNo": 770,
+    "name": "Beverley Anderson-Abbs",
+    "age": "52",
+    "raceCount": 2,
+    "address": "Red Bluff, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=770"
+  },
+  {
+    "licenceNo": 772,
+    "name": "Edward Spuler",
+    "age": "46",
+    "raceCount": 0,
+    "address": "Dover, NH",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=772"
+  },
+  {
+    "licenceNo": 773,
+    "name": "Sara Shoemaker",
+    "age": "41",
+    "raceCount": 0,
+    "address": "Aptos, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=773"
+  },
+  {
+    "licenceNo": 775,
+    "name": "Craig Parsons",
+    "age": "45",
+    "raceCount": 0,
+    "address": "Palo Alto, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=775"
+  },
+  {
+    "licenceNo": 776,
+    "name": "Bret Scher",
+    "age": "44",
+    "raceCount": 0,
+    "address": "San Diego, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=776"
+  },
+  {
+    "licenceNo": 777,
+    "name": "Andrew Grayson",
+    "age": "45",
+    "raceCount": 1,
+    "address": "Chico, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=777"
+  },
+  {
+    "licenceNo": 778,
+    "name": "Tracy Teel",
+    "age": "41",
+    "raceCount": 0,
+    "address": "San Diego, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=778"
+  },
+  {
+    "licenceNo": 779,
+    "name": "Tom Quilliam",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Tustin, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=779"
+  },
+  {
+    "licenceNo": 780,
+    "name": "Emily Kauffman",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Del Mar, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=780"
+  },
+  {
+    "licenceNo": 781,
+    "name": "Benjamin Chang",
+    "age": "53",
+    "raceCount": 0,
+    "address": "San Diego, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=781"
+  },
+  {
+    "licenceNo": 783,
+    "name": "David Schurig",
+    "age": "50",
+    "raceCount": 6,
+    "address": "San Diego, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=783"
+  },
+  {
+    "licenceNo": 784,
+    "name": "John Grocling",
+    "age": "48",
+    "raceCount": 0,
+    "address": "San Diego, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=784"
+  },
+  {
+    "licenceNo": 785,
+    "name": "Rojer Markesen",
+    "age": "42",
+    "raceCount": 0,
+    "address": "Sparks, NV",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=785"
+  },
+  {
+    "licenceNo": 787,
+    "name": "James Anderson",
+    "age": "43",
+    "raceCount": 1,
+    "address": "Reno, NV",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=787"
+  },
+  {
+    "licenceNo": 788,
+    "name": "David Edwards",
+    "age": "46",
+    "raceCount": 0,
+    "address": "Clairemont, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=788"
+  },
+  {
+    "licenceNo": 789,
+    "name": "Jason Edmonson",
+    "age": "44",
+    "raceCount": 0,
+    "address": "Reno, NV",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=789"
+  },
+  {
+    "licenceNo": 791,
+    "name": "Adam Kendall",
+    "age": "41",
+    "raceCount": 0,
+    "address": "San Diego, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=791"
+  },
+  {
+    "licenceNo": 793,
+    "name": "Chris Berk",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Lemon Grove, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=793"
+  },
+  {
+    "licenceNo": 794,
+    "name": "Terri Wild",
+    "age": "47",
+    "raceCount": 0,
+    "address": "Reno, NV",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=794"
+  },
+  {
+    "licenceNo": 795,
+    "name": "Sandra Lawrence",
+    "age": "46",
+    "raceCount": 0,
+    "address": "Reno, NV",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=795"
+  },
+  {
+    "licenceNo": 797,
+    "name": "Kevin Cox",
+    "age": "55",
+    "raceCount": 0,
+    "address": "Reno, NV",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=797"
+  },
+  {
+    "licenceNo": 798,
+    "name": "Jason Sanchez",
+    "age": "44",
+    "raceCount": 4,
+    "address": "San Francisco, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=798"
+  },
+  {
+    "licenceNo": 799,
+    "name": "Hiroshi Koike",
+    "age": "47",
+    "raceCount": 0,
+    "address": "Reno, NV",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=799"
+  },
+  {
+    "licenceNo": 800,
+    "name": "Frederick Schwab",
+    "age": "48",
+    "raceCount": 0,
+    "address": "Reno, NV",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=800"
+  },
+  {
+    "licenceNo": 801,
+    "name": "Jeffrey Pritchett",
+    "age": "42",
+    "raceCount": 22,
+    "address": "Vacaville, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=801"
+  },
+  {
+    "licenceNo": 803,
+    "name": "Trent Harshbarger",
+    "age": "43",
+    "raceCount": 0,
+    "address": "Reno, NV",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=803"
+  },
+  {
+    "licenceNo": 805,
+    "name": "Kelly O'Keefe",
+    "age": "42",
+    "raceCount": 0,
+    "address": "Reno, NV",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=805"
+  },
+  {
+    "licenceNo": 807,
+    "name": "Julie Rippingham",
+    "age": "50",
+    "raceCount": 0,
+    "address": "Reno, NV",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=807"
+  },
+  {
+    "licenceNo": 809,
+    "name": "William Lanphier",
+    "age": "47",
+    "raceCount": 0,
+    "address": "Decatur, GA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=809"
+  },
+  {
+    "licenceNo": 810,
+    "name": "Michael Franklin",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Decatur, GA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=810"
+  },
+  {
+    "licenceNo": 811,
+    "name": "Dan Ping",
+    "age": "56",
+    "raceCount": 0,
+    "address": "Atlanta, GA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=811"
+  }
+]

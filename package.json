@@ -24,6 +24,13 @@
     "usa-cycling",
     "cycling"
   ],
+  "scripts": {
+    "start": "NODE_PATH=./lib node index.js",
+    "dev": "NODE_PATH=./lib nodemon index.js",
+    "eslint": "eslint lib/ --ext .js || true",
+    "eslint:fix": "eslint lib/ --ext .js --fix || true",
+    "reinstall": "rimraf node_modules && npm i"
+  },
   "devDependencies": {
     "babel-core": "^6.9.0",
     "babel-plugin-add-module-exports": "^0.2.1",
@@ -33,14 +40,7 @@
     "eslint": "^3.16.0",
     "eslint-config-standard": "^6.2.1",
     "eslint-plugin-promise": "^3.4.2",
-    "eslint-plugin-standard": "^2.0.1"
-  },
-  "scripts": {
-    "start": "NODE_PATH=./lib node index.js",
-    "dev": "NODE_PATH=./lib nodemon index.js",
-    "eslint": "eslint lib/ --ext .js || true",
-    "eslint:fix": "eslint lib/ --ext .js --fix || true",
-    "reinstall": "rimraf node_modules && npm i"
+    "eslint-plugin-standard": "^2.0.1yarn"
   },
   "dependencies": {
     "bluebird": "^3.4.0",

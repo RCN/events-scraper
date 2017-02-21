@@ -2,7 +2,7 @@
   "extends": "standard",
   "rules": {
     "comma-dangle": [1, "only-multiline"],
-    "space-before-function-paren": ["error", { "anonymous": "always", "named": "never" }],
+    "space-before-function-paren": ["error", { "anonymous": "never", "named": "never" }],
     "spaced-comment": 0
   }
 }

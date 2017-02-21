@@ -1,0 +1,82 @@
+[
+  {
+    "licenceNo": 509846,
+    "name": "Robert Olson",
+    "age": "55",
+    "raceCount": 0,
+    "address": "Salmonsalmon, ID",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=509846"
+  },
+  {
+    "licenceNo": 509847,
+    "name": "Shawn Nelson",
+    "age": "26",
+    "raceCount": 1,
+    "address": "Fond Du Lac, WI",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=509847"
+  },
+  {
+    "licenceNo": 509848,
+    "name": "Tracey Buckethal",
+    "age": "49",
+    "raceCount": 0,
+    "address": "Sykesville, MD",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=509848"
+  },
+  {
+    "licenceNo": 509849,
+    "name": "Curtis Brown",
+    "age": "32",
+    "raceCount": 0,
+    "address": "Raleigh, NC",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=509849"
+  },
+  {
+    "licenceNo": 509850,
+    "name": "Julius Gomez",
+    "age": "12",
+    "raceCount": 2,
+    "address": "Dyer, IN",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=509850"
+  },
+  {
+    "licenceNo": 509851,
+    "name": "Tim Deal",
+    "age": "34",
+    "raceCount": 0,
+    "address": "Austin, AR",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=509851"
+  },
+  {
+    "licenceNo": 509852,
+    "name": "Marium Ibarra",
+    "age": "25",
+    "raceCount": 8,
+    "address": "Woodstock, IL",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=509852"
+  },
+  {
+    "licenceNo": 509853,
+    "name": "Nathan Voorhees",
+    "age": "33",
+    "raceCount": 0,
+    "address": "Marion, SD",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=509853"
+  },
+  {
+    "licenceNo": 509854,
+    "name": "Pedro Lara",
+    "age": "27",
+    "raceCount": 0,
+    "address": "Tijuana, CA",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=509854"
+  },
+  {
+    "licenceNo": 509855,
+    "name": "Opal McAlvanah",
+    "age": "14",
+    "raceCount": 2,
+    "address": "Madison, WI",
+    "_urlUsedToPullInfo": "https://usacycling.org/results/?compid=509855"
+  }
+]

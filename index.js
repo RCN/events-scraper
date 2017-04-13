@@ -8,6 +8,6 @@ require('babel-register')({
   // "plugins": ["add-module-exports"],
 })
 require('babel-polyfill')
-// require('./lib/usac-scraper')
+require('./lib/usac-scraper')
 // require('./lib/scrapers/example-scraper');
-require('./lib/scrapers/usac-racers');
+// require('./lib/scrapers/usac-racers');

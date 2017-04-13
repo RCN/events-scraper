@@ -225,10 +225,6 @@ babel-messages@^6.23.0:
   dependencies:
     babel-runtime "^6.22.0"
 
-babel-npm-module-example@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/babel-npm-module-example/-/babel-npm-module-example-1.0.0.tgz#24f727f55f0a794b2e1cc2e782cf377bbd053ce0"
-
 babel-plugin-add-module-exports@^0.2.1:
   version "0.2.1"
   resolved "https://registry.yarnpkg.com/babel-plugin-add-module-exports/-/babel-plugin-add-module-exports-0.2.1.tgz#9ae9a1f4a8dc67f0cdec4f4aeda1e43a5ff65e25"
@@ -1322,9 +1318,9 @@ levn@^0.3.0, levn@~0.3.0:
     prelude-ls "~1.1.2"
     type-check "~0.3.2"
 
-little-scraper@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/little-scraper/-/little-scraper-1.0.0.tgz#36ce3e778f0db4646396c5523c9795814951d962"
+little-scraper@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/little-scraper/-/little-scraper-1.1.0.tgz#2929b2f665b4080a5d7a3db15a5d35d53ebda612"
   dependencies:
     bluebird "^3.4.0"
     colors "^1.0.3"

@@ -1650,6 +1650,35 @@
     "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=rr&noncomp=0&state=CN&cnt=40&"
   },
   {
+    "permit": "2017-2555",
+    "name": "Henleyville Road Race",
+    "dates": [
+      "2017-08-26T07:00:00.000Z"
+    ],
+    "location": {
+      "cityState": "Corning, CA",
+      "detailed": [
+        "20351 Simpson Road",
+        "Corning, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/20351+Simpson+Road+Corning,+CA+96021,+USA"
+    },
+    "promoter": {
+      "club": "Golden Chain Cyclists",
+      "raceDirector": "Robert Leibold",
+      "url": "http://usacycling.org/clubs/index.php?club=2568"
+    },
+    "eventWebSite": "http://www.velopromo.com",
+    "status": "Permitted",
+    "usacCategory": "Category - E",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=rr&noncomp=0&state=CN&cnt=40&"
+  },
+  {
     "permit": "2017-2280",
     "name": "RED KITE CHAMPIONSHIP WEEKEND-2017 RED KITE AND NCNCA MASTERS/JUNIORS",
     "dates": [
@@ -1677,7 +1706,7 @@
     "discipline": "Road",
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
-    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=rr&noncomp=0&state=CN&cnt=40&"
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=rr&noncomp=0&state=CN&cnt=60&"
   },
   {
     "permit": "2017-2356",

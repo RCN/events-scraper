@@ -27,6 +27,7 @@
   "scripts": {
     "start": "NODE_PATH=./lib node index.js",
     "dev": "NODE_PATH=./lib nodemon index.js",
+    "data-tools": "NODE_PATH=./lib nodemon data-tools/index.js",
     "eslint": "eslint lib/ --ext .js || true",
     "eslint:fix": "eslint lib/ --ext .js --fix || true",
     "reinstall": "rimraf node_modules && npm i"
@@ -36,13 +37,16 @@
     "babel-plugin-add-module-exports": "^0.2.1",
     "babel-polyfill": "^6.9.0",
     "babel-preset-stage-2": "^6.3.13",
+    "csvtojson": "^1.1.7",
     "eslint": "^3.16.0",
     "eslint-config-standard": "^6.2.1",
     "eslint-plugin-promise": "^3.4.2",
     "eslint-plugin-standard": "^2.0.1",
+    "jsonfile": "^3.0.1",
     "mocha": "^3.2.0",
     "nodemon": "^1.11.0",
-    "rimraf": "^2.5.2"
+    "rimraf": "^2.5.2",
+    "walk-sync": "^0.3.2"
   },
   "dependencies": {
     "babel-env": "^2.4.1",

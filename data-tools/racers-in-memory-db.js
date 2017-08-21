@@ -4,8 +4,11 @@ const walkSync = require('walk-sync')
 const P = require('bluebird')
 const { log } = require('console-tools')
 const readJsonFile = require('./utils/read-json-file')
-const { take, flatten, keyBy, keys, isNaN: isNotANumber } = require('lodash/fp')
+const { pipe, map, pick, uniqBy, flatten, keyBy, keys, isNaN: isNotANumber } = require('lodash/fp')
+const fp = require('lodash/fp')
 const path = require('path')
+const json2csv = require('json2csv')
+const writeTextToFile = require('./utils/write-text-to-file')
 
 const csv = require('csvtojson')
 
@@ -61,11 +64,14 @@ const getAllRacers = () => {
     { concurrency: 100 }
   )
     .then(results => flatten(results))
-    .then(results => {
+    .then(allRacers => {
       log.task('Bulding index by license number...')
-      const indexedRacers = keyBy('licenceNo', results)
+      const indexedRacers = keyBy('licenceNo', allRacers)
       log.done('Indexing is done!')
-      return indexedRacers
+      return {
+        indexedRacers,
+        allRacers,
+      }
     })
 }
 
@@ -74,32 +80,47 @@ const getAllRacers = () => {
 // })
 
 P.props({
-  allRacers: getAllRacers(),
+  racers: getAllRacers(),
   racersWithoutZip: getRacersWithouthZip()
-}).then(({ allRacers, racersWithoutZip }) => {
-  log.info(`Total racers: ${keys(allRacers).length}`)
+}).then(({ racers, racersWithoutZip }) => {
+  const { indexedRacers, allRacers } = racers
+
+  log.info(`Total racers: ${allRacers.length}`)
   log.info(`Racers withouth zip: ${racersWithoutZip.length}`)
 
-  const notFoundRacers = racersWithoutZip.filter(x => {
-    const matchedRacer = allRacers[x.licenseNo]
-    if (!matchedRacer) {
-      return x
-    }
-  })
+  const preparedRacers = pipe(
+    map(pick(['licenceNo', 'name', 'address', 'age', 'raceCount']))
+  )(allRacers)
 
-  log.debug(`Not found racers: ${notFoundRacers.length}`)
+  writeTextToFile('./all-racers.csv', json2csv({ data: preparedRacers }))
+    .then((fileName) => log.done(`CSV file saved: "${fileName}"`))
 
-  racersWithoutZip.map(x => {
-    const matchedRacer = allRacers[x.licenseNo]
+  // const foundRacers = fp.pipe(
+  //   fp.flatMap(racerWithoutZip => (allRacers[racerWithoutZip.licenseNo] || []))
+  // )(racersWithoutZip)
 
-    if (matchedRacer) {
-      // log.json(matchedRacer)
-    } else {
-      // log.json(x)
-    }
+  // 402 before pulling new
+  // log.warn(`Not found racers: ${racersWithoutZip.length - foundRacers.length}`)
+  // log.done(`Found racers: ${foundRacers.length}`)
 
-    return x
-  })
+  // output uniq locations
+  // log.json(pipe(
+  //   map(pick('address')),
+  //   uniqBy('address')
+  // )(foundRacers))
+
+  // const preparedRacers = pipe(
+  //   map(pick(['licenceNo', 'name', 'address', 'age', 'raceCount']))
+  // )(foundRacers)
+
+  // ouput sample CSV
+  // console.log(
+  //   json2csv({ data: fp.take(10, preparedRacers) })
+  // )
+  //
+
+  // writeTextToFile('./racers-with-zips.csv', json2csv({ data: preparedRacers }))
+  //   .then(() => log.done('CSV file saved: "racers-with-zips.csv"'))
 })
 
 function run() {}

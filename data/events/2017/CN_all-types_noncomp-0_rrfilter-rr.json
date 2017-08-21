@@ -1334,7 +1334,6 @@
       "url": "https://usacycling.org/clubs/index.php?club=2568"
     },
     "eventWebSite": "http://www.velopromo.com",
-    "registrationLink": "http://www.bikereg.com",
     "status": "Permitted",
     "usacCategory": "Category - E",
     "year": 2017,
@@ -1359,7 +1358,6 @@
       "url": "https://usacycling.org/clubs/index.php?club=12690"
     },
     "eventWebSite": "http://www.redkiteracing.com",
-    "registrationLink": "http://www.bikereg.com/events/?pid=4870",
     "status": "Permitted",
     "usacCategory": "Category - E",
     "year": 2017,
@@ -1384,7 +1382,6 @@
       "url": "https://usacycling.org/clubs/index.php?club=2568"
     },
     "eventWebSite": "http://www.velopromo.com",
-    "registrationLink": "http://www.bikereg.com",
     "status": "Permitted",
     "usacCategory": "Category - E",
     "year": 2017,
@@ -1557,7 +1554,8 @@
       "url": "https://usacycling.org/clubs/index.php?club=2568"
     },
     "eventWebSite": "http://www.velopromo.com",
-    "status": "Pending",
+    "registrationLink": "http://www.bikereg.com",
+    "status": "Permitted",
     "usacCategory": "Category - D",
     "year": 2017,
     "state": "CN",
@@ -1799,6 +1797,30 @@
     },
     "status": "Complete",
     "usacCategory": "Category - E",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Collegiate",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Collegiate&rrfilter=rr&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2017-2601",
+    "name": "Wildcat MTB Race",
+    "dates": ["2017-09-30T07:00:00.000Z", "2017-10-01T07:00:00.000Z"],
+    "location": {
+      "cityState": "Chico, CA",
+      "detailed": "Chico, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+Chico,+CA+95926,+USA"
+    },
+    "promoter": {
+      "club": "California State University-Chico",
+      "raceDirector": "Anthony Tran",
+      "url": "https://usacycling.org/clubs/index.php?club=3391"
+    },
+    "eventWebSite": "http://www.facebook.com/events/112409339400663/?context=create&previousaction=create&ref=5&page_id_source=1881225038826999&sid_create=2832345047&action_history=[%7B%22surface%22%3A%22create_dialog%22%2C%22mechanism%22%3A%22page_create_dialog%22%2C%22extra_data%2",
+    "status": "Permit in Process",
+    "usacCategory": "Category - D",
     "year": 2017,
     "state": "CN",
     "discipline": "Collegiate",

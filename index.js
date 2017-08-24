@@ -16,6 +16,6 @@ require('babel-register')({
   // "plugins": ["add-module-exports"],
 })
 require('babel-polyfill')
-require('./lib/scrapers/bikereg-scraper')
+// require('./lib/scrapers/bikereg')
 // require('./lib/scrapers/example-scraper');
-// require('./lib/scrapers/usac-racers');
+require('./lib/scrapers/usac-racers');

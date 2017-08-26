@@ -1,0 +1,83 @@
+[
+  {
+    "Categories": [
+      {
+        "CategoryName": "Junior 12 & under",
+        "Distance": "1 laps",
+        "EntryFee": 5,
+        "FieldLimit": 0,
+        "StartTime": "10:30:00"
+      },
+      {
+        "CategoryName": "Senior \"C\"",
+        "Distance": "30 minutes",
+        "EntryFee": 15,
+        "FieldLimit": 0,
+        "StartTime": "10:30:00"
+      },
+      {
+        "CategoryName": "Women \"B\"",
+        "Distance": "30 minutes",
+        "EntryFee": 15,
+        "FieldLimit": 0,
+        "StartTime": "10:30:00"
+      },
+      {
+        "CategoryName": "Juniors",
+        "Distance": "45 minutes",
+        "EntryFee": 18,
+        "FieldLimit": 0,
+        "StartTime": "11:30:00"
+      },
+      {
+        "CategoryName": "Masters",
+        "Distance": "45 minutes",
+        "EntryFee": 18,
+        "FieldLimit": 0,
+        "StartTime": "11:30:00"
+      },
+      {
+        "CategoryName": "Senior \"B\"",
+        "Distance": "45 minutes",
+        "EntryFee": 18,
+        "FieldLimit": 0,
+        "StartTime": "12:30:00"
+      },
+      {
+        "CategoryName": "Women \"A\"",
+        "Distance": "45 minutes",
+        "EntryFee": 20,
+        "FieldLimit": 0,
+        "StartTime": "13:30:00"
+      },
+      {
+        "CategoryName": "Senior \"A\"",
+        "Distance": "60 minutes",
+        "EntryFee": 20,
+        "FieldLimit": 0,
+        "StartTime": "14:30:00"
+      }
+    ],
+    "Distance": 0,
+    "EventAddress": "",
+    "EventCity": "Northfield Mountain",
+    "EventDate": "/Date(972792000000-0400)/",
+    "EventEndDate": "/Date(972792000000-0400)/",
+    "EventId": 32,
+    "EventName": "Competitive Edge Cyclocross Race",
+    "EventNotes": null,
+    "EventPermalink": "http://www.BikeReg.com/32",
+    "EventState": "MA",
+    "EventTypes": ["Cyclocross Race"],
+    "EventUrl": "http://www.bikereg.com/32/Competitive-Edge-Cyclocross-Race-Northfield-Mountain-MA",
+    "EventWebsite": "http://www.bostoncross.com/2000/competitive_edge_cyclocross.html",
+    "EventZip": null,
+    "Latitude": 42.6167524,
+    "Longitude": -72.4439758,
+    "Permit": "",
+    "PledgeRegUrl": null,
+    "PresentedBy": "Competitive Edge Ski And Bike",
+    "RegCloseDate": "/Date(972597600000-0400)/",
+    "RegOpenDate": "/Date(946731600000-0500)/"
+  }
+]

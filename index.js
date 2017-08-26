@@ -18,6 +18,6 @@ require('babel-register')({
   ],
 })
 require('babel-polyfill')
-require('./lib/scrapers/bikereg')
+require('./lib/scrapers/bikereg/scrape-all')
 // require('./lib/scrapers/example-scraper');
 // require('./lib/scrapers/usac-racers');

@@ -47,6 +47,7 @@
     "jsonfile": "^3.0.1",
     "mocha": "^3.2.0",
     "nodemon": "^1.11.0",
+    "prettier": "^1.5.3",
     "rimraf": "^2.5.2",
     "walk-sync": "^0.3.2"
   },

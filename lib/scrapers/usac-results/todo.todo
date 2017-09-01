@@ -1,0 +1,7 @@
+USAC Results:
+  - consider pandas (Kyle suggested)
+  - write a scraper
+  - merge two CSVs into one dataset
+    - clean it up (see sample)
+    - store as JSON for now?
+    - or store in postgres

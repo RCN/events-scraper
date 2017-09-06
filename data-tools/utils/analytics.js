@@ -6,14 +6,13 @@ const { pipe, groupBy, toPairs, map, orderBy, curry } = require('lodash/fp')
  * @param {[type]} propName [description]
  * @returns {[type]} Array of array pairs with [propName, count]
  */
-const countBy = propName => pipe(
-  groupBy(propName),
+const countBy = pipe(
+  groupBy,
   toPairs,
   map(([state, events]) => ([state, events.length])),
   orderBy(['1'], ['desc'])
 )
 
 module.exports = {
-  countBy: curry((propName, objectsArr) => countBy(propName)(objectsArr))
-  // countBy: curry(countBy)
+  countBy: countBy
 }

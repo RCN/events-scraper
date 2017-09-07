@@ -1,0 +1,595 @@
+Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,Rider License #,First name,Last name,Time,Team
+06/28/2015,Cross Country,Pro,Men,,,1,183112,Cole,House,1:58:23.2,
+06/28/2015,Cross Country,Pro,Men,,,2,214936,Nathan,Guerra,1:58:36.9,Vision Cycling
+06/28/2015,Cross Country,Pro,Men,,,3,307965,Corey,Stelljes,1:59:40.3,Motorless Motion/Cannondale
+06/28/2015,Cross Country,Pro,Men,,,4,145071,Tristan,Schouten,2:00:43.2,Rolf Prima / Attitude Sports
+06/28/2015,Cross Country,Pro,Men,,,5,200724,Isaac,Neff,2:00:55.0,5Nines/Motorless Motion Bicycl
+06/28/2015,Cross Country,Pro,Men,,,6,297073,Justin,Piontek,2:02:10.9,Adventure 212/Specialized
+06/28/2015,Cross Country,Pro,Men,,,7,285001,Darrin,Braun,2:03:28.0,Adventure 212/Specialized
+06/28/2015,Cross Country,Pro,Men,,,8,377510,Josh,Bauer,2:03:51.9,Twin Six/NWRC
+06/28/2015,Cross Country,Pro,Men,,,9,296192,Casey,Hildebrandt,2:03:58.8,The Underground Project
+06/28/2015,Cross Country,Pro,Men,,,DNF,85929,Brian,Matter,0:00:00.0,KS / Energy Mosh
+06/28/2015,Cross Country,Pro,Men,,,DNF,375764,Brad,Auen,0:00:00.0,Midwest Mountain Project
+06/28/2015,Cross Country,Open - Single Speed,Men,,,1,257462,Jason,Gosse,1:42:27.0,Anybody's Bikeshop
+06/28/2015,Cross Country,Open - Single Speed,Men,,,2,0,Joshua,Blun,1:43:20.6,
+06/28/2015,Cross Country,Open - Single Speed,Men,,,3,415138,Eric,Weidman,1:47:37.5,Twin 6
+06/28/2015,Cross Country,Open - Single Speed,Men,,,4,439004,Steve,Jeske,1:51:51.0,Team Pedal Moraine
+06/28/2015,Cross Country,Open - Fat Bike,Men,,,1,0,Michael,Reuter,1:08:44.9,Bluedog Cycles
+06/28/2015,Cross Country,Open - Fat Bike,Men,,,2,450132,Chase,Brown,1:11:01.4,
+06/28/2015,Cross Country,Open - Fat Bike,Men,,,3,206661,Ryan,Fosnaugh,1:13:30.8,Treadheadng
+06/28/2015,Cross Country,Open - Fat Bike,Men,,,4,0,Ridge,Pidde,1:16:35.8,Wookiee
+06/28/2015,Cross Country,Open - Fat Bike,Men,,,5,381760,Noah,Kellermann,1:23:06.2,Titletown Flyers
+06/28/2015,Cross Country,Open - Fat Bike,Men,,,DNF,190487,Gary,Smits,0:00:00.0,Titletown Flyers
+06/28/2015,Cross Country,Open - Clydesdale,Men,,,1,0,Mark,Anderson,1:44:30.2,On the Rivet
+06/28/2015,Cross Country,Open - Clydesdale,Men,,,2,210181,Jeff,Steckbauer,1:47:06.5,Rib Mnt Cycles
+06/28/2015,Cross Country,Open - Clydesdale,Men,,,3,309999,Eric,Johnson,1:52:24.6,Anybody's Bikeshop
+06/28/2015,Cross Country,Junior,Men,,10,1,400596,Magnus,Davidson,0:26:53.1,Steele Nutrition
+06/28/2015,Cross Country,Junior,Men,,10,2,417171,Elliot,Harold,0:26:54.2,RacePace/Vision Club
+06/28/2015,Cross Country,Junior,Men,,10,3,435294,Nathan,Bailey,0:27:39.7,SPYCT Red Fury
+06/28/2015,Cross Country,Junior,Men,,10,4,475237,Sawyer,Zydzik,0:28:09.9,Rib Mountain Cycles
+06/28/2015,Cross Country,Junior,Men,,10,5,433548,Brennen,Huff,0:28:44.2,433548
+06/28/2015,Cross Country,Junior,Men,,10,6,459389,Tyler,Peterson,0:28:57.1,Sun Prairie Youth Cycling Team
+06/28/2015,Cross Country,Junior,Men,,10,7,0,Ethan,Wateski,0:31:07.9,
+06/28/2015,Cross Country,Junior,Men,,10,8,0,Steven,Parsons,0:32:07.7,
+06/28/2015,Cross Country,Junior,Men,,10,9,0,Nolan,Quarne,0:32:14.6,
+06/28/2015,Cross Country,Junior,Men,,10,10,0,Adam,Luedke,0:32:54.0,
+06/28/2015,Cross Country,Junior,Men,,10,11,0,Wyatt,Garrett,0:43:34.7,CORBA
+06/28/2015,Cross Country,Junior,Men,,11,1,0,Sam,Anderson,0:24:04.8,On The Rivet
+06/28/2015,Cross Country,Junior,Men,,11,2,480499,Cole,Rollins,0:24:52.1,Linear Sport MTB/TREK
+06/28/2015,Cross Country,Junior,Men,,11,3,382385,Stephen,Liepert,0:26:55.0,Trail Vipers
+06/28/2015,Cross Country,Junior,Men,,11,4,378741,Lucas,Fletcher,0:27:03.4,Wheel & Sprocket / Vision
+06/28/2015,Cross Country,Junior,Men,,11,5,0,Isaiah,Berry,0:28:19.1,
+06/28/2015,Cross Country,Junior,Men,,11,6,0,Isaac,Johnson,0:30:05.5,Wheel and Sprocket/VIsion
+06/28/2015,Cross Country,Junior,Men,,11,7,0,Wyatt,Milas,0:30:08.5,
+06/28/2015,Cross Country,Junior,Men,,11,8,0,Sam,Anderson,0:34:42.2,
+06/28/2015,Cross Country,Junior,Men,,12,1,343542,Anders,Davidson,0:24:48.3,Steele Nutrition
+06/28/2015,Cross Country,Junior,Men,,12,2,434365,Carson,Lisowe,0:25:20.2,Scarlet Knights
+06/28/2015,Cross Country,Junior,Men,,12,3,453461,Cal,McDonald,0:25:32.4,CORBA/OTR
+06/28/2015,Cross Country,Junior,Men,,12,4,0,Weston,Milas,0:25:33.0,
+06/28/2015,Cross Country,Junior,Men,,12,5,454337,Chris,Karlovich,0:25:54.5,Cam Rock Composite
+06/28/2015,Cross Country,Junior,Men,,12,6,0,Eli,Kotz,0:27:05.1,
+06/28/2015,Cross Country,Junior,Men,,12,7,0,Micah,Vandyke,0:27:05.8,Team Stinger
+06/28/2015,Cross Country,Junior,Men,,12,8,365809,Justin,Munzur,0:28:39.4,Cafe De Arts Roastery
+06/28/2015,Cross Country,Junior,Men,,12,9,451408,Gavin,Wateski,0:28:41.6,
+06/28/2015,Cross Country,Junior,Men,,12,10,403213,Owen,Roltgen,0:29:02.0,Sun Prairie Red Fury
+06/28/2015,Cross Country,Junior,Men,,12,11,0,Marcus,Roach,0:31:29.9,
+06/28/2015,Cross Country,Junior,Men,,12,12,0,Barry,Fitz,0:32:16.6,
+06/28/2015,Cross Country,Junior,Men,,13,1,433204,Max,Bailey,0:22:10.3,SPYCT
+06/28/2015,Cross Country,Junior,Men,,13,2,434363,Kaleb,Moore,0:23:00.0,Broken Spoke
+06/28/2015,Cross Country,Junior,Men,,13,3,0,Elijah,Johnson,0:23:00.0,Wheel and Sprocket/Vision
+06/28/2015,Cross Country,Junior,Men,,13,4,0,Chase,Vandeursen,0:23:44.9,
+06/28/2015,Cross Country,Junior,Men,,13,5,472307,Aiden,Schauer,0:24:15.0,
+06/28/2015,Cross Country,Junior,Men,,13,6,375803,Jacob,Mork,0:24:29.8,FCYCT-The Scarlet Knights
+06/28/2015,Cross Country,Junior,Men,,13,7,474298,Nieyah,Mallory,0:24:54.6,Organic ValleyP/B Ale Asylum
+06/28/2015,Cross Country,Junior,Men,,13,8,0,Malachi,Berry,0:25:43.3,
+06/28/2015,Cross Country,Junior,Men,,13,9,428885,Reece,Rimrodt,0:25:48.7,Sun Prairie Youth Cycling
+06/28/2015,Cross Country,Junior,Men,,13,10,433549,Mason,Huff,0:26:34.7,433549
+06/28/2015,Cross Country,Junior,Men,,13,11,406958,Andrew,Vant Hoff,0:27:30.5,Sun Prairie Fury
+06/28/2015,Cross Country,Junior,Men,,13,DNF,467268,Nicholas,Georges,0:00:00.0,Team Extreme
+06/28/2015,Cross Country,Junior,Men,,13,DNF,467934,Alex,Kinnamon,0:00:00.0,SPYCT
+06/28/2015,Cross Country,Junior,Men,,14,1,433952,William,Frank,0:22:07.7,Trail Vipers
+06/28/2015,Cross Country,Junior,Men,,14,2,439980,Byrne,Dobrient,0:22:10.3,
+06/28/2015,Cross Country,Junior,Men,,14,3,423719,Ben,Komoroske,0:22:23.2,Trail Genius
+06/28/2015,Cross Country,Junior,Men,,14,4,475092,Nolan,Francis,0:23:45.1,
+06/28/2015,Cross Country,Junior,Men,,14,5,450874,Zachary,Richards,0:24:58.7,RD Worldwide
+06/28/2015,Cross Country,Junior,Men,,14,6,431916,Nick,Koprowski,0:27:04.3,Sun Prairie Youth Cycling Team
+06/28/2015,Cross Country,Junior,Men,,7-8,1,475228,Thaddeus,Sahs,0:29:19.1,Broken Spoke Racing
+06/28/2015,Cross Country,Junior,Men,,7-8,2,433231,Hakon,Heggland,0:29:20.1,Sun Prairie Red Fury
+06/28/2015,Cross Country,Junior,Men,,7-8,3,0,Ash,Kapitz,0:32:03.0,Broken Spoke Racing
+06/28/2015,Cross Country,Junior,Men,,7-8,4,451552,Jayce,Mork,0:32:03.4,Twin Six
+06/28/2015,Cross Country,Junior,Men,,7-8,5,422418,Skyler,Werner,0:34:59.0,Organic ValleyP/B Ale Asylum
+06/28/2015,Cross Country,Junior,Men,,7-8,6,0,Tommy,Agnew,0:35:12.9,Englewood Farm
+06/28/2015,Cross Country,Junior,Men,,7-8,7,0,Colbin,Whitwan,0:35:57.0,
+06/28/2015,Cross Country,Junior,Men,,7-8,8,470772,Aleksandar,Trajcev,0:36:00.5,Cafe De Arts Roastery
+06/28/2015,Cross Country,Junior,Men,,7-8,9,0,Andrew,Dipiazza,0:36:01.6,
+06/28/2015,Cross Country,Junior,Men,,7-8,10,476771,Daniel,Blanke,0:37:30.4,The Bike Haven
+06/28/2015,Cross Country,Junior,Men,,7-8,11,0,Aidric,Gengler,0:38:21.3,Out Of Bucks Lodge
+06/28/2015,Cross Country,Junior,Men,,7-8,12,473711,Carson,Purdy,0:40:28.2,Winnebago Bicycle
+06/28/2015,Cross Country,Junior,Men,,7-8,13,0,Dominic,Santine,0:40:44.4,
+06/28/2015,Cross Country,Junior,Men,,7-8,14,0,Colin,Baer,0:40:55.3,
+06/28/2015,Cross Country,Junior,Men,,7-8,15,470681,Ryker,Zarda,0:41:01.1,Scarlet Knights FCYCT
+06/28/2015,Cross Country,Junior,Men,,7-8,16,0,Gavin,Anderson,0:41:50.5,
+06/28/2015,Cross Country,Junior,Men,,7-8,17,0,Brody,Garrett,0:43:46.9,CORBA
+06/28/2015,Cross Country,Junior,Men,,7-8,18,0,Kayden,Helland,0:47:01.3,
+06/28/2015,Cross Country,Junior,Men,,7-8,DNF,473094,Matthew,Garner,0:00:00.0,All Spoked Up
+06/28/2015,Cross Country,Junior,Men,,9,1,433310,Will,Knowles,0:26:54.4,All Spoked Up - Vision
+06/28/2015,Cross Country,Junior,Men,,9,2,407242,Hunter,Gengler,0:26:56.4,Team WORS
+06/28/2015,Cross Country,Junior,Men,,9,3,0,Teague,Jacksin,0:27:27.5,Vision
+06/28/2015,Cross Country,Junior,Men,,9,4,433309,Colin,Knowles,0:27:37.7,All Spoked Up - Vision
+06/28/2015,Cross Country,Junior,Men,,9,5,0,Tyler,Starich,0:28:10.9,
+06/28/2015,Cross Country,Junior,Men,,9,6,473710,Nolan,Purdy,0:28:11.8,Winnebago Bicycle
+06/28/2015,Cross Country,Junior,Men,,9,7,0,Samuel,Dipiazza,0:29:17.2,
+06/28/2015,Cross Country,Junior,Men,,9,8,472308,Rylan,Schauer,0:29:32.2,
+06/28/2015,Cross Country,Junior,Men,,9,9,0,Mason,Miner,0:35:29.7,
+06/28/2015,Cross Country,Junior,Men,,9,10,422417,Thatcher,Werner,0:36:06.7,Organic ValleyP/B Ale Asylum
+06/28/2015,Cross Country,Junior,Men,,9,11,0,Ryan,Olson,0:44:48.6,
+06/28/2015,Cross Country,Junior,Men,,9,12,0,Lsaul,Brown,0:45:33.3,
+06/28/2015,Cross Country,Junior,Men,,9,DNF,434315,Gavin,Knudson,0:00:00.0,Team WORS
+06/28/2015,Cross Country,Cat 3 - Clydesdale,Men,,39-,1,0,Matt,Zillman,0:50:13.8,
+06/28/2015,Cross Country,Cat 3 - Clydesdale,Men,,39-,2,0,Ian,Hall,0:51:39.7,Anybody's bikeshop
+06/28/2015,Cross Country,Cat 3 - Clydesdale,Men,,39-,3,453710,Trent,Gengler,0:51:56.4,Lungbusters
+06/28/2015,Cross Country,Cat 3 - Clydesdale,Men,,39-,4,451433,Jeff,Polsean,0:53:08.8,
+06/28/2015,Cross Country,Cat 3 - Clydesdale,Men,,39-,5,453320,Eric,Skomaroske,0:54:17.0,
+06/28/2015,Cross Country,Cat 3 - Clydesdale,Men,,39-,6,451277,Jake,Geissler,0:56:48.1,
+06/28/2015,Cross Country,Cat 3 - Clydesdale,Men,,39-,7,473881,Nick,Niemann,0:57:18.2,Angry Monkeys Racing
+06/28/2015,Cross Country,Cat 3 - Clydesdale,Men,,39-,8,0,Anthony,Ziegler,0:57:34.6,
+06/28/2015,Cross Country,Cat 3 - Clydesdale,Men,,39-,9,453494,Joe,Ford,0:57:42.2,
+06/28/2015,Cross Country,Cat 3 - Clydesdale,Men,,39-,10,0,Brian,Kademan,1:15:31.0,
+06/28/2015,Cross Country,Cat 3 - Clydesdale,Men,,39-,11,0,Andrew,Van Sistine,1:19:24.5,
+06/28/2015,Cross Country,Cat 3 - Clydesdale,Men,,40+,1,379200,Steve,Slocum,0:56:46.5,Gray Knights
+06/28/2015,Cross Country,Cat 3 - Clydesdale,Men,,40+,2,452452,Jeff,Sieckert,0:57:21.3,
+06/28/2015,Cross Country,Cat 3 - Clydesdale,Men,,40+,3,0,Andrew,Gast,0:59:05.7,
+06/28/2015,Cross Country,Cat 3 - Clydesdale,Men,,40+,4,437856,Troy,Gengler,1:05:20.8,Team Wors
+06/28/2015,Cross Country,Cat 3 - Clydesdale,Men,,40+,5,294015,Mark,Clifton,1:09:54.6,Albatross Racing
+06/28/2015,Cross Country,Cat 3 - Clydesdale,Men,,40+,6,434323,Terry,Bennett,1:17:41.2,Rib Mountain Cycles Red Eye Br
+06/28/2015,Cross Country,Cat 3 - Clydesdale,Men,,40+,DNF,470305,Peter,Frank,0:00:00.0,Trail Vipers
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,11-14,1,353908,Hunter,Schmitt,0:44:41.3,IS Corp
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,11-14,2,400240,Sam,Komoroske,0:44:42.9,Vision/Trail Genius
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,11-14,3,439727,Aidan,Lemorande,0:46:25.9,Gryphon Velo
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,11-14,4,353906,Skyler,Schmitt,0:47:46.9,IS Corp
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,11-14,5,429439,Nick,Niemi,0:47:48.3,trail vipers
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,11-14,6,434619,Liam,Cate,0:49:06.6,Visioncycling-Wheel and Sprock
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,11-14,7,347916,Porter,Thorpe,0:50:31.7,Rib Mountain Cycles/Red Eye Br
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,11-14,8,374521,Collin,Neuser,0:50:32.1,Rib Mountain Cycles
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,11-14,9,376126,Lance,Storey,0:50:55.6,Vision Zion Cyclery
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,11-14,10,459341,Austin,Peterson,0:50:57.9,Sun Prairie Youth Cycling Team
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,11-14,11,435363,Dylan,Waldner,0:51:03.1,Organic Valleyp/b Ale Asylem
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,11-14,12,0,Joshua,Caron,0:51:55.1,SPYCT. Red Fury
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,11-14,13,470891,Griffin,May,0:54:14.1,All Spoked Up/Vision
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,11-14,14,439728,Brody,Flament,0:54:41.4,Zion Cyclery/Vision/323 Plumbi
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,11-14,15,468490,Luke,Holmstrom,0:57:39.9,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,11-14,16,434621,Brennan,Cate,1:05:28.0,visioncycling wheel and sprock
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,11-14,DNF,428673,Ethan,Janssen,0:00:00.0,Trail Vipers
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,11-14,DNF,455465,Sam,Walters,0:00:00.0,212 Cycling
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,15-16,1,398004,Jackson,Jennings,0:46:19.4,Broken Spoke Cycling Team
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,15-16,2,423445,Lunden,Friberg,0:46:21.2,Broken Spoke Racing
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,15-16,3,0,Adam,Gray,0:46:30.4,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,15-16,4,411427,Zac,Lucarz,0:47:10.8,FLY Racing
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,15-16,5,452852,Ben,Iesalnieks,0:47:35.2,Eriks Bikerveillance
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,15-16,6,432325,Corbin,Hodgeman,0:49:23.5,Sun Prairie Youth Cycling Team
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,15-16,7,0,George,Burns,0:49:38.9,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,15-16,8,0,Seth,Petersen,0:50:30.9,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,15-16,9,0,Connor,Luedke,0:51:04.6,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,15-16,10,400517,Nickolas,Duhm,0:52:08.0,FCYCT - Scarlet Knights
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,15-16,11,0,Danny,Keith,0:52:54.4,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,15-16,12,453745,Tucker,Manderscheid,0:52:55.8,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,15-16,13,476599,Andrew,Flieger,0:53:58.9,Team WORS
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,15-16,14,449594,Dan,Dominski,0:54:03.0,Corba
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,15-16,15,470312,Emmit,Kuphal,0:54:06.5,Colavita
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,15-16,16,349886,Reed,May,0:55:32.5,All Spoked Up/Vision
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,15-16,DNF,457052,Alec,Riddle,0:00:00.0,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,15-16,DNF,453937,Sam,Chumas,0:00:00.0,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,15-16,DNF,0,Jerry,Jumonville,0:00:00.0,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,17-18,1,296042,Daniel,Gretzinger,0:45:19.6,FCYCT - The Scarlet Knights
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,17-18,2,474539,Carver,Hass,0:46:22.6,Fat Kats
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,17-18,3,0,Ben,Theyerl,0:46:24.9,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,17-18,4,439395,Al,Page,0:48:31.2,Trail Vipers
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,17-18,5,431917,Jack,Koprowski,0:54:04.5,Sun Prairie Youth Cycling Team
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,17-18,DNF,403818,Grey,Rankin,0:00:00.0,Red Fury - SPYC
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,17-18,DNF,475226,Austin,Haas,0:00:00.0,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,17-18,DNF,349866,Alex,Halfman,0:00:00.0,FCYCT-Scarlet Knights
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,19-24,1,0,Carson,Pethan,0:47:12.2,Team Extreme
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,19-24,2,0,Tyler,Newton,0:49:55.8,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,19-24,3,0,Nathan,Reich,0:53:45.0,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,19-24,4,0,Garrett,Miller,0:55:12.6,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,19-24,5,0,Bjorn,Bishoff,1:14:25.2,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,19-24,DNF,418116,Nico,Tovar,0:00:00.0,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,25-29,1,0,Paul,Steckart,0:49:48.6,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,25-29,2,470883,Marco,Rhein,0:49:55.0,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,25-29,3,0,Joseph,Thompson,0:49:57.1,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,25-29,4,0,Justin,Roth,0:50:21.5,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,25-29,5,469215,Jim,Gust,0:50:51.8,All Spoked Up Vision
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,25-29,6,0,Jared,Andress-Nace,0:50:53.1,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,25-29,7,299361,Travis,Schirpke,0:53:03.3,Team Extreme
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,25-29,8,477780,Erik,Engness,0:54:01.7,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,25-29,9,0,Bryce,Rogers,0:59:24.0,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,25-29,10,0,Christopher,Hmielewski,1:00:04.1,Team Extreme
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,25-29,11,0,James,Yerk,1:00:07.3,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,25-29,12,0,Scott,Suring,1:00:07.8,Hashtag Trail Ratchets
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,25-29,DNF,467387,Adam,Mesman,0:00:00.0,Wade'z Bike Shop
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,30-34,1,432900,Dustin,Kilness,0:49:34.2,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,30-34,2,437938,Reo,Owens,0:50:12.2,2 Rivers / Vision Racing
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,30-34,3,0,Travis,Stanke,0:50:56.4,Anybodys bike shop
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,30-34,4,456380,Jack,Ignatowski,0:54:06.9,Wheel & Sprocket
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,30-34,5,0,Brian,Shimkus,0:54:07.1,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,30-34,6,0,Jason,Schneider,0:56:52.1,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,30-34,7,449783,Benjamin,Holmen,0:57:25.6,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,35-39,1,1598,Bryon,Anderson,0:47:53.3,Vision Cycling/Wheel & Sprocke
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,35-39,2,0,Jon,Veldboom,0:48:52.8,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,35-39,3,0,Gabriel,Anibas,0:49:39.3,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,35-39,4,0,Michael,Gribble,0:49:57.7,Netrix LLC
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,35-39,5,0,Andrew,Sedahl,0:53:59.6,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,35-39,6,0,Tim,Santine,0:55:11.8,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,35-39,7,435305,Garth,Martino,0:55:56.4,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,35-39,8,0,Brandon,Mueller,0:57:36.0,team mueller
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,35-39,9,467114,Doug,Emerson,0:58:46.9,Motogaz
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,40-44,1,459045,Philip,Peterson,0:48:53.3,Brazen Dropouts
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,40-44,2,451424,Jeffrey,Mertig,0:48:54.1,Overdrive
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,40-44,3,0,Scott,Derenne,0:49:24.4,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,40-44,4,470413,Jeff,Pitts,0:49:30.1,MOTOGAZ
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,40-44,5,0,George,Sieckov,0:49:30.6,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,40-44,6,0,Travis,Dettinger,0:50:30.3,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,40-44,7,452605,Robb,Brabant,0:50:52.7,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,40-44,8,472306,Bradley,Schauer,0:51:04.7,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,40-44,9,468071,Mike,Rimrodt,0:51:06.8,SP Red Fury
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,40-44,10,207693,Eric,Sockness,0:51:08.0,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,40-44,11,439149,Craig,Robinson,0:52:16.2,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,40-44,12,0,Nathan,Leinweber,0:55:27.0,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,40-44,13,432793,Kevin,Lisowe,0:56:29.2,Great Harvest
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,40-44,14,0,Davey,Sapinski,0:57:07.7,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,40-44,15,0,Luke,Pederson,1:00:27.1,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,40-44,16,457987,Dennis,Christensen,1:03:53.3,Team ACDC
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,40-44,DNF,423441,Josh,Friberg,0:00:00.0,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,40-44,DNF,405011,Brian,Urban,0:00:00.0,ABD Cycling
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,45-49,1,468491,Eric,Holmstrom,0:47:33.6,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,45-49,2,83745,Jim,Pekowsky,0:48:03.2,Vision-Wheel and Sprocket
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,45-49,3,0,Ray,Iesalnieks,0:49:40.3,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,45-49,4,424699,Daniel,Duhm,0:49:41.8,Gray Knights
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,45-49,5,418489,Jeff,Harvey,0:50:41.8,The Bike Haven
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,45-49,6,434375,Steve,Caron,0:52:42.1,SPYCT Red Fury
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,45-49,7,453666,Thomas,Kotz,0:53:56.5,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,45-49,8,468156,John,Heyerholm,0:56:07.1,Gnarythmics
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,45-49,9,0,Wayne,Sauls,0:57:11.0,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,45-49,DNF,468077,Dan,Allensworth,0:00:00.0,Motogaz
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,45-49,DNF,0,Dean,Scharie,0:00:00.0,Broken Spoke
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,50-54,1,0,Donald,Crowell,0:48:59.6,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,50-54,2,375465,Kurt,Greenslit,0:55:18.9,Colavita Racing
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,50-54,3,252879,Mike,Brown,0:55:50.1,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,50-54,4,176846,Tim,Snyder,1:01:19.4,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,50-54,5,470785,Chris,Chambers,1:06:00.9,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,50-54,6,452426,Michael,Borchardt,1:17:33.2,Team Extreme
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,50-54,DNF,216096,Brian,Ethridge,0:00:00.0,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,55-59,1,453546,Terry,Hintz,0:50:09.3,Overdrive cycling
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,55-59,2,0,Michael,Dobrient,0:53:13.6,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,55-59,3,449598,Lee,Marsh,0:53:16.9,CORBA
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,55-59,4,0,Tom,Keith,0:53:23.1,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,55-59,5,0,Greg,Niles,0:56:20.9,Oberlin FilterRacing
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,55-59,6,453310,Steven,Johnson,0:56:45.3,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,55-59,7,0,Timothy,Kilness,0:57:22.2,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,55-59,8,0,Kelly,Moran,1:00:16.5,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,55-59,9,0,Jay,Reich,1:02:11.6,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,60+,1,260693,Bruce,Parker,0:57:29.2,Freewheel Bike
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,60+,2,0,William,Camppbell,1:07:29.3,
+06/28/2015,Cross Country,Cat 3 - Citizen,Men,,60+,3,435131,Don,Bogdanske,1:10:29.5,
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,13-14,1,380296,Daxton,Mock,1:02:47.6,Trek Bicycless
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,13-14,2,314966,Nate,Knowles,1:02:53.5,Vision Jr Elite
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,13-14,3,435324,Hayden,Poff,1:21:19.7,Heavy Pedal Velo Club
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,13-14,DNF,433580,Elliot,McGinnity,0:00:00.0,
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,15-16,1,400282,Adam,Altmann,1:01:17.2,On The Rivet
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,15-16,2,460092,Tristan,Hauser,1:02:51.6,
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,15-16,3,348140,Kyle,Kargel,1:05:42.9,Baraboo Sharks
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,15-16,4,433662,Ethan,Halverson,1:05:43.2,Broken Spoke Cycling
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,15-16,5,381394,Cole,McDicken,1:08:09.6,FCYCT- ScarletKnights
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,15-16,6,395379,Camden,Jackson,1:17:01.8,
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,15-16,DNF,400031,Matt,Rodenkirch,0:00:00.0,SPYCT - Red Fury
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,17-18,1,0,Benjamin,Loomis,1:05:45.1,
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,17-18,2,379918,Jacob,Ahles,1:08:15.5,FCYCTnights
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,17-18,3,428182,Chris,Dominski,1:14:04.2,MNJRC
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,17-18,DNF,472749,Steven,Traeger,0:00:00.0,Team Extreme
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,19-24,1,433632,Wesley,Vann,1:06:00.1,UWSP
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,19-24,2,0,Caleb,Meyer,1:07:32.1,
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,19-24,3,0,Tim,Shea,1:09:11.5,Freedom Machine
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,19-24,4,467085,Riley,Shelton,1:09:47.2,Team Extremed Ski
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,19-24,5,403603,Steven,Pirelli,1:10:19.7,
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,19-24,6,401271,Aaron,Robinson,1:13:09.2,Freedom Machine
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,19-24,DNF,394842,Matthew,Grogan,0:00:00.0,UW Platteville
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,25-29,1,226098,Josh,Rupnow,1:04:33.8,Team Extreme
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,25-29,2,473692,Matthew,Pierce,1:04:43.5,Corba
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,25-29,3,431153,Shawn,Peters,1:04:45.3,Main Street Bicycles Sasquatch
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,25-29,4,457118,Julien,Henry,1:05:59.1,
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,25-29,5,439003,Nate,Fetterer,1:10:14.7,Titletown Flyers
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,25-29,6,453123,Samuel,Tweed,1:10:20.5,Team Sam Tweed
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,25-29,7,358867,Matthew,Kletti,1:10:40.1,Wadez' Bike Shop
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,25-29,8,0,Clinton,Grabhorn,1:11:45.5,
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,25-29,9,434714,Doug,Herrick,1:12:02.6,Rat City Racerstage
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,25-29,10,451483,Joe,Goltz,1:12:08.4,Organic Valley
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,25-29,11,0,Zach,Mess,1:21:56.5,
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,25-29,12,0,Steve,Coddington,1:23:54.9,
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,25-29,13,0,Alex,Popp,1:27:10.4,
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,25-29,DNF,0,Elliott,Krizek,0:00:00.0,SPH
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,30-34,1,460507,John,Muraski,1:03:28.6,Team Extreme
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,30-34,2,426663,Zachariah,Radey,1:04:24.6,Broken Spoke Cycling Team
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,30-34,3,433459,Danny,Schierschmidt,1:04:43.5,Titletown Flyers
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,30-34,4,306283,Ryan,Pokorny,1:05:38.2,Team Extreme
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,30-34,5,0,Daniel,Hebert,1:05:56.3,Broken Spoke Cycling Team
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,30-34,6,453532,Travis,Christman,1:06:07.6,Moontower
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,30-34,7,0,Tim,Barclay,1:08:05.0,Epic Cycle andFitness
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,30-34,8,453735,Travis,Jensen,1:08:08.0,Corba
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,30-34,9,449460,Aaron,Black,1:08:13.7,EO Johnson Business Technologi
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,30-34,10,192240,Jerad,Poling,1:08:26.2,Bike & Sport
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,30-34,11,457488,Jeff,Siedschlag,1:08:57.4,2 Rivers / Vision
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,30-34,12,451335,Jared,Johnson,1:12:23.4,Moontower
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,30-34,13,424962,Steve,Welk,1:12:53.8,Linear Sport MTB / TREK
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,30-34,DNF,0,Matthew,Olson,0:00:00.0,Anybody's Bikeshop
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,35-39,1,433659,Greg,Halverson,1:04:09.6,Broken Spoke Cycling
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,35-39,2,473068,Mike,Purdy,1:04:57.3,Winnebago Bicycle
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,35-39,3,439729,Brad,Flament,1:06:01.1,Zion Cyclery/Vision/323 Plumbi
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,35-39,4,350656,Sean,Strosahl,1:06:21.3,
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,35-39,5,0,Jon,Lauclle,1:07:04.1,Eriks Otr
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,35-39,6,437942,Jack,Curtis,1:07:23.2,Team Extreme
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,35-39,7,433114,Jason,Baer,1:07:48.5,
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,35-39,8,380300,Ben,Leach,1:08:09.8,Organice Valley Ale Aslyum
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,35-39,9,309601,Eli,Lipp,1:13:12.8,
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,35-39,10,0,Bill,Walters,1:13:22.5,
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,35-39,DNF,431420,Samuel,Adams,0:00:00.0,Milwaukee Bicycle Company
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,35-39,DNF,453456,Shawn,Stutzman,0:00:00.0,
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,40-44,1,449765,Brad,Chovan,1:07:08.6,On the Rivetivet
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,40-44,2,0,Ernie,Luedke,1:08:03.9,
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,40-44,3,429878,Jon,Lester,1:08:14.3,Trail Vipers
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,40-44,4,230862,Andrew,Douglass,1:08:51.8,Colectivo Coffee
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,40-44,5,345020,Paul,Baltus,1:08:54.8,Janesville Velo Club
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,40-44,6,468823,Marc,Salm,1:09:12.5,Barebones Brewery
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,40-44,7,291422,Jason,Henry,1:10:46.1,Half Acre Cycling
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,40-44,8,272098,Nathan,Phelps,1:12:02.5,Gryphon Velo Racing
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,40-44,9,452616,David,Olson,1:12:18.4,Overdrive
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,40-44,10,374074,chad,klaus,1:14:55.5,J&B Cycle
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,40-44,11,324992,Eric,Zarwell,1:17:03.7,Colectivo Coffee MTB Team
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,45-49,1,293921,Quentin,Gniot,1:07:26.3,Gryphon Velo Racing
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,45-49,2,468066,Pete,Emme,1:07:45.9,Broken-Spoke Bikes
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,45-49,3,432695,Andrew,McDicken,1:07:47.8,Gray Knights
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,45-49,4,380221,Lloyd,Cate,1:08:39.9,Visioncycling-Wheel and Sprock
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,45-49,5,176654,Randal,Sahs,1:08:44.5,Broken Spoke Racing
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,45-49,6,438523,Matthew,Lemorande,1:09:21.1,Gryhow Velo
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,45-49,7,52680,Kevin,Schmitt,1:09:24.8,IS Corp
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,45-49,8,342844,Ron,Smith,1:09:33.1,
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,45-49,9,435320,Timothy,Poff,1:09:55.6,Heavy Pedal Velo Club
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,45-49,10,0,Carl,Walters,1:10:34.9,
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,45-49,11,12466,Peter,Froelich,1:10:39.1,Colectivo MTB Team
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,45-49,12,0,Bob,Bemmels,1:10:49.3,
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,45-49,13,367674,Jody,Arlen,1:11:28.0,Bike Connection
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,45-49,14,453833,Whitney,Schauer,1:12:13.0,
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,45-49,15,449516,Anthony,Holloway,1:14:00.3,Organie Valley
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,45-49,16,126893,Randy,Snyder,1:15:43.5,GACC
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,45-49,17,429405,Scott,Niemi,1:19:35.5,trail vipers
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,45-49,18,0,Jeff,Mecikalski,1:20:04.1,
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,45-49,19,450431,Dan,Wateski,1:21:40.3,
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,45-49,20,394936,Steven,Kuphal,1:25:01.9,Colavita
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,45-49,21,297065,Troy,Olm,1:30:19.0,Chainsmokers
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,45-49,DNF,401714,John,Granger,0:00:00.0,Heavy Pedal velo club
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,45-49,DNF,70548,Jeffrey,Hatton,0:00:00.0,Twin Six Six
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,45-49,DNF,429960,Chip,Way,0:00:00.0,Milwaukee Bicycle Co Race Team
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,50-54,1,434183,Michael,Owens,1:08:44.8,Colectivo Coffee
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,50-54,2,452006,Larry,Hipps,1:08:55.7,
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,50-54,3,297068,Edward,Piontek,1:09:38.9,Twin Six
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,50-54,4,412025,Mitch,Clark,1:10:34.6,epic cycle
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,50-54,5,361674,Troy,Sable,1:10:48.0,
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,50-54,6,79703,Chuck,Cunningham,1:11:08.6,Gryphon Velo Racing
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,50-54,7,378275,Todd,Fletcher,1:12:02.4,Wheel & Sprocket / Vision
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,50-54,8,46604,John,Gretzinger,1:14:50.3,
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,50-54,9,0,Stuart,Shelton,1:16:47.9,Team ExtremeSki
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,50-54,10,105534,Steven,Drecoll,1:18:18.2,Activator Cycles
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,50-54,11,0,Michael,Kaspar,1:35:14.3,
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,50-54,DNF,434647,Paul,Traeger,0:00:00.0,Team Extreme
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,55-59,1,433722,Steve,Lipski,1:09:15.6,Vision Cycling
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,55-59,2,377639,Bradley,Boettcher,1:09:47.0,Brings Cycle and Fitness
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,55-59,3,414070,Arild,Haugene,1:09:47.6,Angry Monkeys Racing
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,55-59,4,262551,Don,Freitag,1:09:50.1,Team Extreme
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,55-59,5,378294,Rich,Baumgarten,1:09:59.2,Half Acre Cycling Team
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,55-59,6,118725,Steve,Kapaun,1:11:07.5,
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,55-59,7,190745,Joseph,King,1:11:27.1,Angry Monkeys Racing
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,55-59,8,288510,John,Senkerik,1:12:15.3,Team Extreme
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,55-59,9,434374,Mike,Desrochers,1:12:40.4,
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,55-59,10,473413,Brian,Brockmann,1:13:46.2,Team Attivo
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,55-59,11,452380,Bruce,Hauser,1:19:38.9,
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,55-59,DNF,253301,Ron,Kapaun,0:00:00.0,
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,60-64,1,0,Marc,Larson,1:09:48.5,Titletown Flyers
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,60-64,2,51817,Bob,Benedum,1:10:22.3,Wookiee Juice
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,60-64,3,392296,Rick,Nelson,1:11:07.0,Kegel's
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,60-64,4,340862,Bill,Styer,1:12:47.9,
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,60-64,5,237504,Warren,Fowler,1:12:53.6,TitleTown Flyers
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,60-64,6,438222,Larry,Reimer,1:15:18.5,JVC Race Team
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,60-64,7,370790,James,Mistark,1:18:40.0,Twin Six
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,60-64,8,0,Mark,Nienstaedt,1:23:28.2,RASTA
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,60-64,DNF,237780,Glen,Jones,0:00:00.0,Trek Midwest Team
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,60-64,DNF,344022,Andrew,Mishlove,0:00:00.0,Hampshire CycleCleb
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,65+,1,475234,Chris,Kemble,1:19:30.3,Emerys
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,65+,2,296152,Frank,Lobello,1:24:25.1,Treadheads
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,65+,3,241024,James,Heinecke,1:26:07.3,I RIDE BIKES- GET OVER IT- S2C
+06/28/2015,Cross Country,Cat 2 - Sport,Men,,65+,4,211939,Steve,Manthe,1:29:06.9,Chain Smokers
+06/28/2015,Cross Country,Cat 2 - Single Speed,Men,,,1,208096,Wade,Flisram,1:06:17.0,SSOD/Organic Valley p/b Ale As
+06/28/2015,Cross Country,Cat 2 - Single Speed,Men,,,2,452722,Peter,Zernia,1:08:10.8,Anybody's Bikeshop
+06/28/2015,Cross Country,Cat 2 - Single Speed,Men,,,3,0,Patrick,Batz,1:09:06.4,
+06/28/2015,Cross Country,Cat 2 - Single Speed,Men,,,4,431724,Kerry,Gonzalez,1:09:36.0,Treadhead Cycling
+06/28/2015,Cross Country,Cat 2 - Single Speed,Men,,,5,0,Douglas,House,1:12:27.2,
+06/28/2015,Cross Country,Cat 2 - Single Speed,Men,,,6,294363,Steve,Davidson,1:13:46.8,Steele Nutrition
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,19-24,1,449754,Dustin,Marsh,1:37:04.8,Eau Claire Bike and Sport
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,19-24,2,401250,Matthew,Paterson,1:37:55.3,Vision / Wheel& Sprocket
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,19-24,3,0,Shea,Franken,1:43:24.9,Lamere
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,19-24,4,449615,Andrew,Kilness,1:45:44.1,Ski Hut
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,19-24,5,303981,Cory,Marty,1:46:13.2,Twin Six
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,19-24,6,377766,Ted,Kretzmann,1:46:13.3,Wadez Bike Shop
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,19-24,7,0,Tayler,Schoenberg,1:55:22.1,
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,19-24,DNF,433297,Caleb,Kitzerow,0:00:00.0,Heavy Pedal Velo Club
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,19-24,DNF,301914,Avery,Oppegard,0:00:00.0,Lamere Bikes
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,25-29,1,396083,Ryan,Durepo,1:36:41.2,
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,25-29,2,454215,Kevin,Lewis,1:37:37.1,Winnebago Bicycles
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,25-29,3,452898,Kyle,Retallick,1:42:00.0,Eriks Bike Shop
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,25-29,4,289953,Andrew,Wiesner,1:49:11.7,Titletown Flyers
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,25-29,DNF,0,Joe,Grap,0:00:00.0,
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,25-29,DNF,254084,Ben,Grabow,0:00:00.0,Brazen Dropouts
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,30-34,1,0,Nathan,Long,1:36:42.5,OTR
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,30-34,2,397513,Brian,Paterson,1:37:57.4,Vision / Wheel& Sprocket
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,30-34,3,0,Ben,Aanew,1:39:47.9,Enalewood Farm
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,30-34,4,262146,Kenneth,Statz,1:47:42.5,
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,30-34,5,475223,Brett,Fitz,1:49:47.2,
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,30-34,6,137940,Scott,Knutsen,1:50:08.6,
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,30-34,DNF,401669,George,Kapitz,0:00:00.0,Broken Spoke Racing
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,30-34,DNF,418128,Kenny,Peterson,0:00:00.0,Eriks Bike Shop
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,30-34,DNF,443511,Jonathan,Vota,0:00:00.0,Team Intent
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,35-39,1,313440,Martin,Tank II,1:38:31.9,Allk Spoked Up/ Vision
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,35-39,2,404168,Derrick,Reinke,1:40:58.7,Janesville Velo Club
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,35-39,3,434301,William,Ringenoldus,1:41:03.6,Wadez Bike Shopp
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,35-39,4,389577,Cory,Spaetti,1:44:55.1,Alberto's Sport
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,35-39,5,285687,Wally,Kunstman,1:46:07.3,Organic Valleyp/b Ale Asylum
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,35-39,6,0,Brian,Flug,1:49:33.9,Spring Street Sports
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,35-39,DNF,305157,Jarred,Cassady,0:00:00.0,Trek Midwest Team
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,40-44,1,296482,John,Hughes,1:41:11.8,Team Pedal Moraine
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,40-44,2,403982,Jason,Mork,1:43:48.1,Twin Six
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,40-44,3,319028,Jason,Ruesch,1:46:09.6,RMC
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,40-44,DNF,418109,Scott,Trierweiler,0:00:00.0,Broken Spoke cycles
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,40-44,DNF,427044,Michael,Garner,0:00:00.0,Intent/All Spoked Up
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,45-49,1,0,Scott,Weldhuizen,1:39:41.6,J&B cycle
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,45-49,2,469239,Dan,Szczepanski,1:40:44.3,
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,45-49,3,310413,Dave,Blanke,1:43:30.1,The Bike Haven
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,45-49,4,331674,Chris,Harold,1:45:04.0,RacePace/VisionTeam
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,45-49,5,159534,Paul,Roltgen,1:45:31.3,Brazen Dropouts
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,45-49,6,330964,Bob,Callaway,1:45:47.8,Gryphon Velo Racing
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,45-49,7,351518,Scott,Nyland,1:51:26.9,Magnus
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,45-49,DNF,474596,William,Schneider,0:00:00.0,
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,45-49,DNF,346954,Christopher,St. Clair,0:00:00.0,Milwaukee Bicycle Co. Racing
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,45-49,DNF,372524,shane,veldhuizen,0:00:00.0,Pedal & Paddle
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,50-54,1,101514,Jeff,Sympson,1:43:29.1,Kegel's
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,50-54,2,0,Tim,Wickie,1:45:39.9,Cyclova xc
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,50-54,3,375316,Demetrius,Banks,1:55:19.9,Team 360 / LaxVelo
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,50-54,DNF,0,William,Franken,0:00:00.0,
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,55+,1,453620,Tom,Tio,1:41:08.9,Eau Claire Bike & Sport
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,55+,2,154720,Jim,Peterson,1:43:05.1,Michaels CyclesJVC
+06/28/2015,Cross Country,Cat 2 - Comp,Men,,55+,3,257318,Harvey,Witt,1:48:50.0,Trace Bikes
+06/28/2015,Cross Country,Cat 2 - Clydesdale,Men,,39-,1,407903,Jason,Huff,1:13:29.3,Micheals Cycle
+06/28/2015,Cross Country,Cat 2 - Clydesdale,Men,,39-,2,453450,Jon,Strosahl,1:14:33.8,N/A
+06/28/2015,Cross Country,Cat 2 - Clydesdale,Men,,39-,3,0,Andrew,Schlagel,1:18:01.5,
+06/28/2015,Cross Country,Cat 2 - Clydesdale,Men,,39-,4,422415,Brett,Werner,1:34:31.2,Organic ValleyP/B Ale Asylum
+06/28/2015,Cross Country,Cat 2 - Clydesdale,Men,,39-,DNF,342136,Todd,Nutter,0:00:00.0,Team WORS
+06/28/2015,Cross Country,Cat 2 - Clydesdale,Men,,40+,1,0,John,Froelich,1:06:33.5,Anybody's Bikeshop
+06/28/2015,Cross Country,Cat 2 - Clydesdale,Men,,40+,2,450746,Eric,Schoenberg,1:07:08.6,
+06/28/2015,Cross Country,Cat 2 - Clydesdale,Men,,40+,3,375876,Dale,Crowell,1:09:20.3,#NAME?
+06/28/2015,Cross Country,Cat 2 - Clydesdale,Men,,40+,4,133195,Aaron,Pidde,1:11:02.3,Wookiee Juiceacing
+06/28/2015,Cross Country,Cat 2 - Clydesdale,Men,,40+,5,434506,Jesse,Steinhoff,1:12:04.1,Brone's Bike Shop/ Blue Steel
+06/28/2015,Cross Country,Cat 2 - Clydesdale,Men,,40+,6,453474,Chris,McDonald,1:12:21.1,CORBA/OTR
+06/28/2015,Cross Country,Cat 2 - Clydesdale,Men,,40+,7,0,Jeff,Seebeck,1:13:11.6,
+06/28/2015,Cross Country,Cat 2 - Clydesdale,Men,,40+,8,235797,Jon,Holcomb,1:15:24.0,Broken Spoke Cycles
+06/28/2015,Cross Country,Cat 2 - Clydesdale,Men,,40+,9,402135,Scott,Barclay,1:15:57.6,Trail Vipers
+06/28/2015,Cross Country,Cat 2 - Clydesdale,Men,,40+,10,473608,Michael,Belden,1:18:15.2,
+06/28/2015,Cross Country,Cat 2 - Clydesdale,Men,,40+,11,374749,Doug,Rodenkirch,1:19:28.4,SPYCT - Red Fury
+06/28/2015,Cross Country,Cat 2 - Clydesdale,Men,,40+,12,314964,Matt,Knowles,1:20:50.9,All Spoked Up - Vision
+06/28/2015,Cross Country,Cat 2 - Clydesdale,Men,,40+,13,435307,Mike,Bons,1:22:49.4,
+06/28/2015,Cross Country,Cat 2 - Clydesdale,Men,,40+,14,175701,Matthew,Forst,1:24:36.7,
+06/28/2015,Cross Country,Cat 2 - Clydesdale,Men,,40+,15,435357,Brad,Hodgeman,1:27:59.5,Trail Vipers
+06/28/2015,Cross Country,Cat 2 - Clydesdale,Men,,40+,16,344790,Tim,Liepert,1:29:49.1,Trail Vipers
+06/28/2015,Cross Country,Cat 2 - Clydesdale,Men,,40+,17,390163,Dale,Juedes,1:34:45.3,Trail Vipers
+06/28/2015,Cross Country,Cat 1 - Junior,Men,,17-18,1,317236,Jacob,Bons,1:43:26.2,
+06/28/2015,Cross Country,Cat 1 - Junior,Men,,17-18,2,404954,Justin,Wentworth,1:47:46.1,FCYCT-The Scarlet Knights
+06/28/2015,Cross Country,Cat 1,Men,,19-23,1,368031,Fletcher,Arlen,2:01:42.8,Midwest Devo
+06/28/2015,Cross Country,Cat 1,Men,,19-23,2,426105,Samuel,Olson,2:03:02.6,Lamere Cycles /Galeria
+06/28/2015,Cross Country,Cat 1,Men,,19-23,3,429599,Casey,Griesemer,2:08:20.4,Brazen Dropouts
+06/28/2015,Cross Country,Cat 1,Men,,19-23,4,314852,Erik,Beckman,2:10:03.5,WiscoShredSquad
+06/28/2015,Cross Country,Cat 1,Men,,19-23,5,401071,Jonathan,Wollner,2:15:12.4,Team Extreme
+06/28/2015,Cross Country,Cat 1,Men,,19-23,DNF,477195,Payson,Partridge,0:00:00.0,Sun Prairie Youth Cycling
+06/28/2015,Cross Country,Cat 1,Men,,24-29,1,384376,David,Carew,2:07:29.5,Wheel and Sprocket
+06/28/2015,Cross Country,Cat 1,Men,,24-29,DNF,358927,Kyle,Russ,0:00:00.0,Brazen Dropouts
+06/28/2015,Cross Country,Cat 1,Men,,30-34,1,385899,Dominic,Talerico,2:01:58.2,Angry Catfish
+06/28/2015,Cross Country,Cat 1,Men,,30-34,2,247082,Ted,Hanes,2:07:09.0,Fond du Lac Cyclery
+06/28/2015,Cross Country,Cat 1,Men,,30-34,3,313010,Brendan,Bellew,2:07:42.9,Penn Cycle
+06/28/2015,Cross Country,Cat 1,Men,,30-34,4,148404,Peter,Hurst,2:09:12.4,
+06/28/2015,Cross Country,Cat 1,Men,,30-34,5,227622,Carlos,Haeckel,2:11:31.8,Colectivo Coffee Team
+06/28/2015,Cross Country,Cat 1,Men,,30-34,6,204671,Tony,Wagner,2:13:28.1,Linear Sport MTB / TREK
+06/28/2015,Cross Country,Cat 1,Men,,30-34,7,326968,Tim,Gut,2:15:54.5,Angry Catfish
+06/28/2015,Cross Country,Cat 1,Men,,30-34,8,189221,Michael,Humpal,2:16:44.0,RacePace/Vision/Specialized
+06/28/2015,Cross Country,Cat 1,Men,,30-34,9,209985,Kyle,Jacobson,2:18:23.3,Linear Sport MTB / TREK
+06/28/2015,Cross Country,Cat 1,Men,,30-34,DNF,384848,Cory,Samz,0:00:00.0,Brazen Dropout
+06/28/2015,Cross Country,Cat 1,Men,,30-34,DNF,186054,Matt,Kamphuis,0:00:00.0,Trek Midwest Team
+06/28/2015,Cross Country,Cat 1,Men,,35-39,1,372595,Ryan,Rollins,2:11:37.9,Linear Sport MTB/Trek
+06/28/2015,Cross Country,Cat 1,Men,,35-39,2,221776,Mikey,Verhagen,2:12:32.0,Linear Sport MTB / TREK
+06/28/2015,Cross Country,Cat 1,Men,,35-39,3,74509,Chad,Dean,2:13:57.4,5Nines Motorless Motion
+06/28/2015,Cross Country,Cat 1,Men,,35-39,4,291820,Timothy,Scanley,2:18:31.8,Colectivo Coffee
+06/28/2015,Cross Country,Cat 1,Men,,35-39,DNF,293537,Bryan,Frazier,0:00:00.0,Adventure 212/Specialized
+06/28/2015,Cross Country,Cat 1,Men,,40-44,1,366934,Jason,Balden,2:11:51.6,KS Energy Services/MOSH/Team W
+06/28/2015,Cross Country,Cat 1,Men,,40-44,2,32513,Josh,Shively,2:14:39.6,Team 360 La Crosse
+06/28/2015,Cross Country,Cat 1,Men,,40-44,3,378689,Brett,May,2:14:45.7,All Spoked Up/Vision
+06/28/2015,Cross Country,Cat 1,Men,,40-44,4,369925,Christopher,Richmond,2:20:41.0,Heavy Pedal Velo Club
+06/28/2015,Cross Country,Cat 1,Men,,40-44,5,209665,Aaron,Swanson,2:25:36.8,Swanson financiaz/skj hu7
+06/28/2015,Cross Country,Cat 1,Men,,40-44,6,294041,Karl,Tillman,2:35:26.6,Team 360 p/b Kickapoo
+06/28/2015,Cross Country,Cat 1,Men,,40-44,DNF,280824,Chris,Fellows,0:00:00.0,Black Jack Bike
+06/28/2015,Cross Country,Cat 1,Men,,45-54,1,193027,Ray,Nelson,2:03:54.4,Treadhead Cycling
+06/28/2015,Cross Country,Cat 1,Men,,45-54,2,264455,John,Shull,2:14:24.6,Alberto's
+06/28/2015,Cross Country,Cat 1,Men,,45-54,3,211571,John,Wypiszinski,2:17:47.4,Titletown Flyers/Wiara Invest
+06/28/2015,Cross Country,Cat 1,Men,,45-54,4,194466,Jerrod,Collier,2:18:23.4,Treadhead Cycling
+06/28/2015,Cross Country,Cat 1,Men,,45-54,DNF,7340,Scott,Cole,0:00:00.0,Adventure 212/Specialized
+06/28/2015,Cross Country,Pro,Women,,,DNF,378183,Cooper,Dendel,0:00:00.0,Quick Step BikeShop
+06/28/2015,Cross Country,Open - Female,Women,,,1,467270,Holly,Lavesser,1:11:16.3,Milwaukee Bicycle Company/MKE
+06/28/2015,Cross Country,Open - Female,Women,,,2,0,Maria,Statz,1:12:49.4,
+06/28/2015,Cross Country,Open - Female,Women,,,3,427500,Whitney,Baker,1:14:52.1,Linear Sports MTB
+06/28/2015,Cross Country,Open - Female,Women,,,4,433183,Lynne,Senkerik,1:21:18.0,Team Extreme
+06/28/2015,Cross Country,Open - Female,Women,,,5,0,Rachel,Blum,1:24:36.4,
+06/28/2015,Cross Country,Junior,Women,,10,1,52680,Kendra,Schmitt,0:27:04.8,IS-Corp
+06/28/2015,Cross Country,Junior,Women,,10,2,431183,Erin,Davis,0:28:54.8,Sun Prairie Youth Cycling Team
+06/28/2015,Cross Country,Junior,Women,,10,3,435360,Kirsten,Waldner,0:29:34.2,Organic Valleyp/b Ale Asylem
+06/28/2015,Cross Country,Junior,Women,,10,4,434366,Amara,Lisowe,0:37:29.3,Scarlet Knights
+06/28/2015,Cross Country,Junior,Women,,11,1,434812,Willow,Kapitz,0:28:51.5,Broken Spoke Racing
+06/28/2015,Cross Country,Junior,Women,,11,2,459012,Arielle,Christensen,0:34:45.5,Team ACDC
+06/28/2015,Cross Country,Junior,Women,,11,3,0,Jillian,Mertig,0:35:33.9,Eau Claire Bike + Sport
+06/28/2015,Cross Country,Junior,Women,,12,1,429907,Megan,Lester,0:27:30.4,Trail Vipers
+06/28/2015,Cross Country,Junior,Women,,12,2,380297,Miette,Gosse,0:28:44.7,Anybody's Bikeshop
+06/28/2015,Cross Country,Junior,Women,,12,3,0,Alice,Adams,0:28:56.6,OTR
+06/28/2015,Cross Country,Junior,Women,,12,4,429040,Olivia,Yates,0:32:18.1,Sun Prairie Youth Cycling Team
+06/28/2015,Cross Country,Junior,Women,,12,DNF,434314,Aryana,Knudson,0:00:00.0,Team WORS
+06/28/2015,Cross Country,Junior,Women,,12,DNF,417270,Brianna,Urban,0:00:00.0,ABD Cycling
+06/28/2015,Cross Country,Junior,Women,,13,1,0,Katie,Lucarz,0:27:52.2,Fly Racing
+06/28/2015,Cross Country,Junior,Women,,13,2,0,Ava,Shively,0:30:17.3,Team 360 La Crosse
+06/28/2015,Cross Country,Junior,Women,,13,3,0,Josalin,Kumm,0:33:23.9,SPASH
+06/28/2015,Cross Country,Junior,Women,,13,4,0,Mia,Martino,0:33:37.3,
+06/28/2015,Cross Country,Junior,Women,,4-8,1,0,Nora,Mecikalski,0:35:51.1,
+06/28/2015,Cross Country,Junior,Women,,4-8,2,472651,Siobhan,Artz,0:42:18.2,
+06/28/2015,Cross Country,Junior,Women,,9,1,429908,Macy,Lester,0:29:37.9,Trail Vipers
+06/28/2015,Cross Country,Junior,Women,,9,2,0,Elana,Agnew,0:32:47.3,Englewood Farm
+06/28/2015,Cross Country,Junior,Women,,9,3,440040,Brianna,Fletcher,0:33:13.2,Wheel snd Sprocket / Vision
+06/28/2015,Cross Country,Junior,Women,,9,4,0,Tessa,Roach,0:35:25.1,
+06/28/2015,Cross Country,Cat 3 - Citizen,Women,,11-14,1,381393,Katy,McDicken,0:50:38.3,FCYCT-Scarlet Knights
+06/28/2015,Cross Country,Cat 3 - Citizen,Women,,11-14,2,346768,Lorissa,Thorpe,0:51:52.5,Rib Mountain Cycles/Red Eye Br
+06/28/2015,Cross Country,Cat 3 - Citizen,Women,,11-14,3,0,Madelyn,Anderson,0:52:18.0,On The Rivet
+06/28/2015,Cross Country,Cat 3 - Citizen,Women,,11-14,4,368322,Leah,Fletcher,0:53:46.5,Wheel and Sprocket / Vision
+06/28/2015,Cross Country,Cat 3 - Citizen,Women,,11-14,5,400520,Lauren,Duhm,0:53:54.6,FCYCT - Scarlet Knights
+06/28/2015,Cross Country,Cat 3 - Citizen,Women,,11-14,6,0,Kaitlyn,Kopp,0:53:58.9,On The Rivet
+06/28/2015,Cross Country,Cat 3 - Citizen,Women,,11-14,7,407243,Antonia,Gengler,0:56:38.7,Team WORS
+06/28/2015,Cross Country,Cat 3 - Citizen,Women,,11-14,8,435361,Brooklyn,Waldner,0:59:24.2,Organic Valleyp/b Ale Asylem
+06/28/2015,Cross Country,Cat 3 - Citizen,Women,,15-18,1,473882,Erin,Bennett,0:54:40.4,Rib Mountain Cycles
+06/28/2015,Cross Country,Cat 3 - Citizen,Women,,15-18,2,452386,Ellie,Kopp,0:56:34.6,On The Rivet
+06/28/2015,Cross Country,Cat 3 - Citizen,Women,,15-18,3,403212,Alison,Roltgen,1:07:41.1,Sun Prairie Red Fury
+06/28/2015,Cross Country,Cat 3 - Citizen,Women,,25-34,1,0,Megan,Derusha,0:54:02.5,Corba
+06/28/2015,Cross Country,Cat 3 - Citizen,Women,,25-34,2,0,Vanessa,Helland,0:56:56.5,
+06/28/2015,Cross Country,Cat 3 - Citizen,Women,,25-34,3,0,Erika,Dinkel-Smith,0:58:56.6,Cobra
+06/28/2015,Cross Country,Cat 3 - Citizen,Women,,25-34,4,0,Angelique,Van Sistine,1:05:18.9,
+06/28/2015,Cross Country,Cat 3 - Citizen,Women,,25-34,5,0,Desiree,Schmidt,1:06:26.5,Broken Spoke
+06/28/2015,Cross Country,Cat 3 - Citizen,Women,,35-44,1,448299,Nicole,Pedrick,0:55:20.3,2 Rivers / Vision Racing
+06/28/2015,Cross Country,Cat 3 - Citizen,Women,,35-44,2,345670,Natalie,Pendergrass,0:55:26.9,PSIMET Racing
+06/28/2015,Cross Country,Cat 3 - Citizen,Women,,35-44,3,0,Marisa,Anderson,0:56:55.2,On The Rivet
+06/28/2015,Cross Country,Cat 3 - Citizen,Women,,35-44,4,0,Kelsy,Kellermann,0:57:29.5,TItletown Flyers
+06/28/2015,Cross Country,Cat 3 - Citizen,Women,,35-44,5,473341,Sally,Lester,1:05:17.7,Trail Vipers
+06/28/2015,Cross Country,Cat 3 - Citizen,Women,,35-44,DNF,434313,April,Knudson,0:00:00.0,Team WORS
+06/28/2015,Cross Country,Cat 3 - Citizen,Women,,45-54,1,0,Amy,Marsh,0:57:07.5,CORBA
+06/28/2015,Cross Country,Cat 3 - Citizen,Women,,45-54,2,66505,Julie,Schmitt,0:58:58.4,IS Corp
+06/28/2015,Cross Country,Cat 3 - Citizen,Women,,45-54,3,475229,Mary,Bossell,1:09:44.2,
+06/28/2015,Cross Country,Cat 3 - Citizen,Women,,45-54,4,433561,Christine,Kysely,1:36:09.5,
+06/28/2015,Cross Country,Cat 3 - Citizen,Women,,55+,1,205453,Cheryl,Post,1:02:36.1,Point Pursuit
+06/28/2015,Cross Country,Cat 3 - Citizen,Women,,55+,2,176845,Deborah,Snyder,1:06:16.5,
+06/28/2015,Cross Country,Cat 3 - Citizen,Women,,55+,3,455960,susan,borchardt,1:17:58.2,Team Extreme
+06/28/2015,Cross Country,Cat 2 - Sport,Women,,15-18,1,403987,Hanna,Mork,1:11:57.5,Twin Six
+06/28/2015,Cross Country,Cat 2 - Sport,Women,,15-18,2,410561,Kaelin,Jackson,1:13:08.6,Vision
+06/28/2015,Cross Country,Cat 2 - Sport,Women,,15-18,3,380775,Ella,Shively,1:22:44.1,Team 360/La Crosse Velo
+06/28/2015,Cross Country,Cat 2 - Sport,Women,,19-24,1,473931,Katrina,Hurst,1:19:26.4,
+06/28/2015,Cross Country,Cat 2 - Sport,Women,,19-24,2,0,Kylie,Mannion,1:20:59.3,
+06/28/2015,Cross Country,Cat 2 - Sport,Women,,19-24,3,0,Melissa,Downs,1:22:46.8,
+06/28/2015,Cross Country,Cat 2 - Sport,Women,,25-34,1,0,Wendy,Boehm,1:16:04.7,
+06/28/2015,Cross Country,Cat 2 - Sport,Women,,25-34,2,434475,Kimberly,Biedermann,1:21:38.0,Winnebago Bicycle
+06/28/2015,Cross Country,Cat 2 - Sport,Women,,25-34,3,316500,Kelli,Douglass,1:32:55.6,Colectivo Coffee Racing
+06/28/2015,Cross Country,Cat 2 - Sport,Women,,25-34,DNF,229323,Ross,Rushin,0:00:00.0,Trek
+06/28/2015,Cross Country,Cat 2 - Sport,Women,,35-44,1,459429,Sue,McDonald,1:12:12.1,CORBA/OTR
+06/28/2015,Cross Country,Cat 2 - Sport,Women,,35-44,2,477661,Paula,Curtis,1:12:22.2,
+06/28/2015,Cross Country,Cat 2 - Sport,Women,,35-44,3,424698,Molly,Duhm,1:17:01.9,Gray Knights
+06/28/2015,Cross Country,Cat 2 - Sport,Women,,35-44,4,452391,Michelle,Scanley,1:24:22.6,Colectivo Coffee
+06/28/2015,Cross Country,Cat 2 - Sport,Women,,35-44,5,288201,Brenda,Zimmermann Thorpe,1:28:27.3,Rib Mountain Cycles/Red Eye Br
+06/28/2015,Cross Country,Cat 2 - Sport,Women,,45-54,1,342736,Diane,Callaway,1:24:44.8,Gryphon Velo Racing
+06/28/2015,Cross Country,Cat 2 - Sport,Women,,45-54,2,209601,Christine,Griesbach,1:25:41.4,
+06/28/2015,Cross Country,Cat 2 - Sport,Women,,45-54,DNF,210864,Angela,Theriault,0:00:00.0,Milwaukee Bicycle Company p/b
+06/28/2015,Cross Country,Cat 2 - Sport,Women,,45-54,DNF,433582,Susie,McGinnity,0:00:00.0,
+06/28/2015,Cross Country,Cat 2 - Sport,Women,,45-54,DNF,263259,Cathy,Diamond,0:00:00.0,Collectivo
+06/28/2015,Cross Country,Cat 2 - Single Speed,Women,,,1,0,Laura,Hiller,1:20:57.3,Laura Hiller
+06/28/2015,Cross Country,Cat 1 - Junior,Women,,15-18,1,386436,Kyra,Jackson,1:09:19.7,Vision Jr Elite
+06/28/2015,Cross Country,Cat 1 - Junior,Women,,15-18,2,397843,Mckenna,Dwyer,1:11:21.9,2 Rivers Bicycle
+06/28/2015,Cross Country,Cat 1 - Junior,Women,,15-18,3,386435,Keely,Jackson,1:12:42.7,Vision Jr Elite
+06/28/2015,Cross Country,Cat 1 - Junior,Women,,15-18,DNF,303727,Anna,Poulton,0:00:00.0,Midwest Devo
+06/28/2015,Cross Country,Cat 1,Women,,19-23,1,288627,Rachael,Jensen,1:54:25.4,Team Wisconsin/ KS Energy / M
+06/28/2015,Cross Country,Cat 1,Women,,24-34,DNF,406763,Jeanne,Hornak,0:00:00.0,Vision Cycling
+06/28/2015,Cross Country,Cat 1,Women,,35-44,1,350192,Leia,Schneeberger,1:43:15.0,Magnus
+06/28/2015,Cross Country,Cat 1,Women,,35-44,2,190888,Sarah,Agena,1:48:30.2,Cider Boysr Boys
+06/28/2015,Cross Country,Cat 1,Women,,35-44,3,227849,Lindsay,Guerra,1:49:55.7,Vision Cycling

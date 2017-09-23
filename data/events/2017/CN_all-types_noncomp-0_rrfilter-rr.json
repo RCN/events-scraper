@@ -1071,7 +1071,7 @@
       "url": "https://usacycling.org/clubs/index.php?club=2568"
     },
     "eventWebSite": "http://www.velopromo.com",
-    "status": "Permitted",
+    "status": "Complete",
     "usacCategory": "Category - E",
     "year": 2017,
     "state": "CN",
@@ -1095,7 +1095,7 @@
       "url": "https://usacycling.org/clubs/index.php?club=507"
     },
     "eventWebSite": "http://dbcraceteam.org",
-    "status": "Permitted",
+    "status": "Complete",
     "usacCategory": "Category - D",
     "year": 2017,
     "state": "CN",
@@ -1238,7 +1238,7 @@
       "url": "https://usacycling.org/clubs/index.php?club=2568"
     },
     "eventWebSite": "http://www.velopromo.com",
-    "status": "Permitted",
+    "status": "Complete",
     "usacCategory": "Category - E",
     "year": 2017,
     "state": "CN",
@@ -1262,7 +1262,7 @@
       "url": "https://usacycling.org/clubs/index.php?club=12690"
     },
     "eventWebSite": "http://www.redkiteracing.com",
-    "status": "Permitted",
+    "status": "Complete",
     "usacCategory": "Category - E",
     "year": 2017,
     "state": "CN",
@@ -1286,7 +1286,7 @@
       "url": "https://usacycling.org/clubs/index.php?club=2568"
     },
     "eventWebSite": "http://www.velopromo.com",
-    "status": "Permitted",
+    "status": "Complete",
     "usacCategory": "Category - E",
     "year": 2017,
     "state": "CN",
@@ -1310,7 +1310,7 @@
       "url": "https://usacycling.org/clubs/index.php?club=2568"
     },
     "eventWebSite": "http://www.velopromo.com",
-    "status": "Permitted",
+    "status": "Complete",
     "usacCategory": "Category - E",
     "year": 2017,
     "state": "CN",
@@ -1334,7 +1334,7 @@
       "url": "https://usacycling.org/clubs/index.php?club=2568"
     },
     "eventWebSite": "http://www.velopromo.com",
-    "status": "Permitted",
+    "status": "Complete",
     "usacCategory": "Category - E",
     "year": 2017,
     "state": "CN",
@@ -1358,7 +1358,7 @@
       "url": "https://usacycling.org/clubs/index.php?club=12690"
     },
     "eventWebSite": "http://www.redkiteracing.com",
-    "status": "Permitted",
+    "status": "Complete",
     "usacCategory": "Category - E",
     "year": 2017,
     "state": "CN",
@@ -1382,7 +1382,7 @@
       "url": "https://usacycling.org/clubs/index.php?club=2568"
     },
     "eventWebSite": "http://www.velopromo.com",
-    "status": "Permitted",
+    "status": "Complete",
     "usacCategory": "Category - E",
     "year": 2017,
     "state": "CN",
@@ -1405,7 +1405,6 @@
       "raceDirector": "Steven Barnes",
       "url": "https://usacycling.org/clubs/index.php?club=12627"
     },
-    "registrationLink": "https://usacycling.org/register/2017-2299",
     "status": "Permitted",
     "usacCategory": "Category - E",
     "year": 2017,
@@ -1430,8 +1429,7 @@
       "url": "https://usacycling.org/clubs/index.php?club=2568"
     },
     "eventWebSite": "http://www.velopromo.com",
-    "registrationLink": "http://www.bikereg.com",
-    "status": "Permitted",
+    "status": "Complete",
     "usacCategory": "Category - E",
     "year": 2017,
     "state": "CN",
@@ -1455,8 +1453,7 @@
       "url": "https://usacycling.org/clubs/index.php?club=2568"
     },
     "eventWebSite": "http://www.velopromo.com",
-    "registrationLink": "http://www.bikereg.com",
-    "status": "Permitted",
+    "status": "Complete",
     "usacCategory": "Category - E",
     "year": 2017,
     "state": "CN",
@@ -1480,8 +1477,7 @@
       "url": "https://usacycling.org/clubs/index.php?club=12690"
     },
     "eventWebSite": "http://www.redkiteracing.com",
-    "registrationLink": "http://www.bikereg.com/events/?pid=4870",
-    "status": "Permitted",
+    "status": "Complete",
     "usacCategory": "Category - E",
     "year": 2017,
     "state": "CN",
@@ -1505,8 +1501,7 @@
       "url": "https://usacycling.org/clubs/index.php?club=2568"
     },
     "eventWebSite": "http://www.velopromo.com",
-    "registrationLink": "http://www.bikereg.com",
-    "status": "Permitted",
+    "status": "Complete",
     "usacCategory": "Category - E",
     "year": 2017,
     "state": "CN",
@@ -1554,9 +1549,32 @@
       "url": "https://usacycling.org/clubs/index.php?club=2568"
     },
     "eventWebSite": "http://www.velopromo.com",
-    "registrationLink": "http://www.bikereg.com",
     "status": "Permitted",
     "usacCategory": "Category - D",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=rr&noncomp=0&state=CN&cnt=60&"
+  },
+  {
+    "permit": "2017-2880",
+    "name": "Death Valley Road Omnium",
+    "dates": ["2017-10-21T07:00:00.000Z", "2017-10-22T07:00:00.000Z"],
+    "location": {
+      "cityState": "Big Pine, CA",
+      "detailed": "Big Pine, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+Big+Pine,+CA+93513,+USA"
+    },
+    "promoter": {
+      "club": "AntiGravity Cycling",
+      "raceDirector": "Steven Barnes",
+      "url": "https://usacycling.org/clubs/index.php?club=12627"
+    },
+    "registrationLink": "https://usacycling.org/register/2017-2880",
+    "status": "Permitted",
+    "usacCategory": "Category - E",
     "year": 2017,
     "state": "CN",
     "discipline": "Road",
@@ -1626,7 +1644,6 @@
       "url": "https://usacycling.org/clubs/index.php?club=14196"
     },
     "eventWebSite": "http://ridethetrack.com",
-    "registrationLink": "http://bikereg.com",
     "status": "Permitted",
     "usacCategory": "Category - E",
     "year": 2017,
@@ -1733,9 +1750,36 @@
     "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=rr&noncomp=0&state=CN&cnt=0&"
   },
   {
+    "permit": "2017-2874",
+    "name": "Kamikaze Bike Games",
+    "dates": ["2017-09-14T07:00:00.000Z", "2017-09-17T07:00:00.000Z"],
+    "location": {
+      "cityState": "Mammoth Lakes, CA",
+      "detailed": [
+        "Canyon Lodge, Mammoth Mountain Ski Area, LLC",
+        "Mammoth Lakes, CA"
+      ],
+      "googleMapsUrl": "http://maps.google.com/maps/place/Canyon+Lodge,+Mammoth+Mountain+Ski+Area,+LLC+Mammoth+Lakes,+CA+93546,+USA"
+    },
+    "promoter": {
+      "club": "Team Big Bear Mtn Bikes, Inc.",
+      "raceDirector": "Team Big Bear Mtn Bikes, Inc.",
+      "url": "https://usacycling.org/clubs/index.php?club=5816"
+    },
+    "eventWebSite": "http://www.kamikazebikegames.com/",
+    "status": "Permitted",
+    "usacCategory": "Category - C",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Mountain",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=rr&noncomp=0&state=CN&cnt=0&"
+  },
+  {
     "permit": "2017-2601",
     "name": "Wildcat MTB Race",
-    "dates": ["2017-09-30T07:00:00.000Z", "2017-10-01T07:00:00.000Z"],
+    "dates": ["2017-09-30T07:00:00.000Z"],
     "location": {
       "cityState": "Chico, CA",
       "detailed": "Chico, CA",
@@ -1743,12 +1787,60 @@
     },
     "promoter": {
       "club": "California State University-Chico",
-      "raceDirector": "Anthony Tran",
+      "raceDirector": "Ben Johnson",
       "url": "https://usacycling.org/clubs/index.php?club=3391"
     },
     "eventWebSite": "http://www.facebook.com/events/112409339400663/?context=create&previousaction=create&ref=5&page_id_source=1881225038826999&sid_create=2832345047&action_history=[%7B%22surface%22%3A%22create_dialog%22%2C%22mechanism%22%3A%22page_create_dialog%22%2C%22extra_data%2",
-    "status": "Permit in Process",
+    "registrationLink": "https://usacycling.org/register/2017-2601",
+    "status": "Permitted",
     "usacCategory": "Category - D",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Mountain",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=rr&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2017-2798",
+    "name": "Exchequer",
+    "dates": ["2017-10-14T07:00:00.000Z", "2017-10-15T07:00:00.000Z"],
+    "location": {
+      "cityState": "La Grange, CA",
+      "detailed": ["3100 Barrett Cove Rd", "La Grange, CA"],
+      "googleMapsUrl": "http://maps.google.com/maps/place/3100+Barrett+Cove+Rd+La+Grange,+CA+95329,+USA"
+    },
+    "promoter": {
+      "club": "University of California-Merced",
+      "raceDirector": "Trenton Berner",
+      "url": "https://usacycling.org/clubs/index.php?club=15328"
+    },
+    "registrationLink": "https://usacycling.org/register/2017-2798",
+    "status": "Permitted",
+    "usacCategory": "Category - D",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Mountain",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=rr&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2017-2746",
+    "name": "Humboldt State MTB Race",
+    "dates": ["2017-11-04T07:00:00.000Z", "2017-11-05T07:00:00.000Z"],
+    "location": {
+      "cityState": "Lacks Creek, CA",
+      "detailed": "Lacks Creek, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+Lacks+Creek,+CA+95525,+USA"
+    },
+    "promoter": {
+      "club": "Humboldt State University",
+      "raceDirector": "Tyler Green",
+      "url": "https://usacycling.org/clubs/index.php?club=9955"
+    },
+    "status": "Permitted",
+    "usacCategory": "Category - E",
     "year": 2017,
     "state": "CN",
     "discipline": "Mountain",
@@ -1807,7 +1899,7 @@
   {
     "permit": "2017-2601",
     "name": "Wildcat MTB Race",
-    "dates": ["2017-09-30T07:00:00.000Z", "2017-10-01T07:00:00.000Z"],
+    "dates": ["2017-09-30T07:00:00.000Z"],
     "location": {
       "cityState": "Chico, CA",
       "detailed": "Chico, CA",
@@ -1815,11 +1907,12 @@
     },
     "promoter": {
       "club": "California State University-Chico",
-      "raceDirector": "Anthony Tran",
+      "raceDirector": "Ben Johnson",
       "url": "https://usacycling.org/clubs/index.php?club=3391"
     },
     "eventWebSite": "http://www.facebook.com/events/112409339400663/?context=create&previousaction=create&ref=5&page_id_source=1881225038826999&sid_create=2832345047&action_history=[%7B%22surface%22%3A%22create_dialog%22%2C%22mechanism%22%3A%22page_create_dialog%22%2C%22extra_data%2",
-    "status": "Permit in Process",
+    "registrationLink": "https://usacycling.org/register/2017-2601",
+    "status": "Permitted",
     "usacCategory": "Category - D",
     "year": 2017,
     "state": "CN",

@@ -26,12 +26,13 @@
   ],
   "scripts": {
     "start": "NODE_PATH=./lib node index.js",
-    "dev": "NODE_PATH=./lib nodemon index.js",
+    "dev": "NODE_PATH=./lib nodemon index.js --ignore ./data",
     "data-tools": "NODE_PATH=./lib nodemon data-tools/index.js",
     "eslint": "eslint lib/ --ext .js || true",
     "eslint:fix": "eslint lib/ --ext .js --fix || true",
     "reinstall": "rimraf node_modules && npm i"
   },
+  "moduleRoots": [ "./lib" ],
   "devDependencies": {
     "babel-core": "^6.9.0",
     "babel-plugin-add-module-exports": "^0.2.1",
@@ -47,7 +48,7 @@
     "jsonfile": "^3.0.1",
     "mocha": "^3.2.0",
     "nodemon": "^1.11.0",
-    "prettier": "^1.5.3",
+    "prettier": "^1.7.0",
     "rimraf": "^2.5.2",
     "walk-sync": "^0.3.2"
   },

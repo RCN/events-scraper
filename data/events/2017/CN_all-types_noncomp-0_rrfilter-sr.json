@@ -1,0 +1,50 @@
+[
+  {
+    "permit": "2017-2354",
+    "name": "San Ardo Road Race",
+    "dates": ["2017-08-19T07:00:00.000Z"],
+    "location": {
+      "cityState": "San Ardo, CA",
+      "detailed": ["San Ardo, CA  93450", "San Ardo, CA"],
+      "googleMapsUrl": "http://maps.google.com/maps/place/San+Ardo,+CA++93450+San+Ardo,+CA+93450,+USA"
+    },
+    "promoter": {
+      "club": "Golden Chain Cyclists",
+      "raceDirector": "Robert Leibold",
+      "url": "https://usacycling.org/clubs/index.php?club=2568"
+    },
+    "eventWebSite": "http://www.velopromo.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=sr&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2017-521",
+    "name": "CA MTB XC State Championships",
+    "dates": ["2017-04-15T07:00:00.000Z", "2017-05-20T07:00:00.000Z"],
+    "location": {
+      "cityState": "Nevada City, CA",
+      "detailed": "Nevada City, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+Nevada+City,+CA+95959,+USA"
+    },
+    "promoter": {
+      "club": "Youth Bicyclists of Nev. Co. (YBONC) Foundation",
+      "raceDirector": "Jeanette (Jet) Lowe",
+      "url": "https://usacycling.org/clubs/index.php?club=12615"
+    },
+    "eventWebSite": "http://ybonc.org/events/",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Mountain",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=sr&noncomp=0&state=CN&cnt=0&"
+  }
+]

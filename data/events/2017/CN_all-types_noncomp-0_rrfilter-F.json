@@ -1,0 +1,361 @@
+[
+  {
+    "permit": "2017-314",
+    "name": "2017 Coast Ride",
+    "dates": ["2017-01-14T08:00:00.000Z", "2017-01-16T08:00:00.000Z"],
+    "location": {
+      "cityState": "San Francisco, CA",
+      "detailed": "San Francisco, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+San+Francisco,+CA+94121,+USA"
+    },
+    "promoter": {
+      "club": "Fusion Sport USA",
+      "raceDirector": "Scott Witthoff",
+      "url": "https://usacycling.org/clubs/index.php?club=10480"
+    },
+    "status": "Complete",
+    "usacCategory": "Category - F",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Fun",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2017-831",
+    "name": "Tour De Ed",
+    "dates": ["2017-03-05T08:00:00.000Z"],
+    "location": {
+      "cityState": "Chico, CA",
+      "detailed": "Chico, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+Chico,+CA+95926,+USA"
+    },
+    "promoter": {
+      "club": "Chico Cyclist Care Fund",
+      "raceDirector": "Sandy Fisher",
+      "url": "https://usacycling.org/clubs/index.php?club=16357"
+    },
+    "status": "Complete",
+    "usacCategory": "Category - F",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Fun",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2017-238",
+    "name": "2017 SUBARU Sea Otter Classic-Gran Fondo",
+    "dates": ["2017-04-22T07:00:00.000Z"],
+    "location": {
+      "cityState": "Monterey, CA",
+      "detailed": ["Laguna Seca Recreation Area", "Monterey, CA"],
+      "googleMapsUrl": "http://maps.google.com/maps/place/Laguna+Seca+Recreation+Area+Monterey,+CA+93940,+USA"
+    },
+    "promoter": {
+      "club": "Sea Otter Classic, Inc.",
+      "raceDirector": "Sea Otter Classic Foundation Inc.",
+      "url": "https://usacycling.org/clubs/index.php?club=9870"
+    },
+    "eventWebSite": "http://www.seaotterclassic.com",
+    "status": "Complete",
+    "usacCategory": "Category - F",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Fun",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2017-742",
+    "name": "SUBARU Sea Otter Classic Clif Bar Clunker Ride",
+    "dates": ["2017-04-22T07:00:00.000Z"],
+    "location": {
+      "cityState": "Monterey, CA",
+      "detailed": ["Laguna Seca Recreation Area", "Monterey, CA"],
+      "googleMapsUrl": "http://maps.google.com/maps/place/Laguna+Seca+Recreation+Area+Monterey,+CA+93940,+USA"
+    },
+    "promoter": {
+      "club": "Sea Otter Classic, Inc.",
+      "raceDirector": "Sea Otter Classic Foundation Inc.",
+      "url": "https://usacycling.org/clubs/index.php?club=9870"
+    },
+    "eventWebSite": "http://www.seaotterclassic.com",
+    "status": "Complete",
+    "usacCategory": "Category - F",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Fun",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2017-166",
+    "name": "CycleNation Ride",
+    "dates": ["2017-04-29T07:00:00.000Z"],
+    "location": {
+      "cityState": "Livermore, CA",
+      "detailed": "Livermore, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+Livermore,+CA+94550,+USA"
+    },
+    "promoter": {
+      "club": "American Heart Association",
+      "raceDirector": "Medalist Sports",
+      "url": "https://usacycling.org/clubs/index.php?club=16522"
+    },
+    "eventWebSite": "http://www.americanheart.org",
+    "status": "Complete",
+    "usacCategory": "Category - F",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Fun",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2017-340",
+    "name": "Honor Ride Sacramento",
+    "dates": ["2017-05-13T07:00:00.000Z"],
+    "location": {
+      "cityState": "Rocklin, CA",
+      "detailed": ["270 Technology Way Ste 100", "Rocklin, CA"],
+      "googleMapsUrl": "http://maps.google.com/maps/place/270+Technology+Way+Ste+100+Rocklin,+CA+95765,+USA"
+    },
+    "promoter": {
+      "club": "Project Hero",
+      "raceDirector": "Jack Shepard",
+      "url": "https://usacycling.org/clubs/index.php?club=13438"
+    },
+    "eventWebSite": "http://r2r.convio.net/site/TR/Cycling/General?fr_id=1250&pg=entry",
+    "status": "Complete",
+    "usacCategory": "Category - F",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Fun",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2017-1964",
+    "name": "Tour de Donut 2017",
+    "dates": ["2017-05-27T07:00:00.000Z"],
+    "location": {
+      "cityState": "San Luis Obispo, CA",
+      "detailed": "San Luis Obispo, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+San+Luis+Obispo,+CA+94116,+USA"
+    },
+    "promoter": {
+      "club": "USA Cycling Race Director",
+      "raceDirector": "Raymond Lee",
+      "url": "https://usacycling.org/clubs/index.php?club=14196"
+    },
+    "eventWebSite": "http://www.eventbrite.com/e/tour-de-donut-2017-registration-33855006235?aff=es2",
+    "status": "Complete",
+    "usacCategory": "Category - F",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Fun",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2017-2031",
+    "name": "Nevada City Gravel Grinder",
+    "dates": ["2017-06-17T07:00:00.000Z"],
+    "location": {
+      "cityState": "Nevada City, CA",
+      "detailed": ["503 Sacramento St.", "Nevada City, CA"],
+      "googleMapsUrl": "http://maps.google.com/maps/place/503+Sacramento+St.+Nevada+City,+CA+95959,+USA"
+    },
+    "promoter": {
+      "club": "ol'Republic/SERT",
+      "raceDirector": "Duane Strawser",
+      "url": "https://usacycling.org/clubs/index.php?club=8943"
+    },
+    "eventWebSite": "http://nevadacityclassic.com",
+    "status": "Complete",
+    "usacCategory": "Category - F",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Fun",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2017-2032",
+    "name": "Nevada City Saturday Broad Street Sprints",
+    "dates": ["2017-06-17T07:00:00.000Z"],
+    "location": {
+      "cityState": "Nevada City, CA",
+      "detailed": ["503 Sacramento St.", "Nevada City, CA"],
+      "googleMapsUrl": "http://maps.google.com/maps/place/503+Sacramento+St.+Nevada+City,+CA+95959,+USA"
+    },
+    "promoter": {
+      "club": "ol'Republic/SERT",
+      "raceDirector": "Duane Strawser",
+      "url": "https://usacycling.org/clubs/index.php?club=8943"
+    },
+    "eventWebSite": "http://nevadacityclassic.com",
+    "status": "Complete",
+    "usacCategory": "Category - F",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Fun",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2017-2735",
+    "name": "Cycle With Champions",
+    "dates": ["2017-10-08T07:00:00.000Z"],
+    "location": {
+      "cityState": "Santa Rosa, CA",
+      "detailed": ["4400 Day School Place,", "Santa Rosa, CA"],
+      "googleMapsUrl": "http://maps.google.com/maps/place/4400+Day+School+Place,+Santa+Rosa,+CA+95403,+USA"
+    },
+    "promoter": {
+      "club": "Team Swift",
+      "raceDirector": "Laura Charameda",
+      "url": "https://usacycling.org/clubs/index.php?club=10356"
+    },
+    "eventWebSite": "http://www.teamswift.org",
+    "status": "Permitted",
+    "usacCategory": "Category - F",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Fun",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2017-2472",
+    "name": "Bikes for Kids Charity Ride",
+    "dates": ["2017-10-14T07:00:00.000Z"],
+    "location": {
+      "cityState": "Oakdale , CA",
+      "detailed": ["445 E F st", "Oakdale , CA"],
+      "googleMapsUrl": "http://maps.google.com/maps/place/445+E+F+st++Oakdale+,+CA+95361,+USA"
+    },
+    "promoter": {
+      "club": "Bell Real Estate Cycling",
+      "raceDirector": "Robert Bell",
+      "url": "https://usacycling.org/clubs/index.php?club=14700"
+    },
+    "eventWebSite": "http://www.bikesforkids.bike",
+    "status": "Permitted",
+    "usacCategory": "Category - F",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Fun",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2017-2988",
+    "name": "Death Valley National Park Tour",
+    "dates": ["2017-11-12T08:00:00.000Z", "2017-11-17T08:00:00.000Z"],
+    "location": {
+      "cityState": "Death Valley, CA",
+      "detailed": ["Highway 190", "Death Valley, CA"],
+      "googleMapsUrl": "http://maps.google.com/maps/place/Highway+190+Death+Valley,+CA+92328,+USA"
+    },
+    "promoter": {
+      "club": "USA Cycling Race Director",
+      "raceDirector": "Erica Gratton",
+      "url": "https://usacycling.org/clubs/index.php?club=14196"
+    },
+    "eventWebSite": "http://www.cyclingescapes.com/bicycletours/california/deathvalley/biketour.html",
+    "registrationLink": "http://www.cyclingescapes.com/onlineregistration.html",
+    "status": "Permitted",
+    "usacCategory": "Category - F",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Fun",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2017-235",
+    "name": "2017 SUBARU Sea Otter Classic - Tours",
+    "dates": ["2017-04-22T07:00:00.000Z"],
+    "location": {
+      "cityState": "Monterey, CA",
+      "detailed": ["Laguna Seca Recreation Area", "Monterey, CA"],
+      "googleMapsUrl": "http://maps.google.com/maps/place/Laguna+Seca+Recreation+Area+Monterey,+CA+93940,+USA"
+    },
+    "promoter": {
+      "club": "Sea Otter Classic, Inc.",
+      "raceDirector": "Sea Otter Classic Foundation Inc.",
+      "url": "https://usacycling.org/clubs/index.php?club=9870"
+    },
+    "eventWebSite": "http://www.seaotterclassic.com",
+    "status": "Complete",
+    "usacCategory": "Category - F",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Mountain",
+    "usacEventType": "Fun",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2017-412",
+    "name": "Bodie Bowl 2017",
+    "dates": ["2017-08-20T07:00:00.000Z"],
+    "location": {
+      "cityState": "Bodie, CA",
+      "detailed": "Bodie, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+Bodie,+CA+93517,+USA"
+    },
+    "promoter": {
+      "club": "USA Cycling Race Director",
+      "raceDirector": "Dean Irvin",
+      "url": "https://usacycling.org/clubs/index.php?club=14196"
+    },
+    "eventWebSite": "http://www.bodiebowl.com",
+    "status": "Complete",
+    "usacCategory": "Category - F",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Mountain",
+    "usacEventType": "Fun",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2017-2739",
+    "name": "2017 Take a Kid MTN Biking & Bike Safety Rodeo",
+    "dates": ["2017-10-08T07:00:00.000Z"],
+    "location": {
+      "cityState": "Nevada City, CA",
+      "detailed": ["800 Hoover Lane", "Nevada City, CA"],
+      "googleMapsUrl": "http://maps.google.com/maps/place/800+Hoover+Lane+Nevada+City,+CA+95959,+USA"
+    },
+    "promoter": {
+      "club": "Youth Bicyclists of Nev. Co. (YBONC) Foundation",
+      "raceDirector": "Jeanette (Jet) Lowe",
+      "url": "https://usacycling.org/clubs/index.php?club=12615"
+    },
+    "eventWebSite": "http://ybonc.org/events/bike-safety-rodeo/",
+    "status": "Complete",
+    "usacCategory": "Category - F",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Mountain",
+    "usacEventType": "Fun",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+  }
+]

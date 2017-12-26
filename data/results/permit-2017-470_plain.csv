@@ -171,7 +171,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 02/12/2017,Cross Country,Cat3,Men,,15-18,5,470461,Austin,Hale,0:50:06,
 02/12/2017,Cross Country,Cat3,Men,,15-18,6,498956,Jacob,Speedy,0:50:07,LT High School Mountain Bike Club
 02/12/2017,Cross Country,Cat3,Men,,15-18,7,524909,Nathan,Murphy,0:50:15,Lake Travis Middle School
-02/12/2017,Cross Country,Cat3,Men,,15-18,8,0,Cole,Helton,0:51:11,Lake Travis High School
+02/12/2017,Cross Country,Cat3,Men,,15-18,8,529609,Cole,Helton,0:51:11,Lake Travis High School
 02/12/2017,Cross Country,Cat3,Men,,15-18,9,524734,Jake,Massingill,0:51:12,Matrix RBM/SacheHS
 02/12/2017,Cross Country,Cat3,Men,,15-18,10,518275,Adam,Nelson,0:51:13,Matrix RBM/SachseHS
 02/12/2017,Cross Country,Cat3,Men,,15-18,11,495158,Peyton,Griebe,0:51:14,Handlebar Bicycle Club
@@ -299,7 +299,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 02/12/2017,Cross Country,Cat2,Men,,15-18,12,486564,Kalena,Engeling,45:12.0,Summit/Competitive Cyclist
 02/12/2017,Cross Country,Cat2,Men,,15-18,13,492658,McKenzie,Kretzmeier,51:13.0,
 02/12/2017,Cross Country,Cat2,Men,,15-18,DNF,493000,Dylan,Stroh,DNF,Alamo City Racing
-02/12/2017,Cross Country,Cat2,Men,,19-29,1,0,Marcos,Alves,18:12.0,PACC
+02/12/2017,Cross Country,Cat2,Men,,19-29,1,528148,Marcos,Alves,18:12.0,PACC
 02/12/2017,Cross Country,Cat2,Men,,19-29,2,515658,Caleb,Cunningham,19:08.0,
 02/12/2017,Cross Country,Cat2,Men,,19-29,3,391799,Billy,Flores,20:02.0,787 Racing
 02/12/2017,Cross Country,Cat2,Men,,19-29,4,458722,Matt,Shaner,20:04.0,Weaver Technologies Racing
@@ -313,7 +313,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 02/12/2017,Cross Country,Cat2,Men,,19-29,12,0,Christopher,Lafaro,24:36.0,ARR
 02/12/2017,Cross Country,Cat2,Men,,19-29,13,384176,Kevin,Pereira,24:44.0,Bicycles Inc Mountain Bike Racing Team
 02/12/2017,Cross Country,Cat2,Men,,19-29,14,521163,Casey,Maron,24:49.0,
-02/12/2017,Cross Country,Cat2,Men,,19-29,15,0,Cole,Layson,25:36.0,West End
+02/12/2017,Cross Country,Cat2,Men,,19-29,15,532085,Cole,Layson,25:36.0,West End
 02/12/2017,Cross Country,Cat2,Men,,19-29,16,498846,Austin,Kuithe,26:36.0,GS Tenzing
 02/12/2017,Cross Country,Cat2,Men,,19-29,17,468439,Hunter,Ling,26:51.0,Southwest CycleSport/Dimensional
 02/12/2017,Cross Country,Cat2,Men,,19-29,18,460461,Joseph,Preston,26:55.0,Ride Away Cycling Club
@@ -322,7 +322,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 02/12/2017,Cross Country,Cat2,Men,,19-29,21,0,Alan,Caffey,31:15.0,A&M Cycling Team
 02/12/2017,Cross Country,Cat2,Men,,19-29,22,0,Hunter,Pagan,31:31.0,
 02/12/2017,Cross Country,Cat2,Men,,19-29,23,425920,Ryon,Mays,34:02.0,Texas State University
-02/12/2017,Cross Country,Cat2,Men,,19-29,24,0,Micah,LaJeunesse,34:19.0,
+02/12/2017,Cross Country,Cat2,Men,,19-29,24,540998,Micah,LaJeunesse,34:19.0,
 02/12/2017,Cross Country,Cat2,Men,,19-29,25,0,Gage,Fogler,39:03.0,Mafia Racing South
 02/12/2017,Cross Country,Cat2,Men,,19-29,26,305617,Erik,Johnson,39:44.0,Dirt Derby
 02/12/2017,Cross Country,Cat2,Men,,19-29,27,0,John,Anderson,40:45.0,Team Taint
@@ -366,7 +366,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 02/12/2017,Cross Country,Cat2,Men,,35-39,6,514503,Chris,Funk,24:42.0,West End Cycles
 02/12/2017,Cross Country,Cat2,Men,,35-39,7,483285,Davis,Green,24:45.0,
 02/12/2017,Cross Country,Cat2,Men,,35-39,8,524901,Derek,Hansen,27:24.0,
-02/12/2017,Cross Country,Cat2,Men,,35-39,9,0,Tom,Virant,28:31.0,Hobbytown Racing
+02/12/2017,Cross Country,Cat2,Men,,35-39,9,542965,Tom,Virant,28:31.0,Hobbytown Racing
 02/12/2017,Cross Country,Cat2,Men,,35-39,10,523906,John,Brooks,32:44.0,
 02/12/2017,Cross Country,Cat2,Men,,35-39,10,523906,John,Brooks,32:44.0,
 02/12/2017,Cross Country,Cat2,Men,,35-39,11,322966,Nathan,Sheetz,32:51.0,VooDoo racing
@@ -415,8 +415,8 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 02/12/2017,Cross Country,Cat2,Men,,40-44,13,469029,Chais,Surles,28:20.0,Bicycles Inc.
 02/12/2017,Cross Country,Cat2,Men,,40-44,14,457968,Charles,McGuill,29:56.0,Guadalupe River Cycle & Fitness
 02/12/2017,Cross Country,Cat2,Men,,40-44,14,457968,Charles,McGuill,29:56.0,Guadalupe River Cycle & Fitness
-02/12/2017,Cross Country,Cat2,Men,,40-44,15,422391,Gabriel,Ayala,30:07.0,The Hub
-02/12/2017,Cross Country,Cat2,Men,,40-44,15,422391,Gabriel,Ayala,30:07.0,The Hub
+02/12/2017,Cross Country,Cat2,Men,,40-44,15,391808,Gabriel,Ayala,30:07.0,The Hub
+02/12/2017,Cross Country,Cat2,Men,,40-44,15,391808,Gabriel,Ayala,30:07.0,The Hub
 02/12/2017,Cross Country,Cat2,Men,,40-44,16,194337,Kirk,English,30:39.0,Texas Pro Health Racing
 02/12/2017,Cross Country,Cat2,Men,,40-44,16,194337,Kirk,English,30:39.0,Texas Pro Health Racing
 02/12/2017,Cross Country,Cat2,Men,,40-44,17,346064,Juan,Pagan,34:15.0,Bikeland
@@ -747,7 +747,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 02/12/2017,Cross Country,Cat3,Women,,15-18,3,442274,Clara,Ramsay,1:01:52,ATX Bikes Racing Team
 02/12/2017,Cross Country,Cat3,Women,,15-18,4,0,Retta,Johnson,1:06:04,
 02/12/2017,Cross Country,Cat3,Women,,15-18,5,497073,Lizzie,Carpenter,1:07:32,RBM/Matrix/Sachse
-02/12/2017,Cross Country,Cat3,Women,,15-18,6,0,Emma,Whitehead,1:07:33,
+02/12/2017,Cross Country,Cat3,Women,,15-18,6,529452,Emma,Whitehead,1:07:33,
 02/12/2017,Cross Country,Cat3,Women,,15-18,7,525327,Ashley,Ficker,1:15:54,Heart of Texas Racing
 02/12/2017,Cross Country,Cat3,Women,,15-18,DNS,524550,Madeline,Lokey,DNS,HBLT Cavaliers
 02/12/2017,Cross Country,Cat3,Women,,19-29,1,493534,Margaret,Pacheco,1:04:46,Tru Tri Sports
@@ -784,8 +784,8 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 02/12/2017,Cross Country,Cat2,Women,,30-39,4,478075,Neidi,Miller,36:15.0,PACC/Plano Cycling
 02/12/2017,Cross Country,Cat2,Women,,30-39,5,505218,Ashley,Green,37:08.0,
 02/12/2017,Cross Country,Cat2,Women,,30-39,5,505218,Ashley,Green,37:08.0,
-02/12/2017,Cross Country,Cat2,Women,,30-39,6,0,Christiane,Esker,38:04.0,
-02/12/2017,Cross Country,Cat2,Women,,30-39,6,0,Christiane,Esker,38:04.0,
+02/12/2017,Cross Country,Cat2,Women,,30-39,6,529670,Christiane,Esker,38:04.0,
+02/12/2017,Cross Country,Cat2,Women,,30-39,6,529670,Christiane,Esker,38:04.0,
 02/12/2017,Cross Country,Cat2,Women,,30-39,7,522971,Sarah,Haas,38:08.0,Bicycle Sport Shop
 02/12/2017,Cross Country,Cat2,Women,,30-39,7,522971,Sarah,Haas,38:08.0,Bicycle Sport Shop
 02/12/2017,Cross Country,Cat2,Women,,30-39,8,441438,Cherie,Spooner,38:35.0,Alamo City Racing

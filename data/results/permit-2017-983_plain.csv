@@ -103,7 +103,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 03/18/2017,Road Race,Collegiate,Men,A,,8,0,Matthew,Sherav,1:34:09,Queen's University
 03/18/2017,Road Race,Collegiate,Men,A,,9,477589,Michael,Landry,1:34:10,Yale University
 03/18/2017,Road Race,Collegiate,Men,A,,10,431533,derrick,butler,1:34:11,University of Pennsylvania
-03/18/2017,Road Race,Collegiate,Men,A,,11,0,Cameron,McPhaden,1:34:20,Queen's University
+03/18/2017,Road Race,Collegiate,Men,A,,11,502228,Cameron,McPhaden,1:34:20,Queen's University
 03/18/2017,Road Race,Collegiate,Men,A,,12,332188,Alex,Kellum,1:34:37,University of Pennsylvania
 03/18/2017,Road Race,Collegiate,Men,A,,13,311527,Kenneth,McNeill,1:34:43,Northeastern University
 03/18/2017,Road Race,Collegiate,Men,A,,14,467304,Scott,Coblentz,1:35:10,Shippensburg University of Pennsylvania
@@ -180,7 +180,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 03/18/2017,Road Race,Collegiate,Men,C,,4,526492,Nate,Ricketts,1:04:49,Juniata College
 03/18/2017,Road Race,Collegiate,Men,C,,5,496826,Jack,Vogel,1:04:49,New York University
 03/18/2017,Road Race,Collegiate,Men,C,,6,498903,Daniel,Cole,1:04:49,New York University
-03/18/2017,Road Race,Collegiate,Men,C,,7,0,William,Mazurek,1:04:49,McGill University
+03/18/2017,Road Race,Collegiate,Men,C,,7,470128,William,Mazurek,1:04:49,McGill University
 03/18/2017,Road Race,Collegiate,Men,C,,8,499110,Gilles,Merckx,1:04:50,Lehigh University
 03/18/2017,Road Race,Collegiate,Men,C,,9,466637,Xavier,Nogueira,1:04:51,Temple University
 03/18/2017,Road Race,Collegiate,Men,C,,10,526626,Berk,Ozturk,1:04:51,Massachusetts Institute of Technology
@@ -281,7 +281,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 03/18/2017,Road Race,Collegiate,Men,E,,3,495274,Tyler,Huntington,0:51:55,Swarthmore College
 03/18/2017,Road Race,Collegiate,Men,E,,4,513053,Jake,Allison,0:51:55,
 03/18/2017,Road Race,Collegiate,Men,E,,5,0,Ye,Chen,0:52:00,Brown University
-03/18/2017,Road Race,Collegiate,Men,E,,6,0,Pierce,Conlon,0:52:03,0
+03/18/2017,Road Race,Collegiate,Men,E,,6,530282,Pierce,Conlon,0:52:03,0
 03/18/2017,Road Race,Collegiate,Men,E,,7,514664,Jared,Seaman,0:52:08,
 03/18/2017,Road Race,Collegiate,Men,E,,8,526382,Tom,Wetmore,0:52:15,Columbia University-NYC
 03/18/2017,Road Race,Collegiate,Men,E,,9,524041,Mikhail,Malamud,0:52:32,CRCA/NYCC Racing p/b BGC Partners
@@ -308,16 +308,16 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 03/18/2017,Road Race,Collegiate,Men,E,,DNF,527685,Jason,Zhang,DNF,Syracuse University
 03/18/2017,Road Race,Collegiate,Men,E,,DNF,527954,Wesley,Hood,DNF,University of Pittsburgh
 03/18/2017,Road Race,Collegiate,Men,E,,DNF,527650,sam,nguyen,DNF,Temple University
-03/18/2017,Road Race,Collegiate,Men,E,,DNF,0,Jason,Rinde,DNF,
+03/18/2017,Road Race,Collegiate,Men,E,,DNF,540649,Jason,Rinde,DNF,
 03/18/2017,Road Race,Collegiate,Women,A,,1,499797,Danielle,Morshead,1:27:14,Brown University
 03/18/2017,Road Race,Collegiate,Women,A,,2,433301,Samantha,Fox,1:27:15,Drexel University
 03/18/2017,Road Race,Collegiate,Women,A,,3,497964,Heidi,Miller,1:32:04,Princeton University
-03/18/2017,Road Race,Collegiate,Women,A,,4,0,Dominique,Danco,1:32:04,McGill University
+03/18/2017,Road Race,Collegiate,Women,A,,4,381475,Dominique,Danco,1:32:04,McGill University
 03/18/2017,Road Race,Collegiate,Women,A,,5,495801,Tori,Wuthrich,1:32:05,Massachusetts Institute of Technology
-03/18/2017,Road Race,Collegiate,Women,A,,6,0,Valina,Sintal,1:34:30,University of Toronto
+03/18/2017,Road Race,Collegiate,Women,A,,6,453786,Valina,Sintal,1:34:30,University of Toronto
 03/18/2017,Road Race,Collegiate,Women,A,,7,500046,Megan,Galinat,1:34:30,Northeastern University
 03/18/2017,Road Race,Collegiate,Women,A,,8,429837,Kathryn,Olesnavage,1:34:32,Massachusetts Institute of Technology
-03/18/2017,Road Race,Collegiate,Women,A,,9,0,Amanda,Schevers,,Queen's University
+03/18/2017,Road Race,Collegiate,Women,A,,9,404620,Amanda,Schevers,,Queen's University
 03/18/2017,Road Race,Collegiate,Women,A,,10,241489,Anne,Raymond,1:36:10,Massachusetts Institute of Technology
 03/18/2017,Road Race,Collegiate,Women,A,,11,0,Rachel,Blair,1:38:16,Queen's University
 03/18/2017,Road Race,Collegiate,Women,A,,12,428620,Ariana,Adler,1:41:38,University of Connecticut
@@ -335,13 +335,13 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 03/18/2017,Road Race,Collegiate,Women,C,,5,460370,Octavia,Mulhern,1:18:52,New York University
 03/18/2017,Road Race,Collegiate,Women,C,,6,497037,Ellie,Perry,1:22:33,Bucknell University
 03/18/2017,Road Race,Collegiate,Women,C,,7,500093,Christina,Strachoff,1:22:53,Rhode Island School of Design
-03/18/2017,Road Race,Collegiate,Women,C,,8,0,Mary,Weston,1:25:51,Brown University
+03/18/2017,Road Race,Collegiate,Women,C,,8,499917,Mary,Weston,1:25:51,Brown University
 03/18/2017,Road Race,Collegiate,Women,C,,9,497533,Katie,Fogel,1:26:11,Penn State-Lehigh Valley
 03/18/2017,Road Race,Collegiate,Women,C,,10,424985,Tanya,Boulanova,1:26:17,Boston University
 03/18/2017,Road Race,Collegiate,Women,C,,11,497195,Rachel,Pedersen,1:30:30,Brown University
 03/18/2017,Road Race,Collegiate,Women,C,,12,414101,Nicole,Walch,1:32:40,University of Vermont
 03/18/2017,Road Race,Collegiate,Women,C,,13,307856,Georgia,Lagoudas,1:34:09,Massachusetts Institute of Technology
-03/18/2017,Road Race,Collegiate,Women,D,,1,0,Phobe,Hill,0:57:55,Vaughan Road Academy
+03/18/2017,Road Race,Collegiate,Women,D,,1,486738,Phoebe,Hill,0:57:55,Vaughan Road Academy
 03/18/2017,Road Race,Collegiate,Women,D,,2,505798,McKensie,Walker,0:58:57,WBPHL Racing
 03/18/2017,Road Race,Collegiate,Women,D,,3,497597,Amber,Collett,0:58:57,Yale University
 03/18/2017,Road Race,Collegiate,Women,D,,4,526889,Sanelma,Heinonen,0:59:06,Yale University

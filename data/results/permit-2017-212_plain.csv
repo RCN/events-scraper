@@ -27,7 +27,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 03/19/2017,Circuit Race,SM P-1,Men,,,20,287780,Taylor,Warren,01:52:51,Rocky Mountain Velo
 03/19/2017,Circuit Race,SM P-1,Men,,,21,527541,Max,Rubarth,01:52:51,Equipe Transports Lacombe/Devinvi
 03/19/2017,Circuit Race,SM P-1,Men,,,22,210225,Garrick,Valverde,01:52:51,Olathe Subaru Trek Racing
-03/19/2017,Circuit Race,SM P-1,Men,,,23,525752,Nickolas,Zukowsky,01:52:51,Silber Pro Cycling Team
+03/19/2017,Circuit Race,SM P-1,Men,,,23,495707,Nickolas,Zukowsky,01:52:51,Silber Pro Cycling Team
 03/19/2017,Circuit Race,SM P-1,Men,,,24,418955,Nicholas,Greeff,01:52:51,303 Project
 03/19/2017,Circuit Race,SM P-1,Men,,,25,396776,Wouter,Zwart,01:52:51,White Mountain Road Club
 03/19/2017,Circuit Race,SM P-1,Men,,,26,306276,Daniel,Eaton,01:52:49,UCI PCT: UnitedHealthcare
@@ -49,7 +49,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 03/19/2017,Circuit Race,SM P-1,Men,,,42,497565,Emile,Jean,01:53:21,Silber Pro cycling
 03/19/2017,Circuit Race,SM P-1,Men,,,43,499505,PIERANDRE,COTE,01:53:28,Silber Pro Cycling Team
 03/19/2017,Circuit Race,SM P-1,Men,,,44,307642,Evan,Murphy,01:53:52,Toronto Hustle
-03/19/2017,Circuit Race,SM P-1,Men,,,45,527010,Alexis,Cartier,01:53:59,H&R Block Pro Cycling Team
+03/19/2017,Circuit Race,SM P-1,Men,,,45,424712,Alexis,Cartier,01:53:59,H&R Block Pro Cycling Team
 03/19/2017,Circuit Race,SM P-1,Men,,,46,294220,Andrew,Clemence,01:54:00,White Mountain Road Club
 03/19/2017,Circuit Race,SM P-1,Men,,,47,267611,Alex,Driscoll,01:54:33,COS Racing
 03/19/2017,Circuit Race,SM P-1,Men,,,48,57576,Lewis,Elliot,01:54:33,
@@ -268,7 +268,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 03/19/2017,Circuit Race,MM 35+,Men,,,12,294312,Michael,Radcliff,01:41:07,GST Racing
 03/19/2017,Circuit Race,MM 35+,Men,,,13,57369,Eugene,Boronow,01:41:34,Superissimo
 03/19/2017,Circuit Race,MM 35+,Men,,,14,87933,Paul,Thomas,01:43:56,Stone House p/b Monster Media
-03/19/2017,Circuit Race,MM 35+,Men,,,15,399839,Sergio,Dominguez,01:43:56,
+03/19/2017,Circuit Race,MM 35+,Men,,,15,399840,Sergio,Dominguez,01:43:56,
 03/19/2017,Circuit Race,MM 35+,Men,,,16,396315,daniel,fernandez,01:43:56,Sonic Boom Racing
 03/19/2017,Circuit Race,JM 9-12,Men,,,1,418988,Cyrus,Hembree,00:55:36,Thrive Youth Cycling
 03/19/2017,Circuit Race,JM 15-16,Men,,,1,523843,Mostyn,Trudinger-Smith,01:20:46,El Grupo Youth Cycling Club
@@ -294,7 +294,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 03/19/2017,Circuit Race,SW P-1-2,Women,,,10,527684,Marcela,Prieto,01:50:10,CONADE-Visit Mxico-Specialized
 03/19/2017,Circuit Race,SW P-1-2,Women,,,11,527679,Veronica,Leal,01:50:10,CONADE-Visit Mxico-Specialized
 03/19/2017,Circuit Race,SW P-1-2,Women,,,12,366797,Caitlin,Laroche,01:50:10,UCI WPT: Rally Cycling
-03/19/2017,Circuit Race,SW P-1-2,Women,,,13,499864,Julyn,Aguila,01:50:10,Crazy Cat Cyclery
+03/19/2017,Circuit Race,SW P-1-2,Women,,,13,481054,Julyn,Aguila,01:50:10,Crazy Cat Cyclery
 03/19/2017,Circuit Race,SW P-1-2,Women,,,14,466699,Catherine,Ouellette,01:50:10,Team Quebec
 03/19/2017,Circuit Race,SW P-1-2,Women,,,15,275988,Emma,White,01:50:10,UCI WPT: Rally Cycling
 03/19/2017,Circuit Race,SW P-1-2,Women,,,16,258361,Kate,Wilson,01:50:10,Ironfly
@@ -381,7 +381,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 03/19/2017,Stage Race,SM P-1,Men,,,2,525408,Nigel,Ellsay,05:12:32,Silber Pro Cycling Team
 03/19/2017,Stage Race,SM P-1,Men,,,3,499901,James,Piccoli,05:12:50,Pacific Premier Bank Cycling Team
 03/19/2017,Stage Race,SM P-1,Men,,,4,155190,Chad,Beyer,05:12:49,UCI CT: Canyon Bicycles
-03/19/2017,Stage Race,SM P-1,Men,,,5,525752,Nickolas,Zukowsky,05:12:59,Silber Pro Cycling Team
+03/19/2017,Stage Race,SM P-1,Men,,,5,495707,Nickolas,Zukowsky,05:12:59,Silber Pro Cycling Team
 03/19/2017,Stage Race,SM P-1,Men,,,6,306276,Daniel,Eaton,05:13:06,UCI PCT: UnitedHealthcare
 03/19/2017,Stage Race,SM P-1,Men,,,7,396776,Wouter,Zwart,05:13:17,White Mountain Road Club
 03/19/2017,Stage Race,SM P-1,Men,,,8,394102,Adam,Bryfogle,05:13:27,White Mountain Road Club
@@ -420,7 +420,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 03/19/2017,Stage Race,SM P-1,Men,,,41,307642,Evan,Murphy,05:16:33,Toronto Hustle
 03/19/2017,Stage Race,SM P-1,Men,,,42,57576,Lewis,Elliot,05:16:36,
 03/19/2017,Stage Race,SM P-1,Men,,,43,267611,Alex,Driscoll,05:16:44,COS Racing
-03/19/2017,Stage Race,SM P-1,Men,,,44,527010,Alexis,Cartier,05:17:48,H&R Block Pro Cycling Team
+03/19/2017,Stage Race,SM P-1,Men,,,44,424712,Alexis,Cartier,05:17:48,H&R Block Pro Cycling Team
 03/19/2017,Stage Race,SM P-1,Men,,,45,497565,Emile,Jean,05:20:40,Silber Pro cycling
 03/19/2017,Stage Race,SM P-1,Men,,,46,253798,Michael,Dziedzic,05:20:47,White Mountain Road Club
 03/19/2017,Stage Race,SM P-1,Men,,,47,390013,Joseph,Garey,05:21:06,Esprit Velo
@@ -636,7 +636,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 03/19/2017,Stage Race,MM 35+,Men,,,8,55904,Timothy,Carolan,04:23:35,Cyclefit Solutions Racing
 03/19/2017,Stage Race,MM 35+,Men,,,9,294312,Michael,Radcliff,04:23:42,GST Racing
 03/19/2017,Stage Race,MM 35+,Men,,,10,87933,Paul,Thomas,04:26:01,Stone House p/b Monster Media
-03/19/2017,Stage Race,MM 35+,Men,,,11,399839,Sergio,Dominguez,04:26:50,
+03/19/2017,Stage Race,MM 35+,Men,,,11,399840,Sergio,Dominguez,04:26:50,
 03/19/2017,Stage Race,MM 35+,Men,,,12,228961,Aaron,Jeffrey,04:31:37,Sonic Boom Racing
 03/19/2017,Stage Race,MM 35+,Men,,,13,197252,Craig,Streit,04:32:01,Stone House p/b Monster Media
 03/19/2017,Stage Race,MM 35+,Men,,,14,83075,James,Webster,04:35:42,Stone House p/b Monster Media
@@ -672,7 +672,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 03/19/2017,Stage Race,SW P-1-2,Women,,,16,395130,Melanie,Beale,04:35:25,
 03/19/2017,Stage Race,SW P-1-2,Women,,,17,258361,Kate,Wilson,04:35:28,Ironfly
 03/19/2017,Stage Race,SW P-1-2,Women,,,18,527682,Antonieta,Gaxiola,04:35:31,CONADE-Visit Mxico-Specialized
-03/19/2017,Stage Race,SW P-1-2,Women,,,19,499864,Julyn,Aguila,04:35:33,Crazy Cat Cyclery
+03/19/2017,Stage Race,SW P-1-2,Women,,,19,481054,Julyn,Aguila,04:35:33,Crazy Cat Cyclery
 03/19/2017,Stage Race,SW P-1-2,Women,,,20,255388,Brenna,Nelson,04:35:34,Faster Cyclist
 03/19/2017,Stage Race,SW P-1-2,Women,,,21,466699,Catherine,Ouellette,04:35:48,Team Quebec
 03/19/2017,Stage Race,SW P-1-2,Women,,,22,310825,Aliya,Traficante,04:35:49,Folsom Bike
@@ -757,7 +757,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 03/18/2017,Road Race,SM P-1,Men,,,5,306276,Daniel,Eaton,03:12:45,UCI PCT: UnitedHealthcare
 03/18/2017,Road Race,SM P-1,Men,,,6,394102,Adam,Bryfogle,03:12:43,White Mountain Road Club
 03/18/2017,Road Race,SM P-1,Men,,,7,356904,Anton,Varabei,03:12:45,Toronto Hustle
-03/18/2017,Road Race,SM P-1,Men,,,8,525752,Nickolas,Zukowsky,03:12:45,Silber Pro Cycling Team
+03/18/2017,Road Race,SM P-1,Men,,,8,495707,Nickolas,Zukowsky,03:12:45,Silber Pro Cycling Team
 03/18/2017,Road Race,SM P-1,Men,,,9,499505,PIERANDRE,COTE,03:12:42,Silber Pro Cycling Team
 03/18/2017,Road Race,SM P-1,Men,,,10,396776,Wouter,Zwart,03:12:45,White Mountain Road Club
 03/18/2017,Road Race,SM P-1,Men,,,11,499901,James,Piccoli,03:12:45,Pacific Premier Bank Cycling Team
@@ -796,7 +796,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 03/18/2017,Road Race,SM P-1,Men,,,44,466256,MARIO,ZAMORA,03:14:29,Vumedi Cycling Team
 03/18/2017,Road Race,SM P-1,Men,,,45,470625,Trevor,O'Donnell,03:14:45,Toronto Hustle
 03/18/2017,Road Race,SM P-1,Men,,,46,161263,Ryan,Knapp,03:14:56,Zone-6 Cycling
-03/18/2017,Road Race,SM P-1,Men,,,47,527010,Alexis,Cartier,03:15:54,H&R Block Pro Cycling Team
+03/18/2017,Road Race,SM P-1,Men,,,47,424712,Alexis,Cartier,03:15:54,H&R Block Pro Cycling Team
 03/18/2017,Road Race,SM P-1,Men,,,48,466205,Alexandre,Matte,03:19:23,True North Medical
 03/18/2017,Road Race,SM P-1,Men,,,49,115698,Martin,Adamczyk,03:19:23,San Diego Bicycle Club
 03/18/2017,Road Race,SM P-1,Men,,,50,148285,Matthew,Holecko,03:19:24,Procon Cycling
@@ -1026,7 +1026,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 03/18/2017,Road Race,MM 35+,Men,,,4,57369,Eugene,Boronow,02:33:33,Superissimo
 03/18/2017,Road Race,MM 35+,Men,,,5,363531,Dane,Emde,02:34:13,Modern Market Racing p/b GR Capital Partners
 03/18/2017,Road Race,MM 35+,Men,,,6,172139,Bryan,Reid,02:34:14,RA Racing Apparel/BMC
-03/18/2017,Road Race,MM 35+,Men,,,7,399839,Sergio,Dominguez,02:34:14,
+03/18/2017,Road Race,MM 35+,Men,,,7,399840,Sergio,Dominguez,02:34:14,
 03/18/2017,Road Race,MM 35+,Men,,,8,87933,Paul,Thomas,02:34:14,Stone House p/b Monster Media
 03/18/2017,Road Race,MM 35+,Men,,,9,170964,Rob,Alvarez,02:34:14,Stone House p/b Monster Media
 03/18/2017,Road Race,MM 35+,Men,,,10,294312,Michael,Radcliff,02:34:19,GST Racing
@@ -1071,7 +1071,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 03/18/2017,Road Race,SW P-1-2,Women,,,18,229069,Tracey,Jacobs,02:35:50,ALP Cycles Racing
 03/18/2017,Road Race,SW P-1-2,Women,,,19,290139,Moirin,Nelson,02:35:50,Faster Cyclist
 03/18/2017,Road Race,SW P-1-2,Women,,,20,395130,Melanie,Beale,02:35:50,
-03/18/2017,Road Race,SW P-1-2,Women,,,21,499864,Julyn,Aguila,02:35:50,Crazy Cat Cyclery
+03/18/2017,Road Race,SW P-1-2,Women,,,21,481054,Julyn,Aguila,02:35:50,Crazy Cat Cyclery
 03/18/2017,Road Race,SW P-1-2,Women,,,22,310825,Aliya,Traficante,02:35:50,Folsom Bike
 03/18/2017,Road Race,SW P-1-2,Women,,,23,275988,Emma,White,02:35:50,UCI WPT: Rally Cycling
 03/18/2017,Road Race,SW P-1-2,Women,,,24,527683,Ana,Hernandez,02:36:28,CONADE-Visit Mxico-Specialized
@@ -1114,7 +1114,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 03/18/2017,Road Race,SW 3,Women,,,8,457672,Sarah,Posner,03:14:45,White Mountain Road Club
 03/18/2017,Road Race,SW 3,Women,,,9,489136,Tori,Riemersma,03:16:02,Arizona State University
 03/18/2017,Road Race,SW 3,Women,,,10,460576,Hannah,Dalsing,03:17:14,The Velo Ambassador Team
-03/18/2017,Road Race,SW 3,Women,,,11,499866,Lucia,Carreno,03:21:35,Crazy Cat Cyclery
+03/18/2017,Road Race,SW 3,Women,,,11,481033,Lucia,Carreno,03:21:35,Crazy Cat Cyclery
 03/18/2017,Road Race,SW 3,Women,,,12,496845,Pearl,Dixon,03:21:38,El Grupo Youth Cycling Club
 03/18/2017,Road Race,SW 3,Women,,,13,422584,Tristen,Musselman,03:21:42,Team One Racing
 03/18/2017,Road Race,MW 65+,Women,,,1,227543,Lan,Tran,02:20:30,SkyFlash Racing
@@ -1157,7 +1157,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 03/17/2017,Time Trial,SM P-1,Men,,,2,499901,James,Piccoli,00:07:12,Pacific Premier Bank Cycling Team
 03/17/2017,Time Trial,SM P-1,Men,,,3,525408,Nigel,Ellsay,00:07:17,Silber Pro Cycling Team
 03/17/2017,Time Trial,SM P-1,Men,,,4,294220,Andrew,Clemence,00:07:20,White Mountain Road Club
-03/17/2017,Time Trial,SM P-1,Men,,,5,525752,Nickolas,Zukowsky,00:07:22,Silber Pro Cycling Team
+03/17/2017,Time Trial,SM P-1,Men,,,5,495707,Nickolas,Zukowsky,00:07:22,Silber Pro Cycling Team
 03/17/2017,Time Trial,SM P-1,Men,,,6,268330,Travis,McCabe,00:07:26,UCI PCT: UnitedHealthcare
 03/17/2017,Time Trial,SM P-1,Men,,,7,341120,Tyler,Stites,00:07:29,UCI CT: Aevolo Cycling Inc.
 03/17/2017,Time Trial,SM P-1,Men,,,8,442824,Rene,Corella,00:07:30,BMW Development Team
@@ -1180,7 +1180,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 03/17/2017,Time Trial,SM P-1,Men,,,25,395387,Sean,Gardner,00:07:52,Gateway Harley-Davidson
 03/17/2017,Time Trial,SM P-1,Men,,,26,253798,Michael,Dziedzic,00:07:53,White Mountain Road Club
 03/17/2017,Time Trial,SM P-1,Men,,,27,499505,PIERANDRE,COTE,00:07:54,Silber Pro Cycling Team
-03/17/2017,Time Trial,SM P-1,Men,,,28,527010,Alexis,Cartier,00:07:55,H&R Block Pro Cycling Team
+03/17/2017,Time Trial,SM P-1,Men,,,28,424712,Alexis,Cartier,00:07:55,H&R Block Pro Cycling Team
 03/17/2017,Time Trial,SM P-1,Men,,,29,161263,Ryan,Knapp,00:07:55,Zone-6 Cycling
 03/17/2017,Time Trial,SM P-1,Men,,,30,394102,Adam,Bryfogle,00:07:55,White Mountain Road Club
 03/17/2017,Time Trial,SM P-1,Men,,,31,287780,Taylor,Warren,00:08:00,Rocky Mountain Velo
@@ -1450,7 +1450,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 03/17/2017,Time Trial,MM 35+,Men,,,10,172139,Bryan,Reid,00:08:18,RA Racing Apparel/BMC
 03/17/2017,Time Trial,MM 35+,Men,,,11,197252,Craig,Streit,00:08:35,Stone House p/b Monster Media
 03/17/2017,Time Trial,MM 35+,Men,,,12,363531,Dane,Emde,00:08:36,Modern Market Racing p/b GR Capital Partners
-03/17/2017,Time Trial,MM 35+,Men,,,13,399839,Sergio,Dominguez,00:08:40,
+03/17/2017,Time Trial,MM 35+,Men,,,13,399840,Sergio,Dominguez,00:08:40,
 03/17/2017,Time Trial,MM 35+,Men,,,14,83075,James,Webster,00:08:40,Stone House p/b Monster Media
 03/17/2017,Time Trial,MM 35+,Men,,,15,396315,daniel,fernandez,00:08:49,Sonic Boom Racing
 03/17/2017,Time Trial,MM 35+,Men,,,16,459645,Matthew,Sinclair,00:09:24,Stone House p/b Monster Media
@@ -1494,7 +1494,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 03/17/2017,Time Trial,SW P-1-2,Women,,,21,258361,Kate,Wilson,00:09:28,Ironfly
 03/17/2017,Time Trial,SW P-1-2,Women,,,22,527682,Antonieta,Gaxiola,00:09:31,CONADE-Visit Mxico-Specialized
 03/17/2017,Time Trial,SW P-1-2,Women,,,23,527684,Marcela,Prieto,00:09:32,CONADE-Visit Mxico-Specialized
-03/17/2017,Time Trial,SW P-1-2,Women,,,24,499864,Julyn,Aguila,00:09:33,Crazy Cat Cyclery
+03/17/2017,Time Trial,SW P-1-2,Women,,,24,481054,Julyn,Aguila,00:09:33,Crazy Cat Cyclery
 03/17/2017,Time Trial,SW P-1-2,Women,,,25,466699,Catherine,Ouellette,00:09:34,Team Quebec
 03/17/2017,Time Trial,SW P-1-2,Women,,,26,527670,ARIADNA,GUTERREZ,00:09:38,CONADE-Visit Mxico-Specialized
 03/17/2017,Time Trial,SW P-1-2,Women,,,27,255388,Brenna,Nelson,00:09:43,Faster Cyclist
@@ -1538,7 +1538,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 03/17/2017,Time Trial,SW 3,Women,,,10,312388,Elizabeth,Korinek,00:10:07,The Velo Ambassador Team
 03/17/2017,Time Trial,SW 3,Women,,,11,496845,Pearl,Dixon,00:10:15,El Grupo Youth Cycling Club
 03/17/2017,Time Trial,SW 3,Women,,,12,422584,Tristen,Musselman,00:10:19,Team One Racing
-03/17/2017,Time Trial,SW 3,Women,,,13,499866,Lucia,Carreno,00:11:01,Crazy Cat Cyclery
+03/17/2017,Time Trial,SW 3,Women,,,13,481033,Lucia,Carreno,00:11:01,Crazy Cat Cyclery
 03/17/2017,Time Trial,MW 65+,Women,,,1,227543,Lan,Tran,00:11:31,SkyFlash Racing
 03/17/2017,Time Trial,MW 55+,Women,,,1,350742,Lynne,Anderson,00:09:05,ALP Cycles Racing
 03/17/2017,Time Trial,MW 55+,Women,,,2,397534,Carol,Quade,00:11:26,

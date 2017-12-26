@@ -14,6 +14,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 07/11/2017,Road Race,Cat 1/2/3/4/5,Men,A Pack,,DNP,133739,Bill,Knudsen,,Bandit Elite Racing
 07/11/2017,Road Race,Cat 1/2/3/4/5,Men,A Pack,,DNP,366360,Sam,Waples,,Audi
 07/11/2017,Road Race,Cat 1/2/3/4/5,Men,B Pack,,1,0,Kevin,Appleton,,
+07/11/2017,Road Race,Cat 1/2/3/4/5,Men,B Pack,,2,71119,Daniel,Fealk,,Apex
 07/11/2017,Road Race,Cat 1/2/3/4/5,Men,B Pack,,3,278470,Joel K,Armstrong,,River City Red
 07/11/2017,Road Race,Cat 1/2/3/4/5,Men,B Pack,,4,516881,Lance,Payne,,Vertical Earth
 07/11/2017,Road Race,Cat 1/2/3/4/5,Men,B Pack,,5,295014,Jason,Roggenbauer,,
@@ -32,14 +33,13 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 07/11/2017,Road Race,Cat 1/2/3/4/5,Men,B Pack,,DNP,530218,Brian,Litzenberger,,Vertical Earth
 07/11/2017,Road Race,Cat 1/2/3/4/5,Men,B Pack,,DNP,172067,Joshua,Raybell,,Two Wheeler Dealer
 07/11/2017,Road Race,Cat 1/2/3/4/5,Men,B Pack,,DNP,494822,Chad,Eder,,Chinook
-07/11/2017,Road Race,Cat 1/2/3/4/5,Men,B Pack,,DNP,71119,Daniel,Fealk,,Apex
 07/11/2017,Road Race,Cat 1/2/3/4/5,Mixed,C Pack,,1,172571,Kevin,Cadotte,,
 07/11/2017,Road Race,Cat 1/2/3/4/5,Mixed,C Pack,,2,313690,Joe,Anchondo,,Vertical Earth
 07/11/2017,Road Race,Cat 1/2/3/4/5,Mixed,C Pack,,3,143576,Brian,Houser,,Baddlands
 07/11/2017,Road Race,Cat 1/2/3/4/5,Mixed,C Pack,,4,238468,Peter,Niday,,Baddlands
 07/11/2017,Road Race,Cat 1/2/3/4/5,Mixed,C Pack,,5,0,Bret,Spencer,,Two Wheeler
 07/11/2017,Road Race,Cat 1/2/3/4/5,Mixed,C Pack,,6,0,Jason,Brown,,
-07/11/2017,Road Race,Cat 1/2/3/4/5,Mixed,C Pack,,7,456264,Bleck,Bradley,,Baddlands
+07/11/2017,Road Race,Cat 1/2/3/4/5,Mixed,C Pack,,7,59564,Bleck,Bradley,,Baddlands
 07/11/2017,Road Race,Cat 1/2/3/4/5,Mixed,C Pack,,8,510629,Carolyn,Fealk,,Thrive
 05/09/2017,Road Race,Cat 1/2/3/4/5,Men,A Pack,,1,460834,Justin,Wagner,,Mountain View
 05/09/2017,Road Race,Cat 1/2/3/4/5,Men,A Pack,,2,408446,David,Waples,,Audi
@@ -99,4 +99,4 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 05/09/2017,Road Race,Cat 1/2/3/4/5,Mixed,C Pack,,8,402842,Deborah,Long,,Two Wheeler Dealer
 05/09/2017,Road Race,Cat 1/2/3/4/5,Mixed,C Pack,,9,469113,Jaimie,Kenney,,River City Red
 05/09/2017,Road Race,Cat 1/2/3/4/5,Mixed,C Pack,,10,411097,Ben,Richardson,,Emde
-05/09/2017,Road Race,Cat 1/2/3/4/5,Mixed,C Pack,,DNP,456264,Bleck,Bradley,,Baddlands
+05/09/2017,Road Race,Cat 1/2/3/4/5,Mixed,C Pack,,DNP,59564,Bleck,Bradley,,Baddlands

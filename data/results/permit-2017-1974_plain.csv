@@ -108,7 +108,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 09/03/2017,Cross Country,SS2/3,Men,,19-99,DNS,96505,Mark,Logrbrinck,DNS,SpaceMonkeys from Space
 09/03/2017,Cross Country,Pro/C1,Men,,19-99,1,349134,Carson,Lange,01:14:24.000,Summit
 09/03/2017,Cross Country,Pro/C1,Men,,19-99,2,481979,Justin,Martin,01:24:56.000,Mafia Racing / West End Bikes
-09/03/2017,Cross Country,Pro/C1,Men,,19-99,3,422159,Cole,Weidenbach,01:25:21.000,Summit/Competitive Cyclist
+09/03/2017,Cross Country,Pro/C1,Men,,19-99,3,422159,Cole,Weidenbach,01:25:21.000,787 Racing
 09/03/2017,Cross Country,Pro/C1,Men,,19-99,4,338512,Colin,Bromley,01:29:09.000,
 09/03/2017,Cross Country,Pro/C1,Men,,19-99,5,394847,Paul,Loesch,01:30:02.000,Prime Time Factory Racing
 09/03/2017,Cross Country,Pro/C1,Men,,19-99,6,388888,Adam,Pellerin,01:30:59.000,Monkey Wrench Bicycles
@@ -227,7 +227,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 09/03/2017,Cross Country,Cat3,Men,,40-49,15,0,Michael,Williams,01:18:37.000,
 09/03/2017,Cross Country,Cat3,Men,,40-49,DNS,535828,Luis,Reyna,DNS,
 09/03/2017,Cross Country,Cat3,Men,,40-49,DNS,394318,Todd,Stranahan,DNS,Sun & Ski
-09/03/2017,Cross Country,Cat3,Men,,40-49,DNS,0,Bryan,Hearn,DNS,
+09/03/2017,Cross Country,Cat3,Men,,40-49,DNS,525034,Bryan,Hearn,DNS,
 09/03/2017,Cross Country,Cat3,Men,,40-49,DNF,0,Jason,Frankhouser,DNF,
 09/03/2017,Cross Country,Cat3,Men,,40-49,DNF,0,Matthew,Angelino,DNF,RBM/Matrix
 09/03/2017,Cross Country,Cat3,Men,,40-49,DNF,0,Larry,Newman,DNF,Camino Real
@@ -273,7 +273,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 09/03/2017,Cross Country,Cat2,Men,,40-49,2,238139,Sandy,Poulson,01:39:06.000,Urban Bicycle Development
 09/03/2017,Cross Country,Cat2,Men,,40-49,3,493626,Rich,Thurston,01:40:15.000,Texas A/C and Heat
 09/03/2017,Cross Country,Cat2,Men,,40-49,4,419426,Erik,Hons,01:40:21.00,Team Yeah!
-09/03/2017,Cross Country,Cat2,Men,,40-49,5,422391,Gabriel,Ayala,01:49:39.000,The Hub
+09/03/2017,Cross Country,Cat2,Men,,40-49,5,391808,Gabriel,Ayala,01:49:39.000,The Hub
 09/03/2017,Cross Country,Cat2,Men,,40-49,6,366348,Paul,Mathis,01:54:57.000,Bear Mountain
 09/03/2017,Cross Country,Cat2,Men,,40-49,7,304730,Timothy,Lawrence,02:00:10.000,
 09/03/2017,Cross Country,Cat2,Men,,40-49,8,501362,Mark,Windham,02:02:48.000,
@@ -316,9 +316,9 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 09/03/2017,Cross Country,Cat1,Men,,19-39,9,282889,Tyler,Chidester,01:44:53.000,UNT Cycling
 09/03/2017,Cross Country,Cat1,Men,,19-39,10,393972,Tony,Barrera,01:48:11.000,Speed Cartel
 09/03/2017,Cross Country,Cat1,Men,,19-39,11,422422,Justin,Stoker,01:49:27.000,Weaver Technologies Racing
-09/03/2017,Cross Country,Cat1,Men,,19-39,16,178646,Brad,Wimberly,DNS,BIkealot
+09/03/2017,Cross Country,Cat1,Men,,19-39,12,485664,Jeffrey,Stroh,02:24:17.000,Summit/Competitive Cyclist
+09/03/2017,Cross Country,Cat1,Men,,19-39,DNS,178646,Brad,Wimberly,DNS,BIkealot
 09/03/2017,Cross Country,Cat1,Men,,19-39,DNF,349588,Thomas,Sebring,DNF,
-09/03/2017,Cross Country,Cat1,Men,,19-39,DNF,485664,Jeffrey,Stroh,DNF,Summit/Competitive Cyclist
 09/03/2017,Cross Country,Cat1,Men,,19-39,DNF,188094,Ramon,Barreto,DNF,
 09/03/2017,Cross Country,Cat1,Men,,40-49,1,525131,Jaime,Quintero Cadena,01:27:03.000,Handlebar Cyclery
 09/03/2017,Cross Country,Cat1,Men,,40-49,2,12115,Ramsey,Foster,01:30:35.000,Yeah!
@@ -417,7 +417,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 09/03/2017,Cross Country,Cat1,Women,,40-49,2,388072,Teresa,Franzke,02:14:55.000,Bicycle Sport Shop
 09/03/2017,Cross Country,Cat1,Women,,50-99,1,396680,Catherine,Jackson,02:10:45.000,Monkey Wrench
 09/03/2017,Cross Country,Cat1,Women,,50-99,2,236072,Tanya,Woody,03:17:47.000,Bike World Racing
-09/03/2017,Cross Country,C,Women,,19-99,DNS,0,Megan,Dawkins,DNS,A&M Cycling
+09/03/2017,Cross Country,C,Women,,19-99,DNS,487453,Megan,Dawkins,DNS,A&M Cycling
 09/03/2017,Cross Country,C,Women,,19-99,DNF,540516,Kate Lee,Rapport,DNF,TAMU Cycling
 09/03/2017,Cross Country,B,Women,,19-99,1,523588,Christina,Rigsby,04:27:40.000,TAMU Cycling
 09/03/2017,Cross Country,A,Women,,19-99,1,395467,Fiona,Dougherty,01:51:39.000,Baylor

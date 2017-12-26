@@ -12,7 +12,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,292160,Ross,Baldwin,New York,NY,3:06:28.80,Lupus Racing Team
 9,350750,Cory,Small,Boxborough,MA,3:06:30.54,CCB Velotooler
 10,413052,Baris,Aytan,Brooklyn,NY,3:06:34.76,CRCA/e2Value
-11,375405,Daniel,Nuzzo-Mueller,Medford ,MA,3:06:36.92,Community Bicycle Racing
+11,375405,Daniel,Nuzzo-Mueller,Medford,MA,3:06:36.92,Community Bicycle Racing
 12,408281,Thomas,Coleman,Athol,MA,3:06:39.66,Minuteman Road Club
 13,304430,Erik,Post,Brooklyn,NY,3:06:43.49,CRCA / The Weather Channel Spec
 14,316234,Daniel,Jeske,Marcellus,NY,3:06:43.75,Chobani
@@ -27,14 +27,14 @@ Place,License #,First,Last,City,State,Time,Team
 23,355868,Eliot,Pitney,Yarmouth,ME,3:07:52.63,Downeast Racing
 24,309324,Dominic,Caiazzo,Bronx,NY,3:08:01.27,CRCA/Lupus Racing Team
 25,59952,STEPHEN,JAMISON,New York,NY,3:10:00.45,CRCA
-26,382938,William,Crabtree,Cambridge,MA,3:18:29.78,Community Bicycle Racing
+26,382938,William,Crabtree,Lexington,MA,3:18:29.78,Community Bicycle Racing
 27,499880,dawry,cabrera,Lawrence,MA,3:22:46.66,New England Devo
 28,418209,Zev,Myerowitz,Cape Elizabeth,ME,3:22:49.73,Downeast Racing/ Cape Chiroprac
 29,439902,Ralph,Pahlmeyer,Brooklyn,NY,3:22:52.98,CRCA / e2Value
 DNF,151860,Gregory,Abbott,Washington,DC,DNF,NCVC/UnitedHealthcare
 DNF,302632,Joshua,Anderson,Topsfield,MA,DNF,CCB Velotooler
 DNF,164128,Aidan,Charles,Middletown,CT,DNF,CT Cycling Advancement Program
-DNF,316474,John,Holden,Lamar,MO,DNF,Nalgene / Borah Teamwear Cycling
+DNF,316474,John,Holden,Fairport,NY,DNF,Nalgene / Borah Teamwear Cycling
 DNF,224432,John,Hunter,Victor,NY,DNF,Nalgene / Borah Teamwear Cycling
 DNF,221369,Jordan,Lynn,Southington,CT,DNF,Team ERRACE p/b DSO Manufacturing
 DNF,424110,Sean,Meyer,Pittsford,NY,DNF,Nalgene / Borah Teamwear Cycling
@@ -56,7 +56,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,10276,Mark,Durso,Middlebury,CT,2:43:09.36,Team Edge
 12,200565,William,Cantler,Brooklyn,NY,2:43:12.03,Deno's Wonder Wheel
 13,381276,William,Rowe,Niskayuna,NY,2:43:26.41,HRRT
-14,480581,Jose,Parece,Coventry,RI,2:43:26.65,
+14,480581,Jose,Parece,Pawtucket,RI,2:43:26.65,
 15,270196,THOMAS,DICKINSON,Barrington,RI,2:43:27.58,SVC/BIKEWORKS
 16,159316,Dennis,Johnston,Farmington,CT,2:43:32.06,GHCC - Central Wheel
 17,199626,Ken,Coleman,New York,NY,2:43:43.46,BCA/Linen
@@ -99,7 +99,7 @@ Place,License #,First,Last,City,State,Time,Team
 24,218622,Ciaran,Mangan,Natick,MA,2:21:07.19,CCB/ RACING
 25,400017,Matthew,Austin,Brooklyn,NY,2:21:17.91,Voss/fusionThink
 26,17360,Matt,Inconiglios,Stamford,CT,2:21:18.54,Stage 1 / fusionTHINK - VOSS
-27,103281,Massimiliano,Accaputo,Rocky Hill ,CT,2:21:19.10,CVC/Hartford Healthcare Sports
+27,103281,Massimiliano,Accaputo,South Glastonbury,CT,2:21:19.10,CVC/Hartford Healthcare Sports
 28,460023,Tom,Dodge,Manchesterm,MA,2:21:20.95,TEAM FIT WERX
 29,103982,STANLEY,LEZON,Bolton,CT,2:21:49.61,EXPO
 30,29708,Paul,Richard,Amesbury,MA,2:23:01.81,CCB Racing
@@ -187,7 +187,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,522554,Mark,Poirier,Watertown,MA,2:30:19.72,545 Velo
 8,495706,Kieran,Hurley,Salem,MA,2:30:22.35,Fitwerx
 9,0,Ryan,Boatman,,,2:30:22.76,Sea Sports Cyclery & Outdoor
-10,496835,Caleb,Goodhouse,Brighton,MA,2:30:23.89,
+10,496835,Caleb,Goodhouse,Cambridge,MA,2:30:23.89,
 11,510115,Casey,Clarke,Southborough,MA,2:30:25.13,New England Devo p/b Cadence We
 12,258358,Peter,Kuhn,Acton,MA,2:30:26.09,Minuteman Road Club
 13,467692,Rees,Madsen,Layton,UT,2:30:26.82,
@@ -220,7 +220,7 @@ Place,License #,First,Last,City,State,Time,Team
 40,527636,Vlad,Pick,Cambridge,MA,2:51:53.18,Coalition CC
 41,0,Rafael,Sardi,,,2:52:30.26,
 42,434559,Shawn,Pan,Nashua,NH,2:56:54.19,
-43,522902,Samuel,Robinson,Medford,MA,3:11:30.92,545 Velo
+43,522902,Samuel,Robinson,Brookline,MA,3:11:30.92,545 Velo
 DNF,528333,Jonathan,Meyer,Waterbury Center,VT,DNF,1k2go
 DNF,0,Bryant,Hughes,,,DNF,
 DNF,527069,Cameron,Geller,Brighton,MA,DNF,
@@ -259,12 +259,12 @@ Place,License #,First,Last,City,State,Time,Team
 4,498634,Matthew,Shaffer,Allston,MA,2:27:36.04,Grinta! p/b Best Buddies Challe
 5,496520,Simon,Bauwens,New Haven,CT,2:27:37.11,
 6,440102,Timothy,Johnson,New Haven,CT,2:27:40.84,
-7,381192,Zachary,Flynn,West Hartford ,CT,2:27:42.44,
+7,381192,Zachary,Flynn,West Hartford,CT,2:27:42.44,
 8,411440,Eamonn,Dougherty,Massapequa,NY,2:27:56.29,Mineola Bicycle Racing Team
 9,485653,Charlie,Philbrook,Newton Center,MA,2:28:03.29,545 Velo
 10,339580,Kevin,Higgins,York,ME,2:30:31.96,
 11,297574,Jason,Pizzollo,Allston,MA,2:30:37.65,Northampton Cycling Club
-12,485904,Ken,Greim,Cambridge,MA,2:30:39.91,GREEN LINE VELO driven by Zipca
+12,485904,Ken,Greim,Belmont,MA,2:30:39.91,GREEN LINE VELO driven by Zipca
 13,500043,Marc,Hafner,Cambridge,MA,2:30:41.47,GREEN LINE VELO driven by Zipca
 14,326824,Michael,Dunn,Natick,MA,2:30:42.66,New England Devo p/b Cadence We
 15,425016,Peter,Stranges,Somerville,MA,2:30:49.10,Community Bicycle Racing
@@ -282,7 +282,7 @@ Place,License #,First,Last,City,State,Time,Team
 27,425520,myles,webster,Providence,RI,2:35:31.28,
 28,289309,Donald,Kimball,Portland,CT,2:35:33.46,CCAP
 29,467718,Michael,Albrecht,New York,NY,2:35:42.07,CRCA/Team Patch.com
-30,460629,Christopher,Cheetham,Brooklyn,NY,2:35:46.06,CRCA/Maglia Rosa NYC
+30,460629,Christopher,Cheetham,Irvington,NY,2:35:46.06,CRCA/Maglia Rosa NYC
 31,110995,John,Morrissey,Ashland,MA,2:40:10.70,Minuteman Road Club
 32,399759,Dino,Piskopanis,Pelham,NH,2:41:03.28,Monster Media Racing p/b Butche
 33,343524,Jonathan,O'Keeffe,Amherst,MA,2:41:11.28,Northampton Cycling Club (NCC)
@@ -315,7 +315,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,494676,David,Shuck,Old Saybrook,CT,2:22:13.79,CRCA/Rockstar Games
 3,304411,Micah,Nelson,Wellesley,MA,2:22:14.54,New England Devo p/b Cadence We
 4,427897,Rory,O'Neill,Brooklyn,NY,2:22:16.08,CRCA/Maglia Rosa NYC
-5,467177,Brendan,Offer,New York,NY,2:22:22.53,CRCA/Maglia Rosa NYC
+5,467177,Brendan,Offer,Oradell,NJ,2:22:22.53,CRCA/Maglia Rosa NYC
 6,262000,Mark,Miller,Marlborough,NH,2:22:23.77,Minuteman Road Club
 7,414812,Mike,Morse,Salem,NH,2:22:25.87,Colonial Bicycle Company
 8,299923,David,Leibowitz,Bronxville,NY,2:22:27.50,Tarmac Cycling/Iron Bridge Cons
@@ -342,7 +342,7 @@ Place,License #,First,Last,City,State,Time,Team
 29,326424,Ralph,Allen,Farmington,CT,2:44:23.06,Team ERRACE p/b DSO Mfg
 30,231922,geremia,ortega,Methuen,MA,2:45:03.18,
 31,28877,Oscar,Purwin,Carlisle,MA,2:54:49.86,Minuteman Road Club
-DNF,389104,Shayne,Gaffney,Woburn,MA,DNF,Comprehensive Racing / GC Coaching
+DNF,389104,Shayne,Gaffney,Windham,NH,DNF,Comprehensive Racing / GC Coaching
 DNF,113804,Damon,Lecompte,Lunenburg,MA,DNF,ncc
 DNF,341072,Greg,McElravy,Bridgeport,CT,DNF,
 DNF,54253,DAVID,MCCAY,Southborough,MA,DNF,MINUTEMAN ROAD CLUB

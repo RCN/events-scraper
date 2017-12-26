@@ -18,7 +18,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,304891,Israel,Arroyo,Vineland,NJ,,Tuckahoe
 15,396611,Tom,Maioriello,Mullica Hill,NJ,,Caffeinated Cyclist
 16,466617,Christopher,Yager,Bellmore,NY,,
-17,410977,Oscar,Diaz,Hamilton,NJ,,
+17,410977,Oscar,Diaz,Millstone Township ,NJ,,
 18,0,Michael,Wolfe,,,,PS Racing
 19,524900,Dillon,Mast,Philadelphia,PA,,CS Velo
 20,524966,Rick,Kingery,Malvern,PA,,CS Velo
@@ -27,7 +27,7 @@ Place,License #,First,Last,City,State,Time,Team
 23,440133,William,Geib,Wilmington,DE,,CS Velo
 24,401237,Joe,Fultano,Clayton,NJ,,Caffeinated Cyclist
 25,241299,Mike,Porter,Linfield,PA,,Zen Masters Racing
-26,505277,Brendan,Graham,Westchester,PA,,
+26,505277,Brendan,Graham,Philadelphia,PA,,
 27,420190,Baruch,Bar,Cherry Hill,NJ,,Summit
 28,238148,Chris,Grundner,Landenberg,PA,,Chester County Velo
 29,432939,Akim,Akimov,Havertown,PA,,
@@ -116,7 +116,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,191647,Brian,Gristick,Budd Lake,NJ,,Team Cycle Solutions
 10,459255,Mark,Napoli,Mount Laurel,NJ,,Pro Pedals Racing
 11,375583,Gary,Kershner,Martlon,NJ,,Pro Pedals Racing
-12,70511,Robert,Casciato,Chester Springs,PA,,Pa Masters
+12,70511,Robert,Casciato,Chestersprings,PA,,Pa Masters
 14,262078,Jerry,Jacobs,Haverford,PA,,QCW Breakaway
 15,97543,Rick,Maynard,West Chester,PA,,Amorosos Racing
 16,325240,Sergio,Aguirre,New York,NY,,CRCA Foundation

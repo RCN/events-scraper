@@ -5,8 +5,8 @@ Place,License #,First,Last,City,State,Time,Team
 1,470579,Sara,POIDEVIN,,,1:35:39,Rally Cycling*
 2,289582,Tayler,Wiles,Fairfax,CA,1:37:39,UnitedHealthcare Pro Cycling*
 3,326204,Abigail,Mickey,Aspen,CO,1:38:15,Colavita/Bianchi USA*
-4,273081,Ruth,Winder,Lafayette,CA,1:38:48,UnitedHealthcare Pro Cycling*
-5,200237,Kaitlin,Antonneau,Racine,WI,1:38:48,Cylance Pro Cycling*
+4,273081,Ruth,Winder,Boulder,CO,1:38:48,UnitedHealthcare Pro Cycling*
+5,200237,Kaitlin,Antonneau,Colorado Springs,CO,1:38:48,Cylance Pro Cycling*
 6,224767,Flavia,Oliveira,Littleton,CO,1:38:48,FEARLESS FEMME
 7,252835,Whitney,Allison,Fort Collins,CO,1:38:48,Colavita/Bianchi USA*
 8,401364,Leah,Thomas,Boulder Creek,CA,1:38:48,Sho-Air TWENTY20*
@@ -34,21 +34,21 @@ Place,License #,First,Last,City,State,Time,Team
 30,55820,Katherine,Compton,Colorado Springs,CO,1:45:16,ISCORP POWERED BY PROGRESS
 31,457092,Rachel,Langdon,Louisville,KY,1:46:10,ISCORP POWERED BY PROGRESS
 32,350742,Lynne,Anderson,Boulder,CO,1:46:36,ALPS CYCLES WOMEN'S RACING
-33,230397,Shayna,Powless,Roseville,CA,1:46:36,SHO-AIR TWENTY20
+33,230397,Shayna,Powless,Jacksonville,FL,1:46:36,SHO-AIR TWENTY20
 34,526844,Jillian,Bearden,Colorado Springs,CO,1:46:55,PALMARES
 35,266674,Kathryn,Donovan,Oxnard,CA,1:47:30,VISIT DALLAS DNA
 36,307212,Stefanie,Sydlik,Pittsburgh,PA,1:47:30,VISIT DALLAS DNA
 37,402574,Charlotte,Backus,Larkspur,CO,1:47:52,AMY D. FOUNDATION
-38,358569,Janelle,Cole,Rockford,MI,1:47:52,UnitedHealthcare Pro Cycling*
+38,358569,Janelle,Cole,Newaygo,MI,1:47:52,UnitedHealthcare Pro Cycling*
 39,414929,Kristina,Vrouwenvelder,Louisville,CO,1:47:52,ALPS CYCLES WOMEN'S RACING
-40,496869,Heidi,Franz,Seattle,WA,1:47:54,AMY D. FOUNDATION
+40,496869,Heidi,Franz,Kirkland,WA,1:47:54,AMY D. FOUNDATION
 41,362328,Beth Ann,Orton,Bend,OR,1:47:54,AMY D. FOUNDATION
 42,275988,Emma,White,Delanson,NY,1:47:54,Rally Cycling*
-43,512762,Lily,Williams,Chicago,IL,1:47:54,FEARLESS FEMME
+43,512762,Lily,Williams,Asheville,NC,1:47:54,FEARLESS FEMME
 44,527683,Ana,HERNANDEZ,,,1:47:54,CONADE - VISIT MEXICO - SPECIALIZED
 45,363686,Cory,Popovich,Golden,CO,1:47:54,ALPS CYCLES WOMEN'S RACING
 46,515165,Caroline,Mani,Colorado Springs,CO,1:47:54,PALMARES
-47,308334,Heather,Fischer,Del Rio,TX,1:48:23,TIBCO-SILICON VALLEY BANK
+47,308334,Heather,Fischer,Boulder,CO,1:48:23,TIBCO-SILICON VALLEY BANK
 48,353542,Brianna,Walle,Beaverton,OR,1:48:23,TIBCO-SILICON VALLEY BANK
 49,341410,Katherine,Salthouse,Tucson,AZ,1:48:28,AMY D. FOUNDATION
 50,364829,Amy,Benner,Camarillo,CA,1:48:35,Rally Cycling*
@@ -66,12 +66,12 @@ Place,License #,First,Last,City,State,Time,Team
 62,346358,Rachel,Plessing,Lakewood,CO,1:56:45,ALPS CYCLES WOMEN'S RACING
 63,379241,Flora,Yan,Plano,TX,1:58:25,FEARLESS FEMME
 64,221135,Gwen,Inglis,Lakewood,CO,1:59:15,PALMARES
-65,441168,Jenna,Stauffer,Highlands Ranch ,CO,1:59:15,PALMARES
+65,441168,Jenna,Stauffer,Highlands Ranch,CO,1:59:15,PALMARES
 66,508146,Kendelle,Hodges,Lambertville,NJ,2:07:50,Colavita/Bianchi USA*
 DNF,510315,Sara,Bergen,,,,Rally Cycling*
 DNF,418050,Allison,Beveridge,,,,Rally Cycling*
 DNF,418082,Erica,Clevenger,Tucson,AZ,,VISIT DALLAS DNA
-DNF,355078,Mandy,Heintz,Phoenix,AZ,,VISIT DALLAS DNA
+DNF,355078,Mandy,Heintz,Scottsdale ,AZ,,VISIT DALLAS DNA
 DNF,170980,Samantha,Schneider,West Allis,WI,,ISCORP POWERED BY PROGRESS
 DNF,484160,Josie,TALBOT,,,,ISCORP POWERED BY PROGRESS
 DNF,485074,Hannah,Shell,Saint Louis,MO,,ISCORP POWERED BY PROGRESS
@@ -82,9 +82,9 @@ Place,License #,First,Last,City,State,Time,Team
 1,470579,Sara,Poidevin,,,3:08:27,Rally Cycling*
 2,289582,Tayler,Wiles,Fairfax,CA,3:10:33,UnitedHealthcare Pro Cycling*
 3,326204,Abigail,Mickey,Aspen,CO,3:11:07,Colavita/Bianchi USA*
-4,273081,Ruth,Winder,Lafayette,CA,3:11:45,UnitedHealthcare Pro Cycling*
+4,273081,Ruth,Winder,Boulder,CO,3:11:45,UnitedHealthcare Pro Cycling*
 5,401364,Leah,Thomas,Boulder Creek,CA,3:11:47,Sho-Air TWENTY20*
-6,200237,Kaitlin,Antonneau,Racine,WI,3:11:48,Cylance Pro Cycling*
+6,200237,Kaitlin,Antonneau,Colorado Springs,CO,3:11:48,Cylance Pro Cycling*
 7,224767,Flavia,Oliveira,Littleton,CO,3:11:48,FEARLESS FEMME
 8,252835,Whitney,Allison,Fort Collins,CO,3:11:48,Colavita/Bianchi USA*
 9,291607,Allie,Dragoo,Grand Rapids,MI,3:11:51,Sho-Air TWENTY20*
@@ -114,23 +114,23 @@ Place,License #,First,Last,City,State,Time,Team
 1,293380,Jennifer,Valente,San Diego,CA,1:33:00,Sho-Air TWENTY20*
 2,300089,Skylar,Schneider,West Allis,WI,1:33:00,ISCorp Powered By Progress Software*
 3,275988,Emma,White,Delanson,NY,1:33:00,Rally Cycling*
-4,308334,Heather,Fischer,Del Rio,TX,1:33:00,Team TIBCO - Silicon Valley Bank*
+4,308334,Heather,Fischer,Boulder,CO,1:33:00,Team TIBCO - Silicon Valley Bank*
 5,535723,Rebecca,Wiasak,,,1:33:00,FEARLESS FEMME
 6,262479,Lauren,Hall,Cortez,CO,1:33:00,UnitedHealthcare Pro Cycling*
 7,170980,Samantha,Schneider,West Allis,WI,1:33:00,ISCorp Powered By Progress Software*
 8,508146,Kendelle,Hodges,Lambertville,NJ,1:33:00,Colavita/Bianchi USA*
 9,510315,Sara,Bergen,,,1:33:00,Rally Cycling*
 10,500999,Jessica,Mundy,Lambertville,NJ,1:33:00,Colavita/Bianchi USA*
-11,512762,Lily,Williams,Chicago,IL,1:33:00,FEARLESS FEMME
-12,273081,Ruth,Winder,Lafayette,CA,1:33:00,UnitedHealthcare Pro Cycling*
-13,200237,Kaitlin,Antonneau,Racine,WI,1:33:00,CYLANCE
+11,512762,Lily,Williams,Asheville,NC,1:33:00,FEARLESS FEMME
+12,273081,Ruth,Winder,Boulder,CO,1:33:00,UnitedHealthcare Pro Cycling*
+13,200237,Kaitlin,Antonneau,Colorado Springs,CO,1:33:00,CYLANCE
 14,470579,Sara,Poidevin,,,1:33:00,Rally Cycling*
 15,496560,Sofia,ARREOLA NAVARRO,,,1:33:00,Sho-Air TWENTY20*
 16,527261,Mikayla,Harvey,Albert Town,OT,1:33:00,TEAM ILLUMINATE
 17,362328,Beth Ann,Orton,Bend,OR,1:33:00,AMY D. FOUNDATION
-18,496869,Heidi,Franz,Seattle,WA,1:33:00,AMY D. FOUNDATION
+18,496869,Heidi,Franz,Kirkland,WA,1:33:00,AMY D. FOUNDATION
 19,224767,Flavia,Oliveira,Littleton,CO,1:33:00,FEARLESS FEMME
-20,358569,Janelle,Cole,Rockford,MI,1:33:00,UnitedHealthcare Pro Cycling*
+20,358569,Janelle,Cole,Newaygo,MI,1:33:00,UnitedHealthcare Pro Cycling*
 21,515165,Caroline,Mani,Colorado Springs,CO,1:33:00,PALMARES
 22,292211,Jennifer,Tetrick,Sausalito,CA,1:33:00,Team TIBCO - Silicon Valley Bank*
 23,419415,Megan,Jastrab,Apple Valley,CA,1:33:00,AMY D. FOUNDATION
@@ -166,20 +166,20 @@ Place,License #,First,Last,City,State,Time,Team
 53,457092,Rachel,Langdon,Louisville,KY,1:33:14,ISCorp Powered By Progress Software*
 54,346358,Rachel,Plessing,Lakewood,CO,1:38:12,ALPS CYCLES WOMEN'S RACING
 55,526844,Jillian,Bearden,Colorado Springs,CO,1:38:12,PALMARES
-56,355078,Mandy,Heintz,Phoenix,AZ,1:38:14,VISIT DALLAS DNA
+56,355078,Mandy,Heintz,Scottsdale ,AZ,1:38:14,VISIT DALLAS DNA
 57,538683,Astrid,Gassner,,,1:38:14,Colavita/Bianchi USA*
 58,353542,Brianna,Walle,Beaverton,OR,1:38:14,Team TIBCO - Silicon Valley Bank*
 59,266674,Kathryn,Donovan,Oxnard,CA,1:40:14,VISIT DALLAS DNA
 60,418082,Erica,Clevenger,Tucson,AZ,1:40:14,VISIT DALLAS DNA
 61,530265,Grace,Anderson,,,1:40:14,TEAM ILLUMINATE
 62,0,Erika,VARELA,,,1:40:14,CONADE - VISIT MEXICO - SPECIALIZED
-63,230397,Shayna,Powless,Roseville,CA,1:40:26,Sho-Air TWENTY20*
+63,230397,Shayna,Powless,Jacksonville,FL,1:40:26,Sho-Air TWENTY20*
 64,402574,Charlotte,Backus,Larkspur,CO,1:40:26,AMY D. FOUNDATION
 65,364829,Amy,Benner,Camarillo,CA,1:40:26,Rally Cycling*
 66,229069,Tracey,Jacobs,Boulder,CO,1:40:26,ALPS CYCLES WOMEN'S RACING
 67,363686,Cory,Popovich,Golden,CO,1:40:26,ALPS CYCLES WOMEN'S RACING
 68,221135,Gwen,Inglis,Lakewood,CO,1:40:26,PALMARES
-69,441168,Jenna,Stauffer,Highlands Ranch ,CO,1:40:26,PALMARES
+69,441168,Jenna,Stauffer,Highlands Ranch,CO,1:40:26,PALMARES
 70,379241,Flora,Yan,Plano,TX,1:40:26,FEARLESS FEMME
 71,0,Julyn,AGUILA,,,1:40:26,CONADE - VISIT MEXICO - SPECIALIZED
 72,527683,Ana,HERNANDEZ,,,1:40:26,CONADE - VISIT MEXICO - SPECIALIZED

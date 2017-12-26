@@ -135,7 +135,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 06/11/2017 Cross Country Men CAT 3 Senior Clydesdale
 Place,License #,First,Last,City,State,Time,Team
-1,506975,Alex,Scoggins,Sallisaw,OK,00:49:21,Phat Tire Bike Shop
+1,506975,Alex,Scoggins,Gans,OK,00:49:21,Phat Tire Bike Shop
 2,0,Casey,Stoddard,,,00:50:32,Clydesave 200
 3,487435,Andy,Heibult,Bella Vista,AR,00:52:27,
 4,526691,Basil,Hicks,North Little Rock,AR,00:53:48,
@@ -147,7 +147,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 06/11/2017 Cross Country Men CAT 2 Senior 15-18
 Place,License #,First,Last,City,State,Time,Team
-1,0,Isaac,Sanders,,,01:43:19,Front Ranges
+1,501249,Isaac,Sanders,Colorado Springs,CO,01:43:19,Front Ranges
 2,0,Glendon,VanSandt,,,01:47:43,Phat Tire Bike Shop
 
 06/11/2017 Cross Country Men CAT 2 Senior 19 - 29
@@ -198,7 +198,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,3594,Matthew,Bevans,Little Rock,AR,01:35:09,Carve
 7,293517,Steve,Schultz,Bella Vista,AR,01:35:18,Pedaler's Pub
 8,413840,Jason,Zehner,Bentonville,AR,01:35:31,Phat Tire Bike Shop
-9,515563,Brad,Eaton,Broken Arrow,OK,01:38:30,Phat Tire Bike Shop
+9,515563,Brad,Eaton,Tulsa,OK,01:38:30,Phat Tire Bike Shop
 10,181558,Kevin,Bennoch,Bentonville,AR,01:42:54,Pedaler's Pub
 11,221198,Marc,Alley,Cave Springs,AR,01:45:25,GPP Cycling
 12,381534,Ian,Anderson,Rogers,AR,01:58:59,
@@ -258,7 +258,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,0,Sammy,Davidson,,,01:59:03,Soundpony
 5,335904,Mark,Fiegel,Collinsville,OK,01:59:52,360 Sports
 6,0,JR,Middleton,,,02:06:55,Phat Tire Bike Shop
-7,291508,Dathan,Atchison,Branson,MO,02:11:34,Kuat
+7,291508,Dathan,Atchison,Hollister,MO,02:11:34,Kuat
 8,72099,Pat,Zimmerman,Fayetteville,AR,02:12:26,Pedaler's Pub
 9,72186,Sheridan,Marquardt,Oklahoma City,OK,02:19:52,Anthem Brewing Elite
 
@@ -270,7 +270,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,0,Kevin,Crawford,,,01:33:52,RVC/Champion
 5,376760,Bill,Thornton,Fort Smith,AR,01:36:15,RVC/Champion
 6,306448,Robert,Nielsen,Benton,AR,01:38:10,Bell & Co
-7,435404,Jeffrey,Heath,Texarkana,AR,01:38:31,GPP Cycling
+7,435404,Jeffrey,Heath,Bella Vista,AR,01:38:31,GPP Cycling
 8,349804,Steve,Jones,Bentonville,AR,01:38:57,Pedaler's Pub
 
 06/11/2017 Cross Country Men CAT 1 Senior 60 Plus

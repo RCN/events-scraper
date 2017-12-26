@@ -58,11 +58,11 @@ Place,License #,First,Last,City,State,Time,Team
 
 07/16/2017 Criterium Men Cat 1/2/3/4/5 Master 75-79
 Place,License #,First,Last,City,State,Time,Team
-1,194019,Joseph,Kapp,La Quinta ,CA,,Veloce Santiago
+1,194019,Joseph,Kapp,La Quinta,CA,,Veloce Santiago
 
 07/16/2017 Criterium Men Cat 1/2/3/4/5 Mst Champ 75-79
 Place,License #,First,Last,City,State,Time,Team
-1,194019,Joseph,Kapp,La Quinta ,CA,,Veloce Santiago
+1,194019,Joseph,Kapp,La Quinta,CA,,Veloce Santiago
 
 07/16/2017 Criterium Men Cat 1/2/3/4/5 Master 80-84
 Place,License #,First,Last,City,State,Time,Team
@@ -163,7 +163,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,467816,carlos,Martinez -fernandez,Chula Vista,CA,,G3Foundation / Trek
 8,523653,Conrad,Hindert,San Diego,CA,,SDBC/EMERALD TEXTILES p/b UC Cyclery
 9,482021,Jeffrey,Crisostomo,San Diego,CA,,Padyak Racing Team
-10,423072,Julius,Cunanan,National City,CA,,Padyak Racing Team
+10,423072,Julius,Cunanan,La Mesa,CA,,Padyak Racing Team
 11,425361,Chad,Muller,San Diego,CA,,
 12,130937,Domingo,Chavez,Chula Vista,CA,,G3Foundation / Trek
 13,495801,Tori,Wuthrich,Cambridge,MA,,Massachusetts Institute of Technology
@@ -541,10 +541,10 @@ DNF,392773,Randy,Nelson,Peoria,AZ,,
 
 07/14/2017 Criterium Men Cat 5 Senior Open
 Place,License #,First,Last,City,State,Time,Team
-366,0,Augustin,,,,,
+366,383537,Patrick,Augustin,San Diego,CA,,
 367,0,oswald,,,,,
 368,0,Schoenbrunner,,,,,
-369,0,Meinert,,,,,
+369,425206,Douglas,Meinert,Tempe,AZ,,
 370,0,Rocha,,,,,
 
 07/14/2017 Criterium Men Cat 4 Senior Open

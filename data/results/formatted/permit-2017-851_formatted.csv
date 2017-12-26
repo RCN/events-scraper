@@ -9,14 +9,14 @@ Place,License #,First,Last,City,State,Time,Team
 5,394625,Daniel,Soltan,Ann Arbor,MI,,University of Michigan-Ann Arbor
 6,430758,Josh,Mesner,Whitewater,WI,,University of Wisconsin- Madison
 7,303484,Justin,Miller,West Lafayette,IN,,Purdue University
-8,263035,Andrew,Giniat,Winnetka,IL,,DePaul University
+8,263035,Andrew,Giniat,Asheville,NC,,DePaul University
 9,398250,Ryan,McLoughlin,Powell,OH,,University of Michigan-Ann Arbor
 10,466664,Daniel,Blumberg,Highland Park,IL,,University of Wisconsin- Madison
 11,370473,Andrew,Einspanier,Iron River,WI,,University of Wisconsin- Madison
 12,427981,Ezra,Sonderling,Wooster,OH,,The College of Wooster
 13,459350,Jacob,Shupe,Greenwood,IN,,Purdue University
 14,460247,Ryan,Girouard,Whitewater,WI,,University of Wisconsin-Whitewater
-15,313374,Kyle,Stewart,Indianapolis ,IN,,Marian University
+15,313374,Kyle,Stewart,Indianapolis,IN,,Marian University
 16,313804,Stephen,Doll,Ann Arbor,MI,,University of Michigan-Ann Arbor
 17,313840,James,Pratt,Niles,MI,,University of Notre Dame
 
@@ -36,7 +36,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,455099,Jasper,Stallings,New York,NY,,Case Western Reserve University
 13,498156,Jeanhyuk,Park,Cleveland Heights,OH,,Case Western Reserve University
 14,429612,Adam,Johnston,Cleveland,OH,,Case Western Reserve University
-15,468397,Nicholas,Merchant Wells,Solana Beach,CA,,Case Western Reserve University
+15,468397,Nicholas,Merchant Wells,Cleveland,OH,,Case Western Reserve University
 16,429561,Henry,Bermet,Seattle,WA,,Case Western Reserve University
 DNF,429599,Casey,Griesemer,Cambridge,WI,,University of Wisconsin-Whitewater
 
@@ -46,7 +46,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,486909,Conrad,Keglowitsch,Indianapolis,IN,,Marian University
 3,460619,Ryan,Craig,Marquette,MI,,Northern Michigan University
 4,498349,Riley,Cockerill,Lakeville,MN,,University of Wisconsin- Madison
-5,527073,Peter,Dixon,Ann Arbor,MI,,University of Michigan-Ann Arbor
+5,527073,Peter,Dixon,Pasadena,CA,,University of Michigan-Ann Arbor
 6,501162,Mark,Zhao,West Lafayette,IN,,Purdue University
 7,496786,Douglas,Simpson,Powell,OH,,Ohio State University
 8,424878,Juergen,Wilkes,Columbus,OH,,Ohio State University
@@ -56,7 +56,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,412735,Mitch,Huffman,Indianapolis,IN,,Purdue University
 13,495130,Dakota,Hewlett,Caledonia,MI,,Michigan State University
 14,460286,Scott,Levengood,Whitewater,WI,,University of Wisconsin-Whitewater
-15,441114,Kyle,Pyeatt,Grand Blanc,MI,,Michigan State University
+15,441114,Kyle,Pyeatt,East Lansing,MI,,Michigan State University
 
 04/09/2017 Criterium Men D
 Place,License #,First,Last,City,State,Time,Team
@@ -64,7 +64,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,521501,Frederick,Junge,Ann Arbor,MI,,University of Michigan-Ann Arbor
 3,251865,Alex,Schimp,Madison,WI,,University of Wisconsin- Madison
 4,527209,Graham,Spicer,Evanston,IL,,Northwestern University
-5,501236,Kevin,Bodkin,Chicago,IL,,Northwestern University
+5,501236,Kevin,Bodkin,Evanston,IL,,Northwestern University
 6,526238,Brelon,May,Columbus,OH,,Ohio State University
 7,0,Jirgal,Lucas,,,,Marian University
 8,527308,Nathan,Gross,Bedford,IN,,Purdue University
@@ -88,8 +88,8 @@ Place,License #,First,Last,City,State,Time,Team
 
 04/09/2017 Criterium Women A
 Place,License #,First,Last,City,State,Time,Team
-1,512762,Lily,Williams,Chicago,IL,,Northwestern University
-2,433105,Brenna,Gibbons,Coon Valley ,WI,,University of Wisconsin- Madison
+1,512762,Lily,Williams,Asheville,NC,,Northwestern University
+2,433105,Brenna,Gibbons,Madison,WI,,University of Wisconsin- Madison
 3,408538,Catherine,Culkin,Ann Arbor,MI,,University of Michigan-Ann Arbor
 4,522864,Michelle,Hance,Noblesville,IN,,Purdue University
 5,425277,Sarah,Cullen,Northville,MI,,University of Notre Dame
@@ -106,7 +106,7 @@ Place,License #,First,Last,City,State,Time,Team
 04/09/2017 Criterium Women C
 Place,License #,First,Last,City,State,Time,Team
 1,526678,Rebecca,Wilson,Verona,WI,,University of Wisconsin- Madison
-2,508416,Abby,Potts,Ann Arbor,MI,,University of Michigan-Ann Arbor
+2,531223,Abby,Potts,Ann Arbor,MI,,University of Michigan-Ann Arbor
 3,526283,Grace,Couture,Columbus,OH,,Ohio State University
 4,524789,Madeline,Goodson,Ann Arbor,MI,,University of Michigan-Ann Arbor
 5,524791,Caroline,Lakeman,Ann Arbor,MI,,University of Michigan-Ann Arbor

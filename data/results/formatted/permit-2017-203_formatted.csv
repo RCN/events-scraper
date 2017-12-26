@@ -4,7 +4,7 @@ Folsom Winter Criterium in Folsom CA Results
 Place,License #,First,Last,City,State,Time,Team
 1,283185,Anthony,FERRETTI,Oroville,CA,00:00:00.00,AMain Cycling Team
 2,337774,Charlie,VELEZ,El Dorado Hills,CA,00:00:00.00,Data Driven Athlete
-3,306325,William,MYERS,Orinda,CA,00:00:00.00,Herbalife p/b Marc Pro - Natur
+3,306325,William,MYERS,Davis,CA,00:00:00.00,Herbalife p/b Marc Pro - Natur
 4,234584,Joshua,CARLING,El Dorado,CA,00:00:00.00,Williams Cycling
 5,371675,Cooper,ROMBOLD,Bellingham,WA,00:00:00.00,Metier racing & coffee
 6,240540,David,GRUNDMAN,Davis,CA,00:00:00.00,SquadraSF p/b Terun
@@ -105,10 +105,10 @@ Place,License #,First,Last,City,State,Time,Team
 17,458972,Theo,GOGUELY,Menlo Park,CA,00:00:00.00,TMB Development p/b Equator
 18,402489,Joshua,MCDONALD,Concord,CA,00:00:00.00,C360R
 19,366956,Ashton,LYLE,Benicia,CA,00:00:00.00,Tieni Duro Junior Cycling Team
-20,307192,Jake,YACKLE,Spokane ,WA,00:00:00.00,Yackle Brothers Racing
+20,307192,Jake,YACKLE,Spokane,WA,00:00:00.00,Yackle Brothers Racing
 21,390428,Andy,GARZOLI,Lakeport,CA,00:00:00.00,Chico Corsa Cycling Team
 22,126770,Seth,MCDONOUGH,Chico,CA,00:00:00.00,Chico Corsa Cycling Club
-23,417590,Dallas,SIOK,Arnold,MD,00:00:00.00,BIKE DOCTOR p/b North Tek
+23,417590,Dallas,SIOK,Fairfield,CA,00:00:00.00,BIKE DOCTOR p/b North Tek
 24,234714,Taylor,SCHWARTZ,San Francisco,CA,00:00:00.00,Team Mikes Bikes p/b Equator C
 25,494273,Yatwah,MITCHELL,Orangevale,CA,00:00:00.00,Sierra Nevada/Reliable Racing
 26,458488,Timmy,BAUER,Placerville,CA,00:00:00.00,Williams Cycling
@@ -128,7 +128,7 @@ Place,License #,First,Last,City,State,Time,Team
 02/04/2017 Criterium Men Cat1/2/3 Master 35-99
 Place,License #,First,Last,City,State,Time,Team
 1,61649,Chris,ESPY,Sacramento,CA,00:00:00.00,Team Specialized/Touchstone Ra
-2,179386,Daniel,MARTIN,Pleasanton,CA,00:00:00.00,Peet's Coffee Racing
+2,179386,Daniel,MARTIN,Loomis,CA,00:00:00.00,Peet's Coffee Racing
 3,54591,Michael,SAYERS,Fair Oaks,CA,00:00:00.00,Craft Factory Cycling Team
 4,61117,Brian,ZIMNY,Sacramento,CA,00:00:00.00,Peet's Coffee Racing
 5,204496,Michael,O'ROURKE,Auburn,CA,00:00:00.00,Peet's Coffee Racing
@@ -182,7 +182,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,365212,Richard,HUFFORD,Granite Bay,CA,00:00:00.00,Victory Velo Racing
 13,282712,Greg,CHAPLA,Davis,CA,00:00:00.00,Davis Bike Club Race Team
 14,212968,Todd,DAMBLY,Folsom,CA,00:00:00.00,Folsom Bike/Trek/Raley's- Men'
-15,179386,Daniel,MARTIN,Pleasanton,CA,00:00:00.00,Peet's Coffee Racing
+15,179386,Daniel,MARTIN,Loomis,CA,00:00:00.00,Peet's Coffee Racing
 16,54591,Michael,SAYERS,Fair Oaks,CA,00:00:00.00,Craft Factory Cycling Team
 17,255279,Dennis,BAKER,Sacramento,CA,00:00:00.00,Michael David Winery Cycling T
 18,128711,Adam,ANDELIN,Elk Grove,CA,00:00:00.00,Sierra Nevada/Reliable Racing
@@ -216,7 +216,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,507192,Ryan,CHEPERNICH,Auburn,CA,00:00:00.00,Fulton Racing
 2,459853,Devin,ARMSTRONG,New York,NY,00:00:00.00,
 3,512553,Roberto,CASTRO,Salinas,CA,00:00:00.00,Cycle Sport - Specialized p/b
-4,460839,Solano,DOMINGUEZ,Lakeportlakeport,CA,00:00:00.00,
+4,460839,Solano,DOMINGUEZ,Lakeport,CA,00:00:00.00,
 5,520738,William,FARINO,San Francisco,CA,00:00:00.00,TMB Development p/b Equator
 6,499407,Joshua,CAGNEY,Folsom,CA,00:00:00.00,
 7,499629,Eric,SCHLANGE,Lakeport,CA,00:00:00.00,Main Street Elite p/b Main Str
@@ -224,7 +224,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,0,Anthony,MARENGO,,,00:00:00.00,WeTri Triathlon Team
 10,492614,Drew,NOEL,Sacramento,CA,00:00:00.00,Trafiq vs. Traffic
 11,522553,Alison,KUBOTA,San Francisco,CA,00:00:00.00,
-12,497173,Nathaniel,WARFIELD,Red Bluff ,CA,00:00:00.00,Chico Masters Cycling Team
+12,497173,Nathaniel,WARFIELD,Red Bluff,CA,00:00:00.00,Chico Masters Cycling Team
 13,495750,Sydney,LEWIS,Rocklin,CA,00:00:00.00,
 14,424063,Walter,ROZEK,Folsom,CA,00:00:00.00,Reliable/Taco Bell Racing p/b
 15,522141,Steven,SINOR,Sacramento,CA,00:00:00.00,Victory Velo Racing
@@ -271,7 +271,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,458056,Ben,CLARKE,Milpitas,CA,00:00:00.00,SJBC
 10,428812,Jordan,MILLER,Folsom,CA,00:00:00.00,Sierra Nevada/Reliable Racing
 11,508231,Isaiah,OLIVER,El Dorado Hills,CA,00:00:00.00,Limitless Cycling
-12,307201,Nye,YACKLE,Spokane ,WA,00:00:00.00,Yackle Brothers Racing
+12,307201,Nye,YACKLE,Spokane,WA,00:00:00.00,Yackle Brothers Racing
 13,458621,Jude,VANNI,Rosev,CA,00:00:00.00,Limitless Cycling p/b GoodyFin
 14,493642,Andrew,YEAGER,Folsom,CA,00:00:00.00,Limitless Cycling p/b GoodyFin
 15,458131,Michael,DUFFY,San Francisco,CA,00:00:00.00,
@@ -303,7 +303,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,390428,Andy,GARZOLI,Lakeport,CA,00:00:00.00,Main Street Elite p/b Main Str
 7,336992,Matthew,DIZON,San Francisco,CA,00:00:00.00,Swell Bicycles
 8,402489,Joshua,MCDONALD,Concord,CA,00:00:00.00,C360R
-9,307192,Jake,YACKLE,Spokane ,WA,00:00:00.00,Yackle Brothers Racing
+9,307192,Jake,YACKLE,Spokane,WA,00:00:00.00,Yackle Brothers Racing
 10,428921,Jamin,CHEPERNICH,Fresno,CA,00:00:00.00,Fulton Racing
 11,289169,Aaron,MARCHAND,Sacramento,CA,00:00:00.00,Folsom Bike/Trek/Raley's- Men'
 12,331894,Grover,ROZEK,Folsom,CA,00:00:00.00,Reliable/Taco Bell Racing p/b
@@ -325,7 +325,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,459301,Liz,OTTO HAMEL,Palo Alto,CA,00:00:00.00,Folsom Bike/Trek
 3,470357,Illi,GARDNER,Palo Alto,CA,00:00:00.00,Folsom Bike/Trek
 4,402178,Zahra,GILL,Hayward,CA,00:00:00.00,TWENTY16 Ridebiker
-5,455528,Shelby,TRAMEL,San Francisco,CA,00:00:00.00,RAZZLE DAZZLE RACING
+5,455528,Shelby,TRAMEL,Oakkland,CA,00:00:00.00,RAZZLE DAZZLE RACING
 6,203755,Amanda,SEIGLE,Citrus Heights,CA,00:00:00.00,Jakroo presented by Chrome Ind
 7,458778,Makenzie,DELAUGHDER,Davis,CA,00:00:00.00,Team Mikes Bikes p/b Equator C
 8,424919,Ayesha,MCGOWAN,El Sobrante,CA,00:00:00.00,Jakroo presented by Chrome Ind
@@ -333,7 +333,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,262057,Joy,FRANCO,Stanford,CA,00:00:00.00,RAZZLE DAZZLE
 11,418564,Sara,ENDERS,Sacramento,CA,00:00:00.00,Folsom Bike/Trek
 12,378827,Anna,JANAS,Palo Alto,CA,00:00:00.00,Razzle Dazzle
-13,306378,Kristen,HILL,Woodland,CA,00:00:00.00,Williams Cycling
+13,306378,Kristen,HILL,Sacramento,CA,00:00:00.00,Williams Cycling
 DNP,448954,Luisa,SEMPERE,Fremont,CA,00:00:00.00,RAZZLE DAZZLE
 DNP,325664,Tina,HUGHES,Zephyr Cove,NV,00:00:00.00,Jakroo presented by Chrome Ind
 
@@ -368,8 +368,8 @@ Place,License #,First,Last,City,State,Time,Team
 4,378684,Kelly,MILLER,West Sacramento,CA,00:00:00.00,Breakaway Women's Racing p/b K
 5,262057,Joy,FRANCO,Stanford,CA,00:00:00.00,RAZZLE DAZZLE
 6,486780,Amy,MOOR,Oakland,CA,00:00:00.00,SheSpoke Racing
-7,455528,Shelby,TRAMEL,San Francisco,CA,00:00:00.00,RAZZLE DAZZLE RACING
+7,455528,Shelby,TRAMEL,Oakkland,CA,00:00:00.00,RAZZLE DAZZLE RACING
 8,393209,Eva,OLIN,Sacramento,CA,00:00:00.00,Breakaway Women's Racing
-9,485936,Trish,PABLO,Sacramento ,CA,00:00:00.00,Team Mikes Bikes p/b Equator C
+9,485936,Trish,PABLO,Rodeo,CA,00:00:00.00,Team Mikes Bikes p/b Equator C
 10,378827,Anna,JANAS,Palo Alto,CA,00:00:00.00,Razzle Dazzle
-11,306378,Kristen,HILL,Woodland,CA,00:00:00.00,Williams Cycling
+11,306378,Kristen,HILL,Sacramento,CA,00:00:00.00,Williams Cycling

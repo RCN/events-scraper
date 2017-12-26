@@ -18,7 +18,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,268391,Evan,Thomas,New Milford,CT,1:10:08,
 15,0,Tyler,Clark,,,1:10:08,Killington Mountain School - KMS Cycling
 16,429176,Sean,McTearnen,New York,NY,1:10:08,E2 Value / CRCA
-17,392104,Doug,Zell,Little Rock ,AR,1:10:08,Intelligentsia-Allied
+17,392104,Doug,Zell,Lockhart,TX,1:10:08,Intelligentsia-Allied
 18,296124,Edenilson,daSilva,South Kent,CT,1:10:08,Class Cycless
 19,339550,Chris,Ballard,New York City,NY,1:10:08,CRCA/GF Capital/ H&E Ent.
 20,58508,Simon,Khalif,New York,NY,1:10:08,CRCA/GF Capital H&E ENT
@@ -99,7 +99,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,427926,Kevin,Mullaly,Wethersfield,CT,0:17:39,Team Edge
 3,429839,Patrick,Kiernan,Burlington,CT,0:21:56,RACE CF | racecf.org @racecf
 4,476970,Alexander,Beck,W Hartford,CT,0:21:56,CCAP
-5,503987,William,Rueckert,W Hartford,CT,0:23:36,CCAP West Hartford ERRACERs
+5,503987,William,Rueckert,West Hartford,CT,0:23:36,CCAP West Hartford ERRACERs
 6,485984,Nathaniel,Summers,Southington,CT,0:25:21,CCAP Railrailers
 
 04/30/2017 Criterium Men Junior Junior 14-18
@@ -153,7 +153,7 @@ Place,License #,First,Last,City,State,Time,Team
 23,166319,Jeffrey,Weaver,Wallingford,CT,1:01:53,Cheshire Cycle Racing
 24,70309,Brad,Stratton,Brooklyn,NY,1:01:53,CRCA / Team Veselka p/b Cafe Grumpy
 25,412071,Michael,Podzaline,North Stonington,CT,1:01:53,
-26,381192,Zachary,Flynn,West Hartford ,CT,1:01:53,
+26,381192,Zachary,Flynn,West Hartford,CT,1:01:53,
 27,406156,Christian,Norvold,Berlin,MA,1:01:53,JAM / NCC
 28,340222,Rick,Dalton,Rochester,NY,1:01:53,Bristol Mountain Road Racing
 29,291204,Kevin,Emr,Albany,NY,1:01:53,CRCA / GF Capital / H&E Ent
@@ -172,7 +172,7 @@ Place,License #,First,Last,City,State,Time,Team
 42,410528,Julius Erwin,Quito,Astoria,NY,1:01:53,CRCA/Dave Jordan Racing
 43,274541,Paul,O'Donnell,New York,NY,1:01:53,CRCA/Dave Jordan Racing
 44,498602,Atish,Shinde,Stoneham,MA,1:01:53,NEBC p/b Cycle Loft
-45,383816,Hernan,Lucero,Hicksville ,NY,1:01:53,Mineola Bicycle Race Team
+45,383816,Hernan,Lucero,Hicksville,NY,1:01:53,Mineola Bicycle Race Team
 46,498287,Wes,Evasick,Newark,DE,1:01:53,
 47,365721,Philip,LaVoie,Granite Springs,NY,1:01:53,C3 Racing
 48,424211,Juan,Cruz,Yonkers,NY,1:01:53,CRCA/Dave Jordan Racing
@@ -204,7 +204,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,422399,Cyrus,Greenspon,New York,NY,0:37:42,NYCC Racing/crca
 12,512911,Michael,Williams,West Hartford,CT,0:37:42,Greater Hartford Cycling Club
 13,410772,John,Bonetsky,Niverville,NY,0:37:42,R-Cubed
-14,460312,Allan,Ganly,Astoria,NY,0:37:42,crca
+14,460312,Allan,Ganly,Weehawken,NJ,0:37:42,crca
 15,526666,Jon,Osgood,Stamford,CT,0:37:42,
 16,500038,Nicholas,Wixom,Brighton,MA,0:37:42,545 Velo
 17,524574,Nicholas,Groll,Albany,NY,0:37:42,R-Cubed
@@ -243,7 +243,7 @@ Place,License #,First,Last,City,State,Time,Team
 50,0,Kyle,Lane,,,lap,
 51,529412,Taylor,Sproul,Ridley Park,PA,lap,NHBC
 52,0,Michael,Lennon,,,lap,
-53,529518,sam,santich,Springfield,MA,lap,
+53,529518,sam,santich,Centennial,CO,lap,
 54,498287,Wes,Evasick,Newark,DE,lap,
 55,0,Jerry,Ruggieri,,,lap,Cycleology Bike & Ski
 56,0,Matt,Boyle Jr,,,lap,
@@ -276,7 +276,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,88290,Kristi,Roberts,New York,NY,0:37:20,CRCA/Dave Jordan Racing
 2,0,sarah,chubb sauvayre,,,0:37:20,CRCA/Rockstar Games
-3,0,Lisa,Colella,,,0:37:20,Race CF
+3,507079,Lisa,Colella,New Britain,CT,0:37:20,Race CF
 4,305404,Jennifer,Lacker,Mystic,CT,0:37:20,Mystic Velo  Club
 5,497987,Carla,Ratti,Danbury,CT,0:37:20,TTEndurance
 6,531325,amy,bullard,Norwalk,CT,0:37:20,cape cod cycle club
@@ -284,7 +284,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 04/30/2017 Criterium Women Junior Junior -9
 Place,License #,First,Last,City,State,Time,Team
-1,474725,Sadie,Rueckert,W Hartford,CT,0:18:53,CCAP West Hartford ERRACERs
+1,474725,Sadie,Rueckert,West Hartford,CT,0:18:53,CCAP West Hartford ERRACERs
 
 04/30/2017 Criterium Women Junior Junior 14-18
 Place,License #,First,Last,City,State,Time,Team

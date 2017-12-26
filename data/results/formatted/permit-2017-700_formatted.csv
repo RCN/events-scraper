@@ -7,7 +7,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,467542,Josh,Moore,Mountain Home,AR,,
 4,423720,Joseph,Pardue,Fayetteville,AR,,Breakaway Cycling
 5,417455,Grant,Morey,Saint Charles,MO,,Tulsa Wheelman
-6,403642,Zachary,Hatcher,Carthage,MO,,
+6,403642,Zachary,Hatcher,Weat Fork,AR,,
 7,516799,Jeremy,Grigg,Harrison,AR,,
 8,28097,TIM,PICKENS,Broken Arrow,OK,,
 9,492970,Mike,IVANCIC,Leawood,KS,,
@@ -37,7 +37,7 @@ DNF,229372,DAVID,THAMES,Fort Smith,AR,,
 
 03/05/2017 Criterium Men open A
 Place,License #,First,Last,City,State,Time,Team
-0,392104,Doug,Zell,Little Rock ,AR,,
+0,392104,Doug,Zell,Lockhart,TX,,
 1,467580,Andrew,Evans,Rogers,AR,,Tyson Foods
 2,425096,Kevin,Solomon,Little Rock,AR,,Tyson Foods
 3,513513,Olivier,Lavigueur,Little Rock,AR,,thePACK
@@ -97,7 +97,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,278677,Noah,Burke,Lincoln,NE,,Nebraska
 12,519785,Joseph,Fryer,Austin,TX,,UT Austin
 13,526495,John,Strutt,Minneapolis,MN,,Minnesota-Twin Cities
-14,513333,Kanten,Nichols,Longview,TE,,UNT
+14,513333,Kanten,Nichols,Denton,TX,,UNT
 15,467809,Cole,Feagler,Minnetonka,MN,,Minnesota-Twin Cities
 16,525803,Coleman,Reidling,Plano,TX,,MSU
 17,494573,Maxwell,Bernhardt,Austin,TX,,UT Austin
@@ -105,7 +105,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,525787,Zachary,Speer,Stillwater,OK,,OSU
 20,496415,Kevin,Beaver,Sugar Land,TX,,UT Dallas
 21,502580,Hans,Ajieren,Richardson,TX,,UT Dallas
-22,524417,Jerry,Cornell,New Orleans,LA,,Tulane
+22,524417,Jerry,Cornell,North Potomac,MD,,Tulane
 23,317216,David,Zillig,Hallam,NE,,Nebraska
 24,487626,Dillon,Huval,Welsh,LA,,Louisianna-Lafayette
 25,525584,Chris,Alexis Jr.,Wichita Falls,TX,,MSU
@@ -118,7 +118,7 @@ DNF,476824,Connor,White,College Station,TX,,UT Austin
 03/05/2017 Criterium Men Collegiate Men B
 Place,License #,First,Last,City,State,Time,Team
 1,466564,Calder,Glowac,Rochester,MN,,Minnesota-Twin Cities
-2,496527,Ryan,Chien,Reno,NV,,Minnesota-Twin Cities
+2,496527,Ryan,Chien,Arlington,VA,,Minnesota-Twin Cities
 3,497823,Jordan,Konynenbelt,Minneapolis,MN,,Minnesota-Twin Cities
 4,439588,August,Bailey,Little Rock,AR,,Arkansas
 DNS,492633,Jason,Colestock,Minneapolis,MN,,Lindenwood
@@ -133,10 +133,10 @@ DNF,496524,Max,Granat,Tomball,TX,,UT Austin
 Place,License #,First,Last,City,State,Time,Team
 1,428009,Sam,Fritz,Princeton,MN,,Minnesota-Duluth
 2,331166,Ben,Bradley,Plaquemine,LA,,Tulane
-3,403588,Jack,Niewold,Madison,WI,,Minnesota-Twin Cities
+3,403588,Jack,Niewold,Minneapolis,MN,,Minnesota-Twin Cities
 4,382221,Chase,Wark,Zimmerman,MN,,Minnesota-Twin Cities
 5,425275,Logan,Grace,Minneapolis,MN,,Minnesota-Twin Cities
-6,378837,Bill,Ash,Philadelphia,PA,,MSU
+6,378837,Bill,Ash,New York ,NY,,MSU
 7,354166,Benjamin,Spain,Raleigh,NC,,Tulane
 8,291129,Rob,Sandusky,Frisco,TX,,Arkansas
 9,466498,Thomas,Brown,Little Rock,AR,,Arkansas
@@ -173,7 +173,7 @@ DNF,526288,Erin,Williams,Flower Mound,TX,,OSU
 Place,License #,First,Last,City,State,Time,Team
 1,230527,Joy,Jason,Port Allen,LA,,Tulane
 2,422798,Nicole,Coetzer,Roanoke,TX,,MSU
-3,498352,Waverly,Johnston,Minneapolis,MN,,Minnesota-Twin Cities
+3,498352,Waverly,Johnston,Bloomington,MN,,Minnesota-Twin Cities
 DNS,468081,Ellie,Morgenthaler,Chesterfield,MO,,Lindenwood
 DNS,431931,Madeline,Arpin,Minneapolis,MN,,Minnesota-Twin Cities
 DNS,466786,Stephanie,Hart,Grand Rapids,MN,,Minnesota-Twin Cities
@@ -200,7 +200,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,325448,Drake,Duman,Crowley,TX,,
 10,400603,Austin,Dixon,Fayetteville,AR,,Experience Fayetteville
 11,460777,Daniel,Journell,Oklahoma City,OK,,Tyson Foods
-12,403642,Zachary,Hatcher,Carthage,MO,,
+12,403642,Zachary,Hatcher,Weat Fork,AR,,
 13,435408,Hunter,Hobbs,Lavaca,AR,,UNT
 14,418278,Joseph,Bingham,Tulsa,OK,,
 15,28097,TIM,PICKENS,Broken Arrow,OK,,
@@ -281,7 +281,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,278677,Noah,Burke,Lincoln,NE,,Nebraska
 10,494573,Maxwell,Bernhardt,Austin,TX,,UT Austin
 11,514036,Daniel,Cicha,Farley,MO,,Lindenwood
-12,513333,Kanten,Nichols,Longview,TE,,UNT
+12,513333,Kanten,Nichols,Denton,TX,,UNT
 13,430347,Alex,Turner,Minneapolis,MN,,Minnesota-Twin Cities
 14,519785,Joseph,Fryer,Austin,TX,,UT Austin
 15,484357,Benjamin,Kollaja,Stillwater,MN,,Minnesota-Twin Cities
@@ -293,7 +293,7 @@ Place,License #,First,Last,City,State,Time,Team
 21,502580,Hans,Ajieren,Richardson,TX,,UT Dallas
 22,525787,Zachary,Speer,Stillwater,OK,,OSU
 23,525803,Coleman,Reidling,Plano,TX,,MSU
-24,524417,Jerry,Cornell,New Orleans,LA,,Tulane
+24,524417,Jerry,Cornell,North Potomac,MD,,Tulane
 25,525584,Chris,Alexis Jr.,Wichita Falls,TX,,MSU
 26,459092,Joseph,Wertz,Breaux Bridge,LA,,Louisiana-Lafayette
 27,487626,Dillon,Huval,Welsh,LA,,Louisianna-Lafayette
@@ -303,7 +303,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 03/05/2017 Stage Race Men Collegiate Men B
 Place,License #,First,Last,City,State,Time,Team
-1,496527,Ryan,Chien,Reno,NV,,Minnesota-Twin Cities
+1,496527,Ryan,Chien,Arlington,VA,,Minnesota-Twin Cities
 2,492633,Jason,Colestock,Minneapolis,MN,,Lindenwood
 3,466564,Calder,Glowac,Rochester,MN,,Minnesota-Twin Cities
 4,439588,August,Bailey,Little Rock,AR,,Arkansas
@@ -319,12 +319,12 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,331166,Ben,Bradley,Plaquemine,LA,,Tulane
 2,428009,Sam,Fritz,Princeton,MN,,Minnesota-Duluth
-3,403588,Jack,Niewold,Madison,WI,,Minnesota-Twin Cities
+3,403588,Jack,Niewold,Minneapolis,MN,,Minnesota-Twin Cities
 4,466134,Pablo,Cruz,Wichita Falls,TX,,MSU
 5,354166,Benjamin,Spain,Raleigh,NC,,Tulane
 6,358808,Jonah,MeadVanCort,Ithaca,NY,,Lindenwood
 7,382221,Chase,Wark,Zimmerman,MN,,Minnesota-Twin Cities
-8,378837,Bill,Ash,Philadelphia,PA,,MSU
+8,378837,Bill,Ash,New York ,NY,,MSU
 9,469206,Hugh,Gill,Washington,IL,,Lindenwood
 10,466498,Thomas,Brown,Little Rock,AR,,Arkansas
 11,347112,Austin,Gomes,Florissant,MO,,Lindenwood
@@ -360,7 +360,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,230527,Joy,Jason,Port Allen,LA,,Tulane
 2,422798,Nicole,Coetzer,Roanoke,TX,,MSU
 3,468081,Ellie,Morgenthaler,Chesterfield,MO,,Lindenwood
-4,498352,Waverly,Johnston,Minneapolis,MN,,Minnesota-Twin Cities
+4,498352,Waverly,Johnston,Bloomington,MN,,Minnesota-Twin Cities
 5,431931,Madeline,Arpin,Minneapolis,MN,,Minnesota-Twin Cities
 6,466786,Stephanie,Hart,Grand Rapids,MN,,Minnesota-Twin Cities
 
@@ -376,7 +376,7 @@ Place,License #,First,Last,City,State,Time,Team
 03/04/2017 Individual Time Trial Men Men's Collegiate B
 Place,License #,First,Last,City,State,Time,Team
 1,492633,Jason,Colestock,Minneapolis,MN,23:27.4,
-2,496527,Ryan,Chien,Reno,NV,24:19.0,
+2,496527,Ryan,Chien,Arlington,VA,24:19.0,
 3,496524,Max,Granat,Tomball,TX,24:48.1,
 4,439588,August,Bailey,Little Rock,AR,25:12.7,
 5,311427,Cole,Johnson,Shawnee Mission,KS,25:14.2,
@@ -404,7 +404,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,422798,Nicole,Coetzer,Roanoke,TX,26:54.6,
 3,230527,Joy,Jason,Port Allen,LA,27:04.8,
 4,431931,Madeline,Arpin,Minneapolis,MN,27:12.8,
-5,498352,Waverly,Johnston,Minneapolis,MN,29:04.0,
+5,498352,Waverly,Johnston,Bloomington,MN,29:04.0,
 6,466786,Stephanie,Hart,Grand Rapids,MN,31:14.3,
 
 03/04/2017 Individual Time Trial  Women's Collegiate A
@@ -476,7 +476,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,473246,Louis,Mueller,Minneapolis,MN,25:04.5,
 10,514036,Daniel,Cicha,Farley,MO,25:22.3,
 11,525801,Paul,Hogan,Minneapolis,MN,25:26.5,
-12,513333,Kanten,Nichols,Longview,TE,25:39.5,
+12,513333,Kanten,Nichols,Denton,TX,25:39.5,
 13,526495,John,Strutt,Minneapolis,MN,25:42.5,
 14,484357,Benjamin,Kollaja,Stillwater,MN,26:23.4,
 15,467809,Cole,Feagler,Minnetonka,MN,26:30.1,
@@ -486,7 +486,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,519785,Joseph,Fryer,Austin,TX,26:44.1,
 20,525787,Zachary,Speer,Stillwater,OK,27:12.8,
 21,525803,Coleman,Reidling,Plano,TX,27:43.3,
-22,524417,Jerry,Cornell,New Orleans,LA,28:33.0,
+22,524417,Jerry,Cornell,North Potomac,MD,28:33.0,
 23,525584,Chris,Alexis Jr.,Wichita Falls,TX,29:42.3,
 24,459092,Joseph,Wertz,Breaux Bridge,LA,30:37.3,
 25,487626,Dillon,Huval,Welsh,LA,30:41.5,
@@ -497,8 +497,8 @@ DNF,430347,Alex,Turner,Minneapolis,MN,DNS,
 Place,License #,First,Last,City,State,Time,Team
 1,428009,Sam,Fritz,Princeton,MN,21:06.2,
 2,331166,Ben,Bradley,Plaquemine,LA,21:11.4,
-3,403588,Jack,Niewold,Madison,WI,21:38.5,
-4,378837,Bill,Ash,Philadelphia,PA,21:40.0,
+3,403588,Jack,Niewold,Minneapolis,MN,21:38.5,
+4,378837,Bill,Ash,New York ,NY,21:40.0,
 5,386458,Evan,Blankenship,University City,MO,21:46.0,
 6,469206,Hugh,Gill,Washington,IL,21:52.9,
 7,466134,Pablo,Cruz,Wichita Falls,TX,21:57.3,
@@ -556,7 +556,7 @@ DNS,0,PHIL,WATSON,,,,
 DNS,0,JAWAN,ARNOLD,,,,
 DNS,460898,CONRAD,EBERHARD,Fayetteville,AR,,
 DNS,229372,DAVID,THAMES,Fort Smith,AR,,
-DNF,403642,Zachary,Hatcher,Carthage,MO,,
+DNF,403642,Zachary,Hatcher,Weat Fork,AR,,
 DNF,435408,Hunter,Hobbs,Lavaca,AR,,UNT
 DNF,391470,Daniel,Brown,Tulsa,OK,,Transitions LifeCare
 DNF,475292,Ariel,Wyant,Tulsa,OK,,Bixby Bicycle Works
@@ -616,7 +616,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,460588,Shane,Sirignano,Denton,TX,,UNT
 6,278677,Noah,Burke,Lincoln,NE,,Nebraska
 7,473246,Louis,Mueller,Minneapolis,MN,,Minnesota-Twin Cities
-8,513333,Kanten,Nichols,Longview,TE,,UNT
+8,513333,Kanten,Nichols,Denton,TX,,UNT
 9,494573,Maxwell,Bernhardt,Austin,TX,,UT Austin
 10,514036,Daniel,Cicha,Farley,MO,,Lindenwood
 11,519785,Joseph,Fryer,Austin,TX,,UT Austin
@@ -631,7 +631,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,525787,Zachary,Speer,Stillwater,OK,,OSU
 21,525584,Chris,Alexis Jr.,Wichita Falls,TX,,MSU
 22,484357,Benjamin,Kollaja,Stillwater,MN,,Minnesota-Twin Cities
-23,524417,Jerry,Cornell,New Orleans,LA,,Tulane
+23,524417,Jerry,Cornell,North Potomac,MD,,Tulane
 DNS,496415,Kevin,Beaver,Sugar Land,TX,,UT Dallas
 DNS,438913,Kyle,Higley,Flower Mound,TX,,UNT
 DNF,430347,Alex,Turner,Minneapolis,MN,,Minnesota-Twin Cities
@@ -642,7 +642,7 @@ DNF,515674,Patrick,Mannon,Austin,TX,,UT-Austin
 
 03/04/2017 Road Race Men Collegiate Men B
 Place,License #,First,Last,City,State,Time,Team
-1,496527,Ryan,Chien,Reno,NV,,Minnesota-Twin Cities
+1,496527,Ryan,Chien,Arlington,VA,,Minnesota-Twin Cities
 2,492633,Jason,Colestock,Minneapolis,MN,,Lindenwood
 3,311427,Cole,Johnson,Shawnee Mission,KS,,Lindenwood
 4,346648,Thomas,Carter,Saint Charles,MO,,Lindenwood
@@ -670,8 +670,8 @@ Place,License #,First,Last,City,State,Time,Team
 12,382221,Chase,Wark,Zimmerman,MN,,Minnesota-Twin Cities
 13,496914,Martial,Trigeaud,Little Rock,AR,,Arkansas-Little Rock
 DNS,406377,Brian,Lea,Bartlesville,OK,,Arkansas
-DNF,403588,Jack,Niewold,Madison,WI,,Minnesota-Twin Cities
-DNF,378837,Bill,Ash,Philadelphia,PA,,MSU
+DNF,403588,Jack,Niewold,Minneapolis,MN,,Minnesota-Twin Cities
+DNF,378837,Bill,Ash,New York ,NY,,MSU
 DNF,425275,Logan,Grace,Minneapolis,MN,,Minnesota-Twin Cities
 DNF,386458,Evan,Blankenship,University City,MO,,Lindenwood
 DNF,291129,Rob,Sandusky,Frisco,TX,,Arkansas
@@ -699,7 +699,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,230527,Joy,Jason,Port Allen,LA,,Tulane
 2,468081,Ellie,Morgenthaler,Chesterfield,MO,,Lindenwood
 3,422798,Nicole,Coetzer,Roanoke,TX,,MSU
-4,498352,Waverly,Johnston,Minneapolis,MN,,Minnesota-Twin Cities
+4,498352,Waverly,Johnston,Bloomington,MN,,Minnesota-Twin Cities
 DNF,431931,Madeline,Arpin,Minneapolis,MN,,Minnesota-Twin Cities
 DNF,466786,Stephanie,Hart,Grand Rapids,MN,,Minnesota-Twin Cities
 

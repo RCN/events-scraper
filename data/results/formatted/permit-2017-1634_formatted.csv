@@ -9,14 +9,14 @@ Place,License #,First,Last,City,State,Time,Team
 5,526055,Felipe,SCHAUN MACHADO,Weehawken,NJ,2,
 6,514408,Scott,Brennan,Lake Hopatcong,NJ,s.t.,Skylands Cycling
 7,521719,Nicholas,Basalyga,Philadelphia,PA,1:01,In The Saddle
-8,505712,Leonardo,LOPEZ,Edison ,NJ,1:02,Liberty cycles
+8,505712,Leonardo,LOPEZ,Edison,NJ,1:02,Liberty cycles
 9,459421,Richard,LAVIGNE,South Plainfield,NJ,s.t.,Crank Addicts pb Hilltop
 10,533468,Fedor,Wouda,Parlin,NJ,s.t.,Karma Racing Team
 11,530459,Kyle,POLLARA,Morristown,NJ,1:06,Friends in Fitness
 12,190770,Jorge,ROA,Basking Ridge,NJ,s.t.,Liberty Cycles
 13,499631,Simon,MILLER,Stamford,CT,1:07,
 14,526363,Scott,WINCHELL,Carteret,NJ,1:09,Karma racing team
-15,512608,Jeffrey,MCINTYRE,Millington ,NJ,1:10,Liberty Cycle
+15,512608,Jeffrey,MCINTYRE,Millington,NJ,1:10,Liberty Cycle
 16,526685,Stefan,MILLER,Roselle,NJ,2:18,
 17,498355,Gabriel,ZIRPOLO,Riverdale,NJ,3:02,
 18,526622,Joshua,RAYMUNDO,Somerset,NJ,3:06,
@@ -45,7 +45,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,523719,Diego,RODRIGUEZ,Mays Landing,NJ,s.t.,VR2209
 4,424461,Kevin,VERHOFF,Plainfield,NJ,s.t.,Liberty Cycle
 5,466136,Miles,WHITFORD,Rutherford,NJ,4,Montclair Bikery Development Te
-6,428905,Michal,KICIOR,Wallington,NJ,s.t.,
+6,428905,Michal,KICIOR,Fair Lawn,NJ,s.t.,
 7,411595,Bram,CARTER,Madison,NJ,s.t.,Liberty Cycle
 8,187342,Kent,DONAHUE,Wall,NJ,s.t.,Cycles 54
 9,471839,Jonathan,CUTLER,Montclair,NJ,s.t.,
@@ -60,7 +60,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,466207,Juan,HENRIQUEZ,Haverstraw,NY,s.t.,CRCADave Jordan Racing
 19,370713,Brian,BARRINGER,Jersey City,NJ,s.t.,
 20,232424,Shawn,BENJAMIN,Princeton,NJ,s.t.,
-21,244768,Wilson,ANDRADE,Westfield,NJ,s.t.,cycle craft
+21,244768,Wilson,ANDRADE,Edison,NJ,s.t.,cycle craft
 22,430533,Mark,ROGALSKI,Maplewood,NJ,s.t.,Direct Contract Packaging-Bici
 23,282296,Matt,ARMSTRONG,Jersey City,NJ,s.t.,
 24,465947,Louis,RUSSO,Long Island City,PA,s.t.,Rohan Cycling
@@ -77,7 +77,7 @@ DNF,385861,Anup,MENON,New Haven,CT,,
 Place,License #,First,Last,City,State,Time,Team
 1,197138,Michael,HENASEY,Haddonfield,NJ,45:02:00,PSRacingBTB
 2,299366,Nilsson,RUIZ,Perth Amboy,NJ,s.t.,Karma Racing Team
-3,448552,Andrew,Scott,Morristown,NJ,s.t.,Watts Up Cycling
+3,448552,Andrew,Scott,Seal Harbor ,NJ,s.t.,Watts Up Cycling
 4,13633,Richard,GONZALEZ,Bayonne,NJ,11,MID ATL MASTERS BICYCLE ORG
 5,369505,Eli Curt,FULD,Teaneck,NJ,s.t.,Blue Ribbon - Pennell Venture P
 6,473253,Lwichy,Jimenez,New Brunswick,NJ,s.t.,
@@ -140,7 +140,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,151533,Andrew,SINGSON,Piscataway,NJ,s.t.,MAMBO Kings Racing  D&Q
 19,276879,Alex,ABARBANEL-GROSSMAN,Bloomfield,NJ,s.t.,High GearTrekWW
 20,339836,Gorgi,POPSTEFANOV,Washington,DC,13,MetraXRCELCycles 54
-21,158787,Wasyel,DANYSH,New Providence ,NJ,14,US Military Endurance Sports
+21,158787,Wasyel,DANYSH,New Providence,NJ,14,US Military Endurance Sports
 22,192551,David,ADORNATO,Verona,NJ,s.t.,Montclair Bikery Racing
 23,89253,Edward,BENNETT,Columbus,NJ,s.t.,CRCALupus Racing Team
 24,211564,Marcello,RODIO,Clifton,NJ,s.t.,Montclair Bikery Racing
@@ -187,7 +187,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,478243,Sebastian,MALAVER,Nazareth,PA,s.t.,T-Twon Elite
 3,459426,Evan,DONAHUE,Bernardsville,NJ,,Liberty Cycle
 4,531118,Samuel,DEANE,Basking Ridge,NJ,,Liberty Cycle
-5,504757,Thomas,BYRNE,Boonton Township ,NJ,,BYRNE International LLC
+5,504757,Thomas,BYRNE,Boonton Township,NJ,,BYRNE International LLC
 6,521181,Lukas,DONNELLY,Boonton,NJ,,Byrne International LLC
 7,0,Boden,DEUTSCH,,,,CRC of A
 
@@ -225,6 +225,6 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,466397,Divya,VERMA,Breinigsville,PA,22:54,T-Town Elite
 2,482024,Erin,HALPIN,Breinigsville,PA,58,T-TOWN ELITE
-3,507588,Trinity,PAUL,Boonton,NJ,,BYRNE International LLC
-4,507589,Nikita,PAUL,Boonton,NJ,,BYRNE International LLC
+3,507588,Trinity,PAUL,Booton,NJ,,BYRNE International LLC
+4,507589,Nikita,PAUL,Booton,NJ,,BYRNE International LLC
 5,0,Shayna,DEUTSCH,,,,CRC of A

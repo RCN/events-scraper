@@ -13,7 +13,7 @@ Place,License #,First,Last,City,State,Time,Team
 08/06/2017 Time Trial Men Master Master 35-39
 Place,License #,First,Last,City,State,Time,Team
 1,380344,George,Morse,Niskayuna,NY,0:38:47.76,Urban South Racing
-2,238008,Alejandro,Guzman,New York,NY,0:39:02.30,CRCA/Foundation
+2,238008,Alejandro,Guzman,New York ,NY,0:39:02.30,CRCA/Foundation
 3,207652,Steven,Hendricks,Beacon,NY,0:42:39.90,Team Bicycle Doctor
 4,0,Thomas,Murphy,,,0:52:43.40,
 
@@ -110,7 +110,7 @@ Place,License #,First,Last,City,State,Time,Team
 08/06/2017 Time Trial Men Cat 3
 Place,License #,First,Last,City,State,Time,Team
 1,317582,Randy,Hadzor,Syracuse,NY,0:38:33.64,Mello Velo / Variety Studios / RABIN LAW
-2,300882,Jeff,Krywanczyk,Rensselaer ,NY,0:38:42.98,Capital Bicycle Racing Club
+2,300882,Jeff,Krywanczyk,Rensselaer,NY,0:38:42.98,Capital Bicycle Racing Club
 3,380463,David,Tate,Camillus,NY,0:38:47.26,Syracuse Bicycle Race Team
 4,386438,Scott,Cimato,East Concord,NY,0:38:58.09,TBS Racing / Buffalo Bicycling Club
 5,345510,Marc,Kingsley,Cooperstown,NY,0:39:38.43,CNYC/NYCM Insurance
@@ -132,7 +132,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,189722,Nancy,Ford,Pound Ridge,NY,0:24:25.45,FinKraft Women's Cycling Team
 2,35453,Margaret,Thompson,Clinton,NY,0:25:18.41,Team Hammer Nutrition
-3,247337,Jane,Fyffe,Marcellus,NY,0:25:31.01,
+3,247337,Jane,Fyffe,Marietta,NY,0:25:31.01,
 4,42918,Christine,Barnes,Antelope,CA,0:40:57.82,
 
 08/06/2017 Time Trial Women Junior Junior 13-14
@@ -163,7 +163,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 08/06/2017 Time Trial Mixed Cat 1/2/3/4/5 Tandem
 Place,License #,First,Last,City,State,Time,Team
-1,238008,Alejandro,Guzman,New York,NY,0:40:05.47,CRCA/Foundation
+1,238008,Alejandro,Guzman,New York ,NY,0:40:05.47,CRCA/Foundation
 1,201669,Richard,Wolf,New York,NY,0:40:05.48,CRCA/Foundation
 2,273591,David,Paccone,Skaneateles,NY,0:44:28.99,Notubes/Corning Race Team
 2,309719,Kent,Goben,Elmira,NY,0:44:29.00,corning no tubes race team

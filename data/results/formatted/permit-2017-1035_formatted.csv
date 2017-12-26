@@ -33,7 +33,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,400171,Paul,Concidine,Fruitland,ID,02:20:49,St. Lukes Sports Medicine
 6,307111,David,Hiatt,Meridian,ID,02:20:49,St. Lukes Sports Medicine
 7,482161,Krispen,Hartung,Boise,ID,02:20:49,St. Lukes Sports Medicine
-8,471021,Toby,Bingham,Meridian ,ID,02:20:49,
+8,471021,Toby,Bingham,Meridian,ID,02:20:49,
 9,289973,Chris,Haskell,Boise,ID,02:20:49,
 10,281736,Ty,Ketlinski,Meridian,ID,02:22:30,St. Lukes Sports Medicine
 11,375197,Ben,Swanson,Garden City,ID,02:28:32,Team Bobs-Bicycles.com
@@ -50,7 +50,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,526454,Bryan,Krear,Kimberly,ID,02:26:51,
 7,247284,James,Hunter,Spring Creek,NV,02:26:58,Elko Velo Cycling Club
 8,94280,Kurt,Messersmith,Boise,ID,02:28:35,Team Bobs-Bicycles.com
-DNF,355986,Jarred,Blankenship,Boise,ID,,Team Bobs-Bicycles.com
+DNF,355986,Jarred,Blankenship,Garden City,ID,,Team Bobs-Bicycles.com
 DNF,250998,Billy,Collins,Hailey,ID,,
 
 04/29/2017 Road Race Men Cat 1/2/3 Master 40+
@@ -106,7 +106,7 @@ DNF,354180,Andrew,Harris,Boise,ID,,Team UpCycle
 Place,License #,First,Last,City,State,Time,Team
 1,488272,Allan,Schroeder,Boise,ID,02:47:56,Team UpCycle
 2,278181,Gregg,Lasher,Nampa,ID,02:51:05,Team Bobs-Bicycles.com
-3,481295,Heriberto,Frutos,Twin Falls,ID,02:51:05,CT Velo
+3,481295,Heriberto,Frutos,Jerome,ID,02:51:05,CT Velo
 4,488020,Sawyer,Bosch,Boise,ID,02:51:05,Team UpCycle
 5,381082,Tucker,Feyder,Boise,ID,02:52:58,Team Bobs-Bicycles.com
 6,181890,Gabriel,Keck,Boise,ID,02:56:11,Mercedes Benz/Georges
@@ -240,7 +240,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,307230,Dale,Nelson,Boise,ID,01:30:59,
 6,526454,Bryan,Krear,Kimberly,ID,01:31:05,
 7,250998,Billy,Collins,Hailey,ID,01:31:05,
-8,355986,Jarred,Blankenship,Boise,ID,01:31:08,Team Bobs-Bicycles.com
+8,355986,Jarred,Blankenship,Garden City,ID,01:31:08,Team Bobs-Bicycles.com
 9,466100,Joseph,Feyder,Loomis,CA,01:34:15,
 10,382580,Bob,Haycock,Boise,ID,01:35:10,Mercedes Benz/Georges
 11,510203,Brent,Bjornson,Eagle,ID,01:53:44,
@@ -290,7 +290,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,14809,George (Tad),Hamilton,Boise,ID,02:37:43,Mercedes Benz/Georges
 15,277032,Todd,Meier,Boise,ID,02:37:43,Mercedes Benz/Georges
 16,396853,Douglass,Cook,Boise,ID,02:37:49,Team Bobs-Bicycles.com
-17,227593,Justin,Rose,Middleton ,ID,02:38:04,Team Bobs-Bicycles.com
+17,227593,Justin,Rose,Middleton,ID,02:38:04,Team Bobs-Bicycles.com
 18,411647,Kelsey,Backen,Eagle,ID,02:42:33,Team Bobs-Bicycles.com
 19,291660,Jesse,Kroll,Boise,ID,02:42:36,Team Bobs-Bicycles.com
 20,354180,Andrew,Harris,Boise,ID,02:42:43,Team UpCycle
@@ -303,7 +303,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,222017,Eric,Denning,Boise,ID,02:04:19,Team Reel Theatre
 2,497152,Kevon,Bjornson,Eagle,ID,02:04:19,Team Bobs-Bicycles.com
 3,181890,Gabriel,Keck,Boise,ID,02:04:19,
-4,481295,Heriberto,Frutos,Twin Falls,ID,02:04:19,CT Velo
+4,481295,Heriberto,Frutos,Jerome,ID,02:04:19,CT Velo
 5,278181,Gregg,Lasher,Nampa,ID,02:04:19,Team Bobs-Bicycles.com
 6,488272,Allan,Schroeder,Boise,ID,02:04:19,Team UpCycle
 7,417132,Thomas,McDonagh,Boise,ID,02:04:19,BYRDS (Boise Young Rider Dev Squad)
@@ -448,7 +448,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,286258,John,Mooney,Boise,ID,1:34:37,St. Lukes Sports Medicine
 6,366357,connell,lloyd,Eagle,ID,1:36:07,team Boise Cycling Development Team
 7,526454,Bryan,Krear,Kimberly,ID,1:36:07,
-8,355986,Jarred,Blankenship,Boise,ID,1:36:18,Team Bobs-Bicycles.com
+8,355986,Jarred,Blankenship,Garden City,ID,1:36:18,Team Bobs-Bicycles.com
 9,94280,Kurt,Messersmith,Boise,ID,1:36:21,Team Bobs-Bicycles.com
 10,407681,Peter,Weiss,Nampa,ID,1:42:44,
 11,0,Marty,Drake,,,1:42:52,
@@ -511,7 +511,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,476726,Erik,Young,Boise,ID,2:09:14,Team UpCycle
 4,222017,Eric,Denning,Boise,ID,2:09:14,Team Reel Theatre
 5,340930,Jonathan,MacDonald,Nampa,ID,2:09:14,Rolling'H'Cycles
-6,481295,Heriberto,Frutos,Twin Falls,ID,2:09:14,CT Velo
+6,481295,Heriberto,Frutos,Jerome,ID,2:09:14,CT Velo
 7,278181,Gregg,Lasher,Nampa,ID,2:09:21,Team Bobs-Bicycles.com
 8,420159,Brian,McClain,Meridian,ID,2:09:21,Team Bobs-Bicycles.com
 9,265679,Jonathan,Youell,Boise,ID,2:09:21,Team 10 Barrel Boise

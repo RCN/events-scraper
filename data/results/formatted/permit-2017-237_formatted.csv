@@ -88,7 +88,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,432524,Edwin,PARK,San Francisco,CA,02:08:52,STANFORD UNIVERSITY
 3,526584,Ka Long,LAU,San Diego,CA,02:10:04,SAN DIEGO STATE UNIVERSITY
 4,521356,Nathaniel,WILLOW,Clovis,CA,02:12:19,CALIFORNIA STATE UNIVERSITY-FRESNO
-5,520904,Joseph,REMPE,Sacramento,CA,02:28:13,-
+5,520904,Joseph,REMPE,Novato,CA,02:28:13,-
 6,488503,David,LOGUE,San Diego,CA,02:28:38,SAN DIEGO STATE UNIVERSITY
 7,529296,William,AUDLEY,Chico,CA,02:06:06,CALIFORNIA STATE UNIVERSITY-CHICO
 8,495203,Emilio,MONTERRUBIO,Merced,CA,02:07:53,UNIVERSITY OF CALIFORNIA-MERCED
@@ -102,7 +102,7 @@ DNS,524957,Ian,BURKE,San Francisco,CA,,UNIVERSITY OF CALIFORNIA-SANTA BARBARA
 DNS,528755,Matthew,GALVAN,Long Beach,CA,,-
 DNS,524903,Jonathan,HO,Palo Alto,CA,,STANFORD UNIVERSITY
 DNS,528352,Soren,KAHL,Elk Grove,CA,,CALIFORNIA STATE UNIVERSITY-CHICO
-DNS,499348,Michael,LEIKEN,Davis,CA,,UNIVERSITY OF CALIFORNIA-DAVIS
+DNS,499348,Michael,LEIKEN,Davis,NV,,UNIVERSITY OF CALIFORNIA-DAVIS
 DNS,524292,Harrison,LILLEY,Fullerton,CA,,CALIFORNIA STATE UNIVERSITY-FULLERTON
 DNS,529345,Eduardo,MONTIEL,Chico,CA,,CALIFORNIA STATE UNIVERSITY-CHICO
 DNS,494586,Nader,NAMINI ASL,Berkeley,CA,,UNIVERSITY OF CALIFORNIA-BERKELEY
@@ -127,7 +127,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,525384,Cameron,FINLEY-ROSS,Goleta,CA,02:10:29,UNIVERSITY OF CALIFORNIA-SANTA BARBARA
 9,458516,Jacob,LIN,Davis,CA,02:10:41,UNIVERSITY OF CALIFORNIA-DAVIS
 10,442775,Daniel,FEINBERG,Santa Barbara,CA,02:10:48,UNIVERSITY OF CALIFORNIA-DAVIS
-11,525265,Mason,WITTER,Irvine,CA,02:11:32,UNIVERSITY OF CALIFORNIA-MERCED
+11,525265,Mason,WITTER,Merced,CA,02:11:32,UNIVERSITY OF CALIFORNIA-MERCED
 12,466086,Benjamin,BRUKARDT,Orange,CA,02:11:54,CALIFORNIA STATE UNIVERSITY-FULLERTON
 13,460496,Senan,HOGAN HENNESSY,Claremont,CA,02:13:15,CLAREMONT UNIVERSITY CONSORTIUM
 14,524843,Travis,KEELEY,Signal Hill,CA,02:14:46,CALIFORNIA STATE UNIVERSITY-LONG BEACH
@@ -149,7 +149,7 @@ DNS,370547,Joseph,PALOMBA,San Diego ,CA,,UNIVERSITY OF CALIFORNIA-SAN DIEGO
 DNS,525748,Mark,Ray,Palo Alto,CA,,STANFORD UNIVERSITY
 DNS,526789,Ridhuan,RIZAL,Berkeley,CA,,UNIVERSITY OF CALIFORNIA-BERKELEY
 DNS,519155,Thomas,SCHWEMBERGER,Santa Cruz,CA,,UNIVERSITY OF CALIFORNIA-SANTA CRUZ
-DNS,494787,Dario,SERRANO JR,Irvine,CA,,UNIVERSITY OF CALIFORNIA-IRVINE
+DNS,494787,Dario,SERRANO JR,Los Angeles,CA,,UNIVERSITY OF CALIFORNIA-IRVINE
 DNS,524366,Kevin,VALENTINE,Davis,CA,,UNIVERSITY OF CALIFORNIA-DAVIS
 DNS,496375,Jonathan,NEWCOMB,Carlsbad,CA,,IRVINE CA
 DNS,0,Evan,PETERSON,,,,SANTA CRUZ CA
@@ -177,7 +177,7 @@ DNS,254829,Stanley,GOTO,San Luis Obispo,CA,,CALIFORNIA POLYTECHNIC-SAN LUIS OBIS
 DNS,422315,Damian,HII,Santa Clara,CA,,UNIVERSITY OF CALIFORNIA-IRVINE
 DNS,496440,Matthew,HUNG,San Diego,CA,,UNIVERSITY OF CALIFORNIA-SAN DIEGO
 DNS,488137,Matthew,LLANES,Santa Rosa,CA,,UNIVERSITY OF CALIFORNIA-DAVIS
-DNS,297530,Felip,WALKER,Aptos,CA,,CALIFORNIA STATE UNIVERSITY-LONG BEACH
+DNS,297530,Felip,WALKER,Carson,CA,,CALIFORNIA STATE UNIVERSITY-LONG BEACH
 DNS,302439,Kenji,YOSHIMOTO,Diamond Bar,CA,,CALIFORNIA STATE UNIVERSITY-FULLERTON
 DNS,495206,Eric,ZHANG,Merced,CA,,UNIVERSITY OF CALIFORNIA-MERCED
 DNF,495740,Brian,ROEHRICH,El Cajon,CA,,UNIVERSITY OF CALIFORNIA-DAVIS
@@ -267,7 +267,7 @@ DNF,38732,Richard,WITTENBERG,Carlsbad,CA,,CARLSBAD CA
 
 04/23/2017 Road Race Men Cat 5 Open
 Place,License #,First,Last,City,State,Time,Team
-1,413239,Max,MOTSCHWILLER,Menlo Park,CA,02:01:03,PALO ALTO CA
+1,413239,Max,MOTSCHWILLER,San Francisco,CA,02:01:03,PALO ALTO CA
 2,370822,Bradley,LOVEGREN,Menlo Park,CA,02:01:38,MENLO PARK  CA
 3,0,Jose,MORENO-PINETE,,,02:01:45,SAN DIEGO  CA
 4,525344,Matthew,CONNERS,Monterey,CA,02:02:04,MONTEREY  CA
@@ -281,8 +281,8 @@ Place,License #,First,Last,City,State,Time,Team
 12,301861,Dillon,OSLEGER,Davis,CA,02:05:25,SANTA BARBARA  CA
 13,0,Peter,ADAMS,,,02:05:34,GILROY CA
 14,526640,Matt,MAURER,South San Francisco,CA,02:09:32,SO. SAN FRANCISCO CA
-15,395297,Shin,HASEGAWA,Alameda,CA,02:09:45,ALAMEDA  CA
-16,515553,Christian,GRIFFITH,Santa Cruz,CA,02:10:03,SAN FRANCISCO  CA
+15,395297,Shin,HASEGAWA,Cupertino,CA,02:09:45,ALAMEDA  CA
+16,515553,Christian,GRIFFITH,San Francisco,CA,02:10:03,SAN FRANCISCO  CA
 17,0,Tom,WILSON,,,02:10:10,PACIFIC GROVE  CA
 18,499580,Ian,FERNIHOUGH,San Jose,CA,02:13:15,SAN JOSE  CA
 19,184417,Brendan,MITCHELL,Knoxville,TN,02:16:11,
@@ -318,7 +318,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,254517,Shai,SIMCHI,San Jose,CA,02:24:35,SAN JOSE  CA
 2,523235,Michael,MATTIX,Colorado Springs,CO,02:24:40,COLORADO SPRINGS  CO
 3,507021,Shai,TRAISTER,Sunnyvale,CA,02:24:56,SUNNYVALE  CA
-4,459037,Michael,BAUMGARTNER,Lompoc,CA,02:25:57,LOMPOC  CA
+4,459037,Michael,BAUMGARTNER,Peyton,CO,02:25:57,LOMPOC  CA
 5,343902,Jason,BALDWIN,Fort Worth,TX,02:26:05,FORT WORTH  TX
 6,527171,Gabriel,BEDDINGFIELD,Fremont,CA,02:33:35,FREMONT  CA
 7,375554,Clayton,LONG,Santa Maria,CA,02:10:42,SANTA MARIA  CA
@@ -368,7 +368,7 @@ Place,License #,First,Last,City,State,Time,Team
 23,406078,Selim,ELHADJ,Livermore,CA,03:10:51,LIVERMORE  CA
 DNS,212515,Kevin,BERNOTAS,Irvine,CA,,IRVINE  CA
 DNS,429965,Austin,GUYETTE,Seattle,WA,,TRUCKEE  CA
-DNS,418571,Stephen,LENZ,Turlock,CA,,DAVIS  CA
+DNS,418571,Stephen,LENZ,Davis,CA,,DAVIS  CA
 DNS,455103,Brett,REYNOLDS,Seal Beach,CA,,SEAL BEACH  CA
 DNS,481783,Michael,MACHADO,Salinas,CA,,SALINAS  CA
 DNF,392702,Stelios,MCDONALD,San Francisco,CA,,SAN FRANCISCO  CA
@@ -395,7 +395,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 04/23/2017 Road Race Women Junior Junior 15-18
 Place,License #,First,Last,City,State,Time,Team
-1,422238,Sawyer,TAYLOR,Greenbrae,CA,01:54:29,SAN RAFAEL  CA
+1,422238,Sawyer,TAYLOR,San Rafael,CA,01:54:29,SAN RAFAEL  CA
 2,365513,Mckenzie,STEINER,Del Mar,CA,01:54:41,DEL MAR  CA
 3,393358,Christina,HASHIMOTO,Pacific Grove,CA,01:54:55,PACIFIC GROVE  CA
 4,525057,Hannah,LAWRENCE,Seaside,CA,01:59:01,SEASIDE  CA
@@ -435,7 +435,7 @@ DNS,459225,Patricia,GONZALES,Stanford,CA,,STANFORD UNIVERSITY
 DNS,523756,Sydnee,HYMAN,San Diego,CA,,UNIVERSITY OF CALIFORNIA-SAN DIEGO
 DNS,354114,Mckenzie,MELCHER,San Diego,CA,,SAN DIEGO STATE UNIVERSITY
 DNS,524191,Lena,STOCK,Del Mar,CA,,UNIVERSITY OF CALIFORNIA-SAN DIEGO
-DNS,340844,Jennifer,WILSON,Cambridge,MA,,LOS GATOS CA
+DNS,340844,Jennifer,WILSON,Los Gatos,CA,,LOS GATOS CA
 
 04/23/2017 Road Race Women Cat 5
 Place,License #,First,Last,City,State,Time,Team
@@ -459,7 +459,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,393358,Christina,HASHIMOTO,Pacific Grove,CA,01:46:44,PACIFIC GROVE  CA
 2,458642,Stefanie,Mick,Reno,NV,01:47:04,RENO NV USA
 3,351366,Amanda,KNUTSON,Boulder,CO,01:47:24,BOULDER  CO
-4,460729,Jill,HUYETTE,Santa Rosa,CA,01:48:26,SANTA ROSA  CA
+4,460729,Jill,HUYETTE,Healdsburg,CA,01:48:26,SANTA ROSA  CA
 5,481163,Jessica,PARTENO,San Francisco,CA,01:49:12,SAN FRANCISCO  CA
 6,522553,Alison,KUBOTA,San Francisco,CA,01:49:38,SAN FRANCISCO  CA
 7,502680,Natalie,JACKSON,Larkspur,CA,01:50:47,LARKSPUR  CA
@@ -468,7 +468,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,512090,Kate,CARLISLE,San Jose,CA,01:56:04,SAN JOSE  CA
 11,510649,Kim,REIERSON,Montecito,CA,01:56:10,SANTA BARBARA CA
 12,460647,Elisabeth,HUFF,Mill Valley,CA,01:56:28,MILL VALLEY  CA
-13,440531,Bekka,WESTRICK,Fairfield,OH,01:57:07,JAMAICA PLAIN  MA
+13,440531,Bekka,WESTRICK,Jamaica Plain,MA,01:57:07,JAMAICA PLAIN  MA
 14,458896,Serenity,MARSHALL,San Jose,CA,01:57:38,SAN JOSE  CA
 15,0,Kim,STACKPOLE,,,02:00:25,CARPINTERIA  CA
 16,0,Maggy,SMEJOVA,,,02:02:42,VELKE HOSTICE  CZECH REPUBLIC
@@ -479,8 +479,8 @@ Place,License #,First,Last,City,State,Time,Team
 1,419236,Ryan,LEVERING,Bend,OR,01:44:18,BEND  OR
 2,457969,Laura,JEDDELOH,Seattle,WA,01:44:36,SEATTLE  WA
 3,340330,Eleanor,VELEZ,El Dorado Hills,CA,01:46:37,EL DORADO HILLS  CA
-4,422238,Sawyer,TAYLOR,Greenbrae,CA,01:46:50,SAN RAFAEL  CA
-5,460101,Sarah,TOLLMAN,Stanford,CA,01:47:09,REDWOOD CITY CA
+4,422238,Sawyer,TAYLOR,San Rafael,CA,01:46:50,SAN RAFAEL  CA
+5,460101,Sarah,TOLLMAN,San Francisco,CA,01:47:09,REDWOOD CITY CA
 6,307890,Heather,MCDONALD,San Francisco,CA,01:47:49,SAN FRANCISCO  CA
 7,494210,Kortney,PARMAN,San Francisco,CA,01:52:29,SAN FRANCISCO  CA
 8,396740,Olga,MAGUN,Mercer Island,WA,01:53:18,MERCER ISLAND  WA
@@ -490,7 +490,7 @@ DNS,416428,Lauren,DIAZ,San Diego,CA,,ENCINITAS  CA
 
 04/22/2017 Circuit Race Men Cat 5 Open
 Place,License #,First,Last,City,State,Time,Team
-1,413239,Max,MOTSCHWILLER,Menlo Park,CA,37:17:00,
+1,413239,Max,MOTSCHWILLER,San Francisco,CA,37:17:00,
 2,494331,Colin,ELLSWORTH,Vacaville,CA,37:19:00,
 3,494655,Ryan,CATINO,Lake Forest,CA,37:20:00,
 4,451999,Leroy,THOMAS,Los Gatos,CA,37:31:00,
@@ -508,7 +508,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,410511,Alejandro,DE SIMONE,San Francisco,CA,39:36:00,
 17,478009,Sam,FERRIS,Hemet,CA,39:36:00,
 18,530626,Shawn,HUBER,Ladera Ranch,CA,39:36:00,
-19,395297,Shin,HASEGAWA,Alameda,CA,40:30:00,
+19,395297,Shin,HASEGAWA,Cupertino,CA,40:30:00,
 20,523806,Andrew,AVEDIAN,Walnut Creek,CA,40:30:00,
 21,454415,Grant,SMITH,Newbury Park,CA,40:38:00,
 22,523045,Steven,DANG,San Jose,CA,40:46:00,
@@ -542,11 +542,10 @@ Place,License #,First,Last,City,State,Time,Team
 2,220801,Derald,SUE,Alameda,CA,41:20:00,
 3,90168,Dylan,JONES,Santa Barbara,CA,41:35:00,
 4,523235,Michael,MATTIX,Colorado Springs,CO,42:09:00,
-5,459037,Michael,BAUMGARTNER,Lompoc,CA,42:25:00,
+5,459037,Michael,BAUMGARTNER,Peyton,CO,42:25:00,
 6,496496,Jay,WRIGHT,Santa Barbara,CA,42:25:00,
 7,507863,Paul,HEPWORTH,Mountain View,CA,42:26:00,
 8,397539,Travis,GARRISON,Incline Village,NV,42:27:00,
-9,377947,Chris,PINO,Springfield,PA,43:05:00,
 10,509042,Joe,MYLES,Rohnert Park ,CA,@1Lap,
 11,0,Enrique,HERNANDEZ,,,@1Lap,
 12,500708,Sean,BARTLETT,San Jose,CA,@1Lap,
@@ -593,7 +592,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,497101,Jason,ANDERSON,Morgan Hill,CA,41:11,
 13,520923,Rafael,GARCIA,San Francisco,CA,41:12,
 14,430447,Brian,KUCZYNSKI,San Francisco,CA,41:13,
-15,422846,Jonathan,PEREZ,Ventura ,CA,41:14,
+15,422846,Jonathan,PEREZ,Ventura,CA,41:14,
 16,395093,Gilbert,MARQUEZ,Santa Maria ,CA,41:14,
 17,480931,Jonatan,JATOMBLIANSKY,San Francisco,CA,41:20,
 18,493956,Carlos,TORRES,Lincoln,CA,41:23,
@@ -601,23 +600,23 @@ Place,License #,First,Last,City,State,Time,Team
 20,222125,Chris,MILLER,Culver City,CA,41:30,
 21,332766,Ethan,LAWRENCE,Laguna Niguel,CA,41:30,
 22,387371,Tom,PERKINS,San Francisco,CA,41:32,
-23,307201,Nye,YACKLE,Spokane ,WA,41:32,
+23,307201,Nye,YACKLE,Spokane,WA,41:32,
 24,456472,Bernardo,TAPIA,Redwood City,CA,41:33,
 25,494598,David,SHIH,Cupertino,CA,41:44,
-26,494623,Matthew,HEPWORTH,San Francisco,CA,41:45,
+26,494623,Matthew,HEPWORTH,Palo Alto,CA,41:45,
 27,498080,Patrick,LA PETINA,San Diego,CA,41:47,
 28,493545,Paul,IMLER,Irvine,CA,42:33,
 29,434993,Vasileios,RAPTAKIS,Santa Clara,CA,42:47,
 30,517341,Michael,CHATEN,Seattle,WA,43:30,
 31,459124,Manuel,AGUILAR,Los Angeles,CA,44:43,
-32,488045,Adam,DEJONG,New York,NY,45:23,
+32,488045,Adam,DEJONG,New York,NV,45:23,
 33,393723,Adrian,LUIS,San Pablo,CA,46:08,
 34,509523,Peter,AMBIEL,Los Altos,CA,46:17,
 35,438028,Cory,VOGEL,San Francisco,CA,46:41,
 36,493886,Nathan,WILSON,Ventura,CA,47:11,
 37,0,Jeff,FOULDS,,,48:00,
 38,503948,Anson,ARAUJO,Oxnard,CA,@1Lap,
-39,459161,Jeff,OSARCZUK,Seaside,CA,@1Lap,
+39,459161,Jeff,OSARCZUK,Boulder,CO,@1Lap,
 40,497097,frank,londono,Panorama City,CA,@1Lap,
 41,495728,Leslie,MAKEPEACE,Westminster,CA,@1Lap,
 42,523552,Nicholas,STEARNS,Sunnyvale,CA,@1Lap,
@@ -629,7 +628,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,249659,Mike,HATTON,Santa Maria,CA,44:13,
 2,498098,Michael,GOULD,San Clemente,CA,44:13,
 3,494390,Andrew,CHEW,San Mateo,CA,44:13,
-4,378563,Kurt,BROWN,Minneapolis,CA,44:14,
+4,378563,Kurt,BROWN,San Francisco,CA,44:14,
 5,428404,Peter,FENG,Redwood City,CA,44:14,
 6,292645,Rob,BEARD,Boise,ID,44:15,
 7,232855,Eric,NELSON,Oakland,CA,44:16,
@@ -696,7 +695,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 04/22/2017 Cyclo-cross Men Cat 1-2-3-4 Masters 35+
 Place,License #,First,Last,City,State,Time,Team
-1,459276,Mark,HOWARD,Cupertino ,CA,23:48,
+1,459276,Mark,HOWARD,Cupertino,CA,23:48,
 2,96294,Ryan,GRENIER,Oakland,CA,23:53,
 3,293183,Seth,PATLA,Forest Grove,OR,24:19:00,
 4,242359,James,STULL,Anchorage,AK,25:52:00,
@@ -717,7 +716,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,153943,Sean,HAIDET,San Luis Obispo,CA,24:03:00,
 2,354346,Michael,MOODY,Jacksonville,OR,24:18:00,
 3,37549,Kenny,WEHN,Durango,CO,24:39:00,
-4,367019,Jason,NEARN,Fresno ,CA,25:36:00,
+4,367019,Jason,NEARN,Fresno,CA,25:36:00,
 5,136234,Tim,MARSHALL,Newbury Park,CA,26:04:00,
 6,23731,Mike,MCMAHON,Lake Forest,CA,26:28:00,
 7,86795,Courtney,GROSSMAN,Salinas,CA,26:30:00,
@@ -744,7 +743,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,0,Claus,ENEVOLDSEN,,,27:15,
 9,454415,Grant,SMITH,Newbury Park,CA,27:32,
 10,475426,Hector,APODACA,,,27:58,
-11,455954,Adam,EVARD,Los Altos,CA,28:20,
+11,455954,Adam,EVARD,San Luis Obispo,CA,28:20,
 12,521731,James,WILSON,Visalia,CA,28:34,
 13,0,Reese,WILSON,,,28:36,
 14,343902,Jason,BALDWIN,Fort Worth,TX,28:55,
@@ -777,7 +776,7 @@ Place,License #,First,Last,City,State,Time,Team
 41,0,Paul,LORUSSO,,,32:49,
 42,417430,Andrew,HILL,Livermore,CA,@1Lap,
 43,0,Hayden,SAMPLEY,,,@1Lap,
-44,360633,Sean,SULLIVAN,Reno,NV,@1Lap,
+44,360633,Sean,SULLIVAN,Sparks,NV,@1Lap,
 45,175785,Philip,GRIFFO,Homewood,CA,@1Lap,
 46,475950,Elliott,CROWDER,Newport  ,OR,@1Lap,
 47,515608,Robert,EMERICK,Denver,CO,@1Lap,
@@ -790,7 +789,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,518061,Andy,ZINSSER,San Francisco,CA,25:58:00,
 3,422557,James,COWAN,Venice,CA,26:06:00,
 4,362812,Scott,BECK,Lakewood,CO,26:07:00,
-5,458101,Andy,HOLLINGSWORTH,Walnut Creek,CA,27:03:00,
+5,458101,Andy,HOLLINGSWORTH,Reno,NV,27:03:00,
 6,459668,Jordy,MALMBERG,Aptos,CA,27:36:00,
 7,366301,Mark,DUNCAN,Las Vegas,NV,28:03:00,
 8,399360,Jonathan,LEGGE,Newbury Park,CA,28:07:00,
@@ -826,12 +825,12 @@ Place,License #,First,Last,City,State,Time,Team
 7,176014,Rebecca,GROSS,Golden,CO,@1Lap,
 8,363223,Petra,SCHMIDTMANN,Nederland,CO,@1Lap,
 9,429486,Jennifer,MALIK,Columbus,OH,@1Lap,
-10,332072,Katie,CLOUSE,Littleton ,CO,@1Lap,
+10,332072,Katie,CLOUSE,Park City,UT,@1Lap,
 11,391428,Monica,LLOYD,Olympia,WA,@1Lap,
 12,418465,Gina,ESTEP,Renton,WA,@1Lap,
 13,515165,Caroline,MANI,Colorado Springs,CO,@1Lap,
 14,367868,Karine,VALLIANT-SAUNDERS,Seattle,WA,@1Lap,
-15,0,Carrie,DAY,,,@1Lap,
+15,545836,Carrie,Day,Bend,OR,@1Lap,
 16,523161,Ava,LILLEY,Bend,OR,@1Lap,
 17,329270,Allison,HALPIN,Bend,OR,@1Lap,
 18,221127,Beverly,CHANEY,Carmel,CA,@2Lap,
@@ -854,7 +853,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,391988,Sara,HEUSTON,Carmichael,CA,25:45:00,
 7,492768,Gypsy,GARCIA,Denver,CO,28:30:00,
 8,460684,Jessica,GRUNKE,Boise,ID,28:57:00,
-DNF,182948,Dani,GRIFFO,Homewood,CA,,
+DNF,182948,Dani,GRIFFO,Sparks,NV,,
 
 04/22/2017 Cyclo-cross Women Cat 3 Open
 Place,License #,First,Last,City,State,Time,Team
@@ -888,7 +887,7 @@ Place,License #,First,Last,City,State,Time,Team
 DNS,404430,Mark,MASSEY,San Francisco,CA,,SAN FRANCISCO  CA
 DNS,202161,Lance,NEWEY,Folsom,CA,,FOLSOM  CA
 DNS,53661,Leslie,OGLESBY,Salinas,CA,,SALINAS  CA
-DNS,46151,James,SULLIVAN,Calistoga,CA,,DAVIS  CA
+DNS,46151,James,SULLIVAN,Davis,CA,,DAVIS  CA
 DNS,522831,John,WATKINS,Kentfield,CA,,KENTFIELD  CA
 DNS,406082,Eric,ZOOK,Somis,CA,,SOMIS  CA
 
@@ -922,7 +921,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,516314,Noah,FAIRLES,Berkeley,CA,02:45:37,BERKELEY CA
 17,516200,Saul,CHAPLIN,Berkeley,CA,02:45:52,BERKELEY  CA
 18,512200,Gavin,BOWEN,Bend,OR,02:17:25,BEND  OR
-19,523219,Andrew,ESLER,San Jose,CA,02:18:18,SAN JOSE  CA
+19,523219,Andrew,ESLER,San Jose ,CA,02:18:18,SAN JOSE  CA
 20,405351,Ethan,WONG,Boise,ID,02:25:20,BOISE  ID
 21,525742,Micah,ANCELL,Berkeley,CA,02:30:48,BERKELEY  CA
 22,393676,Eddy,HUNTSMAN,Newport Coast,CA,02:33:41,NEWPORT COAST  CA
@@ -1047,11 +1046,11 @@ Place,License #,First,Last,City,State,Time,Team
 DNF,498629,Ezequiel,PEREZ,Pomona,CA,,
 DNF,496623,Garrison,MEJIA,Covina,CA,,
 DNF,502424,Duncan,HOWELL,Portland,OR,,
-DNF,529385,Jose,Garcia,,,,
+DNF,529140,Jose,Garcia,,,,
 
 04/21/2017 Circuit Race Men Cat 1-2-3-4-5 Masters 55+
 Place,License #,First,Last,City,State,Time,Team
-1,25655,Jerome,NADEL,Sunnyvale,CA,38:02:00,
+1,25655,Jerome,NADEL,Woodside,CA,38:02:00,
 2,26205,Lawrence,NOLAN,Fremont,CA,38:02:00,
 3,48675,Todd,BROWN,San Clemente,CA,38:03:00,
 4,11447,Greg,FENTON,Ramona,CA,38:03:00,
@@ -1131,7 +1130,7 @@ DNF,381748,Gary,DESERRANO,Double Oak,TX,,
 Place,License #,First,Last,City,State,Time,Team
 1,523764,Dillon,HOLLINGER,Santa Cruz,CA,1:09:42,
 2,401487,Christian,HUMPERT,Morgan Hill,CA,1:09:45,
-3,307192,Jake,YACKLE,Spokane ,WA,1:09:47,
+3,307192,Jake,YACKLE,Spokane,WA,1:09:47,
 4,466502,Nicholas,WALLACE,Santa Cruz,CA,1:09:48,
 5,448707,Riley,MARMESH,Oakland,CA,1:09:48,
 6,416939,Kirk,SCHEIBELHUT,Mountain View,CA,1:09:48,
@@ -1149,7 +1148,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,402531,Sholom,JAEGER,Los Angeles,CA,1:10:03,
 19,429965,Austin,GUYETTE,Seattle,WA,1:10:04,
 20,158295,Red,FELIX,Antioch,CA,1:10:04,
-21,418571,Stephen,LENZ,Turlock,CA,1:10:05,
+21,418571,Stephen,LENZ,Davis,CA,1:10:05,
 22,456989,Kenneth,TSUDA,San Jose ,CA,1:10:05,
 23,477296,Glen,FELLER,Athens,GA,1:10:21,
 24,295077,Eli,KRANEFUSS,Mill Valley,CA,1:10:30,
@@ -1168,26 +1167,26 @@ Place,License #,First,Last,City,State,Time,Team
 37,244607,Jonathan,TESSLER,Los Angeles,CA,@2Lap,
 38,169477,Michael,EDENS,Kingston Springs,TN,@3Lap,
 DNF,455103,Brett,REYNOLDS,Seal Beach,CA,,
-DNF,355690,Nathan,SHAY,Kansas City,MO,,
+DNF,355690,Nathan,SHAY,San Francisco,CA,,
 DNF,391765,Shawn,BLOSSER,Martinez,CA,,
 DNF,355242,Derrick,WHITLATCH,Beaumont,CA,,
 DNF,205245,John,GLEAVES,Fullerton,CA,,
 
 04/21/2017 Circuit Race Women Cat 1-2-3-4-5 Junior 15-18
 Place,License #,First,Last,City,State,Time,Team
-1,422238,Sawyer,TAYLOR,Greenbrae,CA,43:20:00,
+1,422238,Sawyer,TAYLOR,San Rafael,CA,43:20:00,
 2,477574,Stella,SISNEROS,Vacaville,CA,@1Lap,
 
 04/21/2017 Circuit Race Women Cat 1-2-3-4-5 Masters 35+
 Place,License #,First,Last,City,State,Time,Team
 1,7113,Ruth,CLEMENCE,Newport Beach,CA,39:10:00,
 2,304925,Elena,JOROSKI,San Jose,CA,42:43:00,
-3,362934,Elena,ALARCON,Boulder,CO,42:43:00,
+3,362934,Elena,ALARCON,Denver,CO,42:43:00,
 4,73804,Tamara,TABEEK,Ramona,CA,42:43:00,
 5,179798,Elizabeth,NETTLES,Seattle,WA,42:43:00,
 6,393251,Jeanette,HAGGAS,San Francisco,CA,43:29:00,
 7,404770,Rachelle,JORGENSEN,Chino,CA,44:42:00,
-8,421658,Michelle,SEIDEL,Anaheim,CA,44:44:00,
+8,421658,Michelle,SEIDEL,Santa Ana,CA,44:44:00,
 9,498001,Jennifer,SAVOY,Agoura Hills,CA,45:06:00,
 10,379132,Cindy,FENTON,Ramona,CA,@1Lap,
 11,271570,Ali,RITTER,Seattle,WA,@1Lap,
@@ -1209,7 +1208,7 @@ Place,License #,First,Last,City,State,Time,Team
 04/21/2017 Circuit Race Women Cat 4 Open
 Place,License #,First,Last,City,State,Time,Team
 1,351366,Amanda,KNUTSON,Boulder,CO,40:54:00,
-2,460729,Jill,HUYETTE,Santa Rosa,CA,40:54:00,
+2,460729,Jill,HUYETTE,Healdsburg,CA,40:54:00,
 3,522553,Alison,KUBOTA,San Francisco,CA,41:43:00,
 4,529844,Ashley,Beimert,Provo,UT,42:00:00,
 5,459878,Trixie,BRADLEY,Pilot Hill,CA,43:41:00,
@@ -1220,7 +1219,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,512090,Kate,CARLISLE,San Jose,CA,44:43:00,
 11,292816,Kim,Nielsen,Carpinteria,CA,45:05:00,
 12,295106,Kathy,MARTIN,Long Beach,CA,45:07:00,
-13,374777,Sherri,BATES,Long Beach,CA,45:13:00,
+13,374777,Sherri,BATES,Monrovia,CA,45:13:00,
 14,460647,Elisabeth,HUFF,Mill Valley,CA,@1Lap,
 15,418890,Dawn,MANFREDONIA,Lafayette,CO,@1Lap,
 16,423825,Jordan,ELLISON,Colorado Springs,CO,@1Lap,
@@ -1277,7 +1276,7 @@ Place,License #,First,Last,City,State,Time,Team
 37,0,Kellen,VIZNAUGH,,,01:26:50,REVELSTOKE  BC
 38,416256,Steven,FULLER,Claremont ,CA,00:38:20,CLAREMONT  CA
 39,223230,Brian,SCHUSTER,San Francisco,CA,00:42:54,SAN FRANCISCO  CA
-DNS,456576,Samuel,BOARDMAN,Washington,CA,,WASHINGTON  DC
+DNS,456576,Samuel,BOARDMAN,Los Angeles,CA,,WASHINGTON  DC
 DNF,414898,Jackson,DUNCAN,Santa Rosa,CA,,SEATTLE  WA
 DNF,224269,Jonathon,LEVIE,Mountlake Terrace,WA,,SEATTLE  WA
 DNF,433936,Christopher,MACLEOD,,,,VICTORIA  BC
@@ -1303,7 +1302,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,197305,Brian,MANCINI,Pleasanton,CA,02:29:30,LIVERMORE  CA
 17,493545,Paul,IMLER,Irvine,CA,02:32:01,IRVINE  CA
 18,429181,Jonathan,MARTINEZ,Moreno Valley,CA,02:37:46,MORENO VALLEY  CA
-19,488045,Adam,DEJONG,New York,NY,02:37:56,LAS VEGAS  NV
+19,488045,Adam,DEJONG,New York,NV,02:37:56,LAS VEGAS  NV
 20,459124,Manuel,AGUILAR,Los Angeles,CA,02:42:07,LOS ANGELES  CA
 21,428812,Jordan,MILLER,Folsom,CA,02:45:42,FOLSOM  CA
 22,362812,Scott,BECK,Lakewood,CO,02:59:56,LAKEWOOD CO
@@ -1313,7 +1312,7 @@ DNS,475426,Hector,APODACA,,,,CD JUAREZ  CHUHUAHUA
 DNS,513482,Anthony,BERON,Oakland,CA,,STANFORD  CA
 DNS,321598,Matthew,JOHNSON,San Francisco,CA,,SAN FRANCISCO  CA
 DNS,484871,Ryan,YUST,Santa Rosa,CA,,SANTA ROSA  CA
-DNF,378563,Kurt,BROWN,Minneapolis,CA,,MINNEAPOLIS  MN
+DNF,378563,Kurt,BROWN,San Francisco,CA,,MINNEAPOLIS  MN
 DNF,494622,Jonathan,CAMACHO,Garden Grove,CA,,GARDEN GROVE  CA
 DNF,417057,Daniel,STARK,San Leandro,CA,,SAN LEANDRO  CA
 DNF,495728,Leslie,MAKEPEACE,Westminster,CA,,WESTMINSTER   CA
@@ -1435,7 +1434,7 @@ Place,License #,First,Last,City,State,Time,Team
 04/20/2017 Criterium Men Cat 1-2-3 Masters 55+
 Place,License #,First,Last,City,State,Time,Team
 1,26205,Lawrence,NOLAN,Fremont,CA,39:56:00,
-2,25655,Jerome,Nadel,Sunnyvale,CA,40:26:00,
+2,25655,Jerome,Nadel,Woodside,CA,40:26:00,
 3,333364,E. Anthony,REGUERO,Irvine,CA,40:32:00,
 4,31697,Glenn,SCHNEIDER,Lake Worth,FL,42:01:00,
 5,158107,Steve,CLIFTON,Aptos,CA,42:01:00,
@@ -1468,7 +1467,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 04/20/2017 Criterium Men Cat 5 Masters 35+
 Place,License #,First,Last,City,State,Time,Team
-1,459037,Michael,BAUMGARTNER,Lompoc,CA,29:03:00,
+1,459037,Michael,BAUMGARTNER,Peyton,CO,29:03:00,
 2,486591,Fernando,GONZALES,Bakersfield,CA,29:35:00,
 3,375554,Clayton,LONG,Santa Maria,CA,@1Lap,
 4,521886,Manuel,PAREDES,Santa Maria,CA,@1Lap,
@@ -1493,7 +1492,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,523916,George,ORLOFF,La Canada,CA,39:53:00,
 10,484871,Ryan,YUST,Santa Rosa,CA,39:53:00,
 11,428812,Jordan,MILLER,Folsom,CA,39:54:00,
-12,488045,Adam,DEJONG,New York,NY,39:54:00,
+12,488045,Adam,DEJONG,New York,NV,39:54:00,
 13,459124,Manuel,AGUILAR,Los Angeles,CA,39:54:00,
 14,516962,Kenneth,KNOWLES,Lakewood Ranch,FL,39:55:00,
 15,222125,Chris,MILLER,Culver City,CA,40:25:00,
@@ -1510,7 +1509,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,332852,David,OHEARN,Niceville,FL,39:53:00,
 2,249659,Mike,HATTON,Santa Maria,CA,39:53:00,
-3,440491,Philip,BARROS,Danville,CA,41:02:00,
+3,440491,Philip,BARROS,Pleasanton,CA,41:02:00,
 4,455544,Dennis,HIPPERT,Sparks,NV,@1Lap,
 5,157356,Jacob,TUNG,Grand Canyon,AZ,@1Lap,
 
@@ -1536,7 +1535,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,455103,Brett,REYNOLDS,Seal Beach,CA,51:14:00,
 8,298410,Jon,OKENFUSS,Suwanee,GA,51:14:00,
 9,384389,Steven,JONES,Salinas,CA,51:15:00,
-10,418571,Stephen,LENZ,Turlock,CA,51:16:00,
+10,418571,Stephen,LENZ,Davis,CA,51:16:00,
 11,485678,Richard,SPENCER,Brooklyn,NY,52:24:00,
 12,457348,Peadar,O'MOCHAIN,Mill Valley,CA,52:46:00,
 13,275120,Cameron,WALKER,Sacramento,CA,@1Lap,
@@ -1547,7 +1546,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,300853,Evan,GLOWIAK,Lancaster,CA,@2Lap,
 19,244607,Jonathan,TESSLER,Los Angeles,CA,@3Lap,
 DNF,351896,Christopher,CAGUNGUN,Concord,CA,,
-DNF,355690,Nathan,SHAY,Kansas City,MO,,
+DNF,355690,Nathan,SHAY,San Francisco,CA,,
 DNF,456989,Kenneth,TSUDA,San Jose ,CA,,
 
 04/20/2017 Criterium Women Pro-Cat 1-2
@@ -1598,7 +1597,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,501804,Haley,NIELSEN,San Francisco,CA,42:24:00,
 6,522050,Cari,SMULYAN,Santa Monica,CA,@1Lap,
 7,282858,Nicole,JORGENSON,Boise,ID,@1Lap,
-8,440531,Bekka,WESTRICK,Fairfield,OH,@1Lap,
+8,440531,Bekka,WESTRICK,Jamaica Plain,MA,@1Lap,
 9,0,Kim,STACKPOLE,,,@1Lap,
 10,503538,Leslie,KAPLAN,Sherman Oaks,CA,@4Lap,
 

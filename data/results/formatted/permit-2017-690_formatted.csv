@@ -26,7 +26,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,524366,Kevin,Valentine,Davis,CA,,University of California-Davis
 4,525167,Xander,Chan-Herur,Millbrae,CA,,University of California-Davis
 5,525384,Cameron,Finley-Ross,Goleta,CA,,University of California-Santa Barbara
-6,525265,Mason,Witter,Irvine,CA,,University of California-Merced
+6,525265,Mason,Witter,Merced,CA,,University of California-Merced
 7,524957,Ian,Burke,San Francisco,CA,,University of California-Santa Barbara
 8,513482,Anthony,Beron,Oakland,CA,,Stanford University
 9,518947,Charles,Weaver,Reno,NV,,University of Nevada-Reno
@@ -48,7 +48,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,302439,Kenji,Yoshimoto,Diamond Bar,CA,,California State University-Fullerton
 2,488137,Matthew,Llanes,Santa Rosa,CA,,University of California-Davis
 3,471822,Jason,Tang,Albany,CA,,University of California-Berkeley
-4,297530,Ryan,Walker,Aptos,CA,,California State University-Long Beach
+4,297530,Ryan,Walker,Carson,CA,,California State University-Long Beach
 5,524693,Kai,Fillipow,Long Beach,CA,,California State University-Long Beach
 6,524510,Joel,Christenson,Davis,CA,,University of California-Davis
 6,0,Brian,Rowles,,,,University of California-Santa Barbara
@@ -90,7 +90,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 03/18/2017 Criterium Men CAT A Collegiate
 Place,License #,First,Last,City,State,Time,Team
-1,456576,Samuel,Boardman,Washington,CA,,University of California-Los Angeles
+1,456576,Samuel,Boardman,Los Angeles,CA,,University of California-Los Angeles
 2,403525,Jake,Taylor,Rancho Cordova,CA,,University of California-Davis
 3,253153,Scott,Cohen,Davis,CA,,University of California-Davis
 4,481875,Juan,Duarte,Berkeley,CA,,University of California-Berkeley
@@ -117,7 +117,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,504650,Trevor,O'Farrell,Alameda,CA,,
 6,424729,Ian,Dickson,Oakland,CA,,
 7,471822,Jason,Tang,Albany,CA,,
-8,459042,Anthony,Yasuda,Irvine,CA,,
+8,459042,Anthony,Yasuda,Union City,CA,,
 9,523079,Raimundo,Martinez,Richmond,CA,,
 10,520738,Will,Farino,San Francisco,CA,,
 11,518061,Andy,Zinsser,San Francisco,CA,,
@@ -192,7 +192,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,527726,Drew,Raney,Bakersfield,CA,,San Jose State University
 14,496628,Raymond,Vo,Milpitas,CA,,University of California-Santa Barbara
 15,525239,Sean,Simpson,Arcata,CA,,Humboldt State University
-16,525265,Mason,Witter,Irvine,CA,,University of California-Merced
+16,525265,Mason,Witter,Merced,CA,,University of California-Merced
 17,524905,Pascal,Odek,Stanford,CA,,Stanford University
 18,524903,Jonathan,Ho,Palo Alto,CA,,Stanford University
 19,518947,Charles,Weaver,Reno,NV,,University of Nevada-Reno
@@ -213,7 +213,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,390453,Eddy,Bach,San Francisco,CA,,San Francisco State University
 2,524693,Kai,Fillipow,Long Beach,CA,,California State University-Long Beach
-3,297530,Ryan,Walker,Aptos,CA,,California State University-Long Beach
+3,297530,Ryan,Walker,Carson,CA,,California State University-Long Beach
 4,495740,Brian,Roehrich,El Cajon,CA,,University of California-Davis
 5,471822,Jason,Tang,Albany,CA,,University of California-Berkeley
 6,460009,Kieran,Hook,Santa Barbara,CA,,California Polytechnic-San Luis Obispo
@@ -229,7 +229,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,486679,Donald,Wu,Alameda,CA,,University of California-Berkeley
 17,460496,Senan,Hogan Hennessy,Claremont,CA,,Claremont University Consortium
 18,524843,Travis,Keeley,Signal Hill,CA,,California State University-Long Beach
-19,309097,Grant,Kalasky,Tustin,CA,,Unknown
+19,309097,Grant,Kalasky,Berkeley,CA,,Unknown
 20,526534,Isaac Kenta,Kawachi,Rowland Heights,CA,,University of California-Los Angeles
 21,468044,Johnray,Fernandez,Hollister,CA,,University of California-Davis
 22,487792,Daniel,Ho,Foster City,CA,,University of California-Berkeley
@@ -256,7 +256,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 03/18/2017 Road Race Men CAT A Collegiate
 Place,License #,First,Last,City,State,Time,Team
-1,456576,Samuel,Boardman,Washington,CA,,University of California-Los Angeles
+1,456576,Samuel,Boardman,Los Angeles,CA,,University of California-Los Angeles
 2,346448,Dominik,Cinka,Mill Valley,CA,,University of California-Santa Barbara
 3,418177,Eric,Bryan,Los Angeles,CA,,University of California-Los Angeles
 4,489166,Colin,Patterson,Palo Alto,CA,,California Polytechnic-San Luis Obispo
@@ -282,7 +282,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,496595,Jonas,Crean,Sonoma,CA,,
 5,474244,Orion,Pohl,Walnut Creek,CA,,
 6,513482,Anthony,Beron,Oakland,CA,,
-7,523219,Andrew,Esler,San Jose,CA,,
+7,523219,Andrew,Esler,San Jose ,CA,,
 8,497207,Andrew,Perry,San Jose,CA,,
 9,528342,Blake,Salvador,Stanford,CA,,
 10,525656,Alex,Wang,Milpitas,CA,,
@@ -326,18 +326,18 @@ Place,License #,First,Last,City,State,Time,Team
 
 03/18/2017 RR/Crit Men Cat P/1/2/3
 Place,License #,First,Last,City,State,Time,Team
-1,321012,Kaler,Marshall,Stanford,CA,,
+1,321012,Kaler,Marshall,Walla Walla,WA,,
 2,403731,Gavin,Murray,Sebastopol,CA,,
 3,309141,Jonathan,Penaloza,Sacramento,CA,,
 4,378802,Ben,Cook,Greenbrae,CA,,
-5,293369,Adrian,Flores,Austin,TX,,
+5,293369,Adrian,Flores,San Francisco,CA,,
 6,120588,Sterling,Magnell,Santa Rosa,CA,,
 7,289282,Brian,Funk,Menlo Park,CA,,
 8,299528,Remy,Canto-Adams,Windsor,CA,,
 9,49344,Michael,Charleton,Windsor,CA,,
 10,397013,Christopher,Beall,Burlingame,CA,,
 11,269476,Michael,Jasinski,Rocklin,CA,,
-12,306325,William,Myers,Orinda,CA,,
+12,306325,William,Myers,Davis,CA,,
 13,412434,Jesse,Lash,San Francisco,CA,,
 DNF,351738,Will,Wright,Campbell,CA,,
 DNF,407538,Alexi,Gabuyo,San Francisco,CA,,
@@ -352,7 +352,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,334726,Rachel,Geiter,Milwaukie,OR,,Stanford
 6,393251,Jeanette,Haggas,San Francisco,CA,,
 7,438201,Margaret,Lonergan,San Francisco,CA,,
-8,460101,Sarah,Tollman,Stanford,CA,,Razzle Dazzle
+8,460101,Sarah,Tollman,San Francisco,CA,,Razzle Dazzle
 
 03/18/2017 Team Time Trial Men CAT C Collegiate
 Place,License #,First,Last,City,State,Time,Team
@@ -376,7 +376,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,489166,Colin,Patterson,Palo Alto,CA,,California Polytechnic-San Luis Obispo
 4,263998,Reese,Levine,Orinda,CA,,University of California-Berkeley
 5,386281,Eric,Boessenecker,Napa,CA,,University of California-Santa Barbara
-6,456576,Samuel,Boardman,Washington,CA,,University of California-Los Angeles
+6,456576,Samuel,Boardman,Los Angeles,CA,,University of California-Los Angeles
 
 03/18/2017 Team Time Trial Women CAT B Collegiate
 Place,License #,First,Last,City,State,Time,Team

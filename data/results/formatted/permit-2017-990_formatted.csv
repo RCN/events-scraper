@@ -48,7 +48,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,367290,Stephen,Watson,Upland,CA,,
 21,60756,Steven,Grusis,Madera,CA,,Off The Front
 22,3814,Chris,Black,San Luis Obispo,CA,,SAFEWAY Cycling
-23,9327,Earl,Detrick,Thousand Oaks ,CA,,HSR Racing p/b BIRDWORX
+23,9327,Earl,Detrick,Thousand Oaks,CA,,HSR Racing p/b BIRDWORX
 24,52086,Cyril,Hunte,Rancho Cucamonga,CA,,BestVIP - Mazda p/b Eibach
 25,50721,Jeff,Newman,Pasadena,CA,,Team Simple Green/Cannondale/Bike Religion
 DNS,364697,MICHAEL,PENTA,Thousand Oaks,CA,,Big Orange Cycling p/b Beachbody Performance
@@ -69,7 +69,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,396694,Steve,Souisa,Castaic,CA,,Radsport Cycling Team
 DNS,365389,Daniel,Funk,Santa Monica ,CA,,Velo Club La Grange +21
 DNS,178640,Reginald,Jones,Los Angeles,CA,,ironfly
-DNF,45552,Douglas,Knox,Santa Barbara,CA,,Velo Pasadena Team
+DNF,45552,Douglas,Knox,North Hollywood,CA,,Velo Pasadena Team
 
 03/19/2017 Criterium Men Cat 1/2/3/4 Masters 60+
 Place,License #,First,Last,City,State,Time,Team
@@ -111,7 +111,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,419333,Kendall,stanley,Compton,CA,,Factory Racing
 5,58194,Robert,Kamppila,Cerritos,CA,,HSR Racing p/b BIRDWORX
 6,523,Joe,Chang,Los Angeles,CA,,Rogue Athletic
-7,494008,Peter,Dorantes,Castaic,CA,,Incremental Gains Cycling
+7,494008,Peter,Dorantes,Pine Mountain Club,CA,,Incremental Gains Cycling
 8,60106,Tory,Gillett,Oxnard,CA,,Monster Media Elite Masters
 9,310139,Chuck,Huang,Long Beach,CA,,HSR Racing p/b Birdworx
 10,212187,Patrick,Conneely,Ventura,CA,,CVC Racing
@@ -141,7 +141,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,506937,Robert,Allen,Walnut,CA,,
 14,525323,Julian,Rivera,Westminster,CA,,
 15,529910,David,Holowach,Santa Clarita,CA,,
-DNS,487334,Carlos,Camara,Los Angeles,CA,,
+DNS,487334,Carlos,Camara,Woodland Hills,CA,,
 DNF,528893,Drew,Gosselaar,Hesperia,CA,,
 
 03/19/2017 Criterium Men Cat 4 Senior Open
@@ -205,7 +205,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,494632,Cristian,Rodriguez,Anaheim,CA,,
 10,365526,Tristan,Bordallo,Stevenson Ranch,CA,,CBS Cycling
 11,449181,Matt,Russert,Manhattan Beach,CA,,Big Orange Cycling p/b Beachbody Performance
-12,303612,Bernd,Riggers,Sherman Oaks,CA,,Tulsa Wheelmen
+12,303612,Bernd,Riggers,Burbank,CA,,Tulsa Wheelmen
 13,469232,Brandon,Poser,Bakersfield,CA,,Big Orange Cycling p/b Beachbody Performance
 14,526062,Jimmy,Huizar,Torrance,CA,,Big Orange Cycling p/b Beachbody Performance
 15,278306,Satoshi,Furukawa,Lomita,CA,,
@@ -228,7 +228,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,406082,Eric,Zook,Somis,CA,,Serious Cycling
 DNS,457862,Tony,Sanfilippo,San Diego,CA,,Moment Bicycles
 DNS,365867,Jeff,Garcia,Newbury Park,CA,,HSR Racing p/b BIRDWORX
-DNF,48271,David,Baumgardner,Toluca Lake,CA,,Sempre Avanti Masters p/b Zaavy Factory Racing
+DNF,48271,David,Baumgardner,Visalia ,CA,,Sempre Avanti Masters p/b Zaavy Factory Racing
 DNF,216205,Seth,Davidson,Rancho Palos Verdes,CA,,Big Orange Cycling p/b Beachbody Performance
 DNF,53917,James,Edwards,Rcho Sta Marg,CA,,Team Simple Green/Cannondale/Bike Religion
 
@@ -291,7 +291,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,440626,Tim,McBirney,Menlo Park,CA,,Cycle Sport - Specialized p/b Muscle Milk
 11,422196,Peter,Epsteen,Westlake Village,CA,,Team Velosport Junior & U23 Development - Ridebiker Alliance
 12,119427,Jason,Cianfrocca,La Mirada,CA,,SoCalCycling.com
-DNF,266432,Matt,Cuttler,Venice,CA,,Santa Monica BMW Helen's Cycles Racing
+DNF,266432,Matt,Cuttler,Brooklyn,NY,,Santa Monica BMW Helen's Cycles Racing
 DNF,419309,John,Janneck,Brea,CA,,Southern California Velo
 DNF,245236,Matthew,Shackley,Las Vegas,NV,,Allegiant Travel pb Matt Smith Physical
 DNF,255796,Tate,Litchfield,Henderson,NV,,Allegiant Travel pb Matt Smith Physical
@@ -314,7 +314,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,499578,Ben,Norman,Palmdale,CA,,
 14,0,Shannon,McDonald,,,,
 15,0,Bob,Murphy,,,,
-16,487334,Carlos,Camara,Los Angeles,CA,,
+16,487334,Carlos,Camara,Woodland Hills,CA,,
 17,0,Ray,Cruz,,,,
 18,524113,Ryan,Doody,Los Angeles,CA,,Velo Club La Grange +21
 19,527831,Gabriel,Bucknell,Castaic,CA,,
@@ -334,10 +334,10 @@ Place,License #,First,Last,City,State,Time,Team
 9,239650,Steve,Floyd,San Marcos,CA,,Wolf Pack Cycling
 10,426262,Mauricio,Lepe,Pacoima,CA,,OTR Racing
 11,496494,Kelly,Lumgair,Wildomar,CA,,Team Sky Canyon
-12,391447,ANDREW,NUCKLES,Cerritos,CA,,Big Orange Cycling p/b Beachbody Performance
+12,391447,ANDREW,NUCKLES,Los Angeles,CA,,Big Orange Cycling p/b Beachbody Performance
 13,498676,Michael,Muhney,Sherman Oaks,CA,,OTR Racing
 14,419310,Nick,Baker,San Diego,CA,,G S Adams Avenue Bicycles
-15,458095,Monty,Zuniga,Los Angeles ,CA,,Velo Club La Grange +21
+15,458095,Monty,Zuniga,Los Angeles,CA,,Velo Club La Grange +21
 16,217378,Scott,Pontzer,Colorado Springs,CO,,US Military Endurance Sports
 17,466656,Ryan,Resella,Valencia,CA,,CBS Cycling
 18,456862,Matthieu,Delcourt,Los Angeles,CA,,Velo Club La Grange +21
@@ -374,7 +374,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,257236,Eric,Bruins,Culver City,CA,,Big Orange Cycling p/b Beachbody Performance
 16,395485,Travis,Remp,Palmdale,CA,,Bicycle.net Racing Team
 17,392952,Matt,Brantveyn,Poway,CA,,SDBC/EMERALD TEXTILES p/b UC Cyclery
-18,356667,Treavor,Matsushima,Pasadena,CA,,Portland Bicycle Studio
+18,356667,Treavor,Matsushima,South Pasadena,CA,,Portland Bicycle Studio
 19,234133,Patrick,Barrett,Los Angeles,CA,,Velo Club La Grange +21
 20,278203,Brian,Hickok,Redlands,CA,,Dons Bikes
 21,357307,Armando,Fuentes,Bakersfield,CA,,

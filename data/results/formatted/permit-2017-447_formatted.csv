@@ -13,7 +13,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,428648,Hector,Morales,Inglewood ,CA,,Bicycle.net Racing Team
 10,459124,Manuel,Aguilar,Los Angeles,CA,,Bicycle.net Racing Team
 11,391346,Jerry,Rios,Montebello,CA,,
-12,343084,Shawn,Langwell,San Diego,CA,,
+12,343084,Shawn,Langwell,Rancho Palos Verdes,CA,,
 13,468529,Richard,Laflin,Irvine,CA,,
 14,66036,Soren,Molina,Santa Barbara,CA,,R5 Ciclismo
 DNF,407131,Luis,Escajeda,Pomona,CA,,Majestic/Mobbin Cycling
@@ -30,7 +30,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,503314,Gil,Ron,Temecula,CA,,S2C/BOSCH pb Pearl Izumi
 8,298516,Jeffrey,Mitchell,Las Vegas,NV,,Carefast
 9,496354,Joseph,Dalton,San Bernardino,CA,,G3Foundation / Trek
-10,494008,Peter,Dorantes,Castaic,CA,,Incremental Gains Cycling
+10,494008,Peter,Dorantes,Pine Mountain Club,CA,,Incremental Gains Cycling
 11,282943,Bryan,Wierzchucki,Chino Hills,CA,,Impact Racing Team
 12,345208,Eric,Boarman,San Diego,CA,,SDBC/EMERALD TEXTILES p/b UC Cyclery
 13,457996,Steve,Netter,Menifee,CA,,S2C/BOSCH pb Pearl Izumi
@@ -38,7 +38,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,53550,Ernest,Sanchez,Vacaville,CA,,S2C/BOSCH pb Pearl Izumi
 16,52972,Richard,Johnson,Valencia,CA,,S2C/BOSCH pb Pearl Izumi
 17,396270,Carlos,Salazar,Riverside,CA,,BestVIP - Mazda p/b Eibach
-18,289401,Heith,masters,Fontana,CA,,S2C/BOSCH pb Pearl Izumi
+18,289401,Heith,masters,Eastvale,CA,,S2C/BOSCH pb Pearl Izumi
 19,275234,Dusty,Holland,Hesperia,CA,,Majestic/Mobbin Cycling
 20,52622,Phillip,Husband,Corona,CA,,S2C/BOSCH pb Pearl Izumi
 21,271870,Nathan,Hakken,Cardiff,CA,,Swami's Cycling Club
@@ -50,7 +50,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,466527,Sebastian,Rodriguez,Ontario,CA,,
 2,496623,Garrison,Mejia,Covina,CA,,Southern California Velo -  Main Street Garage Junior Development
-3,493183,Marc,Leon,Ontario,CA,,
+3,493183,Marc,Leon,Pomona,CA,,
 4,498629,Ezequiel,Perez,Pomona,CA,,Southern California Velo -  Main Street Garage Junior Development
 5,501132,gustavo,RAYGOZA,Pomona,CA,,Southern California Velo -  Main Street Garage Junior Development
 6,496746,Nylsen,Escajeda,Pomona,CA,,Southern California Velo -  Main Street Garage Junior Development
@@ -88,7 +88,7 @@ Place,License #,First,Last,City,State,Time,Team
 DNS,49198,Peter,Espinoza,Corona,CA,,Bahati Foundation
 DNS,53917,James,Edwards,Rcho Sta Marg,CA,,Team Simple Green/Cannondale/Bike Religion
 DNF,108680,Michael,Carro,Eagle Rock,CA,,G3Foundation / Trek
-DNF,45552,Douglas,Knox,Santa Barbara,CA,,Velo Pasadena Team
+DNF,45552,Douglas,Knox,North Hollywood,CA,,Velo Pasadena Team
 
 04/09/2017 Criterium Men Cat 1/2/3/4 Master 60+
 Place,License #,First,Last,City,State,Time,Team
@@ -129,11 +129,11 @@ Place,License #,First,Last,City,State,Time,Team
 11,394191,Michael,Barker,Placentia,CA,,SoCalCycling.com Team
 12,215226,Andrew,Bosco,Upland,CA,,BBI-SIC Cycling
 13,197592,Rex,Roberts,Long Beach,CA,,
-14,441005,Angel,Munoz,Newhall,CA,,ENDO CONCEPT TEAM
+14,441005,Angel,Munoz,New Hall,CA,,ENDO CONCEPT TEAM
 15,396137,Vincent,Gonzales,Santa Ana,CA,,Moment Bicycles
 16,0,UNKNOWN,RIDER,,,,
 17,419309,John,Janneck,Brea,CA,,Southern California Velo
-18,526732,Cullen,Browne,,,,
+18,534570,Cullen,Browne,Tulsa,OK,,
 19,394110,Dakota,Gracey,Tehachapi,CA,,
 20,218099,Tyler,Locke,Canyon Country,CA,,SoCalCycling.com
 21,65992,Louie,Amelburu,Las Vegas,NV,,MADDOG Racing p/b Purequosa
@@ -156,7 +156,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,524114,Adam,Buckley,Oceanside,CA,,Moment Bicycles
 6,393174,Noah,Slack,El Cajon,CA,,SDBC/EMERALD TEXTILES p/b UC Cyclery
 7,458547,Jason,Karnes,Redlands,CA,,RAPHA CYCLING CLUB
-8,523469,Jason,White,Washington,UT,,Rapid Cycling Racing
+8,523469,Jason,White,Leeds,UT,,Rapid Cycling Racing
 9,523435,Paul,Cressey,Los Angeles,CA,,Big Orange Cycling p/b Beachbody Performance
 10,0,Matt,Rosito,,,,
 DNF,451007,Brennan,Moore,Sacramento,CA,,
@@ -187,7 +187,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,296610,John,Snapp,Pomona,CA,,Southern California Velo
 4,345208,Eric,Boarman,San Diego,CA,,SDBC/EMERALD TEXTILES p/b UC Cyclery
 5,366120,Jesse,Norton,Menifee,CA,,Cast a Shadow/Temecula Farmers/Specialized
-6,356667,Treavor,Matsushima,Pasadena,CA,,Portland Bicycle Studio
+6,356667,Treavor,Matsushima,South Pasadena,CA,,Portland Bicycle Studio
 7,368740,David,Kennedy,Burbank,CA,,OTR Racing
 8,279256,Jose,Mata,Oxnard,CA,,Judgement Velo/ TBOV
 9,395630,Kevin,Barker,Placentia,CA,,Team Velocity
@@ -203,7 +203,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,336698,Charity,Chia,Castaic,CA,,CBS Cycling
 3,333276,Samantha,Bosco,Upland,CA,,
 4,180041,Angela,Patterson,San Diego,CA,,Team Simple Green/Cannondale/Bike Religion
-5,292331,Amy,Firth,Monrovia,CA,,Skyflash Racing
+5,292331,Amy,Firth,Claremont,CA,,Skyflash Racing
 6,195687,Donna,Kerby,Menifee,CA,,Sisterhood of Cycling
 7,495264,Thialor,Mize,Tehachapi,CA,,Skyflash Racing
 8,274438,Raegan,Lunsford,Murrieta,CA,,Sisterhood of Cycling
@@ -225,12 +225,12 @@ Place,License #,First,Last,City,State,Time,Team
 13,428648,Hector,Morales,Inglewood ,CA,7,Bicycle.net Racing Team
 14,459124,Manuel,Aguilar,Los Angeles,CA,6,Bicycle.net Racing Team
 15,391346,Jerry,Rios,Montebello,CA,5,
-16,343084,Shawn,Langwell,San Diego,CA,4,
+16,343084,Shawn,Langwell,Rancho Palos Verdes,CA,4,
 
 04/09/2017 Omnium Men Cat 3/4 Master 30+
 Place,License #,First,Last,City,State,Time,Team
 1,337994,Daniel,Caldera,Alta Loma,CA,66,Impact Racing Team
-2,494008,Peter,Dorantes,Castaic,CA,51,Incremental Gains Cycling
+2,494008,Peter,Dorantes,Pine Mountain Club,CA,51,Incremental Gains Cycling
 3,278203,Brian,Hickok,Redlands,CA,38,Dons Bikes
 4,503314,Gil,Ron,Temecula,CA,33,S2C/BOSCH pb Pearl Izumi
 5,424676,Jake,Westall,Corona,CA,26,Impact Racing Team
@@ -247,7 +247,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,52923,Klayton,Sproles,Corona,CA,10,Raceklean Cycling Team
 17,53550,Ernest,Sanchez,Vacaville,CA,9,S2C/BOSCH pb Pearl Izumi
 18,51897,Guy,Roundy,West Jordan,UT,9,S2C/BOSCH pb Pearl Izumi
-19,289401,Heith,masters,Fontana,CA,9,S2C/BOSCH pb Pearl Izumi
+19,289401,Heith,masters,Eastvale,CA,9,S2C/BOSCH pb Pearl Izumi
 20,298516,Jeffrey,Mitchell,Las Vegas,NV,8,Carefast
 21,496354,Joseph,Dalton,San Bernardino,CA,7,G3Foundation / Trek
 22,520072,Louie,Peick,Wildomar,CA,5,S2C/BOSCH pb Pearl Izumi
@@ -260,7 +260,7 @@ Place,License #,First,Last,City,State,Time,Team
 04/09/2017 Omnium Men Cat 1/2/3/4 Junior 15-18
 Place,License #,First,Last,City,State,Time,Team
 1,466527,Sebastian,Rodriguez,Ontario,CA,62,
-2,493183,Marc,Leon,Ontario,CA,41,
+2,493183,Marc,Leon,Pomona,CA,41,
 3,503756,ian,chavez,Glendora,CA,20,Southern California Velo -  Main Street Garage Junior Development
 4,434632,Travis,Longfellow,Redlands,CA,16,Southern California Velo -  Main Street Garage Junior Development
 4,498629,Ezequiel,Perez,Pomona,CA,14,Southern California Velo -  Main Street Garage Junior Development
@@ -342,7 +342,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,316972,erick,sobey,Ventura,CA,26,Centric Racing p/b Catella
 6,394191,Michael,Barker,Placentia,CA,23,SoCalCycling.com Team
 7,371906,leo,reyes,Ontario,CA,20,Southern California Velo Elite Team
-8,526732,Cullen,Browne,,,17,
+8,534570,Cullen,Browne,Tulsa,OK,17,
 9,419309,John,Janneck,Brea,CA,16,Southern California Velo
 10,218099,Tyler,Locke,Canyon Country,CA,16,SoCalCycling.com
 11,347396,Chase,Goldstein,Los Angeles,CA,14,The Weather Channel Specialized Cycling Team
@@ -356,7 +356,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,438171,Daniel,Pearce,Las Vegas,NV,6,Carefast
 20,494582,Hrach,Shaboyan,Burbank,CA,4,Team Velosport Junior & U23 Development - Ridebiker Alliance
 21,197592,Rex,Roberts,Long Beach,CA,3,
-22,441005,Angel,Munoz,Newhall,CA,2,ENDO CONCEPT TEAM
+22,441005,Angel,Munoz,New Hall,CA,2,ENDO CONCEPT TEAM
 23,396137,Vincent,Gonzales,Santa Ana,CA,1,Moment Bicycles
 
 04/09/2017 Omnium Men Cat 5 Senior Open
@@ -368,7 +368,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,524114,Adam,Buckley,Oceanside,CA,29,Moment Bicycles
 6,523494,Byron,Davis,Valencia,CA,25,CBS Cycling
 7,524319,Peter,Bernardo,Valencia,CA,23,CBS Cycling
-8,523469,Jason,White,Washington,UT,21,Rapid Cycling Racing
+8,523469,Jason,White,Leeds,UT,21,Rapid Cycling Racing
 9,522651,Chris,OConnell,Costa Mesa,CA,20,
 10,496899,Arturo,Schmidt,Hemet,CA,20,
 11,529118,James,Barnwell,Bellflower,CA,16,
@@ -404,7 +404,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,419912,Cody,Jung,Poway,CA,48,Team Roger C Peace
 2,296610,John,Snapp,Pomona,CA,46,Southern California Velo
-3,356667,Treavor,Matsushima,Pasadena,CA,35,Portland Bicycle Studio
+3,356667,Treavor,Matsushima,South Pasadena,CA,35,Portland Bicycle Studio
 4,459519,Taylor,Sisson,Las Vegas,NV,30,Carefast
 5,493939,Jacob,Ingwersen,Carlsbad,CA,25,Swami's Junior Development Team
 6,345208,Eric,Boarman,San Diego,CA,21,SDBC/EMERALD TEXTILES p/b UC Cyclery
@@ -442,7 +442,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,7113,Ruth,Clemence,Newport Beach,CA,28,Sisterhood of Cycling
 6,336698,Charity,Chia,Castaic,CA,20,CBS Cycling
 7,416428,Lauren,Diaz,San Diego,CA,20,Eliel Factory Team
-8,292331,Amy,Firth,Monrovia,CA,20,Skyflash Racing
+8,292331,Amy,Firth,Claremont,CA,20,Skyflash Racing
 9,495264,Thialor,Mize,Tehachapi,CA,18,Skyflash Racing
 10,427683,Ava,Hachmann,Hesperus,CO,14,
 11,195687,Donna,Kerby,Menifee,CA,10,Sisterhood of Cycling
@@ -463,7 +463,7 @@ Place,License #,First,Last,City,State,Time,Team
 04/08/2017 Road Race Men Cat 3/4 Master 30+
 Place,License #,First,Last,City,State,Time,Team
 1,337994,Daniel,Caldera,Alta Loma,CA,,Impact Racing Team
-2,494008,Peter,Dorantes,Castaic,CA,,Incremental Gains Cycling
+2,494008,Peter,Dorantes,Pine Mountain Club,CA,,Incremental Gains Cycling
 3,278203,Brian,Hickok,Redlands,CA,,Dons Bikes
 4,419089,Joshua,Sparks,Rancho Cucamonga,CA,,Monster Media Racing
 5,271870,Nathan,Hakken,Cardiff,CA,,Swami's Cycling Club
@@ -472,7 +472,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,53550,Ernest,Sanchez,Vacaville,CA,,S2C/BOSCH pb Pearl Izumi
 9,52622,Phillip,Husband,Corona,CA,,S2C/BOSCH pb Pearl Izumi
 10,424676,Jake,Westall,Corona,CA,,Impact Racing Team
-11,289401,Heith,masters,Fontana,CA,,S2C/BOSCH pb Pearl Izumi
+11,289401,Heith,masters,Eastvale,CA,,S2C/BOSCH pb Pearl Izumi
 12,503314,Gil,Ron,Temecula,CA,,S2C/BOSCH pb Pearl Izumi
 13,368512,Kevin,Lewis,Santa Barbara,CA,,
 14,457996,Steve,Netter,Menifee,CA,,S2C/BOSCH pb Pearl Izumi
@@ -491,7 +491,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 04/08/2017 Road Race Men Cat 1/2/3/4 Junior 15-18
 Place,License #,First,Last,City,State,Time,Team
-1,493183,Marc,Leon,Ontario,CA,,
+1,493183,Marc,Leon,Pomona,CA,,
 2,503756,ian,chavez,Glendora,CA,,Southern California Velo -  Main Street Garage Junior Development
 3,434632,Travis,Longfellow,Redlands,CA,,Southern California Velo -  Main Street Garage Junior Development
 4,496623,Garrison,Mejia,Covina,CA,,Southern California Velo -  Main Street Garage Junior Development
@@ -556,7 +556,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,347396,Chase,Goldstein,Los Angeles,CA,,The Weather Channel Specialized Cycling Team
 5,255580,Jason,Saltzman,Menlo Park,CA,,UCI CT: Aevolo Cycling Inc.
 6,316972,erick,sobey,Ventura,CA,,Centric Racing p/b Catella
-7,526732,Cullen,Browne,,,,
+7,534570,Cullen,Browne,Tulsa,OK,,
 8,394191,Michael,Barker,Placentia,CA,,SoCalCycling.com Team
 9,424733,Cameron,Bond,Valencia,CA,,ENDO CONCEPT TEAM
 10,119427,Jason,Cianfrocca,La Mirada,CA,,SoCalCycling.com
@@ -582,7 +582,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,524114,Adam,Buckley,Oceanside,CA,,Moment Bicycles
 10,458547,Jason,Karnes,Redlands,CA,,RAPHA CYCLING CLUB
 11,0,Matt,Rosito,,,,
-12,523469,Jason,White,Washington,UT,,Rapid Cycling Racing
+12,523469,Jason,White,Leeds,UT,,Rapid Cycling Racing
 13,458217,Dylan,Nerren,Riverside,CA,,Team Velosport/Ridebiker Alliance
 14,529910,David,Holowach,Santa Clarita,CA,,
 
@@ -599,7 +599,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 04/08/2017 Road Race Men Cat 3 Senior Open
 Place,License #,First,Last,City,State,Time,Team
-1,356667,Treavor,Matsushima,Pasadena,CA,,Portland Bicycle Studio
+1,356667,Treavor,Matsushima,South Pasadena,CA,,Portland Bicycle Studio
 2,419912,Cody,Jung,Poway,CA,,Team Roger C Peace
 3,296610,John,Snapp,Pomona,CA,,Southern California Velo
 4,395630,Kevin,Barker,Placentia,CA,,Team Velocity
@@ -631,7 +631,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,7113,Ruth,Clemence,Newport Beach,CA,,Sisterhood of Cycling
 6,180041,Angela,Patterson,San Diego,CA,,Team Simple Green/Cannondale/Bike Religion
 7,274438,Raegan,Lunsford,Murrieta,CA,,Sisterhood of Cycling
-8,292331,Amy,Firth,Monrovia,CA,,Skyflash Racing
+8,292331,Amy,Firth,Claremont,CA,,Skyflash Racing
 DNF,495264,Thialor,Mize,Tehachapi,CA,,Skyflash Racing
 
 04/07/2017 Time Trial Men Cat 1/2/3/4/5 Fixed Gear Open
@@ -650,7 +650,7 @@ DNS,138340,Paul,Hubbell,Wrightwood,CA,,
 
 04/07/2017 Time Trial Men Cat 3/4 Master 30+
 Place,License #,First,Last,City,State,Time,Team
-1,494008,Peter,Dorantes,Castaic,CA,0:14:05.,Incremental Gains Cycling
+1,494008,Peter,Dorantes,Pine Mountain Club,CA,0:14:05.,Incremental Gains Cycling
 2,503314,Gil,Ron,Temecula,CA,0:14:11.,S2C/BOSCH pb Pearl Izumi
 3,337994,Daniel,Caldera,Alta Loma,CA,0:14:11.,Impact Racing Team
 4,468408,Nicholas,Jepson,Newhall,CA,0:14:13.,CBS Cycling
@@ -661,7 +661,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,51897,Guy,Roundy,West Jordan,UT,0:14:59.,S2C/BOSCH pb Pearl Izumi
 10,457996,Steve,Netter,Menifee,CA,0:15:09.,S2C/BOSCH pb Pearl Izumi
 11,520072,Louie,Peick,Wildomar,CA,0:15:10.,S2C/BOSCH pb Pearl Izumi
-12,289401,Heith,masters,Fontana,CA,0:15:12.,S2C/BOSCH pb Pearl Izumi
+12,289401,Heith,masters,Eastvale,CA,0:15:12.,S2C/BOSCH pb Pearl Izumi
 13,188859,Albert,Tello,Fontana,CA,0:15:22.,Majestic/Mobbin Cycling
 14,255265,Yashindir,Gokul,Las Vegas,NV,0:15:22.,Carefast
 15,345064,Richard,Mendez,Temecula,CA,0:15:50.,S2C/BOSCH pb Pearl Izumi
@@ -710,7 +710,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,119427,Jason,Cianfrocca,La Mirada,CA,0:13:29.,SoCalCycling.com
 6,394191,Michael,Barker,Placentia,CA,0:13:36.,SoCalCycling.com Team
 7,325618,Leo,Bugtai,Thousand Oaks,CA,0:13:52.,SoCalCycling.com Team
-8,526732,Cullen,Browne,,,0:14:04.,
+8,534570,Cullen,Browne,Tulsa,OK,0:14:04.,
 9,215226,Andrew,Bosco,Upland,CA,0:14:06.,BBI-SIC Cycling
 10,472975,Bader,Aqil,Hawthorne,CA,0:14:12.,Big Orange Cycling p/b Beachbody Performance
 11,394110,Dakota,Gracey,Tehachapi,CA,0:16:12.,
@@ -726,7 +726,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,527563,Eric,Johnson,Tehachapi,CA,0:15:31.,
 5,496899,Arturo,Schmidt,Hemet,CA,0:15:33.,
 6,524114,Adam,Buckley,Oceanside,CA,0:15:38.,Moment Bicycles
-7,523469,Jason,White,Washington,UT,0:16:57.,Rapid Cycling Racing
+7,523469,Jason,White,Leeds,UT,0:16:57.,Rapid Cycling Racing
 
 04/07/2017 Time Trial Men Cat 4 Senior Open
 Place,License #,First,Last,City,State,Time,Team

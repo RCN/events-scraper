@@ -10,7 +10,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,185666,Rick,SCHOPP,Warrenville,IL,1:04:15,INTENT
 7,146767,Sean,METZ,Plainfield,IL,1:04:15,xXx Racing
 8,510228,John,BOWIE,Chicago,IL,1:04:16,INTENT
-9,286320,Zachary,ZIONTS,Highland Park,IL,1:04:16,Burnham Racing
+9,286320,Zachary,ZIONTS,Chapel Hill,NC,1:04:16,Burnham Racing
 10,57301,Stephen,GRIFFIN,Chicago,IL,1:04:16,Ten27 Cycling Club
 11,84066,Howard,SMITH,Batavia,IL,1:04:16,The Pony Shop
 12,286941,Sean,MCCARTHY,Lockport,IL,1:04:16,ABD Cycling Team
@@ -22,7 +22,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,328968,Nick,DIEDRICH,Willowbrook,IL,1:04:18,UPB Cycling
 19,33974,Rich,STEINBRECHER,West Chicago,IL,1:04:18,Bicycle Heaven
 20,64334,John,DAPKUS,Westville,IN,1:04:19,Team Bicycle Heaven
-21,184183,Marc,ZIONTS,Highland Park,IL,1:04:19,The Weather Channel
+21,184183,Marc,ZIONTS,Chapel Hill,NC,1:04:19,The Weather Channel
 22,330644,Chris,YOUNG,Chicago,IL,1:04:21,xXx Racing
 23,98888,Aaron,KATIN,Evanston,IL,1:04:21,Rockstar Games
 24,393810,Kevin,WHITFORD,Chicago,IL,1:04:23,xXx Racing
@@ -33,7 +33,7 @@ Place,License #,First,Last,City,State,Time,Team
 08/05/2017 Criterium Men Masters Cat 1-2-3 35-99
 Place,License #,First,Last,City,State,Time,Team
 1,402874,Andrzej,Krzysiak,Westmont,IL,43:19,Polish & Slavic FCU Internation
-2,406399,Simon,Phuah,Downers Grove,IL,43:19,INTENT
+2,406399,Simon,Phuah,Littleton,CO,43:19,INTENT
 3,185666,Rick,Schopp,Warrenville,IL,43:19,INTENT
 4,359848,Peter,Cavoto,Chicago,IL,43:20,PSIMET Racing
 5,261314,Joe,Bippus,Homer Glen,IL,43:20,South Chicago Wheelmen
@@ -125,7 +125,7 @@ Place,License #,First,Last,City,State,Time,Team
 44,524210,Kaiwen,LUAN,Chicago,IL,39:13,xXx Racing
 45,514843,Craig,CHINCHILLA JR,Glen Ellyn,IL,39:13,Team Got Wind?
 46,537389,Chris,CAREY,Evanston,IL,39:13,
-DNF,275629,Case,HULTMAN,Westmont,IL,,Tower Racing
+DNF,275629,Case,HULTMAN,Naperville,IL,,Tower Racing
 DNF,396670,Patrick,OBOYLE,Shorewood,IL,,XxX racing
 
 08/05/2017 Criterium Men Cat 3-4
@@ -171,7 +171,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,268129,Leah,SANDA,Western Springs,IL,48:19,PSIMET Racing
 2,316598,Jeannie,KUHAJEK,Crystal Lake,IL,48:19,PSIMET Whisper
-3,527854,Allison,SCHROEDER,Chicago,IL,48:49,
+3,527854,Allison,SCHROEDER,Champaign,IL,48:49,
 4,300135,Katie,ISERMANN,Chicago,IL,48:49,PSIMET Racing
 5,211195,Ramona,KUNA,Naperville,IL,49:10,ABD Cycling Team
 6,503371,Anna,AFFIAS,Chicago,IL,49:10,Spidermonkey Cycling
@@ -191,7 +191,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,534655,Rachel,PEARSON,Forest Park,IL,29:51,
 2,503371,Anna,AFFIAS,Chicago,IL,29:55,Spidermonkey Cycling
-3,527854,Allison,SCHROEDER,Chicago,IL,29:56,
+3,527854,Allison,SCHROEDER,Champaign,IL,29:56,
 4,443034,Kelsey,CAMPBELL DOLLAGHAN,Chicago,IL,29:56,BFF Bikes
 5,411912,Erin,WALTER,Elk Grove Village,IL,30:12,PSIMET Racing
 6,515516,Lydia,CHINCHILLA,Glen Ellyn,IL,30:13,Team Got Wind?

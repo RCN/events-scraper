@@ -64,7 +64,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,237266,Reginald,RASCH,New York,NY,s.t.,Team Veselka P/b Cafe Grumpy
 14,424811,Ian,CLARK,Scarsdale,NY,s.t.,Crca/dave Jordan Racing
 15,477027,Nelson,ODREMAN,North Plainfield ,NJ,s.t.,Kim's Bike Shop Racing Team
-16,528848,NORTTON PEDRO,SANCHEZ MORALES,North Proviidence,RI,s.t.,
+16,528848,NORTTON PEDRO,SANCHEZ MORALES,North Providence,RI,s.t.,
 17,424213,Christopher,DUDKO,Hastings On Hudson,NY,s.t.,Rivertowns Racing
 18,383574,Richard,SBERLATI,Brooklyn,NY,s.t.,Bold Racing / Endurancewerx
 19,466442,Andres,RAMIREZ,Morristown,NJ,s.t.,
@@ -88,11 +88,11 @@ Place,License #,First,Last,City,State,Time,Team
 37,518664,Noah,ALTMAN,Tenafly,NJ,s.t.,Century Road Club Development F
 38,0,Rodolfo,CAVALHEIRO,,,s.t.,
 39,502789,Christian,MURILLO,Somerville,NJ,s.t.,Karma Racing Team
-40,512608,Jeffrey,MCINTYRE,Millington ,NJ,s.t.,Liberty Cycle
-41,428905,Michal,KICIOR,Wallington,NJ,s.t.,
+40,512608,Jeffrey,MCINTYRE,Millington,NJ,s.t.,Liberty Cycle
+41,428905,Michal,KICIOR,Fair Lawn,NJ,s.t.,
 42,526685,Stefan,MILLER,Roselle,NJ,s.t.,Karma Racing
 43,529232,Frank,WHITE,Hoboken,NJ,s.t.,
-44,505712,Leonardo,LOPEZ,Edison ,NJ,12,Liberty Cycles
+44,505712,Leonardo,LOPEZ,Edison,NJ,12,Liberty Cycles
 45,507878,Floyd,DAVIS,New York,NY,50,Crca/dave Jordan Racing
 
 04/08/2017 Circuit Race Men Cat3/4 Open
@@ -124,7 +124,7 @@ Place,License #,First,Last,City,State,Time,Team
 25,418496,Rodrigo,SILVA,Bellport,NY,s.t.,Eect/kreb Cycle
 26,424811,Ian,CLARK,Scarsdale,NY,s.t.,Crca/dave Jordan Racing
 27,362349,Chris,MCGINLEY,Sewell,NJ,s.t.,Psracing/btb
-28,153451,Jeffrey,GARCIA,Bronx ,NY,s.t.,Mon Amour Coffee Wine
+28,153451,Jeffrey,GARCIA,Bronx,NY,s.t.,Mon Amour Coffee Wine
 29,380574,Carl,ROBINSON,Garwood,NJ,s.t.,Deathrow Velo
 30,250648,Jared,MAZUR,Flemington,NJ,s.t.,Direct Contract Packaging-bicis
 31,227336,Ron,PLUTO,Turnersville,NJ,8,Psracing/btb
@@ -172,18 +172,18 @@ Place,License #,First,Last,City,State,Time,Team
 23,129453,James,READ,Montclair,NJ,s.t.,Montclair Bikery Racing
 24,431181,Johan,ABREU,Fresh Meadows,NY,s.t.,Crca/e2value
 25,281926,Marco,ESPIN,Colonia,NJ,s.t.,Drv/rcs/driscoll
-26,383816,Hernan,LUCERO,Hicksville ,NY,s.t.,Mineola Bicycle Racing  Team
+26,383816,Hernan,LUCERO,Hicksville,NY,s.t.,Mineola Bicycle Racing  Team
 27,141829,Steve,SAMBRANO,Lansdale,PA,s.t.,Guy's Racing Club
 28,241308,Michael,BOARDMAN,Brooklyn,NY,s.t.,Crca / Rockstar Games
 29,292639,Jeffrey,WHITE,Brooklyn,NY,s.t.,Kissena Cycling Club
 30,292141,Jeff,SCHAEFFER,West Lawn,PA,s.t.,Cs Velo
-31,244768,Wilson,ANDRADE,Westfield,NJ,s.t.,Karma Racing Team
+31,244768,Wilson,ANDRADE,Edison,NJ,s.t.,Karma Racing Team
 32,211564,Marcello,RODIO,Clifton,NJ,s.t.,Montclair Bikery Racing
-33,155828,Greg,LEE,Port Washington,NY,s.t.,Brands Cycle/roslyn Porsche
+33,155828,Greg,LEE,Durham,NC,s.t.,Brands Cycle/roslyn Porsche
 34,401726,Neil,ISOLA,Merrick,NY,s.t.,Mineola Bicycle Racing Team
 35,439904,Daniel,DIAZ,East Elmhurt,NY,s.t.,Cuevas Cycling Development
 36,359726,Christian,EICHELE,Stamford,CT,1:04,Iron Bridge/tarmac Cycling
-37,360930,Nick,JURMAN,New York,NY,1:10,Crca/jlvelo Nyc
+37,360930,Nick,JURMAN,Ny,NY,1:10,Crca/jlvelo Nyc
 38,54219,Fred,BILLET,Langhorne,PA,1:24,Tri State Velo/amoroso
 39,169174,Nick,PRICE,West Lawn,PA,s.t.,Stoudts Brewing Co. / Jb Mounta
 40,167365,Alan,BUDAY,Manorville,NY,1:35,Crca/dave Jordan Racing
@@ -212,7 +212,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,520692,Peter,GOFF,Sparta,NJ,s.t.,Skylands
 19,38727,Andrew,WITTEN,New York,NY,s.t.,Zephyr Rdj Racing
 20,203530,Joe,STRAUB,Middletown,NY,s.t.,Death Row Velo
-21,360930,Nick,JURMAN,New York,NY,s.t.,Crca/jlvelo Nyc
+21,360930,Nick,JURMAN,Ny,NY,s.t.,Crca/jlvelo Nyc
 22,201793,Glenroy,GRIFFITH,Brooklyn,NY,s.t.,Nyc Fire Dept
 23,274505,William,PATTERSON,Wilmington,DE,1:40,Active Yards - Chester County V
 24,337680,Mike,HYMAN,Norwalk,CT,s.t.,Iron Bridge/tarmac Cycling
@@ -222,7 +222,7 @@ Place,License #,First,Last,City,State,Time,Team
 28,45388,Aubrey,GORDON,Reading,PA,s.t.,Liberty Cycle Inc.
 29,201087,Jon Paul,RORECH,Brooklyn,NY,s.t.,Deno's Wonder Wheel
 30,53227,Joseph,MANACCHIO,Philadelphia,PA,1:47,Guy's Racing Club
-31,155828,Greg,LEE,Port Washington,NY,s.t.,Brands Cycle/roslyn Porsche
+31,155828,Greg,LEE,Durham,NC,s.t.,Brands Cycle/roslyn Porsche
 32,167365,Alan,BUDAY,Manorville,NY,1:49,Crca/dave Jordan Racing
 33,255713,Dan,CONLIN,Wilmington,DE,3:38,Active Yards - Chester County V
 34,60599,Curtis,LIGHTBURN,Florham Park,NJ,3:40,Liberty Cycle
@@ -245,7 +245,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,197533,Ed,TROIANELLO,Warren,NJ,s.t.,High Gear/trek/ww
 7,191647,Brian,GRISTICK,Budd Lake,NJ,s.t.,Team Cycle Solutions
 8,45388,Aubrey,GORDON,Reading,PA,s.t.,Liberty Cycle
-9,7782,Greg,CORDASCO,Basking Ridge,NJ,s.t.,Liberty Cycle
+9,7782,Greg,CORDASCO,Baskingridge,NJ,s.t.,Liberty Cycle
 10,68718,James,JOSEPH,Brooklyn,NY,s.t.,Ws United
 11,191926,Robert,KOWAL,Hillsborough,NJ,s.t.,Team Somerset
 12,2266,David,BAILEY,Norwalk,CT,s.t.,Iron Bridge / Tarmac

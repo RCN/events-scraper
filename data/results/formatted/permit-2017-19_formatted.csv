@@ -72,7 +72,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,0,ADAM,SMITH,,,00:03:26.643,
 2,527030,COLE,KRAMER,Greensburg,PA,00:03:32.609,
-3,405912,ERIK,FALK,Manassas ,VA,00:03:52.237,Filz Built Bicycles
+3,405912,ERIK,FALK,Manassas,VA,00:03:52.237,Filz Built Bicycles
 4,0,ANGELO,WASHINGTON,,,00:03:59.297,A-1 Cycling Gravity Team
 5,473661,JOSH,KRYNOCK,Charlotte,NC,00:04:07.894,Gravity Pirates
 
@@ -135,7 +135,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,532324,Greg,Williamson,,,00:02:44.242,Cube Global Squad
 2,247831,NEKO,MULALLY,Pisgah Forest,NC,00:02:47.692,YT Mob
 3,474278,ISAK,LEIVSSON,,,00:02:52.270,Canfield/DVO
-4,317122,Shane,Leslie,Bloomfield Hills,MI,00:02:52.753,Graeme Pitts Racing
+4,317122,Shane,Leslie,Bloomfield Hills,MI,00:02:52.753,Defiant Racing
 5,400106,BRUCE,KLEIN,Altadena,CA,00:02:53.064,KHS Factory Racing
 6,298817,KIRAN,MACKINNON,Santa Cruz,CA,00:02:54.323,Santa Cruz Bicycles
 7,375880,Charlie,Harrison,Trabuco Canyon,CA,00:02:54.428,Intense Factory Racing
@@ -168,7 +168,7 @@ Place,License #,First,Last,City,State,Time,Team
 34,474186,Daniel,Shaw,,,00:03:10.691,Major Cycles/Devinci
 35,355038,IAN,TURNER,Purcellville,VA,00:03:12.780,Filzbuilt
 36,352646,JAKE,KAHN,Putnam Valley,NY,00:03:13.607,Danny's Cycles Racing
-37,460497,Kyle,Gomolka Jr,Jonesboroug,TN,00:03:13.626,
+37,460497,Kyle,Gomolka Jr,Jonesborough,TN,00:03:13.626,
 38,318536,CONRAD,CULLENEY,Livermore,CA,00:03:14.615,1 Shot Racing
 39,474188,NIC,RODGERS,,,00:03:15.054,Velofix
 40,386205,ANDREW,FLASCHENRIEM,Whitefish,MT,00:03:15.342,Trucker Co Posse
@@ -292,7 +292,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,440759,Frida Helena,Roenning,Indianapolis,IN,00:04:03.839,Canfield
 5,272840,RAE,GANDOLF,Zanesville,OH,00:04:04.846,Kona/Bike Fettish/Onza/HT
 6,405259,Samantha,Kingshill,Sacramento,CA,00:04:14.209,College Cyclery
-7,481900,CJ,SELIG,Big Bear Lake,CA,00:04:18.932,TruckerCo Posse
+7,481900,CJ,SELIG,Running Springs,CA,00:04:18.932,TruckerCo Posse
 8,404663,RILEY,WEIDMAN,Verona,PA,00:04:38.309,Reading Racing/100%
 9,503978,RACHEL,KELLEHER,Richmond,VA,00:04:39.169,Coqui Cyclery
 10,255122,AMBER,PRICE,Cedaredge,CO,00:04:46.770,Klim
@@ -305,7 +305,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,377126,ANGELINA,PALERMO,Butler,PA,00:04:14.752,TruckerCo Posse
 5,272840,RAE,GANDOLF,Zanesville,OH,00:04:38.736,Reading Racing/100%
 6,404663,RILEY,WEIDMAN,Verona,PA,00:04:40.045,Kona/Bike Fettish/Onza/HT
-7,481900,CJ,SELIG,Big Bear Lake,CA,00:04:53.002,Marian University
+7,481900,CJ,SELIG,Running Springs,CA,00:04:53.002,Marian University
 8,503978,RACHEL,KELLEHER,Richmond,VA,00:04:57.760,Liv/Spoked
 9,405259,Samantha,Kingshill,Sacramento,CA,00:05:19.552,Bergen MTB Klubb
 10,255122,AMBER,PRICE,Cedaredge,CO,00:05:42.095,Canfield

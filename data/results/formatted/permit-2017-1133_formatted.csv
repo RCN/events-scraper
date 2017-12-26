@@ -6,7 +6,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,104579,Ben,Lund,Delafield,WI,,Hollander Benelux Racing
 3,300107,Mike,Scalise,Itasca,IL,,F3 Cycling p/b 7 Mile Cycles
 4,82335,Todd,Wendell,Chicago,IL,,Burnham Racing
-5,41161,David,Schuda,Wheaton,IL,,F3 Cycling p/b 7 Mile Cycles
+5,41161,David,Schuda,Wheston,IL,,F3 Cycling p/b 7 Mile Cycles
 6,458003,Zeno,Molteni,Arlington Heights,IL,,Plus One Cycling
 7,282898,John,Whipple,Chicago,IL,,Scarlet Fire
 8,230392,Benjamin,Demong,Glen Ellyn,IL,,ABD Cycling Club
@@ -43,7 +43,7 @@ Place,License #,First,Last,City,State,Time,Team
 39,539372,Larry,Gelwix,Wilmette,IL,,Velosmith Bicycle Studio
 40,470824,Kevin,Reed,Skokie,IL,,Union Cycling Team
 41,411873,Sean,Seamon,Wheaton,IL,,
-42,379091,Daniel,Wachter,Chicago ,IL,,Half Acre Cycling
+42,379091,Daniel,Wachter,Chicago,IL,,Half Acre Cycling
 43,275816,Richard,Lenski,Arlington Heights,IL,,PSIMET Racing
 44,391101,Gene,Flanagan,Batavia,IL,,
 45,427379,Dave,Wasikowski,Glenview,IL,,
@@ -52,7 +52,7 @@ Place,License #,First,Last,City,State,Time,Team
 48,534206,Ian,Chown,Evanston,IL,,Union Cycling Team
 49,520894,Stephen,McComb,Evanston,IL,,
 50,370943,Daniel,Kurowski,Lombard,IL,,EMC2 / Elmhurst Masters
-51,400032,Gabe,Kroll,Skokie,IL,,LifeLine Racing Team
+51,400032,Gabe,Kroll,Chicago,IL,,LifeLine Racing Team
 52,416702,Nick,Praznowski,Chicago,IL,,The Pony Shop
 53,541010,Michael,Hartmann,Naperville,IL,,
 54,301297,Steve,Biedron,Chicago,IL,,Mox Multisport
@@ -77,7 +77,7 @@ Place,License #,First,Last,City,State,Time,Team
 DNS,541387,Carson,Boneck,Wilmette,IL,,Velosmith Bicycle Studio
 DNS,252184,Anthony,Bustamante,Wilmette,IL,,Velosmith Bicycle Studio
 DNS,253503,Peter,Chrapkowski,Chicago,IL,,Comrade Cycles Racing
-DNS,274912,Troy,Crady,Chicago,IL,,Mox Multisport
+DNS,274912,Troy,Crady,Prophetstown,IL,,Mox Multisport
 DNS,481947,Ryan,Durrie,Chicago,IL,,PSIMET Racing
 DNS,16137,Duane,Higgs,Itasca,IL,,F3 Cycling p/b 7 Mile Cycles
 DNS,213060,Kevin,Oneill,Chicago,IL,,xXx Racing
@@ -86,14 +86,14 @@ DNF,417917,Francesco,Barba,Chicago,IL,,
 DNF,515555,Mike,Long,Naperville,IL,,
 DNF,193376,Marc,Moeller,Elgin,IL,,Team Bicycle Heaven
 DNF,139978,Robert,Saunders,Hinsdale,IL,,UPB Cycling
-DNF,330028,Jason,Trock,Chicago,IL,,Mox Multisport
+DNF,330028,Jason,Trock,Oak Park,IL,,Mox Multisport
 
 09/10/2017 Cyclo-cross Men Cat 1/2/3/4/5 Masters 45-99
 Place,License #,First,Last,City,State,Time,Team
 1,394017,Bernd,Hosey,Western Springs,IL,,UPB Cycling
 2,193353,Ken,Krebs,Saint Charles,IL,,ABD Cycling Club
 3,131585,Danny,Warner,Trout Valley,IL,,F3 Cycling p/b 7 Mile Cycles
-4,274912,Troy,Crady,Chicago,IL,,Mox Multisport
+4,274912,Troy,Crady,Prophetstown,IL,,Mox Multisport
 5,287168,Martin,Bell,Highland Park,IL,,PSIMET Racing
 6,510885,Mark,Kitral,Lake Zurich,IL,,F3 Cycling p/b 7 Mile Cycles
 7,296158,Jarrod,Kerkhoff,Rockford,IL,,MSN Pro Coaching
@@ -127,7 +127,7 @@ Place,License #,First,Last,City,State,Time,Team
 35,503262,Chris,Rechtsteiner,Algonquin,IL,,Cycling Republic Racing Team
 36,152410,Josh,Carter,Libertyville,IL,,
 37,133142,Gary,Bentz,St Charles,IL,,Team Bicycle Heaven
-38,188914,Joseph,Doyle,Austin,TX,,UPB Cycling
+38,188914,Joseph,Doyle,Riverside,IL,,UPB Cycling
 39,290341,Michael,Chiang,Glencoe,IL,,Union Cycling Team
 40,315432,Omar,Patalinghug,Mundelein,IL,,Higher Gear
 41,443874,Andrew,Stover,Evanstonevanston,IL,,The Pony Shop
@@ -160,19 +160,19 @@ Place,License #,First,Last,City,State,Time,Team
 68,299317,Michael,Burns,Marengo,IL,,Team Got Wind?
 69,388336,Jon,Mejdrich,Chicago,IL,,
 70,417626,Evert Thomas,Lindberg,Wilmette,IL,,
-71,0,Jim,Suterko,,,,Main Street Sasquatch Squadron
+71,542057,Jim,Suterko,Trevor,WI,,Main Street Sasquatch Squadron
 72,291592,Edmund,Lewis,Hershey,PA,,Gartner
 73,541043,Andrew,Moore,Chicago,IL,,RAPHA CYCLING CLUB
 74,414538,Jay,Clark,Chicago,IL,,
 75,391042,Tiber,Scheer,Forest Park,IL,,
-DNS,360364,Timothy,Barrett,North Aurora,IL,,Team Bicycle Heaven
+DNS,401562,Brian,Kwak,Chicago,IL,,LifeLine Racing Team
+DNS,360364,Timothy,Barrett,Orland Park,IL,,Team Bicycle Heaven
 DNS,485266,Gregory,Campbell,Chicago,IL,,The Pony Shop
 DNS,11378,Stephen,Feehery,Homewood,IL,,South Chicago Wheelmen
 DNS,16137,Duane,Higgs,Itasca,IL,,F3 Cycling p/b 7 Mile Cycles
 DNS,162384,Michael,Macedon,Chicago,IL,,Vision Quest
 DNS,253528,Jeff,Provisor,East Dundee,IL,,Main Street Bicycles Sasquatch Squadron
 DNF,118186,Brandon,Antoniewicz,Chicago,IL,,
-DNF,401562,Brian,Kwak,Chicago,IL,,LifeLine Racing Team
 DNF,320876,Eric,Myers,Lake Forest,IL,,PSIMET Racing
 DNF,0,Angel,Pavon,,,,
 DNF,101020,Bryan,Rheude,Chicago,IL,,The Pony Shop
@@ -184,7 +184,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,218702,Scott,Ross,Mc Henry,IL,,
 4,475165,Gaylord,Otte,Evanston,IL,,xXx Racing
 5,259398,John,Shull,Libertyville,IL,,Pete's Garage Racing
-6,184183,Marc,Zionts,Highland Park,IL,,The Weather Channel
+6,184183,Marc,Zionts,Chapel Hill,NC,,The Weather Channel
 7,261242,Scott,Sugent,Chicago,IL,,High Gear/Trek/WW
 8,364980,Ross,Adams,Lake Geneva,WI,,Lake Geneva Youth Camp Cycling
 9,97808,Paul,Warloski,Greendale,WI,,Ben's Cycle/Milwaukee Bicycle Co. Cycling Team
@@ -274,15 +274,15 @@ Place,License #,First,Last,City,State,Time,Team
 49,274776,Andrew,Nix,Chicago ,IL,,xXx Racing
 50,486336,Melroy (Will),Holzhauer,Geneva,IL,,ABD Cycling Club
 51,0,Mike,McCall,,,,
-52,0,Kyle,Brown,,,,
+52,542021,Kyle,Brown,Round Lake Beach,IL,,
 53,537830,Randy,McEntee,Western Springs,IL,,
 54,0,Maalik,Gardner,,,,Blackstone Bicycle Works
 55,535345,Konrad,Kosuge,Glenview,IL,,
 56,484468,Brian,Ohalloran,Chicago,IL,,xXx Racing
-57,0,Juan,Gonzalez,,,,JC-crew/Sammys cross
+57,299118,Juan,Gonzalez,Chicago,IL,,JC-crew/Sammys cross
 58,455127,Gerard,Castro,Frankfort,IL,,
 59,530630,Andrew,Lulis,Normal,IL,,
-60,0,Nathaniel,Staffel,,,,
+60,541755,Nathaniel,Staffel,Chicago,IL,,
 61,538254,Nick,Bowersox,Chicago,IL,,
 62,484687,Lauren,Wiscomb,Wilmette,IL,,Bonkers Cycling
 63,529829,Jefferson,Goodman,Davenport,IA,,
@@ -291,7 +291,7 @@ Place,License #,First,Last,City,State,Time,Team
 66,488017,Gregory,Carver,Crystal Lake,IL,,
 67,467894,Ruairi,Brady,Chicago,IL,,PSIMET Racing
 68,478109,Brian,Cosgrove,Arlington Heights,IL,,
-69,0,John,Lee,,,,
+69,543540,John,Lee,Wilmette,IL,,
 70,541054,Masaya,Nakai,Palatine,IL,,
 71,520167,Michael,Gnutek,Palatine,IL,,
 72,248449,Derek,Augustynowicz,Highland,IN,,RegionRacing p/b Strack & Van Til
@@ -305,19 +305,19 @@ Place,License #,First,Last,City,State,Time,Team
 80,356130,Clinton,Holler,Chicago,IL,,RAPHA CYCLING CLUB
 81,376340,Gregg,Foster,Griffith,IN,,RegionRacing p/b Strack & Van Til
 82,520100,KeJuan,Smith,Chicago,IL,,
-83,0,Tyler,Flaker,,,,
+83,541898,Tyler,Flaker,Chicago,IL,,
 84,511916,Avery,Young,Chicago ,IL,,
-85,424697,Kristine,Deibler,Chicago,IL,,Union Cycling Team
+85,424697,Kristine,Deibler,Seattle,WA,,Union Cycling Team
 86,0,Kahari,Blackburn,,,,Blackstone Bicycle Works
 87,515088,Geoffrey,Harding,Chicago,IL,,The Chainlink
 88,0,Kevin,Marvinac,,,,The Chainlink
-89,275629,Case,Hultman,Westmont,IL,,Tower Racing
+89,275629,Case,Hultman,Naperville,IL,,Tower Racing
 90,0,Chris,Bushell,,,,
 91,528942,Ron,Poore,Carpentersville,IL,,Main Street Bicycles Sasquatch Squadron
 92,520142,Maxwell,Montagano,Chicago,IL,,
 93,520649,Joseph,Conway,Berwyn,IL,,
 94,540982,Bob,Feeny,Chicago,IL,,
-95,413419,Alan,Donnelly,Chicago,IL,,
+95,413419,Alan,Donnelly,Berwyn,IL,,
 96,541160,Andrzej,Nowakowski,River Grove,IL,,
 97,528986,Sachin,Diwan,Chicago,IL,,Spidermonkey Cycling
 98,424947,Derek,Burge-Beckley,Chicago,IL,,Bonkers Cycling
@@ -333,7 +333,7 @@ Place,License #,First,Last,City,State,Time,Team
 108,48139,Robert,Baisa,Tinley Park,IL,,Region Racing
 109,0,Christian,Clark,,,,Blackstone Bicycle Works
 110,454302,Natalie,Mouw,Wheaton,IL,,ABD Cycling Club
-111,493062,Nicholas,Labbe,Rolling Meadows  Il,IL,,The Pony Shop
+111,493062,Nicholas,Labbe,Rolling Meadows  ,IL,,The Pony Shop
 112,412294,Henry,Praznowski,Chicago,IL,,The Pony Shop
 113,0,Gayne,Underwood,,,,
 114,0,Peter,Kang,,,,
@@ -357,7 +357,7 @@ DNS,0,Aaron,Davis,,,,Blackstone Bicycle Works
 DNS,362040,Aaron,Byrnes,Chicago,IL,,PSIMET Racing
 DNS,540425,Corey,Anderson,Downers Grove,IL,,INTENT
 DNS,83509,Anthony,Cambio,Arlington Heights,IL,,
-DNF,360364,Timothy,Barrett,North Aurora,IL,,Team Bicycle Heaven
+DNF,360364,Timothy,Barrett,Orland Park,IL,,Team Bicycle Heaven
 DNF,534206,Ian,Chown,Evanston,IL,,Union Cycling Team
 DNF,467668,Luke,Goldman,Chicago,IL,,xXx Racing
 DNF,521078,Pete,Gray,Chicago,IL,,
@@ -379,7 +379,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,306717,Peter,Kelley,Geneva,IL,,Team Bicycle Heaven
 5,211512,David,Reyes,Chicago,IL,,Tenspeed Hero
 6,408363,Jacob,Huizenga,Chicago,IL,,Chicago Cuttin Crew
-7,456923,Jake,Peterson,Batavia,IL,,Team Bicycle Heaven
+7,456923,Jake,Peterson,Elburn,IL,,Team Bicycle Heaven
 8,145455,Jason,Knauff,Glencoe,IL,,Burnham Racing
 9,388197,Nicholas,Andriano,Carpentersville,IL,,Main Street Bicycles Sasquatch Squadron
 10,472543,Robert,Bigelow-Rubin,Chicago,IL,,Comrade Cycles Racing
@@ -421,7 +421,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,518778,Jeremy,Bloyd-Peshkin,Chicago,IL,,INTENT
 4,470365,Johan,Konter,Chicago,IL,,Union Cycling Team
 5,457233,Sean,Hayek,Moline ,IL,,DICE
-6,299675,Gary,Hurst,Saltlakecity,UT,,
+6,299675,Gary,Hurst,Chicago ,IL,,
 7,418896,Edward,Gross,Chicago,IL,,SRAM Factory
 8,326640,Noah,Anderson,South Elgin,IL,,Spin Doctor Cyclewerks CX Team
 9,439259,Adam,Andriano,Elgin,IL,,Main Street Bicycles Sasquatch Squadron
@@ -432,7 +432,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,517282,Zachary,Weidenaar,Lansing,IL,,Mox Multisport
 15,403395,Kyle,Suratte,Woodstock,IL,,
 16,390405,Brett,Obourke,Hinsdale,IL,,UPB Cycling
-17,390862,Connor,Ramsey,Rochester,IL,,
+17,390862,Connor,Ramsey,Bloominton,IL,,
 18,440284,Dave,Towner,Carpentersville,IL,,Cycling Republic Racing Team
 19,418397,Kevin,Corcoran,Chicago,IL,,xXx Racing
 20,389098,Jon,Schratz,Aurora,IL,,
@@ -444,7 +444,7 @@ Place,License #,First,Last,City,State,Time,Team
 26,512084,Douglas,Kerr,Chicago,IL,,The Pony Shop
 27,412534,Vince,Mavrick,Pingree Grove,IL,,Main Street Bicycles Sasquatch Squadron
 28,250430,Richard,Baisa,Saint John,IN,,RegionRacing p/b Strack & Van Til
-29,379091,Daniel,Wachter,Chicago ,IL,,Half Acre Cycling
+29,379091,Daniel,Wachter,Chicago,IL,,Half Acre Cycling
 30,375977,Andrew,Waggoner,Evanston,IL,,
 31,481675,Jack,Thornburg,Chicago,IL,,
 32,417107,Arthur,Miles,Tower Lakes,IL,,Vision Quest
@@ -460,7 +460,7 @@ Place,License #,First,Last,City,State,Time,Team
 42,448431,Torey,Peterson,Chicago,IL,,
 43,488720,Matthew,Stephens,Chicago,IL,,
 44,503423,Eric,Epifanio,Chicago,IL,,Bonkers Cycling
-45,264878,John,Pontarelli,Wilmette,IL,,GSECC - Garner Semi Elite Cross Crew
+45,264878,John,Pontarelli,Chicago,IL,,GSECC - Garner Semi Elite Cross Crew
 46,411568,Jafet,Torres,Chicago,IL,,Bonkers Cycling
 47,520287,Chris,Brown,Chicago,IL,,
 48,454964,Jonathan,Mendez,Chicago,IL,,
@@ -472,7 +472,7 @@ Place,License #,First,Last,City,State,Time,Team
 54,299132,Timujin,Puczkowskyj,Chicago,IL,,
 55,455551,Micheal,Coston,Chicago,IL,,
 56,264048,Terry,O'Grady,Chicago,IL,,PSIMET Racing
-57,360364,Timothy,Barrett,North Aurora,IL,,Team Bicycle Heaven
+57,360364,Timothy,Barrett,Orland Park,IL,,Team Bicycle Heaven
 58,532926,Jeff,Gabbard,Gages Lake,IL,,
 59,484468,Brian,Ohalloran,Chicago,IL,,xXx Racing
 60,485808,Kevin,Mallory,Chicago,IL,,xXx Racing
@@ -493,7 +493,7 @@ Place,License #,First,Last,City,State,Time,Team
 75,517862,Chris,Westall,Lombard,IL,,Beverly Bike
 76,508055,Zach,Schneider,Chicago,IL,,The Chainlink
 77,488017,Gregory,Carver,Crystal Lake,IL,,
-78,275629,Case,Hultman,Westmont,IL,,Tower Racing
+78,275629,Case,Hultman,Naperville,IL,,Tower Racing
 79,196801,Michael,Kelly,Chicago,IL,,South Chicago Wheelmen
 80,276547,Michael,Junius,Chicago,IL,,Tower Racing
 81,456790,Duane,Crowe,Chicago,IL,,Half Acre Cycling
@@ -530,9 +530,9 @@ DNF,458249,Kendall,Hudson,Skokie,IL,,xXx Racing
 Place,License #,First,Last,City,State,Time,Team
 1,368066,David,Ross,Dekalb,IL,,Team Bicycle Heaven
 2,314966,Nathan,Knowles,Batavia,IL,,ASU Junior Development
-3,245670,Jim,Maddock,South Berwick,ME,,Bonkers Cycling
+3,245670,Jim,Maddock,Chicago,IL,,Bonkers Cycling
 4,208217,Alex,Edwards,Streamwood,IL,,PSIMET Racing
-5,274912,Troy,Crady,Chicago,IL,,Mox Multisport
+5,274912,Troy,Crady,Prophetstown,IL,,Mox Multisport
 6,476576,Jared,Verbeke,Chicago,IL,,xXx Racing
 7,392940,Nicholas,Pomella,Palatine,IL,,PSIMET Racing
 8,406924,Thomas,Kehrer,Chicago,IL,,Bonkers Cycling
@@ -644,7 +644,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,381393,Kathryn,McDicken,Appleton,WI,,
 11,306517,Jennifer,Groen,Chicago,IL,,Half Acre Cycling
 12,361267,Amelia,Van Maldegiam,Bartlett,IL,,PSIMET Racing
-13,424697,Kristine,Deibler,Chicago,IL,,Union Cycling Team
+13,424697,Kristine,Deibler,Seattle,WA,,Union Cycling Team
 14,187395,Beth,Christiansen,Evanston,IL,,Union Cycling Team
 15,443034,Kelsey,Campbell Dollaghan,Chicago,IL,,BFF Bikes
 16,519820,Samantha,Scipio,Chicago,IL,,Comrade Cycles Racing
@@ -757,6 +757,7 @@ Place,License #,First,Last,City,State,Time,Team
 65,459620,Elizabeth,McKinley,Chicago,IL,,
 66,419302,Elizabeth,Bosch,Chicago,IL,,
 67,386486,Katie,Kolon,Chicago,IL,,BFF Bikes
+DNS,443795,Lauren,Conroy,Chicago,IL,,Comrade Cycles Racing
 DNS,362040,Aaron,Byrnes,Chicago,IL,,PSIMET Racing
 DNS,282686,Nico,Cabrera,Chicago,IL,,Chicago Cuttin Crew
 DNS,271143,Joseph,Castello,Chicago,IL,,
@@ -765,7 +766,6 @@ DNS,273192,Mike,Conroy,Chicago,IL,,Mox Multisport
 DNS,376596,Aaron,Johnson,Loves Park,IL,,MSN Pro Coaching
 DNS,268726,Paul,Kardosh,Chicago,IL,,Mox Multisport
 DNS,234988,Joel,Roth,Chicago,IL,,The Pony Shop
-DNF,443795,Lauren,Conroy,Chicago,IL,,Comrade Cycles Racing
 DNF,329804,Randy,Koren,Frankfort,IL,,
 DNF,222539,Thomas,Kramer,Buffalo Grove,IL,,F3 Cycling p/b 7 Mile Cycles
 DNF,454964,Jonathan,Mendez,Chicago,IL,,
@@ -812,7 +812,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,448281,Henrique,Lowe,Walworth,WI,,Lake Geneva Youth Camp Cycling
 4,516191,Jacob,Mobley,Glenview,IL,,The Pony Shop
 5,412294,Henry,Praznowski,Chicago,IL,,The Pony Shop
-6,493062,Nicholas,Labbe,Rolling Meadows  Il,IL,,The Pony Shop
+6,493062,Nicholas,Labbe,Rolling Meadows  ,IL,,The Pony Shop
 7,516333,Chloe,Yoder,Lake Villa,IL,,The Pony Shop
 8,433309,Colin,Knowles,Batavia,IL,,ASU Junior Development
 9,484631,Aidan,Letzel,Mount Prospect,IL,,The Pony Shop
@@ -867,7 +867,7 @@ Place,License #,First,Last,City,State,Time,Team
 58,516501,Matteo,Drummer,Skokie,IL,,Velosmith
 59,540410,Leo,Valentin,Chicago,IL,,
 60,519121,Kale,Schrauth,Glenview,IL,,The Pony Shop
-61,416474,Katherine,Doyle,Austin,TX,,UPB Cycling
+61,416474,Katherine,Doyle,Riverside,IL,,UPB Cycling
 62,538767,Ann Louise,Elbert,Chicago,IL,,The Pony Shop
 63,540541,William,Hardison,Palos Park,IL,,
 DNS,486541,Elora,Brady,Chicago,IL,,The Pony Shop
@@ -877,7 +877,7 @@ DNS,541042,Isabella,Moore,Chicago,IL,,
 DNS,540872,William,Young,Wilmette,IL,,The Pony Shop
 DNF,489299,Leo,Antoniewicz,Chicago,IL,,
 DNF,0,Calvin,Carter,,,,
-DNF,416470,Patrick,Doyle,Austin,TX,,UPB Cycling
+DNF,416470,Patrick,Doyle,Riverside,IL,,UPB Cycling
 DNF,443782,Aidan,Hardison,Palos Park,IL,,
 DNF,516716,Chloe,Kelley,Geneva,IL,,Team Bicycle Heaven
 DNF,541374,Alex,Schrauth,Glenview Il,IL,,The Pony Shop

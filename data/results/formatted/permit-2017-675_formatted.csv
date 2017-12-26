@@ -38,7 +38,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,431133,Timothy,CALLAHAN,Scottsdale,AZ,0:00:00,
 5,306314,Yean,DIAZ,Yuma,AZ,0:00:00,
 6,459162,Jason,SWAIN,Yuma,AZ,0:00:00,
-7,499504,Evan,BOONE,Fort Huachuca,AZ,0:00:00,
+7,499504,Evan,BOONE,Sierra Vista,AZ,0:00:00,
 8,378211,Gabriel,LANGBAUER,Yuma,AZ,0:00:00,
 9,493869,Carl,PATTERSON-MARKOWITZ,Tucson,AZ,0:00:00,
 10,473103,Jesse,COLBURN,Yuma,AZ,0:00:00,
@@ -50,9 +50,9 @@ Place,License #,First,Last,City,State,Time,Team
 3,303641,Jeffrey,PERRY,Lake Mathews,CA,0:00:00,
 4,428119,Chris,QUISMORIO,Mesa,AZ,0:00:00,
 5,457030,Rob,DOLLAR,Gilbert,AZ,0:00:00,
-6,422930,Scott,JONES,Tempe,AZ,0:00:00,
+6,422930,Scott,JONES,Scottsdale,AZ,0:00:00,
 7,286193,Michael,HEMMERLIN,Mesa,AZ,0:00:00,
-8,107784,Kevin,HARSLEY,Pasadena,CA,0:00:00,
+8,107784,Kevin,HARSLEY,Chandler,AZ,0:00:00,
 9,290623,Joe,ALTOMARE,Tucson,AZ,0:00:00,
 10,340318,joseluis,OROZCO,Calexico,CA,0:00:00,
 11,431133,Timothy,CALLAHAN,Scottsdale,AZ,0:00:00,
@@ -63,7 +63,7 @@ DNS,14219,Scott,GRIMSHAW,Greenville,SC,0:00:00,
 
 03/26/2017 Criterium Men Cat. 3 75 Minutes 15-99
 Place,License #,First,Last,City,State,Time,Team
-1,107784,Kevin,HARSLEY,Pasadena,CA,0:00:00,
+1,107784,Kevin,HARSLEY,Chandler,AZ,0:00:00,
 DNF,395130,Melanie,BEALE,Boulder,CO,0:00:00,
 
 03/26/2017 Criterium Men Cat. 2 75 Minutes 15-99
@@ -130,7 +130,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,392098,Sarah,MUENCH,Phoenix,AZ,0:00:00,
 2,457672,Sarah,POSNER,Sedona,AZ,0:00:00,
 3,496845,Pearl,DIXON,Tucson,AZ,0:00:00,
-4,459515,Alissa,ALBRECHT,Tempe,FL,0:00:00,
+4,459515,Alissa,ALBRECHT,Tempe,AZ,0:00:00,
 5,395508,Shelby,HOGLUND,Tucson,AZ,0:00:00,
 
 03/26/2017 Criterium Women Cat. 2 45 Minutes 13-99
@@ -170,7 +170,7 @@ DNF,522422,Samih,ELAKKAD,Yuma,AZ,,
 
 03/26/2017 Omnium Men Cat. 4 9-99
 Place,License #,First,Last,City,State,Time,Team
-1,499504,Evan,BOONE,Fort Huachuca,AZ,,
+1,499504,Evan,BOONE,Sierra Vista,AZ,,
 2,467525,Richard,FARABEE,Queen Creek,AZ,,
 3,273223,Andrew,RANKINE,Phoenix,AZ,,
 4,378211,Gabriel,LANGBAUER,Yuma,AZ,,
@@ -186,8 +186,8 @@ Place,License #,First,Last,City,State,Time,Team
 3,493861,Joshua,WATTS,Phoenix,AZ,,
 4,457030,Rob,DOLLAR,Gilbert,AZ,,
 5,428119,Chris,QUISMORIO,Mesa,AZ,,
-7,107784,Kevin,HARSLEY,Pasadena,CA,,
-8,422930,Scott,JONES,Tempe,AZ,,
+7,107784,Kevin,HARSLEY,Chandler,AZ,,
+8,422930,Scott,JONES,Scottsdale,AZ,,
 9,472730,Stephen,IBANEZ,Phoenix,AZ,,
 10,290623,Joe,ALTOMARE,Tucson,AZ,,
 DNF,353942,Levi,KRAMER,Scottsdale,AZ,,
@@ -245,7 +245,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,392098,Sarah,MUENCH,Phoenix,AZ,,
 3,395508,Shelby,HOGLUND,Tucson,AZ,,
 4,496845,Pearl,DIXON,Tucson,AZ,,
-5,459515,Alissa,ALBRECHT,Tempe,FL,,
+5,459515,Alissa,ALBRECHT,Tempe,AZ,,
 
 03/26/2017 Omnium Women Cat. 2 15-99
 Place,License #,First,Last,City,State,Time,Team
@@ -274,7 +274,7 @@ DNF,423637,Luke,BROCCO,Phoenix,AZ,0:00:00,
 Place,License #,First,Last,City,State,Time,Team
 1,378211,Gabriel,LANGBAUER,Yuma,AZ,0:00:00,
 2,404500,Stephen,BROWN,Phoenix,AZ,0:00:00,
-3,499504,Evan,BOONE,Fort Huachuca,AZ,0:00:00,
+3,499504,Evan,BOONE,Sierra Vista,AZ,0:00:00,
 4,467525,Richard,FARABEE,Queen Creek,AZ,0:00:00,
 5,273223,Andrew,RANKINE,Phoenix,AZ,0:00:00,
 6,303641,Jeffrey,PERRY,Lake Mathews,CA,0:00:00,
@@ -296,10 +296,10 @@ Place,License #,First,Last,City,State,Time,Team
 5,397050,Robert,ALDECOA,Phoenix,AZ,0:00:00,
 6,493861,Joshua,WATTS,Phoenix,AZ,0:00:00,
 7,457030,Rob,DOLLAR,Gilbert,AZ,0:00:00,
-8,107784,Kevin,HARSLEY,Pasadena,CA,0:00:00,
+8,107784,Kevin,HARSLEY,Chandler,AZ,0:00:00,
 9,472730,Stephen,IBANEZ,Phoenix,AZ,0:00:00,
 10,428119,Chris,QUISMORIO,Mesa,AZ,0:00:00,
-11,422930,Scott,JONES,Tempe,AZ,0:00:00,
+11,422930,Scott,JONES,Scottsdale,AZ,0:00:00,
 12,66207,Carl,DALESSANDRO,Yuma,AZ,0:00:00,
 DNF,290623,Joe,ALTOMARE,Tucson,AZ,0:00:00,
 DNF,459553,Taylor,MONNIG,Scottsdale,AZ,0:00:00,
@@ -389,7 +389,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,395508,Shelby,HOGLUND,Tucson,AZ,0:00:00,
 3,392098,Sarah,MUENCH,Phoenix,AZ,0:00:00,
 4,496845,Pearl,DIXON,Tucson,AZ,0:00:00,
-5,459515,Alissa,ALBRECHT,Tempe,FL,0:00:00,
+5,459515,Alissa,ALBRECHT,Tempe,AZ,0:00:00,
 6,301117,Emily,BROWN,Tucson,AZ,0:00:00,
 
 03/25/2017 Criterium Women Cat. 2 45 Minutes 15-99

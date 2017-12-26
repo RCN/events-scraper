@@ -16,23 +16,23 @@ Place,License #,First,Last,City,State,Time,Team
 12,401755,Brice,Brookshire,Elkhart,IN,,Marian University
 13,312130,Trey,Hedgecock,Ankeny,IA,,Belmont Abbey College
 14,337040,Stephan,Hirsch,Oklahoma City,OK,,Marian University
-15,356788,Lucas,Rowton,La Canada Flintridge,CA,,Fort Lewis College
+15,356788,Lucas,Rowton,Durango,CO,,Fort Lewis College
 16,524521,Arne,Egner,Grand Junction,CO,,Colorado Mesa University
 17,385573,Fausto,Crapiz,Dandridge,TN,,King University
 18,466134,Pablo,Cruz,Wichita Falls,TX,,Midwestern State University
 19,347112,Austin,Gomes,Florissant,MO,,Lindenwood University
 20,423626,Nolan,VanderZwaag,Holland,MI,,Lees-McRae College
 21,282067,Ian,McPherson,Boulder,CO,,Fort Lewis College
-22,353190,Alan,Edwards,Jacksonville,FL,,King University
+22,353190,Alan,Edwards,Johnson City,TN,,King University
 23,335050,Ben,Schmutte,Noblesville,IN,,Marian University
 24,516674,paul,wright,Hawea Flat,OT,,Warren Wilson College
 25,178109,Andrew,Scarano,Athens,GA,,Savannah College of Art and Design - Atlanta
-26,308175,Wilman,Vargas,Atlanta ,GA,,Savannah College of Art and Design - Atlanta
+26,308175,Wilman,Vargas,Atlanta,GA,,Savannah College of Art and Design - Atlanta
 27,387328,andrew,GUELZO,Grand Rapids,MI,,Piedmont College
 28,390751,Kyle,Ellis,Cumming,GA,,King University
 29,318688,Thomas,Revard,Carmel,IN,,Marian University
 30,295708,Samuel,Morkal Williams,Briarcliff Manor,NY,,Warren Wilson College
-31,378837,Bill,Ash,Philadelphia,PA,,Midwestern State University
+31,378837,Bill,Ash,New York ,NY,,Midwestern State University
 32,342680,Peter,Behm,Northfield,MN,,Fort Lewis College
 33,298437,Nolan,Tankersley,Erwin ,TN,,King University
 34,457146,Erich,Mesquita Lima,Mars Hill,NC,,Mars Hill University
@@ -59,12 +59,12 @@ Place,License #,First,Last,City,State,Time,Team
 DNF,394179,Gabe,Morgan,Richmond,VA,,Liberty University
 DNF,380332,Cormac,Mcgeough,Carbondale,CO,,Fort Lewis College
 DNF,377930,Nathaniel,Schoonover,Wentzville,MO,,Lindenwood University
-DNF,387921,Alec,Hoover,Kingston ,NY,,Lees-McRae College
+DNF,387921,Alec,Hoover,Ripon,WI,,Lees-McRae College
 DNF,303566,Carlo,Villarreal,Mcallen,TX,,Milligan College
 DNF,428278,Kyle,Tiesler,Pegram,TN,,Milligan College
-DNF,504799,Peter,Foerster,,,,Savannah College of Art and Design - Atlanta
+DNF,504799,Peter,Foerster,Atlanta,GA,,Savannah College of Art and Design - Atlanta
 DNF,207381,Artur,Sagat,Roswell,GA,,Savannah College of Art and Design - Atlanta
-DNF,309018,Keith,Mullaly,Belmont,NC,,Belmont Abbey College
+DNF,309018,Keith,Mullaly,Wethersfield,CT,,Belmont Abbey College
 
 04/30/2017 Criterium Men Division 1 Nationals Crit
 Place,License #,First,Last,City,State,Time,Team
@@ -76,7 +76,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,382065,David,Greif,Tucson,AZ,,University of Arizona
 7,399388,George,Simpson,Fort Collins,CO,,Colorado State University
 8,285991,David,Lombardo,Crystal Lake,IL,,University of Wisconsin- Madison
-9,263035,Andrew,Giniat,Winnetka,IL,,DePaul University
+9,263035,Andrew,Giniat,Asheville,NC,,DePaul University
 10,309840,Josh,PrattFerguson,Orovalley,AZ,,University of Arizona
 11,254433,Daniel,Willett,San Clemente,CA,,US Air Force Academy
 12,235572,Nathaniel,Morse,Cohasset,MA,,Furman University
@@ -85,9 +85,9 @@ Place,License #,First,Last,City,State,Time,Team
 15,375247,Cyrus,Pearo,Denver,CO,,University of Colorado Denver
 16,253153,Scott,Cohen,Davis,CA,,University of California-Davis
 17,263998,Reese,Levine,Orinda,CA,,University of California-Berkeley
-18,403588,Jack,Niewold,Madison,WI,,University of Minnesota-Twin Cities
+18,403588,Jack,Niewold,Minneapolis,MN,,University of Minnesota-Twin Cities
 19,481875,Juan,Duarte,Berkeley,CA,,University of California-Berkeley
-20,456576,Samuel,Boardman,Washington,CA,,University of California-Los Angeles
+20,456576,Samuel,Boardman,Los Angeles,CA,,University of California-Los Angeles
 21,357229,Ian,Whaley,Monroe,CT,,Colorado State University
 22,354166,Benjamin,Spain,Raleigh,NC,,Tulane University of Louisiana
 23,489166,Colin,Patterson,Palo Alto,CA,,California Polytechnic-San Luis Obispo
@@ -114,7 +114,7 @@ Place,License #,First,Last,City,State,Time,Team
 44,365130,Dustin,Denton,Stockton,CA,,University of California-Davis
 45,416940,Leo,Yip,Fremont,CA,,University of California-Davis
 46,394898,Emerson,Glassey,Cambridge,MA,,Massachusetts Institute of Technology
-47,311452,Alec,Cunningham,Cheshire,CT,,University of New Hampshire
+47,311452,Alec,Cunningham,Cape Neddick,ME,,University of New Hampshire
 48,467792,Theo,Floor,Bellingham,WA,,Western Washington University
 49,0,N.N.,64,,,,
 50,442975,Matt,Sloyer,Raleigh,NC,,Appalachian State University
@@ -150,13 +150,13 @@ Place,License #,First,Last,City,State,Time,Team
 80,237283,Joseph,Iuliano,Tucson,AZ,,University of Arizona
 81,310504,Zander,Guzy-Sprague,Walla Walla,WA,,Whitman College
 82,467304,Scott,Coblentz,Frederick,MD,,Shippensburg University of Pennsylvania
-83,416923,Scott,Miller,Kent,WA,,University of Washington-Seattle
+83,416923,Scott,Miller,Layton,UT,,University of Washington-Seattle
 84,313840,James,Pratt,Niles,MI,,University of Notre Dame
 85,460026,Adam,Oster,Lusby,MD,,US Naval Academy
 86,460805,Justin,Bandoro,Medford,MA,,Massachusetts Institute of Technology
 87,415325,Blake,Ollweiler,Denver,CO,,Colorado School of Mines
 88,422186,Keith,Sollers,Davis,CA,,University of California-Davis
-89,422930,Scott,Jones,Tempe,AZ,,Arizona State University
+89,422930,Scott,Jones,Scottsdale,AZ,,Arizona State University
 DNS,431533,derrick,butler,Nazareth,PA,,University of Pennsylvania
 DNS,355158,Andrew,Frank,Helena,MT,,The University of Montana
 DNS,331166,Ben,Bradley,Plaquemine,LA,,Tulane University of Louisiana
@@ -167,7 +167,7 @@ DNF,445064,Hao,Sun,Raleigh,NC,,North Carolina State University at Raleigh
 DNF,278187,Daniel,Svedberg,Woodbury,MN,,University of Minnesota-Twin Cities
 DNF,309471,Rupert,Cox,Emerald Hills,CA,,University of California-Los Angeles
 DNF,428009,Sam,Fritz,Princeton,MN,,University of Minnesota-Duluth
-DNF,455497,Tristan,Manderfeld,Sauk Rapids,MN,,US Military Academy
+DNF,455497,Tristan,Manderfeld,Colorado Springs ,CO,,US Military Academy
 DNF,297235,Kenneth,Englert,Shawnee,KS,,US Military Academy
 DNF,370473,Andrew,Einspanier,Iron River,WI,,University of Wisconsin- Madison
 DNF,407736,Raymond,Lee,San Francisco,CA,,California Polytechnic-San Luis Obispo
@@ -182,7 +182,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,460027,Madison,Kelly,Naples,FL,,Marian University
 5,330960,Ashlyn,Woods,Winston Salem,NC,,Lees-McRae College
 6,288099,Stephanie,Nave,Johnson City,TN,,Milligan College
-7,358569,Janelle,Cole,Rockford,MI,,Brevard College
+7,358569,Janelle,Cole,Newaygo,MI,,Brevard College
 8,515536,Mackenize,Myatt,Atlanta,GA,,Savannah College of Art and Design - Atlanta
 9,326470,Hannah,Arensman,Rutherford College,NC,,Brevard College
 10,526628,Josefine,Dreier,Grand Junction,CO,,Colorado Mesa University
@@ -217,32 +217,32 @@ DNS,524944,Lisa,Neumueller,Savannah,GA,,Savannah College of Art & Design - Savan
 
 04/30/2017 Criterium Women Division 1 Nationals Crit
 Place,License #,First,Last,City,State,Time,Team
-1,496869,Heidi,Franz,Seattle,WA,56:22.1,Seattle University
+1,496869,Heidi,Franz,Kirkland,WA,56:22.1,Seattle University
 2,418082,Erica,Clevenger,Tucson,AZ,56:22.3,University of Arizona
 3,499797,Danielle,Morshead,San Anselmo,CA,56:22.5,Brown University
-4,512762,Lily,Williams,Chicago,IL,56:22.6,Northwestern University
+4,512762,Lily,Williams,Asheville,NC,56:22.6,Northwestern University
 5,494683,Katherine,Nadler,San Diego,CA,56:22.6,University of California-San Diego
 6,334726,Rachel,Geiter,Milwaukie,OR,56:22.7,Stanford University
 7,433301,Samantha,Fox,Philadelphia,PA,56:23.1,Drexel University
-8,220876,Katherine,Shields,Advance,NC,56:23.8,Wake Forest University
-9,441168,Jenna,Stauffer,Highlands Ranch ,CO,56:23.8,University of Denver
+8,220876,Katherine,Shields,Salt Lake City,UT,56:23.8,Wake Forest University
+9,441168,Jenna,Stauffer,Highlands Ranch,CO,56:23.8,University of Denver
 10,314034,Emily,Schaldach,Durango,CO,56:25.1,University of Colorado Boulder
 11,496675,Maddy,Ward,Los Angeles,CA,56:25.7,University of California-Los Angeles
 12,291002,Arielle,Little,Berkeley,CA,56:26.1,University of California-Berkeley
-13,340844,Jennifer,Wilson,Cambridge,MA,56:26.4,Stanford University
+13,340844,Jennifer,Wilson,Los Gatos,CA,56:26.4,Stanford University
 14,414929,Kristina,Vrouwenvelder,Louisville,CO,56:26.9,University of Colorado Boulder
 15,413867,Danielle,Clark,Greenville,SC,56:27.7,Furman University
 16,291367,Claire,vanEkdom,Chevychase,MD,56:28.3,University of California-Los Angeles
 17,409793,Annie,Pharr,Tuxedo,NC,56:28.3,Appalachian State University
 18,492822,Laura,Leaton,Charlottesville,VA,56:28.3,University of Virginia
-19,433105,Brenna,Gibbons,Coon Valley ,WI,56:29.2,University of Wisconsin- Madison
+19,433105,Brenna,Gibbons,Madison,WI,56:29.2,University of Wisconsin- Madison
 20,262057,Joy,Franco,Stanford,CA,56:29.3,Stanford University
 21,523588,Christina,Rigsby,Bryan,TX,56:29.3,Texas A & M University
 22,500046,Megan,Galinat,Boise,ID,56:31.4,Northeastern University
-23,467179,Emma,Edwards,Brookline,MA,56:33.0,Massachusetts Institute of Technology
+23,467179,Emma,Edwards,Cambridge,MA,56:33.0,Massachusetts Institute of Technology
 24,449014,Hayley,Bates,Colorado Springs,CO,56:35.1,Colorado College
 25,408538,Catherine,Culkin,Ann Arbor,MI,56:37.1,University of Michigan-Ann Arbor
-26,429837,Kathryn,Olesnavage,Somerville,MA,56:37.3,Massachusetts Institute of Technology
+26,429837,Kathryn,Olesnavage,Redondo Beach,CA,56:37.3,Massachusetts Institute of Technology
 27,478233,Elizabeth,Huuki,Pipersville,PA,56:39.8,US Military Academy
 28,486344,Lillian,McCormick,Solana Beach,CA,56:39.8,University of California-San Diego
 29,425277,Sarah,Cullen,Northville,MI,56:39.8,University of Notre Dame
@@ -262,7 +262,7 @@ Place,License #,First,Last,City,State,Time,Team
 43,496845,Pearl,Dixon,Tucson,AZ,58:33.7,University of Arizona
 44,362053,Erin,Paradis,Batavia,IL,58:33.8,Colorado State University
 45,469026,Alaina,Yung,Greeley,CO,58:34.7,University of Northern Colorado
-46,459515,Alissa,Albrecht,Tempe,FL,58:34.8,Arizona State University
+46,459515,Alissa,Albrecht,Tempe,AZ,58:34.8,Arizona State University
 47,498735,Anna,Martin,Edwards,CO,58:35.0,University of Denver
 48,460814,Lizzie,Wright,Providence,RI,58:35.4,Rhode Island School of Design
 49,366740,Gina,Turrini,Durham,NC,58:35.6,Duke University
@@ -272,7 +272,7 @@ Place,License #,First,Last,City,State,Time,Team
 DNS,414481,Jennifer,Quijada,Flagstaff,AZ,DNS,Northern Arizona University
 DNS,523756,Sydnee,Hyman,San Diego,CA,DNS,University of California-San Diego
 DNS,422664,Emma,Langley,Richmond ,VA,DNS,College of William and Mary
-DNF,298454,Fiona,Bennitt,Bellevue,WA,DNF,Whitman College
+DNF,298454,Fiona,Bennitt,Walla Walla,WA,DNF,Whitman College
 DNF,424669,Sophia,Andrews,Bend,OR,DNF,University of Oregon
 DNF,359346,Jessica,Bobeck,Albuquerque,NM,DNF,University of Colorado Boulder
 DNF,495801,Tori,Wuthrich,Cambridge,MA,DNF,Massachusetts Institute of Technology
@@ -280,7 +280,7 @@ DNF,241489,Anne,Raymond,Cambridge,MA,DNF,Massachusetts Institute of Technology
 
 04/29/2017 Road Race Men Division 2 Nationals Rr
 Place,License #,First,Last,City,State,Time,Team
-1,267198,Robert,Squire,Sandy,UT,,Westminster College
+1,267198,Robert,Squire,Salt Lake City,UT,,Westminster College
 2,380332,Cormac,Mcgeough,Carbondale,CO,,Fort Lewis College
 3,358808,Jonah,MeadVanCort,Ithaca,NY,,Lindenwood University
 4,382085,Ryan,Trimble,Snohomish,WA,,Western State Colorado University
@@ -289,7 +289,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,390751,Kyle,Ellis,Cumming,GA,,King University
 8,401755,Brice,Brookshire,Elkhart,IN,,Marian University
 9,365258,Brannan,Fix,Fort Collins,CO,,Colorado Mesa University
-10,356788,Lucas,Rowton,La Canada Flintridge,CA,,Fort Lewis College
+10,356788,Lucas,Rowton,Durango,CO,,Fort Lewis College
 11,484364,Andre,Bos,Durango,CO,,Fort Lewis College
 12,267850,Zachary,Nehr,Fox Point,WI,,Marian University
 13,466134,Pablo,Cruz,Wichita Falls,TX,,Midwestern State University
@@ -299,11 +299,11 @@ Place,License #,First,Last,City,State,Time,Team
 17,277433,Zachary,Carlson,Indianapolis,IN,,Marian University
 18,387328,andrew,GUELZO,Grand Rapids,MI,,Piedmont College
 19,385573,Fausto,Crapiz,Dandridge,TN,,King University
-20,504799,Peter,Foerster,,,,Savannah College of Art and Design - Atlanta
-21,387921,Alec,Hoover,Kingston ,NY,,Lees-McRae College
+20,504799,Peter,Foerster,Atlanta,GA,,Savannah College of Art and Design - Atlanta
+21,387921,Alec,Hoover,Ripon,WI,,Lees-McRae College
 22,335050,Ben,Schmutte,Noblesville,IN,,Marian University
 23,388008,Hugo,Scala Jr,Dallas,TX,,Marian University
-24,378837,Bill,Ash,Philadelphia,PA,,Midwestern State University
+24,378837,Bill,Ash,New York ,NY,,Midwestern State University
 25,334610,Sam,Winters,Indianapolis,IN,,Marian University
 26,347112,Austin,Gomes,Florissant,MO,,Lindenwood University
 27,516674,paul,wright,Hawea Flat,OT,,Warren Wilson College
@@ -328,8 +328,8 @@ Place,License #,First,Last,City,State,Time,Team
 46,443547,Josiah,Peterson,Columbia,KY,,Lindsey Wilson College
 DNS,349270,Mitchell,Sides,Magnolia,TX,,Midwestern State University
 DNS,428278,Kyle,Tiesler,Pegram,TN,,Milligan College
-DNS,353190,Alan,Edwards,Jacksonville,FL,,King University
-DNF,271372,Jos,Chalmers,Indian Harbour Beach,FL,,Marian University
+DNS,353190,Alan,Edwards,Johnson City,TN,,King University
+DNF,271372,Jos,Chalmers,Melbourne,FL,,Marian University
 DNF,394179,Gabe,Morgan,Richmond,VA,,Liberty University
 DNF,454615,Ryan,Hopkins,Brandenburg,KY,,Lindsey Wilson College
 DNF,349404,Reece,Oleson,Jordan,MN,,Lindenwood University
@@ -346,10 +346,10 @@ DNF,324900,david,duquette,Gastonia,NC,,Milligan College
 DNF,427611,Samuel,Wentworth,Sugarcreek,OH,,Milligan College
 DNF,207381,Artur,Sagat,Roswell,GA,,Savannah College of Art and Design - Atlanta
 DNF,178109,Andrew,Scarano,Athens,GA,,Savannah College of Art and Design - Atlanta
-DNF,308175,Wilman,Vargas,Atlanta ,GA,,Savannah College of Art and Design - Atlanta
+DNF,308175,Wilman,Vargas,Atlanta,GA,,Savannah College of Art and Design - Atlanta
 DNF,298437,Nolan,Tankersley,Erwin ,TN,,King University
 DNF,312130,Trey,Hedgecock,Ankeny,IA,,Belmont Abbey College
-DNF,309018,Keith,Mullaly,Belmont,NC,,Belmont Abbey College
+DNF,309018,Keith,Mullaly,Wethersfield,CT,,Belmont Abbey College
 
 04/29/2017 Road Race Men Division 1 Nationals Rr
 Place,License #,First,Last,City,State,Time,Team
@@ -361,8 +361,8 @@ Place,License #,First,Last,City,State,Time,Team
 6,254433,Daniel,Willett,San Clemente,CA,,US Air Force Academy
 7,229865,Noah,Granigan,Cape May Court House,NJ,,University of Colorado Boulder
 8,240153,Glenn,Ferreira,Manville,NJ,,University of Delaware
-9,456576,Samuel,Boardman,Washington,CA,,University of California-Los Angeles
-10,403588,Jack,Niewold,Madison,WI,,University of Minnesota-Twin Cities
+9,456576,Samuel,Boardman,Los Angeles,CA,,University of California-Los Angeles
+10,403588,Jack,Niewold,Minneapolis,MN,,University of Minnesota-Twin Cities
 11,309291,Jack,Tanner,Boulder,CO,,University of Colorado Boulder
 12,382065,David,Greif,Tucson,AZ,,University of Arizona
 13,249191,David,Kessler,Boulder,CO,,Rhode Island School of Design
@@ -386,7 +386,7 @@ Place,License #,First,Last,City,State,Time,Team
 31,418177,Eric,Bryan,Los Angeles,CA,,University of California-Los Angeles
 32,422932,Nicholas,Besse,Scotts Valley,CA,,University of California-Santa Barbara
 33,332188,Alex,Kellum,Philadelphia,PA,,University of Pennsylvania
-34,263035,Andrew,Giniat,Winnetka,IL,,DePaul University
+34,263035,Andrew,Giniat,Asheville,NC,,DePaul University
 35,458812,Timothy,Welsh,Seattle,WA,,University of Washington-Seattle
 36,419955,Bryan,Little,Vail,AZ,,University of Arizona
 37,387057,Brady,Reed,Magnolia,TX,,Texas A & M University
@@ -411,23 +411,23 @@ Place,License #,First,Last,City,State,Time,Team
 56,424715,James,Evans,Los Angeles,CA,,Stanford University
 57,466498,Thomas,Brown,Little Rock,AR,,University of Arkansas
 58,422186,Keith,Sollers,Davis,CA,,University of California-Davis
-59,311452,Alec,Cunningham,Cheshire,CT,,University of New Hampshire
+59,311452,Alec,Cunningham,Cape Neddick,ME,,University of New Hampshire
 60,426305,Brian,Alba,Plainsboro,NJ,,Northeastern University
 61,427903,Adam,Ruff,West Point,NY,,US Military Academy
 62,456301,Zach,Hostetler,Stokesdale,NC,,Baylor University
 63,501936,Tyler,Wolfe,Baltimore,MD,,Johns Hopkins University
 64,412456,Josiah,Poler,Spokane,WA,,Eastern Washington University
 65,406377,Brian,Lea,Bartlesville,OK,,University of Arkansas
-66,493748,Benjamen,Shrewsberry,Shippensburg,PA,,Shippensburg University of Pennsylvania
+66,493748,Benjamen,Shrewsberry,Fredericksburg,VA,,Shippensburg University of Pennsylvania
 67,424342,Ben,Rothschild,Atlanta,GA,,Georgia Institute of Technology
-68,448552,Andrew,Scott,Morristown,NJ,,Princeton University
+68,448552,Andrew,Scott,Seal Harbor ,NJ,,Princeton University
 69,106932,Coul,Hill,Billings,MT,,Montana State University
 70,487389,Simon,Lynn,Usaf Academy,CO,,US Air Force Academy
 71,460162,Hoel,Wiesner,Rensselaer,NY,,Duke University
 72,290838,Zachary,Berkow,Bethesda,MD,,Dartmouth College
 73,392836,Justin,Runac,La Jolla,CA,,University of California-San Diego
 74,354166,Benjamin,Spain,Raleigh,NC,,Tulane University of Louisiana
-75,416923,Scott,Miller,Kent,WA,,University of Washington-Seattle
+75,416923,Scott,Miller,Layton,UT,,University of Washington-Seattle
 76,309008,Andrew,Pryhuber,Seattle,WA,,University of Washington-Seattle
 77,379982,Joshua,Spokes,Baltimore,MD,,University of Maryland-College Park
 78,297235,Kenneth,Englert,Shawnee,KS,,US Military Academy
@@ -445,7 +445,7 @@ Place,License #,First,Last,City,State,Time,Team
 90,407736,Raymond,Lee,San Francisco,CA,,California Polytechnic-San Luis Obispo
 91,459350,Jacob,Shupe,Greenwood,IN,,Purdue University
 92,460805,Justin,Bandoro,Medford,MA,,Massachusetts Institute of Technology
-93,422930,Scott,Jones,Tempe,AZ,,Arizona State University
+93,422930,Scott,Jones,Scottsdale,AZ,,Arizona State University
 94,387588,jake,wands,Golden,CO,,Colorado School of Mines
 DNS,311360,Anthony,Pratt,Niles,MI,,University of Notre Dame
 DNS,431533,derrick,butler,Nazareth,PA,,University of Pennsylvania
@@ -453,9 +453,9 @@ DNF,445064,Hao,Sun,Raleigh,NC,,North Carolina State University at Raleigh
 DNF,382221,Chase,Wark,Zimmerman,MN,,University of Minnesota-Twin Cities
 DNF,278187,Daniel,Svedberg,Woodbury,MN,,University of Minnesota-Twin Cities
 DNF,425275,Logan,Grace,Minneapolis,MN,,University of Minnesota-Twin Cities
-DNF,295785,Colin,Catlin,Arden Hills,MN,,University of Minnesota-Twin Cities
+DNF,295785,Colin,Catlin,Saint Paul,MN,,University of Minnesota-Twin Cities
 DNF,313840,James,Pratt,Niles,MI,,University of Notre Dame
-DNF,466208,Darin,Alleman,Newville,PA,,Shippensburg University of Pennsylvania
+DNF,466208,Darin,Alleman,Fredericksburg,VA,,Shippensburg University of Pennsylvania
 DNF,0,N.N.,129,,,,
 DNF,357229,Ian,Whaley,Monroe,CT,,Colorado State University
 DNF,364346,Andrew,Castagneri,Littleton,CO,,Colorado State University
@@ -485,7 +485,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,201838,Laurel,Rathbun,Monument,CO,31:27.th,Marian University
 4,330960,Ashlyn,Woods,Winston Salem,NC,31:27.th,Lees-McRae College
 5,286164,Emma,Swartz,Madison,WI,31:27.th,Marian University
-6,358569,Janelle,Cole,Rockford,MI,31:28.th,Brevard College
+6,358569,Janelle,Cole,Newaygo,MI,31:28.th,Brevard College
 7,460027,Madison,Kelly,Naples,FL,31:29.th,Marian University
 8,432770,Natalia,Franco,Grand Junction,CO,31:29.th,Colorado Mesa University
 9,523767,Annika,Teschke,Saint Charles,MO,33:53.th,Lindenwood University
@@ -525,15 +525,15 @@ DNF,295037,Diana,Ramos,Woodstock,GA,DNF,Milligan College
 04/29/2017 Road Race Women Division 1 Nationals RR
 Place,License #,First,Last,City,State,Time,Team
 1,418082,Erica,Clevenger,Tucson,AZ,30:32.th,University of Arizona
-2,496869,Heidi,Franz,Seattle,WA,30:50.th,Seattle University
-3,512762,Lily,Williams,Chicago,IL,30:56.th,Northwestern University
+2,496869,Heidi,Franz,Kirkland,WA,30:50.th,Seattle University
+3,512762,Lily,Williams,Asheville,NC,30:56.th,Northwestern University
 4,359346,Jessica,Bobeck,Albuquerque,NM,31:43.th,University of Colorado Boulder
 5,449014,Hayley,Bates,Colorado Springs,CO,35:11.th,Colorado College
 6,433301,Samantha,Fox,Philadelphia,PA,35:13.th,Drexel University
-7,433105,Brenna,Gibbons,Coon Valley ,WI,35:13.th,University of Wisconsin- Madison
-8,220876,Katherine,Shields,Advance,NC,35:14.th,Wake Forest University
+7,433105,Brenna,Gibbons,Madison,WI,35:13.th,University of Wisconsin- Madison
+8,220876,Katherine,Shields,Salt Lake City,UT,35:14.th,Wake Forest University
 9,520083,Daniela,Deschamps,Stanford,CA,35:14.th,Stanford University
-10,441168,Jenna,Stauffer,Highlands Ranch ,CO,35:14.th,University of Denver
+10,441168,Jenna,Stauffer,Highlands Ranch,CO,35:14.th,University of Denver
 11,413867,Danielle,Clark,Greenville,SC,35:14.th,Furman University
 12,496675,Maddy,Ward,Los Angeles,CA,35:15.th,University of California-Los Angeles
 13,314034,Emily,Schaldach,Durango,CO,35:15.th,University of Colorado Boulder
@@ -548,8 +548,8 @@ Place,License #,First,Last,City,State,Time,Team
 22,487734,Caitlin,Neuman,Madison,WI,39:17.th,University of Wisconsin- Madison
 23,291002,Arielle,Little,Berkeley,CA,39:37.th,University of California-Berkeley
 24,494683,Katherine,Nadler,San Diego,CA,45:05.th,University of California-San Diego
-25,429837,Kathryn,Olesnavage,Somerville,MA,45:05.th,Massachusetts Institute of Technology
-26,340844,Jennifer,Wilson,Cambridge,MA,45:06.th,Stanford University
+25,429837,Kathryn,Olesnavage,Redondo Beach,CA,45:05.th,Massachusetts Institute of Technology
+26,340844,Jennifer,Wilson,Los Gatos,CA,45:06.th,Stanford University
 27,459225,Patricia,Gonzales,Stanford,CA,45:07.th,Stanford University
 28,523662,Austin,Thompson,Myrtle Beach,SC,46:14.th,Duke University
 29,241489,Anne,Raymond,Cambridge,MA,46:22.th,Massachusetts Institute of Technology
@@ -572,12 +572,12 @@ Place,License #,First,Last,City,State,Time,Team
 46,424669,Sophia,Andrews,Bend,OR,04:33.th,University of Oregon
 47,362053,Erin,Paradis,Batavia,IL,12:44.th,Colorado State University
 48,424443,Madeleine,Hanley,Lebanon,NJ,16:43.th,Colorado School of Mines
-49,459515,Alissa,Albrecht,Tempe,FL,17:20.th,Arizona State University
+49,459515,Alissa,Albrecht,Tempe,AZ,17:20.th,Arizona State University
 50,428382,Amanda,Calvird,Knoxville,TN,36:37.th,The University of Tennessee
 DNS,425277,Sarah,Cullen,Northville,MI,DNS,University of Notre Dame
 DNF,422664,Emma,Langley,Richmond ,VA,DNF,College of William and Mary
 DNF,523756,Sydnee,Hyman,San Diego,CA,DNF,University of California-San Diego
-DNF,467179,Emma,Edwards,Brookline,MA,DNF,Massachusetts Institute of Technology
+DNF,467179,Emma,Edwards,Cambridge,MA,DNF,Massachusetts Institute of Technology
 DNF,414481,Jennifer,Quijada,Flagstaff,AZ,DNF,Northern Arizona University
 DNF,496845,Pearl,Dixon,Tucson,AZ,DNF,University of Arizona
 DNF,395508,Shelby,Hoglund,Tucson,AZ,DNF,University of Arizona
@@ -585,7 +585,7 @@ DNF,469026,Alaina,Yung,Greeley,CO,DNF,University of Northern Colorado
 DNF,492822,Laura,Leaton,Charlottesville,VA,DNF,University of Virginia
 DNF,496861,Rachel,Parker,Annapolis,MD,DNF,US Naval Academy
 DNF,423846,Erin,Thamm,Annapolis,MD,DNF,US Naval Academy
-DNF,298454,Fiona,Bennitt,Bellevue,WA,DNF,Whitman College
+DNF,298454,Fiona,Bennitt,Walla Walla,WA,DNF,Whitman College
 
 04/28/2017 Time Trial Men Division 1 Collegiate
 Place,License #,First,Last,City,State,Time,Team
@@ -595,7 +595,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,375247,Cyrus,Pearo,Denver,CO,34:30.th,University of Colorado Denver
 5,249191,David,Kessler,Boulder,CO,35:00.th,Rhode Island School of Design
 6,331166,Ben,Bradley,Plaquemine,LA,35:43.th,Tulane University of Louisiana
-7,295785,Colin,Catlin,Arden Hills,MN,35:51.th,University of Minnesota-Twin Cities
+7,295785,Colin,Catlin,Saint Paul,MN,35:51.th,University of Minnesota-Twin Cities
 8,309840,Josh,PrattFerguson,Orovalley,AZ,35:58.th,University of Arizona
 9,387057,Brady,Reed,Magnolia,TX,36:08.th,Texas A & M University
 10,460162,Hoel,Wiesner,Rensselaer,NY,36:10.th,Duke University
@@ -613,22 +613,22 @@ Place,License #,First,Last,City,State,Time,Team
 22,467304,Scott,Coblentz,Frederick,MD,37:58.th,Shippensburg University of Pennsylvania
 23,310212,Zachary,Isaacs,Oakland,CA,37:59.th,Dartmouth College
 24,366496,Nikita,Lindgren,Tucson,AZ,38:14.th,University of Arizona
-25,448552,Andrew,Scott,Morristown,NJ,38:18.th,Princeton University
-26,493748,Benjamen,Shrewsberry,Shippensburg,PA,38:29.th,Shippensburg University of Pennsylvania
+25,448552,Andrew,Scott,Seal Harbor ,NJ,38:18.th,Princeton University
+26,493748,Benjamen,Shrewsberry,Fredericksburg,VA,38:29.th,Shippensburg University of Pennsylvania
 27,424342,Ben,Rothschild,Atlanta,GA,38:33.th,Georgia Institute of Technology
 28,394505,Castle,Gay,Tucson,AZ,38:37.th,University of Arizona
 29,290838,Zachary,Berkow,Bethesda,MD,38:45.th,Dartmouth College
 30,277170,Joseph,Tarnowski,Milwaukee,WI,38:51.th,University of Wisconsin- Madison
 31,460805,Justin,Bandoro,Medford,MA,38:52.th,Massachusetts Institute of Technology
 32,354166,Benjamin,Spain,Raleigh,NC,38:56.th,Tulane University of Louisiana
-33,455497,Tristan,Manderfeld,Sauk Rapids,MN,38:58.th,US Military Academy
+33,455497,Tristan,Manderfeld,Colorado Springs ,CO,38:58.th,US Military Academy
 34,459350,Jacob,Shupe,Greenwood,IN,39:02.th,Purdue University
 35,460469,Evan,Schmit,Harrisonbrug,VA,39:05.th,James Madison University
 36,501936,Tyler,Wolfe,Baltimore,MD,39:06.th,Johns Hopkins University
 37,456301,Zach,Hostetler,Stokesdale,NC,39:27.th,Baylor University
 38,481937,Alexander,Gilliam,Richmond,VA,39:50.th,College of William and Mary
 39,299528,Remy,CantoAdams,Windsor,CA,40:08.th,California Polytechnic-San Luis Obispo
-40,466208,Darin,Alleman,Newville,PA,40:16.th,Shippensburg University of Pennsylvania
+40,466208,Darin,Alleman,Fredericksburg,VA,40:16.th,Shippensburg University of Pennsylvania
 41,324476,Luis,Leme,Mc Lean,VA,40:33.th,Virginia Polytechnic University
 42,429496,Alex,Mahlandt,Frederick,MD,40:41.th,University of Maryland-College Park
 43,217427,David,Miller,Stanford,CA,42:36.th,Stanford University
@@ -639,24 +639,24 @@ DNS,207381,Artur,Sagat,Roswell,GA,DNS,Savannah College of Art and Design - Atlan
 
 04/28/2017 Time Trial Women Division 2 Collegiate
 Place,License #,First,Last,City,State,Time,Team
-1,358569,Janelle,Cole,Rockford,MI,41:35.th,Brevard College
+1,358569,Janelle,Cole,Newaygo,MI,41:35.th,Brevard College
 2,326470,Hannah,Arensman,Rutherford College,NC,42:15.th,Brevard College
 3,515536,Mackenize,Myatt,Atlanta,GA,43:00.th,Savannah College of Art and Design - Atlanta
 4,477193,Keren,Wallace,Gunnison,CO,47:33.th,Western State Colorado University
 
 04/28/2017 Time Trial Women Division 1 Collegiate
 Place,License #,First,Last,City,State,Time,Team
-1,496869,Heidi,Franz,Seattle,WA,39:38.th,Seattle University
+1,496869,Heidi,Franz,Kirkland,WA,39:38.th,Seattle University
 2,418082,Erica,Clevenger,Tucson,AZ,40:06.th,University of Arizona
 3,499797,Danielle,Morshead,San Anselmo,CA,40:23.th,Brown University
-4,512762,Lily,Williams,Chicago,IL,40:42.th,Northwestern University
+4,512762,Lily,Williams,Asheville,NC,40:42.th,Northwestern University
 5,520083,Daniela,Deschamps,Stanford,CA,40:43.th,Stanford University
-6,220876,Katherine,Shields,Advance,NC,41:03.th,Wake Forest University
+6,220876,Katherine,Shields,Salt Lake City,UT,41:03.th,Wake Forest University
 7,478233,Elizabeth,Huuki,Pipersville,PA,41:42.th,US Military Academy
 8,496675,Maddy,Ward,Los Angeles,CA,42:17.th,University of California-Los Angeles
-9,298454,Fiona,Bennitt,Bellevue,WA,42:19.th,Whitman College
+9,298454,Fiona,Bennitt,Walla Walla,WA,42:19.th,Whitman College
 10,486111,Monte,Ho,West Point,NY,42:41.th,US Military Academy
-11,441168,Jenna,Stauffer,Highlands Ranch ,CO,42:48.th,University of Denver
+11,441168,Jenna,Stauffer,Highlands Ranch,CO,42:48.th,University of Denver
 12,500046,Megan,Galinat,Boise,ID,43:51.th,Northeastern University
 13,474089,Elisa,Woody,Albuquerque,NM,43:56.th,University of New Mexico
 14,523662,Austin,Thompson,Myrtle Beach,SC,44:12.th,Duke University
@@ -672,10 +672,10 @@ DNF,291367,Claire,vanEkdom,Chevychase,MD,DNF,University of California-Los Angele
 04/28/2017 Time Trial  Division 2 Collegiate
 Place,License #,First,Last,City,State,Time,Team
 1,267850,Zachary,Nehr,Fox Point,WI,35:16.th,Marian University
-2,308175,Wilman,Vargas,Atlanta ,GA,36:14.th,Savannah College of Art and Design - Atlanta
+2,308175,Wilman,Vargas,Atlanta,GA,36:14.th,Savannah College of Art and Design - Atlanta
 3,330752,Clayton,Stone,Anthem,AZ,36:47.th,Savannah College of Art & Design - Savannah
 4,382085,Ryan,Trimble,Snohomish,WA,37:03.th,Western State Colorado University
-5,504799,Peter,Foerster,,,37:05.th,Savannah College of Art and Design - Atlanta
+5,504799,Peter,Foerster,Atlanta,GA,37:05.th,Savannah College of Art and Design - Atlanta
 6,473444,Grant,Gipson,Leadville,CO,37:11.th,Western State Colorado University
 7,178109,Andrew,Scarano,Athens,GA,37:35.th,Savannah College of Art and Design - Atlanta
 8,413738,Mark,Johnson,Englewood,CO,39:43.th,Adams State University

@@ -41,7 +41,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 09/03/2017 Cross Country Men Cat 2 40-49
 Place,License #,First,Last,City,State,Time,Team
-1,184716,Joseph,Manuel,Lake Charles ,LA,,
+1,184716,Joseph,Manuel,Lake Charles,LA,,
 2,112214,Eric,Heyl,Destrehan,LA,,NOMAMBO/EASTBANK
 3,378543,Duane,Misko,Biloxi,MS,,
 4,526717,David,Tufts,Seminary,MS,,
@@ -52,13 +52,13 @@ Place,License #,First,Last,City,State,Time,Team
 
 09/03/2017 Cross Country Men Cat 2 50+
 Place,License #,First,Last,City,State,Time,Team
-0,388960,Jack,Porter,Flowood,MS,,
 1,298309,Joseph,Hall,Madison,MS,,Indian Cycle Racing
-2,418154,Chris,VanWay,Carencro,LA,,
+2,461956,Chris,VanWay,Carencro,LA,,
 3,502024,Todd,Stacey,Saraland,AL,,SAMMBA
 4,429174,Eric,Louque,Lutcher,LA,,NOMAMBO/Eastbank
 5,157083,Mark,Murphy,Biloxi,MS,,NOMAMBO/Eastbank
 6,122726,Rusty,Bernard,Mandeville,LA,,
+7,388960,Jack,Porter,Flowood,MS,,Racing Revolution
 
 09/03/2017 Cross Country Men Cat 1 19-39
 Place,License #,First,Last,City,State,Time,Team
@@ -73,12 +73,12 @@ Place,License #,First,Last,City,State,Time,Team
 2,29067,Bryan,Ralston,Semmes,AL,,
 3,144079,Jeremy,Polk,Madison,MS,,Racing Revolution
 4,401131,Matthew,Perkins,Ridgeland,MS,,Indian Cycle Racing
-DNF,23958,Girard,Melancon,Baton Rouge ,LA,,NOMAMBO/EASTBANK
+DNF,23958,Girard,Melancon,Baton Rouge,LA,,NOMAMBO/EASTBANK
 
 09/03/2017 Cross Country Men Junior 9-18
 Place,License #,First,Last,City,State,Time,Team
 1,0,Cody,Hiatt,,,,
-2,530206,Landen,Brookshire,Clinton,MS,,
+2,545455,Landen,Brookshire,Clinton,MS,,
 3,530203,Layne,Presley,Clinton,MS,,The Bike Crossing
 4,530262,Lawson,Presley,Clinton,MS,,
 

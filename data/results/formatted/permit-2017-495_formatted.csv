@@ -29,7 +29,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,418469,Caiden,PLUMMER,Tucson,AZ,0:00:00,
 2,468720,Grady,FOWLER,Albuquerque,NM,0:00:00,
-3,422930,Scott,JONES,Tempe,AZ,0:00:00,
+3,422930,Scott,JONES,Scottsdale,AZ,0:00:00,
 4,53480,Randy,BRADFORD,Albuquerque,NM,0:00:00,
 5,459076,Sam,RIESS,Phoenix,AZ,0:00:00,
 6,493869,Carl,PATTERSON-MARKOWITZ,Tucson,AZ,0:00:00,
@@ -49,7 +49,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,428440,Kenneth,STARCKE,Tucson,AZ,0:00:00,
 2,466441,Steven,LONG,Vail,AZ,0:00:00,
 3,49587,Joe,PUCHI,Tubac,AZ,0:00:00,
-4,245777,Steven,BORER,Show Low,AZ,0:00:00,
+4,245777,Steven,BORER,Laguna Hills,CA,0:00:00,
 5,257573,Stuart,CARTER,Sierra Vista,AZ,0:00:00,
 DNS,192527,Ted,FROHLING,Tucson,AZ,0:00:00,
 
@@ -67,12 +67,12 @@ DNS,247766,Jim,HOLBROOK,Peoria,AZ,0:00:00,
 Place,License #,First,Last,City,State,Time,Team
 1,522301,Ellie,WOOD,Tucson,AZ,0:00:00,
 2,395508,Shelby,HOGLUND,Tucson,AZ,0:00:00,
-3,459515,Alissa,ALBRECHT,Tempe,FL,0:00:00,
+3,459515,Alissa,ALBRECHT,Tempe,AZ,0:00:00,
 
 05/06/2017 Criterium Women Cat. 3/4 30 Minutes 13-99
 Place,License #,First,Last,City,State,Time,Team
 1,395508,Shelby,HOGLUND,Tucson,AZ,0:00:00,
-2,459515,Alissa,ALBRECHT,Tempe,FL,0:00:00,
+2,459515,Alissa,ALBRECHT,Tempe,AZ,0:00:00,
 
 05/06/2017 Criterium Women Cat. 1/2/3/4/5 Masters 35 Minutes 35-99
 Place,License #,First,Last,City,State,Time,Team
@@ -107,7 +107,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,418469,Caiden,PLUMMER,Tucson,AZ,0:00:00,
 2,468720,Grady,FOWLER,Albuquerque,NM,0:00:00,
 3,53480,Randy,BRADFORD,Albuquerque,NM,0:00:00,
-4,422930,Scott,JONES,Tempe,AZ,0:00:00,
+4,422930,Scott,JONES,Scottsdale,AZ,0:00:00,
 
 05/06/2017 Omnium Men Cat. 1/2/3/4/5 Juniors 30 Minutes 13-14
 Place,License #,First,Last,City,State,Time,Team
@@ -122,7 +122,7 @@ Place,License #,First,Last,City,State,Time,Team
 05/06/2017 Omnium Men Cat. 1/2/3/4/5 Masters 35 Minutes 65-99
 Place,License #,First,Last,City,State,Time,Team
 1,466441,Steven,LONG,Vail,AZ,0:00:00,
-2,245777,Steven,BORER,Show Low,AZ,0:00:00,
+2,245777,Steven,BORER,Laguna Hills,CA,0:00:00,
 3,428440,Kenneth,STARCKE,Tucson,AZ,0:00:00,
 4,49587,Joe,PUCHI,Tubac,AZ,0:00:00,
 DNF,257573,Stuart,CARTER,Sierra Vista,AZ,0:00:00,
@@ -140,7 +140,7 @@ DNF,247766,Jim,HOLBROOK,Peoria,AZ,0:00:00,
 Place,License #,First,Last,City,State,Time,Team
 1,395508,Shelby,HOGLUND,Tucson,AZ,0:00:00,
 2,522301,Ellie,WOOD,Tucson,AZ,0:00:00,
-3,459515,Alissa,ALBRECHT,Tempe,FL,0:00:00,
+3,459515,Alissa,ALBRECHT,Tempe,AZ,0:00:00,
 
 05/06/2017 Omnium Women Cat. 1/2/3/4/5 Masters 35 Minutes 35-99
 Place,License #,First,Last,City,State,Time,Team
@@ -200,7 +200,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,402570,Taylor,BENSON,Fruit Heights,UT,3:29:44,
 7,420173,Lucien,FUERTES,Tucson,AZ,3:30:21,
 8,394881,Lynn,ORCHARD,Tucson,AZ,3:34:32,
-9,422930,Scott,JONES,Tempe,AZ,3:48:34,
+9,422930,Scott,JONES,Scottsdale,AZ,3:48:34,
 
 05/06/2017 Road Race Men Cat. 1/2/3/4/5 Hand Cycles 25 Miles -
 Place,License #,First,Last,City,State,Time,Team
@@ -217,7 +217,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,457165,Izaac,ADAMS,Tucson,AZ,1:20:46,
 4,423637,Luke,BROCCO,Phoenix,AZ,1:20:46,
 5,496843,Myles,WALKER,Tucson,AZ,1:22:30,
-6,470443,Adrian,DEL BLANCO,Chandler,AZ,1:32:10,
+6,470443,Adrian,DEL BLANCO,Phoenix,AZ,1:32:10,
 
 05/06/2017 Road Race Men Cat. 1/2/3/4/5 Juniors 50 Miles 15-16
 Place,License #,First,Last,City,State,Time,Team
@@ -255,7 +255,7 @@ Place,License #,First,Last,City,State,Time,Team
 05/06/2017 Road Race Men Cat. 1/2/3/4/5 Masters 50 Miles 65-99
 Place,License #,First,Last,City,State,Time,Team
 1,466441,Steven,LONG,Vail,AZ,2:26:27,
-2,245777,Steven,BORER,Show Low,AZ,2:26:27,
+2,245777,Steven,BORER,Laguna Hills,CA,2:26:27,
 3,49587,Joe,PUCHI,Tubac,AZ,2:29:21,
 4,428440,Kenneth,STARCKE,Tucson,AZ,2:31:46,
 5,113000,Craig,LIMING,Hereford,AZ,2:39:06,
@@ -294,7 +294,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,395508,Shelby,HOGLUND,Tucson,AZ,3:52:27,
 2,522301,Ellie,WOOD,Tucson,AZ,4:08:32,
-3,459515,Alissa,ALBRECHT,Tempe,FL,4:26:04,
+3,459515,Alissa,ALBRECHT,Tempe,AZ,4:26:04,
 
 05/06/2017 Road Race Women Cat. 4/5 25 Miles -
 Place,License #,First,Last,City,State,Time,Team

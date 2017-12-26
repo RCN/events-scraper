@@ -11,7 +11,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,349850,James,Price,Chapel Hill,NC,,
 8,531991,Bryan,Launer,Raleigh,NC,,
 9,497343,Braxton,Wilson,Raleigh,NC,,
-10,531471,Paige,Bower,Wake Forest,NC,,
+10,531471,Paige,Bower,Raleigh,NC,,
 11,535485,Kira,Michaels,Wake Forest,NC,,
 12,524067,Matt,Thacker,Youngsville,NC,,
 13,392934,Jacob,Eisner,Chapel Hill,NC,,
@@ -54,7 +54,7 @@ DNF,413987,Gregory,Jones,Wake Forest,NC,,
 
 06/28/2017 Criterium Men Cat 4/5
 Place,License #,First,Last,City,State,Time,Team
-1,361447,Jason,Biggs,Cary,NC,,Jigawatt Cycling
+1,361447,Jason,Biggs,Raleigh,NC,,Jigawatt Cycling
 2,314226,Robbie,Morris,Blairs,VA,,
 3,392934,Jacob,Eisner,Chapel Hill,NC,,Constellation Cycling
 4,349850,James,Price,Chapel Hill,NC,,Tri-Cyclists BRC
@@ -65,8 +65,8 @@ Place,License #,First,Last,City,State,Time,Team
 9,524067,Matt,Thacker,Youngsville,NC,,Team Spoke Cycles
 10,395229,Danielle,Baker,Durham,NC,,SpokesWomen Syndicate Inc.
 11,115416,Jason,Epstein,Raleigh,NC,,12th State Cycling
-12,524321,Shea,Stepusin,Raleigh,NC,,RevolutionCycleSports p/b Lonerider Br
-13,531471,Paige,Bower,Wake Forest,NC,,Team Spoke Cycles
+12,524321,Shea,Stepusin,Oxford,NC,,RevolutionCycleSports p/b Lonerider Br
+13,531471,Paige,Bower,Raleigh,NC,,Team Spoke Cycles
 14,266207,William,Bauman,Raleigh,NC,,Team Spoke Cycles
 15,426832,Noel,Nunkovich,Chapel Hill,NC,,
 16,378574,Joshua,Eisner,Chapel Hill,NC,,Constellation Cycling
@@ -77,11 +77,11 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,413987,Gregory,Jones,Wake Forest,NC,,The Electric Banana Cycling Project p/b FSC Racing
 2,403766,Chris,Scallion,Durham,NC,,Jigawatt Cycling
-3,418380,Ryan,Hayden,Wake Forest ,NC,,The Electric Banana Cycling Project p/b FSC Racing
+3,418380,Ryan,Hayden,Wake Forest,NC,,The Electric Banana Cycling Project p/b FSC Racing
 4,155616,Curtis,Staples,Apex,NC,,Jigawatt Cycling
 5,134974,Elliot,Marks,Mebane,NC,,The Electric Banana Cycling Project p/b FSC Racing
 6,349850,James,Price,Chapel Hill,NC,,Tri-Cyclists BRC
-7,361447,Jason,Biggs,Cary,NC,,Jigawatt Cycling
+7,361447,Jason,Biggs,Raleigh,NC,,Jigawatt Cycling
 8,445064,Hao,Sun,Raleigh,NC,,Cyclus Sports
 9,53029,Joel,Eisner,Chapel Hill,NC,,Constellation Cycling
 10,350752,Robert,Bickerstaffe,Wake Forest,NC,,Team Spoke Cycles
@@ -95,7 +95,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,338866,Dariusz,Tyborowski,Zebulon,NC,,Team Spoke Cycles
 2,128133,Brian,Attis,Chapel Hill,NC,,The Electric Banana Cycling Project p/b FSC Racing
 3,354786,Dylan,Lawson,Fayetteville,NC,,Cyclus Sports
-4,281804,William,Guillen,Youngsville,NC,,Finish Strong
+4,281804,William,Guillen,Wake Forest,NC,,Finish Strong
 5,440072,Alex,Winnicki,Greensboro,NC,,Cyclus Sports
 6,403766,Chris,Scallion,Durham,NC,,Jigawatt Cycling
 7,413987,Gregory,Jones,Wake Forest,NC,,The Electric Banana Cycling Project p/b FSC Racing
@@ -107,9 +107,9 @@ DNF,155616,Curtis,Staples,Apex,NC,,Jigawatt Cycling
 Place,License #,First,Last,City,State,Time,Team
 1,233189,Will,McDaniel,Raleigh,NC,,Jigawatt Cycling
 2,216162,James,Duff,Carrboro,NC,,The Electric Banana Cycling Project p/b FSC Racing
-3,361447,Jason,Biggs,Cary,NC,,Jigawatt Cycling
+3,361447,Jason,Biggs,Raleigh,NC,,Jigawatt Cycling
 4,526358,Paul,Davis,Durham,NC,,
-5,90455,Chris,Kearnes,Wake Forest ,NC,,Team Spoke Cycles
+5,90455,Chris,Kearnes,Wake Forest,NC,,Team Spoke Cycles
 6,252386,Bill,Langston,Chapel Hill,NC,,Triangle Velo
 7,433237,John Paul,Amalong,Chapel Hill,NC,,Constellation Cycling
 8,121604,Harold,Overman,Cary,NC,,Jigawatt Cycling
@@ -132,11 +132,11 @@ Place,License #,First,Last,City,State,Time,Team
 4,233189,Will,McDaniel,Raleigh,NC,,Jigawatt Cycling
 5,413987,Gregory,Jones,Wake Forest,NC,,Jigawatt Cycling
 6,2962,John,Baxter,Raleigh,NC,,Constellation Cycling
-7,272071,Wheeler,Davis,Athens,GA,,Team Novo Nordisk Juniors
+7,272071,Wheeler,Davis,Raleigh,NC,,Team Novo Nordisk Juniors
 8,403766,Chris,Scallion,Durham,NC,,Jigawatt Cycling
 9,493150,jules,van kempen,Chapel Hill,NC,,Tri-Cyclists BRC
 10,311717,Hugo,Schreur,Chapel Hill,NC,,Dornier Racing
-11,361447,Jason,Biggs,Cary,NC,,Jigawatt Cycling
+11,361447,Jason,Biggs,Raleigh,NC,,Jigawatt Cycling
 12,27256,David,Parker,Chapel Hill,NC,,The Electric Banana Cycling Project p/b FSC Racing
 13,216162,James,Duff,Carrboro,NC,,The Electric Banana Cycling Project p/b FSC Racing
 14,134974,Elliot,Marks,Mebane,NC,,The Electric Banana Cycling Project p/b FSC Racing
@@ -167,7 +167,7 @@ DNF,311717,Hugo,Schreur,Chapel Hill,NC,,Dornier Racing
 05/31/2017 Criterium Women Cat 1/2/3/4
 Place,License #,First,Last,City,State,Time,Team
 1,395229,Danielle,Baker,Durham,NC,,SpokesWomen Syndicate Inc.
-2,531471,Paige,Bower,Wake Forest,NC,,Team Spoke Cycles
+2,531471,Paige,Bower,Raleigh,NC,,Team Spoke Cycles
 3,523609,Lauren,Phillips,Raleigh,NC,,
 4,0,Kiva,Michacis,,,,
 5,320800,Amanda,Gallagher,Durham,NC,,Triangle Velo
@@ -186,7 +186,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,314226,Robbie,Morris,Blairs,VA,,
 10,474247,Gerg,Hohn,Chapel Hill,NC,,Triangle Velo
 11,419399,Brian,Funk,Knightdale,NC,,Team Spoke Cycles
-12,431253,Gustavo,Marin,Clayton,NC,,Constellation Cycling
+12,431253,Gustavo,Marin,Asheville,NC,,Constellation Cycling
 13,406255,John,Dina,Wake Forest,NC,,Team Spoke Cycles
 14,141963,Jeff,Ostrander,Roanoke,VA,,
 15,497343,Brazton,Wilson,Raleigh,NC,,
@@ -208,7 +208,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,59460,Noah,Byrd,Durham,NC,,The Electric Banana Cycling Project p/b FSC Racing
 8,2962,John,Baxter,Raleigh,NC,,Constellation Cycling
 9,134974,Elliot,Marks,Mebane,NC,,The Electric Banana Cycling Project p/b FSC Racing
-10,431253,Gustavo,Marin,Clayton,NC,,Constellation Cycling
+10,431253,Gustavo,Marin,Asheville,NC,,Constellation Cycling
 11,433237,John,Amalong,Chapel Hill,NC,,Constellation Cycling
 12,166834,Greg,Robitaille,Raleigh,NC,,Team Audi Cary
 13,457561,David,Rieder,Raleigh,NC,,Jigawatt Cycling
@@ -218,7 +218,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,474247,Greg,Hohn,Chapel Hill,NC,,Triangle Velo
 18,478105,Lucas,Rugani,Durham,NC,,
 19,395229,Danielle,Baker,Durham,NC,,SpokesWomen Syndicate Inc.
-20,418380,Ryan,Hayden,Wake Forest ,NC,,The Electric Banana Cycling Project p/b FSC Racing
+20,418380,Ryan,Hayden,Wake Forest,NC,,The Electric Banana Cycling Project p/b FSC Racing
 21,47665,Stefan,Rogers,Hillsborough,NC,,The Electric Banana Cycling Project p/b FSC Racing
 22,155616,Curtis,Staples,Apex,NC,,Jigawatt Cycling
 23,349850,James,Price,Chapel Hill,NC,,Tri-Cyclists BRC
@@ -241,7 +241,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,59460,Noah,Byrd,Durham,NC,,The Electric Banana Cycling Project p/b FSC Racing
 DNF,155616,Curtis,Staples,Apex,NC,,Jigawatt Cycling
 DNF,2962,John,Baxter,Raleigh,NC,,Constellation Cycling
-DNF,418380,Ryan,Hayden,Wake Forest ,NC,,The Electric Banana Cycling Project p/b FSC Racing
+DNF,418380,Ryan,Hayden,Wake Forest,NC,,The Electric Banana Cycling Project p/b FSC Racing
 DNF,40606,Christopher,Zieman,Chapel Hill,NC,,The Electric Banana Cycling Project p/b FSC Racing
 DNF,309574,John,Gracely,Durham,NC,,
 
@@ -249,9 +249,9 @@ DNF,309574,John,Gracely,Durham,NC,,
 Place,License #,First,Last,City,State,Time,Team
 1,526358,Paul,Davis,Durham,NC,,
 2,433237,John Paul,Amalong,Chapel Hill,NC,,
-3,90455,Chris,Kearnes,Wake Forest ,NC,,
+3,90455,Chris,Kearnes,Wake Forest,NC,,
 4,478105,Lucas,Rugani,Durham,NC,,
-5,431253,Gustavo,Marin,Clayton,NC,,
+5,431253,Gustavo,Marin,Asheville,NC,,
 6,349850,James,Price,Chapel Hill,NC,,
 7,395229,Danielle,Baker,Durham,NC,,
 8,524067,Matt,Thacker,Youngsville,NC,,
@@ -278,7 +278,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,478105,Lucas,Rugani,Durham,NC,,
 7,517522,David,Parker,Chapel Hill,NC,,
 8,121604,Harold,Overman,Cary,NC,,
-9,431253,Gustavo,Marin,Clayton,NC,,
+9,431253,Gustavo,Marin,Asheville,NC,,
 10,155616,Curtis,Staples,Apex,NC,,
 11,395229,Danielle,Baker,Durham,NC,,
 12,134974,Elliot,Marks,Mebane,NC,,
@@ -305,7 +305,7 @@ DNF,155616,Curtis,Staples,Apex,NC,,
 04/19/2017 Criterium Men Cat 4/5
 Place,License #,First,Last,City,State,Time,Team
 1,481007,Henrick,Kragerup,Raleigh,NC,,Jigawatt Cycling
-2,90455,Christopher,Kearnes,Wake Forest ,NC,,
+2,90455,Christopher,Kearnes,Wake Forest,NC,,
 3,526358,Paul,Davis,Durham,NC,,
 4,478105,Lucas,Rugani,Durham,NC,,
 5,349850,James,Price,Chapel Hill,NC,,Tri-Cyclists BRC

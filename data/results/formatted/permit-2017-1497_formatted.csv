@@ -78,7 +78,7 @@ DNS,478502,Mike,Kuhl,Centerton,AR,,
 DNS,497324,Rodney,Mitchell,Jenks,OK,,
 DNF,490700,Raul,Galicia,Lowell,AR,,
 DNF,538200,Layton,McCoy,Centerton,AR,,
-DNF,537039,Sebastian,Gomila,Bentonville,AR,,
+DNF,537039,Sebastian,Gomila,Centerton,AR,,
 
 07/30/2017 Road Race Men Cat 4 Open Open
 Place,License #,First,Last,City,State,Time,Team
@@ -89,7 +89,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,426804,Jason,Holland,Broken Arrow,OK,,
 6,416296,Isaac,Vanderhoff,Centerton,AR,,
 7,407002,Andrew,Nelson,Lonsdale,AR,,
-8,268618,Jaime,Cancel,Fort Smith,AR,,
+8,268618,Jaime,Cancel,Queen Creek,AZ,,
 9,454014,Stephen,Sabo,Springdale,AR,,
 10,400603,Austin,Dixon,Fayetteville,AR,,
 11,481390,Seth,Norton,Conway,AR,,
@@ -154,7 +154,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,484457,Jessica,Brooks,Fayetteville,AR,,
 2,471827,Katy,Simmons,Little Rock,AR,,
-3,506931,Finn,Taylor,Tulsa,OK,,
+3,506931,Finn,Taylor,Fayetteville,AR,,
 4,397724,Casandra,Dickerson,Tulsa,OK,,
 5,300761,Barbara,Mariani,Littlerock,AR,,
 6,441079,Madison,Gramling,Prairie Grove,AR,,
@@ -164,7 +164,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,531544,Susan,Hubbard,Springdale,AR,,
 2,528313,Sedona,Emde,Jenks,OK,,
 3,0,Theresa,Yorek,,,,
-4,302765,Kari,Bloom,Tulsa,OK,,
+4,302765,Kari,Bloom,Tulsa ,OK,,
 5,494604,Pamela,Mitchell,Jenks,OK,,
 DNS,530088,Esthela,Casale,Muskogee,OK,,
 DNS,334550,Suzanne,Clayton,Fort Smith,AR,,
@@ -308,5 +308,5 @@ Place,License #,First,Last,City,State,Time,Team
 07/29/2017 Road Race Women Cat 1/2/3/4/5 Open Open
 Place,License #,First,Last,City,State,Time,Team
 1,513027,Leah,Thorvilson,Little Rock,AR,,
-2,506931,Finn,Taylor,Tulsa,OK,,
+2,506931,Finn,Taylor,Fayetteville,AR,,
 3,499581,Leigh Ann,Fields,Tulsa,OK,,

@@ -37,7 +37,7 @@ Place,License #,First,Last,City,State,Time,Team
 05/13/2017 Time Trial Men Masters 65-69 Male Masters Masters 65
 Place,License #,First,Last,City,State,Time,Team
 1,218677,Steve,TREINEN,San Tan Valley,AZ,,
-2,245777,Steven,BORER,Show Low,AZ,,
+2,245777,Steven,BORER,Laguna Hills,CA,,
 3,138136,Steve,FAHRNER,Chandler,AZ,,
 DNS,228497,Homayoon,FARSI,Scottsdale,AZ,,
 DNS,466441,Steven,LONG,Vail,AZ,,
@@ -78,7 +78,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/13/2017 Time Trial Men Masters 45-49 Male Masters
 Place,License #,First,Last,City,State,Time,Team
-1,71063,Matt,MCWHIRTER,Scottsdale ,AZ,,
+1,71063,Matt,MCWHIRTER,Scottsdale,AZ,,
 3,247766,Jim,HOLBROOK,Peoria,AZ,,
 
 05/13/2017 Time Trial Men Masters 45-49 Male Masters Masters 45
@@ -87,7 +87,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/13/2017 Time Trial Men Masters 40-44 Male Masters Masters 40
 Place,License #,First,Last,City,State,Time,Team
-1,392666,Bill,KARRAS,Mesa ,AZ,,
+1,392666,Bill,KARRAS,Mesa,AZ,,
 2,0,Jeffrey,ZICKUS,,,,
 3,0,Danny,LUEDTKE,,,,
 4,493861,Joshua,WATTS,Phoenix,AZ,,
@@ -109,13 +109,13 @@ DNS,494489,Ethan,HARRELSON,Scottsdale,AZ,,
 05/13/2017 Time Trial Men Junior 13-14 Male Junior Junior 13-
 Place,License #,First,Last,City,State,Time,Team
 1,460752,Ben,GONZALEZ,Scottsdale,AZ,,
-2,470443,Adrian,DEL BLANCO,Chandler,AZ,,
+2,470443,Adrian,DEL BLANCO,Phoenix,AZ,,
 DNS,423637,Luke,BROCCO,Phoenix,AZ,,
 
 05/13/2017 Time Trial Men Cat 5 Male Cat 5 Open
 Place,License #,First,Last,City,State,Time,Team
 1,493652,Brian,DELANEY,Scottsdale,AZ,,
-2,513184,Cody,KELLY,Phoenix,AZ,,
+2,513184,Cody,KELLY,Chandler,AZ,,
 3,523182,Kurt,HUEGIN,Scottsdale,AZ,,
 4,507938,Jacob,PIAZZA,Scottsdale,AZ,,
 5,502890,Mark,GEYER,Maricopa,AZ,,
@@ -150,7 +150,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/13/2017 Time Trial Women Merckx Open Female Merckx Open
 Place,License #,First,Last,City,State,Time,Team
-1,234129,Sasha,JOHNSON,Tucson,AZ,,
+1,526175,Sasha,Johnson,Surprise,AZ,,
 2,494596,Kathryn,DUTCHIN,Chandler,AZ,,
 3,515873,Shauna,GOODSELL,Goodyear,AZ,,
 4,237700,Kathleen,GUSTINE,Phoenix,AZ,,
@@ -206,4 +206,4 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,395508,Shelby,HOGLUND,Tucson,AZ,,
 2,301117,Emily,BROWN,Tucson,AZ,,
-3,459515,Alissa,ALBRECHT,Tempe,FL,,
+3,459515,Alissa,ALBRECHT,Tempe,AZ,,

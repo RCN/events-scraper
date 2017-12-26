@@ -15,7 +15,7 @@ Place,License #,First,Last,City,State,Time,Team
 05/19/2017 CR Men Cat 4/5
 Place,License #,First,Last,City,State,Time,Team
 1,425384,Derek,Goronson,South Jordan,UT,1:24:24,
-2,376676,Nic,Porter,Sandy,UT,1:24:24,Adobe
+2,376676,Nic,Porter,Smithfield,UT,1:24:24,Adobe
 3,146077,Daniel,Frederick,Bluffdale,UT,1:24:24,Zone5 Racing
 4,306161,TJ,Stone,Lehi,UT,1:24:24,A Bloc Cycling
 5,498107,Tim,Frost,Bear River City,UT,1:24:24,Utah State University
@@ -41,7 +41,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/19/2017 CR Men Cat 4/5 Masters 35-99
 Place,License #,First,Last,City,State,Time,Team
-1,433654,Kevin,Gibson,Pocatello ,ID,1:27:24,Zone Five Racing
+1,433654,Kevin,Gibson,Pocatello,ID,1:27:24,Zone Five Racing
 2,393372,Steven,Parry,Riverton,UT,1:27:27,Zone Five Racing
 3,487050,Ryan,Smith,Lehi,UT,1:27:29,Zone Five Racing
 4,234583,Kyle,Harris,Midvale,UT,1:28:17,Project HERO Utah
@@ -70,10 +70,10 @@ Place,License #,First,Last,City,State,Time,Team
 4,232803,Spencer,Johnson,Riverton,UT,1:34:33,Spider Bait
 4,423691,Aaron,Temple,Provo,UT,1:34:33,Zone Five Racing
 4,223077,Alex,Whitney,Salt Lake City,UT,1:34:33,American First
-4,422919,Ryan,Mauser,South Jordan,UT,1:34:33,Zone Five Racing
-4,457822,Andrew,Judkins,Centerville,UT,1:34:33,Team Endurance360
+4,422919,Ryan,Mauser,Cottonwood Heights,UT,1:34:33,Zone Five Racing
+4,457822,Andrew,Judkins,Washington,UT,1:34:33,Team Endurance360
 4,458047,Darrin,Tuckett,Farmington,UT,1:34:33,Team Endurance360
-4,481295,Heriberto,Frutos,Twin Falls,ID,1:34:33,CT Velo
+4,481295,Heriberto,Frutos,Jerome,ID,1:34:33,CT Velo
 4,426983,Taylor,Edwards,Saratoga Springs,UT,1:34:33,Zone Five Racing
 4,152635,S.Todd,Wahl,Salt Lake City,UT,1:34:33,Cicada Racing Inc.
 4,431279,Ben,Stevenson,Salt Lake City,UT,1:34:33,Team Endurance360
@@ -97,7 +97,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,66592,Mark,Schaefer,Ogden,UT,1:29:35,Maddog Racing
 2,7974,Dirk,Cowley,Salt Lake City,UT,1:29:35,FFKR ARCHITECTS RACING
-3,142960,Jerald,Hunsaker,Midvale,UT,1:29:35,Bountiful Mazda Cycling Team
+3,142960,Jerald,Hunsaker,South Ogden,UT,1:29:35,Bountiful Mazda Cycling Team
 4,388576,Andres,Maricq,Salt Lake City,UT,1:29:35,
 5,220300,Stephen,Tueller,Layton,UT,1:29:35,Bountiful Mazda Cycling Team
 6,374782,Steve,Kelly,Draper,UT,1:32:44,DNA Cycling
@@ -112,14 +112,14 @@ Place,License #,First,Last,City,State,Time,Team
 3,114698,Brent,Cannon,Francis,UT,1:57:29,Team Elevate
 4,181440,Aaron,Olsen,Woodscross,UT,1:57:29,Ski City Cycling
 5,396216,Trevor,Jackson,Salt Lake City,UT,1:57:38,Caliber-SBR Cycling p/b LHM Lex
-6,15338,David,Harward,Salt Lake City,UT,1:57:38,PLAN7 DS
+6,15338,David,Harward,Millcreek,UT,1:57:38,PLAN7 DS
 7,448291,Nathan,Manwaring,Morgan,UT,1:57:38,Team Endurance360
 8,318710,Ira,Sorensen,Herriman,UT,1:57:38,Canyon Bicycle Shimano
 9,265398,Logan Lakota,Phippen,Athens,GA,1:57:38,Team Novo Nordisk Development
 10,376963,Derek,Edwards,Layton,UT,1:57:38,Zanconato Racing
 11,135709,Joshua,Frick,Park City,UT,1:57:38,Ski City Cycling
 12,397333,Joseph,Stewart,Cedar Hills,UT,1:57:38,Caliber-SBR Cycling p/b LHM Lex
-13,376935,Shaun,Johnson,Taylorsville,UT,1:57:38,Cicada racing
+13,376935,Shaun,Johnson,Slc,UT,1:57:38,Cicada racing
 14,377762,Michael,Hawley,Roosevelt,UT,1:57:38,LiVeWell p/b Harristone
 15,163558,Chris,Stuart,Park City,UT,1:57:38,Hyper Threads
 16,230640,Cody,Haroldsen,Salt Lake City,UT,1:57:38,Ski City Cycling
@@ -151,7 +151,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,472946,Ingrid,Hansen,Alpine,UT,2:00:05,Endurance 360
 3,413868,Mary,Emerson,Sandy,UT,2:00:05,
 4,396750,Lindsey,Stevenson,Salt Lake City,UT,2:00:05,Team Endurance360
-5,263791,Breanne,Nalder,Murray,UT,2:00:05,Visit Dallas DNA Pro Cycling
+5,263791,Breanne,Nalder,Millcreek,UT,2:00:05,Visit Dallas DNA Pro Cycling
 6,524718,Aliesha,Larsen,Provo,UT,2:00:05,Caliber-SBR Cycling p/b LHM Lex
 7,247526,Alison,Frye,Salt Lake City,UT,2:00:05,Ski City Cycling
 8,420077,Annette,Bowman,Salt Lake City,UT,2:02:00,Team Endurance360
@@ -174,7 +174,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/19/2017 Criterium Men Cat 4/5
 Place,License #,First,Last,City,State,Time,Team
-1,376676,Nic,Porter,Sandy,UT,0:00:00,Adobe
+1,376676,Nic,Porter,Smithfield,UT,0:00:00,Adobe
 2,146077,Daniel,Frederick,Bluffdale,UT,0:00:00,Zone5 Racing
 3,422881,Alex,Armstorng,Draper,UT,0:00:00,Canyon Bicycles Shimano
 4,509597,Alex,Whetman,South Jordan,UT,0:00:00,
@@ -206,7 +206,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,423952,Devin,Smith,Layton,UT,0:00:00,
 4,295636,Scott,Johnston,Herriman,UT,0:00:00,Zone Five Racing
 5,487050,Ryan,Smith,Lehi,UT,0:00:00,Zone Five Racing
-6,433654,Kevin,Gibson,Pocatello ,ID,0:00:00,Zone Five Racing
+6,433654,Kevin,Gibson,Pocatello,ID,0:00:00,Zone Five Racing
 7,402012,sean,jager,South Jordan,UT,0:00:00,Pavestone Capital Cycling Team
 8,504454,Bart,Preston,Lindon,UT,0:00:00,Zone Five Racing
 9,393372,Steven,Parry,Riverton,UT,0:00:00,Zone Five Racing
@@ -223,16 +223,16 @@ Place,License #,First,Last,City,State,Time,Team
 05/19/2017 Criterium Men Cat 3/4
 Place,License #,First,Last,City,State,Time,Team
 1,286504,Scott,Powers,Sandy,UT,0:00:00,Zone Five Racing
-2,481295,Heriberto,Frutos,Twin Falls,ID,0:00:00,CT Velo
+2,481295,Heriberto,Frutos,Jerome,ID,0:00:00,CT Velo
 3,458291,Erik,Brockhoff,West Jordan,UT,0:00:00,Cicada Racing Inc.
 4,232803,Spencer,Johnson,Riverton,UT,0:00:00,Spider Bait
 5,295705,Jeremy,Ward,Vineyard,UT,0:00:00,Zone Five Racing
 6,430822,Jason,Olsen,Salt Lake City,UT,0:00:00,America First Credit Union P/b
 7,391142,Logan,Newman,Salt Lake City,UT,0:00:00,Cicada Racing
 8,152635,S.Todd,Wahl,Salt Lake City,UT,0:00:00,Cicada Racing Inc.
-9,422919,Ryan,Mauser,South Jordan,UT,0:00:00,Zone Five Racing
+9,422919,Ryan,Mauser,Cottonwood Heights,UT,0:00:00,Zone Five Racing
 10,223077,Alex,Whitney,Salt Lake City,UT,0:00:00,American First
-11,457822,Andrew,Judkins,Centerville,UT,0:00:00,Team Endurance360
+11,457822,Andrew,Judkins,Washington,UT,0:00:00,Team Endurance360
 12,458047,Darrin,Tuckett,Farmington,UT,0:00:00,Team Endurance360
 13,422817,Preston,Edwards,American Fork,UT,0:00:00,Zone Five Racing
 14,426983,Taylor,Edwards,Saratoga Springs,UT,0:00:00,Zone Five Racing
@@ -252,7 +252,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,66592,Mark,Schaefer,Ogden,UT,0:00:00,Maddog Racing
 2,388576,Andres,Maricq,Salt Lake City,UT,0:00:00,
 3,7974,Dirk,Cowley,Salt Lake City,UT,0:00:00,FFKR ARCHITECTS RACING
-4,142960,Jerald,Hunsaker,Midvale,UT,0:00:00,Bountiful Mazda Cycling Team
+4,142960,Jerald,Hunsaker,South Ogden,UT,0:00:00,Bountiful Mazda Cycling Team
 5,220300,Stephen,Tueller,Layton,UT,0:00:00,Bountiful Mazda Cycling Team
 6,374782,Steve,Kelly,Draper,UT,0:00:00,DNA Cycling
 7,215794,Randal,Buie,Sandy,UT,0:00:00,Pavestone Capital
@@ -271,9 +271,9 @@ Place,License #,First,Last,City,State,Time,Team
 10,396216,Trevor,Jackson,Salt Lake City,UT,0:00:00,Caliber-SBR Cycling p/b LHM Lex
 11,377762,Michael,Hawley,Roosevelt,UT,0:00:00,LiVeWell p/b Harristone
 12,376963,Derek,Edwards,Layton,UT,0:00:00,Zanconato Racing
-13,376935,Shaun,Johnson,Taylorsville,UT,0:00:00,Cicada racing
+13,376935,Shaun,Johnson,Slc,UT,0:00:00,Cicada racing
 14,397819,Tanner,Soelberg,Provo,UT,0:00:00,Caliber-SBR Cycling p/b LHM Lex
-15,15338,David,Harward,Salt Lake City,UT,0:00:00,PLAN7 DS
+15,15338,David,Harward,Millcreek,UT,0:00:00,PLAN7 DS
 16,181440,Aaron,Olsen,Woodscross,UT,0:00:00,Ski City Cycling
 17,337310,Robert,Smallman,Alpine ,UT,0:00:00,Team Endurance 360
 18,265398,Logan Lakota,Phippen,Athens,GA,0:00:00,Team Novo Nordisk Development
@@ -294,7 +294,7 @@ Place,License #,First,Last,City,State,Time,Team
 05/19/2017 Criterium Women Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
 1,89443,Tiffany,Pezzulo,Salt Lake City,UT,0:00:00,LA Sweat
-2,263791,Breanne,Nalder,Murray,UT,0:00:00,Visit Dallas DNA Pro Cycling
+2,263791,Breanne,Nalder,Millcreek,UT,0:00:00,Visit Dallas DNA Pro Cycling
 3,472946,Ingrid,Hansen,Alpine,UT,0:00:00,Endurance 360
 4,413868,Mary,Emerson,Sandy,UT,0:00:00,
 5,247526,Alison,Frye,Salt Lake City,UT,0:00:00,Ski City Cycling
@@ -321,7 +321,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,425655,Jason,Mccloy,Sandy,UT,2:13:41,Zone Five Racing
 4,422881,Alex,Armstorng,Draper,UT,2:13:46,Canyon Bicycles Shimano
 5,394297,Ty,Neumann,St George,UT,2:14:12,Rapid Cycling Racing
-6,376676,Nic,Porter,Sandy,UT,2:14:22,Adobe
+6,376676,Nic,Porter,Smithfield,UT,2:14:22,Adobe
 7,476699,viggo,moore,Herriman,UT,2:14:24,
 8,397887,Ryan,Neumann,Cedar City,UT,2:14:24,Cedar Cycle
 9,434970,Bryan,Hull,Salt Lake City,UT,2:14:40,Team SaltCycle
@@ -343,7 +343,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/19/2017 Stage Race Men Cat 4/5 Masters 35-99
 Place,License #,First,Last,City,State,Time,Team
-1,433654,Kevin,Gibson,Pocatello ,ID,2:25:06,Zone Five Racing
+1,433654,Kevin,Gibson,Pocatello,ID,2:25:06,Zone Five Racing
 2,487050,Ryan,Smith,Lehi,UT,2:25:17,Zone Five Racing
 3,423952,Devin,Smith,Layton,UT,2:25:42,
 4,504454,Bart,Preston,Lindon,UT,2:25:50,Zone Five Racing
@@ -369,11 +369,11 @@ Place,License #,First,Last,City,State,Time,Team
 2,232803,Spencer,Johnson,Riverton,UT,2:35:08,Spider Bait
 3,423691,Aaron,Temple,Provo,UT,2:35:21,Zone Five Racing
 4,223077,Alex,Whitney,Salt Lake City,UT,2:35:39,American First
-5,422919,Ryan,Mauser,South Jordan,UT,2:35:55,Zone Five Racing
-6,457822,Andrew,Judkins,Centerville,UT,2:36:16,Team Endurance360
+5,422919,Ryan,Mauser,Cottonwood Heights,UT,2:35:55,Zone Five Racing
+6,457822,Andrew,Judkins,Washington,UT,2:36:16,Team Endurance360
 7,391142,Logan,Newman,Salt Lake City,UT,2:36:30,Cicada Racing
 8,458047,Darrin,Tuckett,Farmington,UT,2:36:38,Team Endurance360
-9,481295,Heriberto,Frutos,Twin Falls,ID,2:36:39,CT Velo
+9,481295,Heriberto,Frutos,Jerome,ID,2:36:39,CT Velo
 10,426983,Taylor,Edwards,Saratoga Springs,UT,2:36:54,Zone Five Racing
 11,152635,S.Todd,Wahl,Salt Lake City,UT,2:36:59,Cicada Racing Inc.
 12,431279,Ben,Stevenson,Salt Lake City,UT,2:37:00,Team Endurance360
@@ -398,7 +398,7 @@ Place,License #,First,Last,City,State,Time,Team
 05/19/2017 Stage Race Men Cat 1/2/3/4 Masters 55-99
 Place,License #,First,Last,City,State,Time,Team
 1,66592,Mark,Schaefer,Ogden,UT,2:27:34,Maddog Racing
-2,142960,Jerald,Hunsaker,Midvale,UT,2:30:10,Bountiful Mazda Cycling Team
+2,142960,Jerald,Hunsaker,South Ogden,UT,2:30:10,Bountiful Mazda Cycling Team
 3,388576,Andres,Maricq,Salt Lake City,UT,2:30:24,
 4,7974,Dirk,Cowley,Salt Lake City,UT,2:30:25,FFKR ARCHITECTS RACING
 5,220300,Stephen,Tueller,Layton,UT,2:31:40,Bountiful Mazda Cycling Team
@@ -412,7 +412,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,337310,Robert,Smallman,Alpine ,UT,3:14:11,Team Endurance 360
 3,230640,Cody,Haroldsen,Salt Lake City,UT,3:15:08,Ski City Cycling
 4,377762,Michael,Hawley,Roosevelt,UT,3:15:09,LiVeWell p/b Harristone
-5,376935,Shaun,Johnson,Taylorsville,UT,3:15:39,Cicada racing
+5,376935,Shaun,Johnson,Slc,UT,3:15:39,Cicada racing
 6,318710,Ira,Sorensen,Herriman,UT,3:15:47,Canyon Bicycle Shimano
 7,397333,Joseph,Stewart,Cedar Hills,UT,3:15:50,Caliber-SBR Cycling p/b LHM Lex
 8,396216,Trevor,Jackson,Salt Lake City,UT,3:15:57,Caliber-SBR Cycling p/b LHM Lex
@@ -426,7 +426,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,321238,griffin,park,Springville,UT,3:17:05,Canyon Bicycles
 17,265398,Logan Lakota,Phippen,Athens,GA,3:18:20,Team Novo Nordisk Development
 18,397819,Tanner,Soelberg,Provo,UT,3:18:28,Caliber-SBR Cycling p/b LHM Lex
-19,15338,David,Harward,Salt Lake City,UT,3:18:50,PLAN7 DS
+19,15338,David,Harward,Millcreek,UT,3:18:50,PLAN7 DS
 20,135709,Joshua,Frick,Park City,UT,12:26:57,Ski City Cycling
 21,448291,Nathan,Manwaring,Morgan,UT,12:27:09,Team Endurance360
 22,114698,Brent,Cannon,Francis,UT,12:27:58,Team Elevate
@@ -452,7 +452,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/19/2017 Stage Race Women Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
-1,263791,Breanne,Nalder,Murray,UT,3:01:54,Visit Dallas DNA Pro Cycling
+1,263791,Breanne,Nalder,Millcreek,UT,3:01:54,Visit Dallas DNA Pro Cycling
 2,89443,Tiffany,Pezzulo,Salt Lake City,UT,3:02:40,LA Sweat
 3,413868,Mary,Emerson,Sandy,UT,3:04:34,
 4,472946,Ingrid,Hansen,Alpine,UT,3:04:44,Endurance 360
@@ -482,7 +482,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,394297,Ty,Neumann,St George,UT,0:20:14,Rapid Cycling Racing
 6,476699,viggo,moore,Herriman,UT,0:20:26,
 7,397887,Ryan,Neumann,Cedar City,UT,0:20:26,Cedar Cycle
-8,376676,Nic,Porter,Sandy,UT,0:20:40,Adobe
+8,376676,Nic,Porter,Smithfield,UT,0:20:40,Adobe
 9,434970,Bryan,Hull,Salt Lake City,UT,0:20:42,Team SaltCycle
 10,146077,Daniel,Frederick,Bluffdale,UT,0:20:53,Zone5 Racing
 11,306161,TJ,Stone,Lehi,UT,0:20:55,A Bloc Cycling
@@ -504,7 +504,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,423952,Devin,Smith,Layton,UT,0:19:59,
 2,504454,Bart,Preston,Lindon,UT,0:20:03,Zone Five Racing
-3,433654,Kevin,Gibson,Pocatello ,ID,0:20:22,Zone Five Racing
+3,433654,Kevin,Gibson,Pocatello,ID,0:20:22,Zone Five Racing
 4,487050,Ryan,Smith,Lehi,UT,0:20:22,Zone Five Racing
 5,473063,Luke,Rothey,Farmington,UT,0:20:27,
 6,299674,Tom,Pace,Herriman,UT,0:20:45,Zone Five Racing
@@ -528,12 +528,12 @@ Place,License #,First,Last,City,State,Time,Team
 2,232803,Spencer,Johnson,Riverton,UT,0:19:04,Spider Bait
 3,423691,Aaron,Temple,Provo,UT,0:19:17,Zone Five Racing
 4,223077,Alex,Whitney,Salt Lake City,UT,0:19:35,American First
-5,422919,Ryan,Mauser,South Jordan,UT,0:19:51,Zone Five Racing
-6,457822,Andrew,Judkins,Centerville,UT,0:20:12,Team Endurance360
+5,422919,Ryan,Mauser,Cottonwood Heights,UT,0:19:51,Zone Five Racing
+6,457822,Andrew,Judkins,Washington,UT,0:20:12,Team Endurance360
 7,427721,Daxton,Kennington,Kaysville,UT,0:20:16,Rouleur Devo
 8,458047,Darrin,Tuckett,Farmington,UT,0:20:34,Team Endurance360
 9,391142,Logan,Newman,Salt Lake City,UT,0:20:37,Cicada Racing
-10,481295,Heriberto,Frutos,Twin Falls,ID,0:20:48,CT Velo
+10,481295,Heriberto,Frutos,Jerome,ID,0:20:48,CT Velo
 11,426983,Taylor,Edwards,Saratoga Springs,UT,0:20:50,Zone Five Racing
 12,152635,S.Todd,Wahl,Salt Lake City,UT,0:20:55,Cicada Racing Inc.
 13,431279,Ben,Stevenson,Salt Lake City,UT,0:20:56,Team Endurance360
@@ -557,7 +557,7 @@ Place,License #,First,Last,City,State,Time,Team
 05/19/2017 Time Trial Men Cat 1/2/3/4 Masters 55-99
 Place,License #,First,Last,City,State,Time,Team
 1,66592,Mark,Schaefer,Ogden,UT,0:18:50,Maddog Racing
-2,142960,Jerald,Hunsaker,Midvale,UT,0:20:07,Bountiful Mazda Cycling Team
+2,142960,Jerald,Hunsaker,South Ogden,UT,0:20:07,Bountiful Mazda Cycling Team
 3,388576,Andres,Maricq,Salt Lake City,UT,0:20:23,
 4,7974,Dirk,Cowley,Salt Lake City,UT,0:20:28,FFKR ARCHITECTS RACING
 5,199407,gary,simmons,Layton,UT,0:21:11,Bountiful Mazda Cycling team
@@ -572,7 +572,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,230640,Cody,Haroldsen,Salt Lake City,UT,0:18:22,Ski City Cycling
 3,377762,Michael,Hawley,Roosevelt,UT,0:18:23,LiVeWell p/b Harristone
 4,337310,Robert,Smallman,Alpine ,UT,0:18:33,Team Endurance 360
-5,376935,Shaun,Johnson,Taylorsville,UT,0:18:53,Cicada racing
+5,376935,Shaun,Johnson,Slc,UT,0:18:53,Cicada racing
 6,135709,Joshua,Frick,Park City,UT,0:19:09,Ski City Cycling
 7,397333,Joseph,Stewart,Cedar Hills,UT,0:19:10,Caliber-SBR Cycling p/b LHM Lex
 8,318710,Ira,Sorensen,Herriman,UT,0:19:11,Canyon Bicycle Shimano
@@ -590,7 +590,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,114698,Brent,Cannon,Francis,UT,0:20:23,Team Elevate
 21,265398,Logan Lakota,Phippen,Athens,GA,0:20:43,Team Novo Nordisk Development
 22,397819,Tanner,Soelberg,Provo,UT,0:21:42,Caliber-SBR Cycling p/b LHM Lex
-23,15338,David,Harward,Salt Lake City,UT,0:22:04,PLAN7 DS
+23,15338,David,Harward,Millcreek,UT,0:22:04,PLAN7 DS
 24,203143,Ian,Megale,Boise,ID,0:23:27,Team UpCycle Boise
 25,276490,Will,Hanson,Draper,UT,0:24:27,Ski City Cycling
 
@@ -608,7 +608,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/19/2017 Time Trial Women Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
-1,263791,Breanne,Nalder,Murray,UT,0:19:38,Visit Dallas DNA Pro Cycling
+1,263791,Breanne,Nalder,Millcreek,UT,0:19:38,Visit Dallas DNA Pro Cycling
 2,89443,Tiffany,Pezzulo,Salt Lake City,UT,0:20:38,LA Sweat
 3,413868,Mary,Emerson,Sandy,UT,0:21:14,
 4,472946,Ingrid,Hansen,Alpine,UT,0:21:30,Endurance 360

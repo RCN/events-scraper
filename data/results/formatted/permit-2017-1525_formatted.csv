@@ -97,7 +97,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,432132,Paul,Wagner,Clemmons,NC,43:02.6,North Carolina State University
 8,265935,Tim,Dinger,Charlotte,NC,43:02.7,
 9,458829,Ben,Hostetler,Stokesdale,NC,43:02.9,West Virginia University
-10,361447,Jason,Biggs,Cary,NC,43:02.9,Jigawatt Cycling
+10,361447,Jason,Biggs,Raleigh,NC,43:02.9,Jigawatt Cycling
 11,507025,Nate,Lotze,Harrisburg,PA,43:03.1,
 12,42655,Dustin,Wambeke,Greenville,SC,43:03.1,Les Amis/Up State Junior Cyclin
 13,379144,Christopher,Burns,Charles Town,WV,43:03.3,Team Integrity
@@ -130,7 +130,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,437931,Seth,Jones,Mooresville,NC,57:18.0,Dornier Racing
 2,403557,Eric,Moore,Greenville,SC,57:18.2,Les Amis/Up State Junior Cyclin
 3,494857,Christian,Acker,Clemson,SC,57:21.8,Clemson University
-4,530396,Jarrod,Moroni,,,57:25.6,
+4,530396,Jarrod,Moroni,Oceanside,CA,57:25.6,
 5,484523,William,Hardin,Winston Salem,NC,57:26.6,Hearts Racing Club
 6,442975,Matt,Sloyer,Raleigh,NC,57:26.7,Boone Area Cyclists
 7,311099,William,Sheftall,Huntersville,NC,57:26.9,Delta Racing
@@ -139,11 +139,11 @@ Place,License #,First,Last,City,State,Time,Team
 10,338102,Casey,Fulton,Chesapeake,VA,57:27.5,Fat Frogs Racing
 11,445064,Hao,Sun,Raleigh,NC,57:27.6,North Carolina State University
 12,311717,Hugo,Schreur,Chapel Hill,NC,57:27.9,Dornier Racing
-13,217539,Nathan,Harris,Frisco,CO,57:28.1,
+13,217539,Nathan,Harris,Spring,TX,57:28.1,
 14,393312,Cliff,Mueller,Cornelius,NC,57:40.2,Monster Media Racing
 15,306802,Scott,Morris,Lawrenceville,GA,58:01.7,Scenic City Velo
 16,384973,Baker,Watts,Greenville,SC,58:02.1,RTO National Cycling
-17,78591,Matthew,Accarrino,San Francisco ,CA,58:02.1,
+17,78591,Matthew,Accarrino,San Francisco,CA,58:02.1,
 18,268347,Spencer,Lowden,Brevard,NC,58:02.1,Cyclus Sports
 19,493150,jules,van kempen,Chapel Hill,NC,58:02.1,Tri-Cyclists BRC
 20,466101,Cody,Buford,Fort Mill,SC,58:02.1,Southeast Velo Racing
@@ -154,13 +154,13 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/27/2017 Criterium Men CAT 1/2/3/4 MASTERS 35+
 Place,License #,First,Last,City,State,Time,Team
-1,530396,Jarrod,Moroni,,,59:31.5,
+1,530396,Jarrod,Moroni,Oceanside,CA,59:31.5,
 2,11701,Corey,Fisher,Cary,NC,59:32.7,Happy Tooth Racing
 3,276816,Timothy,McCollum,Charlotte,NC,59:33.2,CCB
 4,272130,Bryan,Hoy,Hendersonville,NC,59:33.4,
 5,14782,Jonathan,Hamblen,Winston Salem,NC,59:33.5,Hearts Racing Club
-6,220150,Jared,Nieters,Haymarket,VA,59:33.7,Celerity Cycling
-7,78591,Matthew,Accarrino,San Francisco ,CA,59:33.7,
+6,220150,Jared,Nieters,Amissville,VA,59:33.7,Celerity Cycling
+7,78591,Matthew,Accarrino,San Francisco,CA,59:33.7,
 8,155665,Jerry,Gala,Apex,NC,59:34.0,Happy Tooth Racing
 9,208605,Joseph,Carpisassi,Winston Salem,NC,59:35.4,Happy Tooth Racing
 10,183183,Thomas,Rodgers,Greensboro,NC,59:35.6,Vic Chisholm Racing Inc
@@ -245,7 +245,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,217857,Nathaniel,Ward,Lewisville,NC,39:55.9,Boone Area Cyclists
 2,425522,Benjamin,Wright,Lynchburg,VA,39:57.7,Dire Wolf Racing
-3,220150,Jared,Nieters,Haymarket,VA,41:03.4,Celerity Cycling
+3,220150,Jared,Nieters,Amissville,VA,41:03.4,Celerity Cycling
 4,359308,Richard,OBriant,Fuquay Varina,NC,41:05.4,Jigawatt Cycling
 5,388411,Alex,Jerome,Pisgah Forest,NC,41:05.5,
 6,400727,Dillon,Swaim,Lilburn,GA,41:06.1,Prima Tappa Cycling
@@ -258,7 +258,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,366015,Marcel,Gutierrez,Clemmons,NC,41:14.8,Hearts Racing Club
 14,354786,Dylan,Lawson,Fayetteville,NC,41:14.8,Cyclus Sports
 15,274106,Noah,Kinney,Huntington,WV,41:14.9,Team Dayton Bicycling
-16,262217,Ryan,McGiboney,Roanoke,VA,41:14.9,
+16,262217,Ryan,McGiboney,Blacksburg,VA,41:14.9,
 17,460008,Tom,Rodarie,Charlotte,NC,41:14.9,Cyclus Sports
 18,42053,Justin,Bowes,Charlottesville,VA,41:15.0,Burnham Racing
 19,403771,luke,manning,Stoutsville,OH,41:15.0,Kreitler Racing Team
@@ -276,16 +276,16 @@ Place,License #,First,Last,City,State,Time,Team
 7,529428,Claire,ROSE,,,,Visit Dallas DNA Pro Cycling*
 8,89443,Tiffany,PEZZULO,Salt Lake City,UT,,LA Sweat*
 9,432442,Eugenia,BUJAK,,,,BTC CITY LJUBLJANA
-10,509477,Peta,MULLENS,Tulsa,OK,,Hagens Berman | Supermint*
+10,509477,Peta,MULLENS,Oceanside,CA,,Hagens Berman | Supermint*
 11,0,Beck,WIASAK,,,,Fearless Femme Racing
 12,379241,Flora,YAN,Plano,TX,,Fearless Femme Racing
 13,0,Marlies,MEJIAS GARCIA,,,,Team Weber Shimano Ladies Power
 14,288678,Lauren,STEPHENS,Dallas,TX,,Tibco-Silicon Valley Bank
 15,262479,Lauren,HALL,Cortez,CO,,UnitedHealthcare
-16,267467,Christy,KEELY,Greenville ,SC,,Fearless Femme Racing
+16,267467,Christy,KEELY,Greenville,SC,,Fearless Femme Racing
 17,300089,Skylar,SCHNEIDER,West Allis,WI,,IS Corp pb Progress Software
-18,273081,Ruth,WINDER,Lafayette,CA,,UnitedHealthcare
-19,358569,Janelle,COLE,Rockford,MI,,UnitedHealthcare
+18,273081,Ruth,WINDER,Boulder,CO,,UnitedHealthcare
+19,358569,Janelle,COLE,Newaygo,MI,,UnitedHealthcare
 20,41951,Tina,PIC,Bountiful,UT,,Papa John's p/b Trek
 21,418050,Allison,BEVERIDGE,,,,Rally Cycling*
 22,473503,Carrie,CARTMILL,,,,OrthoCarolina
@@ -311,11 +311,11 @@ Place,License #,First,Last,City,State,Time,Team
 42,291446,Daphne,KARAGIANIS,Chicago,IL,,Velo Classic p/b Stan's NoTubes
 43,432770,Natalia,FRANCO,Grand Junction,CO,,Pastaria Big Shark
 44,406712,Megan,HEATH,Alpharetta,GA,,Rally Cycling*
-45,317802,Holly,BRECK,Santa Ynez,CA,,Sho-Air TWENTY20
+45,317802,Holly,BRECK,San Dimas,CA,,Sho-Air TWENTY20
 46,397217,Monica,VOLK,Kempton,PA,,Rally Cycling*
 47,478299,Rocio,PARRADO GUARNIZO,,,,Team Weber Shimano Ladies Power
 48,455794,Rushlee,BUCHANAN,Asheville,NC,,UnitedHealthcare
-49,308334,Heather,FISCHER,Del Rio,TX,,Tibco-Silicon Valley Bank
+49,308334,Heather,FISCHER,Boulder,CO,,Tibco-Silicon Valley Bank
 50,375540,Kristen,ARNOLD,Columbus,OH,,Velo Classic p/b Stan's NoTubes
 51,397657,Laura,JORGENSEN,Asheville,NC,,Fearless Femme Racing
 52,217750,Christina,GOKEY-SMITH,Denton,TX,,Papa John's p/b Trek
@@ -323,7 +323,7 @@ Place,License #,First,Last,City,State,Time,Team
 54,0,Luz,Adriana TOVAR,,,,Team Colombia
 55,0,Karol,MORENO,,,,Team Colombia
 56,0,Aranza,VILLALON SANCHEZ,,,,Team Weber Shimano Ladies Power
-57,492481,Emily,RODGER,,,,Pastaria Big Shark
+57,492481,Emily,RODGER,Scottsdale,AZ,,Pastaria Big Shark
 58,0,Jessenia,MENESES GONZALEZ,,,,Team Weber Shimano Ladies Power
 59,527684,Marcela,PRIETO,,,,CONADE-Visit Mxico-Specilized
 60,0,Julyn,AGUILA,,,,CONADE-Visit Mxico-Specilized
@@ -333,7 +333,7 @@ Place,License #,First,Last,City,State,Time,Team
 64,84776,Debbie,MILNE,Greenville,SC,,Papa John's p/b Trek
 65,404315,Tabitha,SHERWOOD,Culver,IN,,Pastaria Big Shark
 66,201838,Laurel,RATHBUN,Monument,CO,,Papa John's p/b Trek
-67,220876,Katherine,SHIELDS,Advance,NC,,OrthoCarolina
+67,220876,Katherine,SHIELDS,Salt Lake City,UT,,OrthoCarolina
 68,527905,Ruby,LIVINGSTONE,Point Chevalier,,,RoxsoltAttaquer
 69,365519,Arden,STELLY,Ooltewah,TN,,OrthoCarolina
 70,513594,Manuela,Escobar,Cartagena,BO,,Team Colombia

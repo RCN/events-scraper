@@ -40,8 +40,8 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,380049,George,Tomasich,Norwalk,CA,0202:SepSep:thth,
 1,380049,George,Tomasich,Norwalk,CA,0505:SepSep:thth,
-2,311259,Brian,Schmidt,San Francisco,CA,0303:SepSep:thth,
-2,311259,Brian,Schmidt,San Francisco,CA,0505:SepSep:thth,
+2,311259,Brian,Schmidt,New York,NY,0303:SepSep:thth,
+2,311259,Brian,Schmidt,New York,NY,0505:SepSep:thth,
 
 08/27/2017 Road Race Men open Master 55  59
 Place,License #,First,Last,City,State,Time,Team
@@ -72,7 +72,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,269508,Nick,Gillock,Los Angeles,CA,0202:SepSep:thth,
 5,477644,Brian,Kennedy,Redlands,CA,0202:SepSep:thth,
 6,459124,Manuel,Aguilar,Los Angeles,CA,0303:SepSep:thth,
-7,391447,Andrew,Nuckles,Cerritos,CA,0303:SepSep:thth,
+7,391447,Andrew,Nuckles,Los Angeles,CA,0303:SepSep:thth,
 8,473712,Raul,VazquezDiaz,Hawthorne,CA,0303:SepSep:thth,
 9,219210,Baxter,Ross,Los Angeles,CA,0303:SepSep:thth,
 10,540172,Curtis,Nelson,San Luis Obispo,CA,0303:SepSep:thth,
@@ -113,7 +113,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,269508,Nick,Gillock,Los Angeles,CA,0505:SepSep:thth,
 5,459124,Manuel,Aguilar,Los Angeles,CA,0505:SepSep:thth,
 6,219210,Baxter,Ross,Los Angeles,CA,0505:SepSep:thth,
-7,391447,Andrew,Nuckles,Cerritos,CA,0505:SepSep:thth,
+7,391447,Andrew,Nuckles,Los Angeles,CA,0505:SepSep:thth,
 8,486365,James,Thorpe,San Francisco,CA,0505:SepSep:thth,
 9,477644,Brian,Kennedy,Redlands,CA,0505:SepSep:thth,
 10,414890,Davis,Hill,Lakewood,CA,0505:SepSep:thth,
@@ -151,7 +151,7 @@ Place,License #,First,Last,City,State,Time,Team
 08/26/2017 Road Race Men open master 45  54
 Place,License #,First,Last,City,State,Time,Team
 1,380049,George,Tomasich,Norwalk,CA,0202:SepSep:thth,
-2,311259,Brian,Schmidt,San Francisco,CA,0202:SepSep:thth,
+2,311259,Brian,Schmidt,New York,NY,0202:SepSep:thth,
 
 08/26/2017 Road Race Men open master 55  59
 Place,License #,First,Last,City,State,Time,Team
@@ -176,7 +176,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,414890,Davis,Hill,Lakewood,CA,0202:SepSep:thth,
 8,219210,Baxter,Ross,Los Angeles,CA,0202:SepSep:thth,
 9,486365,James,Thorpe,San Francisco,CA,0202:SepSep:thth,
-10,391447,Andrew,Nuckles,Cerritos,CA,0202:SepSep:thth,
+10,391447,Andrew,Nuckles,Los Angeles,CA,0202:SepSep:thth,
 11,423048,Thomas,Vehe,Pahrump,NV,0202:SepSep:thth,
 12,540172,Curtis,Nelson,San Luis Obispo,CA,0202:SepSep:thth,
 13,501934,Nhattrieu,Duong,Redondo Beach,CA,0202:SepSep:thth,

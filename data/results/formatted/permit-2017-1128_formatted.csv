@@ -42,12 +42,12 @@ Place,License #,First,Last,City,State,Time,Team
 4,0,John,Kodin,,,1:35:18,Shuksan Velo Club Race Team
 5,171544,Steve,Matson,Tacoma,WA,1:36:11,JoeFroyo Racing p/b Old Town Bi
 6,420052,Craig,Powers,Seattle,WA,1:36:41,VELOBODY / Bikesale
-7,268436,Dan,Austad,Silverdale,WA,1:41:45,Tacoma Bike Racing Team
+7,268436,Dan,Austad,Port Ludlow,WA,1:41:45,Tacoma Bike Racing Team
 8,47123,Jeffrey,Patterson,University Place,WA,1:42:24,JoeFroyo Racing p/b Old Town Bi
 9,391065,Barry,Aronson,Kirkland,WA,1:42:45,Audi
 DNS,287800,Steve,Thompson,Seattle,WA,DNS,VELOBODY / Bikesale
 DNF,206957,Gordy,Bolstad,Snohomish,WA,DNF,VELOBODY / Bikesale
-DNF,305711,Christopher,Soelling,Kirkland,WA,DNF,Taco Time Northwest Cycling Tea
+DNF,305711,Christopher,Soelling,Redmond,WA,DNF,Taco Time Northwest Cycling Tea
 
 05/13/2017 Road Race Men Cat 4/5 Senior
 Place,License #,First,Last,City,State,Time,Team
@@ -83,8 +83,8 @@ Place,License #,First,Last,City,State,Time,Team
 30,523624,Justin,Wade,Seattle,WA,1:32:34,Audi
 31,460295,Tyler,Boucher,Seattle,WA,1:33:13,
 32,458971,James,Wright,Renton,WA,1:41:53,Taco Time Northwest Cycling Tea
-33,468401,Peter,Mayer,Shoreline,WA,1:55:53,Taco Time Northwest Cycling Tea
-34,531594,Curtis,White,Spanaway,WA,2:03:09,Tacoma Bike Racing Team
+33,468401,Peter,Mayer,Mukilteo,WA,1:55:53,Taco Time Northwest Cycling Tea
+34,234696,Curtis,White,Delanson,NY,2:03:09,Tacoma Bike Racing Team
 DNS,326914,Bob,Bautista,Seattle,WA,DNS,Apex Racing
 DNS,526296,Tucker,Link,Stanwood,WA,DNS,WWU Cycling Team
 DNS,497579,Nicholas,Murphy,Bellingham,WA,DNS,WWU Cycling Team
@@ -105,7 +105,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,405211,Stephane,Crepin,Issaquah,WA,1:33:56,Taco Time Northwest Cycling Tea
 10,480113,Michael,Swale,Tacoma,WA,1:33:56,Tacoma Bike Racing Team
 11,457786,Pedro,Deguzman,Seattle,WA,1:33:56,Alki Velo Club
-12,457077,Matt,Dente,Seattle,WA,1:33:56,Full Swoop
+12,457077,Matt,Dente,Bainbridge Island,WA,1:33:56,Full Swoop
 13,494059,Chris,Sexton,Bothell,WA,1:33:56,Taco Time Northwest Cycling Tea
 14,460674,Mark,Selander,Seattle,WA,1:33:56,Apex Racing
 15,424679,Todd,Tourville,Kirkland,WA,1:33:56,Dyna Racing
@@ -119,7 +119,7 @@ DNS,412266,Marty,Lewis,Seattle,WA,DNS,
 
 05/13/2017 Road Race Men Cat 1/2/3 Senior
 Place,License #,First,Last,City,State,Time,Team
-1,472368,Scott,Ofarrell,Tacoma,WA,2:45:23,Metier Racing & Coffee
+1,472368,Scott,Ofarrell,Seattle,WA,2:45:23,Metier Racing & Coffee
 2,29781,David,Richter,Seattle,WA,2:45:47,Metier Racing & Coffee
 3,489099,Felipe,Nystrom,Vancouver,WA,2:45:47,
 4,414898,Jackson,Duncan,Santa Rosa,CA,2:45:47,
@@ -171,7 +171,7 @@ DNF,336434,Martin,Turek,Issaquah,WA,DNF,Monton-TM
 DNF,46828,Aaron,Levin,Mercer Island,WA,DNF,Monster Media Elite Masters
 DNF,205084,Dan,Swanson,Sammamish,WA,DNF,Metier Racing & Coffee
 DNF,112857,Christopher,Kaiser,Orting,WA,DNF,Monton-TM
-DNF,306785,David,Mullen,Eatonville,WA,DNF,Tacoma Bike Racing Team
+DNF,306785,David,Mullen,Orting,WA,DNF,Tacoma Bike Racing Team
 DNF,355916,Ludo,Max,Seattle,WA,DNF,Hagens Berman - EY Society
 DNF,393741,Justin,Tornow,Naches,WA,DNF,Hagens Berman - EY Society
 DNF,207153,Gregory,Luniewski,Seattle,WA,DNF,VELOBODY / Bikesale
@@ -179,7 +179,7 @@ DNF,207153,Gregory,Luniewski,Seattle,WA,DNF,VELOBODY / Bikesale
 05/13/2017 Road Race Women Cat 4/5 Master 40+
 Place,License #,First,Last,City,State,Time,Team
 1,395238,Victoria,Lord,Mukilteo,WA,1:47:58,VELOBODY / Bikesale
-2,418957,Lavonne,Wilson,Seattle,WA,1:47:58,Team Thrive p/b Kaiser Permanen
+2,418957,Lavonne,Wilson,Mukilteo,WA,1:47:58,Team Thrive p/b Kaiser Permanen
 3,332986,Jean,Fisher,Olympia,WA,1:47:58,Olympia Orthopaedic Associates
 4,523961,Tonya,Farr,Bellevue,WA,1:47:58,VELOBODY / Bikesale
 5,525873,Erica,Wolf,Seattle,WA,1:47:58,VELOBODY / Bikesale
@@ -190,6 +190,6 @@ Place,License #,First,Last,City,State,Time,Team
 1,71338,Annette,Williams,Kenmore,WA,2:33:26,Kenmore Velo
 2,396740,Olga,Magun,Mercer Island,WA,2:33:26,Team Thrive p/b Kaiser Permanen
 3,424909,Malia,Greening,Issaquah,WA,2:33:26,Seattle Cancer Care Alliance Cy
-4,358734,Christine,Holland,Vancouver ,WA,2:33:26,Portland Bicycle Studio
+4,358734,Christine,Holland,Vancouver,WA,2:33:26,Portland Bicycle Studio
 5,394786,Lisa,Steppe,Auburn,WA,2:33:26,VELOBODY / Bikesale
-6,236703,Lisa,Worthington,Woodinville,WA,2:33:26,VELOBODY / Bikesale
+6,236703,Lisa,Worthington,Woodinville ,WA,2:33:26,VELOBODY / Bikesale

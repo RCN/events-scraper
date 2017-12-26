@@ -9,13 +9,13 @@ Place,License #,First,Last,City,State,Time,Team
 5,442987,Daniel,NESBITT,Indianapolis,IN,12.20,Marian University Cycling Team
 6,240005,Kyle,PERRY,Muncie,IN,12.22,Texas Roadhouse Cycling Team
 7,346648,Thomas,CARTER,Saint Charles,MO,12.28,Team Mack Racing Assoc. LTD
-8,313374,Kyle,STEWART,Indianapolis ,IN,12.79,Team Dayton
-9,2443,John,BALMER,Indianapolis ,IN,12.86,Century Road Club Of America
+8,313374,Kyle,STEWART,Indianapolis,IN,12.79,Team Dayton
+9,2443,John,BALMER,Indianapolis,IN,12.86,Century Road Club Of America
 
 07/15/2017 Flying Time Trial Men Cat 1/2/3/4/5 Masters 40
 Place,License #,First,Last,City,State,Time,Team
 1,372502,Steven,TOBY,Somerset,KY,12.74,Somerset Cycling Club
-2,2443,John,BALMER,Indianapolis ,IN,12.86,Century Road Club Of America
+2,2443,John,BALMER,Indianapolis,IN,12.86,Century Road Club Of America
 3,51981,Richard,PEARSON,New Albany,IN,13.00,Team Louisville
 4,274498,Brian,WIND,Greenwood,IN,13.05,Gray Goat Sports
 5,50723,Tony,WELCH,Indianapolis,IN,13.34,Pista Elite
@@ -55,7 +55,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,240005,Kyle,PERRY,Muncie,IN,,Texas Roadhouse Cycling Team
 6,442987,Daniel,NESBITT,Indianapolis,IN,,Marian University Cycling Team
 7,346648,Thomas,CARTER,Saint Charles,MO,,Team Mack Racing Assoc. LTD
-8,313374,Kyle,STEWART,Indianapolis ,IN,,Team Dayton
+8,313374,Kyle,STEWART,Indianapolis,IN,,Team Dayton
 
 07/15/2017 Sprint Men Cat 1/2/3/4/5 Juniors
 Place,License #,First,Last,City,State,Time,Team
@@ -64,7 +64,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 07/15/2017 Sprint Men Cat 1/2/3/4/5 Masters 40
 Place,License #,First,Last,City,State,Time,Team
-1,2443,John,BALMER,Indianapolis ,IN,,Century Road Club Of America
+1,2443,John,BALMER,Indianapolis,IN,,Century Road Club Of America
 2,274498,Brian,WIND,Greenwood,IN,,Gray Goat Sports
 3,51981,Richard,PEARSON,New Albany,IN,,Team Louisville
 4,372502,Steven,TOBY,Somerset,KY,,Somerset Cycling Club

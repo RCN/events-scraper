@@ -85,12 +85,12 @@ Place,License #,First,Last,City,State,Time,Team
 23,440537,Maxx,Bowman,Loveland,OH,32:57.7,ProChain Junior Cycling
 24,510855,Ricky,Maynard,Columbus,OH,32:58.3,Red Bike
 25,439746,Sean,O'Connor,Cincinnati,OH,32:58.8,Fat Cats Racing
-26,461016,Jacob,Kastens,Cincinnati ,OH,32:59.6,University of Cincinnati
+26,461016,Jacob,Kastens,Cincinnati,OH,32:59.6,University of Cincinnati
 27,366213,Daniel,Tierney,Monclova,OH,33:00.1,Maumee Valley Wheelmen
 28,425125,Michael,Emerson,Milford,OH,33:00.3,University of Cincinnati
 29,480321,Lonnie,Welch,Athens,OH,33:00.6,Team Athens
 30,493535,Jacob,Thompson,Reynoldsburg,OH,33:01.1,
-31,500570,Derek,Walker,Cincinnati ,OH,33:01.2,ZWS / Brilliant Advice
+31,500570,Derek,Walker,Cincinnati,OH,33:01.2,ZWS / Brilliant Advice
 32,310301,Garrett,Weiler,Indianapolis,IN,33:01.2,Outback Steakhouse
 33,0,Matthew,Feldhaus,,,33:01.3,Tri Loco
 34,145171,Lowell,Engelking,Columbus,IN,33:01.4,Team Heroes
@@ -130,9 +130,9 @@ Place,License #,First,Last,City,State,Time,Team
 29,396644,Robert,Hengel,North Tonawanda,NY,46:41.th,Buffalo Bicycling Club Race Tea
 30,302078,Cameron,Fisk,Louisville,KY,46:42.th,Team Handmade
 31,473721,Troy,Stratford,Carmel,IN,46:44.th,Dash Racing
-32,514785,Christopher,Peltzer,Johnstown,PA,46:44.th,Indiana University of Pennsylva
+32,514785,Christopher,Peltzer,Indiana,PA,46:44.th,Indiana University of Pennsylva
 33,353428,Scott,Baumer,Indianapolis,IN,46:45.th,Dash Racing Indianapolis
-34,231392,David,Rich,Galloway,OH,46:45.th,Team Dayton Cycling
+34,231392,David,Rich,Cedarville,OH,46:45.th,Team Dayton Cycling
 35,438443,George,Morrison IV,Indianapolis,IN,46:47.th,Fitness Lab- Indy
 36,174113,Joe,Fuller,Prospect,KY,46:49.th,Clarksville Schwinn powered by
 37,400999,Kyle,Hitz,Pittsburgh,PA,46:50.th,La Prima Espresso Co. Racing
@@ -161,7 +161,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,205603,Tom,Keller,Solon,OH,31:45.5,Team Spin/Litzler Automation
 7,281967,Robert,Brnilovich,Akron,OH,31:45.9,Snakebite Racing
 8,84148,darren,williams,Roanoke,IN,31:47.6,Monster Media Elite Masters
-9,101932,James,Dennedy,Dayton,OH,31:58.9,Team Ghisallo
+9,101932,James,Dennedy,Union Center,WI,31:58.9,Team Ghisallo
 10,331066,Paul,Neff,Cincinnati,OH,31:59.0,Team Riverpoint
 11,267052,Shayne,Dillinger,Beavercreek,OH,31:59.1,Ghisallo Cycling Team
 12,142059,Dale,Eads,Loveland,OH,31:59.2,ZWS / Brilliant Advice
@@ -171,7 +171,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 06/23/2017 Criterium Men CAT 1/2/3 MASTERS 40+
 Place,License #,First,Last,City,State,Time,Team
-1,82244,chris,richter,Fishers,IN,32:45.2,Zone-6 Cycling
+1,82244,chris,richter,Carmel,IN,32:45.2,Zone-6 Cycling
 2,172784,dan,greene,Pittsburgh,PA,32:46.7,East End Cycling
 3,120645,Bo,Sherman,Loveland,OH,32:47.2,Relevant Works Cycling
 4,367918,Nick,Mossing,Holland,OH,32:47.7,Maumee Valley Wheelmen
@@ -198,7 +198,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,143297,Jenette,Williams,Proctorville,OH,33:49.5,First Internet Bank Cycling
 10,166038,Sierra,Siebenlist,Indianapolis,IN,33:50.1,Women's Racing Project
 11,419163,Marie,Tutterow,Johnson City,TN,33:52.3,Team Heroes - MOB
-12,196566,Julie,Sanchez,Finchville ,KY,33:52.4,
+12,196566,Julie,Sanchez,Finchville,KY,33:52.4,
 
 06/23/2017 Criterium Women CAT 4/5
 Place,License #,First,Last,City,State,Time,Team

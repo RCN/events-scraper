@@ -35,7 +35,7 @@ Place,License #,First,Last,City,State,Time,Team
 31,0,Vasili,Veziris,,,,
 32,368297,Evan,Hudelson,Hughson,CA,,Funsport Bikes Cycling Team
 33,527556,Ryer,Porter,Lodi,CA,,Eight Mile Llamas
-34,494505,CJ,Mooneyham,Santa Rosa,CA,,Form + Data p/b Mercedes Benz of Modesto
+34,494505,CJ,Mooneyham,Turlock,CA,,Form + Data p/b Mercedes Benz of Modesto
 35,0,Robbie,Farrens,,,,
 36,523314,Steve,Mendoza,Sacramento,CA,,
 37,524604,Brandon,rapp,Santa Clara,CA,,SJBC
@@ -57,7 +57,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,459638,Albert,Lehman,Lodi,CA,,Clean Power Cycling pb TESLA
 7,420101,Jason,Roth,El Dorado Hills,CA,,Revs Road Race p/b Kinetic Cycles
 8,534173,Richard,Bach,Elk Grove,CA,,
-9,465943,Jason,Orozco,El Dorado Hillsl ,CA,,
+9,465943,Jason,Orozco,El Dorado Hillsl,CA,,
 10,62873,Val,Encomio,Turlock,CA,,Funsport Bikes Cycling Team
 11,371171,Andrew,Battistessa,Sacramento,CA,,Rio Strada Racing
 12,512503,Krisztian,Markella,Stockton,CA,,Michael David Winery Cycling Team
@@ -78,7 +78,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,392081,Michael,Wilkins,Tracy,CA,,Clean Power Cycling pb TESLA
 4,497090,Don,Haugen,Folsom,CA,,Roseville Cyclery Racing
 5,371171,Andrew,Battistessa,Sacramento,CA,,Rio Strada Racing
-6,465943,Jason,Orozco,El Dorado Hillsl ,CA,,
+6,465943,Jason,Orozco,El Dorado Hillsl,CA,,
 7,361335,Albert,Coble,Oakdale,CA,,Bell Real Estate Cycling
 8,419450,Oto,Slavos,San Jose,CA,,SquadraSF p/b Terun
 9,459638,Albert,Lehman,Lodi,CA,,Clean Power Cycling pb TESLA
@@ -108,7 +108,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,49344,Michael,Charleton,Windsor,CA,,Red Peloton
 8,60730,Shaun,Bagley,Visalia,CA,,CoreTechs  Cycling-TwT
 9,11946,Michael,Foley,San Rafael,CA,,City Cycle Racing
-10,295422,Jake,Hensley,Granite Bay,CA,,Audi Reno-Tahoe Cycling
+10,295422,Jake,Hensley,Roseville,CA,,Audi Reno-Tahoe Cycling
 11,289169,Aaron,Marchand,Sacramento,CA,,Folsom Bike/Trek
 12,299720,Travis,Lee,Citrus Heights,CA,,Folsom Bike/Trek
 13,319284,Ronnie,Leavitt,Rocklin,CA,,Team Specialized/Touchstone Racing
@@ -176,14 +176,14 @@ Place,License #,First,Last,City,State,Time,Team
 
 06/04/2017 Criterium Men Cat 1/2
 Place,License #,First,Last,City,State,Time,Team
-1,381623,Owen,Gillott,Foster City ,CA,,Storck-CCN
-2,207262,Andrew,Goessling,El Cerrito,CA,,Team Mike's Bikes p/b Equator Coffees
+1,381623,Owen,Gillott,Foster City,CA,,Storck-CCN
+2,207262,Andrew,Goessling,Oakland,CA,,Team Mike's Bikes p/b Equator Coffees
 3,397835,Cole,Davis,Folsom,CA,,NCCF/ Team Specialized Juniors
 4,283185,Anthony,Ferretti,Oroville,CA,,AMain Cycling Team
 5,234584,Joshua,Carling,El Dorado,CA,,Williams Cycling
 6,494043,Leon,Gledhill,,,,Team Mike's Bikes p/b Equator Coffees
 7,466256,MARIO,ZAMORA,Alameda,CA,,Pacific Premier Bank
-8,306325,Willie,Myers,Orinda,CA,,Herbalife p/b Marc Pro - Narure's Bakery
+8,306325,Willie,Myers,Davis,CA,,Herbalife p/b Marc Pro - Narure's Bakery
 9,383976,Aaron,Schmitz,El Dorado Hills,CA,,
 10,283386,Jeffrey,Buscheck,Davis,CA,,Davis Bike Club Elite Team
 11,287912,Todd,Gosselaar,Corona,CA,,
@@ -230,7 +230,7 @@ DNF,413330,Aaron,McDevitt,Mountain View,CA,,SquadraSF p/b Terun
 
 06/04/2017 Criterium Men Cat 3
 Place,License #,First,Last,City,State,Time,Team
-1,418571,Stephen,Lenz,Turlock,CA,,Chico Cycling Team
+1,418571,Stephen,Lenz,Davis,CA,,Chico Cycling Team
 2,434471,emmett,smith,Millbrae,CA,,
 3,251332,Stefen,Creason,Orangevale,CA,,
 4,481875,Juan,Duarte,Berkeley,CA,,
@@ -253,7 +253,7 @@ DNF,310825,Aliya,Traficante,Chico,CA,,Folsom Bike/Trek
 
 06/04/2017 Criterium Women Cat 3/4/5
 Place,License #,First,Last,City,State,Time,Team
-1,455528,shelby,tramel,San Francisco,CA,,RAZZLE DAZZLE
+1,455528,shelby,tramel,Oakkland,CA,,RAZZLE DAZZLE
 2,340330,Eleanor,Velez,El Dorado Hills,CA,,
 3,458778,Makenzie,DeLaughder,Davis,CA,,Team Mikes Bikes p/b Equator Coffees
 4,315886,Karen,Munoz,Cameron Park,CA,,Breakaway Women's Racing p/b Kinetic Cycles
@@ -284,5 +284,5 @@ Place,License #,First,Last,City,State,Time,Team
 8,290262,Michelle,Nightengale,Modesto,CA,,CA Technologies Racing
 9,458897,amber,pearson,El Dorado Hills,CA,,Rio Strada Racing
 10,354026,Erica,Schwanke,San Francisco,CA,,JAKROO presented by Chrome Industries
-DNP,455528,shelby,tramel,San Francisco,CA,,RAZZLE DAZZLE
+DNP,455528,shelby,tramel,Oakkland,CA,,RAZZLE DAZZLE
 DNF,425153,Ginger,Boyd,Los Angeles,CA,,Stinner Black Sheep

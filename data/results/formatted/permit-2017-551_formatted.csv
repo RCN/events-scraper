@@ -24,12 +24,12 @@ Place,License #,First,Last,City,State,Time,Team
 6,79052,Michael,Moule,Koloa,HI,,
 7,429008,Carl,Nethercutt,Honolulu,HI,,
 8,84338,Rick,Beach,Kapaa,HI,,
-9,344756,Jason,Nakayama,Ewa Beach,HI,,
+9,344756,Jason,Nakayama,Honolulu,HI,,
 DNF,297509,Joe,Funk,Kilauea,HI,,
 
 05/27/2017 Criterium Women Cat 1/2/3/4/5 20+
 Place,License #,First,Last,City,State,Time,Team
-1,534343,patricia,jennings,Kapaa,HI,,
+1,500671,patricia,jennings,Kapaakapaa,HI,,
 2,184113,Kate,Johnson,Kaneohe,HI,,
 3,387836,Nikki,Moreno,Honolulu,HI,,
 4,280612,Monique,van der Aa,Honolulu,HI,,
@@ -55,10 +55,10 @@ Place,License #,First,Last,City,State,Time,Team
 3,5256,Ray,Brust,Honolulu,HI,44,
 4,84338,Rick,Beach,Kapaa,HI,40,
 5,322184,Richard,Collins,Kula,HI,38,
-6,377035,Carl,Nethercutt,Ewa Beach,HI,37,
+6,429008,Carl,Nethercutt,Honolulu,HI,37,
 7,79052,Michael,Moule,Koloa,HI,31,
 8,95049,Carl,Brooks,Honolulu,HI,28,
-9,344756,Jason,Nakayama,Ewa Beach,HI,26,
+9,344756,Jason,Nakayama,Honolulu,HI,26,
 
 05/27/2017 Omnium Women Cat 1/2/3/4/5 20+
 Place,License #,First,Last,City,State,Time,Team
@@ -80,7 +80,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,376672,Jeffrey,Ling,Honolulu,HI,1:11:26,
 5,202583,Joseph,Kennedy,Honolulu,HI,1:13:46,
 6,322184,Richard,Collins,Kula,HI,1:13:46,
-7,344756,Jason,Nakayama,Ewa Beach,HI,1:15:50,
+7,344756,Jason,Nakayama,Honolulu,HI,1:15:50,
 8,496926,Collen,Kelton,Mililani,HI,1:16:08,
 9,401181,Jordan,Yoshimoto,Ewa Beach,HI,1:27:18,
 10,0,Bart,Abbott,,,1:54:44,
@@ -101,7 +101,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,0,FangFei,Wu,,,1:36:17,
 13,532040,Jerome,Adamczyk,Kaneohe,HI,1:37:23,
 14,405779,Luke,Fornari,Lihue,HI,1:37:44,
-15,534015,Scott,Hyde,Honolulu,HI,1:52:29,
+15,534015,Scott,Hyde,Linton,KY,1:52:29,
 16,506956,Derek,Johnson,Kalaheo,HI,2:15:39,
 17,182489,Keith,Perry,Scottsdale,AZ,2:30:18,
 18,347058,Spencer,Smith,Woodstock,VT,2:45:57,
@@ -127,7 +127,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,532471,Alastair,Bloxsom,Kapaa,HI,2:05:54,
 18,376495,Darren,Otsuka,Honolulu,HI,2:08:10,
 19,317764,Tad,Jackson,Koloa,HI,2:10:12,
-20,504770,Patrick,Ogilvie,Lawai,HI,2:23:38,
+20,533761,Patrick,Ogilvie,Santa Monica,CA,2:23:38,
 
 05/27/2017 Road Race Men Cat 1/2/3/4/5 60-69
 Place,License #,First,Last,City,State,Time,Team
@@ -226,7 +226,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,84338,Rick,Beach,Kapaa,HI,25:45.5,
 5,5256,Ray,Brust,Honolulu,HI,25:53.6,
 6,297509,Joe,Funk,Kilauea,HI,26:18.9,
-7,344756,Jason,Nakayama,Ewa Beach,HI,26:52.3,
+7,344756,Jason,Nakayama,Honolulu,HI,26:52.3,
 8,79052,Michael,Moule,Koloa,HI,26:59.9,
 9,429008,Carl,Nethercutt,Honolulu,HI,27:07.9,
 10,95049,Carl,Brooks,Honolulu,HI,29:15.9,

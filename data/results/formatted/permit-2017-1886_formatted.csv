@@ -81,7 +81,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,171332,Joseph,LaCour,Mansfield,TX,,Crest RBM
 1,367301,Larry,Ocampo,Cypress,TX,,NWCC
 2,438973,Austin,Laine,Houston,TX,,NWCC
-2,378945,Kevin,Duncan,Katy ,TX,,NWCC
+2,378945,Kevin,Duncan,Katy,TX,,NWCC
 2,422697,Max,Browne,Houston,TX,,Momentum/Atomic
 3,276837,Jim,Day,Austin,TX,,Shred Monster
 3,117,Edgar,Nunnelly,Houston,TX,,Bike Barn
@@ -98,7 +98,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,171332,Joseph,LaCour,Mansfield,TX,11.45,Crest RBM
 3,52993,Todd,Mitchell,Deer Park,TX,11.57,Bike Barn
 4,422697,Max,Browne,Houston,TX,11.86,Atomic
-5,378945,Kevin,Duncan,Katy ,TX,11.91,NWCC
+5,378945,Kevin,Duncan,Katy,TX,11.91,NWCC
 6,47069,Robert,Bodamer,Kingwood,TX,12.32,Matrix
 7,305126,Austin,Mallet,Spring,TX,12.52,Southern Elite
 8,349414,Ken,Prine,Katy,TX,12.75,NWCC
@@ -136,7 +136,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,171332,Joseph,LaCour,Mansfield,TX,,Crest RBM
 2,438973,Austin,Laine,Houston,TX,,NWCC
 3,52993,Todd,Mitchell,Deer Park,TX,,Bike Barn
-4,378945,Kevin,Duncan,Katy ,TX,,NWCC
+4,378945,Kevin,Duncan,Katy,TX,,NWCC
 5,422697,Max,Browne,Houston,TX,,Momentum/Atomic
 6,387057,Brady,Reed,Magnolia,TX,,Strike Cycling
 7,47069,Robert,Bodamer,Kingwood,TX,,Matrix

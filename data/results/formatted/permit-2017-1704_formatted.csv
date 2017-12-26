@@ -32,7 +32,7 @@ Place,License #,First,Last,City,State,Time,Team
 25,295821,Joe,Christiansen,Lyons,CO,,USA
 25,535708,Thomas,Rotherham,,,,GBR
 25,396397,Juan,Serrano,Los Angeles,CA,,MEX
-31,337242,Dominic,Suozzi,16012 N Nyack Dr,AZ,,USA
+31,337242,Dominic,Suozzi,Colorado Springs,CO,,USA
 31,0,Blake,RYAN,,,,AUS
 31,535705,Sam,LIGTLEE,,,,NED
 31,389311,Evan,Thomson,Briegnsville,PA,,USA
@@ -69,7 +69,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,0,Rachel,JAMES,,,,GBR
 25,535713,Tess,YOUNG,,,,NZL
 25,405231,Meghan,Grant,,,,CAN
-25,321084,Marcy,Bardman,Oley,PA,,USA
+25,321084,Marcy,Bardman,Jackson,WY,,USA
 25,0,Jessica,SALAZAR VALLES,,,,MEX
 25,395176,Janelly,Prieto,Hollywood,FL,,USA
 25,0,Ellie,COSTER,,,,GBR
@@ -80,6 +80,55 @@ Place,License #,First,Last,City,State,Time,Team
 31,535714,Claudia,GNUDI,,,,RSA
 31,236099,Michelle,Lee,Philadelphia,PA,,USA
 37,0,Jennifer,ABBOT,,,,RSA
+
+06/10/2017 Miss and Out Men Cat 1/2 Ntc
+Place,License #,First,Last,City,State,Time,Team
+1,535708,Tom,ROTHERHAM,,,,GBR
+2,430668,Stephen,HALL,,,,AUS
+3,456586,Akil,CAMPBELL,North Miami Beach,FL,,TTO
+4,266774,Zachary,KOVALCIK,Portland,OR,,USA
+5,501222,Ed,VEAL,,,,CAN
+6,509954,Jamol,EASTMOND,,,,BAR
+7,0,Edwin,SUTHERLAND,,,,BAR
+8,478337,Jeffrey,HOOGLAND,,,,NED
+9,544807,Callum,SAUNDERS,,,,NZL
+10,544808,Samuel,DAKIN,,,,NZL
+11,353458,Gevan,SAMUEL,Ocoee,FL,,TTO
+12,481012,Mauro,AGOSTINI,,,,ARG
+13,0,Yorick,BOS,,,,NED
+14,480007,Zac,WILLIAMS,,,,NZL
+15,467559,Ignacio,PRADO,,,,MEX
+16,380295,John,KUHFAHL,Ingleside,IL,,USA
+17,438887,Justin,BUTSAVAGE,Macungie,PA,,USA
+18,396397,Juan,SERRANO,Los Angeles,CA,,ARG
+19,544812,Stefan,MATZNER,,,,AUT
+20,481231,Leandro,BOTTASSO,,,,ARG
+21,535709,MIKE,SCHOONDERWOERD,,,,NLD
+22,178966,Michael,CHAUNER,West Chester,PA,,USA
+23,7344,Tyler,COLE,San Francisco,CA,,TTO
+24,540830,Joel,YATES,,,,NZL
+25,277696,Matthew,MONTESANO,Philadelphia,PA,,USA
+26,312612,Tyler,NOTHSTEIN,Orefield,PA,,USA
+27,296354,Ashton,LAMBIE,Lawrence,KS,,USA
+28,354940,Joshua,GIBSON,Katy,TX,,USA
+29,275501,Robert,MAYFIELD,Saint Louis,MO,,USA
+30,0,Carne,GROUBE,,,,NZL
+
+06/10/2017 Miss and Out Women Cat 1/2 NTC
+Place,License #,First,Last,City,State,Time,Team
+1,293380,JENNIFER,VALENTE,San Diego,CA,,USA
+2,535710,ANITA,STENBERG,,,,NOR
+3,535711,Devaney,COLLIER,,,,CAN
+4,405231,Meghan,GRANT,,,,CAN
+5,389569,Emma,WORKOWSKI,Kutztown,PA,,USA
+6,294746,Christina,BIRCH,Los Angeles,CA,,USA
+7,0,RACHEL,JAMES,,,,GBR
+8,535714,Claudia,GNUDI,,,,RSA
+9,0,JESSICA,SALAZAR VALLES,,,,MEX
+10,544806,Jennifer,ABBOT,,,,RSA
+11,535713,Tess,YOUNG,,,,NZL
+12,256635,Heidi,GOODSON,Philadelphia,PA,,USA
+13,368373,TRAVIS,RABBIT,Pittsburgh,PA,,USA
 
 06/09/2017 International Omnium Men Cat 1/2 NTC
 Place,License #,First,Last,City,State,Time,Team
@@ -152,7 +201,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,0,Patrice,ST. LOUIS PIVIN,,,,CAN
 23,295821,Joe,Christiansen,Lyons,CO,,USA
 24,535708,Thomas,Rotherham,,,,GBR
-25,337242,Dominic,Suozzi,16012 N Nyack Dr,AZ,,USA
+25,337242,Dominic,Suozzi,Colorado Springs,CO,,USA
 26,0,Callum,SAUNDERS,,,,NZL
 27,0,Conor,ROWLEY,,,,AUS
 28,0,Sam,DAKIN,,,,NZL

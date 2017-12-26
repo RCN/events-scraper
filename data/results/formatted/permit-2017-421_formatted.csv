@@ -21,7 +21,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,83031,John,Squillaci,Albuquerque,NM,,Velo Veloce
 13,458075,Gabriel,Aragon,Albuquerque,NM,,Squadra De La Pista
 14,412871,Wendell,Egelhoff,Santa Fe,NM,,Bike N Sport Racing
-DNF,355982,Mike,Hunter,Edgewood,NM,,Nero Veloce PB MTC
+DNF,355982,Mike,Hunter,Albuquerque,NM,,Nero Veloce PB MTC
 DNF,260271,Tony,Bettini,Albuquerque,NM,,
 DNF,309593,Ruben,Rosales,Albuquerque,NM,,Ghost Olympus Racing
 DNF,309230,Tim,Ketelaar,Las Cruces,NM,,Zia Velo Cycling
@@ -40,7 +40,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,507887,Zach,Taraschi,Albuquerque,NM,,UNM Cycling
 10,173389,Robert,Romero,Santa Fe,NM,,NM Bike n Sport
 11,527495,Isaac,Alvidrez,El Paso,TX,,EP CYCLISTS
-12,424396,James,Ianni,Denver,CO,,Fort Lewis College
+12,424396,James,Ianni,Durango,CO,,Fort Lewis College
 13,512191,Patrick,Roddy,Albuquerque,NM,,
 14,477884,Matt,Piccarello,Albuquerque,NM,,
 15,510625,Tony,Blankenship,Santa Fe,NM,,NM Bike N. Sport
@@ -51,14 +51,14 @@ Place,License #,First,Last,City,State,Time,Team
 20,0,Juan,Ortiz,,,,Desert Fox Race Team
 21,434340,Francisco,Rodriguez,El Paso,TX,,Desert Fox Race Team
 23,450218,Jason,Church,Albuquerque,NM,,Fat Tire Cycles
-24,501707,ROSS,LUNZ,New Orleans,LA,,SQUADRA DELLA PISTA
+24,501707,ROSS,LUNZ,Abluquerque,NM,,SQUADRA DELLA PISTA
 25,489125,Evan,Reid,Terrace Park,OH,,ASU Cycling
 26,428657,Kevin,Roberson,Albuquerque,NM,,Car Crafters Cycling
 27,499841,Tyne,Sansom,Portales,NM,,
 28,410390,Carl,Gable,Santa Fe,NM,,NM BikeNSport
 29,365143,Ryan,Read,Las Cruces,NM,,New Mexico State University
 30,457377,Nathaniel,Miller,Tucson,AZ,,University Of Arizona
-31,515272,Justin,Garcia,Albuquerque,NE,,
+31,515272,Justin,Garcia,Bernalillo,NM,,
 32,0,Kenneth,Pepin,,,,Sandia Mufflers
 33,0,Patrick,Butler,,,,
 34,130276,Shawn,Martin,Ft Collins,CO,,
@@ -85,7 +85,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,303997,Michael,Abdalla,Albuquerque,NM,,Echelon Racing
 12,504348,Jose,Valdez,El Paso,TX,,EP CYCLISTS
 13,406945,Ryan,Christianson,Grand Junction,CO,,Natural Grocers Cycling Team
-14,407184,Sam,Vickery,Littleton,CO,,Fort Lewis College
+14,407184,Sam,Vickery,Durango,CO,,Fort Lewis College
 15,422886,Alexander,Alvarez,Tucson,AZ,,University Of Arizona
 16,459536,Alan,Bonk,Tempe,AZ,,ASU Cycling
 17,251814,Jean,Fontana,Santa Fe,NM,,
@@ -97,24 +97,24 @@ DNF,486547,Julian,Maissel,Port Washington,NY,,Fort Lewis College
 DNF,466755,Sidney,Scheer,Albuquerque,NM,,Car Crafters Cycling
 DNF,458864,Benjamin,Mangilit,Tempe,AZ,,ASU Cycling
 DNF,521857,Timothy,Maley,Tucson,AZ,,University Of Arizona
-DNF,457884,Jake,Marasco,Durango,CO,,Fort Lewis College
+DNF,457884,Jake,Marasco,Claremont,CA,,Fort Lewis College
 
 04/02/2017 Road Race Men CAT1/2/3/Coll-A 0-99
 Place,License #,First,Last,City,State,Time,Team
 1,380332,Cormac,McGeough,Carbondale,CO,,Fort Lewis College
-2,294241,fortunato,ferrara,Albuquerque,NM,,RA Racing Apparel/BMC.
+2,294241,fortunato,ferrara,Santa Fe,NM,,RA Racing Apparel/BMC.
 3,493721,Miguel,Santillanes,,,,Joyerias Meza
 4,365258,Brannan,Fix,Fort Collins,CO,,Colorado Mesa University
 5,169765,Alvin,Nordell,Golden,CO,,Natural Grocers Cycling Team
 6,382065,David,Greif,Tucson,AZ,,University Of Arizona
 7,331778,Kip,Taylor,Fort Collins,CO,,Team Rio Grande
 8,46845,Kevin,Nicol,Lafayette,CO,,Juwi Solar
-9,186350,Jonathan,Baker,Chico,CA,,Chico Cycling Team
+9,186350,Jonathan,Baker,Seattle,WA,,Chico Cycling Team
 10,172139,Bryan,Reid,Santa Fe,NM,,RA Racing Apparel/BMC
 11,413856,Mauro,Rato,Grand Junction,CO,,Colorado Mesa University
 12,210273,Mark,Aasmundstad,Albuquerque,NM,,
 13,439756,Tyrel,Fuchs,Santa Rosa,NM,,Elevate Racing
-14,356788,Lucas,Rowton,La Canada Flintridge,CA,,Fort Lewis College
+14,356788,Lucas,Rowton,Durango,CO,,Fort Lewis College
 15,484364,Andre,Bos,Durango,CO,,Fort Lewis College
 16,291935,James,Hilyer,Durango,CO,,Fort Lewis College
 17,282067,Ian,McPherson,Boulder,CO,,Fort Lewis College
@@ -139,7 +139,7 @@ DNF,484046,Juan Jose,Garcia,,,,Joyerias Meza
 DNF,303845,Taylor,Squillaci,Albuquerque,NM,,Nero Veloce
 DNF,267935,Andrew,Shapiro,Santa Fe,NM,,RA Racing Apparel/BMC
 DNF,253918,David,Ubinger,El Paso,TX,,Crazy Cat Cyclery/ FSA
-DNF,422930,Scott,Jones,Tempe,AZ,,ASU Cycling
+DNF,422930,Scott,Jones,Scottsdale,AZ,,ASU Cycling
 DNF,394485,Michael,Nightingale,Boulder,CO,,Michael
 DNF,330938,Joey,Bacala,Albuquerque,NM,,4D Racing
 
@@ -180,7 +180,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,290894,Gretchen,Selby,Los Alamos,NM,,GHOST Olympus Racing
 DNF,516656,Emelie,Persson,Grand Junction,CO,,Colorado Mesa University
 DNF,186365,Brigitte,Reid,Santa Fe,NM,,Dallas Bike Works
-DNF,459515,Alissa,Albrecht,Tempe,FL,,ASU Cycling
+DNF,459515,Alissa,Albrecht,Tempe,AZ,,ASU Cycling
 DNF,414481,Jennifer,Quijada,Flagstaff,AZ,,NAU Cycling
 DNF,496845,Pearl,Dixon,Tucson,AZ,,University Of Arizona
 
@@ -201,7 +201,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,47922,Steve,Alschuler,Albuquerque,NM,00:29:36,High Desert
 5,272907,Bill,Dahl,Corrales,NM,00:30:11,Sport Systems 505 Cycling
 6,53480,Randall,Bradford,Albuquerque,NM,00:30:12,Echelon Racing
-7,355982,Mike,Hunter,Edgewood,NM,00:30:20,Nero Veloce PB MTC
+7,355982,Mike,Hunter,Albuquerque,NM,00:30:20,Nero Veloce PB MTC
 8,260271,Tony,Bettini,Albuquerque,NM,00:30:41,
 9,59098,Eugene,Dougherty,Los Alamos,NM,00:30:48,High Desert Bicycles Team
 10,201278,David,Storey,Franktown,CO,00:31:26,Natural Grocers
@@ -229,7 +229,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,525753,Esteban,Duran,El Paso,TX,00:34:46,
 15,480549,Brenden,Thurmond,Albuquerque,NM,00:36:42,BZ Cycling/TLC Development
 16,498687,Jayson,Crowley,El Paso,TX,00:37:12,
-17,515272,Justin,Garcia,Albuquerque,NE,00:37:22,
+17,515272,Justin,Garcia,Bernalillo,NM,00:37:22,
 18,0,Gordon,Franz,,,00:39:07,
 19,151028,Oscar,Lugo,W Lafayette,IN,00:39:13,
 20,528871,ANDREW,HAHN,Albuquerque,NM,00:40:38,
@@ -257,9 +257,9 @@ DNF,353262,Ryan,Hentz,Durango,CO,,Bikeman.com
 Place,License #,First,Last,City,State,Time,Team
 1,46845,Kevin,Nicol,Lafayette,CO,00:25:05,Juwi Solar
 2,331778,Kip,Taylor,Fort Collins,CO,00:25:54,Team Rio Grande
-3,294241,fortunato,ferrara,Albuquerque,NM,00:26:00,RA Racing Apparel/BMC.
+3,294241,fortunato,ferrara,Santa Fe,NM,00:26:00,RA Racing Apparel/BMC.
 4,32168,Al,Senft,Albuquerque,NM,00:26:12,Zia Velo Cycling
-5,186350,Jonathan,Baker,Chico,CA,00:26:39,Chico Cycling Team
+5,186350,Jonathan,Baker,Seattle,WA,00:26:39,Chico Cycling Team
 6,302395,EVAN,STADE,Boulder,CO,00:27:04,Sonic Boom p/b Lucky Pie
 7,75538,Jerry,Garcia,Dona Ana,NM,00:27:22,ZiaVelo Cycling
 8,524521,Arne,Egner,Grand Junction,CO,00:27:39,Colorado Mesa University

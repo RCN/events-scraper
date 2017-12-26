@@ -50,7 +50,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 04/30/2017 Omnium Mixed Category 1/2/3 Masters 35+
 Place,License #,First,Last,City,State,Time,Team
-1,406399,Simon,Phuah,Downers Grove,IL,1:25:46,INTENT
+1,406399,Simon,Phuah,Littleton,CO,1:25:46,INTENT
 2,285578,John,Boudry,Waukesha,WI,1:25:55,Velocause Centraal Cycling
 3,389934,Derek,Moran,Eden,WI,1:26:17,Gryphon Velo Racing
 
@@ -131,7 +131,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,529170,Drew,Bublitz,Madison,WI,1:11:38,
 11,475253,Dylan,Zakrajsek,Lake Geneva,WI,1:11:38,Tread Head Cycling
 12,507918,JP,Sedita,Milwaukee,WI,1:11:38,
-13,433166,Nick,McCauley,Milwaukee,WI,1:11:42,
+13,433166,Nick,McCauley,Milwaukee,FL,1:11:42,
 14,362846,Matthew,Lyons,Brookfield,WI,1:11:43,Lakes Area Physical Therapy
 15,272754,Matthew,Sokolowski,Pewaukee,WI,1:11:43,Team Wheel & Sprocket
 16,251865,Alex,Schimp,Madison,WI,1:11:44,Wisconsin Cycling at UW-Madison
@@ -180,7 +180,7 @@ Place,License #,First,Last,City,State,Time,Team
 04/29/2017 Road Race Mixed Category 1/2/3/4/5 Masters 35+
 Place,License #,First,Last,City,State,Time,Team
 1,351084,Brian,Turany,Madison,WI,1:17:55,Hollander Benelux Racing
-2,406399,Simon,Phuah,Downers Grove,IL,1:21:56,INTENT
+2,406399,Simon,Phuah,Littleton,CO,1:21:56,INTENT
 3,391071,Frederick,Derocher,West Allis,WI,1:21:56,KS Energy Services / MOSH / Team Wiscons
 4,104579,Ben,Lund,Delafield,WI,1:21:57,Hollander Benelux Racing
 5,249934,Matthew,Bohm,Oak Creek,WI,1:21:58,KS Energy Services / MOSH / Team Wiscons
@@ -260,7 +260,7 @@ Place,License #,First,Last,City,State,Time,Team
 04/28/2017 Time Trial Mixed Category 4/5 Elite
 Place,License #,First,Last,City,State,Time,Team
 1,487729,Corey,Horning,Sun Prairie,WI,03:41.0,Trek Midwest Team
-2,518948,Mickey,Frigge,Waterloo,WI,03:43.4,
+2,361377,Mickey,Frigge,Waterloo,WI,03:43.4,
 3,475253,Dylan,Zakrajsek,Lake Geneva,WI,03:46.2,Tread Head Cycling
 4,430656,Juan Esteban,Tapiero Bernal,Wauwatosa,WI,04:01.2,BELGIANWERKX
 5,310880,Theodore,Pyzyk,Milwaukee,WI,04:02.8,BELGIANWERKX
@@ -308,5 +308,5 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,355424,Robert,Berry,Milwaukee,WI,03:26.2,BELGIANWERKX
 2,285578,John,Boudry,Waukesha,WI,03:56.1,Team Velocause
-3,406399,Simon,Phuah,Downers Grove,IL,04:00.4,INTENT
+3,406399,Simon,Phuah,Littleton,CO,04:00.4,INTENT
 4,389934,Derek,Moran,Eden,WI,04:19.2,Gryphon Velo Racing

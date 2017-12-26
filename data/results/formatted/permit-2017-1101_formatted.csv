@@ -46,13 +46,13 @@ Place,License #,First,Last,City,State,Time,Team
 1,474064,Farid,Noori,Middlebury,VT,0:44:07,Middlebury College
 2,0,Christian,Bua,,,0:46:02,
 3,0,Zackery,Robinette,,,0:51:56,
-4,487103,Luke,Knisley,Canton,CT,1:17:11,UVM Cycling
+4,487103,Luke,Knisley,North Bethesda,MD,1:17:11,UVM Cycling
 
 05/06/2017 Cross Country Men Cat 3 Master 30-39
 Place,License #,First,Last,City,State,Time,Team
 1,524547,Luciano,Souza,Everett,MA,0:40:51,
 2,455162,Timothy,Labua,Cambridge,MA,0:41:03,NEMBA Racing
-3,301774,Andrew,Huff,Arlington,MA,0:44:38,GPM Racing
+3,301774,Andrew,Huff,Watertown,MA,0:44:38,GPM Racing
 4,532523,Jimmy,Christensen,Roxbury,MA,0:46:07,
 5,528766,Wayne,Reavill Jr,Plainville,MA,0:46:38,NEMBA Racing
 6,152983,Bill,Comerford,Boston,MA,0:47:53,
@@ -73,7 +73,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,255830,Seth,Haskell,Hampton,NH,0:45:10,Barks + Wreck
 5,0,Andre,Damota,,,0:45:44,State 9 Racing p/b Vittoria
 6,0,Bradley,Gauthier,,,0:45:49,State 9 Racing p/b Vittoria
-7,43693,Zak,Gourley,South Hamilton,MA,0:46:51,
+7,43693,Zak,Gourley,Hamilton,MA,0:46:51,
 8,0,Kent,Casalinova,,,0:48:04,
 9,0,Chad,Willey,,,0:48:12,
 10,408351,Dave,Crowell,Laconia,NH,0:49:36,State 9 Racing p/b Vittoria
@@ -137,13 +137,13 @@ DNF,468107,Bryan,Grundon,Lincoln,VT,,
 
 05/06/2017 Cross Country Men Cat 2 Junior 12-18
 Place,License #,First,Last,City,State,Time,Team
-1,504221,Ben,Ogden,Landgrove  ,VT,1:18:27,SMS
+1,504221,Ben,Ogden,Landgrove,VT,1:18:27,SMS
 2,497504,Jonah,Vasquez,Piermont,NY,1:19:29,Clockwork Construction Inc./Team Town Cycle
 3,506936,Ethan,Farmer,Randolph Center,VT,1:23:50,Bicycle Express Racing Team
 4,404390,Carson,Beard,Middlesex,VT,1:25:17,Bicycle Express Racing Team
 5,521396,Finn,Sweet,Waterbury Center,VT,1:25:55,BMB Racing
 6,513839,Asa,Chalmers,Landgrove,VT,1:26:24,SMS
-7,404751,Austin,Beard,Middlesex,VT,1:26:25,Bicycle Express Racing Team
+7,432218,Austin,Beard,Middlesex,VT,1:26:25,Bicycle Express Racing Team
 8,530800,Gavin,O'Neil,Andover,MA,1:32:39,Riverside Racing
 9,504483,David,Sandoval,Wolfeboro,NH,1:40:16,
 10,427549,Moki,Kovacs,South Hadley,MA,2:13:18,Real Pickles Racing
@@ -165,8 +165,8 @@ Place,License #,First,Last,City,State,Time,Team
 2,0,David,Breen,,,1:18:18,
 3,184385,Jonathan,Emery,,,1:19:24,State 9 Racing p/b Vittoria
 4,0,Aaron,Burkett,,,1:19:48,
-5,391500,Derek,Skillings,Manchester ,NH,1:20:03,State 9 Racing p/b Vittoria
-6,501987,Jason,Aloisio,Brooklyn,NY,1:21:52,
+5,391500,Derek,Skillings,Manchester,NH,1:20:03,State 9 Racing p/b Vittoria
+6,501987,Jason,Aloisio,New York,NY,1:21:52,
 7,207835,Josh,Austin,Barrington,RI,1:22:53,State 9 Racing p/b Vittoria
 8,397947,Brian,Cole,Portland,ME,1:25:19,Portland Velo Club/Cyclemania
 9,501805,Joshua,Plisinski,Worcester,MA,1:25:28,
@@ -195,7 +195,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,455186,Clyde,Logue,Portsmouth,NH,1:28:05,
 11,376394,Harlen,Lanes,Marlboroug,MA,1:28:28,
 12,127261,Christopher,White,Derry,NH,1:29:24,Cyclonauts
-13,514420,Joshua,Johnson,East Providence,RI,1:30:15,
+13,514420,Joshua,Johnson,Riverside,RI,1:30:15,
 14,199150,Robert,Carney,Allenstown,NH,1:30:47,
 15,0,Brian,Adams,,,1:31:16,
 16,327778,Tim,Kennedy,Milford,NH,1:33:40,
@@ -260,7 +260,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,355944,Gabriel,Kovacs,South Hadley,MA,2:0741,Real Pickles Racing
 DNF,254417,Michele,Satrowsky,Newbury,MA,,Riverside Racing
 DNF,455186,Clyde,Logue,Portsmouth,NH,,Killington Mountain School-KMS Cycling
-DNF,435019,Drew,Blackstone,North Monmouth,ME,,Dr Naylor-Treadwell Training Racing
+DNF,435019,Drew,Blackstone,North Monmouth  Me,ME,,Dr Naylor-Treadwell Training Racing
 DNF,392877,Matthew,Johnson,Newburyport,MA,,Riverside Racing
 
 05/06/2017 Cross Country Men Cat 1 Junior 19-29
@@ -299,7 +299,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,5230,Amos,Brumble IV,Westerly,RI,1:53:55,CCB Racing
 5,517015,Marc,Sexton,Auburn,NH,1:54:21,State 9 Racing p/b Vittoria
 6,224122,R. Michael,McKittrick,Dorchester,MA,1:55:06,Pedalpowertraining.com
-7,507347,Esdras,Pechim,Somerville ,MA,1:55:25,
+7,507347,Esdras,Pechim,Somerville,MA,1:55:25,
 8,172181,Aaron,Miller,Goffstown,NH,1:56:06,State 9 Racing p/b Vittoria
 9,4215,Matt,Boobar,Stratton Mountain,VT,1:57:17,Cannondale/Rhino
 10,457396,Brig,Currie,Bolton,MA,1:57:30,
@@ -351,7 +351,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,345584,Hallie,Blunck,Portland,ME,2:14:39,Moxie Racing p/b Trek/Colonail BC
 8,81604,Kelly,Ault,Middlesex,VT,2:20:08,Bicycle Express Racing Team
 9,458472,Michelle,Milton,Beverly,MA,2:21:40,R-Cubed
-10,175568,Darcy,Foley,Sturbridge,MA,2:22:45,Southbridge Bicycles
+10,175568,Darcy,Foley,Fiskdale,MA,2:22:45,Southbridge Bicycles
 11,320592,Jordan,Dube,Beverly,MA,2:24:46,Craft Factory Racing-Yoga Design Lab
 
 05/06/2017 Cross Country Women Cat 3 Open 19-34

@@ -25,12 +25,12 @@ Place,License #,First,Last,City,State,Time,Team
 21,35628,Philip,TINSTMAN,San Marcos,CA,1:29:46,
 22,218099,Tyler,LOCKE,Canyon Country,CA,1:29:46,
 23,238217,Adam,FARABAUGH,Boulder,CO,1:29:46,
-24,342402,Kevin,GIRKINS,Austin,TX,1:29:46,ELBOWZ Racing p/b Synergy.O
+24,342402,Kevin,GIRKINS,San Marcos,TX,1:29:46,ELBOWZ Racing p/b Synergy.O
 25,287912,Todd,GOSSELAAR,Corona,CA,1:29:47,
 26,498802,Travis,SAMUEL,,,1:29:47,H&R Block Pro Cycling Team
 27,425382,Austin,STEPHENS,Huntington Beach,CA,1:29:47,303 Project
 28,531766,Rene,CORELLA,,,1:29:48,CT: Start Vaxes Cycling Team
-29,526732,Cullen,BROWNE,,,1:29:49,SoCalCycling.com Team
+29,534570,Cullen,BROWNE,Tulsa,OK,1:29:49,SoCalCycling.com Team
 30,347396,Chase,GOLDSTEIN,Los Angeles,CA,1:29:49,The Weather Channel Specialized
 31,197714,Joseph,SCHMALZ,Lawrence,KS,1:29:49,UCI CT: Elevate-KHS Pro Cycling
 32,169774,Brian,MCCULLOCH,Yucaipa,CA,1:29:49,UCI CT: Elevate-KHS Pro Cycling
@@ -44,7 +44,7 @@ Place,License #,First,Last,City,State,Time,Team
 40,507570,Harrison,BAILEY,,,1:29:50,GPM- Stulz
 41,403657,Cristhian,RAVELO,Avon,CO,1:29:50,303 Project
 42,197592,Rex,ROBERTS,Long Beach,CA,1:29:50,Pacific Premier Bank Cycling Te
-43,306325,William,MYERS,Orinda,CA,1:29:50,Herbalife p/b Marc Pro - Nature
+43,306325,William,MYERS,Davis,CA,1:29:50,Herbalife p/b Marc Pro - Nature
 44,349884,Paul,WARNER,Boise,ID,1:29:51,
 45,298571,Garrett,HANKINS,Carmichael,CA,1:29:51,Team Mikes Bikes p/b Equator Co
 46,531568,James,FOUCHE,,,1:29:51,Counties Manukau
@@ -54,7 +54,7 @@ Place,License #,First,Last,City,State,Time,Team
 50,205741,Stefan,ROTHE,Austin,TX,1:29:52,ELBOWZ Racing p/b Synergy.O
 51,355124,Andrei,KRASILNIKAU,Boulder,CO,1:29:52,Holowesko|Citadel Cycling Team
 52,470625,Trevor,O'DONNELL,,,1:29:52,Toronto Hustle
-53,310983,Tice,PORTERFIELD,Bertram,TX,1:29:53,Strike Cycling Elite Team
+53,310983,Tice,PORTERFIELD,Austin,TX,1:29:53,Strike Cycling Elite Team
 54,136696,Stefano,BARBERI,Newbury Park,CA,1:29:53,Support Clean Sport/SeaSucker/G
 55,529809,Samuel,BURSTON,,,1:29:56,Manly Warringah CC
 56,531564,Aaron,BICKNELL,,,1:29:56,Sydney Uni Velo Club
@@ -94,8 +94,8 @@ DNF,41915,Eric,HILBRECHT,Las Vegas,NV,,
 DNF,287780,Taylor,WARREN,San Diego,CA,,303 Project
 DNF,76265,David,KOESEL,Aliso Viejo,CA,,Monster Media Elite Masters
 DNF,340320,Dustin,ARMSTRONG,Oak Park,CA,,
-DNF,381623,Owen,GILLOTT,Foster City ,CA,,
-DNF,527010,Alexis,CARTIER,,,,H&R Block Pro Cycling Team
+DNF,381623,Owen,GILLOTT,Foster City,CA,,
+DNF,424712,Alexis,CARTIER,Moscow,ID,,H&R Block Pro Cycling Team
 DNF,319214,Grant,KOONTZ,Spring,TX,,Arapahoe Resources / Garneau
 DNF,531569,Conor,MURTAGH,,,,Brunswick CC
 
@@ -104,7 +104,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,508211,Alistair,MILLER,Hermosa Beach,CA,34:12,Big Orange Cycling p/b Beachbod
 2,396622,Matthew,EASTER,Valencia,CA,34:13,
 3,222116,James,ESSER,Redlands,CA,34:13,
-4,132324,Anthony,FREEMAN,Marina Del Rey,CA,34:13,Big Orange Cycling p/b Beachbod
+4,132324,Anthony,FREEMAN,Manhattan Beach,CA,34:13,Big Orange Cycling p/b Beachbod
 5,335740,Omar,AUDELO,San Diego,CA,34:13,
 6,503314,Gil,RON,Temecula,CA,34:13,
 7,232565,Van,Geslani,Loma Linda,CA,34:13,
@@ -119,7 +119,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,50418,Tony,ZALDUA,Los Angeles,CA,34:16,Element Racing Team
 17,282943,Bryan,WIERZCHUCKI,Chino Hills,CA,34:17,
 18,496690,Nazaret,RUIZ,Altadena,CA,34:17,
-19,266583,Douglas,SCHALLER,Belmont ,CA,34:18,
+19,266583,Douglas,SCHALLER,Belmont,CA,34:18,
 20,431770,Eduardo,FLORES,Bakersfield,CA,34:18,
 21,162289,Jonathan,SEBAT,San Diego,CA,34:18,
 22,293683,Mikey,PENDOLA,Los Angeles,CA,34:18,
@@ -141,10 +141,10 @@ Place,License #,First,Last,City,State,Time,Team
 38,149174,Kermit,MCGOVERN,Escondido,CA,34:31,
 39,262643,Peter,BECK,San Diego,CA,34:31,
 40,422679,Paterno Jr,DEGRACIA,San Diego,CA,34:31,
-41,1841,Michael,ARALUCE,Santa Ana,CA,34:32,
+41,1841,Michael,ARALUCE,Tustin,CA,34:32,
 42,467906,Eric,OTERO,San Diego,CA,34:33,SDBC/EMERALD TEXTILES p/b UC Cy
 43,369556,Jose,VIGIL,Chula Vista,CA,34:33,Cast a Shadow/Temecula Farmers/
-44,471808,Mark,STROHMAN,Aliso Viejo,CA,34:34,
+44,471808,Mark,STROHMAN,Irvine,CA,34:34,
 45,427571,Robert,HAYES,Lake Forest,CA,34:34,
 46,419293,Leighton,RICE,Murrieta,CA,34:34,
 47,473409,Erren,O'LEARY,Irvine,CA,34:34,
@@ -206,7 +206,7 @@ Place,License #,First,Last,City,State,Time,Team
 32,365239,Roger,LOVETT,San Diego,CA,48:20,
 33,19896,Kevin,KRUGER,Carlsbad,CA,48:20,BBI-SIC
 34,333410,Frank,PICARELLI,Long Beach,CA,48:20,
-35,181807,Paul,LIPSKI,Los Alamitos ,CA,48:21,Team Simple Green/Cannondale/Bi
+35,181807,Paul,LIPSKI,Los Alamitos,CA,48:21,Team Simple Green/Cannondale/Bi
 36,418443,Patricia,MURRAY,San Diego,CA,48:24,
 DNF,49198,Peter,ESPINOZA,Corona,CA,,
 
@@ -241,7 +241,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,136970,Robert,PASCO,Belmont,CA,1:00:25,
 16,497,Anthony,MORROW,Cerritos,CA,1:00:25,S2C/BOSCH pb Pearl Izumi
 17,160060,Ivan,ALTINBASAK,San Diego,CA,1:00:26,
-18,367806,Eric,WRIGHT,Riverside,CA,1:00:26,BestVIP - Mazda p/b Eibach
+18,367806,Eric,WRIGHT,Aliso Viejo,CA,1:00:26,BestVIP - Mazda p/b Eibach
 19,225219,Aaron,COX,Clovis,CA,1:00:28,
 20,76265,David,KOESEL,Aliso Viejo,CA,1:00:28,Monster Media Elite Masters
 21,340320,Dustin,ARMSTRONG,Oak Park,CA,1:00:30,
@@ -257,7 +257,7 @@ Place,License #,First,Last,City,State,Time,Team
 31,438470,Joshua,STOCKINGER,Vista,CA,1:00:34,Monster Media Elite Masters
 32,457048,Dennis,GROB,Costa Mesa,CA,1:00:34,
 33,458669,Steve,KIM,Rancho Palos Verdes,CA,1:00:34,
-34,494008,Peter,DORANTES,Castaic,CA,1:00:35,
+34,494008,Peter,DORANTES,Pine Mountain Club,CA,1:00:35,
 35,396622,Matthew,EASTER,Valencia,CA,1:00:35,
 36,125691,Richard,NELSON,Saint George,UT,1:00:35,FC Racing
 37,511731,Rob,RIGG,Carlsbad,CA,1:00:35,
@@ -266,7 +266,7 @@ Place,License #,First,Last,City,State,Time,Team
 40,263807,Bart,CLIFFORD,Thousand Oaks ,CA,1:00:37,
 41,365352,Lare,WARDROP,Costa Mesa,CA,1:00:40,
 42,377183,Josh,ALVERSON,,CA,1:00:43,
-43,182728,Max,HERNANDEZ,Rancho Cucamonga ,CA,1:00:54,
+43,182728,Max,HERNANDEZ,Rancho Cucamonga,CA,1:00:54,
 44,102467,Adam,MILLS,San Diego,CA,1:00:55,Elevate-KHS
 45,209864,Travis,WILKERSON,Aliso Viejo,CA,1:01:22,Davis Phinney Foundation Master
 46,35628,Philip,TINSTMAN,San Marcos,CA,1:01:53,
@@ -352,7 +352,7 @@ Place,License #,First,Last,City,State,Time,Team
 37,50754,Joseph,DAGOSTINO,San Diego,CA,1:00:32,S2C/BOSCH pb Pearl Izumi
 38,37101,John,WALSH,San Diego,CA,1:00:35,
 39,168222,Greg,HAYES,Corona,CA,1:00:38,
-40,9327,Earl,DETRICK,Thousand Oaks ,CA,1:01:19,
+40,9327,Earl,DETRICK,Thousand Oaks,CA,1:01:19,
 DNF,53048,Richard,SAVITT,Yorba Linda,CA,,Canyon Velo
 DNF,108680,Michael,CARRO,Eagle Rock,CA,,
 DNF,45364,Thomas,GATES,La Mesa,CA,,G S Adams Avenue Bicycles
@@ -369,7 +369,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,215275,Vaughn,NELSON,Loma Linda,CA,23:02,
 7,120722,Frank,FRANCESCO,N. Las Vegas,NV,23:03,
 8,0,Steven,ENGLE,,,23:03,
-9,523469,Jason,WHITE,Washington,UT,23:03,
+9,523469,Jason,WHITE,Leeds,UT,23:03,
 10,393174,Noah,SLACK,El Cajon,CA,23:04,SDBC/EMERALD TEXTILES p/b UC Cy
 11,353220,Alejandro,VASQUEZ,Eastvale,CA,23:04,
 12,531876,Jared,WRIGHT,Riverside,CA,23:05,
@@ -382,7 +382,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,525336,Daniel,GONZALEZ,Tustin,CA,24:34,
 20,525528,Joseph,DALTON,San Diego,CA,24:34,
 21,480572,Allen,MECUM,Eastvale,CA,,
-22,423072,Julius,CUNANAN,National City,CA,@1Lap,
+22,423072,Julius,CUNANAN,La Mesa,CA,@1Lap,
 23,516699,Wesley,KING,Laguna Niguel,CA,@1Lap,Team Velosport Junior & U23 Dev
 24,524225,Spencer,TANNER,San Diego,CA,@1Lap,
 25,419929,Sam,BUTLERWOODHOUSE,Ladera Ranch,CA,@1Lap,Team Velosport Junior & U23 Dev
@@ -455,7 +455,7 @@ Place,License #,First,Last,City,State,Time,Team
 52,467816,Carlos,MARTINEZ -FERNANDEZ,Chula Vista,CA,40:26,
 53,494498,Zachary,Baker,Rancho Cucamonga,CA,40:28,
 54,380881,Joey,SCOTT,Los Angeles,CA,40:29,
-55,493183,Marc,LEON,Ontario,CA,40:31,Southern California Velo -  Mai
+55,493183,Marc,LEON,Pomona,CA,40:31,Southern California Velo -  Mai
 56,401048,Clint,ALLEN,Laguna Hills,CA,40:43,
 57,278306,Satoshi,FURUKAWA,Lomita,CA,40:51,
 58,466057,Esdras,ROLDAN,Los Angeles,CA,42:07,
@@ -483,9 +483,9 @@ Place,License #,First,Last,City,State,Time,Team
 9,431770,Eduardo,FLORES,Bakersfield,CA,59:16,
 10,480974,David,STEINHAFEL,Los Angeles,CA,59:17,Big Orange Cycling p/b Beachbod
 11,189872,David,ROUS,Bakersfield,CA,59:20,
-12,494008,Peter,DORANTES,Castaic,CA,59:22,
-13,356667,Treavor,MATSUSHIMA,Pasadena,CA,59:22,Portland Bicycle Studio
-14,266583,Douglas,SCHALLER,Belmont ,CA,59:23,
+12,494008,Peter,DORANTES,Pine Mountain Club,CA,59:22,
+13,356667,Treavor,MATSUSHIMA,South Pasadena,CA,59:22,Portland Bicycle Studio
+14,266583,Douglas,SCHALLER,Belmont,CA,59:23,
 15,511731,Rob,RIGG,Carlsbad,CA,59:24,
 16,349650,Zach,SOSNOWSKI,San Diego,CA,59:28,
 17,472730,Stephen,IBANEZ,Phoenix,AZ,59:28,Athlete Octane Racing
@@ -496,12 +496,12 @@ Place,License #,First,Last,City,State,Time,Team
 22,293683,Mikey,PENDOLA,Los Angeles,CA,59:54,
 23,293248,Taylor,TONGATE,Corona,CA,1:00:00,Team Velosport Junior & U23 Dev
 24,430072,Carlos,FUERTEGASPAR,Riverside,CA,1:00:13,
-25,367806,Eric,WRIGHT,Riverside,CA,1:00:47,BestVIP - Mazda p/b Eibach
+25,367806,Eric,WRIGHT,Aliso Viejo,CA,1:00:47,BestVIP - Mazda p/b Eibach
 DNF,350676,Phithak,BAINGAM,Las Vegas,NV,,
 DNF,522242,Kyle,BERG,Phoenix,AZ,,Pre-reg wrong race/transfer
 DNF,495216,Gary,WARNER,Los Angeles,CA,,
 DNF,392952,Matt,BRANTVEYN,Poway,CA,,SDBC/EMERALD TEXTILES p/b UC Cy
-DNF,493880,William,RAUS,Murrieta,CA,,
+DNF,493880,William,RAUS,Oceanside,CA,,
 DNF,302654,Dmitry,UCHITEL,Encino,CA,,
 
 04/30/2017 Criterium Men Cat 2
@@ -522,7 +522,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,253987,Joseph,CHICOINE,Clovis,CA,59:13,
 15,396393,John,GARBO,Ontario,CA,59:14,Pacific Premier Bank Cycling Te
 16,438470,Joshua,STOCKINGER,Vista,CA,59:14,Monster Media Elite Masters
-17,279808,Brett,BEDDOW,Grossepointe,MI,59:14,Wolverine Sports Club
+17,279808,Brett,BEDDOW,Grosse Pointe Park,MI,59:14,Wolverine Sports Club
 18,0,Juan,FERRIE,,,59:14,
 19,416256,Steven,FULLER,Claremont ,CA,59:15,
 20,349760,Roberto,ROMAN,Long Beach,CA,59:19,
@@ -545,9 +545,9 @@ DNF,325618,Leo,BUGTAI,Thousand Oaks,CA,,SoCalCycling.com Team
 
 04/30/2017 Criterium Women Pro/Cat 1/2 Prt 1
 Place,License #,First,Last,City,State,Time,Team
-1,186919,Kendall,RYAN,Ventura,CA,58:50,Team TIBCO - Silicon Valley Bank*
+1,186919,Kendall,RYAN,Camarillo,CA,58:50,Team TIBCO - Silicon Valley Bank*
 2,529662,Elizabeth,WILLIAMS,Los Altos,CA,58:50,Hagens Berman | Supermint*
-3,355078,Mandy,HEINTZ,Phoenix,AZ,58:50,Visit Dallas DNA Pro Cycling*
+3,355078,Mandy,HEINTZ,Scottsdale ,AZ,58:50,Visit Dallas DNA Pro Cycling*
 4,411833,Jamie,GILGEN,,,58:50,Rise Racing
 5,188007,Shelby,REYNOLDS,Cypress,CA,58:50,Monster Media Elite Women
 6,288678,Lauren,STEPHENS,Dallas,TX,58:51,Team TIBCO - Silicon Valley Bank*
@@ -556,7 +556,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,497527,Karlee,GENDRON,,,58:52,Rise Racing
 10,145511,Liza,RACHETTO,Boise,ID,58:52,Hagens Berman | Supermint*
 11,527682,Antonieta,GAXIOLA,,,58:52,CONADE-Visit M?xico-Specialized
-12,332072,Katie,CLOUSE,Littleton ,CO,58:52,Visit Dallas DNA Pro Cycling*
+12,332072,Katie,CLOUSE,Park City,UT,58:52,Visit Dallas DNA Pro Cycling*
 13,377849,Angelica,FRAYRE,Chula Vista,CA,58:52,
 14,294746,Christina,BIRCH,Los Angeles,CA,58:53,
 15,528558,Miriam,BROUWER,,,58:53,Rise Racing

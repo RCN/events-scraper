@@ -21,7 +21,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,232232,Brandon,Krawczyk,Saint Paul,MN,,Borah Factory Racing
 DNF,244812,Finn,Kolsrud,Iowa City,IA,,Johnson County Flyers
 DNF,425275,Logan,Grace,Minneapolis,MN,,Apollo Velo U25
-DNF,356965,Nathan,Kleckner,Davenport ,IA,,
+DNF,356965,Nathan,Kleckner,Davenport,IA,,
 
 08/05/2017 Road Race Men Cat 5 Senior
 Place,License #,First,Last,City,State,Time,Team
@@ -84,7 +84,7 @@ Place,License #,First,Last,City,State,Time,Team
 21,402240,Creighton,Stifel,Davenport,IA,,
 22,405955,Ryan,Foley,Dubuque,IA,,Scarlet Fire Racing
 23,382625,Jason,Uhlenhake,Indianola,IA,,Sakari Race Team
-24,431206,Aaron,Van Gelder,Orange City,IA,,Ames Velo
+24,431206,Aaron,Van Gelder,Ames,IA,,Ames Velo
 25,101166,John,Dilger,Garwin,IA,,Hammer Nutrition
 26,314192,Ryan,Handley,Clive,IA,,PSIMET Racing
 DNF,176533,Artur,Golebiewski,Clive,IA,,DMOS Racing Team
@@ -92,7 +92,7 @@ DNF,474107,Shane,VanGampleare,Creston,IA,,DMOS Racing Team
 
 08/05/2017 Road Race Men Cat 3 Senior
 Place,License #,First,Last,City,State,Time,Team
-1,423359,Kevin,O'Connor,Des Moines,IA,,Sakari Race Team
+1,423359,Kevin,O'Connor,Clive,IA,,Sakari Race Team
 2,304411,Micah,Nelson,Wellesley,MA,,New England Devo
 3,368348,Bryan,Wenzel,Iowa City,IA,,Johnson County Flyers
 4,412563,Cole,Limpach,Omaha,NE,,Harvest Racing p/b Midwest Cycling Trek Stores
@@ -138,7 +138,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,389733,Aaron,Wrabek,Ankeny,IA,,Sakari Race Team
 2,379675,David,Alexander,Des Moines,IA,,Sakari Race Team
-3,120099,Brian,Rybarik,Madison,WI,,Sakari Race Team
+3,120099,Brian,Rybarik,Des Moines,IA,,Sakari Race Team
 4,300290,Anthony,Muse,West Des Moines,IA,,Sakari Race Team
 5,356903,Jason,Simpson,Des Moines,IA,,Sakari Race Team
 6,294851,Jason,Beerends,Iowa City,IA,,New Pioneer Food Co-op

@@ -8,12 +8,12 @@ Place,License #,First,Last,City,State,Time,Team
 04/02/2017 Circuit Race Men Cat 1/2/3/4/5 Master 45+
 Place,License #,First,Last,City,State,Time,Team
 1,141309,Rick,LAWTON,Pleasanton,CA,,R4R-Make A Wish
-2,231913,Jason,SCHMIDT,Los Gatos,CA,,Funsport Bikes Cycling Team
+2,231913,Jason,SCHMIDT,San Francisco,CA,,Funsport Bikes Cycling Team
 3,115342,Ken,CALENDER,Salinas,CA,,Don Chapin Monterey Bay Racing Team
 4,407521,Tim,DAVIS,San Jose,CA,,Cycle Sport - Specialized p/b Muscle Milk
 5,459183,Jason,FRITZ,San Jose,CA,,Morgan Stanley Cycling Team
 6,524738,Iver,JOHANSEN,Pacific Grove,CA,,
-7,345270,Brian,MCANDREWS,Danville,CA,,ThirstyBear p/b Akamai
+7,345270,Brian,MCANDREWS,Spring,TX,,ThirstyBear p/b Akamai
 8,29369,Blake,REED,Grover Beach,CA,,Schnur Racing
 9,87938,Steven,ARCHER,Danville,CA,,Morgan Stanley Cycling Team
 10,210572,Tony,HOMES,Danville,CA,,R4R-Make A Wish
@@ -25,7 +25,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,370448,Christian,LAM,San Francisco,CA,,SquadraSF p/b Terun
 3,440626,Tim,MCBIRNEY,Menlo Park,CA,,Cycle Sport - Specialized p/b Muscle Milk
 4,407568,Aidan,MALMBERG,Aptos,CA,,Cycle Sport - Specialized p/b Muscle Milk
-5,380700,Martin,SZWARC,San Francisco ,CA,,Cycle Sport - Specialized p/b Muscle Milk
+5,380700,Martin,SZWARC,San Francisco,CA,,Cycle Sport - Specialized p/b Muscle Milk
 6,397013,christopher,BEALL,Burlingame,CA,,LOW//Factory Racing
 7,224302,Will,BRICKLER,Folsom,CA,,
 DNS,417904,Andrew,MOSS,Bremerton,WA,,US Military Endurance Sports
@@ -51,7 +51,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,481783,Michael,MACHADO,Salinas,CA,,
 17,432898,Levi,JAGO,Salinas,CA,,Don Chapin Monterey Bay Racing Team
 18,522705,TENZIN,WANGZOR,Point Richmond,CA,,
-19,459161,Jeffrey,OSARCZUK,Seaside,CA,,
+19,459161,Jeffrey,OSARCZUK,Boulder,CO,,
 20,41335,Murat,OZGUR,Carmel,CA,,SquadraSF p/b Terun
 DNS,434993,Vasileios,RAPTAKIS,Santa Clara,CA,,SunPower Racing
 
@@ -84,15 +84,15 @@ Place,License #,First,Last,City,State,Time,Team
 9,397700,Erik,SCHILLER,Half Moon Bay,CA,,
 10,224302,Will,BRICKLER,Folsom,CA,,
 11,391518,niklas,BARRETO,San Jose,CA,,SunPower Racing
-12,78591,Matthew,ACCARRINO,San Francisco ,CA,,
+12,78591,Matthew,ACCARRINO,San Francisco,CA,,
 13,511652,Cole,CHERPAK,Tallahassee,FL,,
 14,417904,Andrew,MOSS,Bremerton,WA,,US Military Endurance Sports
-DNP,380700,Martin,SZWARC,San Francisco ,CA,,Cycle Sport - Specialized p/b Muscle Milk
+DNP,380700,Martin,SZWARC,San Francisco,CA,,Cycle Sport - Specialized p/b Muscle Milk
 DNP,258824,Ryan,OAKES,Chico,CA,,AMain Cycling Team
 
 04/02/2017 Circuit Race Men Cat 1/2/3/4 Master 55+
 Place,License #,First,Last,City,State,Time,Team
-1,345270,Brian,MCANDREWS,Danville,CA,,ThirstyBear p/b Akamai
+1,345270,Brian,MCANDREWS,Spring,TX,,ThirstyBear p/b Akamai
 2,407521,Tim,DAVIS,San Jose,CA,,Cycle Sport - Specialized p/b Muscle Milk
 3,29369,Blake,REED,Grover Beach,CA,,Schnur Racing
 4,524738,Iver,JOHANSEN,Pacific Grove,CA,,
@@ -104,17 +104,17 @@ DNP,60079,David,CORTHELL,Reno,NV,,Audi Reno-Tahoe Cycling
 04/02/2017 Circuit Race Men Cat 1/2/3 Master 35+
 Place,License #,First,Last,City,State,Time,Team
 1,230258,will,RIFFELMACHER,San Francisco,CA,,THE OLYMPIC CLUB
-2,380700,Martin,SZWARC,San Francisco ,CA,,Cycle Sport - Specialized p/b Muscle Milk
+2,380700,Martin,SZWARC,San Francisco,CA,,Cycle Sport - Specialized p/b Muscle Milk
 3,40408,Cyrus,BEHROOZI,Menlo Park,CA,,SquadraSF p/b Terun
 4,493864,James,BEAUMIER,Morgan Hill,CA,,Cycle Sport - Specialized p/b Muscle Milk
-5,231913,Jason,SCHMIDT,Los Gatos,CA,,Funsport Bikes Cycling Team
+5,231913,Jason,SCHMIDT,San Francisco,CA,,Funsport Bikes Cycling Team
 DNS,303224,Erik,CAMACHO,San Jose,CA,,ThirstyBear p/b Akamai
 
 04/02/2017 Circuit Race Men Cat 1/2/3 Master 45+
 Place,License #,First,Last,City,State,Time,Team
 1,115342,Ken,CALENDER,Salinas,CA,,Don Chapin Monterey Bay Racing Team
 2,210572,Tony,HOMES,Danville,CA,,R4R-Make A Wish
-3,231913,Jason,SCHMIDT,Los Gatos,CA,,Funsport Bikes Cycling Team
+3,231913,Jason,SCHMIDT,San Francisco,CA,,Funsport Bikes Cycling Team
 4,459183,Jason,FRITZ,San Jose,CA,,Morgan Stanley Cycling Team
 5,55625,David,AVILA,Emerald Hills,CA,,SAFEWAY Cycling
 6,9046,Keith,DEFIEBRE,Salinas,CA,,Cycle Sport - Specialized p/b Muscle Milk
@@ -146,7 +146,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,406861,Shane,MCGUIRE,Mountain View,CA,,SunPower Racing
 5,496554,Dante,LOBUE,San Jose,CA,,Cycle Sport - Specialized p/b Muscle Milk
 6,399678,Trevor,GILMORE,San Francisco,CA,,Team Mikes Bikes p/b Equator Coffees
-7,498709,Mikal,DAVIS,Menlo Park,CA,,Team Mikes Bikes p/b Equator Coffees
+7,498709,Mikal,DAVIS,Redwood City,CA,,Team Mikes Bikes p/b Equator Coffees
 8,459105,Kaito,CLARKE,Milpitas,CA,,SJBC
 9,497101,Jason,ANDERSON,Morgan Hill,CA,,Cycle Sport - Specialized p/b Muscle Milk
 10,307585,Michael,FORD,Menlo Park,CA,,Pen Velo Racing/Summit Bicycles
@@ -169,7 +169,7 @@ Place,License #,First,Last,City,State,Time,Team
 27,386630,sean,MARTIN,Oakland,CA,,LOW//Factory Racing
 28,494598,David,SHIH,Cupertino,CA,,SunPower Racing
 29,460340,Ryan,MOSTOFI,San Luis Obispo,CA,,JLVelo Cycling Team p/b The Freewheel
-30,459161,Jeffrey,OSARCZUK,Seaside,CA,,
+30,459161,Jeffrey,OSARCZUK,Boulder,CO,,
 31,186110,Alvin,CARPENTER,Alameda,CA,,Davis Bike Club Race Team
 
 04/02/2017 Circuit Race Women Cat 1/2/3/4/5 Master 35+
@@ -238,7 +238,7 @@ DNP,434471,Emmett,SMITH,Millbrae,CA,,Pen Velo Racing/Summit Bicycles
 02/26/2017 Circuit Race Men Cat 3/4 Master 35+
 Place,License #,First,Last,City,State,Time,Team
 1,329038,Deniz,WARRAICH,Dublin,CA,,A Bloc Racing
-2,78591,Matthew,ACCARRINO,San Francisco ,CA,,
+2,78591,Matthew,ACCARRINO,San Francisco,CA,,
 3,156438,Robert,HUNT,San Jose,CA,,
 4,393104,Timothy,STUART,Santa Cruz,CA,,
 5,456472,Bernardo,TAPIA,Redwood City,CA,,SunPower Racing
@@ -266,7 +266,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,319966,John,SCHIEFER,Union City,CA,,CoreTechs Cycling TwT
 10,361415,Michael,LOGAN,Livermore,CA,,A Bloc Racing
 11,9046,Keith,DEFIEBRE,Salinas,CA,,Cycle Sport - Specialized p/b Muscle Milk
-DNS,218287,Branton,CURT,San Jose,CA,,
+DNS,218287,Branton,CURT,Saratoga,CA,,
 
 02/26/2017 Circuit Race Men Cat 1/2/3/4 Master 55+
 Place,License #,First,Last,City,State,Time,Team
@@ -329,11 +329,11 @@ Place,License #,First,Last,City,State,Time,Team
 4,467947,Alphonse,LEDUC,San Jose,CA,,Team Mikes Bikes p/b Equator Coffees
 5,496554,Dante,LOBUE,San Jose,CA,,Cycle Sport - Specialized p/b Muscle Milk
 6,240114,Jonathan,ORBAN,Burlingame,CA,,
-7,494623,MATTHEW,HEPWORTH,San Francisco,CA,,SunPower Racing
+7,494623,MATTHEW,HEPWORTH,Palo Alto,CA,,SunPower Racing
 8,428404,Peter,FENG,Redwood City,CA,,Dolce Vita Freewheel p/b SL2
 9,406861,Shane,MCGUIRE,Mountain View,CA,,SunPower Racing
 10,456472,Bernardo,TAPIA,Redwood City,CA,,SunPower Racing
-11,459161,Jeffrey,OSARCZUK,Seaside,CA,,
+11,459161,Jeffrey,OSARCZUK,Boulder,CO,,
 12,438028,Cory,VOGEL,San Francisco,CA,,SunPower Racing
 13,307585,Michael,FORD,Menlo Park,CA,,Pen Velo Racing/Summit Bicycles
 14,494598,David,SHIH,Cupertino,CA,,SunPower Racing
@@ -366,10 +366,10 @@ DNP,370505,Trevor,NIBLOCK,Moraga,CA,,Team Mikes Bikes p/b Equator Coffees
 Place,License #,First,Last,City,State,Time,Team
 1,416562,Philip,MALASPINA,San Martin,CA,,CoreTechs Cycling TwT
 2,17995,Mark,JOHNSON,Mountain View,CA,,CoreTechs Cycling TwT
-3,25655,Jerome,NADEL,Sunnyvale,CA,,ThirstyBear p/b Akamai
+3,25655,Jerome,NADEL,Woodside,CA,,ThirstyBear p/b Akamai
 4,115342,Ken,CALENDER,Salinas,CA,,Don Chapin Monterey Bay Racing Team
 5,9046,Keith,DEFIEBRE,Salinas,CA,,Cycle Sport - Specialized p/b Muscle Milk
-6,345270,Brian,MCANDREWS,Danville,CA,,ThirstyBear p/b Akamai
+6,345270,Brian,MCANDREWS,Spring,TX,,ThirstyBear p/b Akamai
 7,396818,Phil,TERCERO,Morgan Hill,CA,,CoreTechs Cycling TwT
 8,407521,Tim,DAVIS,San Jose,CA,,Cycle Sport - Specialized p/b Muscle Milk
 9,304549,Harold,REIMER,Santa Clara,CA,,SunPower Racing
@@ -394,13 +394,13 @@ Place,License #,First,Last,City,State,Time,Team
 13,392702,Stelios,MCDONALD,San Francisco,CA,,JAKROO presented by Chrome Industries
 14,416390,Sam,ANDERSONMOXLEY,Oakland,CA,,Cycle Sport - Specialized p/b Muscle Milk
 15,224302,Will,BRICKLER,Folsom,CA,,
-16,215821,Ryan,BIBKO,Kent,WA,,Specialized Bicycles
+16,215821,Ryan,BIBKO,Colorado Springs,CO,,Specialized Bicycles
 17,382116,Simon,TUTTLE,Walnut Creek,CA,,A Bloc Racing
 DNP,339008,Chris,CAIN,Monterey,CA,,SquadraSF p/b Terun
-DNP,418571,Stephen,LENZ,Turlock,CA,,Chico Cycling Team
+DNP,418571,Stephen,LENZ,Davis,CA,,Chico Cycling Team
 DNP,460867,Mark,MORTON,Lakeport,CA,,Cycle Sport - Specialized p/b Muscle Milk
-DNP,380700,Martin,SZWARC,San Francisco ,CA,,Cycle Sport - Specialized p/b Muscle Milk
-DNP,231913,Jason,SCHMIDT,Los Gatos,CA,,Funsport Bikes Cycling Team
+DNP,380700,Martin,SZWARC,San Francisco,CA,,Cycle Sport - Specialized p/b Muscle Milk
+DNP,231913,Jason,SCHMIDT,San Francisco,CA,,Funsport Bikes Cycling Team
 DNP,362242,Erik,MUIR,Menlo Park,CA,,
 DNP,415302,Benjamin,GOMEZVILLAFANE,Scotts Valley,CA,,Cycle Sport - Specialized p/b Muscle Milk
 
@@ -423,14 +423,14 @@ Place,License #,First,Last,City,State,Time,Team
 11,456472,Bernardo,TAPIA,Redwood City,CA,,SunPower Racing
 12,495143,Charles,HO,San Jose,CA,,Lost Dog Cycling
 DNS,423613,steven,THOMPSON,Seaside,CA,,Don Chapin Monterey Bay Racing Team
-DNP,418571,Stephen,LENZ,Turlock,CA,,Chico Cycling Team
+DNP,418571,Stephen,LENZ,Davis,CA,,Chico Cycling Team
 DNP,488930,Paul,CHOMSKY,San Francisco,CA,,
 DNP,423129,Hernan,GATPANDAN,Pacifica,CA,,Pen Velo Racing/Summit Bicycles
 
 02/12/2017 Circuit Race Men Cat 3/4 Master 35+
 Place,License #,First,Last,City,State,Time,Team
 1,493864,James,BEAUMIER,Morgan Hill,CA,,Cycle Sport - Specialized p/b Muscle Milk
-2,440491,Philip,BARROS,Danville,CA,,Cycle Sport - Specialized p/b Muscle Milk
+2,440491,Philip,BARROS,Pleasanton,CA,,Cycle Sport - Specialized p/b Muscle Milk
 3,286831,Bradley,EASTHAM,Redwood City,CA,,
 4,494463,Michael,RIYANTO,San Francisco,CA,,SJBC
 
@@ -456,19 +456,19 @@ Place,License #,First,Last,City,State,Time,Team
 8,392702,Stelios,MCDONALD,San Francisco,CA,,JAKROO presented by Chrome Industries
 9,260046,Blaise,HAMEL,Palo Alto,CA,,SquadraSF p/b Terun
 10,476831,Richie,VOS,Mountain View,CA,,SunPower Racing
-11,459276,Mark,HOWARD,Cupertino ,CA,,SunPower Racing
+11,459276,Mark,HOWARD,Cupertino,CA,,SunPower Racing
 12,243216,Antonio,TARUMOTO,Pomona,CA,,Lost Dof Cycling
 13,224302,Will,BRICKLER,Folsom,CA,,
-14,418571,Stephen,LENZ,Turlock,CA,,Chico Cycling Team
+14,418571,Stephen,LENZ,Davis,CA,,Chico Cycling Team
 15,367776,Adrian,YANG,San Jose,CA,,Lost Dog Cycling
 DNS,248976,Sean,ESTES,Morgan Hill,CA,,Cycle Sport - Specialized p/b Muscle Milk
 DNP,339008,Chris,CAIN,Monterey,CA,,SquadraSF p/b Terun
-DNP,380700,Martin,SZWARC,San Francisco ,CA,,Cycle Sport - Specialized p/b Muscle Milk
+DNP,380700,Martin,SZWARC,San Francisco,CA,,Cycle Sport - Specialized p/b Muscle Milk
 
 02/12/2017 Circuit Race Men Cat 1/2/3/4 Master 55+
 Place,License #,First,Last,City,State,Time,Team
 1,407521,Tim,DAVIS,San Jose,CA,,Cycle Sport - Specialized p/b Muscle Milk
-2,345270,Brian,MCANDREWS,Danville,CA,,ThirstyBear p/b Akamai
+2,345270,Brian,MCANDREWS,Spring,TX,,ThirstyBear p/b Akamai
 3,304549,Harold,REIMER,Santa Clara,CA,,SunPower Racing
 4,52292,Tony,WATTS,Reno,NV,,AUDI RENO-TAHOE CYCLING
 
@@ -487,7 +487,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 02/12/2017 Circuit Race Men Cat 1/2/3 Master 45+
 Place,License #,First,Last,City,State,Time,Team
-1,25655,Jerome,NADEL,Sunnyvale,CA,,ThirstyBear p/b Akamai
+1,25655,Jerome,NADEL,Woodside,CA,,ThirstyBear p/b Akamai
 2,55625,David,AVILA,Emerald Hills,CA,,SAFEWAY Cycling
 3,115342,Ken,CALENDER,Salinas,CA,,Don Chapin Monterey Bay Racing Team
 4,54895,Dennis,HOPP,San Jose,CA,,SJBC
@@ -512,7 +512,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,254531,Gavin,LUBBE,Salinas,CA,,
 4,504096,Alex,AKINS,Monterey,CA,,Don Chapin Monterey Bay Racing Team
 5,513636,Nathan,DAVIS,Marina,CA,,Cycle Sport - Specialized p/b Muscle Milk
-6,524669,Ethan,NEMIROFF,Monterey,CA,,Don Chapin Monterey Bay Racing Team
+6,543336,Ethan,NEMIROFF,Monterey,CA,,Don Chapin Monterey Bay Racing Team
 7,516314,noah,FAIRLES,Berkeley,CA,,
 8,524612,Matthew,ELLIOTT,Monterey,CA,,Don Chapin Monterey Bay Racing Team
 9,494448,Cam,JUAREZ,San Francisco,CA,,RAPHA CYCLING CLUB
@@ -548,16 +548,16 @@ Place,License #,First,Last,City,State,Time,Team
 1,390615,Bryan,CHEUNG,San Mateo,CA,,Pen Velo Racing/Summit Bicycles
 2,494490,Madden,TITUS,Mountain View,CA,,SunPower Racing
 3,416939,Kirk,SCHEIBELHUT,Mountain View,CA,,SquadraSF p/b Terun
-4,494623,MATTHEW,HEPWORTH,San Francisco,CA,,SunPower Racing
+4,494623,MATTHEW,HEPWORTH,Palo Alto,CA,,SunPower Racing
 5,498378,Jhenrick james,DADULA,South San Francisco,CA,,Pen Velo Racing/Summit Bicycles
 6,368338,Michael,LEUNG,Santa Clara,CA,,Team Fremont/FFBC p/b Chipotle
-7,498709,Mikal,DAVIS,Menlo Park,CA,,Team Mikes Bikes p/b Equator Coffees
+7,498709,Mikal,DAVIS,Redwood City,CA,,Team Mikes Bikes p/b Equator Coffees
 8,456472,Bernardo,TAPIA,Redwood City,CA,,SunPower Racing
 9,417217,Reece,MACDONALD,San Francisco,CA,,Pen Velo Racing/Summit Bicycles
 10,494463,Michael,RIYANTO,San Francisco,CA,,SJBC
 11,495143,Charles,HO,San Jose,CA,,Lost Dog Cycling
 12,493864,James,BEAUMIER,Morgan Hill,CA,,Cycle Sport - Specialized p/b Muscle Milk
-13,440491,Philip,BARROS,Danville,CA,,Cycle Sport - Specialized p/b Muscle Milk
+13,440491,Philip,BARROS,Pleasanton,CA,,Cycle Sport - Specialized p/b Muscle Milk
 14,423129,Hernan,GATPANDAN,Pacifica,CA,,Pen Velo Racing/Summit Bicycles
 15,186110,Alvin,CARPENTER,Alameda,CA,,Davis Bike Club Race Team
 DNS,488930,Paul,CHOMSKY,San Francisco,CA,,
@@ -574,7 +574,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,399567,Lisa,CORDOVA,Chico,CA,,Cycle Sport - Specialized p/b Muscle Milk
 2,466237,Diniana,PIEKUTOWSKI,Stanford,CA,,RAZZLE DAZZLE
-3,455528,Shelby,TRAMEL,San Francisco,CA,,RAZZLE DAZZLE
+3,455528,Shelby,TRAMEL,Oakkland,CA,,RAZZLE DAZZLE
 4,221127,Beverly,CHANEY,Carmel,CA,,SJBC
 5,262057,Joy,FRANCO,Stanford,CA,,RAZZLE DAZZLE
 6,438201,Margaret,LONERGAN,San Francisco,CA,,RAZZLE DAZZLE
@@ -586,12 +586,12 @@ Place,License #,First,Last,City,State,Time,Team
 2,525493,Claire,MANCINI,Palo Alto,CA,,Eliel Factory Racing
 3,0,Jaimee,ERICKSON,,,,
 4,0,Marianne,BLACK,,,,Stanford Cycling
-DNP,522621,stacy-marie,ISHMAEL,Palo Alo,CA,,
+DNP,522621,stacy-marie,ISHMAEL,Palo Alto,CA,,
 
 02/12/2017 Circuit Race Women Cat 4
 Place,License #,First,Last,City,State,Time,Team
 1,383842,Johanna,FOGOLIN,San Jose,CA,,SJBC
-2,460101,Sarah,TOLLMAN,Stanford,CA,,RAZZLE DAZZLE
+2,460101,Sarah,TOLLMAN,San Francisco,CA,,RAZZLE DAZZLE
 3,514634,Amee,DEVANI,Stanford,CA,,SJBC
 4,458896,Serenity,MARSHALL,San Jose,CA,,JLVelo Cycling Team p/b The Freewheel
 5,481826,Lisa,KIRATSOUS,San Jose,CA,,SJBC

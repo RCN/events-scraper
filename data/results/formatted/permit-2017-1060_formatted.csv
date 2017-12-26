@@ -5,7 +5,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,237712,Sam,Bassetti,Santa Rosa,CA,,Herbalife p/b Marc Pro - Nature's Bakery
 2,303586,Tobin,Ortenblad,Santacruz,CA,,Donkey Label Racing
 3,234584,Joshua,Carling,El Dorado,CA,,Williams Cycling
-4,207262,Andrew,Goessling,El Cerrito,CA,,Team Mike's Bikes p/b Equator Coffees
+4,207262,Andrew,Goessling,Oakland,CA,,Team Mike's Bikes p/b Equator Coffees
 5,494043,Leon,Gledhill,,,,Team Mike's Bikes p/b Equator Coffees
 6,330472,Lance,Haidet,San Luis Obispo,CA,,Aevolo Cycling
 7,303659,Kyle,Murphy,Townshend,VT,,Cylance Cycling
@@ -17,7 +17,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,269793,Robert,Terra,Lodi,CA,,Williams Cycling
 14,303589,Jacob,Albrecht,Soquel,CA,,Herbalife p/b Marc Pro - Nature's Bakery
 15,324128,Stephen,Vogel,San Jose,CA,,
-16,321012,Kaler,Marshall,Stanford,CA,,Canyon Bicycle Pro Cycling
+16,321012,Kaler,Marshall,Walla Walla,WA,,Canyon Bicycle Pro Cycling
 17,289282,Brian,Funk,Menlo Park,CA,,Cycle Sport  Specialized p/b Muscle Milk
 18,394826,Aria,Kiani,Santa Rosa,CA,,Team Mike's Bikes p/b Equator Coffees
 19,394404,Darin,Morgan,Sacramento,CA,,Dolce Vita Freewheel p/b SL2
@@ -32,7 +32,7 @@ DNP,283386,Jeffrey,Buscheck,Davis,CA,,Davis Bike Club Elite Team
 DNP,304797,Matt,Chatlaong,Roseville,CA,,Herbalife p/b Marc Pro - Nature's Bakery
 DNP,195652,Max,Jenkins,Davis,CA,,Davis Bike Club Elite Team
 DNP,221376,James,Laberge,Napa,CA,,Team Mike's Bikes p/b Equator Coffees
-DNP,306325,William,Myers,Orinda,CA,,Herbalife p/b Marc Pro - Nature's Bakery
+DNP,306325,William,Myers,Davis,CA,,Herbalife p/b Marc Pro - Nature's Bakery
 DNP,188997,Robert,Schell,Richmond,CA,,Dolce Vita Freewheel p/b SL2
 DNP,245236,Matthew,Shackley,Las Vegas,NV,,Allegiant Cycling
 DNP,400645,Cooper,Shanks,Pleasant Hill,CA,,Dolce Vita Freewheel p/b SL2
@@ -49,10 +49,10 @@ Place,License #,First,Last,City,State,Time,Team
 7,496595,Jonas,Crean,Sonoma,CA,,Team Swift
 8,523582,Nicholas,Archer,Clovis,CA,,Academy Development
 9,493811,Christopher,Bonilla,San Joses,CA,,JAKROO presented by CHROME INDUSTRIES
-10,523219,Andrew,Esler,San Jose,CA,,JAKROO presented by CHROME INDUSTRIES
+10,523219,Andrew,Esler,San Jose ,CA,,JAKROO presented by CHROME INDUSTRIES
 11,495243,Allen,Herrera,San Jose,CA,,JAKROO presented by CHROME INDUSTRIES
 12,474244,Orion,Pohl,Walnut Creek,CA,,Tieni Duro Junior Cycling
-13,495779,Toby,Bodden,Lafayette,CA,,Tieni Duro Junior
+13,495779,Toby,Bodden,Concord,CA,,Tieni Duro Junior
 14,522931,Zach,Rotblatt,Palo Ato,CA,,
 15,466904,Kenneth,Oei,San Ramon,CA,,Tieni Duro Junior Cycling
 16,495244,Kevin,Herrera,San Jose,CA,,JAKROO presented by CHROME INDUSTRIES
@@ -76,7 +76,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,180263,Alan,Benson,Sunnyvale,CA,,Limerick Cycling Club
 10,460055,James,Cho,Reno,NV,,Clean Power Cycling pb TESLA
 11,326874,Zachary,Hilton,Morgan Hill,CA,,SJBC
-12,440491,Philip,Barros,Danville,CA,,Cycle Sport - Specialized p/b Muscle Milk
+12,440491,Philip,Barros,Pleasanton,CA,,Cycle Sport - Specialized p/b Muscle Milk
 13,524494,Chase,Latta,Oakland,CA,,Team Oakland
 14,529650,Victor,Loh,San Francisco,CA,,Cognition Racing
 DNP,430665,albert,golko,Saratoga,CA,,
@@ -95,7 +95,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,273912,Jeromy,Cottell,Redwood City,CA,,Team Specialized / Touchstone Masters
 2,270304,Robert,Amatelli,San Jose,CA,,Team Mike's Bikes p/b Equator Coffees
-3,459276,Mark,Howard,Cupertino ,CA,,SunPower Racing
+3,459276,Mark,Howard,Cupertino,CA,,SunPower Racing
 4,288732,Scott,Cox,El Sobrante,CA,,Team Mike's Bikes p/b Equator Coffees
 5,339008,Chris,Cain,Monterey,CA,,Don Chapin Monterey Bay Racing Team
 6,291426,Christian,Hobbs,Corte Madera,CA,,Team Mikes Bikes p/b Equator Coffees
@@ -143,11 +143,11 @@ DNP,237177,Jorge,Pont,Menlo Park,CA,,SunPower Racing
 
 04/29/2017 Criterium Men Cat 1/2/3 Master 55-99
 Place,License #,First,Last,City,State,Time,Team
-1,25655,Jerome,Nadel,Sunnyvale,CA,,ThirstyBear p/b Akamai
+1,25655,Jerome,Nadel,Woodside,CA,,ThirstyBear p/b Akamai
 2,26205,Lawrence,Nolan,Fremont,CA,,Team Specialized Racing Masters
 3,407521,Tim,Davis,San Jose,CA,,TeamCyclesport - Specialized p/b Muscle Milk
 4,39478,Hunter,Ziesing,Bel Tiburon,CA,,Hammer Nutrition/53x11
-5,345270,Brian,McAndrews,Danville,CA,,ThirstyBear p/b Akamai
+5,345270,Brian,McAndrews,Spring,TX,,ThirstyBear p/b Akamai
 6,524738,Iver,Johansen,Pacific Grove,CA,,Naval Postgraduate School Cycling Club
 7,360492,Dean,Abt,Oakland,CA,,Team Oakland Cycling
 DNP,192774,Kevin,Willitts,S Lake Tahoe,CA,,3Ft - It's The Law
@@ -168,13 +168,13 @@ Place,License #,First,Last,City,State,Time,Team
 10,525460,Kevin,Penner,Atherton,CA,,
 11,430665,albert,golko,Saratoga,CA,,
 12,531421,Rich,Duff,San Francisco,CA,,Louie Racing p/b Bireme Capital
-13,515553,Christian,Griffith,Santa Cruz,CA,,Spokesman Bicycles / Santa Cruz Wheelman
+13,515553,Christian,Griffith,San Francisco,CA,,Spokesman Bicycles / Santa Cruz Wheelman
 14,522306,Jeff,DesRoches,Santa Clara,CA,,
 15,523095,Michael,Rouse,Oakland,CA,,Team Fremont/FFBC
 16,0,Franois Xavier,Bucher,,,,
 17,497040,Lyubomir,Grigorov,Sunnyvale,CA,,SquadraSF
 18,521138,Joshua,Young,Sacramento,CA,,
-19,524386,Jack,McCarthy,San Jose,CA,,
+19,524386,Jack,McCarthy,San Francisco,CA,,
 20,468296,Patrick,Krecker,San Francisco,CA,,
 DNP,239473,Mark,Rampton,San Francisco,CA,,Cognition Racing
 DNP,0,Tom,Ainsworth,,,,
@@ -225,7 +225,7 @@ DNP,477761,cameron,mclaughlin,Sunnyvale,CA,,squadrasf terun
 DNP,523552,Nicholas,Stearns,Sunnyvale,CA,,
 DNP,366386,Geno,Uliana,Fremont,CA,,Team Fremont/FFBC p/b Chipotle
 DNP,438028,Cory,Vogel,San Francisco,CA,,SunPower Racing
-DNP,494623,Matthew,Hepworth,San Francisco,CA,,SunPower Racing
+DNP,494623,Matthew,Hepworth,Palo Alto,CA,,SunPower Racing
 DNP,393723,Adrian,Luis,San Pablo,CA,,
 DNP,417703,christian,wagner,Santa Rosa,CA,,
 
@@ -243,7 +243,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,419121,Richard,Graetz,Mountain View,CA,,Pen Velo Racing/Summit Bicycles
 11,399678,Trevor,Gilmore,San Francisco,CA,,TMB Development p/b Equator
 12,355260,Gianni,Lamperti,Sebastopol,CA,,Team Swift
-13,194574,Morgan,Gerlak,Baltimore,MD,,C3-Twenty20cycling.com
+13,194574,Morgan,Gerlak,San Francisco,CA,,C3-Twenty20cycling.com
 14,397700,Erik,Schiller,Half Moon Bay,CA,,SunPower Racing
 15,417086,Kyle,Beikirch,San Francisco,CA,,Dolce Vita Freewheel p/b SL2 Cycling Wear
 16,508231,Isaiah,Oliver,El Dorado Hills,CA,,Limitless Cycling
@@ -261,7 +261,7 @@ DNP,406861,Shane,McGuire,Mountain View,CA,,SunPower Racing
 DNP,378266,Yuriy,Platoshyn,San Jose,CA,,Pen Velo Racing/Summit Bicycles
 DNP,501065,Julien,Schaller,Los Altos,CA,,SunPower Racing
 DNP,395728,Leonard,Schummer,San Francisco,CA,,Tieni Duro Junior Cycling
-DNP,417590,Dallas,Siok,Arnold,MD,,BIKE DOCTOR p/b North Tek
+DNP,417590,Dallas,Siok,Fairfield,CA,,BIKE DOCTOR p/b North Tek
 DNP,396434,Matthew,Swartwout,Mountain View,CA,,TMB Development p/b Equator
 DNP,414636,James,Rainbow,San Francisco,CA,,Pen Velo Racing/Summit Bicycles
 
@@ -299,7 +299,7 @@ DNP,404458,Allen,Lin,Santa Clara,CA,,Dolce Vita Freewheel p/b SL2
 DNP,380872,Ryan,Jones,San Francisco,CA,,Dolce Vita Freewheel p/b SL2
 DNP,318306,Samuel,Hill,Woodland,CA,,Williams Cycling
 DNP,301510,JP,Gregorio,Campbell ,CA,,Dolce Vita Freewheel p/b SL2
-DNP,269966,Chester,Gillmore,Santa Barbara,CA,,Dolce Vita Freewheel p/b SL2
+DNP,269966,Chester,Gillmore,San Francisco,CA,,Dolce Vita Freewheel p/b SL2
 DNP,391518,Niklas,Barreto,San Jose,CA,,SunPower Racing
 DNP,400645,Cooper,Shanks,Pleasant Hill,CA,,Dolce Vita Freewheel p/b SL2
 DNP,269793,Robert,Terra,Lodi,CA,,Williams Cycling
@@ -325,7 +325,7 @@ DNP,395502,Megan,Alderete,San Francisco,CA,,
 Place,License #,First,Last,City,State,Time,Team
 1,340330,Eleanor,Velez,El Dorado Hills,CA,,
 2,486780,Amy,Moor,Oakland,CA,,SheSpoke Racing
-3,455528,shelby,tramel,San Francisco,CA,,RAZZLE DAZZLE
+3,455528,shelby,tramel,Oakkland,CA,,RAZZLE DAZZLE
 4,458778,Makenzie,DeLaughder,Davis,CA,,Team Mike's Bikes p/b Equator Coffees
 5,402178,Zahra,Gill,Hayward,CA,,Sho-Air TWENTY20 Development
 6,458805,Lindsay,Barlow,Menlo Park,CA,,JLVelo Cycling Team p/b The Freewheel
@@ -333,7 +333,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,385403,Diana,Cedeno,Novato,CA,,JLVelo Cycling Team p/b The Freewheel
 9,525629,Jaimee,Erickson,San Francisco,CA,,
 10,393358,Christina,Hashimoto,Pacific Grove,CA,,Don Chapin
-11,485936,Trish,Pablo,Sacramento ,CA,,Team Mike's Bikes p/b Equator Coffees
+11,485936,Trish,Pablo,Rodeo,CA,,Team Mike's Bikes p/b Equator Coffees
 12,336374,Maureen,Murphy,Cupertino,CA,,JAKROO p/b Chrome Industries
 13,419981,Meisin,Yan,San Francisco,CA,,Team Mike's Bikes p/b Equator Coffees
 14,431596,Rachel,Anders,Sandy,UT,,Summit/Competive Cyclist

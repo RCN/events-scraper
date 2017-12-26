@@ -8,7 +8,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,0,Ismael,COLLADO ACOSTA,,,s.t.,CRCA/NYCC Racing p/b BGC Partne
 5,278103,Gerald,ADASAVAGE,Brooklyn,NY,s.t.,CRCA/The Weather Channel Specia
 6,500920,Jorge,Garcia,Elmhurst,NY,s.t.,CRCA/TALENT CYCLE TEAM
-7,238008,Alejandro,GUZMAN,New York,NY,s.t.,CRCA/Foundation
+7,238008,Alejandro,GUZMAN,New York ,NY,s.t.,CRCA/Foundation
 8,0,Geron,WILLIAMS,,,s.t.,CRCA/Foundation
 9,304430,Erik,POST,Brooklyn,NY,s.t.,CRCA / The Weather Channel Spec
 10,309324,Dominic,CAIAZZO,Bronx,NY,s.t.,CRCA/Lupus Racing Team
@@ -35,7 +35,7 @@ Place,License #,First,Last,City,State,Time,Team
 DNF,66781,Daniel,SCHMALZ,Ridgewood,NJ,@4Lap,CRCA/Rockstar Games
 DNF,179451,Gavriel,EPSTEIN,Englewood,NJ,,CRCA/Lupus Racing Team
 DNF,482142,Raynauth,JEFFREY,Richmond Hill,NY,,Team Cocos
-DNF,413503,Donovan,CLARKE,Woodside,NY,,CRCA/The Weather Channel Specia
+DNF,413503,Donovan,CLARKE,Philadelphia,PA,,CRCA/The Weather Channel Specia
 DNF,333504,Douglas,CHRYSTALL,Wellesley,MA,,New England Devo p/b Cadence We
 DNF,428526,Jason,GUZMAN,Brooklyn,NY,,CRCA/DaveJordanRacing
 DNF,438055,Andrew,PETTI,Englewood Cliffs,NJ,,CRCA/Century Road Club Developm
@@ -65,7 +65,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,0,Andy,WILLIAMS,,,s.t.,
 11,523046,Derek,HUNT,Brooklyn,NY,s.t.,Rapha
 12,473089,Peter,PUTKA,Brooklyn,NY,s.t.,Fulton bike
-13,460421,Sean,MILES,New Yor,NY,s.t.,Kissena Cycling Club
+13,460421,Sean,MILES,New York,NY,s.t.,Kissena Cycling Club
 14,501313,Keith,MORRISON,Brooklyn,NY,s.t.,Deluxe Cycles Racing
 15,306725,Jason,BELL,Sleepyhollow,NY,s.t.,CRCA/RBNY Racing - Verge Sports
 16,524310,Kit,MCKEOWN,Brooklyn,NY,s.t.,CRCA/Patch
@@ -109,7 +109,7 @@ DNF,376409,Stephen,CHARRON,Rockaway,NJ,,Cycle Craft
 DNF,496642,Richard,ZAROBELL,Brooklyn,NY,,CRCA/Team Patch
 DNF,406775,Federico,Melo Gomez,Teaneck,NJ,,
 DNF,384537,Alexander,KLAFEHN,Brooklyn,NY,,NYCC
-DNF,493565,Justin,BANGS,Ridgewood,NY,,CRCA/GFNY Racing
+DNF,493565,Justin,BANGS,Bristol,PA,,CRCA/GFNY Racing
 DNF,525718,James,ARIAS,Nyc,NY,,CRCA
 DNF,475259,William J,HASS,New York,NY,,CRCAD
 DNF,410528,Julius Erwin,QUITO,Astoria,NY,,CRCA/Dave Jordan Racing
@@ -179,15 +179,15 @@ Place,License #,First,Last,City,State,Time,Team
 39,288980,Gustavo,FRANCISCO,Newyork,NY,s.t.,Montecci Cycling Team
 40,204305,Ben,HUGHES,New York,NY,s.t.,CRCA/Rockstar Games
 41,424213,Christopher,DUDKO,Hastings On Hudson,NY,1:08,Rivertowns Racing
-DNS,13352,James,GIORGIO,Babylon ,NY,,Brands Cycling Team
+DNS,13352,James,GIORGIO,Babylon,NY,,Brands Cycling Team
 DNS,468381,Luiz,LANFREDI,New York,NY,,CRCA/Foundation
-DNS,153451,Jeffrey,GARCIA,Bronx ,NY,,Mon Amour Coffee  & Wine
+DNS,153451,Jeffrey,GARCIA,Bronx,NY,,Mon Amour Coffee  & Wine
 DNS,455186,Clyde Sebastian,LOGUE,Portsmouth,NH,,KMS Cycling
 DNS,207869,Joaquin,C DE BACA,Brooklyn,NY,,Bicycle Habitat-Verge Sport
 DNS,494590,Martijn,DE GRAAF,New York,NY,,CRCA/Dave Jordan Racing
 DNS,299923,David,LEIBOWITZ,Bronxville,NY,,Tarmac Cycling/Iron Bridge Cons
 DNS,472996,Kim,GRANLUND,Brooklyn,NY,,CRCA/Rockstar Games
-DNS,460421,Sean,MILES,New Yor,NY,,Kissena Cycling Club
+DNS,460421,Sean,MILES,New York,NY,,Kissena Cycling Club
 DNS,335190,Efrain,MOLINA,Woodside,NY,,CRCA/Foundation
 DNS,393290,Brendan,RIGBY,New York,NY,,Kissena Cycling Club
 DNS,422399,Cyrus,GREENSPON,New York,NY,,CRCA/NYCC Racing p/b BGC Partne
@@ -197,7 +197,7 @@ DNS,54448,Robert,MECEA,Brooklyn,NY,,Healthy & Happy Racing
 DNS,278569,John,BUENAVENTURA,New York,NY,,CRCA/To Be Determined
 DNS,343774,Colin,WALMSLEY,New York,NY,,CRCA/Good Guys Racing p/b HighW
 DNS,325240,Sergio,AGUIRRE,New York,NY,,CRCA/Foundation
-DNS,460312,Allan,GANLY,Astoria,NY,,NYCC Racing/pb BGC Partners
+DNS,460312,Allan,GANLY,Weehawken,NJ,,NYCC Racing/pb BGC Partners
 DNS,425855,George,CHARALAMBIDES,Hoboken,NJ,,CRCA/WYLD STALLYNS
 DNS,292639,Jeffrey,WHITE,Brooklyn,NY,,Kissena Cycling Club
 DNS,410403,John,D'AGOSTINO,New York,NY,,CRCA/Good Guys Racing p/b High
@@ -207,26 +207,26 @@ DNS,292732,Corey,MORENZ,New York,NY,,CRCA/To Be Determined
 DNS,400456,Sean,HILL,Brooklyn,NY,,CRCA/Rapha Cycling Club
 DNS,448422,Edward,SHIRES,Brooklyn,NY,,CRCA/Foundation
 DNS,493730,Max,THORN,Brooklyn,NY,,Kissena Cycling Club
-DNS,356954,Eduardo,LUNA,Woodside,NY,,Cuevas cycling
+DNS,356954,Eduardo,LUNA,Elmhurst Ny,NY,,Cuevas cycling
 DNS,121224,Bryan,FRIED,New York,NY,,CRCA/To Be Determined
 DNS,460187,James,GILBERT,New York,NY,,CRCA/NYCC Racing p/b BGC Partne
-DNS,97269,Eui,LEE,Long Island City,NY,,1971
+DNS,97269,Eui,LEE,Wallkill,NY,,1971
 DNS,467718,Michael,ALBRECHT,New York,NY,,CRCA/Team Patch.com
 DNS,277702,Patrick,GREHAN,Rockville Centre,NY,,Kissena Cycling Club
 DNS,318428,Bruce,VAN-SCHALKWYK,Brooklyn,NY,,Kissena Cycling Club
 DNS,422506,M.Wesley,HAM,Brooklyn,NY,,
-DNS,511397,Raymundo,TORRES,Fort Lee,NJ,,CRCA/NYCC Racing p/b BGC Partne
+DNS,511397,Raymundo,TORRES,Old Tappan,NJ,,CRCA/NYCC Racing p/b BGC Partne
 DNS,459141,Matthew,HARTSOUGH,Hoboken,NJ,,
 DNS,467225,Sean,MCCORMICK,New York,NY,,CRCA/NY Vision Group
 DNS,352676,Johnny,HSU,Brooklyn,NY,,The 5th Floor NYC
 DNS,285324,Jonathan,HALPERIN,Hastings On Hudson,NY,,Rivertowns Racing
-DNS,428001,Cody,CORONA,New York,NY,,CRCA/Rockstar Games
+DNS,428001,Cody,CORONA,Marina Del Rey,CA,,CRCA/Rockstar Games
 DNS,395494,Jelani,WATSON,New York,NY,,CRCA
 DNS,96636,Greg,DEFIORE,Staten Island,NY,,CRCA/Dave Jordan Racing
 DNS,292659,Jules,ROAZEN,Duluth,MN,,Kissena Cycling Club
 DNS,531105,Henning,SCHOBER,New York City,NY,,
 DNF,52288,Mihael,GINGHINA,Dobbs Ferry,NY,,CRCA/Veselka
-DNF,383816,Hernan,LUCERO,Hicksville ,NY,,Mineola Bicycle Racing  Team
+DNF,383816,Hernan,LUCERO,Hicksville,NY,,Mineola Bicycle Racing  Team
 DNF,391477,Carlos,WALTON,Mineola,NY,,MIneola Bicycle Racing Team
 DNF,366117,Darrell,TUCKER,Teaneck,NJ,,Major Taylor Development Team
 DNF,366029,Julian,BANKS,Englewood,NJ,,CRCA/RBNY Racing-Verge Sport
@@ -259,7 +259,7 @@ Place,License #,First,Last,City,State,Time,Team
 24,381603,Stephen,JETTE,Weston,MA,s.t.,New England Devo p/b Cadence We
 25,428526,Jason,GUZMAN,Brooklyn,NY,s.t.,CRCA/DaveJordanRacing
 26,364793,Daniel,LAMMON,New York,NY,s.t.,CRCA/WYLD STALLYNS
-27,13352,James,GIORGIO,Babylon ,NY,s.t.,Brands Cycle/Roslyn Porsche
+27,13352,James,GIORGIO,Babylon,NY,s.t.,Brands Cycle/Roslyn Porsche
 28,339550,Chris,BALLARD,New York City,NY,s.t.,CRCA/GF Capital/ H&E Ent.
 29,254825,Ted,TEYBER,New York,NY,s.t.,CRCA/To Be Determined
 30,459060,Aaron,BLACK,W Hartford,CT,s.t.,CENTRAL WHEEl/GHCC
@@ -287,7 +287,7 @@ DNS,214503,David,MAYNARD,Middletown,CT,,Team ERRACE
 DNS,36345,Laura,VAN GILDER,Cresco,PA,,Mellow Mushroom Pizza Bakers p/
 DNS,292631,Matthew,VANDIVORT,Newyork,NY,,CRCA/To Be Determined
 DNS,47473,Chris,CHONG TENN,Corona,NY,,CRCA - Diehard
-DNS,259102,Matthew,ERCHULL,Easthampton,MA,,CRCA/Blue Ribbon-Pennell Ventur
+DNS,259102,Matthew,ERCHULL,Jersey City,NJ,,CRCA/Blue Ribbon-Pennell Ventur
 DNS,392303,Louisgie,SHOY,Roslyn,NY,,Mineola Bicyle Racing Team
 DNS,178446,Joseph,ORGERA,Forest Hills,NY,,Berroa Racing
 DNS,64894,Pascal,SAUVAYRE,New York,NY,,CRCA/Rockstar Games
@@ -305,7 +305,7 @@ DNS,284780,Todd,ROYAL,New York,NY,,CRCA/GF Capital/H&E Ent
 DNS,54448,Robert,MECEA,Brooklyn,NY,,Healthy & Happy Racing
 DNS,275606,Marc,GAGLIANO,Westport,CT,,CRCA Blue Ribbon
 DNS,292732,Corey,MORENZ,New York,NY,,CRCA/To Be Determined
-DNS,97269,Eui,LEE,Long Island City,NY,,1971
+DNS,97269,Eui,LEE,Wallkill,NY,,1971
 DNF,66269,Paul,COLUCCIO,Huntington Station,NY,,CRCA/Team Houlihan Lokey
 DNF,247435,Thomas,HENDRY,Astoria,NY,,CRCA/To be Determined
 DNF,237492,Etsu,TANIGUCHI,New York,NY,,CRCA / Team VESELKA p/b Cafe Gr
@@ -401,13 +401,13 @@ Place,License #,First,Last,City,State,Time,Team
 24,516279,Joseph,EMMERLING,New York,NY,s.t.,
 25,525716,Daniel,KILLINGER,Brooklyn,NY,s.t.,BOLD Racing / enduranceWERX
 26,366029,Julian,BANKS,Englewood,NJ,s.t.,CRCA/RBNY Racing-Verge Sport
-27,460312,Allan,GANLY,Astoria,NY,s.t.,NYCC Racing/pb BGC Partners
+27,460312,Allan,GANLY,Weehawken,NJ,s.t.,NYCC Racing/pb BGC Partners
 28,204713,Andrew,BABAIAN,Port Washington,NY,s.t.,CRCA / Team VESELKA
-29,428001,Cody,CORONA,New York,NY,s.t.,CRCA/Rockstar Games
+29,428001,Cody,CORONA,Marina Del Rey,CA,s.t.,CRCA/Rockstar Games
 30,366117,Darrell,TUCKER,Teaneck,NJ,s.t.,Major Taylor Development Team
 31,318156,James,YOO,Closter,NJ,s.t.,CRCA/RBNY Racing?erge Sport
 32,410403,John,D'AGOSTINO,New York,NY,13,CRCA/Good Guys Racing p/b High
-33,460421,Sean,MILES,New Yor,NY,s.t.,Kissena Cycling Club
+33,460421,Sean,MILES,New York,NY,s.t.,Kissena Cycling Club
 34,383574,Richard,SBERLATI,Brooklyn,NY,17,BOLD Racing / enduranceWERX
 35,494590,Martijn,DE GRAAF,New York,NY,23,CRCA/Dave Jordan Racing
 36,277702,Patrick,GREHAN,Rockville Centre,NY,27,Kissena Cycling Club
@@ -419,7 +419,7 @@ Place,License #,First,Last,City,State,Time,Team
 42,422506,M.Wesley,HAM,Brooklyn,NY,40,
 43,306725,Jason,BELL,Sleepyhollow,NY,41,CRCA/RBNY Racing - Verge Sports
 44,441158,Dan,BERNER,New York,NY,49,CRCA/Dave Jordan Racing
-45,493565,Justin,BANGS,Ridgewood,NY,s.t.,CRCA/GFNY Racing
+45,493565,Justin,BANGS,Bristol,PA,s.t.,CRCA/GFNY Racing
 46,523046,Derek,HUNT,Brooklyn,NY,s.t.,Rapha
 47,421671,Travis,TORSKY,New York,NY,1:07,Dannys Cycles
 48,281347,Nick,SCHNEIDER,New York,NY,1:41,
@@ -455,7 +455,7 @@ DNS,503757,Daniel,CORLESS,New York,NY,,CRCA/NYCC Racing p/b BGC Partne
 DNS,467225,Sean,MCCORMICK,New York,NY,,CRCA/NY Vision Group
 DNS,473089,Peter,PUTKA,Brooklyn,NY,,Fulton bike
 DNF,460187,James,GILBERT,New York,NY,,CRCA/NYCC Racing p/b BGC Partne
-DNF,511397,Raymundo,TORRES,Fort Lee,NJ,,CRCA/NYCC Racing p/b BGC Partne
+DNF,511397,Raymundo,TORRES,Old Tappan,NJ,,CRCA/NYCC Racing p/b BGC Partne
 DNF,335108,Evan,BAUER,New York,NY,,KruisCX p/b Repucom
 DNF,481317,Chris,WASHBURNE,New York,NY,,CRCA/GFNY Racing
 DNF,485000,Eduard,SPEKTOR,Brooklyn,NY,,Redbeard Racing
@@ -610,7 +610,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,53674,Jon,YU,Bellmore,NY,s.t.,Trianglecyclist
 4,78712,Jose,GUZMAN,Woodhaven ,NY,s.t.,CRCA/Dave Jordan Racing
 5,49739,Chris,LOEHNER,Albertson,NY,s.t.,Brands Cycle/Roslyn Porsche
-6,13352,James,GIORGIO,Babylon ,NY,17,Brands Cycle/Roslyn Porsche
+6,13352,James,GIORGIO,Babylon,NY,17,Brands Cycle/Roslyn Porsche
 7,57369,Eugene,BORONOW,Tucson,AZ,23,Superissimo
 8,47473,Chris,CHONG TENN,Corona,NY,25,CRCA - Diehard
 9,395478,Doug,GAMBLE,Greenlawn,NY,s.t.,Mineola Bicycle Racing Team
@@ -621,14 +621,14 @@ Place,License #,First,Last,City,State,Time,Team
 14,367642,John,SCHWARTZ,Rosendale,NY,s.t.,Bicycle Depot
 15,195546,Gregory,FOWLKES,New York,NY,s.t.,CRCA/Rapha Cycling Club
 16,392303,Louisgie,SHOY,Roslyn,NY,s.t.,Mineola Bicyle Racing Team
-17,383816,Hernan,LUCERO,Hicksville ,NY,s.t.,Mineola Bicycle Racing  Team
-18,97269,Eui,LEE,Long Island City,NY,s.t.,1971
+17,383816,Hernan,LUCERO,Hicksville,NY,s.t.,Mineola Bicycle Racing  Team
+18,97269,Eui,LEE,Wallkill,NY,s.t.,1971
 19,237492,Etsu,TANIGUCHI,New York,NY,s.t.,CRCA / Team VESELKA p/b Cafe Gr
 20,115810,Alexis,KRAFT,Brooklyn,NY,27,CRCA/WYLD STALLYNS
 21,241308,Michael,BOARDMAN,Brooklyn,NY,s.t.,CRCA / Rockstar Games
 22,292659,Jules,ROAZEN,Duluth,MN,s.t.,Kissena Cycling Club
 23,459009,Katrine,WATERMAN,Jbmdl,NJ,s.t.,Eliel Factory Team
-24,153451,Jeffrey,GARCIA,Bronx ,NY,s.t.,Mon Amour Coffee  & Wine
+24,153451,Jeffrey,GARCIA,Bronx,NY,s.t.,Mon Amour Coffee  & Wine
 25,214503,David,MAYNARD,Middletown,CT,32,Team ERRACE
 26,400456,Sean,HILL,Brooklyn,NY,s.t.,CRCA/Rapha Cycling Club
 

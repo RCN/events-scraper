@@ -25,7 +25,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 09/09/2017 Cyclo-cross Men Cat 1/2/3/4/5 Master 40-99
 Place,License #,First,Last,City,State,Time,Team
-1,364909,Sean,Rudzinsky,Agawam,MA,0:49:01,Barks + Wreck Adventure club
+1,364909,Sean,Rudzinsky,East Longmeadow,MA,0:49:01,Barks + Wreck Adventure club
 2,468,Brian,Girard,Meriden,CT,0:49:29,STAGE 1/Airline Cycles
 3,137885,Travis,Burleson,Roxbury,MA,0:49:49,Community Bicycle Racing
 4,14415,Jay,Gump,Conway,MA,0:49:51,
@@ -55,7 +55,7 @@ Place,License #,First,Last,City,State,Time,Team
 28,260859,Morgan,Rueckert,West Hartford,CT,lapped,Team ERRACE p/b DSO Manufacturing
 29,492511,Jonathan,Weekes,Wallingford,CT,lapped,Saltbox Cyclery
 30,180986,Nina,Baum,Redding,CT,P&P,Stan's NoTubes Women's Elite
-31,260241,Marc,Richardson,Keene,NH,lapped,20/20 Fuel
+31,260241,Marc,Richardson,Freeport,ME,lapped,20/20 Fuel
 DNF,44186,Robert,Stiles,Old Lyme,CT,DNF,STAGE 1/AirLine Cycles/
 DNF,99712,Shane,DelGrosso,Waterford,CT,DNF,Wayfarer
 
@@ -133,13 +133,13 @@ Place,License #,First,Last,City,State,Time,Team
 15,419187,Brendan,Hamel,Plymouth,MA,0:40:05,Corner Cycle
 16,399924,Tim,Wern,Canton,CT,0:40:07,STAGE 1/AIRLINE CYCLES
 17,0,John,Ricardi,,,0:40:14,Competitive edge cycling
-18,369728,Thomas,Provencher,Bedford,NH,0:40:19,Broken Steel & CX Appeal
+18,369728,Thomas,Provencher,Waterford,CT,0:40:19,Broken Steel & CX Appeal
 19,207322,Robert,Hoenick,Providence,RI,0:40:31,SVC/Bikeworks
-20,390881,Ian,MacDonald,Seymour,CT,0:40:37,Rescue Project
+20,390881,Ian,MacDonald,Middlebury,CT,0:40:37,Rescue Project
 21,517497,Nathan,Porter,Troy,NY,0:40:38,
 22,0,Roger,Cameron,,,0:40:44,Magical Go-Go
 23,205980,Ian,McFarland,Niantic,CT,0:40:48,Mystic Velo Club
-24,520623,Gregory,Nowak,Foxboro,MA,0:40:55,
+24,520623,Gregory,Nowak,New Haven,CT,0:40:55,
 25,491323,Jeff,Landry,East Long Meadow,MA,0:40:57,Barks + Wreck Adventure Club
 26,323618,Ralph,Miccio,Sleepy Hollow,NY,0:41:03,Rivertowns Racing
 27,330868,Nicholas,Willette,Vernon,CT,0:41:06,Aetna- Expo Wheelmen
@@ -168,7 +168,7 @@ Place,License #,First,Last,City,State,Time,Team
 50,0,Jim,St Andre,,,0:43:54,TTEndurance
 51,515533,Matthew,Holcomb,Vernon,CT,0:43:59,Exposition Wheelmen
 52,301404,Bennett,Gentry,Richmond,VA,0:44:08,
-53,488127,Steffen,Huber,Hamden,CT,0:44:15,The Cheshire/Hamden Railtrailers
+53,488127,Steffen,Huber,Woodbridge,CT,0:44:15,The Cheshire/Hamden Railtrailers
 54,105737,Keith,Bangs,Groton,CT,0:44:20,HUP United
 55,482006,Joshua,Bressem,East Longmeadow,MA,0:44:44,
 56,30718,Timothy,Rourke,Ashford,CT,0:45:12,Team Horst Sports
@@ -188,7 +188,7 @@ Place,License #,First,Last,City,State,Time,Team
 70,539037,Evan,Carlson,Niantic,CT,lapped,Broken Steel & CX Appeal
 71,240707,Adele,Paquin,Northampton,MA,lapped,
 72,529619,Ethan,Waters,Norwalk,CT,lapped,
-73,260241,Marc,Richardson,Keene,NH,lapped,20/20 Fuel
+73,260241,Marc,Richardson,Freeport,ME,lapped,20/20 Fuel
 74,522287,Stephen,Reck,North Stonington,CT,lapped,
 75,258093,Athos,Rassias,Hanover,NH,lapped,Cowbell Racing
 76,365264,Brandon,Zwick,Wethersfield,CT,lapped,STAGE 1/AirLine Cycles/ Muddy Mayhem
@@ -199,7 +199,7 @@ Place,License #,First,Last,City,State,Time,Team
 81,540897,Simon,DeSantis,Hartford,CT,lapped,
 82,495116,Andrew,Meinsler,W Hartford,CT,lapped,Newington Bicycle
 83,0,Mike,Reynolds,,,lapped,
-84,92024,Jason,Hamilton,West Hartford,CT,lapped,CCAP West Hartford ERRACERS
+84,92024,Jason,Hamilton,Weatogue,CT,lapped,CCAP West Hartford ERRACERS
 DNF,484994,Sean,Weiss,Westford,MA,DNF,
 DNF,521687,Steven,Savard,Providence,RI,DNF,
 DNF,535790,Edward,Shipper,Ledyard,CT,DNF,Broken Steel & CX Appeal
@@ -219,7 +219,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,443661,Michael,Benson,Pelham,NH,0:44:07,Bikeman.com
 11,301554,Chris,Yankopoulos,Nashua,NH,0:44:30,Shimano
 12,425180,Stephen,Kohr,West Lebanon,NH,0:44:47,Cowbell Racing p/b World Bicycle Relief
-13,288393,Matthew,Griswold,Boston,MA,0:44:51,B2C2 / JRA Cycles
+13,288393,Matthew,Griswold,Guilford,CT,0:44:51,B2C2 / JRA Cycles
 14,197036,Peter,Miller,Ledyard,CT,0:45:03,Unattached
 15,516785,William,Lodge,Manchester,CT,0:45:30,Aetna-Expo Wheelmen
 16,277289,Joseph,Marinelli,Brighton,MA,0:45:36,Blue Hills Cycling Club
@@ -257,7 +257,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,389537,cameron,scott,Somers,CT,1:04:01,Barks + Wreck
 14,408908,Lucas,Smallidge,South Salem,NY,1:05:14,Ridgefield Bicycle Sport Club
 15,274231,Gregory,Colby,Hyde Park,MA,1:05:26,B2C2/JRA Cycles
-16,275070,Tyler,Samson,Hatfield,MA,lapped,Competitive Edge Cycling
+16,275070,Tyler,Samson,Enfield,CT,lapped,Competitive Edge Cycling
 DNF,390756,Finnegan,O'Connor,West Hatfield,MA,DNF,Competitive Edge Ski & Bike
 
 09/09/2017 Cyclo-cross Women Cat 1/2/3/4/5 Single Speed
@@ -325,7 +325,7 @@ Place,License #,First,Last,City,State,Time,Team
 28,488536,Alan,Becker,Westport,CT,lapped,Fairfield County Youth Cycling Team/CCAP
 29,540589,Joshua,Ross,Redding,CT,lapped,CCAP/ Fairfield County Youth Cycling Team
 30,433081,Evelyn,Kornbluh,West Hartford,CT,lapped,CCAP West Hartford ERRACERs
-31,474725,Sadie,Rueckert,W Hartford,CT,lapped,CCAP West Hartford ERRACERs
+31,474725,Sadie,Rueckert,West Hartford,CT,lapped,CCAP West Hartford ERRACERs
 32,533404,Brooke,Weinman,Hadley,MA,lapped,Team ERRACE
 DNF,540037,Isabella,Crespo,West Simsbury,CT,DNF,ERRACERs
 DNF,0,Julian,Hart,,,DNF,
@@ -347,9 +347,9 @@ Place,License #,First,Last,City,State,Time,Team
 2,493463,Cade,Fravel,Redding,CT,0:16:48,Fairfield Youth Cycling CCAP
 3,524708,William,Nafis,East Hampton,CT,0:16:57,Ccap Muddy Mayhem
 4,487568,Emmett,Roswech,Westbrook,CT,0:18:45,CCAP [RailTrailers]
-5,520514,Alejandro,Huber,Hamden,CT,0:19:03,The Cheshire/Hamden Railtrailers Youth CX
+5,520514,Alejandro,Huber,Woodbridge,CT,0:19:03,The Cheshire/Hamden Railtrailers Youth CX
 6,519161,Eneas Caden,Freyre,Redding,CT,0:19:05,TTEndurance
-7,527813,Boden,Chenail,Granby,CT,0:19:20,Team Horst Junior Squad
+7,431128,Boden,Chenail,Granby,CT,0:19:20,Team Horst Junior Squad
 8,503483,Shepard,Livingston,Bolton,CT,0:19:41,Team Horst Junior Squad
 9,525338,Keenan,Spooner,East Hampton,CT,0:21:01,CCAP - Muddy Mayhem
 10,518070,Cabry,Lueker,Westport,CT,0:21:01,Total Training & Endurance
@@ -359,7 +359,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,530997,Evan,Waters,Norwalk,CT,0:21:23,
 15,503460,Lars,Roti,Granby,CT,0:21:23,Horst Engineering Cycling Team
 16,485984,Nathaniel,Summers,Southington,CT,0:22:10,CCAP Railtrailers
-17,503987,William,Rueckert,W Hartford,CT,0:22:24,CCAP West Hartford ERRACERs
+17,503987,William,Rueckert,West Hartford,CT,0:22:24,CCAP West Hartford ERRACERs
 18,0,Sophia,Parrott,,,0:22:25,NCC
 19,538123,Sierra,Vasquez,Piermont,NY,0:22:28,Finkraft Cycling Team
 20,0,Charlie,Massett,,,0:22:34,Croissant Crushers
@@ -369,7 +369,7 @@ Place,License #,First,Last,City,State,Time,Team
 24,540035,Jacob,Scott,East Lyme,CT,0:24:21,SeaWolves/CCAP
 25,0,Conna,Hildebrant,,,0:26:19,Aetna Expo
 26,540952,Lucas,Price-Glynn,West Hartford,CT,0:26:33,CCAP
-27,507456,Colin,Hamilton,W Hartford,CT,0:27:21,West Hartford ERRACERS / CCAP
+27,507456,Colin,Hamilton,West Hartford,CT,0:27:21,West Hartford ERRACERS / CCAP
 28,0,Amanda,Meyerle,,,0:28:38,Sherpa / CCAP
 29,539243,Sam,Rueckert,West Hartford,CT,0:30:34,Team ERRACE p/b DSO Manufacturing
 DNF,0,Bryce,Hamilton,,,DNF,ERRACERS / CCAP

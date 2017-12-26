@@ -10,7 +10,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,278407,Brendan,Housler,Nashville,TN,00:58:52.936,I Am Racing
 7,341776,Patrick,Walle,Nashville,TN,00:58:53.167,I Am Racing
 8,359399,Miles,Hubbard,Wilkesboro,NC,00:58:53.418,Monster Media Elite Development
-9,272407,Timothy,Killelea,Chattanooga ,TN,00:58:53.595,Nashville Local Cycling
+9,272407,Timothy,Killelea,Chattanooga,TN,00:58:53.595,Nashville Local Cycling
 10,385171,Ross,Martin,Knoxville,TN,00:58:53.725,VELOSOPHY
 11,457146,Erich,Mesquita Lima,Mars Hill,NC,00:59:36.213,HC Devo p/b Monster Media Racing
 12,397845,Dustin,Antrican,Knoxville,TN,00:59:38.977,Nashville Local Cycling
@@ -169,7 +169,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,376163,David,Koonce,Murfreesboro,TN,00:44:03.276,MOAB Masters Racing
 2,376433,RL,Hesson,Thompsons Station,TN,00:44:03.417,I Am Racing
 3,202079,John,Eisinger,Louisville,KY,00:44:03.701,Texas Roadhouse Cycling Team
-4,113615,James,Buckingham,Madison,TN,00:44:04.542,Hattie B's Racing
+4,113615,James,Buckingham,White House,TN,00:44:04.542,Hattie B's Racing
 5,187218,Aaron,Burleson,Greenville,SC,00:44:04.543,Crosstown Velo
 6,292782,joe,grubbs,White House,TN,00:44:21.583,Hattie B's Racing
 7,364921,Nathan,Stone,Nashville,TN,00:44:22.591,I Am Racing
@@ -200,7 +200,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,386430,Michaelee,Bowes,Dickson,TN,03:05:00.700,Nashville Local Cycling
 10,385573,Fausto,Crapiz,Dandridge,TN,03:05:01.100,Village VW Chattanooga Cycling Team
 11,385171,Ross,Martin,Knoxville,TN,03:05:13.800,VELOSOPHY
-12,272407,Timothy,Killelea,Chattanooga ,TN,03:05:15.700,Nashville Local Cycling
+12,272407,Timothy,Killelea,Chattanooga,TN,03:05:15.700,Nashville Local Cycling
 13,481987,Derek,Morgan,Memphis,TN,03:09:20.900,Marx and Bensdorf Cycling Team
 14,251445,Matthew,Robbins,Chattanooga,TN,03:09:20.900,Village VW Chattanooga Cycling Team
 15,141477,John,Hart,Murfreesboro,TN,03:24:05.400,Friends Great Smokies (FGS Cycling)
@@ -376,7 +376,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,496906,Philippe,Gautier d Aulnay,Rising Fawn,GA,02:21:59.900,Village VW Chattanooga Cycling Team
 8,50441,Timothy,Taylor,Lexington,TN,02:22:06.700,Lift Center Racing
 9,206084,Mark,Peet,Knoxville,TN,02:23:05.400,Harper Auto
-10,256450,Timothy,Goodin,Chattanooga ,TN,02:23:08.100,Village VW Chattanooga Cycling Team
+10,256450,Timothy,Goodin,Chattanooga,TN,02:23:08.100,Village VW Chattanooga Cycling Team
 11,378749,Lee,Clayton,Clarksville,TN,02:23:08.700,Riverside Bicycle Racing
 12,356144,Tim,Carnes,Maryville,TN,02:23:12.900,Bike N' Tri - Health Factory Race Team
 13,259192,Ronald,Zannini,Crossville,TN,02:23:17.900,Hub Cycling-Caney Fork Racing
@@ -417,12 +417,12 @@ Place,License #,First,Last,City,State,Time,Team
 8,135688,Jason,Moore,Cookeville,TN,02:13:07.600,Hub Cycling-Caney Fork Racing
 9,364921,Nathan,Stone,Nashville,TN,02:13:14.900,I Am Racing
 10,202079,John,Eisinger,Louisville,KY,02:16:02.500,
-11,474558,Chris,Beck,Clarksville ,TN,02:18:44.500,Riverside Bicycle Racing
+11,474558,Chris,Beck,Clarksville,TN,02:18:44.500,Riverside Bicycle Racing
 12,301614,Deane,Gauthier,Hendersonville,NC,02:19:06.700,Crosstown Velo
 13,58356,Michael,Lesmerises,Knoxville,TN,02:19:09.100,Knoxville Bicycle / Aubrey's Restaurants
 14,468208,Jose,Vallecillo,Crossville,TN,02:19:22.700,
 15,209900,Todd,Huber,Nashville,TN,02:27:43.000,MOAB Masters Racing
-DNF,113615,James,Buckingham,Madison,TN,,Hattie B's Racing
+DNF,113615,James,Buckingham,White House,TN,,Hattie B's Racing
 
 07/22/2017 Road Race Mixed Cat 1/2/3/4 Masters 45-99
 Place,License #,First,Last,City,State,Time,Team
@@ -440,7 +440,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 07/22/2017 Time Trial Men Pro/Cat 1/2
 Place,License #,First,Last,City,State,Time,Team
-1,272407,Timothy,Killelea,Chattanooga ,TN,00:15:51.770,Nashville Local Cycling
+1,272407,Timothy,Killelea,Chattanooga,TN,00:15:51.770,Nashville Local Cycling
 2,396334,Brent,Ferrell,Nashville,TN,00:15:52.940,Hattie B's Racing
 3,141477,John,Hart,Murfreesboro,TN,00:16:09.150,Friends Great Smokies (FGS Cycling)
 4,359399,Miles,Hubbard,Wilkesboro,NC,00:16:10.770,Monster Media Elite Development

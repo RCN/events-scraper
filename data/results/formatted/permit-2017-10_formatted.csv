@@ -57,26 +57,26 @@ Place,License #,First,Last,City,State,Time,Team
 11,352648,David,KAHN,Putnam Valley,NY,00:04:49.254,
 12,533428,Darric,ROARK,Arvada,CO,00:04:59.54,
 13,417373,Jack,MAJOR,Brentwood,TN,00:05:13.555,
-14,513028,Ross,SORIANO,Littleton ,CO,00:05:19.507,
+14,513028,Ross,SORIANO,Littleton,CO,00:05:19.507,
 15,381222,Aiden,LOORHAM,Rome,GA,00:05:24.762,
 16,391503,Angelo,LOSKOTA,Lancaster,CA,00:05:35.929,
 17,535234,Chandler,WATTS,Mooresville,NC,00:15:58.536,
 DNS,321534,Alex,HOLTZEN,Boulder,CO,DNS,
 DNS,358825,Devin,KJAER,Aptos,CA,DNS,
 DNS,440710,Jordan,TUNKS,Reston,VA,DNS,
-DNS,307192,Jake,YACKLE,Spokane ,WA,DNS,
+DNS,307192,Jake,YACKLE,Spokane,WA,DNS,
 
 07/23/2017 Downhill Women Pro
 Place,License #,First,Last,City,State,Time,Team
 1,186217,Jill,KINTNER,Bellingham,WA,00:04:53.719,
-2,316554,Amanda,BATTY,Park City,UT,00:05:07.524,
+2,316554,Amanda,BATTY,Payson,UT,00:05:07.524,
 3,407465,Jacqueline,THOMAS,Winter Park,CO,00:05:12.445,
 4,382122,Amy,LEISHEAR,Laurel,MD,00:05:31.926,
 5,377126,Angelina,PALERMO,Butler,PA,00:05:32.219,
 6,400985,Kaytlin,MELVIN,Sammamish,WA,00:05:33.891,
 7,481337,Ella,SKALWOLD,East Hardwicke,VT,00:05:41.657,
 8,301162,Caroline,WASHAM,Mooresville,NC,00:05:51.672,
-9,481900,Cj,SELIG,Big Bear Lake,CA,00:05:57.539,
+9,481900,Cj,SELIG,Running Springs,CA,00:05:57.539,
 10,404663,Riley,WEIDMAN,Verona,PA,00:06:13.660,
 11,405259,Samantha,KINGSHILL,Sacramento,CA,00:06:20.816,
 12,255122,Amber,PRICE,Cedaredge,CO,00:06:29.168,
@@ -103,7 +103,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,305773,Stephen,HYDE,Easthampton,MA,01:48:54,Cannondale Cyclocrossworld
 9,282247,Keegan,SWENSON,Park City,UT,01:49:50,Cannondale 3Rox
 10,112599,Troy,WELLS,Durango,CO,01:50:07,TEAM CLIF BAR Cycling
-11,264350,Kerry,WERNER,Birdsboro,PA,01:50:25,
+11,264350,Kerry,WERNER,Advance,NC,01:50:25,
 12,349134,Carson,LANGE,Austin,TX,01:52:31,Competitive Cyclist MTB Team
 13,220084,Tristan,COWIE,Mills River,NC,01:52:48,Carolinas Cycling Association
 14,85929,Brian,MATTER,Sheboygan,WI,01:53:18,Linear Sport MTB
@@ -155,15 +155,15 @@ Place,License #,First,Last,City,State,Time,Team
 10,344890,Garrett,GERCHAR,Boulder,CO,01:34:02,
 11,495732,Rylan,SCHADEGG,Logan,UT,01:34:41,
 12,276258,Jerry,DUFOUR,Birmingham,AL,01:34:51,Bear Development Team
-13,394483,Daniel,JOHNSON,Durango,CO,01:35:34,Bear Development Team
+13,394483,Daniel,JOHNSON,Durango,CA,01:35:34,Bear Development Team
 14,344974,Steffen,ANDERSEN,Soquel,CA,01:35:48,Bear Development Team
 15,295077,Eli,KRANEFUSS,Mill Valley,CA,01:36:15,Bear Development Team
 16,279043,Carson,BECKETT,Benton,KY,01:36:23,Bear Development Team
-17,264681,Jacob,SACKET,Troy,TX,01:36:53,Competitive Cyclist MTB Team
+17,264681,Jacob,SACKET,Durango,CO,01:36:53,Competitive Cyclist MTB Team
 18,251347,Liam,EARL,Boise,ID,01:37:09,
 19,361444,Nathan,BARTON,Auburn,CA,01:37:24,
 20,429376,Zach,CALTON,Ogden,UT,01:39:20,Competitive Cyclist MTB Team
-21,356788,Lucas,ROWTON,La Canada Flintridge,CA,01:39:27,Montrose Bike Shop
+21,356788,Lucas,ROWTON,Durango,CO,01:39:27,Montrose Bike Shop
 22,400187,Matthew,BEHRENS,Park City,UT,01:39:39,Competitive Cyclist MTB Team
 23,457824,Henry,NADELL,Carbondale,CO,01:39:41,CZ Racing
 24,380657,Alec,PASQUALINA,Alamo,CA,01:39:43,Giant Co-Factory Off-Road Team
@@ -175,7 +175,7 @@ Place,License #,First,Last,City,State,Time,Team
 30,376554,Jeremy,NORRIS,Estes Park,CO,01:46:28,
 31,433483,Samuel,HEDLUND,Minneapolis,MN,01:46:33,University of Vermont
 32,404229,Clayton,TRAVIS,Hudson,OH,01:46:35,Kreitler Racing Team
-33,263553,Jorge,MUNOZ JR,Durango,CO,01:46:37,CZ Racing
+33,263553,Jorge,MUNOZ JR,Laredo,TX,01:46:37,CZ Racing
 34,379178,Matthew,TURNER,Park City,UT,01:22:52,Competitive Cyclist MTB Team
 35,423657,Canyon,EMMOTT,Spicewood,TX,01:23:32,787 Racing
 36,384734,Samuel,FURNESS,Golden,CO,01:46:43,Natural Grocers Cycling Team
@@ -203,7 +203,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,307752,Kate,COURTNEY,Kentfield,CA,01:39:36,Team Specialized Racing
 2,164014,Lea,DAVISON,Jericho,VT,01:43:41,MTB Pro Team: Clif Pro Team
 3,194901,Erin,HUCK,Boulder,CO,01:44:54,
-4,332898,Rose,GRANT,Columbia Falls ,MT,01:45:35,
+4,332898,Rose,GRANT,Columbia Falls,MT,01:45:35,
 5,321990,Amy,BEISEL,Colorado Springs,CO,01:51:43,
 6,381220,Evelyn,DONG,Boulder,CO,01:53:05,
 7,350474,Kaysee,ARMSTRONG,Knoxville,TN,01:56:11,
@@ -314,7 +314,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,480139,Austin,DOOLEY,Yucaipa,CA,00:05:02.321,
 9,478195,Amani,VIGIL,Taos,NM,00:05:13.765,
 10,503486,Brad,TUNKS,Reston,VA,00:05:33.938,
-11,307201,Nye,YACKLE,Spokane ,WA,00:20:05.035,
+11,307201,Nye,YACKLE,Spokane,WA,00:20:05.035,
 
 07/22/2017 Downhill Men Cat 1 Qualifying 17-18
 Place,License #,First,Last,City,State,Time,Team
@@ -326,7 +326,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,352648,David,KAHN,Putnam Valley,NY,00:04:29.570,
 7,485700,Nathan,STCLAIR,Statesville,NC,00:04:32.778,
 8,431904,Collin,MCBRIDE,Williamstown,MA,00:04:37.585,
-9,513028,Ross,SORIANO,Littleton ,CO,00:04:49.121,
+9,513028,Ross,SORIANO,Littleton,CO,00:04:49.121,
 10,297932,Bergen,KHARE,Brevard,NC,00:04:57.050,
 11,393836,Ryhan,LOPATIC,Middletown,PA,00:05:03.781,
 12,533158,Garret,MECHEM,Watsonville,CA,00:05:10.652,
@@ -337,7 +337,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,321534,Alex,HOLTZEN,Boulder,CO,00:06:10.542,
 18,417373,Jack,MAJOR,Brentwood,TN,00:06:12.863,
 19,440710,Jordan,TUNKS,Reston,VA,00:06:40.305,
-20,307192,Jake,YACKLE,Spokane ,WA,00:09:03.664,
+20,307192,Jake,YACKLE,Spokane,WA,00:09:03.664,
 21,535234,Chandler,WATTS,Mooresville,NC,00:12:54.684,
 22,443619,Josh,HENN,Cranberry Twp,PA,00:26:16.731,
 
@@ -385,7 +385,7 @@ Place,License #,First,Last,City,State,Time,Team
 07/22/2017 Downhill Men Cat 1 Master 45-49
 Place,License #,First,Last,City,State,Time,Team
 1,40198,Joe,LAWWILL,Anaheim Hills,CA,00:04:24.695,
-2,117593,Kevin,LIEBIG,Havre De Grace,MD,00:04:31.067,
+2,117593,Kevin,LIEBIG,Martinsville,VA,00:04:31.067,
 3,381149,Andrew,RICHTER,Greenville,SC,00:04:52.711,Double Black Bikes
 4,111838,Kenneth (Chuck),PITTS,Mcdonough,GA,00:04:55.024,
 5,352620,Mark,KUGEL,Salt Lake City,UT,00:05:04.258,
@@ -400,7 +400,7 @@ DNS,315642,Keith,OBRIEN,Highland,MI,DNS,
 
 07/22/2017 Downhill Men Cat 1 Master 50-54
 Place,License #,First,Last,City,State,Time,Team
-1,20962,G John,LESLIE,Birmingham,MI,00:05:24.550,
+1,20962,G John,LESLIE,Bloomfield Hills,MI,00:05:24.550,
 2,311385,Robert,SAFRIT,Beaufort,NC,00:05:30.472,
 3,90656,William,MILLER,Ocala,FL,00:05:35.223,
 4,503366,Phillip,DOWNELL,Fort Washington,MD,00:05:50.313,
@@ -413,7 +413,7 @@ DNS,332996,Doug,TATE,Kokomo,IN,DNS,
 Place,License #,First,Last,City,State,Time,Team
 1,536706,Ryan,PINKERTON,Aliso Viejo,CA,00:05:16.230,
 2,466788,Raulito,GUTIERREZ,Temecula,CA,00:05:26.281,
-3,481929,Colin,MULALLY,Reading,PA,00:06:22.605,
+3,481929,Colin,MULALLY,Toms River,NJ,00:06:22.605,
 4,391758,Joe,SPRANGER,Sammamish,WA,00:07:06.269,Rad Racing NW
 
 07/22/2017 Downhill Men Junior 13-14
@@ -445,14 +445,14 @@ Place,License #,First,Last,City,State,Time,Team
 1,186217,Jill,KINTNER,Bellingham,WA,00:04:44.844,
 2,301162,Caroline,WASHAM,Mooresville,NC,00:05:37.387,
 3,407465,Jacqueline,THOMAS,Winter Park,CO,00:05:41.192,
-4,316554,Amanda,BATTY,Park City,UT,00:05:41.684,
+4,316554,Amanda,BATTY,Payson,UT,00:05:41.684,
 5,400985,Kaytlin,MELVIN,Sammamish,WA,00:05:44.840,
 6,481337,Ella,SKALWOLD,East Hardwicke,VT,00:05:45.500,
 7,382122,Amy,LEISHEAR,Laurel,MD,00:05:49.937,
 8,377126,Angelina,PALERMO,Butler,PA,00:06:27.843,
 9,255122,Amber,PRICE,Cedaredge,CO,00:07:04.523,
 10,487911,Chelsea,KIMBALL,Carlsbad,CA,00:07:07.281,
-11,481900,Cj,SELIG,Big Bear Lake,CA,00:07:19.023,
+11,481900,Cj,SELIG,Running Springs,CA,00:07:19.023,
 12,416795,Emily,GACAD,Morro Bay,CA,00:07:19.304,
 13,352832,Kim,GODFREY,Louisville,CO,00:07:21.704,Alpinestars / Onza / Novatec
 14,404663,Riley,WEIDMAN,Verona,PA,00:07:25.274,
@@ -500,7 +500,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,332546,DUSTIN,WHITE,Martinez,GA,00:33:37,
 8,335050,BEN,SCHMUTTE,Noblesville,IN,00:34:00,
 9,192115,BRADFORD,PERLEY,Brevard,NC,00:34:03,
-10,456923,JAKE,PETERSON,Batavia,IL,00:34:18,
+10,456923,JAKE,PETERSON,Elburn,IL,00:34:18,
 11,407231,ROBERT,PEARCE,Corte Madera,CA,00:34:29,
 12,193513,RYAN,BUERMAN,Alexandria,VA,00:35:05,
 13,481979,JUSTIN,MARTIN,Houston,TX,00:35:19,
@@ -514,7 +514,7 @@ Place,License #,First,Last,City,State,Time,Team
 21,448200,WILL,PFEIFFER,Raleigh,NC,00:28:03,
 22,327866,CHAD,BOBBITT,Austin,TX,00:23:31,
 23,387159,SILAS,MOOREFIELD,Statesville,NC,00:23:33,
-DNS,387888,PATRICK,SMITH,North Augusta,SC,00:00:00,
+DNS,387888,PATRICK,SMITH,Roebuck,SC,00:00:00,
 DNF,486547,JULIAN,MAISSEL,Port Washington,NY,00:00:00,
 DNF,233896,COREY,DENTON,Newcastle,OK,00:14:23,
 
@@ -581,7 +581,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,535623,RYAN,THORNTON,Auburn,AL,01:25:00,
 13,402529,CODY,GROVES,Goldsboro,MD,01:25:25,
 14,368289,ZACHARY,FERNAU,Show Low,AZ,01:25:26,
-15,307201,NYE,YACKLE,Spokane ,WA,01:25:39,
+15,307201,NYE,YACKLE,Spokane,WA,01:25:39,
 16,508192,IAN,BRINK,North Bend,WA,01:25:48,
 17,460061,MATTHEW,SALDANA,Salinas,CA,01:26:13,
 18,412612,JUDAH,GUSTAFSON,Belmont,MI,01:26:15,
@@ -597,7 +597,7 @@ Place,License #,First,Last,City,State,Time,Team
 28,511484,THEODORE,FABIAN,Prescott,AZ,01:33:07,
 29,326684,WILLIAM,SEITZ,Birmingham,AL,01:33:09,
 30,521396,FINN,SWEET,Waterbury Center,VT,01:33:25,
-31,525360,SKYE,RICCI,Nevada City,CA,01:34:04,
+31,525360,SKYE,RICCI,Mill Valley,CA,01:34:04,
 32,538002,KYLE,SMITH,Cornelius,NC,01:34:27,
 33,526073,CADEN,GRAF,Amarillo,TX,01:34:42,
 34,526862,BLAKELY,EMBRY,Amarillo,TX,01:34:58,
@@ -621,7 +621,7 @@ Place,License #,First,Last,City,State,Time,Team
 52,353908,HUNTER,SCHMITT,West Bend,WI,01:41:41,
 53,529495,JAMES,ALLMON,Yorktown,VA,01:41:54,
 54,404857,WILL,STACEY,Nashville,TN,01:41:58,
-55,463959,LUKE,GORDON,Birmingham,AL,01:42:01,
+55,546136,LUKE,GORDON,Birmingham,AL,01:42:01,
 56,410531,AUGUST,MILLIKEN,Takoma Park,MD,01:42:51,
 57,536001,WILLIAM,WEEMS,Birmingham,AL,01:17:28,
 58,406782,LEVI,SMITH,Kingwood,WV,01:17:29,
@@ -653,7 +653,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,458223,ETHAN,MOYER,Steamboat Springs,CO,01:39:50,
 8,355674,NICHOLAS,JENKINS,Colorado Springs,CO,01:40:03,
 9,306523,ADAM,CROFT,Toano,VA,01:40:06,
-10,307192,JAKE,YACKLE,Spokane ,WA,01:40:43,
+10,307192,JAKE,YACKLE,Spokane,WA,01:40:43,
 11,489259,SETH,SAXTON,Draper,UT,01:41:11,
 12,270185,SCOTT,FUNSTON,Maple Valley,WA,01:41:43,
 13,383212,JASON,ROWTON,La Canada Flintridge,CA,01:43:11,
@@ -668,8 +668,8 @@ Place,License #,First,Last,City,State,Time,Team
 22,429882,BRADYN,LANGE,Austin,TX,01:48:39,
 23,392991,TATE,MEINTJES,Reno,NV,01:48:49,
 24,477034,ERIC,OLSEN,Anacortes,WA,01:49:47,
-25,499709,GRAYSON,HUGHES,Prescott,AZ,01:49:51,
-26,504221,BEN,OGDEN,Landgrove  ,VT,01:50:00,
+25,527142,GRAYSON,HUGHES,Silver Spring,MD,01:49:51,
+26,504221,BEN,OGDEN,Landgrove,VT,01:50:00,
 27,497422,SPENCER,CIAMMITTI,Cave Creek,AZ,01:50:04,
 28,378780,TOMMY,STEINEBRUNNER,Sykesville,MD,01:51:08,
 29,502543,SEBASTIAN,DOW,Novato,CA,01:51:37,
@@ -735,7 +735,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,486566,ISAAC,ENGELING,Waco,TX,00:44:49,
 5,442919,NATHAN,CUSACK,Chevy Chase,MD,00:45:34,
 6,495127,BRIGHTON,JOHNSON,Cave Creek,AZ,00:45:40,
-7,406125,ANDREW,MERLO,Woodstock,GA,00:46:16,
+7,406125,ANDREW,MERLO,Crested Butte,CO,00:46:16,
 8,474312,JOHN,MIZZONI,Ocala,FL,00:46:48,
 9,433309,COLIN,KNOWLES,Batavia,IL,00:47:24,
 10,407242,HUNTER,GENGLER,Reedsburg,WI,00:47:25,
@@ -808,7 +808,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 07/22/2017 Cross Country Women Cat 1/2 Junior 15-16
 Place,License #,First,Last,City,State,Time,Team
-1,332072,KATIE,CLOUSE,Littleton ,CO,01:11:00,
+1,332072,KATIE,CLOUSE,Park City,UT,01:11:00,
 2,352670,SYDNEY,PALMERLEGER,Park City,UT,01:12:01,
 3,434059,MADELINE,ROBBINS,Durango,CO,01:12:34,
 4,381411,MILA,LEGER-REDEL,Park City,UT,01:16:12,
@@ -922,7 +922,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,536706,Ryan,PINKERTON,Aliso Viejo,CA,00:05:31.2,
 2,466788,Raulito,GUTIERREZ,Temecula,CA,00:05:51.4,
-3,481929,Colin,MULALLY,Reading,PA,00:06:28.8,
+3,481929,Colin,MULALLY,Toms River,NJ,00:06:28.8,
 4,391758,Joe,SPRANGER,Sammamish,WA,00:07:25.0,Rad Racing NW
 
 07/21/2017 Downhill Men Qualifying 13-14
@@ -1002,7 +1002,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 07/21/2017 Dual Slalom Men Cat 1 Master 40+
 Place,License #,First,Last,City,State,Time,Team
-1,117593,Kevin,LIEBIG,Havre De Grace,MD,00:00:41.8,
+1,117593,Kevin,LIEBIG,Martinsville,VA,00:00:41.8,
 2,111838,Kenneth (Chuck),PITTS,Mcdonough,GA,00:00:41.5,
 3,297610,Mike,HUMMEL,West Newton,PA,00:00:42.6,
 4,43347,Jason,SWAIN,Tallahassee,FL,00:00:45.4,
@@ -1029,7 +1029,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,472704,Cody,PITTMAN,Jefferson Hills,PA,00:00:47.7,
 14,363346,Wren,POWERS,Englewood,CO,00:00:48.9,Melton Design Build/GS Forza Cycling
 15,410885,Ryan,LITTLE,Charlottesville,VA,00:00:49.8,Charlottesville Racing Club
-16,481929,Colin,MULALLY,Reading,PA,00:00:49.8,
+16,481929,Colin,MULALLY,Toms River,NJ,00:00:49.8,
 DNS,431291,Etka,AYHAN,Hackettstown,NJ,,
 DNS,527194,Ben,KEALY,Hendersonville,NC,,
 DNS,386626,Tobias,KLEIN,Arlington,VA,,NCVC/UnitedHealthcare
@@ -1066,7 +1066,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,219681,Richard Cypress,Gorry,Pisgah Forest,NC,0:36:14,KTM FACTORY RACING
 11,285975,ALEX,WILD,Los Gatos,CA,0:36:19,TRAIL HEAD RACING - SPECI
 12,352800,COLE,PATON,Cashmere,WA,0:36:20,GIANT CO-FACTORY OFF-ROAD
-13,264350,KERRY,WERNER,Birdsboro,PA,0:36:21,
+13,264350,KERRY,WERNER,Advance,NC,0:36:21,
 14,417936,SAMUEL,ELSON,Breezy Point,MN,0:36:28,THC
 15,369746,NICHOLAS,LANDO,Ringwood,NJ,0:36:31,NEW JERSEY BICYCLING ASSO
 16,112599,TROY,WELLS,Durango,CO,0:36:41,TEAM CLIF BAR CYCLING
@@ -1076,7 +1076,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,457824,HENRY,NADELL,Carbondale,CO,0:37:41,
 21,255493,CHRISTOPHER,BLEVINS,Durango,CO,0:39:24,UCI CT: AXEON HAGENS BERM
 22,9007,CARL,DECKER,Bend,OR,0:28:54,GIANT FACTORY OFF-ROAD TE
-23,394483,DANIEL,JOHNSON,Durango,CO,0:28:55,
+23,394483,DANIEL,JOHNSON,Durango,CA,0:28:55,
 24,344890,GARRETT,GERCHAR,Boulder,CO,0:28:59,
 25,349134,CARSON,LANGE,Austin,TX,0:29:02,COMPETITIVE CYCLIST MTB T
 26,388704,CLAYTON,OTTO,Salt Lake City,UT,0:29:07,GIANT CO-FACTORY OFF-ROAD
@@ -1092,19 +1092,19 @@ Place,License #,First,Last,City,State,Time,Team
 37,322250,ANDERS,JOHNSON,Huntsville,UT,0:25:23,WHOLE ATHLETE P/B DNA
 38,495732,RYLAN,SCHADEGG,Logan,UT,0:25:29,UTAH CYCLING ASSOCIATION
 39,400187,MATTHEW,BEHRENS,Park City,UT,0:25:31,COMPETITIVE CYCLIST MTB T
-40,356788,LUCAS,ROWTON,La Canada Flintridge,CA,0:27:46,MONTROSE BIKE SHOP
+40,356788,LUCAS,ROWTON,Durango,CO,0:27:46,MONTROSE BIKE SHOP
 41,193527,THOMAS,HERMAN,Lakewood,CO,0:21:24,GROOVE SUBARU EXCEL SPORT
 42,429376,ZACH,CALTON,Ogden,UT,0:21:25,COMPETITIVE CYCLIST MTB T
 43,135975,TRAVIS (TJ),WOODRUFF,Prescott,AZ,0:21:28,STAN_S - PIVOT PRO TEAM
 44,232942,CHRISTOPHER,HAMLIN,Jonesville,VT,0:21:29,
 45,300170,JASON,BLODGETT,Berlin Heights,OH,0:21:30,KTM FACTORY RACING
 46,37334,ERNIE,WATENPAUGH,Ophir,CO,0:21:32,JACK DANIELS
-47,263553,JORGE,MUNOZ JR,Durango,CO,0:21:37,
+47,263553,JORGE,MUNOZ JR,Laredo,TX,0:21:37,
 48,278675,SCOTTY,ALBAUGH,Waterford,MI,0:21:43,
 49,457353,DAVID,DUNCAN,Shingle Springs,CA,0:21:44,
 50,359716,CODY,SCHWARTZ,Shingle Springs,CA,0:21:48,
 51,423657,CANYON,EMMOTT,Spicewood,TX,0:22:00,787 RACING
-52,264681,JACOB,SACKET,Troy,TX,0:22:01,COMPETITIVE CYCLIST MTB T
+52,264681,JACOB,SACKET,Durango,CO,0:22:01,COMPETITIVE CYCLIST MTB T
 53,282272,ANDREW,BAILEY,Piney Flats,TN,0:28:35,
 54,189074,STEPHEN,ETTINGER,Bellingham,WA,0:15:19,
 55,294148,BENJAMIN,SENKERIK,Wauwatosa,WI,0:17:50,
@@ -1156,7 +1156,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,194901,ERIN,HUCK,Boulder,CO,0:35:45,BICYCLE RACING ASSOCIATIO
 2,164014,LEA,DAVISON,Jericho,VT,0:36:06,
-3,332898,ROSE,GRANT,Columbia Falls ,MT,0:36:52,MONTANA BICYCLE RACING AS
+3,332898,ROSE,GRANT,Columbia Falls,MT,0:36:52,MONTANA BICYCLE RACING AS
 4,343756,HALEY,BATTEN,Park City,UT,0:36:54,
 5,307752,KATE,COURTNEY,Kentfield,CA,0:37:14,
 6,294584,ALEXIS,SKARDA,Grand Junction,CO,0:38:22,BICYCLE RACING ASSOCIATIO
@@ -1181,7 +1181,7 @@ DNS,382457,FAIRLEE,FREY,Boise,ID,0:00:00,SOUTHWEST IDAHO CYCLING A
 
 07/21/2017 Short Track Cross Country Women Junior 11-16
 Place,License #,First,Last,City,State,Time,Team
-1,332072,KATIE,CLOUSE,Littleton ,CO,00:13:55,LIV CO-FACTORY OFF-ROAD T
+1,332072,KATIE,CLOUSE,Park City,UT,00:13:55,LIV CO-FACTORY OFF-ROAD T
 2,434059,MADELINE,ROBBINS,Durango,CO,00:14:10,
 3,381411,MILA,LEGER REDEL,Park City,UT,00:14:54,COMPETITIVE CYCLIST MTB T
 4,413104,LILY,PECK,Shelbyville,IN,00:15:09,
@@ -1230,7 +1230,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,314682,ANDREW,BOBB,Boiling Springs,PA,01:20:23,
 2,384734,SAMUEL,FURNESS,Golden,CO,01:22:22,NATURAL GROCERS CYCLING T
 3,429599,CASEY,GRIESEMER,Cambridge,WI,01:23:07,NEFF CYCLE SERVICE
-4,456923,JAKE,PETERSON,Batavia,IL,01:24:59,
+4,456923,JAKE,PETERSON,Elburn,IL,01:24:59,
 5,305207,ZACHARY,LOWDEN,Cary,NC,01:28:09,
 6,473271,SAM,GHALAYINI,Fairfax Station,VA,01:28:22,
 7,458033,ERIK,CARLSON,East Greenwich,RI,01:31:27,AETNA-EXPO WHEELMEN
@@ -1304,7 +1304,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,496762,TYLER,PHILIPS,Greenville,NC,01:26:22,
 10,388821,NATHANIAL,MANCHIN,Pittsburgh,PA,01:28:59,
 11,207498,GALE,HESS,East Petersburg,PA,01:29:26,THRU-IT-ALL BODY SHOP INC
-12,90455,CHRISTOPHER,KEARNES,Wake Forest ,NC,01:29:35,
+12,90455,CHRISTOPHER,KEARNES,Wake Forest,NC,01:29:35,
 13,284095,GREGORY,CAPELLE,Catonsville,MD,01:30:04,
 14,455109,FELIPE,CANTERO GUTIERREZ,Arvada,CO,01:30:41,NATURAL GROCERS CYCLING T
 15,397044,RODDY,BURGESS,Charlotte,NC,01:32:18,
@@ -1327,11 +1327,11 @@ Place,License #,First,Last,City,State,Time,Team
 7,183183,THOMAS,RODGERS,Greensboro,NC,00:55:38,J. A. KING MOUNTAIN BIKE
 8,38819,RICHARD,WOLTER,New York,NY,00:55:55,NEW YORK STATE BICYCLE RA
 9,274824,CHRIS,LESSING,Alpharetta,GA,00:56:00,
-10,26803,JAKE,ORNESS,San Diego,CA,00:56:12,
+10,26803,JAKE,ORNESS,Vista,CA,00:56:12,
 11,279625,STEPHEN,ROWAND,Morgantown,WV,00:56:45,
-12,132845,MICHAEL,MATHERS,Raleigh,NC,00:56:49,J. A. KING MOUNTAIN BIKE
+12,132845,MICHAEL,MATHERS,Wake Forest,NC,00:56:49,J. A. KING MOUNTAIN BIKE
 13,121026,JOHN,FOLEY,Fiskdale,MA,00:57:19,NEW ENGLAND BICYCLE RACIN
-14,220150,JARED,NIETERS,Haymarket,VA,00:57:32,VAN DESSEL FACTORY TEAM
+14,220150,JARED,NIETERS,Amissville,VA,00:57:32,VAN DESSEL FACTORY TEAM
 15,38071,JOSHUA,WHITMORE,Fairview,NC,00:57:52,ORGANIC VALLEY - HIBALL E
 16,153455,RICHARD,TORTORICI III,Clifton Park,NY,00:59:00,
 17,131716,JEFFREY,CRADDOCK,Marstons Mills,MA,00:59:23,
@@ -1366,7 +1366,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,136195,ROGER,ASPHOLM,Haworth,NJ,00:57:15,FINKRAFT CYLING TEAM
 7,107000,ERNEST,TAUTKUS,Uncasville,CT,00:57:18,CAPITAL VELO CLUB
 8,11878,RANDY,FLORES,Santa Fe,NM,00:57:23,
-9,250101,TIMOTHY,ZIMMERMAN,Palm Beach Gardens ,FL,00:57:55,
+9,250101,TIMOTHY,ZIMMERMAN,Palm Beach Gardens,FL,00:57:55,
 10,31973,CHRISTOPHER,SCOTT,Harrisonburg,VA,00:58:44,
 11,112047,MARC,GLASS,Morgantown,WV,00:59:33,PENNSYLVANIA CYCLING ASSO
 12,4215,MATTHEW,BOOBAR,Stratton Mountain,VT,00:59:55,TEAM RHINO BIKEWORKS
@@ -1449,7 +1449,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,323492,REBECCA,MIKRUT,Chicago,IL,01:13:07,
 7,532527,ERICA,DAIGNEAULT,Dudley,MA,01:13:16,
 8,394463,SARAH,GARVICK,Boone,NC,01:14:16,HAPPY TOOTH WOMEN'S RACIN
-9,379218,JESSICA,EDENS,Kingston Springs ,TN,01:17:46,
+9,379218,JESSICA,EDENS,Kingston Springs,TN,01:17:46,
 10,345784,JUSTINE,PAGENHARDT,Morgantown,WV,01:18:30,PENNSYLVANIA CYCLING ASSO
 11,425937,NICOLE,OBRIECHT,Mattawan,MI,01:22:14,TEAM CLARK LOGIC
 12,518543,ABIGAIL,THIELE,Raleigh,NC,01:24:11,
@@ -1467,7 +1467,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 07/21/2017 Cross Country Women Master 40-44
 Place,License #,First,Last,City,State,Time,Team
-1,175568,DARCY,FOLEY,Sturbridge,MA,01:11:47,
+1,175568,DARCY,FOLEY,Fiskdale,MA,01:11:47,
 2,362394,BEATA,WRONSKA,Boynton Beach,FL,01:13:03,FLORIDA BICYCLE RACING
 3,506926,KATHARINE,WELLING,Spartanburg,SC,01:17:07,
 4,455473,BETH,REEDRICHARDSON,Columbus,GA,01:46:46,
@@ -1505,8 +1505,8 @@ Place,License #,First,Last,City,State,Time,Team
 1,414457,Layton,MEYERS,Maple Valley,WA,0:38:02.3,Rad Racing NW
 2,467023,Trevor,MCCUTCHEON,Temecula,CA,0:38:13.8,SPNDX Stampede
 3,352966,Bryn,BINGHAM,Sandy,UT,0:38:20.9,
-4,307192,Jake,YACKLE,Spokane ,WA,0:40:35.9,
-5,307201,Nye,YACKLE,Spokane ,WA,0:42:01.7,
+4,307192,Jake,YACKLE,Spokane,WA,0:40:35.9,
+5,307201,Nye,YACKLE,Spokane,WA,0:42:01.7,
 6,352638,Drew,PALMERLEGER,Park City,UT,0:42:06.3,
 7,478213,Trey,DAVIS,Pulaski,VA,0:42:23.0,
 8,494055,Harrison,KLAPHEKE,Kingston Springs,TN,0:42:59.5,Nashville Local Cycling
@@ -1514,7 +1514,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,360387,Jonah,MERRIAM,Washington,DC,0:43:12.0,Crosshairs Cycling
 11,422159,Cole,WEIDENBACH,Spicewood,TX,0:43:17.5,Competitive Cyclist MTB Team
 12,474406,Ryan,JOHNSON,Brookville,PA,0:43:19.2,UPMC/ Pro Bikes
-13,504221,Ben,OGDEN,Landgrove  ,VT,0:43:24.1,
+13,504221,Ben,OGDEN,Landgrove,VT,0:43:24.1,
 14,476654,Nathan,MIZENER,Morgantown,WV,0:44:32.6,
 15,414937,Cooper,RODRIGUES,Cary,NC,0:45:54.9,Cycling Spoken Here Racing
 16,399967,Kyle,LITTLE,Charlottesville,VA,0:45:57.4,Charlottesville Racing Club
@@ -1525,7 +1525,7 @@ Place,License #,First,Last,City,State,Time,Team
 21,402529,Cody,GROVES,Goldsboro,MD,1:02:55.1,
 22,414431,Alexander,ALFANO,Knoxville,MD,1:03:32.7,Crosshairs Cycling
 DNS,501783,Nicolas,BEAN,Los Gatos,CA,,
-DNS,513028,Ross,SORIANO,Littleton ,CO,,
+DNS,513028,Ross,SORIANO,Littleton,CO,,
 DNF,523981,Lucas,BYRNE,Centerton,AR,,
 DNF,392376,Michael,FUERST,Winston Salem,NC,,
 DNF,406782,Levi,SMITH,Kingwood,WV,,PATHFINDER of WV Race Team
@@ -1540,7 +1540,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,454296,Lucas,WEAVER,Christiansburg,VA,0:44:15.8,
 6,537978,Tristan,BROUGHTON,Charleston,WV,0:44:40.4,
 7,537319,Andrew,MASSEE,Chattanooga,TN,0:45:34.5,
-8,387888,Patrick,SMITH,North Augusta,SC,0:49:58.2,Team Greenville Health System
+8,387888,Patrick,SMITH,Roebuck,SC,0:49:58.2,Team Greenville Health System
 DNS,418390,Julio,BARREIRO,Weston,FL,,
 DNF,384718,William,DORN,Charlottesville,VA,,J.T. Racing Pittsburgh
 
@@ -1551,7 +1551,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,216807,Tom,NIERI,Harrison City,PA,0:43:05.3,
 4,152009,Jonathan,MARTIN,Monongah,WV,0:43:32.5,
 5,254441,Steven,HOPENGARTEN,Medford,MA,0:44:46.1,Craft Factory Racing
-6,405912,Erik,FALK,Manassas ,VA,0:45:53.0,Looney DH
+6,405912,Erik,FALK,Manassas,VA,0:45:53.0,Looney DH
 7,122219,Nicholas,SHAFFER,Phoenixville,PA,0:47:52.1,Bikesport/ Sly Fox Racing
 8,432839,Daniel,WORLEY,Concord,NC,0:52:52.3,
 DNF,219814,Ruben,LEON,Greenwich,CT,#N/A,
@@ -1575,7 +1575,7 @@ DNF,3025,Philip,BEARD,Middlesex,VT,#N/A,Bicycle Express Racing
 07/20/2017 Enduro Men Master 50-59
 Place,License #,First,Last,City,State,Time,Team
 1,536735,Paul,BROUGHTON,Winfield,WV,0:42:53.2,
-2,79237,Steven,COOPER,Reno,NV,0:44:56.7,
+2,79237,Steven,COOPER,,NV,0:44:56.7,
 3,42098,Richard,VREELAND,Flower Mound,TX,0:46:06.7,
 4,4455,Markus,BOWMAN,Emmaus,PA,0:48:49.1,Bikesport/ Sly Fox Racing
 5,537710,Keith,BOHNE,Goshen,KY,0:50:19.3,
@@ -1668,9 +1668,9 @@ Place,License #,First,Last,City,State,Time,Team
 26,497422,SPENCER,CIAMMITTI,Cave Creek,AZ,30:41.0,
 27,439727,AIDAN,LEMORANDE,Suamico,WI,30:45.0,
 28,314966,NATHAN,KNOWLES,Batavia,IL,30:53.0,
-29,499709,GRAYSON,HUGHES,Prescott,AZ,30:54.0,
+29,527142,GRAYSON,HUGHES,Silver Spring,MD,30:54.0,
 30,468225,JARON,WOOD,Benton,KY,31:09.0,
-31,504221,BEN,OGDEN,Landgrove  ,VT,31:27.0,
+31,504221,BEN,OGDEN,Landgrove,VT,31:27.0,
 32,365573,NICHOLAS,TABARES,Miami,FL,31:29.0,
 33,358105,JUSTIN,KREGER,Pontiac,MI,31:40.0,ANDRIE JUNIOR DEVELO
 34,368289,ZACHARY,FERNAU,Show Low,AZ,31:45.0,
@@ -1706,7 +1706,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,477574,STELLA,SISNEROS,Vacaville,CA,28:14.0,
 12,398615,MADDY,FRANK,Walker,MI,22:41.0,
 13,468198,KATE,KELLEY,Crystal Bay,NV,22:47.0,NORTHERN CALIFORNIA/
-14,175568,DARCY,FOLEY,Sturbridge,MA,22:48.0,
+14,175568,DARCY,FOLEY,Fiskdale,MA,22:48.0,
 15,431680,ELLISE,SHUMAN,Sandy,UT,22:49.0,COMPETITIVE CYCLIST
 16,428658,KIRA,CROWELL,Riverton,UT,22:50.0,
 17,381950,TURNER,RAMSAY,Rutland,VT,22:50.0,KMS CYCLING-KILLINGT
@@ -1756,7 +1756,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,423885,STEVEN,HEGER,Potomac,MD,01:57:40.0,MID ATLANTIC BICYCLE
 12,145041,HENRY,GOZDZ,Glen Rock,NJ,01:58:33.0,
 13,367069,DAVID,NORMAN,Havana,FL,02:01:20.0,
-14,266277,LUTHER,BARDEN,Cookeville ,TN,02:04:28.0,
+14,266277,LUTHER,BARDEN,Cookeville,TN,02:04:28.0,
 15,26635,DAVE,OLDS,South Mills,NC,02:12:00.0,
 DNS,155830,JIM,ROEGGE,Newark,OH,00:00:00.0,
 
@@ -1806,7 +1806,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,97355,ELLEN,WHITE,Tuxedo,NY,01:17:18.0,
 6,276427,JENNIFER,DEFALCO,Bergenfield,NJ,01:19:17.0,
 7,36621,ALICE,VERNON,Morgantown,WV,01:20:44.0,
-8,402743,SONA,KOROUSOVA,Baltimore ,MD,01:27:25.0,S'VILLE BIKES/ LEE &
+8,402743,SONA,KOROUSOVA,Baltimore,MD,01:27:25.0,S'VILLE BIKES/ LEE &
 9,13846,DAWN,GRAHAM,Bluemont,VA,01:38:12.0,
 
 07/20/2017 Cross Country Women Master 60-64
@@ -1833,7 +1833,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,484125,Palmer,HALL,Belleview,FL,01:37:01,Florida DEVO
 12,470465,Alex,HALE,Spicewood,TX,01:38:50,Texas Mountain Bike Racing Association
 13,474970,Jackson,REPPE,Summerfield,FL,01:39:35,Florida DEVO
-14,463959,Luke,GORDON,Birmingham,AL,01:39:37,Team Mugshots
+14,546136,Luke,GORDON,Birmingham,AL,01:39:37,Team Mugshots
 15,503764,Tucker,HOENIGES,Brookhaven,MS,01:41:12,A-D Racing
 16,537751,Paul,VROUWENVELDER,Chapel Hill,NC,01:41:23,
 17,523453,Isaac,CARLSON,East Greenwich,RI,01:42:20,
@@ -1877,7 +1877,7 @@ Place,License #,First,Last,City,State,Time,Team
 07/19/2017 Cross Country Men Cat 2/3 Non-Championship 35-39
 Place,License #,First,Last,City,State,Time,Team
 1,434431,Ramerom,KOBLINGER,Hillside,NJ,01:40:54,
-2,484980,Tom,LAZZARO,Belmont,NC,01:45:50,
+2,484980,Tom,LAZZARO,Crouse,NC,01:45:50,
 3,410776,Patrick,RYAN,Arlington,VA,01:47:46,
 4,520077,Jeffrey,SIMPSON,Windsor Mill,MD,01:53:06,Phase Cycling
 
@@ -1910,7 +1910,7 @@ DNF,518291,Joseph,HILLER,Port Orange,FL,00:48:33,
 07/19/2017 Cross Country Men Non-Championship 11-12
 Place,License #,First,Last,City,State,Time,Team
 1,499329,Davis,BREEDLOVE,Monroe,NC,00:13:50,Slippery Sasquatch
-2,406125,Andrew,MERLO,Woodstock,GA,00:13:50,
+2,406125,Andrew,MERLO,Crested Butte,CO,00:13:50,
 3,510513,Zachary,CHANDLER,Indian Wells,CA,00:15:06,
 4,488291,Tad,COWAN,Houston,TX,00:15:13,Northwest Cycling Club
 5,537957,Brayden,KROMIS,Alexandria,VA,01:04:45,
@@ -2046,12 +2046,12 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,496771,Angelo,WASH,Highland Springs,VA,00:04:56.0,A-1 Cycling Gravity Team
 2,354784,Shane,WIEGEL,Hanover,PA,00:05:15.5,
-3,456186,Tim,REBOLD,Great Falls,VA,00:05:32.8,A-1 Cycling Gravity Team
+3,456186,Tim,REBOLD,Sterling,VA,00:05:32.8,A-1 Cycling Gravity Team
 DNS,536705,Michael,VERHAAREN,Williamsburg,VA,,
 
 07/18/2017 Downhill Men Cat 2/3 Non-Championship 35-39
 Place,License #,First,Last,City,State,Time,Team
-1,405912,Erik,FALK,Manassas ,VA,00:04:45.5,Looney DH
+1,405912,Erik,FALK,Manassas,VA,00:04:45.5,Looney DH
 2,434431,Ramerom,KOBLINGER,Hillside,NJ,00:05:15.4,
 
 07/18/2017 Downhill Men Cat 2/3 Non-Championship 40-44

@@ -21,7 +21,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,391240,Maciej,Kawalkowski,Middletown,OH,,Queen City Wheels
 18,487700,Kurtis,Payton,Columbus,OH,,
 19,413770,Jeff,Sack,Grove City,OH,,0
-20,456953,Steven,Cook,Loveland,OH,,Bishop's Bicycles
+20,456953,Steven,Cook,Milford,OH,,Bishop's Bicycles
 21,496571,Mark,Illingworth,Mason,OH,,Queen City Wheels
 22,539700,Zach,Paugstat,Fairfield,OH,,0
 23,468925,William,Mears,Brookville,IN,,Team VO2
@@ -39,7 +39,7 @@ Place,License #,First,Last,City,State,Time,Team
 35,410829,Michael,Crowley,Cincinnati,OH,,0
 36,148322,Martin,Schneider,Pittsburgh,PA,,
 37,515397,Andy,Han,Cincinnati,OH,,Lionhearts Junior Racing
-38,101932,James,Dennedy,Dayton,OH,,Ghisallo Cycling Team Inc.
+38,101932,James,Dennedy,Union Center,WI,,Ghisallo Cycling Team Inc.
 39,396283,Jim,Thacker,Cleves,OH,,Queen City Wheels
 40,467422,Greg,Dartt,Milford,OH,,Bishop's Bicycles
 41,365090,mark,harris,Dayton,OH,,Allied Forces Velo
@@ -91,16 +91,16 @@ Place,License #,First,Last,City,State,Time,Team
 18,517526,Benjamin,Horn,Hamilton,OH,,
 19,109205,Scott,Young,Millersport,OH,,0
 20,443677,Fin,Vieh,Cincinnati,OH,,0
-DNS,245953,Nelson,Gaker,Oxford ,OH,,Kreitler Racing Team
+DNS,245953,Nelson,Gaker,Oxford,OH,,Kreitler Racing Team
 DNS,404185,Allen,Cooper,Hilliard,OH,,Paradise Garage Racing
-DNF,231392,David,Rich,Galloway,OH,,Team Dayton Bicycling
+DNF,231392,David,Rich,Cedarville,OH,,Team Dayton Bicycling
 
 09/03/2017 Cyclo-cross Men Men 1/2/3 & Masters 35+
 Place,License #,First,Last,City,State,Time,Team
 1,261876,Andrew,Dillman,Fairdale,KY,,0
 2,234067,Michael,Larson,Bloomington,IN,,Team Handmade
 3,359561,Lucas,Stierwalt,Maineville,OH,,Lionhearts Junior Racing
-4,149656,Ryan,Gamm,Bexley ,OH,,0
+4,149656,Ryan,Gamm,Bexley,OH,,0
 5,235804,Samuel,Dobrozsi,Loveland,OH,,Clemson University
 6,276289,David,Neis,Yellow Springs,OH,,0
 7,411678,Robert,Frangi,Indianapolis,IN,,Dash Racing
@@ -121,7 +121,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,496571,Mark,Illingworth,Mason,OH,,Queen City Wheels
 23,233064,Jerry,Hayes,Cincinnati,OH,,
 24,309168,Jason,Whitman,Milford,OH,,US Military Endurance Sports
-DNS,245953,Nelson,Gaker,Oxford ,OH,,Kreitler Racing Team
+DNS,245953,Nelson,Gaker,Oxford,OH,,Kreitler Racing Team
 DNS,466116,Kyle,Kelly,Blue Ash,OH,,Bishop's Bicycles
 DNS,49432,James,Raddin,Springboro,OH,,0
 DNF,309938,Cory,Muth,Columbus,OH,,0
@@ -135,14 +135,14 @@ Place,License #,First,Last,City,State,Time,Team
 3,496863,Larry,Lenne,Indianapolis,IN,,Team Heroes
 4,120645,Robert,Sherman,Loveland,OH,,Team Dayton Bicycling
 5,358798,Ryosuke,Baba,Tell City,IN,,0
-6,424802,Lucas,Kalbfell,Crown Point,IN,,0
+6,424802,Lucas,Kalbfell,Bloomington,IN,,0
 7,345768,bill,craig,Cincinnati,OH,,Team Hungry
 8,250312,Christopher,Metzler,Columbus,OH,,0
 9,196635,Scot,Herrmann,Loveland,OH,,Allied Forces Velo
 10,111087,Jeffery,Schlaudecker,Cincinnati,OH,,
 11,109205,Scott,Young,Millersport,OH,,0
 12,150266,Corey,Green,Mason,OH,,Cincinnati Cyclocross
-13,284326,Brian,Collier,Burlington,KY,,0
+13,284326,Brian,Collier,Union,KY,,0
 14,412516,Chris,Taylor,Loveland,OH,,Element Cycles
 15,239935,Steven,Gers,Bellevue,KY,,0
 16,145722,Patrick,Lach,Cincinnati,OH,,Zephyr Wheel Sports
@@ -165,7 +165,7 @@ DNS,467347,Scott,Hencye,Hilliard,OH,,Ohio State University
 Place,License #,First,Last,City,State,Time,Team
 1,426252,Eleanor,Dyas,Carmel,IN,,Midwest Devo
 2,519792,Rachel,Rubin,Bexley,OH,,0
-3,388092,Mia,Bell,Cincinnati,OH,,Lionhearts Junior Racing
+3,388097,Mia,Bell,Cincinnati,OH,,Lionhearts Junior Racing
 4,511801,Melissa,Ford,Bloomington,IN,,0
 5,522864,Michelle,Hance,Noblesville,IN,,Team Heroes
 6,449077,Michaela,Schulze,Cincinnati,OH,,Lionhearts Junior Racing

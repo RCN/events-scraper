@@ -11,9 +11,9 @@ Place,License #,First,Last,City,State,Time,Team
 7,428419,Sheridan,Norris,Somerville ,MA,,
 8,258242,James,Blair,Charlottesville,VA,,Blue Ridge Cyclery Racing p/b Reynolds G
 9,521113,Joe,Garcia,Fairfax Station,VA,,
-10,390025,Dylan,Stagner,Washington ,DC,,Great Eskape
+10,390025,Dylan,Stagner,Washington,DC,,Great Eskape
 11,275130,Erik,Bleecher,Richmond,VA,,Design Physics Racing
-12,457845,Trenton,Powell,Charlottesville ,VA,,Blue Ridge Cyclery Racing p/b/ Reynolds
+12,457845,Trenton,Powell,Charlottesville,VA,,Blue Ridge Cyclery Racing p/b/ Reynolds
 13,355738,Matt,Kasprzak,Arlington,VA,,NCVC/UnitedHealthcare
 14,492661,Adrian,Amos,Doswell,VA,,Full Spectrum Racing p/b Coqui Cyclery
 15,274072,Scottie,Pendleton,Harrisonburg,VA,,Foxy Moxy Racing
@@ -24,7 +24,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,476822,Geoff,Gunther,Richmond,VA,,
 21,472348,James,Mayer,Richmond,VA,,Richmond Velo Sport
 22,459726,Andrew,McLaren,Alexandria,VA,,Veloworks-Spokes Etc
-23,343298,David,Hodges,Charlottesville,VA,,
+23,343298,David,Hodges,Bumpass,VA,,
 24,499708,Chad,Vincelette,Virginia Beach,VA,,Fat Frogs Racing
 25,459820,Wyatt,Shields,Falls Church,VA,,Team Bikenetic
 26,311303,Marc,Tremblay,Haymarket,VA,,SEAVS/Haymarket
@@ -46,7 +46,7 @@ DNF,521700,William,Jordan,Richmond,VA,,
 DNF,526513,John,Gordon,Virginia Beach,VA,,
 DNF,454368,Scott,Evans,Midlothian,VA,,Team Skyline
 DNF,514512,Seth,Wall,Jefferson,MD,,Bike Doctor/Visit Frederick
-DNF,524824,Chad,Melton,Wytheville,VA,,
+DNF,524824,Chad,Melton,Warrenton,VA,,
 DNF,506898,Thomas,Tynan,Washington,DC,,NCVC/UnitedHealthcare
 DNF,260043,David,Bender,Arlington,VA,,District Velocity Racing p/b Bicycle Pro
 
@@ -56,7 +56,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,305760,C.D.,Dickerson,Fortworth,TX,,Elevate Cycling
 3,458001,Lucas,Beirne,Alexandria,VA,,NCVC/UnitedHealthcare
 4,516995,Curtis,Alia,Jessup,MD,,NCVC/UnitedHealthcare
-DNF,468171,Tim,Vandish,Arlington,VA,,NCVC/UnitedHealthcare
+DNF,468171,Tim,Vandish,Alexandria,VA,,NCVC/UnitedHealthcare
 DNF,265541,Terry,Fuller,Manassas,VA,,NCVC/UnitedHealthcare
 
 07/16/2017 Road Race Men 12345 Junior 11-12
@@ -197,7 +197,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,284095,Greg,Capelle,Catonsville,MD,,Haymarket/Starlight Custom Apparel
 17,322952,James,Studebaker,Reston,VA,,TEAM BIKE DOCTOR
 18,380149,Logan,Jones-Wilkins,Charlottesville,VA,,Kelly Benefit Strategies Elite
-19,299925,Chad,Capobianco,Watkinsville,GA,,DistrictTaco Racing
+19,299925,Chad,Capobianco,Aldie,VA,,DistrictTaco Racing
 20,370578,David,Stauffer,Arlington,VA,,NCVC/United Healthcare
 21,228581,Dan,Netzer,Norfolk,VA,,Haymarket/Starlight Custom Apparel
 22,496704,Fischer,Maris,Richmond,VA,,Kelly Benefit Strategies Elite
@@ -208,7 +208,7 @@ Place,License #,First,Last,City,State,Time,Team
 27,254540,Albert,Gonzalez,Garden Grove ,CA,,DistrictTaco Racing
 28,434514,Filagot,Dinku,Arlington,VA,,DistrictTaco Racing
 29,383138,Blane,Maddox,Blacksburg,VA,,Kelly Benefit Strategies Elite
-30,220150,Jared,Nieters,Haymarket,VA,,SEAVS/Haymarket
+30,220150,Jared,Nieters,Amissville,VA,,SEAVS/Haymarket
 31,222347,Allan,Wallace,Kensington,MD,,TEAM BIKE DOCTOR
 32,308936,Richard,Furchtgott,Chevychase,MD,,
 33,105456,Russ,Langley,Gaithersburg,MD,,BATTLEY H-D/Spokes Etc
@@ -220,7 +220,7 @@ Place,License #,First,Last,City,State,Time,Team
 39,260414,James,Miceli,Arlington,VA,,Integrated Sports Medicine p/b Brown's S
 DNF,198947,Peter,Hufnagel,Crozet,VA,,Monticello Velo Club
 DNF,70117,John,Eiler,Richmond,VA,,Cutaway  AXA Advisors
-DNF,493748,Benjamen,Shrewsberry,Shippensburg,PA,,AVC/Team Hagerstown-Washington Co
+DNF,493748,Benjamen,Shrewsberry,Fredericksburg,VA,,AVC/Team Hagerstown-Washington Co
 DNF,309307,Thomas,Carey,Chesapeake,VA,,Cheerbacks / Fat Frogs Racing
 DNF,395771,Taylor,Pearman,Burke,VA,,Haymarket/Starlight Custom Apparel
 DNF,431932,William,Leet,Charlottesville,VA,,Blue Ridge Cylcery Racing p/b Reynolds G
@@ -240,7 +240,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,514469,Lauren,Jenkins,Arlington,VA,,NCVC/UnitedHealthcare
 7,503173,Rose,Byler,Charlottesville,VA,,Blue Ridge Cyclery Racing p/b Reynolds G
 8,500785,Sarah,Granade,Arlington,VA,,Veloworks-Spokes Etc
-9,499011,Laura,McMillion,South Bend,IN,,Blue Ridge Cyclery Racing
+9,499011,Laura,McMillion,Charlottesville,VA,,Blue Ridge Cyclery Racing
 
 07/16/2017 Road Race Women 12345 Junior 11-12
 Place,License #,First,Last,City,State,Time,Team
@@ -274,9 +274,9 @@ Place,License #,First,Last,City,State,Time,Team
 6,457283,Grace,Blair,Towson,MD,,ABRT
 7,283260,Melissa,Tallent,Alexandria,VA,,Haymarket/Starlight Custom Apparel
 8,440188,Rachel,Jordan,Richmond,VA,,Richmond Bicycle Studio
-9,226016,Laura,Cook,Newport News ,VA,,Evolution Cycling Club p/b Long & Foster
+9,226016,Laura,Cook,Newport News,VA,,Evolution Cycling Club p/b Long & Foster
 10,523662,Austin,Thompson,Myrtle Beach,SC,,BRC racing bc Reynolds GM-Subaru
-11,476619,Paige,Kostanecki,Charottesville,VA,,BRC Racing pb Reynolds GM-Subaru
+11,476619,Paige,Kostanecki,Charlottesville,VA,,BRC Racing pb Reynolds GM-Subaru
 12,212846,emily,joyner,Virginia Beach,VA,,Mermaid Winery p/b VA Asset Group
 13,492822,Laura,Leaton,Charlottesville,VA,,Blue Ridge Cyclery/Charlottesville Racin
 14,231948,Sue,McQuiston,Reisterstown,MD,,ABRT

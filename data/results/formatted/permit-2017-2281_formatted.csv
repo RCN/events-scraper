@@ -22,7 +22,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,374834,Jesse,Stauffer,Selinsgrove,PA,1:08:10,QCW Breakawaybikes.com p/b JLVelo
 19,395771,Taylor,Pearman,Burke,VA,1:08:10,Haymarket/Starlight Custom Apparel
 20,0,Timothy,Austen,,,1:08:10,Ride with Rendall p/b Biemme
-21,378837,Bill,Ash,Philadelphia,PA,1:08:10,CRCA/Foundation
+21,378837,Bill,Ash,New York ,NY,1:08:10,CRCA/Foundation
 22,286536,Coulton,Hartrich,Thousand Oaks,CA,1:08:10,Unattached
 23,424110,Sean,Meyer,Pittsford,NY,1:08:10,Nalgene / Borah Teamwear Cycling
 24,0,Rolando,Gonzalez,,,1:08:10,303 Project
@@ -36,7 +36,7 @@ Place,License #,First,Last,City,State,Time,Team
 32,124130,Kevin,Bouchard-Hall,Wadhams,NY,1:08:10,Wrenegade Sports/Team Placid Planet
 33,517022,Jordann,Jones,,,1:08:10,NCCH p/b MGCC
 34,0,Flix,Dolbec,,,1:08:10,Transports Lacombe/Devinci
-35,375405,Daniel,Nuzzo-Mueller,Medford ,MA,1:08:10,Community Bicycle Racing
+35,375405,Daniel,Nuzzo-Mueller,Medford,MA,1:08:10,Community Bicycle Racing
 36,326702,Timothy,Ahearn,Woodstock,CT,1:08:10,Team ERRACE p/b DSO Manufacturing
 37,394826,Aria,Kiani,Santa Rosa,CA,1:08:10,Unattached
 38,83498,Sean,Cahill,Burlington,CT,1:08:10,Team ERRACE p/b DSO Manufacturing
@@ -110,7 +110,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,226407,Bill,McGreevy,Wilmington,NY,0:35:47,Team Placid Planet
 17,50819,William,Caligari,Sheffield,MA,0:35:47,Linen / BCA
 18,68336,Philip,Beliveau,St George,VT,0:35:47,1K2GO Sports
-19,106829,Alan,Potter,Newton,MA,0:35:47,Team Fit Werx
+19,106829,Alan,Potter,Natick,MA,0:35:47,Team Fit Werx
 20,227867,Eric,Weinrich,Yarmouth,ME,0:35:47,Momentum
 21,47280,Todd,Sanders,West Palm Beach,FL,0:35:47,Cyberdyne
 22,64384,James,Nash,North Hampton,NH,0:35:47,CCB Racing
@@ -205,8 +205,8 @@ Place,License #,First,Last,City,State,Time,Team
 2,506856,William,Hafferty,Boston,MA,0:36:24,545 Velo
 3,403814,William,Greene,Bar Harbor,ME,0:36:24,Middlebury Cycling Club
 4,539743,Conor,Delanbanque,New York,NY,0:36:24,Unattached
-5,428501,Torin,La Liberte,Colchester,VT,0:36:24,Sunapee Racing / Buchika's Ski and Bike
-6,523891,Kyle,Konopnicki,Gansevoort,NY,0:36:24,North American Velo
+5,428501,Torin,La Liberte,Madison,NH,0:36:24,Sunapee Racing / Buchika's Ski and Bike
+6,523891,Kyle,Konopnicki,Norfolk,VA,0:36:24,North American Velo
 7,526001,Austin,King,Brooklyn,NY,0:36:24,CRCA/Team Patch NYC Velo
 8,524127,Christopher,Pulomena,Long Beach,NY,0:36:24,Unattached
 9,516235,Calvin,Martin,Liverpool,PA,0:36:24,Unattached
@@ -233,7 +233,7 @@ Place,License #,First,Last,City,State,Time,Team
 30,537837,Matthew,Solomon,Winooski,VT,0:39:00,Unattached
 31,501757,Jonathan,Trevett,Brooklyn,NY,0:39:00,Team Patch.com
 32,523467,Ronan,Fay,Riverside,RI,0:39:00,SVC/Bikeworks
-33,500289,Kyle,Sammon,Bradley Beach,NJ,0:39:00,Unattached
+33,500289,Kyle,Sammon,Lancaster,PA,0:39:00,Unattached
 34,394098,Michael,Westberry,Northborough,MA,0:39:00,Minuteman Road Club
 35,509262,Jonathan,Falcetti,Indian Orchard,MA,0:39:00,NCC
 36,391679,Johnny,Meyerle,Monroe,CT,0:39:26,CT Cycling Advancement Program
@@ -251,7 +251,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 09/04/2017 Criterium Men Cat 4/5 Master 34-99
 Place,License #,First,Last,City,State,Time,Team
-1,91530,Jason,Yannelli,S Casco,ME,0:37:16,USMES
+1,91530,Jason,Yannelli,Sebago,ME,0:37:16,USMES
 2,215842,Palo,Samko,Brooklyn,NY,0:37:16,ivanarokytova@yahoo.com
 3,292639,Jeffrey,White,Brooklyn,NY,0:37:16,Kissena Cycling Club
 4,399759,Dino,Piskopanis,Pelham,NH,0:37:16,Monster Media Racing p/b Butcher Box
@@ -295,12 +295,12 @@ DNF,0,Bogdan,Paraschivu,,,DNF,TORONTO HUSTLE
 
 09/04/2017 Criterium Men Cat 3
 Place,License #,First,Last,City,State,Time,Team
-1,311452,Alec,Cunningham,Cheshire,CT,0:42:46,RACE CF | racecf.org @racecf
+1,311452,Alec,Cunningham,Cape Neddick,ME,0:42:46,RACE CF | racecf.org @racecf
 2,425914,Adriano,Hauck,Philadelphia,PA,0:42:46,Rohan Cycling
 3,499151,Geno,Villafano,Vernon Rockville,CT,0:42:46,Storrs Center Cycle Racing
 4,398375,Calon,Russell,Portland,OR,0:42:46,Therapeutic Associates Racing p/c Pacifi
 5,293161,Andrew,Goodale,Maynard,MA,0:42:46,RACE CF | racecf.org @racecf
-6,147771,Colin,Reuter,Somerville,MA,0:42:46,B2C2/JRA Cycles
+6,147771,Colin,Reuter,Leeds,MA,0:42:46,B2C2/JRA Cycles
 7,381747,Wes,Tillman,Brooklyn,NY,0:42:46,Bicycle Habitat-Verge Sport
 8,0,Carlo,Quicho,,,0:42:46,Monster Media Racing p/b ButcherBox
 9,0,Julien,Cassou,,,0:42:46,Espoirs lite - Primeau Vlo
@@ -311,7 +311,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,429934,Kameron,Clayton,Somerville,MA,0:42:46,GREEN LINE VELO driven by Zipcar
 15,522543,Shannon,Scott,New York,NY,0:42:46,CRCA/NYCC Racing p/b BGC Partners
 16,350148,Matthew,Owens,Richmond,VT,0:42:46,Hands-On Cycling
-17,485904,Ken,Greim,Cambridge,MA,0:42:46,GREEN LINE VELO driven by Zipcar
+17,485904,Ken,Greim,Belmont,MA,0:42:46,GREEN LINE VELO driven by Zipcar
 18,468381,Luiz,Lanfredi,New York,NY,0:42:46,CRCA/Foundation
 19,301534,Michael,Malavarca,Boonton,NJ,0:42:46,Team ProPower Coaching
 20,423218,Owen,McGrath,San Francisco,CA,0:42:46,Primal - Audi Denver
@@ -324,7 +324,7 @@ Place,License #,First,Last,City,State,Time,Team
 27,285488,Ryan,Johnston,Brooklyn,NY,0:42:46,Bicycle Habitat-Verge Sport
 28,305134,Michael,Martin,Brooklyn,CT,0:42:46,B2C2/JRA Cycles
 29,334476,Carl,Jacob,North Brunswick,NJ,0:42:46,Rothman Institute p/b Talksoft
-30,296751,Michael,Green,Wyndmoor ,PA,0:42:46,Arrow Racing
+30,296751,Michael,Green,Wyndmoor,PA,0:42:46,Arrow Racing
 31,485678,Rich,Spencer,Brooklyn,NY,0:42:46,CRCA/To Be Determined
 32,381077,Chad,Tavernia,Malone,NY,0:42:46,Team Placid Planet
 33,527022,William,Downing,New York,NY,0:42:46,CRCA/Foundation
@@ -358,14 +358,14 @@ Place,License #,First,Last,City,State,Time,Team
 3,456318,Ethan,Call,Jefferson,NH,0:47:32,Cyclus Sports-New England
 4,431533,Derrick,Butler,Nazareth,PA,0:47:32,CS Velo
 5,354166,Benjamin,Spain,Raleigh,NC,0:47:32,4D Racing
-6,353108,Jesse,Walker,Brooklyn,NY,0:47:32,CRCA/e2Value
-7,277019,Jonathan,Marshall,Chambersburg,PA,0:47:32,Integrated Sports Medicine p/b Brown's S
+6,353108,Jesse,Walker,New York,NY,0:47:32,CRCA/e2Value
+7,277019,Jonathan,Marshall,Shippensburg,PA,0:47:32,Integrated Sports Medicine p/b Brown's S
 8,318100,Smith,Anderson,Brighton,MA,0:47:32,GREEN LINE VELO driven by Zipcar
 9,477589,Michael,Landry,New Haven,CT,0:47:32,CT Cycling Advancement Program
 10,231092,Will,Gleason,Norwalk,CT,0:47:32,Team ERRACE p/b DSO Manufacturing
 11,0,Navarro,Fong Roy,,,0:47:32,Passion velo
 12,458081,Erik,Nedeau,Belchertown,MA,0:47:32,Team ERRACE p/b DSO Manufacturing
-13,299925,Chad,Capobianco,Watkinsville,GA,0:47:32,DistrictTaco Racing
+13,299925,Chad,Capobianco,Aldie,VA,0:47:32,DistrictTaco Racing
 14,352236,Ian,Clarke,Killington,VT,0:47:32,CCB Velotooler
 15,312568,Konrad,Ratzmann,Brooklyn,NY,0:47:32,Bicycle Habitat-Verge Sport
 16,254864,Sam,O'Keefe,Breckenridge,CO,0:47:32,Unattached
@@ -373,7 +373,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,423893,Michael,Grome,New Haven,CT,0:47:32,Yale University
 19,440072,Alex,Winnicki,Greensboro,NC,0:47:32,Cyclus Sports
 20,429727,Ben,Ryan,Randolph,MA,0:47:32,New England Devo p/b Cadence Wealth Mana
-21,493748,Benjamen,Shrewsberry,Shippensburg,PA,0:47:32,AVC/Team Hagerstown-Washington Co
+21,493748,Benjamen,Shrewsberry,Fredericksburg,VA,0:47:32,AVC/Team Hagerstown-Washington Co
 22,385701,Gregory,Seymour,Denver,CO,0:47:32,303 Project Cycling
 23,308936,Richard,Furchtgott,Chevychase,MD,0:47:32,BATTLEY HARLEY-DAVIDSON/SPOKES/CUTAWAY
 24,307909,Adam,Naguib,San Carlos,CA,0:47:32,TMB Development p/b Equator
@@ -424,11 +424,11 @@ Place,License #,First,Last,City,State,Time,Team
 5,512400,Lindsay,Warner,Hinesburg,VT,0:41:04,BMB Racing
 6,353242,Christin,Reuter,Leeds,MA,0:41:04,crossresults.com
 7,390888,Shaina,Kravitz,Philadelphia,PA,0:41:04,Team EPS/CSS p/b Shebell & Shebell
-8,476619,Paige,Kostanecki,Charottesville,VA,0:41:04,BRC Racing pb Reynolds GM-Subaru
-9,512092,Holly,Neckermann,Philadelphia ,PA,0:41:04,Unattached
+8,476619,Paige,Kostanecki,Charlottesville,VA,0:41:04,BRC Racing pb Reynolds GM-Subaru
+9,512092,Holly,Neckermann,Philadelphia,PA,0:41:04,Unattached
 10,509488,Lane,Marder,Somerville,MA,0:41:28,B2C2/JRA Cycles
 11,503395,Kathryn,Aman,Hanover,NH,0:41:32,Middlebury College
-12,498600,Rachel,Uccellini,Saratoga Springs ,NY,0:43:07,Unattached
+12,498600,Rachel,Uccellini,Saratoga Springs,NY,0:43:07,Unattached
 13,229518,Sarah,Elliott,Oconomowoc,WI,0:43:07,Highgate Racing p/b D'Ornella's Bike Sho
 14,0,Emma,Delisle,,,0:43:34,Stingray - Trek by Ultime Velo
 15,513885,Christina,Woolston,Brooklyn,NY,0:44:15,Kissena Cycling Club
@@ -456,7 +456,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,0,Timothy,Austen,,,10:08:36,Ride with Rendall p/b Biemme
 16,378237,Matthew,Curbeau,Millis,MA,10:09:43,Velocio Northeast
 17,379489,Will,Cooper,Pittsburgh,PA,10:12:13,CS Velo Elite
-18,375405,Daniel,Nuzzo-Mueller,Medford ,MA,10:14:11,Community Bicycle Racing
+18,375405,Daniel,Nuzzo-Mueller,Medford,MA,10:14:11,Community Bicycle Racing
 19,321260,Connor,Ryan,Washington,DC,10:14:34,BATTLEY HARLEY-DAVIDSON/SPOKES/CUTAWAY
 20,0,william,Goodfellow,,,10:16:33,VeloSelect
 21,0,Kyle,Boorsma,,,10:17:16,TORONTO HUSTLE
@@ -470,7 +470,7 @@ Place,License #,First,Last,City,State,Time,Team
 29,470625,Trevor,O'Donnell,,,10:24:25,TORONTO HUSTLE
 30,0,Anton,Varabei,,,10:24:34,TORONTO HUSTLE
 31,395771,Taylor,Pearman,Burke,VA,10:25:00,Haymarket/Starlight Custom Apparel
-32,378837,Bill,Ash,Philadelphia,PA,10:25:12,CRCA/Foundation
+32,378837,Bill,Ash,New York ,NY,10:25:12,CRCA/Foundation
 33,368618,Jake,Henningsen,Cincinnati,OH,10:27:09,Team Hungry
 34,374834,Jesse,Stauffer,Selinsgrove,PA,10:30:33,QCW Breakawaybikes.com p/b JLVelo
 35,287780,Taylor,Warren,San Diego,CA,10:31:00,303 Project
@@ -532,7 +532,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,265393,Jay,Trojan,Lincoln,RI,6:29:45,Arc-En-Ciel Racing Team
 13,225529,James,Walker,Lake Placid,NY,6:31:15,Team Placid Planet
 14,39478,Hunter,Ziesing,Bel Tiburon,CA,6:34:38,Hammer Nutrition/53x11
-15,106829,Alan,Potter,Newton,MA,6:34:56,Team Fit Werx
+15,106829,Alan,Potter,Natick,MA,6:34:56,Team Fit Werx
 16,47280,Todd,Sanders,West Palm Beach,FL,6:35:59,Cyberdyne
 17,264285,Dave,Hussey,Ocean,NJ,6:36:56,Cycles 54 / Xrcel
 18,226407,Bill,McGreevy,Wilmington,NY,6:37:22,Team Placid Planet
@@ -629,7 +629,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,526626,Berk,Ozturk,Cambridge,MA,6:24:25,MIT Cycling
 4,416836,Patrick,Cavanaugh,Lebanon,NH,6:25:27,Unattached
 5,307226,Julian,Bowling,Charlottesville,VA,6:26:01,Blue Ridge Cyclery Racing P/b Reynolds
-6,523891,Kyle,Konopnicki,Gansevoort,NY,6:26:33,North American Velo
+6,523891,Kyle,Konopnicki,Norfolk,VA,6:26:33,North American Velo
 7,403814,William,Greene,Bar Harbor,ME,6:27:21,Middlebury Cycling Club
 8,528935,Matthew,Wiseman,Williamstown,MA,6:27:52,Williams Cycling
 9,348276,Curtis,Madsen,Layton,UT,6:28:03,america first credit union
@@ -652,8 +652,8 @@ Place,License #,First,Last,City,State,Time,Team
 26,539743,Conor,Delanbanque,New York,NY,6:39:55,Unattached
 27,526045,Luis,Saavedra,Weehawken,NJ,6:39:59,Deluxe Cycles Racing
 28,528254,Peter,Burgos,Winooski,VT,6:41:07,Unattached
-29,428501,Torin,La Liberte,Colchester,VT,6:41:30,Sunapee Racing / Buchika's Ski and Bike
-30,500289,Kyle,Sammon,Bradley Beach,NJ,6:44:27,Unattached
+29,428501,Torin,La Liberte,Madison,NH,6:41:30,Sunapee Racing / Buchika's Ski and Bike
+30,500289,Kyle,Sammon,Lancaster,PA,6:44:27,Unattached
 31,394098,Michael,Westberry,Northborough,MA,6:45:01,Minuteman Road Club
 32,526001,Austin,King,Brooklyn,NY,6:45:14,CRCA/Team Patch NYC Velo
 33,410403,John,D'Agostino,New York,NY,6:47:59,CRCA/Good Guys Racing p/b HighWaterWomen
@@ -683,7 +683,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,392343,Sean,Hillock,Oakdale,NY,6:33:11,Unattached
 8,458001,Lucas,Beirne,Alexandria,VA,6:34:05,NCVC/UnitedHealthcare
 9,320286,William,Boone,Geneseo,NY,6:34:18,Once Again Nut Butter
-10,91530,Jason,Yannelli,S Casco,ME,6:35:12,USMES
+10,91530,Jason,Yannelli,Sebago,ME,6:35:12,USMES
 11,342852,Jake,Allegrini,Nantucket,MA,6:35:42,Nantucket Velo
 12,501906,Scott,Lawrence,Wilmington,NY,6:35:46,Team Placid Planet
 13,93038,Josh,Flanagan,Cohasset,MA,6:35:53,Unattached
@@ -734,8 +734,8 @@ Place,License #,First,Last,City,State,Time,Team
 15,305134,Michael,Martin,Brooklyn,CT,6:17:52,B2C2/JRA Cycles
 16,0,Carlo,Quicho,,,6:17:56,Monster Media Racing p/b ButcherBox
 17,429934,Kameron,Clayton,Somerville,MA,6:19:06,GREEN LINE VELO driven by Zipcar
-18,296751,Michael,Green,Wyndmoor ,PA,6:20:14,Arrow Racing
-19,311452,Alec,Cunningham,Cheshire,CT,6:20:17,RACE CF | racecf.org @racecf
+18,296751,Michael,Green,Wyndmoor,PA,6:20:14,Arrow Racing
+19,311452,Alec,Cunningham,Cape Neddick,ME,6:20:17,RACE CF | racecf.org @racecf
 20,334476,Carl,Jacob,North Brunswick,NJ,6:20:23,Rothman Institute p/b Talksoft
 21,404186,Rob,Montgomery,St. Albans,VT,6:20:26,1K2GO Sports
 22,398375,Calon,Russell,Portland,OR,6:20:52,Therapeutic Associates Racing p/c Pacifi
@@ -743,7 +743,7 @@ Place,License #,First,Last,City,State,Time,Team
 24,350148,Matthew,Owens,Richmond,VT,6:20:57,Hands-On Cycling
 25,0,Julien,Cassou,,,6:21:15,Espoirs lite - Primeau Vlo
 26,425914,Adriano,Hauck,Philadelphia,PA,6:21:19,Rohan Cycling
-27,485904,Ken,Greim,Cambridge,MA,6:21:26,GREEN LINE VELO driven by Zipcar
+27,485904,Ken,Greim,Belmont,MA,6:21:26,GREEN LINE VELO driven by Zipcar
 28,492832,Edouard,d&#39;Arbaumont,New York,NY,6:21:43,CRCA/NYCC Racing p/b BGC Partners
 29,301534,Michael,Malavarca,Boonton,NJ,6:22:13,Team ProPower Coaching
 30,482099,Andrew,Muir,Boston,MA,6:24:13,Community Bicycle Racing
@@ -764,7 +764,7 @@ Place,License #,First,Last,City,State,Time,Team
 45,412071,Michael,Podzaline,North Stonington,CT,6:37:07,Scorpion Racing
 46,0,Stephane,Vallieres,,,6:38:31,Cannondale / ABC Cycles
 47,435063,Sasha,Smiljanic,Jamaica Plain,MA,6:40:32,Community Bicycle Racing
-48,147771,Colin,Reuter,Somerville,MA,6:41:04,B2C2/JRA Cycles
+48,147771,Colin,Reuter,Leeds,MA,6:41:04,B2C2/JRA Cycles
 49,315952,Nathan,Coste,Bristol,RI,6:47:30,Swansea Velo Club/ Bikeworks
 50,291204,Kevin,Emr,Albany,NY,6:48:51,CRCA/GF Capital / H&E Ent
 51,254084,Benjamin,Grabow,Madison,WI,7:00:11,Brazen Dropouts
@@ -786,7 +786,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,308936,Richard,Furchtgott,Chevychase,MD,10:20:35,BATTLEY HARLEY-DAVIDSON/SPOKES/CUTAWAY
 10,431533,Derrick,Butler,Nazareth,PA,10:21:35,CS Velo
 11,381603,Stephen,Jette,Weston,MA,10:21:55,New England Devo p/b Cadence Wealth Mana
-12,299925,Chad,Capobianco,Watkinsville,GA,10:24:45,DistrictTaco Racing
+12,299925,Chad,Capobianco,Aldie,VA,10:24:45,DistrictTaco Racing
 13,312568,Konrad,Ratzmann,Brooklyn,NY,10:25:26,Bicycle Habitat-Verge Sport
 14,498826,Anthony,Murfett,Arlington,VA,10:26:27,District Velocity Racing p/b Bicycle Pro
 15,385701,Gregory,Seymour,Denver,CO,10:32:44,303 Project Cycling
@@ -804,10 +804,10 @@ Place,License #,First,Last,City,State,Time,Team
 27,0,Pierre-Olivier,Santerre,,,10:47:47,Espoirs lite - Primeau Vlo
 28,256839,Taylor,Kruse,Columbus,OH,10:48:31,Team Hungry
 29,362104,Patrick,Jarenwattananon,Washington,DC,10:50:02,District Velocity Racing p/b Bicycle Pro
-30,353108,Jesse,Walker,Brooklyn,NY,10:51:07,CRCA/e2Value
+30,353108,Jesse,Walker,New York,NY,10:51:07,CRCA/e2Value
 31,0,Navarro,Fong Roy,,,10:53:14,Passion velo
-32,277019,Jonathan,Marshall,Chambersburg,PA,10:56:40,Integrated Sports Medicine p/b Brown's S
-33,493748,Benjamen,Shrewsberry,Shippensburg,PA,11:15:58,AVC/Team Hagerstown-Washington Co
+32,277019,Jonathan,Marshall,Shippensburg,PA,10:56:40,Integrated Sports Medicine p/b Brown's S
+33,493748,Benjamen,Shrewsberry,Fredericksburg,VA,11:15:58,AVC/Team Hagerstown-Washington Co
 34,429727,Ben,Ryan,Randolph,MA,11:24:40,New England Devo p/b Cadence Wealth Mana
 35,257631,Jack,Drummond,Philadelphia,PA,11:41:27,Arrow Racing
 
@@ -840,7 +840,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,390888,Shaina,Kravitz,Philadelphia,PA,7:13:51,Team EPS/CSS p/b Shebell & Shebell
 3,509488,Lane,Marder,Somerville,MA,7:13:53,B2C2/JRA Cycles
 4,0,Kayla,Mckee,,,7:14:16,NCCH Elite p/b MGCC
-5,512092,Holly,Neckermann,Philadelphia ,PA,7:15:25,Unattached
+5,512092,Holly,Neckermann,Philadelphia,PA,7:15:25,Unattached
 6,512400,Lindsay,Warner,Hinesburg,VT,7:15:39,BMB Racing
 7,378983,Whitney,Withington,Brookline,MA,7:16:49,GREEN LINE VELO driven by Zipcar
 8,229518,Sarah,Elliott,Oconomowoc,WI,7:20:17,Highgate Racing p/b D'Ornella's Bike Sho
@@ -848,9 +848,9 @@ Place,License #,First,Last,City,State,Time,Team
 10,0,Emma,Delisle,,,7:24:18,Stingray - Trek by Ultime Velo
 11,353242,Christin,Reuter,Leeds,MA,7:27:16,crossresults.com
 12,503395,Kathryn,Aman,Hanover,NH,7:28:44,Middlebury College
-13,476619,Paige,Kostanecki,Charottesville,VA,7:37:28,BRC Racing pb Reynolds GM-Subaru
+13,476619,Paige,Kostanecki,Charlottesville,VA,7:37:28,BRC Racing pb Reynolds GM-Subaru
 14,473659,Wendy,King,Colrain,MA,7:39:23,NCC
-15,498600,Rachel,Uccellini,Saratoga Springs ,NY,7:41:19,Unattached
+15,498600,Rachel,Uccellini,Saratoga Springs,NY,7:41:19,Unattached
 16,539548,Caroline,O'Dwyer,Coventry,CT,7:51:48,Storrs Center Cycle Racing
 17,425056,Emily,Dreyer,Columbus,OH,7:57:33,Lady Gnar Shredders
 18,513885,Christina,Woolston,Brooklyn,NY,7:58:43,Kissena Cycling Club
@@ -879,7 +879,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,378237,Matthew,Curbeau,Millis,MA,4:43:01,Velocio Northeast
 20,403657,Cristhian,Ravelo,Avon,CO,4:44:20,303 Project
 21,379489,Will,Cooper,Pittsburgh,PA,4:46:51,CS Velo Elite
-22,375405,Daniel,Nuzzo-Mueller,Medford ,MA,4:47:43,Community Bicycle Racing
+22,375405,Daniel,Nuzzo-Mueller,Medford,MA,4:47:43,Community Bicycle Racing
 23,321260,Connor,Ryan,Washington,DC,4:48:09,BATTLEY HARLEY-DAVIDSON/SPOKES/CUTAWAY
 24,0,Olivier,Ploquin,,,4:48:39,Equipe Transports Lacombe/Devinci
 25,0,william,Goodfellow,,,4:49:43,VeloSelect
@@ -899,7 +899,7 @@ Place,License #,First,Last,City,State,Time,Team
 39,395771,Taylor,Pearman,Burke,VA,4:58:26,Haymarket/Starlight Custom Apparel
 40,418955,Nicholas,Greeff,Arvada,CO,4:59:07,303 Project
 41,0,Anton,Varabei,,,4:59:10,TORONTO HUSTLE
-42,378837,Bill,Ash,Philadelphia,PA,4:59:15,CRCA/Foundation
+42,378837,Bill,Ash,New York ,NY,4:59:15,CRCA/Foundation
 43,0,Flix,Dolbec,,,4:59:26,Transports Lacombe/Devinci
 44,0,Cullen,Browne,,,4:59:26,Transports Lacombe/Devinci
 45,0,Benoit,Boulay,,,4:59:54,TORONTO HUSTLE
@@ -983,7 +983,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,265393,Jay,Trojan,Lincoln,RI,3:20:30,Arc-En-Ciel Racing Team
 13,225529,James,Walker,Lake Placid,NY,3:22:10,Team Placid Planet
 14,264285,Dave,Hussey,Ocean,NJ,3:23:43,Cycles 54 / Xrcel
-15,106829,Alan,Potter,Newton,MA,3:25:11,Team Fit Werx
+15,106829,Alan,Potter,Natick,MA,3:25:11,Team Fit Werx
 16,47280,Todd,Sanders,West Palm Beach,FL,3:25:22,Cyberdyne
 17,39478,Hunter,Ziesing,Bel Tiburon,CA,3:25:36,Hammer Nutrition/53x11
 18,64384,James,Nash,North Hampton,NH,3:27:47,CCB Racing
@@ -1108,7 +1108,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,416836,Patrick,Cavanaugh,Lebanon,NH,3:16:38,Unattached
 6,307226,Julian,Bowling,Charlottesville,VA,3:16:48,Blue Ridge Cyclery Racing P/b Reynolds
 7,348276,Curtis,Madsen,Layton,UT,3:17:09,america first credit union
-8,523891,Kyle,Konopnicki,Gansevoort,NY,3:17:14,North American Velo
+8,523891,Kyle,Konopnicki,Norfolk,VA,3:17:14,North American Velo
 9,317134,Dustin,Weigl,Cambridge,MA,3:17:22,MIT Cycling
 10,527187,Alvaro,Soltero,Brooklyn,NY,3:18:29,CRCA/Team Patch NYC Velo
 11,501757,Jonathan,Trevett,Brooklyn,NY,3:18:45,Team Patch.com
@@ -1131,8 +1131,8 @@ Place,License #,First,Last,City,State,Time,Team
 28,467692,Rees,Madsen,Layton,UT,3:27:41,Minuteman Road Club
 29,539743,Conor,Delanbanque,New York,NY,3:29:54,Unattached
 30,380339,Alexander,Weberg,Philadelphia,PA,3:31:35,Unattached
-31,500289,Kyle,Sammon,Bradley Beach,NJ,3:32:10,Unattached
-32,428501,Torin,La Liberte,Colchester,VT,3:33:45,Sunapee Racing / Buchika's Ski and Bike
+31,500289,Kyle,Sammon,Lancaster,PA,3:32:10,Unattached
+32,428501,Torin,La Liberte,Madison,NH,3:33:45,Sunapee Racing / Buchika's Ski and Bike
 33,509262,Jonathan,Falcetti,Indian Orchard,MA,3:34:04,NCC
 34,526001,Austin,King,Brooklyn,NY,3:35:27,CRCA/Team Patch NYC Velo
 35,496632,Thomas,Marecki,Brooklyn,NY,3:35:56,CRCA/Good Guys Racing p/b HighWaterWomen
@@ -1173,7 +1173,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,501906,Scott,Lawrence,Wilmington,NY,3:21:47,Team Placid Planet
 12,484201,Krzysztof,Jedrzejewski,Springfield,VA,3:21:55,WWVC Racing
 13,342852,Jake,Allegrini,Nantucket,MA,3:22:17,Nantucket Velo
-14,91530,Jason,Yannelli,S Casco,ME,3:22:24,USMES
+14,91530,Jason,Yannelli,Sebago,ME,3:22:24,USMES
 15,93038,Josh,Flanagan,Cohasset,MA,3:22:37,Unattached
 16,509563,Rosario,Gallo,South Glens Falls,NY,3:23:14,unattached
 17,218218,Loren,Voyer,Essex Junction,VT,3:24:01,Unattached
@@ -1192,7 +1192,7 @@ Place,License #,First,Last,City,State,Time,Team
 30,529897,Sean,Mohan,Moultonboro,NH,3:31:14,Unattached
 31,430515,Timothy,Daley,Watertown,MA,3:34:06,Aetna-Expo Wheelmen
 32,292639,Jeffrey,White,Brooklyn,NY,3:34:43,Kissena Cycling Club
-33,460629,Christopher,Cheetham,Brooklyn,NY,3:35:13,CRCA/Maglia Rosa NYC
+33,460629,Christopher,Cheetham,Irvington,NY,3:35:13,CRCA/Maglia Rosa NYC
 34,400456,Sean,Hill,Brooklyn,NY,3:36:38,CRCA/Rapha Cycling Club
 35,279989,Evan,Osler,Northampton,MA,3:42:20,1K2GO Sports
 36,252587,Kevin,Perron,Concord,NH,3:45:14,NCC
@@ -1210,7 +1210,7 @@ Place,License #,First,Last,City,State,Time,Team
 48,359232,Chad,Phillips,South Burlington,VT,4:14:38,1K2GO Sports
 DNF,523348,Mark,Warfield,Brooklyn,NY,DNF,CRCA/Team PATCH
 DNF,314652,Charles,Dow,Newton,MA,DNF,NEBC p/b Cycle Loft
-DNF,468171,Tim,Vandish,Arlington,VA,DNF,NCVC/UnitedHealthcare
+DNF,468171,Tim,Vandish,Alexandria,VA,DNF,NCVC/UnitedHealthcare
 DNF,0,Gerald,Plamondon,,,DNF,Espoirs Laval
 DNF,0,Jean,Beaudoin,,,DNF,Espoirs Laval
 DNF,319680,Russell,Bogin,New York,NY,DNF,CRCA/NY Vision Group-Fuoriclasse Racing
@@ -1240,10 +1240,10 @@ Place,License #,First,Last,City,State,Time,Team
 21,309421,Jonathon,Laurie,Nyc,NY,3:07:14,CRCA/Rockstar Games
 22,429934,Kameron,Clayton,Somerville,MA,3:07:20,GREEN LINE VELO driven by Zipcar
 23,0,Nicholas,Dehler,,,3:07:59,Independent
-24,296751,Michael,Green,Wyndmoor ,PA,3:08:24,Arrow Racing
+24,296751,Michael,Green,Wyndmoor,PA,3:08:24,Arrow Racing
 25,334476,Carl,Jacob,North Brunswick,NJ,3:08:28,Rothman Institute p/b Talksoft
 26,404186,Rob,Montgomery,St. Albans,VT,3:08:49,1K2GO Sports
-27,311452,Alec,Cunningham,Cheshire,CT,3:08:55,RACE CF | racecf.org @racecf
+27,311452,Alec,Cunningham,Cape Neddick,ME,3:08:55,RACE CF | racecf.org @racecf
 28,482099,Andrew,Muir,Boston,MA,3:08:57,Community Bicycle Racing
 29,350148,Matthew,Owens,Richmond,VT,3:09:02,Hands-On Cycling
 30,492832,Edouard,d&#39;Arbaumont,New York,NY,3:09:18,CRCA/NYCC Racing p/b BGC Partners
@@ -1251,7 +1251,7 @@ Place,License #,First,Last,City,State,Time,Team
 32,398375,Calon,Russell,Portland,OR,3:09:34,Therapeutic Associates Racing p/c Pacifi
 33,0,Julien,Cassou,,,3:09:41,Espoirs lite - Primeau Vlo
 34,425914,Adriano,Hauck,Philadelphia,PA,3:09:59,Rohan Cycling
-35,485904,Ken,Greim,Cambridge,MA,3:10:05,GREEN LINE VELO driven by Zipcar
+35,485904,Ken,Greim,Belmont,MA,3:10:05,GREEN LINE VELO driven by Zipcar
 36,301534,Michael,Malavarca,Boonton,NJ,3:10:34,Team ProPower Coaching
 37,468381,Luiz,Lanfredi,New York,NY,3:12:30,CRCA/Foundation
 38,228090,Gregory,Battista,Toms River,NJ,3:12:53,Team Metra / Xrcel / Cycles 54
@@ -1270,7 +1270,7 @@ Place,License #,First,Last,City,State,Time,Team
 51,435063,Sasha,Smiljanic,Jamaica Plain,MA,3:25:00,Community Bicycle Racing
 52,285488,Ryan,Johnston,Brooklyn,NY,3:25:08,Bicycle Habitat-Verge Sport
 53,210257,Patrick,Luckow,Cambridge,MA,3:25:28,Community Bicycle Racing
-54,147771,Colin,Reuter,Somerville,MA,3:28:01,B2C2/JRA Cycles
+54,147771,Colin,Reuter,Leeds,MA,3:28:01,B2C2/JRA Cycles
 55,280819,Jake,McLaughlin,Lyme,NH,3:36:45,Drummond Cycles
 56,254084,Benjamin,Grabow,Madison,WI,3:37:19,Brazen Dropouts
 57,0,Robert Darren,Glasford,,,3:48:34,Winners Edge
@@ -1280,7 +1280,7 @@ DNF,0,Che'quan,Richardson,,,DNF,Bicycle Works Bermuda
 DNF,396264,Gregory,Sherrick,Royersford,PA,DNF,Blue Bell Private Wealth Management p/b
 DNF,473124,Brent,Vollrath,Blue Bell,PA,DNF,Blue Bell Private Wealth Management p/b
 DNF,525120,Alexander,Wall,New York,NY,DNF,CRCA/Foundation
-DNF,466208,Darin,Alleman,Newville,PA,DNF,AVC/Team Hagerstown-Washington Co
+DNF,466208,Darin,Alleman,Fredericksburg,VA,DNF,AVC/Team Hagerstown-Washington Co
 DNF,0,Michael,Baird,,,DNF,1R p/b Real Jobs
 
 09/03/2017 Road Race Men Cat 2
@@ -1297,7 +1297,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,307909,Adam,Naguib,San Carlos,CA,4:57:15,TMB Development p/b Equator
 11,427897,Rory,O'Neill,Brooklyn,NY,4:57:42,CRCA/Maglia Rosa NYC
 12,381603,Stephen,Jette,Weston,MA,4:57:55,New England Devo p/b Cadence Wealth Mana
-13,299925,Chad,Capobianco,Watkinsville,GA,5:00:41,DistrictTaco Racing
+13,299925,Chad,Capobianco,Aldie,VA,5:00:41,DistrictTaco Racing
 14,312568,Konrad,Ratzmann,Brooklyn,NY,5:00:51,Bicycle Habitat-Verge Sport
 15,431533,Derrick,Butler,Nazareth,PA,5:00:53,CS Velo
 16,354166,Benjamin,Spain,Raleigh,NC,5:01:19,4D Racing
@@ -1315,11 +1315,11 @@ Place,License #,First,Last,City,State,Time,Team
 28,0,Eric,Hueston,,,5:20:46,ToWheels/EpicSportsPerformance
 29,318100,Smith,Anderson,Brighton,MA,5:21:24,GREEN LINE VELO driven by Zipcar
 30,362104,Patrick,Jarenwattananon,Washington,DC,5:25:20,District Velocity Racing p/b Bicycle Pro
-31,353108,Jesse,Walker,Brooklyn,NY,5:26:06,CRCA/e2Value
+31,353108,Jesse,Walker,New York,NY,5:26:06,CRCA/e2Value
 32,0,Navarro,Fong Roy,,,5:27:35,Passion velo
-33,493748,Benjamen,Shrewsberry,Shippensburg,PA,5:29:25,AVC/Team Hagerstown-Washington Co
+33,493748,Benjamen,Shrewsberry,Fredericksburg,VA,5:29:25,AVC/Team Hagerstown-Washington Co
 34,257631,Jack,Drummond,Philadelphia,PA,5:29:44,Arrow Racing
-35,277019,Jonathan,Marshall,Chambersburg,PA,5:31:10,Integrated Sports Medicine p/b Brown's S
+35,277019,Jonathan,Marshall,Shippensburg,PA,5:31:10,Integrated Sports Medicine p/b Brown's S
 36,429727,Ben,Ryan,Randolph,MA,6:00:10,New England Devo p/b Cadence Wealth Mana
 DNF,234564,Peter,Goguen,Hopedale,MA,DNF,RACE CF | racecf.org @racecf
 DNF,225306,Joseph,Lynch,Windham,ME,DNF,Downeast Racing
@@ -1330,7 +1330,7 @@ DNF,494676,David,Shuck,Old Saybrook,CT,DNF,CRCA/Rockstar Games
 DNF,295768,Joshua,Saxe,Montpelier,VT,DNF,1K2GO Sports
 DNF,499880,Dawry,Cabrera,Lawrence,MA,DNF,New England Devo p/b Cadence Wealth Mana
 DNF,214503,David,Maynard,Middletown,CT,DNF,Team ERRACE p/b DSO Manufacturing
-DNF,382938,William,Crabtree,Cambridge,MA,DNF,Community Bicycle Racing
+DNF,382938,William,Crabtree,Lexington,MA,DNF,Community Bicycle Racing
 DNF,230301,Erik,Markewich,New Paltz,NY,DNF,Community Bicycle Racing
 DNF,114686,Nathan,Goates,Shippensburg,PA,DNF,AVC/Team Hagerstown-Washington Co
 DNF,0,Scott,Fitzgerald,,,DNF,Mariposa Bicycles
@@ -1378,7 +1378,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,422664,Emma,Langley,Richmond ,VA,3:40:47,BRC p/b Reynolds GM Subaru
 5,378983,Whitney,Withington,Brookline,MA,3:40:54,GREEN LINE VELO driven by Zipcar
 6,512400,Lindsay,Warner,Hinesburg,VT,3:41:09,BMB Racing
-7,512092,Holly,Neckermann,Philadelphia ,PA,3:41:16,Unattached
+7,512092,Holly,Neckermann,Philadelphia,PA,3:41:16,Unattached
 8,229518,Sarah,Elliott,Oconomowoc,WI,3:41:21,Highgate Racing p/b D'Ornella's Bike Sho
 9,0,Emma,Delisle,,,3:46:33,Stingray - Trek by Ultime Velo
 10,429428,Sarah,Shipley,Norfolk,MA,3:49:43,GREEN LINE VELO driven by Zipcar
@@ -1386,8 +1386,8 @@ Place,License #,First,Last,City,State,Time,Team
 12,353242,Christin,Reuter,Leeds,MA,3:52:12,crossresults.com
 13,503395,Kathryn,Aman,Hanover,NH,3:53:34,Middlebury College
 14,473659,Wendy,King,Colrain,MA,3:59:35,NCC
-15,476619,Paige,Kostanecki,Charottesville,VA,4:03:10,BRC Racing pb Reynolds GM-Subaru
-16,498600,Rachel,Uccellini,Saratoga Springs ,NY,4:04:26,Unattached
+15,476619,Paige,Kostanecki,Charlottesville,VA,4:03:10,BRC Racing pb Reynolds GM-Subaru
+16,498600,Rachel,Uccellini,Saratoga Springs,NY,4:04:26,Unattached
 17,539548,Caroline,O'Dwyer,Coventry,CT,4:05:09,Storrs Center Cycle Racing
 18,425056,Emily,Dreyer,Columbus,OH,4:05:35,Lady Gnar Shredders
 19,475220,Meagan,Gehrke,Columbus,OH,4:07:32,Lady Gnar Shredders
@@ -1440,7 +1440,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,0,Martin,Rupes,,,4:03:16,NCCH Elite p/b MGCC
 15,394826,Aria,Kiani,Santa Rosa,CA,4:03:16,Unattached
 16,429289,Victor,Gras,New York,NY,4:03:16,CRCA/Rockstar Games
-17,378837,Bill,Ash,Philadelphia,PA,4:03:16,CRCA/Foundation
+17,378837,Bill,Ash,New York ,NY,4:03:16,CRCA/Foundation
 18,0,Graydon,Staples,,,4:03:16,TORONTO HUSTLE
 19,395771,Taylor,Pearman,Burke,VA,4:03:16,Haymarket/Starlight Custom Apparel
 20,0,Yuri,Hrycaj,,,4:03:16,TORONTO HUSTLE
@@ -1458,7 +1458,7 @@ Place,License #,First,Last,City,State,Time,Team
 32,0,Rolando,Gonzalez,,,4:03:16,303 Project
 33,0,Robert,Gutgesell,,,4:03:16,Trek Red Truck
 34,395387,Sean,Gardner,Richmond,VA,4:03:16,Gateway Harley-Davidson Trek U25 Develop
-35,375405,Daniel,Nuzzo-Mueller,Medford ,MA,4:03:16,Community Bicycle Racing
+35,375405,Daniel,Nuzzo-Mueller,Medford,MA,4:03:16,Community Bicycle Racing
 36,414794,Pierre-Bernard,Thiffault,Redmond,WA,4:03:16,Hedrick Racing
 37,517022,Jordann,Jones,,,4:03:16,NCCH p/b MGCC
 38,300855,Kai,Wiggins,Washington,DC,4:03:16,Velocio Northeast
@@ -1569,7 +1569,7 @@ Place,License #,First,Last,City,State,Time,Team
 28,438795,Dave,Mingori,Worcester,MA,2:17:04,Minuteman Road Club
 29,47280,Todd,Sanders,West Palm Beach,FL,2:17:04,Cyberdyne
 30,226407,Bill,McGreevy,Wilmington,NY,2:17:04,Team Placid Planet
-31,106829,Alan,Potter,Newton,MA,2:17:04,Team Fit Werx
+31,106829,Alan,Potter,Natick,MA,2:17:04,Team Fit Werx
 32,68336,Philip,Beliveau,St George,VT,2:17:04,1K2GO Sports
 33,35402,William,Thompson,West Hartford,CT,2:17:04,CCC/Keltic Const/Zanes Cycles
 34,191487,Keith,Guinta,Fairfield,CT,2:22:30,Sherpa
@@ -1678,7 +1678,7 @@ Place,License #,First,Last,City,State,Time,Team
 09/02/2017 Road Race Men Cat 4/5
 Place,License #,First,Last,City,State,Time,Team
 1,525709,Robert,Raymond,Dover,MA,2:16:18,Minuteman Road Club
-2,523891,Kyle,Konopnicki,Gansevoort,NY,2:16:18,North American Velo
+2,523891,Kyle,Konopnicki,Norfolk,VA,2:16:18,North American Velo
 3,516235,Calvin,Martin,Liverpool,PA,2:16:18,Unattached
 4,526001,Austin,King,Brooklyn,NY,2:16:18,CRCA/Team Patch NYC Velo
 5,416836,Patrick,Cavanaugh,Lebanon,NH,2:16:18,Unattached
@@ -1706,11 +1706,11 @@ Place,License #,First,Last,City,State,Time,Team
 27,307226,Julian,Bowling,Charlottesville,VA,2:16:18,Blue Ridge Cyclery Racing P/b Reynolds
 28,523345,Mark,Shahlamian,New York,NY,2:16:18,Team Patch NYC VELO
 29,523467,Ronan,Fay,Riverside,RI,2:16:18,SVC/Bikeworks
-30,428501,Torin,La Liberte,Colchester,VT,2:16:18,Sunapee Racing / Buchika's Ski and Bike
+30,428501,Torin,La Liberte,Madison,NH,2:16:18,Sunapee Racing / Buchika's Ski and Bike
 31,402039,William,Haig,Ann Arbor,MI,2:16:18,Ann Arbor Velo Club
 32,317134,Dustin,Weigl,Cambridge,MA,2:16:18,MIT Cycling
 33,527187,Alvaro,Soltero,Brooklyn,NY,2:16:18,CRCA/Team Patch NYC Velo
-34,500289,Kyle,Sammon,Bradley Beach,NJ,2:16:18,Unattached
+34,500289,Kyle,Sammon,Lancaster,PA,2:16:18,Unattached
 35,524127,Christopher,Pulomena,Long Beach,NY,2:16:18,Unattached
 36,410403,John,D'Agostino,New York,NY,2:16:18,CRCA/Good Guys Racing p/b HighWaterWomen
 37,425857,Nate,Baltikas,Brooklyn,NY,2:16:18,Unattached
@@ -1741,9 +1741,9 @@ Place,License #,First,Last,City,State,Time,Team
 2,485653,Charlie,Philbrook,Newton Center,MA,2:18:52,545 Velo
 3,10855,Ryan,Enschede,Brooklyn,NY,2:18:52,CRCA/Good Guys Racing p/b HighWaterWomen
 4,538769,Jason,Frank,Burlington,VT,2:18:52,Unattached
-5,91530,Jason,Yannelli,S Casco,ME,2:18:52,USMES
+5,91530,Jason,Yannelli,Sebago,ME,2:18:52,USMES
 6,460634,Ed,Hammond,Brooklyn,NY,2:18:52,CRCA/Maglia Rosa NYC
-7,460629,Christopher,Cheetham,Brooklyn,NY,2:18:52,CRCA/Maglia Rosa NYC
+7,460629,Christopher,Cheetham,Irvington,NY,2:18:52,CRCA/Maglia Rosa NYC
 8,392343,Sean,Hillock,Oakdale,NY,2:18:52,Unattached
 9,397454,Chad,Katter,New York,NY,2:18:52,CRCA/Team Patch NYC Velo
 10,400456,Sean,Hill,Brooklyn,NY,2:18:52,CRCA/Rapha Cycling Club
@@ -1788,7 +1788,7 @@ Place,License #,First,Last,City,State,Time,Team
 49,524412,Richard,Pendleton,Peterborough,NH,2:28:32,State 9 Racing p/b Vittoria
 50,0,Jean,Beaudoin,,,2:28:32,Espoirs Laval
 51,394895,Ryan,Tomb,Somerville,MA,2:30:42,NEBC p/b Cycle Loft
-52,468171,Tim,Vandish,Arlington,VA,2:31:35,NCVC/UnitedHealthcare
+52,468171,Tim,Vandish,Alexandria,VA,2:31:35,NCVC/UnitedHealthcare
 53,56101,Christophe,Wilkes,Averill Park,NY,2:31:35,CRCA/NY Vision Group-Fuoriclasse Racing
 54,540532,Mike,Gretkowski,Burlington,VT,2:31:35,GMBC/Synergy Fitness
 55,514608,Brian,Conchieri,Essex Junction,VT,2:31:35,1K2GO Sports
@@ -1809,7 +1809,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,527022,William,Downing,New York,NY,2:12:18,CRCA/Foundation
 8,492832,Edouard,d&#39;Arbaumont,New York,NY,2:12:18,CRCA/NYCC Racing p/b BGC Partners
 9,0,Carlo,Quicho,,,2:12:18,Monster Media Racing p/b ButcherBox
-10,485904,Ken,Greim,Cambridge,MA,2:12:18,GREEN LINE VELO driven by Zipcar
+10,485904,Ken,Greim,Belmont,MA,2:12:18,GREEN LINE VELO driven by Zipcar
 11,404186,Rob,Montgomery,St. Albans,VT,2:12:18,1K2GO Sports
 12,285488,Ryan,Johnston,Brooklyn,NY,2:12:18,Bicycle Habitat-Verge Sport
 13,482099,Andrew,Muir,Boston,MA,2:12:18,Community Bicycle Racing
@@ -1822,7 +1822,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,370578,David,Stauffer,Arlington,VA,2:12:18,NCVC/UnitedHealthcare
 21,293161,Andrew,Goodale,Maynard,MA,2:12:18,RACE CF | racecf.org @racecf
 22,313286,Eric,Schmidt,Brighton  ,MA,2:12:18,Unattached
-23,147771,Colin,Reuter,Somerville,MA,2:12:18,B2C2/JRA Cycles
+23,147771,Colin,Reuter,Leeds,MA,2:12:18,B2C2/JRA Cycles
 24,0,Che'quan,Richardson,,,2:12:18,Bicycle Works Bermuda
 25,228090,Gregory,Battista,Toms River,NJ,2:12:18,Team Metra / Xrcel / Cycles 54
 26,381747,Wes,Tillman,Brooklyn,NY,2:12:18,Bicycle Habitat-Verge Sport
@@ -1845,9 +1845,9 @@ Place,License #,First,Last,City,State,Time,Team
 43,301534,Michael,Malavarca,Boonton,NJ,2:12:18,Team ProPower Coaching
 44,308579,Andrew,Da Silva,Highland Mills,NY,2:12:18,Bicycle Habitat-Verge Sport
 45,210257,Patrick,Luckow,Cambridge,MA,2:12:18,Community Bicycle Racing
-46,311452,Alec,Cunningham,Cheshire,CT,2:12:18,RACE CF | racecf.org @racecf
+46,311452,Alec,Cunningham,Cape Neddick,ME,2:12:18,RACE CF | racecf.org @racecf
 47,385219,Will,Carroll,Ossining,NY,2:12:18,CRCA/e2Value
-48,296751,Michael,Green,Wyndmoor ,PA,2:12:18,Arrow Racing
+48,296751,Michael,Green,Wyndmoor,PA,2:12:18,Arrow Racing
 49,328530,Fred,David,New York,NY,2:12:18,CRCA/e2Value
 50,0,Guillaume,Lafleur,,,2:12:18,ECG / Polo Vlo - Norco
 51,0,Louis,Fernet-Leclair,,,2:12:18,1R p/b Real Jobs
@@ -1856,7 +1856,7 @@ Place,License #,First,Last,City,State,Time,Team
 54,412071,Michael,Podzaline,North Stonington,CT,2:14:23,Scorpion Racing
 55,396025,PJ,Bottoms,Newton,NJ,2:14:23,skylands cycling
 56,434514,Filagot,Dinku,Arlington,VA,2:14:23,DistrictTaco Racing
-57,466208,Darin,Alleman,Newville,PA,2:14:35,AVC/Team Hagerstown-Washington Co
+57,466208,Darin,Alleman,Fredericksburg,VA,2:14:35,AVC/Team Hagerstown-Washington Co
 58,468381,Luiz,Lanfredi,New York,NY,2:17:48,CRCA/Foundation
 59,293636,Benjamin,Kramer,Bow,NH,2:18:00,Sunapee/Continental Paving/Buchikas
 60,233859,Robert,Gutzwiller,San Diego,CA,2:18:09,Unattached
@@ -1872,7 +1872,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,231092,Will,Gleason,Norwalk,CT,4:17:37,Team ERRACE p/b DSO Manufacturing
 2,352236,Ian,Clarke,Killington,VT,4:17:37,CCB Velotooler
 3,431533,Derrick,Butler,Nazareth,PA,4:17:37,CS Velo
-4,382938,William,Crabtree,Cambridge,MA,4:17:37,Community Bicycle Racing
+4,382938,William,Crabtree,Lexington,MA,4:17:37,Community Bicycle Racing
 5,423893,Michael,Grome,New Haven,CT,4:17:37,Yale University
 6,254864,Sam,O'Keefe,Breckenridge,CO,4:17:37,Unattached
 7,307909,Adam,Naguib,San Carlos,CA,4:17:37,TMB Development p/b Equator
@@ -1880,7 +1880,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,0,Eric,Hueston,,,4:17:37,ToWheels/EpicSportsPerformance
 10,308936,Richard,Furchtgott,Chevychase,MD,4:20:41,BATTLEY HARLEY-DAVIDSON/SPOKES/CUTAWAY
 11,427897,Rory,O'Neill,Brooklyn,NY,4:20:50,CRCA/Maglia Rosa NYC
-12,299925,Chad,Capobianco,Watkinsville,GA,4:20:50,DistrictTaco Racing
+12,299925,Chad,Capobianco,Aldie,VA,4:20:50,DistrictTaco Racing
 13,456318,Ethan,Call,Jefferson,NH,4:21:23,Cyclus Sports-New England
 14,312568,Konrad,Ratzmann,Brooklyn,NY,4:21:23,Bicycle Habitat-Verge Sport
 15,494676,David,Shuck,Old Saybrook,CT,4:21:23,CRCA/Rockstar Games
@@ -1905,11 +1905,11 @@ Place,License #,First,Last,City,State,Time,Team
 34,429727,Ben,Ryan,Randolph,MA,4:21:23,New England Devo p/b Cadence Wealth Mana
 35,403129,Gennaro,Ameno,North Reading,MA,4:21:23,GREEN LINE VELO driven by Zipcar
 36,221369,Jordan,Lynn,Southington,CT,4:21:23,Team ERRACE p/b DSO Manufacturing
-37,353108,Jesse,Walker,Brooklyn,NY,4:21:23,CRCA/e2Value
+37,353108,Jesse,Walker,New York,NY,4:21:23,CRCA/e2Value
 38,230301,Erik,Markewich,New Paltz,NY,4:21:23,Community Bicycle Racing
 39,290822,Preston,Buehrer,Dorchester,MA,4:21:23,Cyclus Sports-New England
 40,220670,Fred,Thomas,Cape Elizabeth,ME,4:21:23,A-D Racing
-41,277019,Jonathan,Marshall,Chambersburg,PA,4:21:23,Integrated Sports Medicine p/b Brown's S
+41,277019,Jonathan,Marshall,Shippensburg,PA,4:21:23,Integrated Sports Medicine p/b Brown's S
 42,214503,David,Maynard,Middletown,CT,4:23:20,Team ERRACE p/b DSO Manufacturing
 43,428526,Jason,Guzman,Brooklyn,NY,4:29:51,CRCA/Dave Jordan Racing
 44,354166,Benjamin,Spain,Raleigh,NC,4:30:55,4D Racing
@@ -1917,7 +1917,7 @@ Place,License #,First,Last,City,State,Time,Team
 46,295768,Joshua,Saxe,Montpelier,VT,4:40:37,1K2GO Sports
 47,441118,Patrick,Torpey,Brooklyn,NY,4:41:03,CRCA/To Be Determined
 48,225306,Joseph,Lynch,Windham,ME,4:41:03,Downeast Racing
-49,493748,Benjamen,Shrewsberry,Shippensburg,PA,4:42:20,AVC/Team Hagerstown-Washington Co
+49,493748,Benjamen,Shrewsberry,Fredericksburg,VA,4:42:20,AVC/Team Hagerstown-Washington Co
 50,310677,Andrew,loaiza,Plattsburgh,NY,4:43:12,Cyclepath PDX
 51,114686,Nathan,Goates,Shippensburg,PA,5:03:03,AVC/Team Hagerstown-Washington Co
 52,0,Nicolas,Courtemanche,,,5:07:30,Espoirs lite - Primeau Vlo
@@ -1978,9 +1978,9 @@ Place,License #,First,Last,City,State,Time,Team
 12,378983,Whitney,Withington,Brookline,MA,2:34:30,GREEN LINE VELO driven by Zipcar
 13,503395,Kathryn,Aman,Hanover,NH,2:34:30,Middlebury College
 14,472419,Kathryn,Randle,,,2:34:30,TORONTO HUSTLE
-15,512092,Holly,Neckermann,Philadelphia ,PA,2:34:30,Unattached
-16,476619,Paige,Kostanecki,Charottesville,VA,2:34:30,BRC Racing pb Reynolds GM-Subaru
-17,498600,Rachel,Uccellini,Saratoga Springs ,NY,2:34:30,Unattached
+15,512092,Holly,Neckermann,Philadelphia,PA,2:34:30,Unattached
+16,476619,Paige,Kostanecki,Charlottesville,VA,2:34:30,BRC Racing pb Reynolds GM-Subaru
+17,498600,Rachel,Uccellini,Saratoga Springs,NY,2:34:30,Unattached
 18,311059,Vickie,Monahan,Wethersfield,CT,2:34:30,Team ERRACE P/b DSO Manufacturing
 19,0,Kaitlyn,Rauwerda,,,2:34:30,NCCH Elite p/b MGCC
 20,496816,Emma,Sherer,New York,NY,2:34:30,Velo Classic p/b Stan's NoTubes
@@ -2002,7 +2002,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,425382,Austin,Stephens,Huntington Beach,CA,14:15.34,303 Project
 3,281943,Keith,Kelly,Jamaica Plain,MA,14:25.15,Velocio Northeast
 4,380188,Matt,McLoone,Washington,DC,14:29.94,BATTLEY HARLEY-DAVIDSON/SPOKES/CUTAWAY
-5,378837,Bill,Ash,Philadelphia,PA,14:30.82,CRCA/Foundation
+5,378837,Bill,Ash,New York ,NY,14:30.82,CRCA/Foundation
 6,326702,Timothy,Ahearn,Woodstock,CT,14:33.55,Team ERRACE p/b DSO Manufacturing
 7,0,Robert,Gutgesell,,,14:37.85,Trek Red Truck
 8,286536,Coulton,Hartrich,Thousand Oaks,CA,14:39.68,Unattached
@@ -2022,7 +2022,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,321260,Connor,Ryan,Washington,DC,14:58.61,BATTLEY HARLEY-DAVIDSON/SPOKES/CUTAWAY
 23,0,Rolando,Gonzalez,,,15:01.27,303 Project
 24,0,Graydon,Staples,,,15:01.54,TORONTO HUSTLE
-25,375405,Daniel,Nuzzo-Mueller,Medford ,MA,15:01.93,Community Bicycle Racing
+25,375405,Daniel,Nuzzo-Mueller,Medford,MA,15:01.93,Community Bicycle Racing
 26,0,Benoit,Boulay,,,15:03.52,TORONTO HUSTLE
 27,441096,Thomas,Humphreys,Chevy Chase,MD,15:04.92,BATTLEY HARLEY-DAVIDSON/SPOKES/CUTAWAY
 28,287780,Taylor,Warren,San Diego,CA,15:06.20,303 Project
@@ -2134,7 +2134,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,438795,Dave,Mingori,Worcester,MA,16:44.08,Minuteman Road Club
 16,23926,Peter,Megdal,Sherborn,MA,16:46.76,NEBC p/b Cycle Loft
 17,222263,Ray,Plewacki,Fairfax,VA,16:51.42,Evolution Cycling Club p/b Long & Foster
-18,106829,Alan,Potter,Newton,MA,16:53.65,Team Fit Werx
+18,106829,Alan,Potter,Natick,MA,16:53.65,Team Fit Werx
 19,264285,Dave,Hussey,Ocean,NJ,16:55.16,Cycles 54 / Xrcel
 20,50819,William,Caligari,Sheffield,MA,17:01.58,Linen / BCA
 21,168995,Ron,Jacobs,Needham,MA,17:06.96,Wheelworks Racing
@@ -2256,7 +2256,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 09/01/2017 Time Trial Men Cat 4/5
 Place,License #,First,Last,City,State,Time,Team
-1,428501,Torin,La Liberte,Colchester,VT,15:15.73,Sunapee Racing / Buchika's Ski and Bike
+1,428501,Torin,La Liberte,Madison,NH,15:15.73,Sunapee Racing / Buchika's Ski and Bike
 2,506856,William,Hafferty,Boston,MA,15:41.40,545 Velo
 3,528333,Jonathan,Meyer,Waterbury Center,VT,15:43.69,1K2GO Sports
 4,524127,Christopher,Pulomena,Long Beach,NY,15:46.76,Unattached
@@ -2275,11 +2275,11 @@ Place,License #,First,Last,City,State,Time,Team
 17,307226,Julian,Bowling,Charlottesville,VA,16:30.65,Blue Ridge Cyclery Racing P/b Reynolds
 18,459604,Charles,Larsen,Phoenix,MD,16:36.16,AVC/Team Hagerstown-Washington Co
 19,536668,Kevin,Valenski,Long Beach,NY,16:36.67,Unattached
-20,523891,Kyle,Konopnicki,Gansevoort,NY,16:48.43,North American Velo
+20,523891,Kyle,Konopnicki,Norfolk,VA,16:48.43,North American Velo
 21,501757,Jonathan,Trevett,Brooklyn,NY,16:48.58,Team Patch.com
 22,501979,Arturo,Johnson,Norwich,VT,16:51.23,KMS Cycling - Killington Mountain School
 23,537837,Matthew,Solomon,Winooski,VT,16:54.33,Unattached
-24,500289,Kyle,Sammon,Bradley Beach,NJ,16:59.19,Unattached
+24,500289,Kyle,Sammon,Lancaster,PA,16:59.19,Unattached
 25,526001,Austin,King,Brooklyn,NY,17:10.23,CRCA/Team Patch NYC Velo
 26,523467,Ronan,Fay,Riverside,RI,17:11.32,SVC/Bikeworks
 27,410403,John,D'Agostino,New York,NY,17:14.52,CRCA/Good Guys Racing p/b HighWaterWomen
@@ -2322,9 +2322,9 @@ Place,License #,First,Last,City,State,Time,Team
 4,399968,Nicholas,Nardelli,Watertown,MA,16:33.73,545 Velo
 5,379144,Christopher,Burns,Charles Town,WV,16:35.75,Team Integrity Cycling p/b K&F Construct
 6,518261,Andrew,Tine,Barrington,RI,16:53.87,SVC/Bikeworks
-7,460629,Christopher,Cheetham,Brooklyn,NY,16:56.49,CRCA/Maglia Rosa NYC
+7,460629,Christopher,Cheetham,Irvington,NY,16:56.49,CRCA/Maglia Rosa NYC
 8,430515,Timothy,Daley,Watertown,MA,16:57.28,Aetna-Expo Wheelmen
-9,91530,Jason,Yannelli,S Casco,ME,16:57.72,USMES
+9,91530,Jason,Yannelli,Sebago,ME,16:57.72,USMES
 10,10855,Ryan,Enschede,Brooklyn,NY,16:59.05,CRCA/Good Guys Racing p/b HighWaterWomen
 11,93038,Josh,Flanagan,Cohasset,MA,16:59.84,Unattached
 12,407053,Richard,Westwood,,,17:02.10,Unattached
@@ -2356,7 +2356,7 @@ Place,License #,First,Last,City,State,Time,Team
 38,319680,Russell,Bogin,New York,NY,18:12.15,CRCA/NY Vision Group-Fuoriclasse Racing
 39,181581,Marc,Hammond,Waitsfield,VT,18:13.32,Fit Werx
 40,227877,Claudio,Torres,Brooklyn,NY,18:15.72,Unattached
-41,468171,Tim,Vandish,Arlington,VA,18:16.00,NCVC/UnitedHealthcare
+41,468171,Tim,Vandish,Alexandria,VA,18:16.00,NCVC/UnitedHealthcare
 42,431181,Johan,Abreu,Fresh Meadows,NY,18:18.88,CRCA/e2Value
 43,359232,Chad,Phillips,South Burlington,VT,18:19.97,1K2GO Sports
 44,0,Jean,Beaudoin,,,18:20.20,Espoirs Laval
@@ -2397,7 +2397,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,423218,Owen,McGrath,San Francisco,CA,16:10.29,Primal - Audi Denver
 16,525120,Alexander,Wall,New York,NY,16:12.14,CRCA/Foundation
 17,473124,Brent,Vollrath,Blue Bell,PA,16:14.68,Blue Bell Private Wealth Management p/b
-18,485904,Ken,Greim,Cambridge,MA,16:16.88,GREEN LINE VELO driven by Zipcar
+18,485904,Ken,Greim,Belmont,MA,16:16.88,GREEN LINE VELO driven by Zipcar
 19,522543,Shannon,Scott,New York,NY,16:18.37,CRCA/NYCC Racing p/b BGC Partners
 20,398375,Calon,Russell,Portland,OR,16:18.60,Therapeutic Associates Racing p/c Pacifi
 21,370578,David,Stauffer,Arlington,VA,16:18.77,NCVC/UnitedHealthcare
@@ -2406,7 +2406,7 @@ Place,License #,First,Last,City,State,Time,Team
 24,385219,Will,Carroll,Ossining,NY,16:29.26,CRCA/e2Value
 25,313286,Eric,Schmidt,Brighton  ,MA,16:29.53,Unattached
 26,228090,Gregory,Battista,Toms River,NJ,16:32.28,Team Metra / Xrcel / Cycles 54
-27,311452,Alec,Cunningham,Cheshire,CT,16:33.17,RACE CF | racecf.org @racecf
+27,311452,Alec,Cunningham,Cape Neddick,ME,16:33.17,RACE CF | racecf.org @racecf
 28,404186,Rob,Montgomery,St. Albans,VT,16:33.36,1K2GO Sports
 29,301534,Michael,Malavarca,Boonton,NJ,16:35.08,Team ProPower Coaching
 30,0,Julien,Cassou,,,16:35.72,Espoirs lite - Primeau Vlo
@@ -2418,7 +2418,7 @@ Place,License #,First,Last,City,State,Time,Team
 36,396025,PJ,Bottoms,Newton,NJ,16:43.90,skylands cycling
 37,210257,Patrick,Luckow,Cambridge,MA,16:44.60,Community Bicycle Racing
 38,429934,Kameron,Clayton,Somerville,MA,16:45.23,GREEN LINE VELO driven by Zipcar
-39,296751,Michael,Green,Wyndmoor ,PA,16:45.94,Arrow Racing
+39,296751,Michael,Green,Wyndmoor,PA,16:45.94,Arrow Racing
 40,381747,Wes,Tillman,Brooklyn,NY,16:46.95,Bicycle Habitat-Verge Sport
 41,0,Nicholas,Dehler,,,16:48.17,Independent
 42,350148,Matthew,Owens,Richmond,VT,16:50.99,Hands-On Cycling
@@ -2431,7 +2431,7 @@ Place,License #,First,Last,City,State,Time,Team
 49,58508,Simon,Khalif,New York,NY,17:12.93,CRCA/GF Capital / H&E Ent
 50,523817,William,Weigand,Brooklyn Ny,NY,17:17.27,CRCA / Team Patch.com
 51,434514,Filagot,Dinku,Arlington,VA,17:18.52,DistrictTaco Racing
-52,466208,Darin,Alleman,Newville,PA,17:18.79,AVC/Team Hagerstown-Washington Co
+52,466208,Darin,Alleman,Fredericksburg,VA,17:18.79,AVC/Team Hagerstown-Washington Co
 53,396264,Gregory,Sherrick,Royersford,PA,17:19.58,Blue Bell Private Wealth Management p/b
 54,308579,Andrew,Da Silva,Highland Mills,NY,17:20.73,Bicycle Habitat-Verge Sport
 55,492832,Edouard,d&#39;Arbaumont,New York,NY,17:21.12,CRCA/NYCC Racing p/b BGC Partners
@@ -2442,7 +2442,7 @@ Place,License #,First,Last,City,State,Time,Team
 60,0,Michael,Baird,,,17:37.71,1R p/b Real Jobs
 61,0,Che'quan,Richardson,,,17:47.86,Bicycle Works Bermuda
 62,293636,Benjamin,Kramer,Bow,NH,17:50.40,Sunapee/Continental Paving/Buchikas
-63,147771,Colin,Reuter,Somerville,MA,17:59.19,B2C2/JRA Cycles
+63,147771,Colin,Reuter,Leeds,MA,17:59.19,B2C2/JRA Cycles
 64,291204,Kevin,Emr,Albany,NY,18:12.35,CRCA/GF Capital / H&E Ent
 65,0,Robert Darren,Glasford,,,18:21.26,Winners Edge
 66,280819,Jake,McLaughlin,Lyme,NH,19:00.23,Drummond Cycles
@@ -2451,7 +2451,7 @@ Place,License #,First,Last,City,State,Time,Team
 09/01/2017 Time Trial Men Cat 2
 Place,License #,First,Last,City,State,Time,Team
 1,498826,Anthony,Murfett,Arlington,VA,15:03.15,District Velocity Racing p/b Bicycle Pro
-2,382938,William,Crabtree,Cambridge,MA,15:10.37,Community Bicycle Racing
+2,382938,William,Crabtree,Lexington,MA,15:10.37,Community Bicycle Racing
 3,502978,Camden,Black Ingersoll,Concord,NH,15:12.25,Downeast Racing
 4,385701,Gregory,Seymour,Denver,CO,15:15.50,303 Project Cycling
 5,381603,Stephen,Jette,Weston,MA,15:15.77,New England Devo p/b Cadence Wealth Mana
@@ -2467,7 +2467,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,429727,Ben,Ryan,Randolph,MA,15:40.71,New England Devo p/b Cadence Wealth Mana
 16,234564,Peter,Goguen,Hopedale,MA,15:41.50,RACE CF | racecf.org @racecf
 17,307909,Adam,Naguib,San Carlos,CA,15:41.70,TMB Development p/b Equator
-18,299925,Chad,Capobianco,Watkinsville,GA,15:42.41,DistrictTaco Racing
+18,299925,Chad,Capobianco,Aldie,VA,15:42.41,DistrictTaco Racing
 19,295768,Joshua,Saxe,Montpelier,VT,15:44.61,1K2GO Sports
 20,456318,Ethan,Call,Jefferson,NH,15:44.88,Cyclus Sports-New England
 21,362104,Patrick,Jarenwattananon,Washington,DC,15:46.83,District Velocity Racing p/b Bicycle Pro
@@ -2484,7 +2484,7 @@ Place,License #,First,Last,City,State,Time,Team
 32,494676,David,Shuck,Old Saybrook,CT,15:59.94,CRCA/Rockstar Games
 33,440072,Alex,Winnicki,Greensboro,NC,16:00.41,Cyclus Sports
 34,441118,Patrick,Torpey,Brooklyn,NY,16:04.67,CRCA/To Be Determined
-35,353108,Jesse,Walker,Brooklyn,NY,16:05.54,CRCA/e2Value
+35,353108,Jesse,Walker,New York,NY,16:05.54,CRCA/e2Value
 36,467304,Scott,Coblentz,Frederick,MD,16:11.42,Antietam Velo Club
 37,0,Scott,Fitzgerald,,,16:20.67,Mariposa Bicycles
 38,414812,Mike,Morse,Salem,NH,16:21.67,Colonial Bicycle Company
@@ -2494,11 +2494,11 @@ Place,License #,First,Last,City,State,Time,Team
 42,225306,Joseph,Lynch,Windham,ME,16:24.75,Downeast Racing
 43,230301,Erik,Markewich,New Paltz,NY,16:30.18,Community Bicycle Racing
 44,114686,Nathan,Goates,Shippensburg,PA,16:30.29,AVC/Team Hagerstown-Washington Co
-45,277019,Jonathan,Marshall,Chambersburg,PA,16:34.94,Integrated Sports Medicine p/b Brown's S
+45,277019,Jonathan,Marshall,Shippensburg,PA,16:34.94,Integrated Sports Medicine p/b Brown's S
 46,257599,Leon,Lyakovetsky,Westport,CT,16:36.19,CRCA/e2Value
 47,257631,Jack,Drummond,Philadelphia,PA,16:40.69,Arrow Racing
 48,403129,Gennaro,Ameno,North Reading,MA,16:41.12,GREEN LINE VELO driven by Zipcar
-49,493748,Benjamen,Shrewsberry,Shippensburg,PA,16:41.37,AVC/Team Hagerstown-Washington Co
+49,493748,Benjamen,Shrewsberry,Fredericksburg,VA,16:41.37,AVC/Team Hagerstown-Washington Co
 50,0,Navarro,Fong Roy,,,16:44.47,Passion velo
 51,99523,Hunter,Pronovost,Cheshire,CT,16:51.64,Cheshire Cycle Racing
 52,291228,Brett,Houser,Philadelphia,PA,17:01.28,Tri-State Velo/Amoroso's
@@ -2558,15 +2558,15 @@ Place,License #,First,Last,City,State,Time,Team
 2,422664,Emma,Langley,Richmond ,VA,18:08.38,BRC p/b Reynolds GM Subaru
 3,0,Florence,Normand,,,18:26.93,unattached
 4,509488,Lane,Marder,Somerville,MA,18:28.24,B2C2/JRA Cycles
-5,512092,Holly,Neckermann,Philadelphia ,PA,18:35.19,Unattached
+5,512092,Holly,Neckermann,Philadelphia,PA,18:35.19,Unattached
 6,502711,Michelle,Rorke,New York,NY,18:35.31,CRCA/Rockstar Games
 7,0,Kaitlyn,Rauwerda,,,18:40.12,NCCH Elite p/b MGCC
-8,476619,Paige,Kostanecki,Charottesville,VA,18:44.07,BRC Racing pb Reynolds GM-Subaru
+8,476619,Paige,Kostanecki,Charlottesville,VA,18:44.07,BRC Racing pb Reynolds GM-Subaru
 9,512400,Lindsay,Warner,Hinesburg,VT,18:58.56,BMB Racing
 10,0,Kayla,Mckee,,,19:00.04,NCCH Elite p/b MGCC
 11,390888,Shaina,Kravitz,Philadelphia,PA,19:01.44,Team EPS/CSS p/b Shebell & Shebell
 12,503395,Kathryn,Aman,Hanover,NH,19:08.25,Middlebury College
-13,498600,Rachel,Uccellini,Saratoga Springs ,NY,19:15.57,Unattached
+13,498600,Rachel,Uccellini,Saratoga Springs,NY,19:15.57,Unattached
 14,353242,Christin,Reuter,Leeds,MA,19:15.72,crossresults.com
 15,311059,Vickie,Monahan,Wethersfield,CT,19:19.08,Team ERRACE P/b DSO Manufacturing
 16,429428,Sarah,Shipley,Norfolk,MA,19:19.64,GREEN LINE VELO driven by Zipcar

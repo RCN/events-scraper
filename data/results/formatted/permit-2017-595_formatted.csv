@@ -8,7 +8,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,354166,Benjamin,Spain,Raleigh,NC,,Tulane
 5,466134,Pablo,Cruz,Wichita Falls,TX,,MSU
 6,406377,Brian,Lea,Bartlesville,OK,,U Ark
-7,378837,Bill,Ash,Philadelphia,PA,,MSU
+7,378837,Bill,Ash,New York ,NY,,MSU
 8,329968,Fred,Vincent,Flower Mound,TX,,unknown
 9,419456,Maximilian,Hall,Austin,TX,,TSU
 10,460877,Jonathan,Cripe,Baton Rouge,LA,,LSU
@@ -37,7 +37,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,515674,Patrick,Mannon,Austin,TX,,UTA
 3,460588,Shane,Sirignano,Denton,TX,,UNT
 4,466583,Miguel,Solano,Richardson,TX,,UTD
-5,513333,Kanten,Nichols,Longview,TE,,UNT
+5,513333,Kanten,Nichols,Denton,TX,,UNT
 6,476824,Connor,White,College Station,TX,,UTA
 7,523475,Carson,Steinmann,Granbury,TX,,Baylor
 8,494336,Seth,Hart,Euless,TX,,OU
@@ -90,13 +90,13 @@ Place,License #,First,Last,City,State,Time,Team
 02/18/2017 Criterium Women C
 Place,License #,First,Last,City,State,Time,Team
 1,524299,Madeleine,Jennings,San Marcos,TX,,TSU
-2,525573,Savannah,Porter,Gray,LA,,Nicholls
+2,525573,Savannah,Porter,Thibodaux,LA,,Nicholls
 
 02/18/2017 Individual Time Trial Men A
 Place,License #,First,Last,City,State,Time,Team
 1,387057,Brady,Reed,Magnolia,TX,0:07:03,A&M
 2,394252,Omar,Nunez,Laredo,TX,0:07:12,A&M
-3,378837,Bill,Ash,Philadelphia,PA,0:07:20,MSU
+3,378837,Bill,Ash,New York ,NY,0:07:20,MSU
 4,460877,Jonathan,Cripe,Baton Rouge,LA,0:07:23,LSU
 5,466134,Pablo,Cruz,Wichita Falls,TX,0:07:32,MSU
 6,466498,Thomas,Brown,Little Rock,AR,0:07:33,U Ark
@@ -141,7 +141,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,494336,Seth,Hart,Euless,TX,0:08:31,OU
 11,460588,Shane,Sirignano,Denton,TX,0:08:32,UNT
 12,385624,Jake,VanderVaate,Flower Mound,TX,0:08:35,UNT
-13,513333,Kanten,Nichols,Longview,TE,0:08:40,UNT
+13,513333,Kanten,Nichols,Denton,TX,0:08:40,UNT
 14,523475,Carson,Steinmann,Granbury,TX,0:08:42,Baylor
 15,466583,Miguel,Solano,Richardson,TX,0:08:44,UTD
 16,0,,Pontcik,,,0:08:45,A&M
@@ -202,7 +202,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,524299,Madeleine,Jennings,San Marcos,TX,0:10:17,TSU
 2,525244,Stephanie,Slapik,Austin,TX,0:10:59,UTA
 3,525379,Marcela,Sanchez,San Antonio,TX,0:12:17,UTA
-4,525573,Savannah,Porter,Gray,LA,0:14:44,Nicholls
+4,525573,Savannah,Porter,Thibodaux,LA,0:14:44,Nicholls
 5,466455,Ashley,Krupa,Austin,TX,0:15:22,UTA
 6,481472,Lily,Stagg,Lafayette,LA,0:16:32,UL Lafayette
 
@@ -248,7 +248,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,460588,Shane,Sirignano,Denton,TX,,UNT
 10,0,,Stankard,,,,A&M
 11,429856,Jacob,Bremer,Austin,TX,,UTA
-12,513333,Kanten,Nichols,Longview,TE,,UNT
+12,513333,Kanten,Nichols,Denton,TX,,UNT
 13,516423,Nico,Guzman,San Marcos,TX,,TSU
 14,425919,Mark,Keilbarth,Tulsa,OK,,OU
 15,0,Clayton,Niemietz,,,,A&M
@@ -315,7 +315,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,525244,Stephanie,Slapik,Austin,TX,,UTA
 3,466455,Ashley,Krupa,Austin,TX,,UTA
 4,525379,Marcela,Sanchez,San Antonio,TX,,UTA
-5,525573,Savannah,Porter,Gray,LA,,Nicholls
+5,525573,Savannah,Porter,Thibodaux,LA,,Nicholls
 6,481472,Lily,Stagg,Lafayette,LA,,UL Lafayette
 7,459933,Marissa,Taglieri,Highland Village,TX,,OU
 8,525768,Emma,Park,San Marcos,TX,,TSU

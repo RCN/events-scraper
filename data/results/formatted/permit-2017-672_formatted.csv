@@ -62,7 +62,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,279027,Stephen,Flora,Youngstwon,OH,2:31:31,
 21,174999,Bryan,Routledge,Pittsburgh,PA,2:32:36,ACA-Sette Nove
 22,246573,William,McElroy,Cranberry Twp,PA,2:35:41,n+1 Cycling p/b BPU Fin
-23,58659,David,Klinke,Morgantown ,WV,2:39:57,
+23,58659,David,Klinke,Morgantown,WV,2:39:57,
 24,398458,John,Holden,Chattanooga,TN,2:41:12,scv chattanooga
 25,50890,Kurt,Klavuhn,Saratoga,CA,2:46:59,
 DNS,418518,Timothy,Monk,Dublin,OH,,Audi
@@ -136,7 +136,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,528080,Wilson,Pyle,Sewickley,PA,2:21:20,
 7,286624,Mark,Beckner,Coraopolis,PA,2:22:01,
 8,0,Aaron,Buterbaugh,,,2:23:40,
-9,529494,Michael,Martys,Pittsburgh,PA,2:24:36,
+9,529494,Michael,Martys,Murrysville,PA,2:24:36,
 10,536718,Mark,Flaherty,Pittsburgh,PA,2:25:26,
 11,496969,Jacob,Brown,University Park,PA,2:25:30,Penn State Behrend
 12,111747,Matthew,Ball,Powder Spgs,GA,2:27:21,
@@ -170,20 +170,20 @@ DNF,503196,Colin,Curry,Sharpsburg,MD,,
 
 07/23/2017 Road Race Men Cat 3
 Place,License #,First,Last,City,State,Time,Team
-1,245927,Michael,Mihalik,Sewickley,PA,1:54:25,Jmac Cycling Novacare
+1,245927,Michael,Mihalik,Aliquippa,PA,1:54:25,Jmac Cycling Novacare
 2,467304,Scott,Coblentz,Frederick,MD,1:54:56,Antietam Velo Club
 3,293469,Jordan,Snyder,Rochester,PA,1:55:10,Novacare
-4,514785,Christopher,Peltzer,Johnstown,PA,1:55:48,La Prima Espresso
+4,514785,Christopher,Peltzer,Indiana,PA,1:55:48,La Prima Espresso
 5,370578,David,Stauffer,Arlington,VA,2:02:49,NCVC/UnitedHealthcare
 6,526492,Nate,Ricketts,Pittsburgh,PA,2:03:47,Juniata College/Aerotec
 7,411763,Brandon,Boyer,York,PA,2:04:31,The Cycle Works
 8,276811,Aaron,Shelmire,Pittsburgh,PA,2:08:22,NovaCare p/b JMac Cycli
 9,383210,James,Doyle,Staunton,VA,2:08:25,
-10,320586,Cameron,Quick,Gaithersburg ,MD,2:12:16,
+10,320586,Cameron,Quick,Gaithersburg,MD,2:12:16,
 11,400999,Kyle,Hitz,Pittsburgh,PA,2:14:56,La Prima Espresso Co. R
 12,141704,Evans,Rohrbaugh,Dallastown,PA,2:22:22,The Bike Shak
 DNS,418081,Brad,Bailey,Bloomington,IN,,La Prima Espresso Racing
-DNS,245927,Kyle,Mihalik,Sewickley,PA,,Jmac Cycling/Novacare
+DNS,245927,Kyle,Mihalik,Aliquippa,PA,,Jmac Cycling/Novacare
 
 07/23/2017 Road Race Women Master 45+
 Place,License #,First,Last,City,State,Time,Team
@@ -209,5 +209,5 @@ Place,License #,First,Last,City,State,Time,Team
 3,466135,Megan,Sybeldon,Pittsburgh,PA,2:20:07,Conemaugh Women's Racin
 4,194055,Stephanie,Swan,Pittsburgh,PA,2:23:22,Team Pathfinder p/b Bee
 5,404266,Shequaya,Bailey,Pittsburgh,PA,2:24:37,Conemaugh Women's Racin
-6,466552,Colleen,Grygier,Gibsonia,PA,2:32:05,Conemaugh Women's Racin
+6,466552,Colleen,Grygier,Wexford,PA,2:32:05,Conemaugh Women's Racin
 7,469156,Marielle,Ritchie,Enola,PA,2:44:55,

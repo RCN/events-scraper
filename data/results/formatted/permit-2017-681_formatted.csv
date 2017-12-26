@@ -15,18 +15,18 @@ Place,License #,First,Last,City,State,Time,Team
 11,237712,Sam,BASSETTI,Santa Rosa,CA,01:17.1,Herbalife p/b Marc Pro - Nature's Bakery
 12,181725,Daniel,HOLLOWAY,Boulder,CO,01:17.1,Texas Roadhouse
 13,304797,Matt,CHATLAONG,Roseville,CA,01:17.1,Herbalife p/b Marc Pro - Nature's Bakery
-14,342402,Kevin,GIRKINS,Austin,TX,01:17.1,ELBOWZ Racing p/b Synergy.O*
+14,342402,Kevin,GIRKINS,San Marcos,TX,01:17.1,ELBOWZ Racing p/b Synergy.O*
 15,188572,Andrew,DAHLHEIM,Greenville,SC,01:17.1,Arapahoe Resources
 16,279095,Eric,YOUNG,Boulder,CO,01:17.1,Rally Cycling*
 17,527248,Cesar,SERNA,Aguascalientes,AG,01:17.1,Rudys ritas
 18,286482,Karl,MENZIES,Ada,MI,01:17.1,Cylance Cycling*
 19,349134,Carson,LANGE,Austin,TX,01:17.2,Strike Cycling
-20,207262,Andrew,GOESSLING,El Cerrito,CA,01:17.2,Team Mike's Bikes p/b Equator Coffees
+20,207262,Andrew,GOESSLING,Oakland,CA,01:17.2,Team Mike's Bikes p/b Equator Coffees
 21,200977,Johnny,PURVIS,Parthenon,AR,01:17.2,Team OBP
 22,306291,Johnny,MITCHELL,Johnson City,TN,01:17.2,Palmetto State Medical Elite Cycling Team
 23,298338,Jack,MCCANN,Cincinnati,OH,01:17.2,First Internet Bank Cycling
 24,395255,Tanner,WARD,Little Rock,AR,01:17.2,Team OBP
-25,526732,Cullen,BROWNE,,,01:17.2,
+25,534570,Cullen,BROWNE,Tulsa,OK,01:17.2,
 26,338708,Colin,STRICKLAND,Austin,TX,01:17.2,Intelligentsia Racing
 27,336388,Corey,DAVIS,Danville,VA,01:17.2,Team Palmetto State Medical Elite Cycling Team
 28,398391,Kyle,STOFFAN-THORNTON,Boise,ID,01:17.2,208 Shred Squad p/b The Stoffan Foundation
@@ -45,7 +45,7 @@ Place,License #,First,Last,City,State,Time,Team
 41,205741,Stefan,ROTHE,Austin,TX,01:17.4,ELBOWZ Racing p/b Synergy.O*
 42,0,Joshua,TAYLOR,,,01:17.4,NSWIS
 43,432787,Chris,TOLLEY,Austin,TX,01:17.4,Super Squadra p/b Eliel Cycling
-44,230716,John,NOONAN,Evergreen,CO,01:17.4,Primal - Audi Denver
+44,230716,John,NOONAN,Tucson,AZ,01:17.4,Primal - Audi Denver
 45,533903,Dylan,SUNDERLAND,,,01:17.4,NSWIS
 46,312154,Michael,Gearren II,New Bern,NC,01:17.5,Cyclus Sports
 47,337040,Stephan,HIRSCH,Oklahoma City,OK,01:17.5,Arapahoe Resources
@@ -86,7 +86,7 @@ DNS,376368,Ian,LONDON,Denver,CO,,Primal - Audi Denver
 DNS,375247,Cyrus,PEARO,Denver,CO,,Primal - Audi Denver
 DNS,197714,Joseph,SCHMALZ,Lawrence,KS,,Elevate - KHS Pro Cycling*
 DNS,346092,John,BECKER,Fortville,IN,,First Internet Bank Cycling
-DNS,306325,William,MYERS,Orinda,CA,,Herbalife p/b Marc Pro - Nature's Bakery
+DNS,306325,William,MYERS,Davis,CA,,Herbalife p/b Marc Pro - Nature's Bakery
 DNS,360075,Christopher,ST. PETER,Little Rock,AR,,Intelligentsia-Allied
 DNS,493721,Miguel,SANTILLANES,,,,Joyerias Meza
 DNS,0,Juan Jose,GARCIA,,,,Joyerias Meza
@@ -100,7 +100,7 @@ DNS,210225,Garrick,VALVERDE,Lawrence,KS,,Olathe Subaru Trek Racing
 DNS,110309,Jason,WADDELL,Oklahoma City,OK,,Tulsa Wheelmen
 DNS,358709,Dylan,POSTIER,Stillwater,OK,,Tulsa Wheelmen
 DNS,254929,Michael,PINCUS,Pearland,TX,,Team CCR Roofing
-DNS,211435,Zack,ALLISON,Fort Collins ,CO,,Team Clif Bar
+DNS,211435,Zack,ALLISON,Fort Collins,CO,,Team Clif Bar
 DNS,237586,Kevin,MULLERVY,Centennial,CO,,Team Clif Bar
 DNS,290106,Austin,TURNER,Ogden,UT,,Team Clif Bar
 DNS,242560,Vinny,OWENS,Fresno,CA,,Team Clif Bar
@@ -146,9 +146,9 @@ DNF,345004,Daniel,LAUSIN,Willowick,OH,,Palmer/cspire fiber
 DNF,263324,Parker,KYZER,Spartanburg,SC,,Palmetto State Medical Elite Cycling Team
 DNF,504248,Todd,SATCHELL,,,,Satalyst Verve Racing Team
 DNF,239925,Ryan,DUPREE,Tulsa,OK,,Soundpony Triad Bank
-DNF,504799,Peter,FOERSTER,,,,Stradalli Cycle/Safetti
+DNF,504799,Peter,FOERSTER,Atlanta,GA,,Stradalli Cycle/Safetti
 DNF,424332,Jose Frank,RODRIGUEZ,Miami,FL,,Stradalli Cycle/Safetti
-DNF,310983,TC,PORTERFIELD,Bertram,TX,,Strike Cycling
+DNF,310983,TC,PORTERFIELD,Austin,TX,,Strike Cycling
 DNF,396216,Trevor,Jackson,Salt Lake City,UT,,Palmer Cycling
 
 06/11/2017 Criterium Men Cat 3/4 Master 40-99
@@ -178,11 +178,11 @@ Place,License #,First,Last,City,State,Time,Team
 23,394596,Steven,JENNINGS,Tulsa,OK,00:25.2,Soundpony
 24,363382,Kevin,BAINS,Longmont,CO,00:25.3,Houndstooth Racing
 25,426804,Jason,HOLLAND,Broken Arrow,OK,00:25.3,Bixby Bicycles/Cycling For Success
-26,400785,Jeff,MAKOHON,Rockwall,TX,00:25.4,Rockwall Racing
+26,400785,Jeff,MAKOHON,Heath,TX,00:25.4,Rockwall Racing
 27,321548,Nathan,AUST,Grand Prairie,TX,00:25.4,B&B Trek Racing
 28,469236,Jason,BRADBERRY,Dallas,TX,00:25.4,Mirage
-29,502418,Dave,MARTIN,San Antoniosan Antonio,TX,00:25.4,Blitz Racing
-30,268618,Jaime,CANCEL,Fort Smith,AR,00:25.4,Walmart/GPP Cycling Team
+29,502418,Dave,MARTIN,San Antonio,TX,00:25.4,Blitz Racing
+30,268618,Jaime,CANCEL,Queen Creek,AZ,00:25.4,Walmart/GPP Cycling Team
 31,273121,Jason,ROSS,Rockwall,TX,00:25.4,Rockwall Racing
 32,350074,JP,SLOSAR,Edwardsville,IL,00:25.4,The Cyclery and Fitness Center
 33,234056,James,MURFF,Austin,TX,00:26.1,Bat City Cycling
@@ -190,7 +190,7 @@ Place,License #,First,Last,City,State,Time,Team
 35,367248,Tony,BOUSO,Houston,TX,00:26.2,Team LaS'port
 36,153520,Matt,TYNAN,Austin,TX,00:27.0,VooDoo Racing
 37,237854,Jeff,NOON,Mansfield,TX,00:27.1,Team Cadence Cyclery  P. B Mini of Plano
-38,348332,Kelly,MADDUX,Sand Springs,OK,00:27.2,Team Air Assurance p/b AVB Bank
+38,348332,Kelly,MADDUX,Tulsa,OK,00:27.2,Team Air Assurance p/b AVB Bank
 39,212902,Manuel,ALBA,Irving,TX,00:27.6,Hilltop Racing
 40,412262,Gabriel,VENTER,Houston,TX,00:28.1,
 41,259092,Rick,SWAGLER,Birmingham,AL,00:28.1,Six26 Cycling
@@ -235,7 +235,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,153504,Mark,NIIRO,Dallas,TX,00:59.3,Bicycles Plus Racing
 10,347112,Austin,GOMES,Florissant,MO,00:59.3,Quantum Solutions Intelligentsia
 11,397914,Braxton,MUNDELL,Broken Arrow,OK,00:59.3,Team OBP
-12,272809,Ricky,RANDALL,Highland Village ,TX,00:59.3,Arapahoe Resources
+12,272809,Ricky,RANDALL,Highland Village,TX,00:59.3,Arapahoe Resources
 13,525837,Frank,SUTTON,Mckinney,TX,00:59.3,
 14,380276,Grayson,KEPPLER,Dallas,TX,00:59.3,Giant Lakeside p.b. Mini of Plano
 15,379175,Jesse,SIEMEN,St Louis,MO,00:59.3,Michelob Ultra - Big Shark Racing
@@ -252,7 +252,7 @@ Place,License #,First,Last,City,State,Time,Team
 26,291935,James,Hilyer,Durango,CO,00:59.3,
 27,331558,Grant,NAJERA,Tulsa,OK,00:59.3,Soundpony Triad Bank
 28,357344,Alex,GONZALEZ,Cedar Park,TX,00:59.3,Strike Cycling
-29,441005,Angel,MUNOZ,Newhall,CA,00:59.3,ENDO Concept Team
+29,441005,Angel,MUNOZ,New Hall,CA,00:59.3,ENDO Concept Team
 30,175928,Chad,HODGES,Moore,OK,00:59.3,DNA Racing/Garneau
 31,529695,Brian,BABILONIA,Garland,TX,00:59.3,
 32,291129,Rob,SANDUSKY,Frisco,TX,00:59.4,Matrix/RBM
@@ -271,7 +271,7 @@ Place,License #,First,Last,City,State,Time,Team
 45,260213,Evangelos,Gatseos,Denver,CO,00:59.4,Sonic Boom Racing Team
 46,295711,Jonathan,HUGHES,Austin,TX,00:59.5,Daswow Racing
 47,457146,Erich,Mesquita Lima,Mars Hill,NC,00:59.5,Monster Media
-48,424626,Randy,LEE,Richardson,TX,00:59.6,Bicycles Plus Racing
+48,424626,Randy,LEE,Dallas,TX,00:59.6,Bicycles Plus Racing
 49,393730,Alvin,ESCAJEDA,Pomona,CA,01:00.3,Endo Concept Team
 50,354880,Tyler,STEWART,Austin,TX,01:01.1,Giant Lakeside p.b. Mini of Plano
 51,167018,Jeremy,STITT,Tulsa,OK,,SNRG Racing
@@ -292,7 +292,7 @@ DNF,186238,Devin,CLARK,St. Louis,MO,,Michelob Ultra Big Shark
 DNF,333350,Bill,BOOTH,Seattle,WA,,Monton TM Racing
 DNF,454141,Mark,DEBOER,Blue Springs,MO,,Move Up Development
 DNF,365848,Matthew,LEDBETTER,Shawnee,KS,,Move Up Development
-DNF,459347,Matt,LANIER,Edmond,OK,,OKC Velo Bike Lab
+DNF,459347,Matt,LANIER,Oklahoma City,OK,,OKC Velo Bike Lab
 DNF,413813,Andrew,ARNOLD,Gunnison,CO,,Peloton Racing p/b Northern Backup
 DNF,224182,Adam,FIVEHOUSE,Denver,CO,,Primal-Audi Denver
 DNF,418091,Ian,SEIBERT,Peculiar,MO,,Quantum Solutions Intelligentsia
@@ -321,7 +321,7 @@ DNF,353046,Benjamin,CRAIG,Bentonville,AR,,Tyson Foods Cycling Team
 DNF,246407,Will,FRANK,Bentonville,AR,,Tyson Foods Cycling Team
 DNF,367809,Christian,NEWTON,Friendswood,TX,,Voodoo Racing
 DNF,527909,Sam,THORPE-LOVERSUCH,Mckinny,TX,,
-DNF,530396,Jarrod,MORONI,,,,
+DNF,530396,Jarrod,MORONI,Oceanside,CA,,
 DNF,0,Ben,WILLIAMS,,,,
 DNF,69378,Bret,CROSBY,Dallas,TX,,Bicycles Plus Racing
 DNF,424733,Cameron,BOND,Valencia,CA,,Endo Concept Team
@@ -351,8 +351,8 @@ DNF,253770,Diego,BINATENA,Playa Del Rey,CA,,Endo Concept Team
 DNF,404003,Christian,MOLINA,La Crescenta,CA,,Endo Concept Team
 DNF,414050,Dante,YOUNG,Pacoima,CA,,Endo Concept Team
 DNF,316020,Dillon,FOWLER,Keller,TX,,Evoke Elite Racing
-DNF,157827,Corey,RAY,Mckinney,TX,,Giant Lakeside p.b. Mini of Plano
-DNF,368638,Kyle,WALKER,Lubbock ,TX,,Giant Lakeside p.b. Mini of Plano
+DNF,157827,Corey,RAY,Green River,WY,,Giant Lakeside p.b. Mini of Plano
+DNF,368638,Kyle,WALKER,Fort Worth,TX,,Giant Lakeside p.b. Mini of Plano
 DNF,375072,Aston,HASWELL,Fort Worth,TX,,Giant Lakeside pb MINI of Plano
 
 06/11/2017 Criterium Men Cat 5 10-34
@@ -385,7 +385,7 @@ Place,License #,First,Last,City,State,Time,Team
 26,424142,Garrett,BROWN,Fayetteville,AR,00:30.4,
 27,461002,Gabriel,LANE,Sand Springs,OK,00:30.5,
 28,458194,Brian,BOLTON,Tulsa,OK,00:30.5,Team Soundpony
-29,526443,Jordan,LAMBERT,Lees Summit,MO,00:31.1,Bicycle Shack Racing
+29,526443,Jordan,LAMBERT,Lee's Summit,MO,00:31.1,Bicycle Shack Racing
 30,529155,Kyle,KUSIK,Tulsa,OK,00:31.1,
 31,0,Ryan,BIGGIAM,,,00:32.2,
 32,470488,Jeffrey,BELTRAN,Bixby,OK,00:33.0,Festlig Norsk
@@ -477,7 +477,7 @@ Place,License #,First,Last,City,State,Time,Team
 27,460458,Jamie,TEETER,Tulsa,OK,00:43.3,Soundpony/ Triad Bank
 28,153566,Chris,HURST,Little Rock,AR,00:43.4,Pinnacle Velo
 29,494806,Christopher,BALDWIN,Denver,CO,00:43.4,
-30,458722,Matt,SHANER,Austin,TX,00:43.4,Weaver Technologies Racing
+30,458722,Matt,SHANER,Joplin,MO,00:43.4,Weaver Technologies Racing
 31,407002,Andy,NELSON,Lonsdale,AR,00:43.4,Pinnacle Velo
 32,382527,John,EDDINGTON,Flower Mound,TX,00:43.4,PACC - Plano Cycle & Fitness
 33,335616,Saul,GUTIERREZ,Austin,TX,00:43.4,Weaver Technologies Racing
@@ -516,18 +516,18 @@ Place,License #,First,Last,City,State,Time,Team
 66,428195,Donald,MORGAN,Tulsa,OK,00:46.5,Team Pentabike
 67,466802,Shane,FOSTER,Broken Arrow,OK,00:46.5,Tulsa Wheelmen
 68,416734,Ian,PEPIN,Lawrence,KS,00:46.5,Move Up Development
-69,442839,Luke,GROOM,Navarre,FL,00:46.5,
+69,442839,Luke,GROOM,Albuquerque,NM,00:46.5,
 70,349470,Andrew,MATTINGLY,Flower Mound,TX,00:46.5,GS Tenzing
 71,393186,Shawn,HAYDEN,Springfield,MO,00:46.5,Kuat Trek P/B A&B Cycle
 72,475376,Spencer,LEAVITT,Bixby,OK,00:46.5,None
 73,157986,Gant,NEWSOM,Jenks,OK,00:46.5,Tulsa Bone and Joint
 74,488124,Brandon,RINGER,Universal City,TX,00:46.5,
 75,438974,Rick,REESE,Tulsa,OK,00:46.5,Transitions LifeCare p/b InSync Rx
-76,403642,Zach,HATCHER,Carthage,MO,00:46.5,
+76,403642,Zach,HATCHER,Weat Fork,AR,00:46.5,
 77,391470,Daniel,BROWN,Tulsa,OK,00:46.5,Transition Life
 78,407921,Dean,BELIERA,Tulsa,OK,00:46.5,
 79,377861,Christopher,FRAZIER,Owasso,OK,00:46.5,
-80,382333,Bob,INGRAM,Lewisville,TX,00:46.5,Matrix Cycling
+80,382333,Bob,INGRAM,The Colony,TX,00:46.5,Matrix Cycling
 81,458831,Jonathan,TRAUGHBER,Springfield,MO,00:46.5,Team kuat
 
 06/11/2017 Criterium Men Cat 3
@@ -566,7 +566,7 @@ Place,License #,First,Last,City,State,Time,Team
 32,482118,Timothy,PALYUKH,Lewisville,TX,00:44.4,Bicycles Plus Racing
 33,61012,Jesus,CHAPARRO,Allen,TX,00:44.5,Windsor Door Racing p/b Bicycle Plus
 34,378105,Brad,SCHRAG,Springdale,AR,00:44.5,Experience Fayetteville Racing Team
-35,466674,Brandon,WOLD,Oklahoma City,OK,00:46.4,DNA Racing
+35,466674,Brandon,WOLD,Andover,MN,00:46.4,DNA Racing
 DNF,422782,Ryan,AMEEN,Tulsa,OK,,Bixby Bicycle Works
 DNF,230217,Rudy,ARREDONDO,Mesquite,TX,,Rudysritas
 DNF,418888,Jose,BAKER,Houston,TX,,Shama Cycles Road Race Team
@@ -591,7 +591,7 @@ DNF,356617,Tim,JANSEN,Lenexa,KS,,GP Velotek
 DNF,394596,Steven,JENNINGS,Tulsa,OK,,Soundpony
 DNF,309806,James,JONES,Sapulpa,OK,,Soundpony Triad Bank
 DNF,466881,Jay,JUDEH,San Marcos,TX,,Primal-Audi Denver
-DNF,288691,James,KENNEDY,Lewisville,TX,,Bicycles Plus
+DNF,288691,James,KENNEDY,Dallas,TX,,Bicycles Plus
 DNF,290426,Shawn,KNIGHT,Shawnee,KS,,KCBC
 DNF,416974,Casey,LANG,Saint Louis,MO,,Quantum Solutionsinc
 DNF,339446,Joseph,Laochaloenvanich,Austin,TX,,Voodoo Racing
@@ -683,7 +683,7 @@ Place,License #,First,Last,City,State,Time,Team
 25,85353,Carter,JOHNSTON,Oklahoma City,OK,00:45.0,okc velo
 26,31665,Chris,SCHMIEDEKE,Dallas,TX,00:45.0,
 27,49386,Matt,DUNCAN,Louisville,CO,00:45.1,Houndstooth Racing
-28,392104,Doug,ZELL,Little Rock ,AR,00:45.1,Intelligentsia Coffee
+28,392104,Doug,ZELL,Lockhart,TX,00:45.1,Intelligentsia Coffee
 29,199996,Mark,RAWLINGS,Dallas,TX,00:45.1,GS Tenzing
 30,131183,Christopher,HILL,Austin,TX,00:45.1,DNA Cycling p/b Onion Creek Volkswagen
 31,47037,Peter,BELAND,Little Rock,AR,00:45.1,Walmart/GPP Cycling
@@ -733,7 +733,7 @@ DNF,308046,John,TYE,Raytown,MO,,Bicycle Shack Racing
 DNF,312188,Craig,KEANE,Rockwall,TX,,Rockwall Racing
 DNF,29856,Joel,RIERSON,Austin,TX,,Mellow Johnny's Racing
 DNF,275246,Brian,HOARD,Austin,TX,,DNA Cycling p/b Onion Creek Volkswagen
-DNF,406399,Simon,PHUAH,Downers Grove,IL,,INTENT
+DNF,406399,Simon,PHUAH,Littleton,CO,,INTENT
 DNF,374931,Chad,PLUMLEE,Prosper,TX,,Team Cadence Cyclery p.b. MINI of Plano
 
 06/11/2017 Criterium Men Junior All 9-14
@@ -745,7 +745,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,403098,Seth,INURRIGARRO,Forney,TX,00:00.0,Rockwall Racing
 6,509433,Asa,CHILD,Ashland,MO,00:00.0,Velo Childeric
 7,509434,Rowan,CHILD,Ashland,MO,00:00.0,Velo Childeric
-8,388289,Tayton,PARKER,Jenks,OK,00:00.0,Air Assurance Devo
+8,388289,Tayton,PARKER,Tulsa,OK,00:00.0,Air Assurance Devo
 9,424586,Evan,COLES,Tulsa,OK,00:00.0,Soundpony Triad Bank
 10,448616,Ryan,Drummond,Oklahoma City,OK,00:00.0,
 11,418572,Luke,REILLY,Tulsa,OK,00:00.0,Oklahoma Flyers
@@ -760,11 +760,11 @@ Place,License #,First,Last,City,State,Time,Team
 20,533945,Caleb,SIMS,Inola,OK,00:00.0,
 21,502223,Jaxon,HALL,Tulsa,OK,00:00.0,Ok FF Burn Camp
 DNS,487957,Mack,SUNDE,Vermillion,SD,,
-DNS,414448,Michael,WATKINS,Harrah,OK,,
+DNS,414448,Michael,WATKINS,Choctaw,OK,,
 
 06/11/2017 Criterium Women Pro/Cat 1/2 PRT 1
 Place,License #,First,Last,City,State,Time,Team
-1,509477,Peta,MULLENS,Tulsa,OK,01:02.4,Hagens Berman | Supermint*
+1,509477,Peta,MULLENS,Oceanside,CA,01:02.4,Hagens Berman | Supermint*
 2,174914,Erica,ALLAR,Demorest,GA,01:02.4,Rally Cycling*
 3,300089,Skylar,SCHNEIDER,West Allis,WI,01:02.4,ISCorp Powered By Progress Software*
 4,282412,Ellen,NOBLE,Kennebunkport,ME,01:02.5,Colavita/Bianchi USA*
@@ -796,7 +796,7 @@ Place,License #,First,Last,City,State,Time,Team
 30,432770,Natalia,Franco,Grand Junction,CO,01:02.6,Pastaria - Big Shark Racing*
 31,529804,Caroline,BAUR,,,01:03.0,ISCorp Powered By Progress Software*
 32,0,Lucy,BECHTEL,,,01:03.0,Fearless Femme Racing
-33,288729,Jennifer,WAGNER,Houston ,TX,01:03.0,Team Elevate Racing
+33,288729,Jennifer,WAGNER,Houston,TX,01:03.0,Team Elevate Racing
 34,460027,Madison,KELLY,Naples,FL,01:03.1,Papa John's Racing p/b Trek
 35,307212,Stefanie,SYDLIK,Pittsburgh,PA,01:03.1,Visit Dallas DNA Pro Cycling*
 36,527907,Abby,SNEDDON,Gwandalan,NS,01:03.1,RoxsoltAttaquer
@@ -808,7 +808,7 @@ Place,License #,First,Last,City,State,Time,Team
 42,201838,Laurel,RATHBUN,Monument,CO,01:03.3,Papa John's Racing p/b TREK
 43,397217,Monica,VOLK,Kempton,PA,01:03.3,Rally Cycling*
 44,280870,Jennifer,LUEBKE,Bend,OR,01:04.3,Visit Dallas DNA Pro Cycling*
-DNS,355078,Mandy,HEINTZ,Phoenix,AZ,,Visit Dallas DNA Pro Cycling*
+DNS,355078,Mandy,HEINTZ,Scottsdale ,AZ,,Visit Dallas DNA Pro Cycling*
 DNS,529383,Alana,HAANSBERGEN,,,,USG Racing Team
 DNS,518425,Caroline,POOLE,Little Rock,AR,,Yoga Box Racing p/b Transitions LifeCare
 DNS,310867,Britta,SIEGEL,Saint Louis,MO,,Alriksson/ Kinds Go:Green
@@ -852,7 +852,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,488878,Chrissie,Smolders Gomez,Austin,TX,00:27.4,Team Yacht Club
 5,499581,Leigh Ann,FIELDS,Tulsa,OK,00:27.4,Pandemonium Cycling p/b Hodges Bend
 6,511396,Cecilia,VICHIER-GUERRE,Austin,TX,00:27.4,Violet Crown Sport Association
-7,506931,Finn,TAYLOR,Tulsa,OK,00:27.4,Yoga Box Racing p/b Transitions LifeCare
+7,506931,Finn,TAYLOR,Fayetteville,AR,00:27.4,Yoga Box Racing p/b Transitions LifeCare
 8,493908,Abby,WINTHER,Birmingham,AL,00:27.4,Steel City She
 9,497332,Chelsea,GORBET,Carnegie,OK,00:27.4,TULSA WHEELMAN
 10,397724,Casandra,DICKERSON,Tulsa,OK,00:28.1,Team Isocentric
@@ -890,7 +890,7 @@ DNF,265833,Donna,GARLAND,Oklahoma City,OK,,
 06/11/2017 Criterium Women Cat 3
 Place,License #,First,Last,City,State,Time,Team
 1,408347,Elizabeth,KIEFFER,Columbus,IN,00:30.5,First Internet Bank Cycling
-2,455528,Shelby,TRAMEL,San Francisco,CA,00:30.5,RAZZLE DAZZLE
+2,455528,Shelby,TRAMEL,Oakkland,CA,00:30.5,RAZZLE DAZZLE
 3,423019,Bridget,TOOLEY,Frisco,TX,00:30.5,Merritt Hawkins AMN / Sun and Ski
 4,472366,Caitlin,FRIESEN,Austin,TX,00:30.5,Athlete Architecture p/b Hyperthreads
 5,482157,Allie,MORGAN,Colorado Springs,CO,00:30.5,Naked Women's Cycling
@@ -904,7 +904,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,471827,Katy,SIMMONS,Little Rock,AR,00:30.6,Yoga Box Racing p/b Transitions LifeCare
 14,478075,Neidi,MILLER,Dallas,TX,00:31.3,PACC Racing
 15,423747,Monica,MERCED,Austin,TX,00:31.3,PHENOM p/b Phobio
-16,340844,Jennifer,WILSON,Cambridge,MA,00:31.3,RAZZLE DAZZLE
+16,340844,Jennifer,WILSON,Los Gatos,CA,00:31.3,RAZZLE DAZZLE
 17,323042,Morgan,MILLER,Charleston,TN,00:31.3,CTH Performance Project
 18,386370,Abigail,YATES,Rowlett,TX,00:31.4,Matrix/RBM
 19,432552,Heather,LAUFER,Oklahoma City,OK,00:31.4,
@@ -957,9 +957,9 @@ Place,License #,First,Last,City,State,Time,Team
 19,178970,Mat,STEPHENS,Dallas,TX,21,Arapahoe Resources
 20,234696,Curtis,WHITE,Delanson,NY,20,Rally Cycling*
 21,188572,Andrew,DAHLHEIM,Greenville,SC,19,Arapahoe Resources
-22,342402,Kevin,GIRKINS,Austin,TX,16,ELBOWZ Racing p/b Synergy.O*
+22,342402,Kevin,GIRKINS,San Marcos,TX,16,ELBOWZ Racing p/b Synergy.O*
 23,277433,Zachary,CARLSON,Indianapolis,IN,14,Texas Roadhouse
-24,207262,Andrew,GOESSLING,El Cerrito,CA,13,Team Mike's Bikes p/b Equator Coffees
+24,207262,Andrew,GOESSLING,Oakland,CA,13,Team Mike's Bikes p/b Equator Coffees
 25,200977,Johnny,PURVIS,Parthenon,AR,12,Team OBP
 26,333154,Skyler,MACKEY,Tulsa,OK,10,Transitions LIfeCare p/b InSync Rx
 27,467841,Ryan,Aitcheson,,,9,First Internet Bank Cycling
@@ -967,7 +967,7 @@ Place,License #,First,Last,City,State,Time,Team
 29,349134,Carson,LANGE,Austin,TX,8,Strike Cycling
 30,529350,Russell,GILL,,,8,
 31,306291,Johnny,MITCHELL,Johnson City,TN,6,Palmetto State Medical Elite Cycling Team
-32,526732,Cullen,BROWNE,,,6,
+32,534570,Cullen,BROWNE,Tulsa,OK,6,
 33,186238,Devin,Clark,St. Louis,MO,5,
 34,298338,Jack,MCCANN,Cincinnati,OH,3,First Internet Bank Cycling
 35,338708,Colin,STRICKLAND,Austin,TX,3,Intelligentsia Racing
@@ -998,7 +998,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,269465,Chris,DRUMMOND,Tulsa,OK,9,Soundpony
 21,424733,Cameron,BOND,Valencia,CA,9,Endo Concept Team
 22,6135,Chris,CARLSON,Plano,TX,9,Matrix/RBM
-23,272809,Ricky,RANDALL,Highland Village ,TX,9,Arapahoe Resources
+23,272809,Ricky,RANDALL,Highland Village,TX,9,Arapahoe Resources
 24,15149,Chris,HARRE,Webster Groves,MO,8,Michelob Ultra - Big Shark Racing
 25,414050,Dante,YOUNG,Pacoima,CA,8,Endo Concept Team
 26,413813,Andrew,ARNOLD,Gunnison,CO,5,Peloton Racing p/b Northern Backup
@@ -1008,7 +1008,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 06/11/2017 Omnium Women Pro/Cat 1/2 PRT 1
 Place,License #,First,Last,City,State,Time,Team
-1,509477,Peta,MULLENS,Tulsa,OK,85,Hagens Berman | Supermint*
+1,509477,Peta,MULLENS,Oceanside,CA,85,Hagens Berman | Supermint*
 2,174914,Erica,ALLAR,Demorest,GA,82,Rally Cycling*
 3,300089,Skylar,SCHNEIDER,West Allis,WI,77,ISCorp Powered By Progress Software*
 4,282412,Ellen,NOBLE,Kennebunkport,ME,63,Colavita/Bianchi USA*
@@ -1027,19 +1027,19 @@ Place,License #,First,Last,City,State,Time,Team
 18,202033,Starla,TEDDERGREEN,Portland,OR,21,Hagens Berman | Supermint*
 19,353750,Anna Grace,CHRISTIANSEN,Portland,OR,18,LA Sweat*
 20,531310,Ashlee,ANKUDINOFF,,,18,NSWIS Sydney Uni
-21,355078,Mandy,HEINTZ,Phoenix,AZ,18,Visit Dallas DNA Pro Cycling
+21,355078,Mandy,HEINTZ,Scottsdale ,AZ,18,Visit Dallas DNA Pro Cycling
 22,529694,Daniely,GARCIA,,TX,17,Dallas Racing
 23,481904,Emma,GRANT,Norwich,VT,16,Colavita|Bianchi
 24,530793,MIchaela,DRUMMOND,,,15,Visit Dallas DNA Pro Cycling
 25,361902,Alexandra,BURTON,Portland,OR,14,Point S Racing
 26,379241,Flora,YAN,Plano,TX,13,Fearless Femme Racing
 27,531867,Nicola,MACDONALD,,,13,NSWIS Sydney Uni
-28,512762,Lily,Williams,Chicago,IL,11,
+28,512762,Lily,Williams,Asheville,NC,11,
 29,366797,Caitlin,LAROCHE,Manitou Springs,CO,9,Rally Cycling*
 30,528363,Rylee,MCMULLEN,Auckland,,8,RoxsoltAttaquer
 31,529804,Caroline,BAUR,,,8,ISCorp Powered By Progress Software*
 32,397217,Monica,VOLK,Kempton,PA,7,Rally Cycling*
-33,332072,Katie,Clouse,Littleton ,CO,6,Visit Dallas DNA Pro Cycling
+33,332072,Katie,Clouse,Park City,UT,6,Visit Dallas DNA Pro Cycling
 34,89443,Tiffany,PEZZULO,Salt Lake City,UT,6,LA Sweat*
 35,418082,Erica,CLEVENGER,Tucson,AZ,5,Visit Dallas DNA Pro Cycling
 36,432770,Natalia,Franco,Grand Junction,CO,5,Pastaria - Big Shark Racing*
@@ -1072,16 +1072,16 @@ Place,License #,First,Last,City,State,Time,Team
 19,200977,Johnny,PURVIS,Parthenon,AR,01:22.1,Team OBP
 20,188572,Andrew,DAHLHEIM,Greenville,SC,01:22.1,Arapahoe Resources
 21,186238,Devin,CLARK,St. Louis,MO,01:22.1,Pastaria Big Shark
-22,342402,Kevin,GIRKINS,Austin,TX,01:22.1,ELBOWZ Racing p/b Synergy.O
+22,342402,Kevin,GIRKINS,San Marcos,TX,01:22.1,ELBOWZ Racing p/b Synergy.O
 23,338708,Colin,STRICKLAND,Austin,TX,01:22.1,Intelligentsia Racing
 24,306291,Johnny,MITCHELL,Johnson City,TN,01:22.1,Palmetto State Medical Elite Cycling Team
-25,526732,Cullen,BROWNE,,,01:22.1,
+25,534570,Cullen,BROWNE,Tulsa,OK,01:22.1,
 26,263324,Parker,KYZER,Spartanburg,SC,01:22.1,Palmetto State Medical Elite Cycling Team
 27,528230,Alberto,COVARRUBIAS,Springdale,AR,01:22.1,Stradalli Cycle/Safetti
 28,272180,Jacob,WHITE,Pauls Valley,OK,01:22.1,Team OBP
-29,207262,Andrew,GOESSLING,El Cerrito,CA,01:22.1,Team Mike's Bikes p/b Equator Coffees
+29,207262,Andrew,GOESSLING,Oakland,CA,01:22.1,Team Mike's Bikes p/b Equator Coffees
 30,349134,Carson,LANGE,Austin,TX,01:22.1,Strike Cycling
-31,263035,Andrew,GINIAT,Winnetka,IL,01:22.1,
+31,263035,Andrew,GINIAT,Asheville,NC,01:22.1,
 32,466134,Pablo,CRUZ,Wichita Falls,TX,01:22.1,Pablo's Coffee Ride
 33,286105,Ryan,GABRIEL,Tulsa,OK,01:22.1,Tulsa wheelmem
 34,269412,Adam,KOBLE,Tulsa,OK,01:22.2,Team OBP
@@ -1115,9 +1115,9 @@ Place,License #,First,Last,City,State,Time,Team
 62,504248,Todd,SATCHELL,,,01:22.3,Satalyst Verve Racing Team
 63,194743,Winston,DAVID,Greenville,SC,01:22.4,Palmetto State Medical Elite Cycling Team
 64,0,Jesse,KELLY,,,01:22.4,Merritt Hawkins AMN/ Sun and Ski
-65,310983,TC,PORTERFIELD,Bertram,TX,01:22.4,Strike Cycling
+65,310983,TC,PORTERFIELD,Austin,TX,01:22.4,Strike Cycling
 66,368147,Alex,MCLAUGHLIN,Louisville,KY,01:22.4,Texas Roadhouse
-67,211435,Zack,ALLISON,Fort Collins ,CO,01:22.4,Team Clif Bar
+67,211435,Zack,ALLISON,Fort Collins,CO,01:22.4,Team Clif Bar
 68,240584,Brant,SPEED,Austin,TX,01:22.4,ELBOWZ Racing p/b Synergy.O
 69,0,Jose Alfredo,AGUIRRE INFANTE,,,01:22.5,CANEL'S SPECIALIZED
 70,270997,Robert,SROKA,North Royalton,OH,01:22.6,First Internet Bank Cycling
@@ -1127,7 +1127,7 @@ Place,License #,First,Last,City,State,Time,Team
 74,368618,Jake,HENNINGSEN,Cincinnati,OH,01:23.2,Team Hungry
 75,493721,Miguel,SANTILLANES,,,01:23.2,Joyerias Meza
 76,0,Jose Ramon,AGUIRRE INFANTE,,,01:23.3,Nick Lopez Tailoring Cycling Team
-77,230716,John,NOONAN,Evergreen,CO,01:23.3,Primal - Audi Denver
+77,230716,John,NOONAN,Tucson,AZ,01:23.3,Primal - Audi Denver
 78,239925,Ryan,DUPREE,Tulsa,OK,01:23.3,Soundpony Triad Bank
 79,366682,Scott,WILLIAMSON,Lawrence ,KS,01:23.3,Olathe Subaru Trek Racing
 80,379658,Chaz,HOGENAUER,Boise,ID,01:23.3,CSU Cycling
@@ -1150,7 +1150,7 @@ DNF,0,Hunter,GROVE,,,,Cylance Cycling*
 DNF,197316,Justin,WILLIAMS,Los Angeles,CA,,Cylance Cycling*
 DNF,325930,Jefferey,MAY,Greenville,TX,,Dallas Racing
 DNF,197714,Joseph,SCHMALZ,Lawrence,KS,,Elevate - KHS Pro Cycling*
-DNF,504799,Peter,FOERSTER,,,,Stradalli Cycle/Safetti
+DNF,504799,Peter,FOERSTER,Atlanta,GA,,Stradalli Cycle/Safetti
 DNF,424332,Jose Frank,RODRIGUEZ,Miami,FL,,Stradalli Cycle/Safetti
 DNF,66580,Jacob,LASLEY,Broken Arrow,OK,,Soundpony Triad Bank
 DNF,178109,Andy,SCARANO,Athens,GA,,Stradalli Cycle/Safetti
@@ -1160,7 +1160,7 @@ DNF,333154,Skyler,MACKEY,Tulsa,OK,,Transitions LIfeCare p/b InSync Rx
 DNF,237726,Conor,MULLERVY,Boulder,CO,,Team Clif Bar
 DNF,494043,Leon,GLEDHILL,,,,Team Mike's Bikes p/b Equator Coffees
 DNF,237712,Sam,BASSETTI,Santa Rosa,CA,,Herbalife p/b Marc Pro - Nature' Bakery*
-DNF,306325,William,MYERS,Orinda,CA,,Herbalife p/b Marc Pro - Nature' Bakery*
+DNF,306325,William,MYERS,Davis,CA,,Herbalife p/b Marc Pro - Nature' Bakery*
 DNF,360075,Christopher,ST. PETER,Little Rock,AR,,Intelligentsia-Allied
 DNF,0,Alan,DE LA CRUZ,,,,Joyerias Meza
 DNF,535286,Philip,CLARKE,Garland,TX,,Merritt Hawkins AMN/ Sun and Ski
@@ -1168,7 +1168,7 @@ DNF,394667,Chris,REA,Simi Valley,CA,,Monster Media Racing
 DNF,0,Roberto Rai,MUNOZ GARZA,,,,Nick Lopez Tailoring Cycling Team
 DNF,533916,Ryan,CAVANAGH,,,,NSWIS
 DNF,339018,Luke,MOMPER,Fort Wayne,IN,,Quantum Solutions Intelligentsia
-DNF,58176,Nathan,ROGUT,Tampa,FL,,Velobrew--AV Homes
+DNF,58176,Nathan,ROGUT,Rock Hill,SC,,Velobrew--AV Homes
 
 06/10/2017 Criterium Men Cat 3/4 Master 40-99
 Place,License #,First,Last,City,State,Time,Team
@@ -1192,7 +1192,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,294255,Rick,FRANCIS,Mansfield,TX,00:45.4,B&B Trek Racing
 19,459498,Nathan,PENNY,Phoenix,AZ,00:45.4,MORE Cycling Team
 20,524043,David,SANTIAGO,San Antonio,TX,00:45.4,Blitz Racing
-21,502418,Dave,MARTIN,San Antoniosan Antonio,TX,00:45.4,Blitz Racing
+21,502418,Dave,MARTIN,San Antonio,TX,00:45.4,Blitz Racing
 22,70730,Nick,ENGEL,Lavaca,AR,00:45.4,Walmart/GPP Cycling Team
 23,275246,Brian,HOARD,Austin,TX,00:45.4,DNA Cycling p/b Onion Creek Volkswagen
 24,370563,Dustin,SMITH,Oklahoma City,OK,00:45.4,Pro Bike Inc.
@@ -1202,7 +1202,7 @@ Place,License #,First,Last,City,State,Time,Team
 28,414881,Jason,ENGELKE,Edmond,OK,00:45.5,Transition Life Care
 29,394596,Steven,JENNINGS,Tulsa,OK,00:45.5,Soundpony
 30,318384,Viet,HOANG,Derby,KS,00:45.5,Unattached
-31,268618,Jaime,CANCEL,Fort Smith,AR,00:45.5,Walmart/GPP Cycling Team
+31,268618,Jaime,CANCEL,Queen Creek,AZ,00:45.5,Walmart/GPP Cycling Team
 32,234056,James,MURFF,Austin,TX,00:45.5,Bat City Cycling
 33,212902,Manuel,ALBA,Irving,TX,00:45.5,Hilltop Racing
 34,358854,Keith,BASSHAM,Owasso,OK,00:45.5,
@@ -1212,7 +1212,7 @@ Place,License #,First,Last,City,State,Time,Team
 38,141157,Robert,PHILLIPS,Fort Worth,TX,00:45.6,
 39,350074,JP,SLOSAR,Edwardsville,IL,00:45.6,The Cyclery and Fitness Center
 40,466525,James,OBRIEN,Colorado Springs,CO,00:46.1,Team Air Assurance P/B AVB Bank
-41,400785,Jeff,MAKOHON,Rockwall,TX,00:46.3,Rockwall Racing
+41,400785,Jeff,MAKOHON,Heath,TX,00:46.3,Rockwall Racing
 42,363382,Kevin,BAINS,Longmont,CO,00:46.5,Houndstooth Racing
 43,31598,Steve,SCHLEGEL,Edmond,OK,00:47.2,Schlegel Bicycles
 44,349550,Paul,BUSH,Jenks,OK,00:47.2,Bixby Bicycle Works/Cycling for Success
@@ -1263,7 +1263,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,273476,Jimmy,Montreuil,Austin,TX,00:59.3,
 9,9156,Chris,DEMARCHI,Chino,CA,00:59.3,Monster Media Racing
 10,522514,John,CHU,Plano,TX,00:59.3,Windsor Door Racing p/b Bicycles Plus
-11,406399,Simon,PHUAH,Downers Grove,IL,00:59.3,INTENT
+11,406399,Simon,PHUAH,Littleton,CO,00:59.3,INTENT
 12,58478,Peter,ERDOES,Oklahoma City,OK,00:59.3,OKC VELO
 13,191909,Jay,HAWKINS,Buhler,KS,00:59.3,OKC Velo
 14,133781,Jason,COOK,Dallas,TX,00:59.3,Team Cadence Cyclery p.b. MINI OF PLANO
@@ -1272,7 +1272,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,268673,Brian,KOSCIELSKI,St Louis,MO,00:59.3,Dogfish Racing
 18,374931,Chad,PLUMLEE,Prosper,TX,00:59.3,Team Cadence Cyclery p.b. MINI of Plano
 19,28705,Thomas,PRICE,Overland Park,KS,00:59.3,Trek Cyclocross Collective
-20,392104,Doug,ZELL,Little Rock ,AR,00:59.3,Intelligentsia Coffee
+20,392104,Doug,ZELL,Lockhart,TX,00:59.3,Intelligentsia Coffee
 21,199996,Mark,RAWLINGS,Dallas,TX,00:59.3,GS Tenzing
 22,294228,Aaron,HIGHFILL,Choctaw,OK,00:59.3,
 23,305633,Colby,LOGBACK,Dallas,TX,00:59.3,
@@ -1366,7 +1366,7 @@ Place,License #,First,Last,City,State,Time,Team
 21,413813,Andrew,ARNOLD,Gunnison,CO,01:12.1,Peloton Racing p/b Northern Backup
 22,529695,Brian,BABILONIA,Garland,TX,01:12.1,
 23,6135,Chris,CARLSON,Plano,TX,01:12.1,Matrix/RBM
-24,272809,Ricky,RANDALL,Highland Village ,TX,01:12.1,Arapahoe Resources
+24,272809,Ricky,RANDALL,Highland Village,TX,01:12.1,Arapahoe Resources
 25,175928,Chad,HODGES,Moore,OK,01:12.1,DNA Racing/Garneau
 26,73970,Jeff,LABAUVE,Dallas,TX,01:12.1,GS Tenzing
 27,350938,Gabriel,PORTERFIELD,Bertram,TX,01:12.1,Strike Cycling
@@ -1402,7 +1402,7 @@ Place,License #,First,Last,City,State,Time,Team
 57,333350,Bill,BOOTH,Seattle,WA,01:12.2,Monton TM Racing
 58,297002,Zachary,PFAFF,Tulsa,OK,01:12.2,Air Assurance Deve p/b Spoke House
 59,167018,Jeremy,STITT,Tulsa,OK,01:12.2,SNRG Racing
-60,157827,Corey,RAY,Mckinney,TX,01:12.3,Giant Lakeside p.b. Mini of Plano
+60,157827,Corey,RAY,Green River,WY,01:12.3,Giant Lakeside p.b. Mini of Plano
 61,286286,Larry,DECICCO,Dallas,TX,01:12.3,GS Tenzing
 62,439201,Joe,EMMONS,Carrollton,TX,01:12.3,Merritt Hawkins AMN / Sun & Ski
 63,419926,Caleb,Smith,Marion,NC,01:12.3,Monster Media
@@ -1416,13 +1416,13 @@ Place,License #,First,Last,City,State,Time,Team
 71,377666,Squire,Lawrence,Tulsa,OK,01:12.4,Tulsa Wheelmen
 72,316954,Paul,CARTY,Austin,TX,01:12.4,DasWow Racing
 73,377930,Nathan,SCHOONOVER,Wentzville,MO,01:12.5,Quantum Solutions Racing
-74,424626,Randy,LEE,Richardson,TX,01:12.5,Bicycles Plus Racing
-75,441005,Angel,MUNOZ,Newhall,CA,01:12.5,ENDO Concept Team
+74,424626,Randy,LEE,Dallas,TX,01:12.5,Bicycles Plus Racing
+75,441005,Angel,MUNOZ,New Hall,CA,01:12.5,ENDO Concept Team
 76,0,Ben,WILLIAMS,,,01:12.5,
 77,121133,Eric,MELTON,Norman,OK,01:12.5,405 Bicycles
 78,335460,Peter,VOGT,Coupland,TX,01:12.5,Texas State Cycling
 79,484562,Andy,JOBIN,Austin,TX,01:12.5,TILT Racing
-80,459347,Matt,LANIER,Edmond,OK,01:13.1,OKC Velo Bike Lab
+80,459347,Matt,LANIER,Oklahoma City,OK,01:13.1,OKC Velo Bike Lab
 81,397914,Braxton,MUNDELL,Broken Arrow,OK,01:13.2,Team OBP
 82,360809,Tyler,CLOUTIER,Dallas,TX,01:13.6,Matrix/RBM
 83,291129,Rob,SANDUSKY,Frisco,TX,01:13.6,Matrix/RBM
@@ -1430,9 +1430,9 @@ Place,License #,First,Last,City,State,Time,Team
 85,303015,Paul,DENTEL,Dallas,TX,01:14.0,Bicycles Plus Racing
 86,304773,Michael,JOHNSON,Dallas,TX,01:14.0,Bicycles Plus Racing
 87,393730,Alvin,ESCAJEDA,Pomona,CA,01:14.0,Endo Concept Team
-88,530396,Jarrod,MORONI,,,01:14.0,
+88,530396,Jarrod,MORONI,Oceanside,CA,01:14.0,
 DNS,412090,Preston,GLACE,Cedar Park,TX,,Super Squadra pb Eliel Cycling
-DNS,368638,Kyle,WALKER,Lubbock ,TX,,Giant Lakeside p.b. Mini of Plano
+DNS,368638,Kyle,WALKER,Fort Worth,TX,,Giant Lakeside p.b. Mini of Plano
 DNF,375072,Aston,HASWELL,Fort Worth,TX,,Giant Lakeside pb MINI of Plano
 DNF,319236,Michael,WERT,Flower Mound,TX,,GS Tenzing
 DNF,316020,Dillon,FOWLER,Keller,TX,,Evoke Elite Racing
@@ -1489,7 +1489,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,409831,Abraham,CONTRERAS,Jenks,OK,00:35.2,Transitions Life Care
 7,28097,Timothy J,PICKENS,Broken Arrow,OK,00:35.2,Bixby Bicycle Works
 8,493117,Jason,WILLIAMS,Edmond,OK,00:35.2,
-9,524163,Kristopher,CLARK,Tulsa,OK,00:35.2,
+9,524163,Kristopher,CLARK,Jenks,OK,00:35.2,
 10,487430,Steven,ISAACS,Tulsa,OK,00:35.2,
 11,367427,Ryan,DAY,Owasso,OK,00:35.2,Tulsa Wheelmen
 12,523857,Eric,MONTE,Hot Springs,AR,00:35.2,parkside cycling
@@ -1536,7 +1536,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,529326,Jordan,BEEVER,Springfield,MO,00:32.5,Queen City Cycles
 9,516799,Jeremy,GRIGG,Harrison,AR,00:32.5,SBC Cycling
 10,476501,Kyle,LANDRUM,Hot Springs National Park,AR,00:32.5,
-11,526443,Jordan,LAMBERT,Lees Summit,MO,00:32.5,Bicycle Shack Racing
+11,526443,Jordan,LAMBERT,Lee's Summit,MO,00:32.5,Bicycle Shack Racing
 12,416296,Isaac,VANDERHOFF,Centerton,AR,00:32.5,Bentonville Racing
 13,471712,Evan,WARD,Oklahoma City,OK,00:32.5,DNA Racing
 14,461040,Brett,OLSON,Okc,OK,00:32.5,DNA Racing
@@ -1605,7 +1605,7 @@ Place,License #,First,Last,City,State,Time,Team
 38,468937,Tyler,CHESLIK,Harrisonville,MO,00:44.1,Bicycle Shack
 39,341150,Paul,GERHARDT,Waco,TX,00:44.1,Welhous Bikes
 40,439291,Mason,MCCABE,Bixby,OK,00:44.1,Bixby Bycycles
-41,458722,Matt,SHANER,Austin,TX,00:44.1,Weaver Technologies Racing
+41,458722,Matt,SHANER,Joplin,MO,00:44.1,Weaver Technologies Racing
 42,509426,Matthew,MAHON,Cambridge,MA,00:44.1,
 43,529973,Sam,ANDERSON,Boulder,CO,00:44.1,
 44,488064,Alex,GREENWALD,Austin,TX,00:44.1,PHENOM p/b Phobio
@@ -1639,10 +1639,10 @@ Place,License #,First,Last,City,State,Time,Team
 72,307698,James,SNODGRASS,Noble,OK,00:44.5,
 73,459211,Harrison,PETRE,Broken Arrow,OK,00:44.5,Air Assurance
 74,525743,Jacob,BOONE,Little Rock,AR,00:44.5,University of Arkansas Cycling Team
-75,442839,Luke,GROOM,Navarre,FL,00:44.5,
-76,403642,Zach,HATCHER,Carthage,MO,00:44.5,
+75,442839,Luke,GROOM,Albuquerque,NM,00:44.5,
+76,403642,Zach,HATCHER,Weat Fork,AR,00:44.5,
 77,0,Tom,BAIN,,,00:44.5,Spidermonkey Cycling
-78,261669,Jordan,GARRETT,Simpsonville,SC,00:44.5,
+78,261669,Jordan,GARRETT,Owasso,OK,00:44.5,
 79,466802,Shane,FOSTER,Broken Arrow,OK,00:44.5,Tulsa Wheelmen
 80,391470,Daniel,BROWN,Tulsa,OK,00:44.5,Transition Life
 81,475376,Spencer,LEAVITT,Bixby,OK,00:44.5,None
@@ -1664,7 +1664,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,277241,Leo,HANSEN,Oklahoma,OK,01:00.4,Dna Racing
 6,485014,Bryce,FULTON,Tulsa,OK,01:00.4,Soundpony-Triad Bank
 7,112857,Chris,KAISER,Orting,WA,01:00.4,Monton TM Racing
-8,466674,Brandon,WOLD,Oklahoma City,OK,01:00.4,DNA Racing
+8,466674,Brandon,WOLD,Andover,MN,01:00.4,DNA Racing
 9,258588,Tanner,CULBREATH,Tulsa,OK,01:00.4,
 10,477928,Mark,TRIMARCHI,Austin,TX,01:00.4,VooDoo Racing
 11,400055,Brandon,MCKINNEY,Austin,TX,01:00.4,
@@ -1764,13 +1764,13 @@ DNF,305633,Colby,LOGBACK,Dallas,TX,,
 06/10/2017 Criterium Women Pro/Cat 1/2 PRT 1
 Place,License #,First,Last,City,State,Time,Team
 1,300089,Skylar,SCHNEIDER,West Allis,WI,01:01.4,ISCorp Powered By Progress Software*
-2,509477,Peta,MULLENS,Tulsa,OK,01:01.4,Hagens Berman | Supermint*
+2,509477,Peta,MULLENS,Oceanside,CA,01:01.4,Hagens Berman | Supermint*
 3,174914,Erica,ALLAR,Demorest,GA,01:01.4,Rally Cycling*
 4,170980,Samantha,SCHNEIDER,West Allis,WI,01:01.4,ISCorp Powered By Progress Software*
 5,484160,Josie,TALBOT,,,01:01.4,ISCorp Powered By Progress Software*
 6,282412,Ellen,NOBLE,Kennebunkport,ME,01:01.4,Colavita/Bianchi USA*
 7,145511,Liza,RACHETTO,Boise,ID,01:01.4,Hagens Berman | Supermint*
-8,355078,Mandy,HEINTZ,Phoenix,AZ,01:01.4,Visit Dallas DNA Pro Cycling*
+8,355078,Mandy,HEINTZ,Scottsdale ,AZ,01:01.4,Visit Dallas DNA Pro Cycling*
 9,217750,Christina,GOKEY SMITH,Denton,TX,01:01.5,Papa John's Racing p/b TREK*
 10,394701,Kim,LUCIE,Tucson,AZ,01:01.5,LA Sweat*
 11,530793,MIchaela,DRUMMOND,,,01:01.5,Visit Dallas DNA Pro Cycling*
@@ -1778,7 +1778,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,485074,Hannah,SHELL,Saint Louis,MO,01:01.5,Pastaria Big Shark Racing
 14,202033,Starla,TEDDERGREEN,Portland,OR,01:01.5,Hagens Berman | Supermint*
 15,201838,Laurel,RATHBUN,Monument,CO,01:01.5,Papa John's Racing p/b TREK*
-16,512762,Lily,WILLIAMS,Chicago,IL,01:01.5,Pastaria Big Shark
+16,512762,Lily,WILLIAMS,Asheville,NC,01:01.5,Pastaria Big Shark
 17,404315,Tabitha,SHERWOOD,Culver,IN,01:01.5,Pastaria Big Shark
 18,529804,Caroline,BAUR,,,01:01.5,ISCorp Powered By Progress Software*
 19,531310,Ashlee,ANKUDINOFF,,,01:01.5,NSWIS Sydney Uni
@@ -1790,7 +1790,7 @@ Place,License #,First,Last,City,State,Time,Team
 25,457092,Rachel,LANGDON,Louisville,KY,01:01.5,ISCorp Powered By Progress Software*
 26,346358,Rachel,PLESSING,Lakewood,CO,01:01.5,ALP Cycles Racing
 27,327486,Christa,GHENT,Boulder,CO,01:01.5,LA Sweat*
-28,288729,Jennifer,WAGNER,Houston ,TX,01:01.5,Team Elevate Racing
+28,288729,Jennifer,WAGNER,Houston,TX,01:01.5,Team Elevate Racing
 29,528208,Sharlotte,LUCAS,,,01:01.5,RoxsoltAttaquer
 30,388447,Jolene,HOLLAND,Austin,TX,01:01.5,Team Yacht Club
 31,340314,Ashley,DUBAN,Austin,TX,01:01.5,ATX Hitsquad
@@ -1857,7 +1857,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 06/10/2017 Criterium Women Cat 4/5
 Place,License #,First,Last,City,State,Time,Team
-1,506931,Finn,TAYLOR,Tulsa,OK,00:24.1,Yoga Box Racing p/b Transitions LifeCare
+1,506931,Finn,TAYLOR,Fayetteville,AR,00:24.1,Yoga Box Racing p/b Transitions LifeCare
 2,488878,Chrissie,Smolders Gomez,Austin,TX,00:24.1,Team Yacht Club
 3,499581,Leigh Ann,FIELDS,Tulsa,OK,00:24.1,Pandemonium Cycling p/b Hodges Bend
 4,474997,Hannah,Jordan,Tulsa,OK,00:24.1,Tulsa Wheelmen
@@ -1909,12 +1909,12 @@ Place,License #,First,Last,City,State,Time,Team
 
 06/10/2017 Criterium Women Cat 3
 Place,License #,First,Last,City,State,Time,Team
-1,455528,Shelby,TRAMEL,San Francisco,CA,00:41.4,RAZZLE DAZZLE
+1,455528,Shelby,TRAMEL,Oakkland,CA,00:41.4,RAZZLE DAZZLE
 2,484276,Tracy,CARRINGTON,Fort Worth,TX,00:41.4,Team Elevate Racing
 3,432552,Heather,LAUFER,Oklahoma City,OK,00:41.4,
 4,472366,Caitlin,FRIESEN,Austin,TX,00:41.4,Athlete Architecture p/b Hyperthreads
 5,364652,Ava,SYKES,Athens,GA,00:41.4,Twenty20 Junior Developement
-6,340844,Jennifer,WILSON,Cambridge,MA,00:41.4,RAZZLE DAZZLE
+6,340844,Jennifer,WILSON,Los Gatos,CA,00:41.4,RAZZLE DAZZLE
 7,376695,Paige,WILLIAMS,North Bennington,VT,00:41.4,BCA/Linen
 8,408347,Elizabeth,KIEFFER,Columbus,IN,00:41.4,First Internet Bank Cycling
 9,466017,Samantha,GOLDENSTEIN,San Antonio,TX,00:41.4,Colavita Texas
@@ -1970,7 +1970,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,509431,Orion,CHILD,Ashland,MO,,Velo Childeric
 3,403098,Seth,INURRIGARRO,Forney,TX,,Rockwall Racing
 4,432313,Jack,MAKOHON,Heath,TX,,Rockwall Racing
-5,388289,Tayton,PARKER,Jenks,OK,,Air Assurance Devo
+5,388289,Tayton,PARKER,Tulsa,OK,,Air Assurance Devo
 6,392298,Nicholas,GOMES,Florissant,MO,,Quantum Solutions Intelligentsia
 7,509433,Asa,CHILD,Ashland,MO,,Velo Childeric
 8,423902,Maximiliano,ALVAREZ,Plano,TX,,
@@ -2016,15 +2016,15 @@ Place,License #,First,Last,City,State,Time,Team
 16,333154,Skyler,MACKEY,Tulsa,OK,01:01.2,Transitions LIfeCare p/b InSync Rx
 17,237712,Sam,BASSETTI,Santa Rosa,CA,01:01.2,Herbalife p/b Marc Pro - Nature' Bakery*
 18,527248,Cesar,SERNA,Aguascalientes,AG,01:01.2,Rudys ritas
-19,207262,Andrew,GOESSLING,El Cerrito,CA,01:01.2,Team Mike's Bikes p/b Equator Coffees
+19,207262,Andrew,GOESSLING,Oakland,CA,01:01.2,Team Mike's Bikes p/b Equator Coffees
 20,178970,Mat,STEPHENS,Dallas,TX,01:01.2,Arapahoe Resources / Garneau*
 21,296605,Michael,HERNANDEZ,Clermont,FL,01:01.2,Aevolo Pro Cycling
-22,526732,Cullen,BROWNE,,,01:01.2,
+22,534570,Cullen,BROWNE,Tulsa,OK,01:01.2,
 23,432674,Jarret,OLDHAM,Chicago,IL,01:01.2,First Internet Bank Cycling
 24,188572,Andrew,DAHLHEIM,Greenville,SC,01:01.2,Arapahoe Resources / Garneau*
 25,349134,Carson,LANGE,Austin,TX,01:01.2,Strike Cycling
 26,528230,Alberto,COVARRUBIAS,Springdale,AR,01:01.2,Stradalli Cycle/Safetti
-27,263035,Andrew,GINIAT,Winnetka,IL,01:01.2,
+27,263035,Andrew,GINIAT,Asheville,NC,01:01.2,
 28,297555,Chris,MEACHAM,Mooresville,NC,01:01.2,Palmetto State Medical Elite Cycling Team
 29,270997,Robert,SROKA,North Royalton,OH,01:01.2,First Internet Bank Cycling
 30,141654,Chad,CAGLE,Tulsa,OK,01:01.2,Tulsa Wheelmen
@@ -2033,13 +2033,13 @@ Place,License #,First,Last,City,State,Time,Team
 33,0,Alejandro,PADILLA,,,01:01.3,Arapahoe Resources / Garneau*
 34,263324,Parker,KYZER,Spartanburg,SC,01:01.3,Palmetto State Medical Elite Cycling Team
 35,200977,Johnny,PURVIS,Parthenon,AR,01:01.3,Team OBP
-36,211435,zack,ALLISON,Fort Collins ,CO,01:01.3,Team Clif Bar
+36,211435,zack,ALLISON,Fort Collins,CO,01:01.3,Team Clif Bar
 37,324184,Franklin,DEESE,Greensboro,NC,01:01.3,Cyclus Sports
 38,529350,Russell,GILL,,,01:01.3,
 39,0,Dylan,SUNDERLAND,,,01:01.3,NSWIS
 40,395255,Tanner,WARD,Little Rock,AR,01:01.3,Team OBP
 41,310330,Michael,ALLISON,Shawnee,KS,01:01.3,Olathe Subaru Trek Racing
-42,342402,Kevin,GIRKINS,Austin,TX,01:01.3,ELBOWZ Racing p/b Synergy.O*
+42,342402,Kevin,GIRKINS,San Marcos,TX,01:01.3,ELBOWZ Racing p/b Synergy.O*
 43,272180,Jacob,WHITE,Pauls Valley,OK,01:01.3,Team OBP
 44,218099,Tyler,LOCKE,Canyon Country,CA,01:01.3,SoCalCycling.com
 45,533916,Ryan,CAVANAGH,,,01:01.3,NSWIS
@@ -2063,14 +2063,14 @@ Place,License #,First,Last,City,State,Time,Team
 63,240584,Brant,SPEED,Austin,TX,01:01.5,ELBOWZ Racing p/b Synergy.O*
 64,535286,Philip,CLARKE,Garland,TX,01:01.5,Merritt Hawkins AMN/ Sun and Ski
 65,337040,Stephan,HIRSCH,Oklahoma City,OK,01:01.5,Arapahoe Resources / Garneau*
-66,306325,William,MYERS,Orinda,CA,01:01.5,Herbalife p/b Marc Pro - Nature' Bakery*
+66,306325,William,MYERS,Davis,CA,01:01.5,Herbalife p/b Marc Pro - Nature' Bakery*
 67,336388,Corey,DAVIS,Danville,VA,01:01.5,Team Palmetto State Medical Elite Cycling Team
 68,0,Joshua,TAYLOR,,,01:01.5,NSWIS
 69,252928,Rob,BELL,Oklahoma City,OK,01:01.5,Team OBP
 70,298338,Jack,MCCANN,Cincinnati,OH,01:01.5,First Internet Bank Cycling
 71,368147,Alex,MCLAUGHLIN,Louisville,KY,01:01.5,Texas Roadhouse
 72,192686,Blake,ANTON,Arroyo Grande,CA,01:01.5,Herbalife p/b Marc Pro - Nature' Bakery*
-73,230716,John,NOONAN,Evergreen,CO,01:01.5,Primal - Audi Denver
+73,230716,John,NOONAN,Tucson,AZ,01:01.5,Primal - Audi Denver
 74,366682,Scott,WILLIAMSON,Lawrence ,KS,01:01.5,Olathe Subaru Trek Racing
 75,145867,Mat,ANKNEY,Tulsa,OK,01:01.5,Tulsa Wheelmen
 76,290106,Austin,TURNER,Ogden,UT,01:01.5,Team Clif Bar
@@ -2080,7 +2080,7 @@ Place,License #,First,Last,City,State,Time,Team
 80,169774,Brian,MCCULLOCH,Yucaipa,CA,01:01.5,Elevate - KHS Pro Cycling*
 81,0,Stuart,SHAW,,,01:01.5,NSWIS
 82,337206,sawyer,CURRIE,Edmond,OK,01:01.5,
-83,504799,Peter,FOERSTER,,,01:01.5,Stradalli Cycle/Safetti
+83,504799,Peter,FOERSTER,Atlanta,GA,01:01.5,Stradalli Cycle/Safetti
 84,528185,Ole,QUAST,Hamburg,FL,01:01.5,Stradalli Cycle/Safetti
 85,368618,Jake,HENNINGSEN,Cincinnati,OH,01:01.5,Team Hungry
 86,413223,Joaquin,NAJAR,Austin,TX,01:01.5,Super Squadra p/b Eliel Cycling
@@ -2101,7 +2101,7 @@ Place,License #,First,Last,City,State,Time,Team
 101,306291,Johnny,MITCHELL,Johnson City,TN,01:01.6,Palmetto State Medical Elite Cycling Team
 102,66580,Jacob,LASLEY,Broken Arrow,OK,01:01.6,Soundpony Triad Bank
 103,201060,Kevin,ATTKISSON,Louisville,KY,01:01.6,Texas Roadhouse Cycling Team
-104,310983,TC,PORTERFIELD,Bertram,TX,01:01.6,Strike Cycling
+104,310983,TC,PORTERFIELD,Austin,TX,01:01.6,Strike Cycling
 105,290172,Spencer,MARTIN,Boulder,CO,01:01.6,
 106,278173,Kent,WOERMANN,Lees Summit,MO,01:01.6,Olathe Subaru Trek Racing
 107,399927,Matt,GREEN,Delafield,WI,01:01.6,First Internet Bank Cycling
@@ -2150,7 +2150,7 @@ DNF,297822,Daniel,CRESPO,Colorado Springs,CO,,Primal - Audi Denver
 DNF,376368,Ian,LONDON,Denver,CO,,Primal - Audi Denver
 DNF,172139,Bryan,REID,Santa Fe,NM,,RA Racing Apparel/BMC
 DNF,504248,Todd,SATCHELL,,,,Satalyst Verve Racing Team
-DNF,58176,Nathan,ROGUT,Tampa,FL,,Velobrew--AV Homes
+DNF,58176,Nathan,ROGUT,Rock Hill,SC,,Velobrew--AV Homes
 
 06/09/2017 Criterium Men Cat 1/2
 Place,License #,First,Last,City,State,Time,Team
@@ -2178,7 +2178,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,529695,Brian,BABILONIA,Garland,TX,00:49.1,
 23,458277,Jacob,Jones,Barrigada,GU,00:49.1,Monster Media
 24,454141,Mark,DEBOER,Blue Springs,MO,00:49.1,Move Up Development
-25,459347,Matt,LANIER,Edmond,OK,00:49.1,OKC Velo Bike Lab
+25,459347,Matt,LANIER,Oklahoma City,OK,00:49.1,OKC Velo Bike Lab
 26,424733,Cameron,BOND,Valencia,CA,00:49.1,Endo Concept Team
 27,326698,Jaime,OLMO,Houston,TX,00:49.1,Shama Cycles
 28,331558,Grant,NAJERA,Tulsa,OK,00:49.1,Soundpony Triad Bank
@@ -2195,7 +2195,7 @@ Place,License #,First,Last,City,State,Time,Team
 39,467580,Andrew,EVANS,Rogers,AR,00:49.1,Tyson Foods Cycling Team
 40,50919,Bryan,DUVALL,Jenks,OK,00:49.1,Soundpony Triad Bank
 41,73970,Jeff,LABAUVE,Dallas,TX,00:49.1,GS Tenzing
-42,441005,Angel,MUNOZ,Newhall,CA,00:49.1,ENDO Concept Team
+42,441005,Angel,MUNOZ,New Hall,CA,00:49.1,ENDO Concept Team
 43,305126,Austin,MALLET,Spring,TX,00:49.1,Southern Elite
 44,246407,Will,FRANK,Bentonville,AR,00:49.1,Tyson Foods Cycling Team
 45,224182,Adam,Fivehouse,Denver,CO,00:49.1,
@@ -2211,14 +2211,14 @@ Place,License #,First,Last,City,State,Time,Team
 55,167018,Jeremy,STITT,Tulsa,OK,00:49.2,SNRG Racing
 56,428965,Bryan,Burpee,Rockwall,TX,00:49.2,Matrix/RBM
 57,0,Ben,WILLIAMS,,,00:49.2,
-58,424626,Randy,LEE,Richardson,TX,00:49.2,Bicycles Plus Racing
-59,272809,Ricky,RANDALL,Highland Village ,TX,00:49.2,Arapahoe Resources / Garneau*
+58,424626,Randy,LEE,Dallas,TX,00:49.2,Bicycles Plus Racing
+59,272809,Ricky,RANDALL,Highland Village,TX,00:49.2,Arapahoe Resources / Garneau*
 60,316020,Dillon,FOWLER,Keller,TX,00:49.2,Evoke Elite Racing
 61,164011,Benjamin,SILK,Broken Arrow,OK,00:49.2,Air Assurace Devo p/b Spokehouse
 62,493794,Adam,PUGH,,,00:49.2,Peloton Racing p/b Northern Backup
 63,393730,Alvin,ESCAJEDA,Pomona,CA,00:49.2,Endo Concept Team
 64,304773,Michael,JOHNSON,Dallas,TX,00:49.2,Bicycles Plus Racing
-65,530396,Jarrod,MORONI,,,00:49.2,
+65,530396,Jarrod,MORONI,Oceanside,CA,00:49.2,
 66,353046,Benjamin,CRAIG,Bentonville,AR,00:49.2,Tyson Foods Cycling Team
 67,513513,Olivier,Lavigueur,Little Rock,AR,00:49.2,
 68,419456,Maximilian,HALL,Austin,TX,00:49.2,Shred Monster
@@ -2236,7 +2236,7 @@ Place,License #,First,Last,City,State,Time,Team
 80,303626,Matt,GOSLING,Dallas,TX,00:49.3,Team Party Time
 81,177629,Ben,SEWELL,Dallas,TX,00:49.3,Team Bicycles Plus
 82,360809,Tyler,CLOUTIER,Dallas,TX,00:49.3,Matrix/RBM
-83,157827,Corey,RAY,Mckinney,TX,00:49.3,Giant Lakeside p.b. Mini of Plano
+83,157827,Corey,RAY,Green River,WY,00:49.3,Giant Lakeside p.b. Mini of Plano
 84,322204,Timothy,MCGEE,Van Nuys,CA,00:49.3,Endo Concept Team
 85,306525,Ali,SOBHANI,Austin,TX,00:49.3,DasWow Racing
 86,261865,Alexander,GRMAN,Saint Louis,MO,00:49.3,
@@ -2292,7 +2292,7 @@ DNS,306370,Matt,DEMARTINO,Austin,TX,,Team Yacht Club
 DNS,342580,Isaac,PORTERFIELD,Bertram,TX,,Strike Cycling
 DNS,201623,Michael,Lalla,Minneapolis,MN,,
 DNF,419926,Caleb,Smith,Marion,NC,,Monster Media
-DNF,368638,Kyle,WALKER,Lubbock ,TX,,Giant Lakeside p.b. Mini of Plano
+DNF,368638,Kyle,WALKER,Fort Worth,TX,,Giant Lakeside p.b. Mini of Plano
 DNF,305417,Tak,MAKINO,Houston,TX,,Blue Agave Racing
 
 06/09/2017 Criterium Men Cat 3
@@ -2312,7 +2312,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,388796,Gabriel,ORTIZ,Dallas,TX,00:39.2,Rudy's Ritas
 14,346256,Jordan,PARKER,Austin,TX,00:39.2,Team Yacht Club
 15,188366,Chad,SHANKS,Tulsa,OK,00:39.2,
-16,466674,Brandon,WOLD,Oklahoma City,OK,00:39.2,DNA Racing
+16,466674,Brandon,WOLD,Andover,MN,00:39.2,DNA Racing
 17,304107,Christopher,SIEMENS,Tulsa,OK,00:39.2,Air Assurance Devo p/b Spoke House
 18,408192,Christopher,ROLLMANN,Owasso,OK,00:39.2,Team Air Assurance p/b AVB Bank
 19,233745,Christopher,MILLER,St. Louis,MO,00:39.2,Cannonball- Hub Racing
@@ -2410,7 +2410,7 @@ DNF,423720,Joseph,Pardue,Fayetteville,AR,,
 06/09/2017 Criterium Women Pro/Cat 1/2 PRT 1
 Place,License #,First,Last,City,State,Time,Team
 1,174914,Erica,ALLAR,Demorest,GA,00:52.6,Rally Cycling*
-2,509477,Peta,MULLENS,Tulsa,OK,00:52.6,Hagens Berman | Supermint*
+2,509477,Peta,MULLENS,Oceanside,CA,00:52.6,Hagens Berman | Supermint*
 3,170980,Samantha,SCHNEIDER,West Allis,WI,00:52.6,ISCorp Powered By Progress Software*
 4,300089,Skylar,SCHNEIDER,West Allis,WI,00:52.6,ISCorp Powered By Progress Software*
 5,282412,Ellen,NOBLE,Kennebunkport,ME,00:52.6,Colavita/Bianchi USA*
@@ -2433,9 +2433,9 @@ Place,License #,First,Last,City,State,Time,Team
 22,200504,Briana,CLARK,Carmel,IN,00:53.0,First Internet Bank Cycling
 23,388447,Jolene,HOLLAND,Austin,TX,00:53.0,Team Yacht Club
 24,527907,Abby,SNEDDON,Gwandalan,NS,00:53.0,RoxsoltAttaquer
-25,512762,Lily,WILLIAMS,Chicago,IL,00:53.0,Pastaria - Big Shark Racing*
+25,512762,Lily,WILLIAMS,Asheville,NC,00:53.0,Pastaria - Big Shark Racing*
 26,0,Beck,WIASAK,,,00:53.0,Fearless Femme Racing
-27,288729,Jennifer,WAGNER,Houston ,TX,00:53.0,Team Elevate Racing
+27,288729,Jennifer,WAGNER,Houston,TX,00:53.0,Team Elevate Racing
 28,153105,Ginny,KING,Dallas,TX,00:53.0,King Racing Group
 29,529694,Daniely,GARCIA,,TX,00:53.0,Dallas Racing
 30,280870,Jennifer,LUEBKE,Bend,OR,00:53.0,Visit Dallas DNA Pro Cycling
@@ -2468,7 +2468,7 @@ Place,License #,First,Last,City,State,Time,Team
 57,395130,Mel,BEALE,Boulder,CO,00:53.2,LA Sweat*
 58,221135,Gwen,INGLIS,Lakewood,CO,00:53.2,Team Elevate Racing
 59,395081,Brenna,WRYE- SIMPSON,Portland,OR,00:53.2,LA Sweat*
-60,355078,Mandy,HEINTZ,Phoenix,AZ,00:53.3,Visit Dallas DNA Pro Cycling
+60,355078,Mandy,HEINTZ,Scottsdale ,AZ,00:53.3,Visit Dallas DNA Pro Cycling
 61,0,Emma,ROBERTS,,,00:53.3,NSWIS Sydney Uni
 62,191931,Michelle,MONTOYA,Dallas,TX,00:53.3,October Three Racing
 63,518425,Caroline,POOLE,Little Rock,AR,00:53.4,Yoga Box Racing p/b Transitions LifeCare

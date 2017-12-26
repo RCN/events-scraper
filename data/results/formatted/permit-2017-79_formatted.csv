@@ -3,7 +3,7 @@ Sunshine GP-Brooksville Criterium in Brooksville FL Results
 04/01/2017 Criterium Men Pro/Cat 1/2
 Place,License #,First,Last,City,State,Time,Team
 1,286608,Eamon,Franck,Pacific Grove,CA,1:07:04,Crit Life
-2,374617,Chad,Conley,Cartersville,GA,1:07:09,Pharmaco-DeepSouth p/b NGCA
+2,374617,Chad,Conley,Atlanta,GA,1:07:09,Pharmaco-DeepSouth p/b NGCA
 3,284479,James,Schurman,Deerfield Beach,FL,1:07:10,UCI CT: Lupus Racing Team
 4,193035,Brandon,Feehery,Knoxville,TN,1:07:40,Crit Life
 5,309409,Aldo Ino,Ilesic,Charlotte,NC,1:07:40,Crit Life
@@ -46,7 +46,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,526706,Benhur,Sturaro,Pompano Beach,FL,0:50:35,
 2,484026,Ronel,Manresa,Hallandale,FL,0:51:01,
 2,524568,LEONARDO,SOLORZANO,Miami,FL,0:00:00,
-3,523864,Manuel,Montanez,Sunny Isles,FL,0:00:00,
+3,523864,Manuel,Montanez,Hallandale Beach,FL,0:00:00,
 3,429283,Carlo,Roche,Pembroke Pines,FL,0:51:21,Interactive Metronome p/b Mega Cycle
 4,295438,Crispin,Del Nero,Atlanta,GA,0:50:46,
 4,528792,Owen,Poirier,Jacksonville,FL,0:00:00,
@@ -56,7 +56,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,477147,Austin,Brown,Royal Palm Beach,FL,0:52:11,LCT/Bill Bone Bike Law
 7,458893,Vinny,Silva,Pompano Beach,FL,0:52:15,
 7,525187,Joshua,Stapleton,Tallahassee,FL,0:00:00,
-8,448396,Rudy,Szymanski,Gowanda,NY,0:52:18,Cycle Sport Concepts Tampa
+8,448396,Rudy,Szymanski,Tampa,FL,0:52:18,Cycle Sport Concepts Tampa
 8,498830,Tyler,Auger,Clearwater,FL,0:00:00,
 9,425069,Terrence,Phillips,Gainesville,FL,0:51:00,352 Racing p/b Bikes and More
 9,497244,Stephen,Chenard,Parrish,FL,0:00:00,Sarasota Cycling Club p/b SeaSucker
@@ -75,7 +75,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,523436,Troy,Taylor,Tampa,FL,0:00:00,
 16,346606,Brance,Unkrich,Jacksonville Beach,FL,0:18:23,
 17,382025,Neil,Uy,Lakeland,FL,0:00:00,
-18,346280,Adam,Caruso,Nashville,TN,0:00:00,
+18,346280,Adam,Caruso,Tampa,FL,0:00:00,
 
 04/01/2017 Criterium Men Cat 4/5 Master 40+
 Place,License #,First,Last,City,State,Time,Team
@@ -97,7 +97,7 @@ Place,License #,First,Last,City,State,Time,Team
 04/01/2017 Criterium Men Cat 4/5 Master 50+
 Place,License #,First,Last,City,State,Time,Team
 1,305247,Scott,Lameier,Valrico,FL,0:42:38,West Coast Cycling
-2,433485,Richard,Benson,Port Saint Lucie,FL,0:44:55,Treasure Coast Racing
+2,433485,Richard,Benson,Fort Pierce,FL,0:44:55,Treasure Coast Racing
 3,334858,Thomas,Montgomery,Cocoa Beach,FL,0:44:56,Infinity Bike Shop
 4,297191,Omelio,Rufin,Miami,FL,0:44:56,Pro Cycling Miami
 5,65608,Omar,Sassin,Tampa,FL,0:44:57,West Coast Cycling
@@ -182,8 +182,8 @@ Place,License #,First,Last,City,State,Time,Team
 8,425572,Andy,Hale,Neptune Beach,FL,0:51:47,VeloBrew Cycling Club
 9,336940,Jason,Brandt,Sanford,FL,0:52:08,Compass Research Cycling Team
 10,329846,Francisco,Ruiz,Doral,FL,0:52:13,
-11,494503,JeanLuc,ContantGalitello,Pompano Beach,FL,0:51:44,Interactive Metronome p/b Mega Cycle
-12,351492,Mark Anthony,Sanchez,Wesley Chapel,FL,0:51:10,Aeropro Coaching Cycling Team
+11,494503,JeanLuc,ContantGalitello,Coconut Creek,FL,0:51:44,Interactive Metronome p/b Mega Cycle
+12,351492,Mark Anthony,Sanchez,Beaveton ,OR,0:51:10,Aeropro Coaching Cycling Team
 13,170532,Jason,Romain,Windermere,FL,0:51:46,Pista Elite
 14,413176,Renato,Mu,Miami,FL,0:43:20,Kelly Benefit Strategies/LSV
 15,501128,Robert,Swift,Tampa,FL,0:14:08,
@@ -244,7 +244,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,496876,Alexandria,Jensen,Winter Garden,FL,0:36:28,Orlando Road Club
 9,460227,Leah,Hardin,Kissimmee,FL,0:33:37,Orlando Road Club
 10,434223,Lauren,Chen,Tequesta,FL,0:33:38,Interactive Metronome Development
-11,341538,Jennifer,Hilton,Aventura,FL,0:33:44,One Love Cycling
+11,341538,Jennifer,Hilton,Davie,FL,0:33:44,One Love Cycling
 12,528497,ERICA,GARY,Hollywood,FL,0:36:06,
 
 04/01/2017 Criterium Women Cat 3
@@ -263,7 +263,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,419259,Mallory,Bryan,Land O Lakes,FL,0:25:37,Sho-Air TWENTY20 Development
 3,507630,Kayla,Yuengling,North Miami Beach,FL,0:23:53,
 4,500090,emily,jensen,Ocala,FL,0:25:18,Orlando Road Club
-5,466085,Larissa,Polanco,Windermere ,FL,0:27:46,Orlando Road Club
+5,466085,Larissa,Polanco,Windermere,FL,0:27:46,Orlando Road Club
 
 04/01/2017 Criterium Women Junior 15-16
 Place,License #,First,Last,City,State,Time,Team

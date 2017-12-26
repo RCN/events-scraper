@@ -86,7 +86,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,310301,Garrett,Weiler,Indianapolis,IN,,
 20,498156,Jeanhyuk,Park,Cleveland Heights,OH,,Blazing Saddle Racing
 21,258850,Steve,Quelette,Westerville,OH,,Headwind Cycling p/b Elevator Brewing
-22,433604,Jake,Hreha,Berne ,IN,,Yokohama Racing p/b BikeLine/SingletonCoaching
+22,433604,Jake,Hreha,Berne,IN,,Yokohama Racing p/b BikeLine/SingletonCoaching
 23,457574,Aaron,Banks,Westfield,IN,,Yokohama Racing p/b BikeLine/Singleton Coaching
 24,496571,Mark,Illingworth,Mason,OH,,Queen City Wheels
 25,474785,Ean,Hammond,Reynoldsburg,OH,,Headwind Cycling p/b Elevator Brewing
@@ -100,7 +100,7 @@ Place,License #,First,Last,City,State,Time,Team
 33,397975,Dan,Rapp,Westerville,OH,,Headwind Cycling p/b Elevator Brewing
 34,526480,Jake,McLaughlin,Columbus,OH,,
 35,422690,David,Marsi,Cleveland,OH,,BC Shred Mobb
-36,461016,Jacob,Kastens,Cincinnati ,OH,,University of Cincinnati
+36,461016,Jacob,Kastens,Cincinnati,OH,,University of Cincinnati
 37,394070,Lyle,Dailey,Maineville,OH,,ZWS / Brilliant Advice
 38,518380,Shawn,Grandon,Richfield,OH,,Akron Bicycle Club
 39,480203,Adam,Wintz,Columbus,OH,,Team SixOneFour
@@ -138,7 +138,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,482220,Ben,Meer,Columbus,OH,,#WallyDogRacing
 20,360340,Jeremy,Paul,Cleveland,OH,,Spin/Litzler Automation
 21,368403,Jamie,Anderson,Cincinnati,OH,,Team Hungry
-22,424618,Benny,Cook,Ferndale,MI,,BaseMediaRacing
+22,424618,Benny,Cook,Berkley,MI,,BaseMediaRacing
 23,371391,Jordan,Fleming,Carmel,IN,,Yokohama Racing p/b BikeLine/Singleton Coaching
 24,467911,Justin,kahle,Defiance,OH,,MAUMEE VALLEY WHEELMAN
 25,380376,Eric,Bair,West Chester,OH,,11elevenCycling p/b INFINIT Nutrition
@@ -147,7 +147,7 @@ Place,License #,First,Last,City,State,Time,Team
 28,315570,Matt,Matthews,Mason,OH,,Ghisallo Cycling Team
 DNF,298109,Aaron,Daniels,Columbus,OH,,Paradise Garage Racing
 DNF,412373,David,Galati,Pittsburgh,PA,,La Prima Espresso Co. Racing
-DNF,149656,Ryan,Gamm,Bexley ,OH,,Ride On Wooster
+DNF,149656,Ryan,Gamm,Bexley,OH,,Ride On Wooster
 DNF,194192,Joseph,Holmes,Westerville,OH,,Wooster Bikewerks / Wootown Bagels
 DNF,256839,Taylor,Kruse,Columbus,OH,,Team Hungry
 DNF,515435,Carlos,Lara,Lakewood,OH,,Spin/Litzler Automation
@@ -200,20 +200,20 @@ Place,License #,First,Last,City,State,Time,Team
 7,405427,Gregory,Nemeth,Greenwood,IN,,Monster Media Racing
 8,208985,Jason,Draper,Somerset,PA,,
 9,432819,Ryan,Bredemeyer,Bloomington,IN,,Bakehouse Cycling
-10,325072,Nicholas,Petrov,Mckinney,TX,,ProChain Junior Development
+10,325072,Nicholas,Petrov,Mason,OH,,ProChain Junior Development
 11,410898,Levi,Gaswint,Findlay,OH,,RedBike
 12,340938,Mike,Chandler,Bowling Green,OH,,Team Redbike
 DNF,440537,Maxx,Bowman,Loveland,OH,,ProChain Junior Cycling
 DNF,430926,Ricky,Dungan,Wilmington,OH,,ProChain Junior Cycling
 DNF,442723,Trey,Roark,Loveland,OH,,Prochain
-DNF,466154,Eamonn,Schnell,Brooklyn,NY,,Oberlin College
+DNF,466154,Eamonn,Schnell,Oberlin,OH,,Oberlin College
 
 04/23/2017 Road Race Men Cat 3 9-99
 Place,License #,First,Last,City,State,Time,Team
 1,303484,Justin,Miller,West Lafayette,IN,,Team SixOneFour
 2,524475,Maxime,Millet,Cincinnati,OH,,University of Cincinnati
 3,403103,John,Collier,Indianapolis,IN,,Dash Racing Team
-4,514785,Christopher,Peltzer,Johnstown,PA,,La Prima Espresso Co. Racing
+4,514785,Christopher,Peltzer,Indiana,PA,,La Prima Espresso Co. Racing
 5,455735,Travis,Iles,New Albany,OH,,Kryki Sports/ Audi
 6,423786,Thomas,Moran,Detroit,MI,,Base Media
 7,466116,Kyle,Kelly,Blue Ash,OH,,Bishop's Bicycles
@@ -239,7 +239,7 @@ Place,License #,First,Last,City,State,Time,Team
 27,398258,Chad,Mangeot,Fairfield,OH,,Team Dayton Cycling
 28,359850,Owen,Gibby,Cincinnati,OH,,Bishop's Bicycles
 DNF,221994,matthew,Lester,Lebanon,OH,,Team Dayton Cycling
-DNF,231392,David,Rich,Galloway,OH,,Team Dayton Cycling
+DNF,231392,David,Rich,Cedarville,OH,,Team Dayton Cycling
 DNF,466128,D.J.,Rummell,Ashland,OH,,Wooster Bikewerks p/b Wootown Bagels
 DNF,224012,Addison,Smith,Columbs,OH,,Team SixOneFour
 DNF,76192,Kevin,Collins,Grand Rapids,MI,,Speed Merchants Racing Team
@@ -265,10 +265,10 @@ Place,License #,First,Last,City,State,Time,Team
 2,430105,Marie,Grassi,Columbus,OH,,Prochain Junior Cycling
 3,430312,Kimberly,Owens,Granville,OH,,Lady gnar shedders
 4,425056,Emily,Dreyer,Columbus,OH,,Lady Gnar Shredders
-5,516682,Mary-Kate,Wintz,Columbus,OH,,Team SixOneFour
+5,516682,Mary-Kate,Wintz,Willoughby,OH,,Team SixOneFour
 6,414168,Alexa,Stierwalt,Maineville,OH,,Prochain Junior Cycling
 7,460169,Brianna,Elsmore,Pickerington,OH,,Team SixOneFour
-8,485822,Caryn,Willis,Lansing,MI,,Speed Merchants Race Team
+8,485822,Caryn,Willis,Pittsburgh,PA,,Speed Merchants Race Team
 9,473898,Wendy,Gilmore,Centerville,OH,,Queen City Wheels
 10,489696,Mary T.,Adamo-Price,Centerville,OH,,Team Dayton Cycling
 11,454759,Heather,Lawhorn,Chillicothe,OH,,Team Dayton Cycling

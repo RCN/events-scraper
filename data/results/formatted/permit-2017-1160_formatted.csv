@@ -17,7 +17,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,530053,Warrick,SPENCE,Crystal Lake,IL,,PSIMET Racing
 14,245737,Tyler,GEORGE,Chicago,IL,,xXx Racing
 15,174544,Shane,FEEHERY,Homewood,IL,,Bicycle Heaven
-16,263035,Andrew,GINIAT,Winnetka,IL,,Project Echelon Racing
+16,263035,Andrew,GINIAT,Asheville,NC,,Project Echelon Racing
 17,200766,Michael,DUTCZAK,Crete,IL,,Bicycle Heaven
 18,320582,Matthew,ZIMMER,Dewitt ,IA,,Gateway Harley-Davidson Trek U2
 19,330644,Chris,YOUNG,Chicago,IL,,xXx Racing
@@ -55,7 +55,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,406781,Christine,THORNBURG,Lincolnshire,IL,,Chicago Womens Elite Cycling
 4,448311,Jennifer,KOSATKA,Libertyville,IL,,Chicago Womens Elite Cycling
 5,344102,Jennifer,SCHOOK,St. Louis,MO,,Midwest Cycling Trek Stores Wom
-6,512762,Lily,WILLIAMS,Chicago,IL,,Bonkers Cycling
+6,512762,Lily,WILLIAMS,Asheville,NC,,Bonkers Cycling
 7,424186,Brianna,OVERBEY,Edwardsville,IL,,Midwest Cycling Trek Stores Wom
 8,201838,Laurel,RATHBUN,Monument,CO,,Papa John's Racing pb TREK
 9,513926,Lisa,BECHARAS,Normal,IL,,Bloomington Cycle Racing Team
@@ -80,7 +80,7 @@ DNF,328606,Niki,NATION,Washington,IL,,PSIMET Racing
 06/04/2017 Criterium Women Cat 4/5 OPEN
 Place,License #,First,Last,City,State,Time,Team
 1,513926,Lisa,BECHARAS,Normal,IL,,Bloomington Cycle Racing Team
-2,527854,Allison,SCHROEDER,Chicago,IL,,
+2,527854,Allison,SCHROEDER,Champaign,IL,,
 3,497850,Marissa,CARTER,Saint Charles,MO,,Team Mack Racing Assn
 4,503371,Anna,AFFIAS,Chicago,IL,,Spidermonkey Cycling
 5,514484,Lisa,HILLEREN,Chicago,IL,,BFF Bikes
@@ -124,12 +124,12 @@ Place,License #,First,Last,City,State,Time,Team
 1,486546,Ethan,CARNEY,Champaign,IL,,
 2,516103,Marcus,VAN MIEGHEM,Evanston,IL,,The Pony Shop
 3,514405,David,KOSELA,Downers Grove,IL,,Plus Cycling Team
-4,440523,Samuel,DENNISON,Carpentersville,IL,,International Christian Cycling
+4,440523,Samuel,DENNISON,West Dundee,IL,,International Christian Cycling
 5,533067,Jersey,CHYTLA (HIT-LA),Saint Charles,IL,,Team Bicycle Heaven
 6,484631,Aidan,LETZEL,Mount Prospect,IL,,The Pony Shop
 7,503580,Jacob,KUSAR,Chicago,IL,,
-8,493062,Nicholas,LABBE,Rolling Meadows  Il,IL,,The Pony Shop
-9,476977,Rafi,DENNISON,Carpentersvile,IL,,International Christian Cycling
+8,493062,Nicholas,LABBE,Rolling Meadows  ,IL,,The Pony Shop
+9,476977,Rafi,DENNISON,West Dundee,IL,,International Christian Cycling
 10,509850,Julius,GOMEZ,Dyer,IN,,
 11,530005,George,WERDERICH,Yorkville,IL,,
 12,476242,Andrew,CURTIS,Elgin,IL,,PSIMET Racing
@@ -137,7 +137,7 @@ Place,License #,First,Last,City,State,Time,Team
 06/04/2017 Criterium Mixed Cat 1/2/3/4 Masters 30-99
 Place,License #,First,Last,City,State,Time,Team
 1,198389,Michael,LANYON,Chicago,IL,,Burnham Racing
-2,82244,Chris,RICHTER,Fishers,IN,,Team Heroes  First Internet Ban
+2,82244,Chris,RICHTER,Carmel,IN,,Team Heroes  First Internet Ban
 3,215999,Julian,BAUMGARTNER,Lincolnwood,IL,,Burnham Racing
 4,245393,Jon,KINER,Normal,IL,,Bloomington Cycle Racing Team
 5,261314,Joe,BIPPUS,Homer Glen,IL,,South Chicago Wheelmen
@@ -158,7 +158,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,162118,Brian,HAAS,Chicago,IL,,The Weather Channel
 5,266664,Nate,IDEN,Glencoe,IL,,Burnham Racing
 6,65323,Harry,CLARK,Carmel,IN,,Team Heroes  First Internet Ban
-7,406399,Simon,PHUAH,Downers Grove,IL,,INTENT
+7,406399,Simon,PHUAH,Littleton,CO,,INTENT
 8,57709,Jim,FLORA,Beecher,IL,,Burnham Racing
 9,45366,Robert,GAUSS,Kenosha,WI,,Lakes Area Physical Therapy
 10,402874,Andrzej,KRZYSIAK,Westmont,IL,,Polish & Slavic FCU Internation
@@ -176,7 +176,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,375656,Neal,MCNAMARA,Chicago,IL,,Burnham Racing
 23,40409,Timothy,DOELMAN,Glencoe,IL,,The Weather Channel
 24,8003,Thomas,COX,Bloomington,IN,,Team Heroes  First Internet Ban
-25,362289,Jason,HOLLY,Buffalo Grove ,IL,,PSIMET Racing
+25,362289,Jason,HOLLY,Buffalo Grove,IL,,PSIMET Racing
 26,172471,Mark,ZALEWSKI,Chicago,IL,,Spidermonkey Cycling
 DNF,389076,Stuart,NELSEN,Oak Park,IL,,UPB Cycling
 
@@ -184,7 +184,7 @@ DNF,389076,Stuart,NELSEN,Oak Park,IL,,UPB Cycling
 Place,License #,First,Last,City,State,Time,Team
 1,266633,David,JAGGI,Oak Park,IL,,
 2,306875,Jim,CREAMER,Carmel,IN,,Team Heroes
-3,184183,Marc,ZIONTS,Highland Park,IL,,The Weather Channel
+3,184183,Marc,ZIONTS,Chapel Hill,NC,,The Weather Channel
 4,70519,Alfonso,REYES,Normal,IL,,The Weather Channel
 5,182683,Scott,SHAW,Edwardsville,IL,,The Cyclery Racing Team
 6,219887,Mark,SILLS,Champaign,IL,,Scarlet Fire Racing
@@ -200,7 +200,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,193029,Joseph,FARRIS,Plainfield,IL,,
 2,529817,Rafal,KUKLINSKI,Romeoville,IL,,Plus Cycling Team
-3,533001,Andy,TIPTON,Greenup,IL,,
+3,533001,Andy,TIPTON,Effingham ,IL,,
 4,525433,Talius,CHICKERING,Cleveland,OH,,
 5,509760,Edgar,VERA,Brookfield,IL,,
 6,509729,Stephen,DUNCAN,Rensselaer,IN,,RegionRacing pb Strack & Van Ti
@@ -212,7 +212,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,519966,Richard,FANNING,Schaumburg,IL,,
 13,270658,John,REIKER,Geneva,IL,,
 14,533355,Karolis,KAVECKAS,Chicago,IL,,
-15,493062,Nicholas,LABBE,Rolling Meadows  Il,IL,,The Pony Shop
+15,493062,Nicholas,LABBE,Rolling Meadows  ,IL,,The Pony Shop
 16,306967,David,DONNELLY,Chicago,IL,,Spidermonkey Cycling
 17,460364,Brian,KNETL,Homewood,IL,,South Chicago Wheelmen
 18,524911,Bryson,SULLIVAN,Urbana,IL,,
@@ -286,7 +286,7 @@ Place,License #,First,Last,City,State,Time,Team
 24,365180,Daniel,BURKHARDT,Chicago,IL,,
 25,336264,Jose,RODRIGUEZ,Highwood,IL,,INTENT
 26,328968,Nick,DIEDRICH,Willowbrook,IL,,UPB Cycling
-27,361716,Freddy,BERNABE,Chicago ,IL,,
+27,361716,Freddy,BERNABE,Chicago,IL,,
 28,235975,Michael,KIRBY,Chicago,IL,,xXx Racing
 29,281964,Brian,PIOTROWSKI,Chicago,IL,,xXx Racing
 30,172471,Mark,ZALEWSKI,Chicago,IL,,Spidermonkey Cycling

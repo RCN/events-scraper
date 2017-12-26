@@ -82,7 +82,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,45263,James,Dickerson,Fort Collins,CO,0:55:23.70,
 5,55246,Scott,Hendricks,Lakewood,CO,0:55:55.10,
 6,364420,Kim,Workman,Fort Collins,CO,0:56:43.80,
-7,364536,Jerry,Rome,Denver,CO,0:57:40.80,
+7,364536,Jerry,Rome,Denverdenver,CO,0:57:40.80,
 8,7713,Geoff,Cooper,Boulder,CO,0:57:46.20,
 9,363315,Murray S.,Willis,Lakewood,CO,0:59:48.80,
 10,362532,Jeff,Ray,Ft Collins,CO,0:59:59.20,
@@ -161,7 +161,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,177800,Gaetano,Pasquino,Denver,CO,1:03:21.00,
 15,268445,Christopher,Dunn,Parker,CO,1:03:22.00,
 16,68038,Ray,Zeuner,Denver,CO,1:06:22.00,
-9999999,364052,Dan,Maduff,Lakewood,CO,DNF,
+9999999,364052,Dan,Maduff,Littleton,CO,DNF,
 
 06/17/2017 Time Trial Men MM 40+ 3
 Place,License #,First,Last,City,State,Time,Team
@@ -174,7 +174,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,356924,Christian,Smith,Boulder,CO,1:00:10.00,
 8,368821,Rod,Unverrich,Fort Collins,CO,1:00:39.00,
 9,367356,Lloyd,Jones,Westminster,CO,1:00:50.00,
-10,408085,Lanny,Dunham,Castle Pines,CO,1:01:24.00,
+10,408085,Lanny,Dunham,Parker,CO,1:01:24.00,
 11,368822,James,Scott,Parker,CO,1:02:35.00,
 12,477408,Damon,Brandt,Denver,CO,1:03:06.00,
 
@@ -219,7 +219,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,366939,Tom,Davis,Fremont,IN,0:29:28.10,
 2,366135,Jerry,Young,Providence,UT,0:33:42.60,
-3,425052,Kevin,Hillery,Woodbridge,VA,0:35:22.20,
+3,425052,Kevin,Hillery,Kailua,HI,0:35:22.20,
 4,0,Michael,Sales,,,0:45:35.00,
 
 06/17/2017 Time Trial Men H3
@@ -228,7 +228,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,169071,Matthew,Updike,Denver,CO,0:32:55.90,
 3,504080,Krys,Zybowski,Avon,CT,0:34:30.60,
 4,133580,Craig,Cornwall,Boise,ID,0:35:20.80,
-5,523346,Brandon,Lyons,Colorado Springs,CO,0:37:35.60,
+5,523346,Brandon,Lyons,Carlsbad,CA,0:37:35.60,
 
 06/17/2017 Time Trial Men H2
 Place,License #,First,Last,City,State,Time,Team
@@ -269,7 +269,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 06/17/2017 Time Trial Women VI
 Place,License #,First,Last,City,State,Time,Team
-1,390016,Shawn,Cheshire,Camillus,NY,0:47:43.50,
+1,390016,Shawn,Cheshire,Malden,MA,0:47:43.50,
 1,184933,Tela,Crane,Sammamish,WA,0:47:43.50,
 
 06/17/2017 Time Trial Women T2
@@ -281,8 +281,8 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,533628,Jennie,Hawkins,Fort Collins,CO,1:01:05.00,
 2,248862,Paisley,Sheehan,Boulder,CO,1:01:20.00,
-3,518909,kristi,lindquist,Castle Rock,CO,1:02:53.00,
-4,528253,Lauren,Murray,Fort Collins,CO,1:04:15.00,
+3,518908,kristi,lindquist,Castle Rock,CO,1:02:53.00,
+4,528253,Lauren,Murray,Colorado Springs,CO,1:04:15.00,
 5,402615,Cassidy,Hickey,Parker,CO,1:05:26.00,
 6,525156,Melissa,Langworthy,Denver,CO,1:05:46.00,
 7,396969,Jennifer,Relfe,Broomfield,CO,1:10:08.00,

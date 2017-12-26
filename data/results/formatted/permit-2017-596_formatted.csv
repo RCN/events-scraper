@@ -3,12 +3,12 @@
 03/12/2017 Road Race Men Pro/Cat 1/2 81 Miles 15-99
 Place,License #,First,Last,City,State,Time,Team
 1,268330,Travis,MCCABE,Tucson,AZ,3:08:52,
-2,155190,Chad,BEYER,Scottsdale,AZ,3:08:52,
+2,155190,Chad,BEYER,Tempe,AZ,3:08:52,
 3,341120,Tyler,STITES,Tucson,AZ,3:09:15,
 4,396776,Wouter,ZWART,Tucson,AZ,3:09:29,
 5,0,Nickolas,ZUKOWSKY,,,3:09:36,
 6,57576,Lewis,ELLIOT,Scottsdale,AZ,3:14:17,
-7,87933,Paul,THOMAS,Gilbert ,AZ,3:18:04,
+7,87933,Paul,THOMAS,Gilbert,AZ,3:18:04,
 8,216006,Miguel,FOLCH,Tucson,AZ,3:20:52,
 9,394102,Adam,BRYFOGLE,Tucson,AZ,3:21:02,
 10,277670,Max,CRONYN,Tucson,AZ,3:21:06,
@@ -35,7 +35,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,502968,Mark,VYNE,Gilbertgilbert,AZ,1:57:59,
 7,382839,Dirk,DEHEER,Flagstaff,AZ,1:58:04,
 8,514512,Seth,WALL,Jefferson,MD,1:58:09,
-9,502980,Benjamin,CRISTOFORI,Tucson,AZ,1:58:12,
+9,502980,Benjamin,CRISTOFORI,Marana,AZ,1:58:12,
 10,391525,Peter,ANDERSON,Tucson,AZ,1:58:19,
 11,0,Antonio,HERNANDEZ,,,1:58:21,
 12,0,Jose,NAVARRO,,,1:58:35,
@@ -63,7 +63,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,404500,Stephen,BROWN,Phoenix,AZ,2:28:14,
 4,494168,Avery,BALTUNIS,Hereford,AZ,2:28:15,
 5,493869,Carl,PATTERSON-MARKOWITZ,Tucson,AZ,2:28:15,
-6,366670,David,PLATON,Avondale ,AZ,2:28:15,
+6,366670,David,PLATON,Avondale,AZ,2:28:15,
 7,467525,Richard,FARABEE,Queen Creek,AZ,2:28:15,
 8,422490,Peter,VLAD,Phoenix,AZ,2:28:15,
 9,496849,Zaid,MURRIETA,Tucson,AZ,2:28:15,
@@ -111,7 +111,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,422305,Michael,HAST,Tucson,AZ,2:41:05,
 5,353942,Levi,KRAMER,Scottsdale,AZ,2:41:05,
 6,313820,Douglas,RITENOUR,Phoenix,AZ,2:41:05,
-7,332886,Tim,SCOTT,Sahuarita ,AZ,2:41:05,
+7,332886,Tim,SCOTT,Sahuarita,AZ,2:41:05,
 8,364702,Gilberto,MELENDEZ,Tucson,AZ,2:41:05,
 9,304297,Leo,CARRILLO,Oro Valley,AZ,2:41:05,
 10,428380,Tony,MONTEFERRANTE,Scottsdale,AZ,2:41:15,
@@ -132,7 +132,7 @@ Place,License #,First,Last,City,State,Time,Team
 03/12/2017 Road Race Men Cat. 1/2/3/4/5 Masters 54 Miles 35-99
 Place,License #,First,Last,City,State,Time,Team
 1,467197,oscar,COTA,,,2:09:59,
-2,392666,Bill,KARRAS,Mesa ,AZ,2:13:47,
+2,392666,Bill,KARRAS,Mesa,AZ,2:13:47,
 3,0,Sergio,DOMINGUEZ,,,2:09:49,
 4,0,David,SALOMON,,,2:09:49,
 5,55904,Tim,CAROLAN,Tucson,AZ,2:13:29,
@@ -160,12 +160,12 @@ Place,License #,First,Last,City,State,Time,Team
 2,65615,Brian,FORBES,Tucson,AZ,2:14:17,
 3,49417,Danny,BENNETT,Tucson,AZ,2:28:13,
 4,54748,James,KRAMER,Scottsdale,AZ,2:28:16,
-5,440780,Jose,NICOLA,,,2:28:20,
+5,467095,Jose,NICOLA,,,2:28:20,
 6,310761,Daniel,DUDZIK,Burlington,CT,2:28:20,
 7,0,Matthew,BROWN,,,2:28:23,
 8,247766,Jim,HOLBROOK,Peoria,AZ,2:28:50,
 9,40545,Scott,ELLIS,Tucson,AZ,2:58:48,
-DNS,119446,Allyn,SMITH,Saint Joseph,MO,0:00:00,
+DNS,119446,Allyn,SMITH,St Joseph,MO,0:00:00,
 
 03/12/2017 Road Race Men Cat. 1/2/3/4/5 Masters 45 Miles 55-99
 Place,License #,First,Last,City,State,Time,Team
@@ -183,7 +183,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,501497,Daniel,VEILLEUX,Westerly,RI,2:05:18,
 13,0,David,WALKER,,,2:05:23,
 14,459264,George,VILLANUEVA,Tucson,AZ,2:17:47,
-15,192230,Mark,COWIN,Frederica ,DE,2:21:39,
+15,192230,Mark,COWIN,Frederica,DE,2:21:39,
 16,0,James,ARNOLD,,,2:36:31,
 DNF,15271,James,HART,Tempe,AZ,0:00:00,
 
@@ -241,7 +241,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,298724,Rhys,LOUIS,Tempe,AZ,3:26:45,
 7,366496,Nikita,LINDGREN,Tucson,AZ,4:00:00,
 8,394505,Castle,GAY,Tucson,AZ,4:00:49,
-9,422930,Scott,JONES,Tempe,AZ,4:04:41,
+9,422930,Scott,JONES,Scottsdale,AZ,4:04:41,
 
 03/12/2017 Road Race Women Pro/Cat 1/2/3 81 Miles 15-99
 Place,License #,First,Last,City,State,Time,Team
@@ -319,6 +319,6 @@ DNS,523959,Brianna,TALBOT,Tucson,AZ,0:00:00,
 Place,License #,First,Last,City,State,Time,Team
 1,496845,Pearl,DIXON,Tucson,AZ,5:34:28,
 2,489136,Tori,RIEMERSMA,Tempe,AZ,4:34:29,
-3,459515,Alissa,ALBRECHT,Tempe,FL,5:22:17,
+3,459515,Alissa,ALBRECHT,Tempe,AZ,5:22:17,
 4,414481,Jennifer,QUIJADA,Flagstaff,AZ,5:28:30,
 5,395508,Shelby,HOGLUND,Tucson,AZ,4:48:00,

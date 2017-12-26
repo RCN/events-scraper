@@ -19,7 +19,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,514361,Sam,Munday,Alpharetta ,GA,,
 16,277970,David,Flynn,Winston Salem,NC,,Kens Bike Shop
 17,64902,Eric,Abrams,Irvine,CA,,Jiggawatt Racing
-18,418380,Ryan,Hayden,Wake Forest ,NC,,Electric Banana p/b FSC Cycling
+18,418380,Ryan,Hayden,Wake Forest,NC,,Electric Banana p/b FSC Cycling
 19,281614,Paul,Mesi,Winston-salem,NC,,Jigawatt Cycling
 20,253478,Keith,Gerarden,Chapel Hill,NC,,Happy Tooth Racing
 21,258301,Kirk,Bjorling,Asheville,NC,,VeloSports Racing Asheville
@@ -28,7 +28,7 @@ Place,License #,First,Last,City,State,Time,Team
 24,393312,Cliff,Mueller,Cornelius,NC,,High Country Devo p/b Monster Media
 25,155665,Jerry,Gala,Apex,NC,,Happy Tooth Racing
 26,161552,Lucas,Livermon,Durham,NC,,cyclus Sports
-27,299251,Justin,McQuerry,Athens,GA,,Team Novo Nordisk Development
+27,299251,Justin,McQuerry,Austin,TX,,Team Novo Nordisk Development
 28,401642,Brais,Dacal,Athens,GA,,
 29,310312,Eric,Serantoni,Charlotte,NC,,Nine Lives Carbon Repair
 30,312154,Michael,Gearren II,New Bern,NC,,cyclus Sports
@@ -44,7 +44,7 @@ Place,License #,First,Last,City,State,Time,Team
 40,205601,Adam,Perez,Raleigh,NC,,Happy Tooth Racing
 41,389699,Philip,Short,Greensboro,NC,,Nine Lives Carbon Repair
 42,48697,Ted,Hopkins,Wake Forest,NC,,Team Spoke Cycles
-43,383915,Tom,Salvesen,Charleston,SC,,
+43,383915,Tom,Salvesen,Lakewood,CO,,
 44,28586,Derek,Powers,Carrboro,NC,,The Electric Banana Cycling Project p/b FSC Racing
 45,0,Juan,Gonzalez,,,,
 46,526320,Oliver,Behringer,Athens,GA,,
@@ -122,16 +122,16 @@ Place,License #,First,Last,City,State,Time,Team
 11,233189,William,McDaniel,Raleigh,NC,,Jigawatt cycling
 12,0,Robert,George Jr,,,,AUDI Cary - Capital Cycling Club
 13,385645,Matthew,Spargo,Belmont,NC,,Carolina Cycling Team
-14,339024,Rick,Williams,Apex ,NC,,Jigawatt Cycling p/b Carolina Ale House
+14,339024,Rick,Williams,Cary,NC,,Jigawatt Cycling p/b Carolina Ale House
 15,471761,Sean,Huson,Hendersonville,NC,,Crosstown Velo
 16,298994,Keith,Handlon,Apex,NC,,Jigawatt Cycling p/b Carolina Ale House
 17,128133,Brian,Attis,Chapel Hill,NC,,FSC Racing
 18,306369,Andy Allen,Sherman,Saxapahaw,NC,,The Electric Banana Cycling Project p/b FSC Racing
 19,263327,William Jay,Jenkins,Waxhaw,NC,,Carolina Cycling Team
 20,332574,Marc,Buxbaum,Wake Forest,NC,,Jigawatt Cycling pb Carolina Ale House
-21,132845,Michael,Mathers,Raleigh,NC,,JA King
+21,132845,Michael,Mathers,Wake Forest,NC,,JA King
 22,214686,Jason,Casteen,Albemarle,NC,,Unilin MDF
-23,0,David,Turpin,,,,USMES
+23,523694,Dave,Turpin,Chesapeake,VA,,USMES
 24,340182,Raul,GutierrezGarcia,High Point,NC,,Cone Health/cycles de ORO
 25,472976,Marvin Shawn,Perkins,Raleigh,NC,,Jigawatt Cycling p/b Carolina Ale House
 26,59460,Noah,Byrd,Durham,NC,,Electric Banana Cycling Project p/b FSC Racing
@@ -144,7 +144,7 @@ Place,License #,First,Last,City,State,Time,Team
 33,19727,Jamie,Kovalaske,Cary,NC,,Revolution Cycle Sports
 34,361156,Charlie,Putnal,Flat Rock,NC,,Crosstown Velo
 35,241127,Kerry,Humphrey,Charlotte,NC,,Carolina Cycling Team
-DNS,3868,Christopher,Blake,Morrisville,NC,,Happy Tooth Racing
+DNS,3868,Christopher,Blake,Apex,NC,,Happy Tooth Racing
 DNP,57519,Kevin,Green,Charlotte,NC,,Plan7 Endurance Coaching
 DNP,394780,Stephen,Guidry,Matthews,NC,,Carolina Cycling Team
 
@@ -208,7 +208,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,0,Julien,Berard,,,,
 3,524227,Jason,Arne,Durham,NC,,
 4,526358,Paul,Davis,Durham,NC,,
-5,460221,Scott,Mayo,Fuquay Varina,NC,,Captial Cycling Club Team Audi of Cary
+5,460221,Scott,Mayo,Apex,NC,,Captial Cycling Club Team Audi of Cary
 6,503136,Steven,Andreaus,Raleigh,NC,,Constellation Cycling = C2
 7,531991,Bryan,Launer,Raleigh,NC,,Team CarboRocket
 8,524318,Logan,Hunt,Durham,NC,,Triangle Velo
@@ -222,13 +222,13 @@ Place,License #,First,Last,City,State,Time,Team
 16,505663,Tj,Kuczewski,Lynchburg,VA,,
 17,0,Clifton,Lee,,,,Carolina Masters
 18,0,Joseph,Henry,,,,
-19,520504,James,Walsh,Farmer City,IL,,
+19,520504,James,Walsh,Raleigh,NC,,
 20,391128,Eric,Rood,Apex,NC,,Capital Cycling Club Team Audi Cary
 21,448200,Will,Pfeiffer,Raleigh,NC,,
 22,322796,John,Hyde,Hattiesburg,MS,,
 23,525854,Ronald,kurney,Raleigh,NC,,
 24,478028,Scott,Moore,Raleigh,NC,,Revolution Cycle Sports
-25,524321,Shea,Stepusin,Raleigh,NC,,Revolution Cycle Sports
+25,524321,Shea,Stepusin,Oxford,NC,,Revolution Cycle Sports
 26,496760,Kelly,Richards,Raleigh,NC,,
 27,526430,Anthony,Angelini,Durham,NC,,
 29,0,Jeriah,Locklear,,,,

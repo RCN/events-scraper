@@ -6,7 +6,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,494130,Davis,Adams,Headland,AL,00:54:04.000,Infinity Cycling Team
 3,470113,Emanuel,Mini,Athens,GA,00:54:04.700,Team Novo Nordisk Development
 4,133375,Michael,Olheiser,Huntsville,AL,00:54:05.100,Infinity Cycling Team
-5,272407,Timothy,Killelea,Chattanooga ,TN,00:54:05.300,Nashville Local Cycling
+5,272407,Timothy,Killelea,Chattanooga,TN,00:54:05.300,Nashville Local Cycling
 6,386430,Michaelee,Bowes,Dickson,TN,00:54:05.400,Nashville Local Cycling
 7,480001,Caleb,Aoake,Alpharetta,GA,00:54:05.500,Team Novo Nordisk Development
 8,138418,Christopher,Cundiff,Owens Cross Roads,AL,00:54:05.500,Infinity Cycling Team
@@ -19,7 +19,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,397845,Dustin,Antrican,Knoxville,TN,00:54:43.000,Nashville Local Cycling
 16,478579,Artem,Shmidt,Cumming,GA,00:55:13.300,Keenz Racing p/b Mission Source/NGCA
 17,251445,Matthew,Robbins,Chattanooga,TN,00:55:23.900,Village VW Chattanooga Cycling Team
-18,299251,Justin,McQuerry,Athens,GA,00:55:40.600,Team Novo Nordisk Development
+18,299251,Justin,McQuerry,Austin,TX,00:55:40.600,Team Novo Nordisk Development
 19,376433,RL,Hesson,Thompsons Station,TN,00:56:10.300,I Am Racing
 20,10137,Joseph,Duhon,Florence,AL,00:56:10.700,Borden Dental Racing p/b Spinning Spoke-Trek
 21,443877,Justin,Prior,Woodinville,WA,00:56:11.200,Keller Rohrback Cycling
@@ -90,16 +90,16 @@ Place,License #,First,Last,City,State,Time,Team
 3,457050,Blake,Kidd,Chattanooga,TN,00:30:54.000,Village VW Chattanooga Cycling Team
 4,538795,Chris,Key,Huntsville,AL,00:31:01.800,
 5,523987,Jose,Zayas,Madison,AL,00:31:19.600,Johnson & Hayes Physical Therapists
-6,411810,Brian,Young,Birmingham,AL,00:31:20.300,GSMR
+6,411810,Brian,Young,Hoover,AL,00:31:20.300,GSMR
 7,495809,Adam,Allen,Decatur,AL,00:31:48.500,Johnson & Hayes Physical Therapists
 8,0,James,Parker,,,00:31:48.900,
 9,401954,Tommy,Gates,Chattanooga,TN,00:31:49.300,
 
 08/13/2017 Criterium Women Pro/Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
-1,379218,Jessica,Edens,Kingston Springs ,TN,00:39:00.700,Nashville Local Cycling
+1,379218,Jessica,Edens,Kingston Springs,TN,00:39:00.700,Nashville Local Cycling
 2,431738,Karlie,Carter,Madison,AL,00:39:00.700,Johnson & Hayes Physical Therapists
-3,186727,Shannon,Mathis,Nashville,TN,00:39:01.100,Red Kite Bicycle Studio
+3,186727,Shannon,Mathis,Huntsville,AL,00:39:01.100,Red Kite Bicycle Studio
 4,410272,Gracie,Pendleton,Christiana,TN,00:39:01.200,Nashville Local Cycling
 5,400566,Karen,Gauthier,Huntsville,AL,00:39:01.300,
 6,457747,Moriah,Patashnik,Seattle,WA,00:39:01.300,Keller Rohrback Cycling
@@ -133,7 +133,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,510642,Sean,Fagan,Germantown,TN,00:36:30.500,BPC Cycling
 2,397756,Jeff,Lofgren,Apison,TN,00:37:01.100,Village VW Chattanooga Cycling Team
 3,298503,Ivan,Murdock,Clarksville,TN,00:38:56.900,US Military Endurance Sports
-4,539350,Dennis,Custer,Madison,AL,00:39:03.700,
+4,323380,Dennis,Custer,Chattanooga,TN,00:39:03.700,
 
 08/13/2017 Criterium Mixed Cat 1/2/3/4/5 Masters 60-99
 Place,License #,First,Last,City,State,Time,Team
@@ -164,13 +164,13 @@ DNF,201914,Adam,Pinkston,Asheville,NC,,Village VW Chattanooga Cycling Team
 08/12/2017 Criterium Men Pro/Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
 1,385573,Fausto,Crapiz,Dandridge,TN,00:53:34.200,Village VW Chattanooga Cycling Team
-2,299251,Justin,McQuerry,Athens,GA,00:53:34.200,Team Novo Nordisk Development
+2,299251,Justin,McQuerry,Austin,TX,00:53:34.200,Team Novo Nordisk Development
 3,504904,Dmitry,Ponkratov,Athens,GA,00:53:34.600,Team Novo Nordisk Development
 4,494130,Davis,Adams,Headland,AL,00:53:34.700,Infinity Cycling Team
 5,386430,Michaelee,Bowes,Dickson,TN,00:53:40.300,Nashville Local Cycling
 6,191703,Thomas,Brown,Athens,GA,00:53:40.700,Team Novo Nordisk Development
 7,251445,Matthew,Robbins,Chattanooga,TN,00:53:40.700,Village VW Chattanooga Cycling Team
-8,272407,Timothy,Killelea,Chattanooga ,TN,00:53:41.900,Nashville Local Cycling
+8,272407,Timothy,Killelea,Chattanooga,TN,00:53:41.900,Nashville Local Cycling
 9,133375,Michael,Olheiser,Huntsville,AL,00:53:42.000,Infinity Cycling Team
 10,274542,Preston,Beasley,Harvest ,AL,00:53:43.800,Borden Dental Racing p/b Spinning Spoke-Trek
 11,480001,Caleb,Aoake,Alpharetta,GA,00:53:47.300,Team Novo Nordisk Development
@@ -237,7 +237,7 @@ Place,License #,First,Last,City,State,Time,Team
 26,411316,Jacob,Kuper,Gallatin,TN,00:32:45.500,I Am Racing
 27,0,James,Parker,,,00:32:50.500,
 28,495809,Adam,Allen,Decatur,AL,00:34:09.900,Johnson & Hayes Physical Therapists
-DNF,274882,Brian,Reising,Duluth,GA,,
+DNF,274882,Brian,Reising,Johns Creek,GA,,
 
 08/12/2017 Criterium Men Cat 3/4
 Place,License #,First,Last,City,State,Time,Team
@@ -273,14 +273,14 @@ Place,License #,First,Last,City,State,Time,Team
 5,539023,Parker,Stelly,Ooltewah,TN,00:21:24.400,
 6,538795,Chris,Key,Huntsville,AL,00:21:24.800,
 7,457050,Blake,Kidd,Chattanooga,TN,00:21:24.800,Village VW Chattanooga Cycling Team
-8,411810,Brian,Young,Birmingham,AL,00:21:25.400,GSMR
+8,411810,Brian,Young,Hoover,AL,00:21:25.400,GSMR
 9,523987,Jose,Zayas,Madison,AL,00:21:29.000,Johnson & Hayes Physical Therapists
 10,514953,Joshua,East,Cookeville,TN,00:23:09.600,Hub Cycling-Caney Fork Racing
 
 08/12/2017 Criterium Women Pro/Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
 1,431738,Karlie,Carter,Madison,AL,00:41:49.500,Johnson & Hayes Physical Therapists
-2,379218,Jessica,Edens,Kingston Springs ,TN,00:41:49.600,Nashville Local Cycling
+2,379218,Jessica,Edens,Kingston Springs,TN,00:41:49.600,Nashville Local Cycling
 3,410272,Gracie,Pendleton,Christiana,TN,00:41:50.200,Nashville Local Cycling
 4,400566,Karen,Gauthier,Huntsville,AL,00:41:50.300,
 5,457747,Moriah,Patashnik,Seattle,WA,00:41:50.300,Keller Rohrback Cycling
@@ -320,7 +320,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,50441,Timothy,Taylor,Lexington,TN,00:30:51.500,Lift Center Racing
 6,534775,Al,Harjes,Ooltewah,TN,00:32:44.300,Village VW Chattanooga Cycling Team
 7,530555,Norman,Carpenter,Ringgold,GA,00:33:12.300,Village VW Chattanooga Cycling Team
-8,539350,Dennis,Custer,Madison,AL,00:36:37.400,
+8,323380,Dennis,Custer,Chattanooga,TN,00:36:37.400,
 
 08/12/2017 Criterium Mixed Cat 1/2/3/4/5 Masters 60-99
 Place,License #,First,Last,City,State,Time,Team
@@ -351,7 +351,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,133375,Michael,Olheiser,Huntsville,AL,00:13:16.900,Infinity Cycling Team
 2,470113,Emanuel,Mini,Athens,GA,00:13:41.100,Team Novo Nordisk Development
-3,272407,Timothy,Killelea,Chattanooga ,TN,00:13:43.100,Nashville Local Cycling
+3,272407,Timothy,Killelea,Chattanooga,TN,00:13:43.100,Nashville Local Cycling
 4,494130,Davis,Adams,Headland,AL,00:13:51.800,Infinity Cycling Team
 5,141477,John,Hart,Murfreesboro,TN,00:13:53.000,Friends Great Smokies (FGS Cycling)
 6,265398,Logan,Phippen,Athens,GA,00:13:54.500,Team Novo Nordisk Development
@@ -363,7 +363,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,282547,Nathan,Spence,Auburn,AL,00:14:51.100,SH!FT Racing p/b St. Vincent's Orthopedics
 13,504904,Dmitry,Ponkratov,Athens,GA,00:14:59.100,Team Novo Nordisk Development
 14,480001,Caleb,Aoake,Alpharetta,GA,00:15:19.300,Team Novo Nordisk Development
-15,299251,Justin,McQuerry,Athens,GA,00:15:31.300,Team Novo Nordisk Development
+15,299251,Justin,McQuerry,Austin,TX,00:15:31.300,Team Novo Nordisk Development
 16,526320,Oliver,Behringer,Athens,GA,00:15:32.400,Team Novo Nordisk Development
 17,480075,Juan,Gonzalez,Athens,GA,00:15:42.600,Team Novo Nordisk Development
 18,440646,Drew,Williams,Huntsville,AL,00:16:09.700,Johnson & Hayes Physical Therapists
@@ -396,7 +396,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,424092,James,Caperton,Shelbyville,TN,00:16:14.100,MOAB Racing
 12,538795,Chris,Key,Huntsville,AL,00:16:18.700,
 13,287145,Lewis,Ford,Athens,AL,00:18:08.300,Johnson & Hayes Physical Therapists
-14,274882,Brian,Reising,Duluth,GA,00:18:47.200,
+14,274882,Brian,Reising,Johns Creek,GA,00:18:47.200,
 15,513693,Nick,Wigginton,Eva,AL,00:20:25.300,Johnson & Hayes Physical Therapists
 
 08/12/2017 Time Trial Men Cat 3/4
@@ -423,7 +423,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 08/12/2017 Time Trial Women Pro/Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
-1,379218,Jessica,Edens,Kingston Springs ,TN,00:15:52.100,Nashville Local Cycling
+1,379218,Jessica,Edens,Kingston Springs,TN,00:15:52.100,Nashville Local Cycling
 2,400566,Karen,Gauthier,Huntsville,AL,00:16:58.500,
 3,410272,Gracie,Pendleton,Christiana,TN,00:17:10.800,Nashville Local Cycling
 4,431738,Karlie,Carter,Madison,AL,00:18:15.700,Johnson & Hayes Physical Therapists
@@ -453,7 +453,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,298503,Ivan,Murdock,Clarksville,TN,00:16:08.700,US Military Endurance Sports
 6,534775,Al,Harjes,Ooltewah,TN,00:17:16.500,Village VW Chattanooga Cycling Team
 7,530555,Norman,Carpenter,Ringgold,GA,00:17:24.700,Village VW Chattanooga Cycling Team
-8,539350,Dennis,Custer,Madison,AL,00:18:40.400,
+8,323380,Dennis,Custer,Chattanooga,TN,00:18:40.400,
 
 08/12/2017 Time Trial Mixed Cat 1/2/3/4/5 Masters 60-99
 Place,License #,First,Last,City,State,Time,Team

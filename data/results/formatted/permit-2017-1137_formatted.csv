@@ -11,7 +11,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,300916,Steve,Estabrook,South Burlington,VT,04:14.65,
 4,292804,Dylan,Conte,Stowe,VT,04:17.33,
 5,105503,Steve,Avery,Hopkinton,NH,04:23.81,
-6,195365,Oliver,Levick,Troy,NH,04:34.12,
+6,195365,Oliver,Levick,Medford,MA,04:34.12,
 7,377134,Andrew,Wegiel,Leominster,MA,04:34.84,
 8,390323,Cole,Michie,Henniker,NH,04:37.27,
 9,474409,Anthony,Bielefeld,Rock Hill,NY,04:44.41,
@@ -103,7 +103,7 @@ DNS,404951,Mason,Guarino,Tewksbury,MA,,
 
 06/11/2017 Downhill Men Cat1 40+
 Place,License #,First,Last,City,State,Time,Team
-1,88016,Fred,Bassett,Westport ,MA,04:56.54,
+1,88016,Fred,Bassett,Brewster,MA,04:56.54,
 2,197251,Paul,Adams,Hillsboro,NH,05:02.90,
 3,100749,Jeremy,Geiger,Oyster Bay,NY,05:05.47,
 4,478643,Mark,Schnepel,Groveland,MA,05:08.47,
@@ -173,7 +173,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,0,Chad,Willey,,,00:53:30,
 4,0,Helio,Faleiros Junior,,,00:53:37,
 5,0,Adriano,Junqueira,,,00:53:52,
-6,43693,Zak,Gourley,South Hamilton,MA,00:54:40,
+6,43693,Zak,Gourley,Hamilton,MA,00:54:40,
 7,0,Andre,Damota,,,00:55:10,State 9 Racing p/b Vittoria
 8,255830,Seth,Haskell,Hampton,NH,00:56:13,Barks & Wreck
 9,0,Clark,Miranda,,,01:10:22,
@@ -193,7 +193,7 @@ Place,License #,First,Last,City,State,Time,Team
 06/11/2017 Cross Country Men Cat 2 Junior 12-18
 Place,License #,First,Last,City,State,Time,Team
 1,0,Conor,Munns,,,01:25:24,SMS Cycling
-2,404751,Austin,Beard,Middlesex,VT,01:26:49,Bicycle Express Racing
+2,432218,Austin,Beard,Middlesex,VT,01:26:49,Bicycle Express Racing
 3,506936,Ethan,Farmer,Randolph Center,VT,01:35:20,Bicycle Express Racing
 4,0,Asa,Chalmers,,,01:37:15,SMS Cycling
 5,496512,James,Kreuzburg,Canaan,NH,01:42:46,
@@ -250,9 +250,9 @@ Place,License #,First,Last,City,State,Time,Team
 1,504913,Chris,Mehlman,Boston,MA,01:58:52,B2C2/JRA
 2,500524,Ben,Powers,Haverhill,MA,02:00:40,Riverside Racing
 3,390756,Finnegan,O'Connor,West Hatfield,MA,02:13:05,Competitive Edge Ski & Bike
-4,504221,Ben,Ogden,Landgrove  ,VT,02:14:28,
+4,504221,Ben,Ogden,Landgrove,VT,02:14:28,
 5,392877,Matthew,Johnson,Newburyport,MA,02:26:54,Riverside Racing
-6,343736,Grayson,Ford,Norwellnorwell,MA,02:45:35,AP Junior Development
+6,343736,Grayson,Ford,Norwell,MA,02:45:35,AP Junior Development
 
 06/11/2017 Cross Country Men Cat 1 Senior 19-29
 Place,License #,First,Last,City,State,Time,Team
@@ -267,7 +267,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,130824,Breeze,Keller,Kennebunkport,ME,02:04:11,Wheels and Waves
 2,294313,Samuel,Evans-Brown,Gilmanton Ironworks,NH,02:12:03,Sunapee/Buchikas/Continental Paving
 3,296124,Edenilson,Da Silva,South Kent,CT,02:15:33,Class Cycles
-4,199084,Adam,Sullivan,North Kingstown,RI,02:29:49,Grinta! p/b Best Buddies Challenge
+4,199084,Adam,Sullivan,Exeter,RI,02:29:49,Grinta! p/b Best Buddies Challenge
 5,393596,Josh,Geib,Bath,ME,02:30:21,Donweast Racing
 6,77261,Phillip,Parrish,Montplier,VT,02:31:19,Bicycle Express Racing
 DNF,486539,David,Crothers,Johnson,VT,,Bicycle Express Racing
@@ -278,7 +278,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,492173,Seamus,Woods,Brewster,MA,02:10:06,Cure Rage
 2,131716,Jeffrey,Craddock,Marstons Mills,MA,02:11:30,Sea Sports Cyclery & Outdoor
 3,225876,Scott,Martin,Westport,MA,02:18:16,Scottee's Westport Bicycle
-4,507347,Esdras,Pechim,Somerville ,MA,02:26:46,
+4,507347,Esdras,Pechim,Somerville,MA,02:26:46,
 5,310808,Lucas,Provost,Brewster,MA,02:32:25,BZ Riders/Caperacing.com
 6,194418,Travis,Voyer,Jericho,VT,02:33:50,Bicycle Express Racing
 7,86790,Luke,Hurley,Epsom,NH,02:37:28,PaleoLifeFoods

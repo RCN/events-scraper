@@ -60,7 +60,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,428380,Tony,MONTEFERRANTE,Scottsdale,AZ,0:27:36,
 2,422606,Alex,KAUFMAN,Flagstaff,AZ,0:28:22,
 3,364702,Gilberto,MELENDEZ,Tucson,AZ,0:28:27,
-4,332886,Tim,SCOTT,Sahuarita ,AZ,0:28:50,
+4,332886,Tim,SCOTT,Sahuarita,AZ,0:28:50,
 5,253918,David,UBINGER,El Paso,TX,0:29:19,
 6,493861,Joshua,WATTS,Phoenix,AZ,0:29:30,
 7,98861,Thomas,ZEGA,Tucson,AZ,0:30:19,
@@ -101,7 +101,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 03/11/2017 Individual Time Trial Men Cat. 1/2/3/4/5 Masters 20 Km 40-99
 Place,License #,First,Last,City,State,Time,Team
-1,392666,Bill,KARRAS,Mesa ,AZ,0:27:56,
+1,392666,Bill,KARRAS,Mesa,AZ,0:27:56,
 2,411837,Nicholes,DEMBINSKI,Fort Huachuca,AZ,0:29:31,
 3,222731,Matthew,KONYN,Northville,MI,0:29:39,
 
@@ -119,12 +119,12 @@ DNS,289487,Stephen,BANTA,Tempe,AZ,DNS,
 Place,License #,First,Last,City,State,Time,Team
 1,321592,Thomas,FIORILLO,Denver,CO,0:28:12,
 2,83075,James,WEBSTER,Tucson,AZ,0:28:35,
-3,440780,Jose,NICOLA,,,0:29:51,
+3,467095,Jose,NICOLA,,,0:29:51,
 4,54748,James,KRAMER,Scottsdale,AZ,0:32:09,
 5,40545,Scott,ELLIS,Tucson,AZ,0:32:45,
 6,218876,Jason,HEPLER,Tucson,AZ,0:32:45,
 7,333040,David,MITCHELL,Gilbert,AZ,0:32:49,
-DNS,119446,Allyn,SMITH,Saint Joseph,MO,DNS,
+DNS,119446,Allyn,SMITH,St Joseph,MO,DNS,
 
 03/11/2017 Individual Time Trial Men Cat. 1/2/3/4/5 Masters 20 Km 50-99
 Place,License #,First,Last,City,State,Time,Team
@@ -143,7 +143,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,35822,Lawrence,TOWNER,Boonton,NJ,0:28:30,
 4,223515,Gerry,CLAPPER,Scottsdale,AZ,0:29:07,
 5,311896,David,HUGHES,El Paso,TX,0:29:21,
-6,192230,Mark,COWIN,Frederica ,DE,0:29:32,
+6,192230,Mark,COWIN,Frederica,DE,0:29:32,
 7,408151,David,OWEN,Sierra Vista,AZ,0:31:03,
 8,200910,Kurt,KROEMER,Phoenix,AZ,0:31:04,
 9,459264,George,VILLANUEVA,Tucson,AZ,0:31:19,
@@ -179,7 +179,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,57244,Dean,MARVIN,Tucson,AZ,0:30:21,
 5,427913,Roy,QUADE,,,0:30:59,
 6,49587,Joe,PUCHI,Tubac,AZ,0:31:22,
-7,245777,Steven,BORER,Show Low,AZ,0:31:24,
+7,245777,Steven,BORER,Laguna Hills,CA,0:31:24,
 8,131425,Larry,VARYS,Littleton,CO,0:32:22,
 DNS,428440,Kenneth,STARCKE,Tucson,AZ,DNS,
 
@@ -242,7 +242,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,394505,Castle,GAY,Tucson,AZ,0:31:03,
 6,419955,Bryan,LITTLE,Vail,AZ,0:31:30,
 7,309840,Joshua,PRATT-FERGUSON,Orovalley,AZ,0:31:37,
-8,422930,Scott,JONES,Tempe,AZ,0:34:02,
+8,422930,Scott,JONES,Scottsdale,AZ,0:34:02,
 9,382065,David,GREIF,Tucson,AZ,0:37:47,
 
 03/11/2017 Individual Time Trial Women Pro/Cat 1/2 20 Km 9-99
@@ -348,7 +348,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,341410,Kat,SALTHOUSE,Tucson,AZ,0:32:47,
 2,489136,Tori,RIEMERSMA,Tempe,AZ,0:33:31,
 3,395508,Shelby,HOGLUND,Tucson,AZ,0:35:49,
-4,459515,Alissa,ALBRECHT,Tempe,FL,0:36:47,
+4,459515,Alissa,ALBRECHT,Tempe,AZ,0:36:47,
 5,414481,Jennifer,QUIJADA,Flagstaff,AZ,0:40:56,
 DNS,418082,Erica,CLEVENGER,Tucson,AZ,DNS,
 
@@ -373,7 +373,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,394505,Castle,GAY,Tucson,AZ,0:00:00,
 2,419955,Bryan,LITTLE,Vail,AZ,0:00:00,
 2,521857,Timothy,MALEY,Tucson,AZ,0:00:00,
-3,422930,Scott,JONES,Tempe,AZ,0:29:30,
+3,422930,Scott,JONES,Scottsdale,AZ,0:29:30,
 3,298724,Rhys,LOUIS,Tempe,AZ,0:00:00,
 3,522399,John,GILLICK,Dunkirk,MD,0:00:00,
 3,522649,Riley,SPILLER,Phoenix,AZ,0:00:00,
@@ -384,6 +384,6 @@ Place,License #,First,Last,City,State,Time,Team
 1,418082,Erica,CLEVENGER,Tucson,AZ,0:00:00,
 1,395508,Shelby,HOGLUND,Tucson,AZ,0:00:00,
 1,341410,Kat,SALTHOUSE,Tucson,AZ,0:00:00,
-2,459515,Alissa,ALBRECHT,Tempe,FL,0:38:30,
+2,459515,Alissa,ALBRECHT,Tempe,AZ,0:38:30,
 2,489136,Tori,RIEMERSMA,Tempe,AZ,0:00:00,
 2,496468,Brooke,LYMAN,Phoenix,AZ,0:00:00,

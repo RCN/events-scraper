@@ -4,15 +4,15 @@
 Place,License #,First,Last,City,State,Time,Team
 1,374624,James,CALVETTI,Northbrook,IL,,Polish & Slavic FCU International Cycling Team
 2,274017,Andrew,HODGES,Suwanee,GA,,East Point Track Club
-3,46770,Brian,TEIPEN,Alpharetta,GA,,East Point Track Club
+3,46770,Brian,TEIPEN,Milton,GA,,East Point Track Club
 4,345484,Ian,BORELLA,Glendale,MO,,Dogfish/Team Noah
 5,454200,Eli,HOUSE,Indianapolis,IN,,DASH RACING
 6,409349,Daniel,BREUER,Chicago,IL,,Comrade Cycles Racing
-7,308175,Wilman,VARGAS,Atlanta ,GA,,East Point Track Club
+7,308175,Wilman,VARGAS,Atlanta,GA,,East Point Track Club
 9,408215,James,VARNER,Saint Louis,MO,,
 10,290397,Ryan,SHEAN,Indianapolis,IN,,Texas Roadhouse Cycling Team
 11,243473,Tyler,ROBERTS,Indianapolis,IN,,ChristianCycling St Louis
-12,313374,Kyle,STEWART,Indianapolis ,IN,,Marian University Cycling Team
+12,313374,Kyle,STEWART,Indianapolis,IN,,Marian University Cycling Team
 13,357850,Zachary,SLAVENS,St. Louis,MO,,Bonkers Cycling
 14,411568,Jafet,TORRES,Chicago,IL,,Bonkers Cycling
 15,467481,Gary,MORGAN,Austell,GA,,East Point Track Club
@@ -50,11 +50,11 @@ Place,License #,First,Last,City,State,Time,Team
 1,290397,Ryan,SHEAN,Indianapolis,IN,4:53.4,Texas Roadhouse Cycling Team
 2,214654,Daniel,CASPER,Lauderdale,MN,4:57.5,Donkey Label
 3,334610,Sam,WINTERS,Indianapolis,IN,5:03.9,Marian University Cycling Team
-4,308175,Wilman,VARGAS,Atlanta ,GA,5:07.3,East Point Track Club
-5,198135,Eric,KNACKMUHS,Bloomington,IN,5:11.4,Bakehouse Cycling
+4,308175,Wilman,VARGAS,Atlanta,GA,5:07.3,East Point Track Club
+5,198135,Eric,KNACKMUHS,Bowling Green,KY,5:11.4,Bakehouse Cycling
 6,424038,Kevin,ODONNELL,Marietta,GA,5:15.8,East Point Track Club
 7,274017,Andrew,HODGES,Suwanee,GA,5:22.4,East Point Track Club
-8,313374,Kyle,STEWART,Indianapolis ,IN,5:23.5,Marian University Cycling Team
+8,313374,Kyle,STEWART,Indianapolis,IN,5:23.5,Marian University Cycling Team
 9,408215,James,VARNER,Saint Louis,MO,5:25.1,
 10,467481,Gary,MORGAN,Austell,GA,5:46.2,East Point Track Club
 11,46950,Tom,SACCONE,Bloomington,IN,6:02.9,Bakehouse Cycling
@@ -83,13 +83,13 @@ Place,License #,First,Last,City,State,Time,Team
 11,345484,Ian,BORELLA,Glendale,MO,,Dogfish/Team Noah
 12,323156,Richard,KELLER,Murfreesboro,TN,,Support Clean Sport/SeaSucker/Guttenplan Coaching
 13,385866,KwangSoo,HONG,Cleveland,OH,,Pista Elite
-14,308175,Wilman,VARGAS,Atlanta ,GA,,East Point Track Club
+14,308175,Wilman,VARGAS,Atlanta,GA,,East Point Track Club
 15,424038,Kevin,ODONNELL,Marietta,GA,,East Point Track Club
-16,198135,Eric,KNACKMUHS,Bloomington,IN,,Bakehouse Cycling
+16,198135,Eric,KNACKMUHS,Bowling Green,KY,,Bakehouse Cycling
 17,442987,Daniel,NESBITT,Indianapolis,IN,,Marian University Cycling Team
 18,454200,Eli,HOUSE,Indianapolis,IN,,DASH RACING
 19,274017,Andrew,HODGES,Suwanee,GA,,East Point Track Club
-20,2443,John,BALMER,Indianapolis ,IN,,Century Road Club Of America
+20,2443,John,BALMER,Indianapolis,IN,,Century Road Club Of America
 21,411568,Jafet,TORRES,Chicago,IL,,Bonkers Cycling
 22,438973,Austin,LAINE,Houston,TX,,Northwest Cycling Club
 
@@ -125,8 +125,8 @@ Place,License #,First,Last,City,State,Time,Team
 1,334610,Sam,WINTERS,Indianapolis,IN,4:41.9,Marian University composite
 2,274017,Andrew,HODGES,Suwanee,GA,4:54.1,East Point Track Club
 2,424038,Kevin,ODONNELL,Marietta,GA,4:54.1,East Point Track Club
-2,46770,Brian,TEIPEN,Alpharetta,GA,4:54.1,East Point Track Club
-2,308175,Wilman,VARGAS,Atlanta ,GA,4:54.1,East Point Track Club
+2,46770,Brian,TEIPEN,Milton,GA,4:54.1,East Point Track Club
+2,308175,Wilman,VARGAS,Atlanta,GA,4:54.1,East Point Track Club
 
 06/24/2017 Team Pursuit Women Pro/Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
@@ -167,12 +167,12 @@ Place,License #,First,Last,City,State,Time,Team
 06/24/2017 Time Trial Men Pro/Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
 1,41394,Scott,WHITEMAN,Indianapolis,IN,1:10.1,George Garner Cyclery Track Team
-2,46770,Brian,TEIPEN,Alpharetta,GA,1:10.5,East Point Track Club
+2,46770,Brian,TEIPEN,Milton,GA,1:10.5,East Point Track Club
 3,414837,BJ,OLSON,New York,NY,1:11.1,Deluxe Cycles Racing
 4,214654,Daniel,CASPER,Lauderdale,MN,1:11.4,Donkey Label
 5,476649,Alex,BOLOTIN,Chicago,IL,1:11.8,Polish & Slavic FCU International Cycling Team
 6,253551,Mark,WAGNER,Brooklyn,NY,1:12.2,Deluxe Cycles Racing
-7,198135,Eric,KNACKMUHS,Bloomington,IN,1:12.6,Bakehouse Cycling
+7,198135,Eric,KNACKMUHS,Bowling Green,KY,1:12.6,Bakehouse Cycling
 8,438570,Chris,HELLER,Minneapolis,MN,1:12.6,Taco Cat Racing
 9,212914,Thomson,REMO,Fond Du Lac,WI,1:12.6,
 10,277048,Nick,OESTREICH,Powder Springs,GA,1:13.0,
@@ -182,14 +182,14 @@ Place,License #,First,Last,City,State,Time,Team
 14,385866,KwangSoo,HONG,Cleveland,OH,1:13.9,Pista Elite
 15,442987,Daniel,NESBITT,Indianapolis,IN,1:14.0,Marian University Cycling Team
 16,334610,Sam,WINTERS,Indianapolis,IN,1:14.4,Marian University Cycling Team
-17,2443,John,BALMER,Indianapolis ,IN,1:14.4,Century Road Club Of America
+17,2443,John,BALMER,Indianapolis,IN,1:14.4,Century Road Club Of America
 18,438973,Austin,LAINE,Houston,TX,1:14.5,Northwest Cycling Club
 19,454200,Eli,HOUSE,Indianapolis,IN,1:15.3,DASH RACING
-20,313374,Kyle,STEWART,Indianapolis ,IN,1:15.4,Marian University Cycling Team
+20,313374,Kyle,STEWART,Indianapolis,IN,1:15.4,Marian University Cycling Team
 21,311035,Peter,BOCK,Muskego,WI,1:15.8,V.C. Bikesport
 22,368228,Roderick,DEJESUS,Chicago,IL,1:18.9,Bouledogue Tout Noir
 23,376389,Joseph,PROSZOWSKI,Chicago,IL,1:19.3,Bouledogue Tout Noir
-24,177388,Steven,CHANEY,St. Louis ,MO,1:19.5,Dogfish/Team Noah
+24,177388,Steven,CHANEY,St. Louis,MO,1:19.5,Dogfish/Team Noah
 25,534751,Michael,THARP,Peachtree City,GA,1:20.6,East Point Track Club
 26,46950,Tom,SACCONE,Bloomington,IN,1:22.1,Bakehouse Cycling
 DNS,346648,Thomas,CARTER,Saint Charles,MO,DNS,Team Mack Racing Assoc.
@@ -210,8 +210,8 @@ Place,License #,First,Last,City,State,Time,Team
 06/24/2017 Winner-Takes-All Scratch Race p/b SILCA Men Pro/Cat 1/2
 Place,License #,First,Last,City,State,Time,Team
 1,359006,Matt,GITTINGS,Indianapolis,IN,,
-2,308175,Wilman,VARGAS,Atlanta ,GA,,East Point Track Club
-3,46770,Brian,TEIPEN,Alpharetta,GA,,East Point Track Club
+2,308175,Wilman,VARGAS,Atlanta,GA,,East Point Track Club
+3,46770,Brian,TEIPEN,Milton,GA,,East Point Track Club
 4,334610,Sam,WINTERS,Indianapolis,IN,,Marian University Cycling Team
 5,274017,Andrew,HODGES,Suwanee,GA,,East Point Track Club
 6,409349,Daniel,BREUER,Chicago,IL,,Comrade Cycles Racing
@@ -220,12 +220,12 @@ Place,License #,First,Last,City,State,Time,Team
 9,408215,James,VARNER,Saint Louis,MO,,
 10,345484,Ian,BORELLA,Glendale,MO,,Dogfish/Team Noah
 11,424038,Kevin,ODONNELL,Marietta,GA,,East Point Track Club
-12,2443,John,BALMER,Indianapolis ,IN,,Century Road Club Of America
+12,2443,John,BALMER,Indianapolis,IN,,Century Road Club Of America
 13,290397,Ryan,SHEAN,Indianapolis,IN,,Texas Roadhouse Cycling Team
 14,438570,Chris,HELLER,Minneapolis,MN,,Taco Cat Racing
 15,349220,Erin,YOUNG,Minneapolis,MN,,Zubaz Racing
 16,476649,Alex,BOLOTIN,Chicago,IL,,Polish & Slavic FCU International Cycling Team
-17,313374,Kyle,STEWART,Indianapolis ,IN,,Marian University Cycling Team
+17,313374,Kyle,STEWART,Indianapolis,IN,,Marian University Cycling Team
 18,467481,Gary,MORGAN,Austell,GA,,East Point Track Club
 19,243473,Tyler,ROBERTS,Indianapolis,IN,,ChristianCycling St Louis
 20,357850,Zachary,SLAVENS,St. Louis,MO,,Bonkers Cycling
@@ -252,7 +252,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,376389,Joseph,PROSZOWSKI,Chicago,IL,4,Bouledogue Tout Noir
 5,382967,Victor,POPOV,Plainfield,IN,4,Igo Fasnow Racing
 6,346648,Thomas,CARTER,Saint Charles,MO,3,Team Mack Racing Assoc.
-7,177388,Steven,CHANEY,St. Louis ,MO,1,Dogfish/Team Noah
+7,177388,Steven,CHANEY,St. Louis,MO,1,Dogfish/Team Noah
 8,368228,Roderick,DEJESUS,Chicago,IL,1,Bouledogue Tout Noir
 9,46950,Tom,SACCONE,Bloomington,IN,1,Bakehouse Cycling
 10,488144,Rudy,KEEFER,Atlanta,GA,0,Outback Bikes Racing
@@ -263,14 +263,14 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,277433,Zachary,CARLSON,Indianapolis,IN,92,Texas Roadhouse
 1,359006,Matt,GITTINGS,Indianapolis,IN,92,Texas Roadhouse
-2,46770,Brian,TEIPEN,Alpharetta,GA,19,East Point Track Club
+2,46770,Brian,TEIPEN,Milton,GA,19,East Point Track Club
 2,424038,Kevin,ODONNELL,Marietta,GA,19,East Point Track Club
 3,349220,Erin,YOUNG,Minneapolis,MN,12,
 3,409349,Daniel,BREUER,Chicago,IL,12,
 4,311035,Peter,BOCK,Muskego,WI,7,Marian University Cycling Team
-4,313374,Kyle,STEWART,Indianapolis ,IN,7,Marian University Cycling Team
+4,313374,Kyle,STEWART,Indianapolis,IN,7,Marian University Cycling Team
 5,274017,Andrew,HODGES,Suwanee,GA,4,EPTC Yellow
-5,308175,Wilman,VARGAS,Atlanta ,GA,4,EPTC Yellow
+5,308175,Wilman,VARGAS,Atlanta,GA,4,EPTC Yellow
 6,357850,Zachary,SLAVENS,St. Louis,MO,2,Bonkers
 6,411568,Jafet,TORRES,Chicago,IL,2,Bonkers
 7,53054,Michael,BARMAN,Atlanta,GA,-80,EPTC Green
@@ -278,15 +278,15 @@ Place,License #,First,Last,City,State,Time,Team
 
 06/23/2017 Points Race Men Pro/Cat 1/2
 Place,License #,First,Last,City,State,Time,Team
-1,46770,Brian,TEIPEN,Alpharetta,GA,16,East Point Track Club
+1,46770,Brian,TEIPEN,Milton,GA,16,East Point Track Club
 2,214654,Daniel,CASPER,Lauderdale,MN,14,Donkey Label
 3,274017,Andrew,HODGES,Suwanee,GA,9,East Point Track Club
 4,409349,Daniel,BREUER,Chicago,IL,7,Comrade Cycles Racing
 5,359006,Matt,GITTINGS,Indianapolis,IN,7,
 6,454200,Eli,HOUSE,Indianapolis,IN,5,DASH RACING
-7,308175,Wilman,VARGAS,Atlanta ,GA,5,East Point Track Club
+7,308175,Wilman,VARGAS,Atlanta,GA,5,East Point Track Club
 8,334610,Sam,WINTERS,Indianapolis,IN,4,Marian University Cycling Team
-9,198135,Eric,KNACKMUHS,Bloomington,IN,3,Bakehouse Cycling
+9,198135,Eric,KNACKMUHS,Bowling Green,KY,3,Bakehouse Cycling
 10,424038,Kevin,ODONNELL,Marietta,GA,2,East Point Track Club
 11,357850,Zachary,SLAVENS,St. Louis,MO,2,Bonkers Cycling
 12,408215,James,VARNER,Saint Louis,MO,2,
@@ -295,7 +295,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,411568,Jafet,TORRES,Chicago,IL,0,Bonkers Cycling
 16,374624,James,CALVETTI,Northbrook,IL,0,Polish & Slavic FCU International Cycling Team
 17,476649,Alex,BOLOTIN,Chicago,IL,-19,Polish & Slavic FCU International Cycling Team
-18,313374,Kyle,STEWART,Indianapolis ,IN,-20,Marian University Cycling Team
+18,313374,Kyle,STEWART,Indianapolis,IN,-20,Marian University Cycling Team
 19,243473,Tyler,ROBERTS,Indianapolis,IN,-20,ChristianCycling St Louis
 20,467481,Gary,MORGAN,Austell,GA,-60,East Point Track Club
 
@@ -307,7 +307,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,407682,David,SMITH,Minneapolis,MN,5,Taco Cat Racing
 5,46950,Tom,SACCONE,Bloomington,IN,4,Bakehouse Cycling
 6,41402,Derek,WITTE,Indianapolis,IN,3,Bissell/ABG Cycling Club
-7,177388,Steven,CHANEY,St. Louis ,MO,2,Dogfish/Team Noah
+7,177388,Steven,CHANEY,St. Louis,MO,2,Dogfish/Team Noah
 8,331440,Guillermo,GARSED,Chesterfield,MO,0,Dogfish/Team Noah
 9,488144,Rudy,KEEFER,Atlanta,GA,0,Outback Bikes Racing
 10,368228,Roderick,DEJESUS,Chicago,IL,-20,Bouledogue Tout Noir
@@ -329,7 +329,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,346648,Thomas,CARTER,Saint Charles,MO,67,Team Mack Racing Assoc.
 2,407682,David,SMITH,Minneapolis,MN,50,Taco Cat Racing
-3,177388,Steven,CHANEY,St. Louis ,MO,30,Dogfish/Team Noah
+3,177388,Steven,CHANEY,St. Louis,MO,30,Dogfish/Team Noah
 4,368228,Roderick,DEJESUS,Chicago,IL,9,Bouledogue Tout Noir
 5,376389,Joseph,PROSZOWSKI,Chicago,IL,6,Bouledogue Tout Noir
 6,351204,Matthew,HARRISON,Freeport,NY,4,Star Track Racing

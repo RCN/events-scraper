@@ -19,7 +19,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,107000,Ernest,TAUTKUS,Uncasville,CT,s.t.,Cvc / Hartford Healthcare Sport
 16,382132,Paskal,LAMOUR,New York,NY,s.t.,Crca/blue Ribbon-pennell Ventur
 17,194041,Paul,BURROWES,Brooklyn,NY,s.t.,
-18,238008,Alejandro,GUZMAN,New York,NY,s.t.,Crca/foundation
+18,238008,Alejandro,GUZMAN,New York ,NY,s.t.,Crca/foundation
 19,428602,Erlin,GARCIA,West New York,NJ,s.t.,Century Road Club Assoc
 20,0,Stepano,HUSBANDS,,,s.t.,Coco's Cycling
 21,47684,Anthony,TAYLOR,Brooklyn,NY,s.t.,Crca/dave Jordan Racing
@@ -81,7 +81,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,186677,Sebaj,ADELE,Jersey  City,NJ,s.t.,Echelon Cycles
 17,342662,Malcolm,MITCHELL,New York,NY,23,Edge Racing
 18,13633,Richard,GONZALEZ,Bayonne,NJ,24,Mambo Kings Racing
-19,217539,Nathan,HARRIS,Frisco,CO,26,
+19,217539,Nathan,HARRIS,Spring,TX,26,
 20,438970,Val,PETROV,New York,NY,30,Crca/dave Jordan Racing
 21,370961,William,JOHNSON,Brooklyn,NY,s.t.,Deluxe Cycles Racing
 22,201953,Chris,SAMUELS,Hackensack,NJ,s.t.,
@@ -98,7 +98,7 @@ DNS,33230,Michael,SMITH,Darien,CT,,
 DNS,154092,Thomas,TREVISANI,Brooklyn,NY,,Crca/wyld Stallyns
 DNF,507785,Daniel,ABREU,New York,NY,,Montecci Cycling Team
 DNF,396558,Alexander,BLAIR,Manhattan,KS,,The Manhattan Project
-DNF,428001,Cody,CORONA,New York,NY,,Crca/rockstar Games
+DNF,428001,Cody,CORONA,Marina Del Rey,CA,,Crca/rockstar Games
 DNF,179988,Lincoln,CRANE,New York,NY,,Chelsea Bicycle Racing Team
 DNF,288854,Derick,DARLINGTON,Brooklyn,NY,,
 DNF,520692,Peter,GOFF,Sparta,NJ,,Skylands
@@ -112,7 +112,7 @@ DNF,524870,Michael,PATCH,New York,NY,,Crca/foundation
 DNF,522018,Michael,ROCHE,New York,NY,,
 DNF,481785,Luis,SCATTAREGGI,New York,NY,,
 DNF,281347,Nick,SCHNEIDER,New York,NY,,
-DNF,466154,Eamonn,SCHNELL,Brooklyn,NY,,Crca/century Road Club Development Foundation
+DNF,466154,Eamonn,SCHNELL,Oberlin,OH,,Crca/century Road Club Development Foundation
 DNF,418496,Rodrigo,SILVA,Bellport,NY,,Crca/ Houlihan Lokey
 DNF,102279,Ian,STANLEY,Rosedale,NY,,Unattached
 DNF,525120,Alexander,WALL,New York,NY,,Crca/foundation
@@ -136,7 +136,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,52336,Juan,PINEDA,Sparkill ,NY,s.t.,Montclair Bikery Racing
 3,64699,Pedro,HIJAR,Reston,VA,s.t.,Kelly Benefits Strategies / Lsv
 4,193990,Anthony,LOWE,Brooklyn,NY,s.t.,
-5,238008,Alejandro,GUZMAN,New York,NY,s.t.,Foundation
+5,238008,Alejandro,GUZMAN,New York ,NY,s.t.,Foundation
 6,378614,Lynn,MURRAY,Brooklyn,NY,s.t.,Crca/dave Jordan Racing
 7,149234,Horace,BURROWES,Brooklyn,NY,s.t.,
 8,68718,James,JOSEPH,Brooklyn,NY,s.t.,Ws United
@@ -154,7 +154,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,275227,Patrick,SCHNELL,Brooklyn,NY,8,Verrazano Team Racing
 21,13633,Richard,GONZALEZ,Bayonne,NJ,s.t.,Mambo Kings Racing
 22,117440,Pedro,ARIAS,New York,NY,s.t.,Crca/dave Jordan Racing
-23,422489,Uber,URIBE,Montclair ,NJ,s.t.,Montclair Bikery Racing
+23,422489,Uber,URIBE,Montclair,NJ,s.t.,Montclair Bikery Racing
 24,424211,Juan,CRUZ,Yonkers,NY,s.t.,
 25,47710,Brian,WOLF,Ridgefield,CT,s.t.,Purium Health Products Cycling
 26,198228,Johann,BURROWES,Brooklyn,NY,s.t.,We Stand United (w.s.)

@@ -37,7 +37,7 @@ DNF,476800,David,Keepler,Fort Myers,FL,0:17:25,
 
 05/06/2017 Criterium Men Cat 4/5 Master 50+
 Place,License #,First,Last,City,State,Time,Team
-1,433485,Richard,Benson,Port Saint Lucie,FL,0:43:55,Treasure Coast Racing
+1,433485,Richard,Benson,Fort Pierce,FL,0:43:55,Treasure Coast Racing
 2,65608,Omar,Sassin,Tampa,FL,0:43:56,West Coast Cycling
 3,305247,Scott,Lameier,Valrico,FL,0:43:56,West Coast Cycling
 4,234252,Gustavo,Silva,Davie,FL,0:43:57,
@@ -47,7 +47,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,368468,Ernie,Pena,Tampa,FL,1:00:18,FloridaVelo
 2,177274,Pedro,Medina,Orlando,FL,1:00:19,Advanced Cycles pb/Topview Sports
 3,31413,Ryan,Saylor,Gainesville,FL,1:00:19,GearLink Racing INC.
-4,153443,Allison,Anjos,Boca Raton,FL,1:00:20,
+4,153443,Allison,Anjos,Boca Rato,FL,1:00:20,
 5,154900,Scott,Cugno,Tampa,FL,1:00:20,Pioneer Mortgage pb Yourkey.com
 6,196540,Pablo,Santa Cruz,Safety Harbor,FL,1:00:20,FloridaVelo
 7,261127,Osvaldo,Delgado,Port Saint Lucie,FL,1:00:20,
@@ -98,7 +98,7 @@ DNF,501713,Daniel,Ortiz,Jacksonville,FL,0:21:23,
 Place,License #,First,Last,City,State,Time,Team
 1,487887,thang,luong,St.petersburg,FL,0:48:54,Support Clean Sport / SeaSucker / Guttenplan Coaching
 2,488582,Yarian,Rosado,Longwood,FL,0:48:54,JC's Bike Shop's Blue Hammers
-3,448396,Rudy,Szymanski,Gowanda,NY,0:48:54,Cycle Sport Concepts Tampa
+3,448396,Rudy,Szymanski,Tampa,FL,0:48:54,Cycle Sport Concepts Tampa
 4,430032,Tyler,Junkins,Winter Park,FL,0:48:55,Team Kyles Bike Shop
 5,428530,Richard,Freeman III,Groveland,FL,0:48:55,ISCorp Cycling
 6,133057,Jeffrey,Safrit,Salisbury,NC,0:48:59,Southeast Velo Racing
@@ -123,7 +123,7 @@ DNF,403177,edwin,calderon,Kissimmee,FL,0:21:19,Advanced Cycles pb/Topview Sports
 DNF,425572,Andy,Hale,Neptune Beach,FL,0:20:13,VeloBrew Cycling Club
 DNF,312374,Bernardo,Nardo,Miami,FL,0:04:38,
 DNF,485608,carlos,delgado,Fort Lauderdale,FL,0:27:49,Interactive Metronome p/b Mega Cycle
-DNF,351492,Mark Anthony,Sanchez,Wesley Chapel,FL,1:12:26,Aeropro Coaching Cycling Team
+DNF,351492,Mark Anthony,Sanchez,Beaveton ,OR,1:12:26,Aeropro Coaching Cycling Team
 
 05/06/2017 Criterium Women Pro/Cat 1/2
 Place,License #,First,Last,City,State,Time,Team
@@ -131,7 +131,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,457648,Antje,Thamm,Gainesville,FL,0:37:34,DelaFina
 3,332820,Debbie,Phelps,Rockledge,FL,0:37:38,
 4,374637,Mackenzie,Koth,Dade City,FL,0:37:39,Stradalli/Wizard Racing Development Team P/B Wizard Coaching Services
-5,495140,Carly,George,Dunedin,FL,0:37:40,Stradalli/Wizard Racing Development Team P/B Wizard Coaching Services
+5,495140,Carly,George,Tampa,FL,0:37:40,Stradalli/Wizard Racing Development Team P/B Wizard Coaching Services
 6,389418,Tara,Smith,Kissimmee,FL,0:37:56,West Coast Cycling
 
 05/06/2017 Criterium Women Cat 1/2/3 Master 40+
@@ -207,7 +207,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,518367,mark,schiefer,Venice,FL,2:07:50,
 3,305247,Scott,Lameier,Valrico,FL,2:07:51,West Coast Cycling
 4,234252,Gustavo,Silva,Davie,FL,2:07:55,
-5,433485,Richard,Benson,Port Saint Lucie,FL,2:10:27,Treasure Coast Racing
+5,433485,Richard,Benson,Fort Pierce,FL,2:10:27,Treasure Coast Racing
 6,458484,Brett,Price,Sarasota,FL,2:10:27,Aeropro Coaching Cycling Team
 7,65608,Omar,Sassin,Tampa,FL,1:45:23,West Coast Cycling
 8,386693,Abraham,Nunez,Pembroke Pines,FL,0:44:39,
@@ -216,7 +216,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,60148,Ken,Vida,Lithia,FL,1:58:17,FloridaVelo
 2,177274,Pedro,Medina,Orlando,FL,1:58:17,Advanced Cycles pb/Topview Sports
-3,153443,Allison,Anjos,Boca Raton,FL,2:00:24,
+3,153443,Allison,Anjos,Boca Rato,FL,2:00:24,
 4,243186,Jose,Armas,Pembroke Pines,FL,2:00:25,
 5,31413,Ryan,Saylor,Gainesville,FL,2:00:29,GearLink Racing INC.
 6,235127,Jonet,Hernandez,Fort Lauderdale,FL,2:00:30,GS Palm Beach
@@ -229,7 +229,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,485093,Hiddo,Eikelboom,Weston,FL,2:00:57,
 14,235207,Ronaldo,Tavares,Port Saint Lucie,FL,2:01:02,
 15,305631,Eric,Specht,Windermere,FL,2:01:02,Compass Research Cycling Team
-16,58611,Austin,Spencer,Colorado Springs ,CO,2:01:10,COS Racing
+16,58611,Austin,Spencer,Colorado Springs,CO,2:01:10,COS Racing
 17,261127,Osvaldo,Delgado,Port Saint Lucie,FL,2:01:15,
 18,281175,Jose,Hernandez,Orlando,FL,2:01:15,Advanced Cycles pb/Topview Sports
 19,343850,Julio,Prida,Tampa,FL,2:01:15,FloridaVelo
@@ -318,7 +318,7 @@ DNF,403177,edwin,calderon,Kissimmee,FL,1:07:52,Advanced Cycles pb/Topview Sports
 DNF,425572,Andy,Hale,Neptune Beach,FL,1:26:12,VeloBrew Cycling Club
 DNF,485608,carlos,delgado,Fort Lauderdale,FL,0:00:10,Interactive Metronome p/b Mega Cycle
 DNF,367371,Zachary,West,Longwood,FL,0:53:52,Atlantic Shores Velo
-DNF,351492,Mark Anthony,Sanchez,Wesley Chapel,FL,0:46:23,Aeropro Coaching Cycling Team
+DNF,351492,Mark Anthony,Sanchez,Beaveton ,OR,0:46:23,Aeropro Coaching Cycling Team
 DNF,399974,Jorge,Mila,Orlando,FL,2:05:09,Pioneer Mortgage pb Yourkey.com
 
 05/06/2017 Road Race Men Master 60+
@@ -337,7 +337,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,369256,Jeanine,Seeger,Boynton Beach,FL,2:15:21,Hollywood Big Wheelers
 2,242810,Kimberly,Vaughan,Odessa,FL,2:17:02,West Coast Cycling
 3,374637,Mackenzie,Koth,Dade City,FL,2:17:03,Stradalli/Wizard Racing Development Team P/B Wizard Coaching Services
-4,495140,Carly,George,Dunedin,FL,2:17:03,Stradalli/Wizard Racing Development Team P/B Wizard Coaching Services
+4,495140,Carly,George,Tampa,FL,2:17:03,Stradalli/Wizard Racing Development Team P/B Wizard Coaching Services
 5,332820,Debbie,Phelps,Rockledge,FL,2:17:03,
 6,69689,Sherri,Stedje,Lutz,FL,2:17:07,West Coast Cycling
 7,168120,Aimee,Vasse,Dunedin,FL,2:17:10,

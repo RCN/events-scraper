@@ -13,26 +13,26 @@ Place,License #,First,Last,City,State,Time,Team
 9,279095,Eric,YOUNG,Boulder,CO,4:21:32,Rally Cycling
 10,223318,Joseph,ROSSKOPF,Decatur,GA,4:21:32,BMC Racing Team
 11,277745,William,BARTA,Boise,ID,4:21:32,Axeon Hagens Berman
-12,155190,Chad,BEYER,Scottsdale,AZ,4:21:32,Canyon Bicycles
+12,155190,Chad,BEYER,Tempe,AZ,4:21:32,Canyon Bicycles
 13,314666,Justin,OIEN,Escondido,CA,4:21:32,Caja Rural - Seguras RGA
 14,277074,Gage,HECHT,Parker,CO,4:21:32,Aevolo Cycling Inc.
 15,255493,Christopher,BLEVINS,Durango,CO,4:21:32,Axeon Hagens Berman
 16,257316,Stephen,BASSETT,Knoxville,TN,4:21:32,Silber Pro Cycling
 17,218686,Jacob,RATHE,Portland,OR,4:21:32,Jelly Belly p/b Maxxis
-18,267198,Robert,SQUIRE,Sandy,UT,4:21:32,Canyon Bicycles
+18,267198,Robert,SQUIRE,Salt Lake City,UT,4:21:32,Canyon Bicycles
 19,275866,Geoffrey,CURRAN,Tustin,CA,4:21:32,Axeon Hagens Berman
 20,217193,Jacob,SITLER,Marietta,PA,4:21:32,CCB Velotooler
-21,342402,Kevin,GIRKINS,Austin,TX,4:21:32,ELBOWZ Racing p/b Synergy.O
+21,342402,Kevin,GIRKINS,San Marcos,TX,4:21:32,ELBOWZ Racing p/b Synergy.O
 22,409776,Alex,HOEHN,Lenexa,KS,4:21:32,Elevate-KHS Pro Cycling
 23,208936,Erik,SLACK,Meridian,ID,4:21:32,Canyon Bicycles
 24,504035,Edward,ANDERSON,Richmond,VA,4:21:32,Axeon Hagens Berman
 25,268330,Travis,MCCABE,Tucson,AZ,4:21:32,UnitedHealthcare
 26,212698,Eric,MARCOTTE,Scottsdale,AZ,4:21:32,Cylance
 27,279388,Connor,MCCUTCHEON,Bend,OR,4:21:32,Team Illuminate
-28,256955,Evan,HUFFMAN,El Dorado Hills,CA,4:21:32,Rally Cycling
+28,256955,Evan,HUFFMAN,Sacramento,CA,4:21:32,Rally Cycling
 29,298625,Gregory,DANIEL,Englewood,CO,4:22:14,Trek-Segafredo
 30,187300,Christopher,JONES,Bend,OR,4:22:36,UnitedHealthcare
-31,218736,Gavin,MANNION,Austin,TX,4:23:48,UnitedHealthcare
+31,218736,Gavin,MANNION,Fort Collins,CO,4:23:48,UnitedHealthcare
 32,255591,Jonathan,BROWN,Covington,TN,4:23:48,Axeon Hagens Berman
 33,204225,Steve,FISHER,Bellingham,WA,4:23:48,Canyon Bicycles
 34,303659,Kyle,MURPHY,Townshend,VT,4:23:48,Cylance
@@ -40,7 +40,7 @@ Place,License #,First,Last,City,State,Time,Team
 36,222180,Tyler,MAGNER,Griffin,GA,4:26:08,Holowesko | Citadel Racing Team
 37,237328,Taylor (T.J.),EISENHART,Lehi,UT,4:26:08,Holowesko | Citadel Racing Team
 38,73305,Danny,PATE,Colorado Springs,CO,4:27:07,Rally Cycling
-39,222542,Emerson,ORONTE,Boulder,CO,4:27:07,Rally Cycling
+39,222542,Emerson,ORONTE,Louisville,CO,4:27:07,Rally Cycling
 40,276598,Sepp,KUSS,Durango,CO,4:27:07,Rally Cycling
 41,169774,Brian,MCCULLOCH,Yucaipa,CA,4:29:07,Elevate-KHS Pro Cycling
 42,318896,Micah,ENGLE,Dillsburg,PA,4:29:07,Gateway Harley-Davidson Trek U2
@@ -61,13 +61,13 @@ Place,License #,First,Last,City,State,Time,Team
 57,296605,Michael,HERNANDEZ,Clermont,FL,4:30:14,Aevolo Cycling Inc.
 58,243988,Cory,GREENBERG,Simi Valley,CA,4:30:14,Canyon Bicycles
 59,347932,Sean,BENNETT,El Cerrito,CA,4:30:14,Jelly Belly p/b Maxxis
-60,321012,Kaler,MARSHALL,Stanford,CA,4:30:14,Canyon Bicycles
+60,321012,Kaler,MARSHALL,Walla Walla,WA,4:30:14,Canyon Bicycles
 61,338924,Nicholas,TORRACA,Grapevine,TX,4:30:14,Elevate-KHS Pro Cycling
 62,236923,Connor,BROWN,Grandview,MO,4:30:14,Elevate-KHS Pro Cycling
 63,319214,Grant,KOONTZ,Spring,TX,4:30:14,Arapahoe Resources / Garneau
 64,178970,Mat,STEPHENS,Dallas,TX,4:30:14,Arapahoe Resources / Garneau
 65,399388,George,SIMPSON,Fort Collins,CO,4:30:14,Gateway Harley-Davidson Trek U2
-66,344034,Brett,WACHTENDORF,Winooski,VT,4:30:14,Gateway Harley-Davidson Trek U2
+66,344034,Brett,WACHTENDORF,Boulder,CO,4:30:14,Gateway Harley-Davidson Trek U2
 67,205741,Stefan,ROTHE,Austin,TX,4:30:14,ELBOWZ Racing p/b Synergy.O
 68,320582,Matthew,ZIMMER,Dewitt ,IA,4:30:14,Gateway Harley-Davidson Trek U2
 69,424384,Dennis,RAMIREZ,Barnhart,MO,4:30:14,Gateway Harley-Davidson Trek U2
@@ -82,7 +82,7 @@ Place,License #,First,Last,City,State,Time,Team
 78,394991,Patrick,COLLINS,Shrewsbury,MA,4:30:39,CCB Velotooler
 DNS,345802,Michael,BURLEIGH,Edgewater ,CO,,Canyon Bicycles
 DNS,294387,Keegan,SWIRBUL,Carbondale,CO,,Jelly Belly p/b Maxxis
-DNS,272809,Ricky,RANDALL,Highland Village ,TX,,Arapahoe Resources / Garneau
+DNS,272809,Ricky,RANDALL,Highland Village,TX,,Arapahoe Resources / Garneau
 DNF,350750,Cory,SMALL,Boxborough,MA,,CCB Velotooler
 DNF,260405,Benjamin,WOLFE,Niantic,CT,,Jelly Belly p/b Maxxis
 DNF,306276,Daniel,EATON,Boulder,CO,,UnitedHealthcare
@@ -109,7 +109,7 @@ DNF,188572,Andrew,DAHLHEIM,Greenville,SC,,Arapahoe Resources / Garneau
 Place,License #,First,Last,City,State,Time,Team
 1,116712,Amber,NEBEN,Lake Forest,CA,2:49:34,Team Velo CONCEPT
 2,207432,Coryn,RIVERA,Tustin,CA,2:49:45,Sunweb
-3,273081,Ruth,WINDER,Lafayette,CA,2:49:45,UnitedHealthcare Pro Cycling
+3,273081,Ruth,WINDER,Boulder,CO,2:49:45,UnitedHealthcare Pro Cycling
 4,205156,Alexis,RYAN,Ventura,CA,2:49:45,Canyon SRAM Racing
 5,275988,Emma,WHITE *,Delanson,NY,2:49:45,Rally Cycling
 6,288678,Lauren,STEPHENS,Dallas,TX,2:49:45,Team TIBCO-Silicon Valley Bank
@@ -121,20 +121,20 @@ Place,License #,First,Last,City,State,Time,Team
 12,328844,Katharine,HALL,Oakland,CA,2:50:04,UnitedHealthcare Pro Cycling
 13,487207,Kat,SWEATT,Birmingham,AL,2:51:28,Mellow Mushroom Racing
 14,174914,Erica,ALLAR,Demorest,GA,2:52:01,Rally Cycling
-15,358569,Janelle,COLE *,Rockford,MI,2:52:01,UnitedHealthcare Pro Cycling
-16,308334,Heather,FISCHER,Del Rio,TX,2:52:01,Team TIBCO-Silicon Valley Bank
+15,358569,Janelle,COLE *,Newaygo,MI,2:52:01,UnitedHealthcare Pro Cycling
+16,308334,Heather,FISCHER,Boulder,CO,2:52:01,Team TIBCO-Silicon Valley Bank
 17,170980,Samantha,SCHNEIDER,West Allis,WI,2:52:01,ISCorp Powered By Progress
 18,300089,Skylar,SCHNEIDER *,West Allis,WI,2:52:01,ISCorp Powered By Progress
 19,293983,Jessica,CERRA,Encinitas,CA,2:52:01,Hagens Berman | Supermint
 20,293380,Jennifer,VALENTE,San Diego,CA,2:52:01,Sho-Air TWENTY20
-21,355078,Mandy,HEINTZ,Phoenix,AZ,2:52:01,Visit Dallas DNA Pro Cycling
+21,355078,Mandy,HEINTZ,Scottsdale ,AZ,2:52:01,Visit Dallas DNA Pro Cycling
 22,392698,Irena,OSSOLA,Santa Fe,NM,2:52:01,SAS-MACOGEP
 23,280898,Gray,PATTON,Pittsburgh,PA,2:52:01,Freddie Fu Cycling Team
 24,485074,Hannah,SHELL,Saint Louis,MO,2:52:01,Pastaria - Big Shark Racing Tea
 25,397217,Monica,VOLK,Kempton,PA,2:52:01,Rally Cycling
 26,362328,Beth Ann,ORTON,Bend,OR,2:52:01,
 27,342950,Rebecca,FAHRINGER,Concord,NH,2:52:01,Amy D. Foundation
-28,230397,Shayna,POWLESS,Roseville,CA,2:52:01,Sho-Air TWENTY20
+28,230397,Shayna,POWLESS,Jacksonville,FL,2:52:01,Sho-Air TWENTY20
 29,406714,Margot,CLYNE *,Boulder,CO,2:52:01,Groove Subaru Excel Sports
 30,382212,Tarah,COLE,Bethel,OH,2:52:01,QCW Breakawaybikes.com p.b. JLV
 31,121552,Julie,EMMERMAN,Boulder,CO,2:52:01,Amy D. Foundation
@@ -142,8 +142,8 @@ Place,License #,First,Last,City,State,Time,Team
 33,252835,Whitney,ALLISON,Fort Collins,CO,2:52:01,Colavita | Bianchi
 34,292211,Jennifer,TETRICK,Sausalito,CA,2:52:21,Team TIBCO-Silicon Valley Bank
 35,364829,Amy,BENNER,Camarillo,CA,2:52:21,Rally Cycling
-36,317802,Holly,BRECK,Santa Ynez,CA,2:53:17,Sho-Air TWENTY20
-37,186919,Kendall,RYAN,Ventura,CA,2:53:17,Team TIBCO-Silicon Valley Bank
+36,317802,Holly,BRECK,San Dimas,CA,2:53:17,Sho-Air TWENTY20
+37,186919,Kendall,RYAN,Camarillo,CA,2:53:17,Team TIBCO-Silicon Valley Bank
 38,418082,Erica,CLEVENGER,Tucson,AZ,2:53:52,Visit Dallas DNA Pro Cycling
 39,404315,Tabitha,SHERWOOD,Culver,IN,2:54:12,Pastaria - Big Shark Racing Tea
 40,280870,Jennifer,LUEBKE,Bend,OR,2:54:12,Visit Dallas DNA Pro Cycling
@@ -151,7 +151,7 @@ Place,License #,First,Last,City,State,Time,Team
 42,366797,Caitlin,LAROCHE,Manitou Springs,CO,2:56:30,Rally Cycling
 43,403524,Lori,NEDESCU,Columbus,OH,2:56:30,
 44,360232,Lexie,MILLARD,Monument,CO,2:56:30,Team Illuminate
-45,263791,Breanne,NALDER,Murray,UT,2:56:33,Visit Dallas DNA Pro Cycling
+45,263791,Breanne,NALDER,Millcreek,UT,2:56:33,Visit Dallas DNA Pro Cycling
 46,341410,Katherine,SALTHOUSE,Tucson,AZ,2:56:56,Landis/Trek
 47,266806,Alison,TETRICK,Petaluma,CA,2:58:45,Cylance Pro Cycling
 48,413867,Danielle,CLARK *,Greenville,SC,2:58:47,RTO National Women's Cycling
@@ -164,7 +164,7 @@ Place,License #,First,Last,City,State,Time,Team
 55,311541,Hannah,SWAN *,Alpine,CA,2:59:49,Cycle Haus Racing
 56,434193,Sarah,GUILBERT,Durham,NC,2:59:49,RTO National Women's Cycling
 57,503526,Ann,MALLIN,Knoxville,TN,2:59:49,Nashville Local Cycling
-58,379218,Jessica,EDENS,Kingston Springs ,TN,2:59:49,Nashville Local Cycling
+58,379218,Jessica,EDENS,Kingston Springs,TN,2:59:49,Nashville Local Cycling
 59,282412,Ellen,NOBLE *,Kennebunkport,ME,2:59:49,Colavita | Bianchi
 60,330172,Catherine,DEWBERRY,Franklin,TN,2:59:49,Team Belladium p/b Red Kite
 61,402574,Charlotte,BACKUS *,Larkspur,CO,2:59:49,Prestige Imports/Porsche/Audi R
@@ -178,7 +178,7 @@ DNF,326204,Abigail,MICKEY,Aspen,CO,,Colavita | Bianchi
 DNF,206044,Amber,PIERCE,Mansfield Center,CT,,Colavita | Bianchi
 DNF,392918,Jennifer,WAKEMAN,Taylors,SC,,RTO National Women's Cycling
 DNF,427877,Maria,DANKER,Knoxville,TN,,Hicks Orthodontics Women's Raci
-DNF,267467,Christy,KEELY,Greenville ,SC,,TotalCyclists
+DNF,267467,Christy,KEELY,Greenville,SC,,TotalCyclists
 DNF,443227,Lauren,DODGE,Flemington,NJ,,WV Zeeuws-Vlaanderen
 
 06/24/2017 Time Trial Men Pro-1
@@ -197,13 +197,13 @@ Place,License #,First,Last,City,State,Time,Team
 12,294912,Ezekiel,MOSTOV,San Francisco,CA,39:04.89,Aevolo Cycling Inc.
 13,237328,Taylor (T.J.),EISENHART,Lehi,UT,39:05.05,Holowesko | Citadel
 14,282640,Brendan,RHIM,Greenville,SC,39:05.82,Holowesko | Citadel
-15,256955,Evan,HUFFMAN,El Dorado Hills,CA,39:10.78,Rally Cycling
+15,256955,Evan,HUFFMAN,Sacramento,CA,39:10.78,Rally Cycling
 16,426188,Cory,LOCKWOOD,Tehachapi,CA,39:11.33,Elevate-KHS Pro Cycl
 17,348098,Ian,GARRISON,Decatur,GA,39:25.93,Axeon Hagens Berman
 18,277074,Gage,HECHT,Parker,CO,39:27.88,Aevolo Cycling Inc.
 19,257316,Stephen,BASSETT,Knoxville,TN,39:31.28,Sibler Pro Cycling
 20,298625,Gregory,DANIEL,Englewood,CO,39:31.47,Trek-Segafredo
-21,218736,Gavin,MANNION,Austin,TX,39:34.25,UnitedHealthcare
+21,218736,Gavin,MANNION,Fort Collins,CO,39:34.25,UnitedHealthcare
 22,275694,Brandon,MCNULTY,Phoenix,AZ,39:41.13,Rally Cycling
 23,243416,Mackenzie,BRENNAN,Greenville,SC,39:46.54,Holowesko | Citadel
 24,255591,Jonathan,BROWN,Covington,TN,39:48.41,Axeon Hagens Berman
@@ -219,7 +219,7 @@ Place,License #,First,Last,City,State,Time,Team
 34,320582,Matthew,ZIMMER,Dewitt ,IA,41:30.26,Gateway Harley-David
 35,229865,Noah,GRANIGAN,Cape May Court House,NJ,42:08.48,CCB Velotooler
 36,226469,Evan,BYBEE,Oklahoma City,OK,43:00.14,Arapahoe Resources /
-DNS,272809,Ricky,RANDALL,Highland Village ,TX,,Arapahoe Resources /
+DNS,272809,Ricky,RANDALL,Highland Village,TX,,Arapahoe Resources /
 
 06/24/2017 Time Trial Women Pro-1-2
 Place,License #,First,Last,City,State,Time,Team
@@ -232,7 +232,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,291607,Allie,DRAGOO,Grand Rapids,MI,32:35.47,Sho-Air TWENTY20
 8,252835,Whitney,ALLISON,Fort Collins,CO,32:40.88,Colavita | Bianchi
 9,362328,Beth Ann,ORTON,Bend,OR,32:43.28,
-10,273081,Ruth,WINDER,Lafayette,CA,32:46.80,UnitedHealthcare Pro
+10,273081,Ruth,WINDER,Boulder,CO,32:46.80,UnitedHealthcare Pro
 11,293380,Jennifer,VALENTE,San Diego,CA,32:48.41,Sho-Air TWENTY20
 12,408322,Emily,NEWSOM,Fort Worth,TX,32:58.75,Team Elevate Racing
 13,353542,Brianna,WALLE,Beaverton,OR,32:59.19,Team TIBCO-Silicon V
@@ -242,7 +242,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,382212,Tarah,COLE,Bethel,OH,33:49.74,QCW Breakawaybikes.c
 18,418082,Erica,CLEVENGER,Tucson,AZ,33:58.79,Visit Dallas DNA Pro
 19,301155,Scotti,LECHUGA,Little Rock,AR,34:09.77,Hagens Berman | Supe
-20,263791,Breanne,NALDER,Murray,UT,34:18.74,Visit Dallas DNA Pro
+20,263791,Breanne,NALDER,Millcreek,UT,34:18.74,Visit Dallas DNA Pro
 21,292211,Jennifer,TETRICK,Sausalito,CA,34:21.45,Team TIBCO-Silicon V
 22,513027,Leah,THORVILSON,Little Rock,AR,34:22.99,Canyon SRAM Racing
 23,205156,Alexis,RYAN,Ventura,CA,34:32.63,Canyon SRAM Racing

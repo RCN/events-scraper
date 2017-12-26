@@ -9,7 +9,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,245737,Tyler,George,Chicago,IL,,xXx Racing
 6,220881,Timothy,Strelecki,Naperville,IL,,EMC2 / Elmhurst Masters
 7,211512,David,Reyes,Chicago,IL,,Tenspeed Hero
-8,230509,Ben,Laforce,Chicago,IL,,xXx Racing
+8,230509,Ben,Laforce,Denver,CO,,xXx Racing
 9,379841,Spencer,Kruse,Racine,WI,,KS Energy Services / MOSH / Team Wisconsin
 10,485837,Paul,Hartner,Naperville,IL,,Bicycle Heaven
 11,370473,Andrew,Einspanier,Iron River,WI,,KS Energy Services / MOSH / Team Wisconsin
@@ -49,14 +49,14 @@ Place,License #,First,Last,City,State,Time,Team
 13,341388,Guiober,Cuevas,Montgomery,IL,,Team Got Wind?
 14,211084,Brian,McCarthy,Lockport,IL,,South Chicago Wheelmen
 15,467894,Ruairi,Brady,Chicago,IL,,PSIMET Racing
-16,407023,Michael,Brady,Chicago,IL,,Half Acre Cycling
+16,407023,Michael,Brady,Denver,CO,,Half Acre Cycling
 17,293872,Jeff,Sanner,Chicago,IL,,Half Acre Cycling
-18,362289,Jason,Holly,Buffalo Grove ,IL,,PSIMET Racing
+18,362289,Jason,Holly,Buffalo Grove,IL,,PSIMET Racing
 19,240322,John,Boggs,Libertyville,IL,,PSIMET Racing
 20,375978,Kurt,Bentsen,Crystal Lake,IL,,PSIMET Racing
 21,391101,Gene,Flanagan,Batavia,IL,,
 22,466972,Jason,Finefield,Crystal Lake,IL,,PSIMET Racing
-23,361716,Freddy,Bernabe,Chicago ,IL,,
+23,361716,Freddy,Bernabe,Chicago,IL,,
 24,402886,Eric,Stuck,Chicago,IL,,PSIMET Racing
 25,493505,Daniel,Chiaravalli,Chicago,IL,,Half Acre Cycling
 26,310737,Christian,Meekma,Chicago,IL,,
@@ -77,7 +77,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,379076,Fernando,Barraza,Tolleson,AZ,,
 10,45366,Robert,Gauss,Kenosha,WI,,Lakes Area Physical Therapy
 11,232258,Gregory,Nash,Barrington,IL,,INTENT
-DNS,362289,Jason,Holly,Buffalo Grove ,IL,,PSIMET Racing
+DNS,362289,Jason,Holly,Buffalo Grove,IL,,PSIMET Racing
 DNS,245081,Chad,Briggs,West Dundee,IL,,International Christian Cycling
 DNS,142034,Tom,Driver,Chicago,IL,,Burnham Racing
 
@@ -88,7 +88,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,64486,Michael,Zellmann,Crystal Lake,IL,,The Weather Channel
 4,279836,Edward,Ekstrom,Darien,IL,,Tower Racing
 5,431588,Andrew,Campbell,Park Ridge,IL,,Plus Cycling Team
-6,184183,Marc,Zionts,Highland Park,IL,,The Weather Channel
+6,184183,Marc,Zionts,Chapel Hill,NC,,The Weather Channel
 7,244544,Mark,Misicko,Hinsdale,IL,,Tower Racing
 8,514464,Wojciech,Kosela,Downers Grove,IL,,Plus Cycling Team
 9,366773,Karl,Jahns,Bettendorf,IA,,DICE
@@ -125,7 +125,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,503638,Maciej,Molag,Chicagocagoi,IL,,
 5,475253,Dylan,Zakrajsek,Lake Geneva,WI,,Tread Head Cycling
 6,475010,Jef,Mayer,Chicago,IL,,
-7,408562,Steven,Bromiel,Kalamazoo,MI,,INTENT
+7,408562,Steven,Bromiel,Grand Rapids,MI,,INTENT
 8,466143,Patrick,Murphy,Saint Charles,IL,,
 9,510228,John,Bowie,Chicago,IL,,INTENT
 10,477054,Josh,Davis,Crystal Lake,IL,,Scarlet Fire Racing
@@ -138,7 +138,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,341388,Guiober,Cuevas,Montgomery,IL,,Team Got Wind?
 18,263435,Joe,Schubert,Evanston,IL,,Half Acre Cycling
 19,467894,Ruairi,Brady,Chicago,IL,,PSIMET Racing
-20,407023,Michael,Brady,Chicago,IL,,Half Acre Cycling
+20,407023,Michael,Brady,Denver,CO,,Half Acre Cycling
 21,493505,Daniel,Chiaravalli,Chicago,IL,,Half Acre Cycling
 22,282025,Eric,Shivvers,Chicago,IL,,PSIMET Racing
 23,258675,Timothy,Daugherty,Chicago,IL,,
@@ -152,12 +152,12 @@ DNF,213060,Kevin,Oneill,Chicago,IL,,xXx Racing
 05/21/2017 Criterium Men Cat 3
 Place,License #,First,Last,City,State,Time,Team
 1,438454,Ross,Tuneberg,Rockford,IL,,Scarlet Fire Racing
-2,245670,Jim,Maddock,South Berwick,ME,,Bonkers Cycling
+2,245670,Jim,Maddock,Chicago,IL,,Bonkers Cycling
 3,466664,Daniel,Blumberg,Highland Park,IL,,KS Energy Services / MOSH / Team Wisconsin
 4,370473,Andrew,Einspanier,Iron River,WI,,KS Energy Services / MOSH / Team Wisconsin
 5,500484,Bobby,Atkins,Chicago,IL,,xXx Racing
 6,448836,Andrei,Cismas,Elmhurst,IL,,xXx Racing
-7,286320,Zachary,Zionts,Highland Park,IL,,Burnham Racing
+7,286320,Zachary,Zionts,Chapel Hill,NC,,Burnham Racing
 8,145455,Jason,Knauff,Glencoe,IL,,Burnham Racing
 9,456856,Mark,Pavlovcik,Yorkville,IL,,
 10,476576,Jared,Verbeke,Chicago,IL,,xXx Racing
@@ -174,7 +174,7 @@ Place,License #,First,Last,City,State,Time,Team
 21,365180,Daniel,Burkhardt,Chicago,IL,,
 22,315714,Alec,Dinerstein,Bozeman,MT,,xXx Racing
 23,418397,Kevin,Corcoran,Chicago,IL,,xXx Racing
-24,361716,Freddy,Bernabe,Chicago ,IL,,
+24,361716,Freddy,Bernabe,Chicago,IL,,
 DNS,52133,Andreas,Fischer,Chicago,IL,,PSIMET Racing
 DNS,304940,Arron,Hampton,Plainfield,IL,,Wolfpack Bike Racing
 DNF,286941,Sean,McCarthy,Lockport,IL,,ABD Cycling Team
@@ -189,14 +189,14 @@ Place,License #,First,Last,City,State,Time,Team
 6,411912,Erin,Walter,Elk Grove Village,IL,,PSIMET Racing
 7,484723,Meesa,Maeng,Chicago,IL,,
 8,527169,Elina,Breton,Suffern,NY,,
-9,424697,Kristine,Deibler,Chicago,IL,,Union Cycling Team
+9,424697,Kristine,Deibler,Seattle,WA,,Union Cycling Team
 10,516654,Olivia,Kelley,Geneva,IL,,Team Bicycle Heaven
 11,520483,Kajal,Joshi,Chicago,IL,,xXx Racing
 12,499223,Vincci,Fung,Chicago,IL,,PSIMET Racing
 13,338174,Arianna,Schafer,Deer Park,IL,,
 14,514484,Lisa,Hilleren,Chicago,IL,,BFF Bikes
 15,532069,Trisha,Kurtz,Chicago,IL,,Spidermonkey Cycling
-16,527854,Allison,Schroeder,Chicago,IL,,
+16,527854,Allison,Schroeder,Champaign,IL,,
 17,442904,Liz,Kestler,Libertyville,IL,,PSIMET Racing
 18,0,Emily,Labbe,,,,
 DNS,358098,Melissa,Kelly,Chicago,IL,,xXx Racing
@@ -258,15 +258,15 @@ Place,License #,First,Last,City,State,Time,Team
 11,476242,Andrew,Curtis,Elgin,IL,,PSIMET Racing
 DNS,392300,Francesca,Swinand,Evanston,IL,,The Pony Shop
 DNS,509850,Julius,Gomez,Dyer,IN,,
-DNS,440523,Samuel,Dennison,Carpentersville,IL,,International Christian Cycling
-DNS,476977,Rafi,Dennison,Carpentersvile,IL,,International Christian Cycling
+DNS,440523,Samuel,Dennison,West Dundee,IL,,International Christian Cycling
+DNS,476977,Rafi,Dennison,West Dundee,IL,,International Christian Cycling
 
 05/20/2017 Criterium Men Pro/Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
 1,299155,Ryan,O'Boyle,Shorewood,IL,,xXx Racing
 2,379841,Spencer,Kruse,Racine,WI,,KS Energy Services / MOSH / Team Wisconsin
 3,530053,Warrick,Spence,Crystal Lake,IL,,
-4,230509,Ben,Laforce,Chicago,IL,,xXx Racing
+4,230509,Ben,Laforce,Denver,CO,,xXx Racing
 5,200766,Michael,Dutczak,Crete,IL,,Bicycle Heaven
 6,245737,Tyler,George,Chicago,IL,,xXx Racing
 7,226739,Trevor,Rolette,Tinley Park,IL,,Sammy's Racing
@@ -291,7 +291,7 @@ DNF,393810,Kevin,Whitford,Chicago,IL,,xXx Racing
 
 05/20/2017 Criterium Men Cat 3/4/5 Masters 30-99
 Place,License #,First,Last,City,State,Time,Team
-1,362289,Jason,Holly,Buffalo Grove ,IL,,PSIMET Racing
+1,362289,Jason,Holly,Buffalo Grove,IL,,PSIMET Racing
 2,309422,Brian,Kulak,Bolingbrook,IL,,Wolfpack Bike Racing
 3,336264,Jose,Rodriguez,Highwood,IL,,INTENT
 4,359848,Peter,Cavoto,Chicago,IL,,PSIMET Racing
@@ -328,7 +328,7 @@ DNS,375978,Kurt,Bentsen,Crystal Lake,IL,,PSIMET Racing
 DNS,162118,Brian,Haas,Chicago,IL,,The Weather Channel
 DNS,307857,Jim,Groenhof,Elkgrovevillage,IL,,INTENT
 DNS,142034,Tom,Driver,Chicago,IL,,Burnham Racing
-DNS,362289,Jason,Holly,Buffalo Grove ,IL,,PSIMET Racing
+DNS,362289,Jason,Holly,Buffalo Grove,IL,,PSIMET Racing
 
 05/20/2017 Criterium Men Cat 1/2/3/4 Masters 50-99
 Place,License #,First,Last,City,State,Time,Team
@@ -348,7 +348,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,481947,Ryan,Durrie,Chicago,IL,,PSIMET Racing
 6,529498,Adam,Wix,Lake In The Hills,IL,,PSIMET Racing
 7,514843,Craig,Chinchilla Jr,Glen Ellyn,IL,,Team Got Wind?
-8,503155,Mitchell,Hansen,Chicago,IL,,
+8,503155,Mitchell,Hansen,Nashville,TN,,
 9,529885,Victor,Pereida,Des Plaines,IL,,Team Got Wind?
 10,518541,Cristian,Rodriguez,Highwood,IL,,INTENT
 11,524210,Kaiwen,Luan,Chicago,IL,,xXx Racing
@@ -361,7 +361,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,364762,Andy,Heuser,Saint Charles,IL,,Bicycle Heaven
 2,497085,William,Hubsch,Baltimore,MD,,Lateral Stress Velo Inc.
 3,510228,John,Bowie,Chicago,IL,,INTENT
-4,408562,Steven,Bromiel,Kalamazoo,MI,,INTENT
+4,408562,Steven,Bromiel,Grand Rapids,MI,,INTENT
 5,477054,Josh,Davis,Crystal Lake,IL,,Scarlet Fire Racing
 6,292309,Ethan,Wilson,Elgin,IL,,
 7,408480,Mike,Bacino,Barrington,IL,,Plus One Cycling
@@ -384,7 +384,7 @@ DNS,213060,Kevin,Oneill,Chicago,IL,,xXx Racing
 05/20/2017 Criterium Men Cat 3
 Place,License #,First,Last,City,State,Time,Team
 1,466664,Daniel,Blumberg,Highland Park,IL,,KS Energy Services / MOSH / Team Wisconsin
-2,245670,Jim,Maddock,South Berwick,ME,,Bonkers Cycling
+2,245670,Jim,Maddock,Chicago,IL,,Bonkers Cycling
 3,456856,Mark,Pavlovcik,Yorkville,IL,,
 4,393810,Kevin,Whitford,Chicago,IL,,xXx Racing
 5,500484,Bobby,Atkins,Chicago,IL,,xXx Racing
@@ -405,7 +405,7 @@ DNF,304940,Arron,Hampton,Plainfield,IL,,Wolfpack Bike Racing
 
 05/20/2017 Criterium Women Cat 4/5
 Place,License #,First,Last,City,State,Time,Team
-1,527854,Allison,Schroeder,Chicago,IL,,
+1,527854,Allison,Schroeder,Champaign,IL,,
 2,290164,Monica,Rice,Algonquin,IL,,PSIMET Racing
 3,361267,Amelia,Van Maldegiam,Bartlett,IL,,PSIMET Racing
 4,514484,Lisa,Hilleren,Chicago,IL,,BFF Bikes
@@ -473,12 +473,12 @@ DNS,402430,Jonathan,Costin,Arlington Heights,IL,,The Pony Shop
 Place,License #,First,Last,City,State,Time,Team
 1,514405,David,Kosela,Downers Grove,IL,,Plus Cycling Team
 2,365965,Peter,Swinand,Evanston,IL,,The Pony Shop
-3,440523,Samuel,Dennison,Carpentersville,IL,,International Christian Cycling
+3,440523,Samuel,Dennison,West Dundee,IL,,International Christian Cycling
 4,516103,Marcus,Van Mieghem,Evanston,IL,,The Pony Shop
 5,486336,Melroy (Will),Holzhauer,Geneva,IL,,ABD Cycling Team
 6,503580,Jacob,Kusar,Chicago,IL,,
 7,484631,Aidan,Letzel,Mount Prospect,IL,,The Pony Shop
-8,476977,Rafi,Dennison,Carpentersvile,IL,,International Christian Cycling
+8,476977,Rafi,Dennison,West Dundee,IL,,International Christian Cycling
 9,530005,George,Werderich,Yorkville,IL,,
 10,417551,George,Swinand,Evanston,IL,,The Pony Shop
 11,509850,Julius,Gomez,Dyer,IN,,

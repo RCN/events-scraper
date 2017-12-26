@@ -4,7 +4,7 @@
 Place,License #,First,Last,City,State,Time,Team
 1,226733,Jonathan,Jacob,Indianapolis,IN,,Bissell-ABG-Giant
 2,287386,Greg A.,Tombragel,Cincinnati,OH,,Team RiverPoint
-3,82244,Chris,Richter,Fishers,IN,,Zone-6 Cycling
+3,82244,Chris,Richter,Carmel,IN,,Zone-6 Cycling
 4,410406,Justin,Kirk,Carmel,IN,,Phoenix Fitness and Training
 5,263833,Andrzej,Banaszkiewicz,Brownsburg,IN,,ZIPP Masters Team
 6,511434,John,Rodgers,Batesville,IN,,None
@@ -12,9 +12,9 @@ Place,License #,First,Last,City,State,Time,Team
 8,41398,Karim,Abdelkader,Bloomington,IN,,Velocity Racing
 9,189613,Anthony,Dust,Edwardsville,IL,,The Cyclery Racing Team
 10,57121,Greg,Mueller,South Bend,IN,,Spin Zone Racing
-11,198135,Eric,Knackmuhs,Bloomington,IN,,Bakehouse Cycling
-12,362289,Jason,Holly,Buffalo Grove ,IL,,PSIMET Racing
-13,25574,David,Musich,Anchorage,KY,,Scheller's Racing Team
+11,198135,Eric,Knackmuhs,Bowling Green,KY,,Bakehouse Cycling
+12,362289,Jason,Holly,Buffalo Grove,IL,,PSIMET Racing
+13,25574,David,Musich,Louisville,KY,,Scheller's Racing Team
 14,51261,Court,Maple,Fishers,IN,,Heroes Foundation - M.O.B.
 15,14742,William,Hallberg,Indianapolis,IN,,DASH RACING
 16,399532,David,Park,Fort Wayne,IN,,None
@@ -127,7 +127,7 @@ Place,License #,First,Last,City,State,Time,Team
 34,275551,Nathan,Damm,Bloomington,IN,,Columbus Bicycle Station
 35,473492,Mitchell,Duke,Columbus,IN,,
 36,378920,Neal,Ward,Indianapolis,IN,,The Fitness Lab
-37,301490,Breton,Minnehan,Rochester,NY,,Ghisallo Cycling
+37,301490,Breton,Minnehan,Hopkinton,NH,,Ghisallo Cycling
 38,331066,Paul,Neff,Cincinnati,OH,,Team Riverpoint
 39,512410,Daniel,Majors,Mccordsville,IN,,Four2One Coaching
 40,401567,Andrew,Krahulik,Indianapolis,IN,,Phoenix Fitness and Training
@@ -182,7 +182,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,429605,Will,Coleman,Greenfield,IN,,Phoenix Fitness and Training
 12,431122,Joseph,Matacale,Evansville,IN,,Dan's Comp Factory Racing
 13,317598,Miles,Johnson,Indianapolis,IN,,Team Indiebike p/b IU Health
-14,198135,Eric,Knackmuhs,Bloomington,IN,,Bakehouse Cycling
+14,198135,Eric,Knackmuhs,Bowling Green,KY,,Bakehouse Cycling
 15,424144,Richie,Minner,Lebanon,OH,,ZWS / Brilliant Advice
 16,438443,George,Morrison IV,Indianapolis,IN,,Fitness Lab
 17,454200,Eli,House,Indianapolis,IN,,Veloworks Urban Cyclery
@@ -193,7 +193,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,244075,Luke,Neubauer,Louisville,KY,,Clarksville Schwinn powered by Whayne
 23,368958,Larry,Johns,Arcola,IL,,None
 24,445682,John,Reidy,Warsaw,IN,,None
-25,301490,Breton,Minnehan,Rochester,NY,,Ghisallo Cycling
+25,301490,Breton,Minnehan,Hopkinton,NH,,Ghisallo Cycling
 26,138584,Rhys,Edwards,Noblesville,IN,,Team Upland Brewing
 27,233960,Spencer,Dell,Indianapolis,IN,,Team Upland Brewing
 28,396336,Trevor,Jahn,West Lafayette,IN,,Purdue Cycling
@@ -202,7 +202,7 @@ Place,License #,First,Last,City,State,Time,Team
 31,511138,Noble,Guyon,Lanesville,IN,,CUTTERS Cycling
 32,221994,Matthew,Lester,Lebanon,OH,,Team Dayton Cycling
 33,410680,Gregory,Hillman,Indianapolis,IN,,Phoenix Fitness and Training
-34,238604,Brian,Sullivan,Mishawaka ,IN,,RACE INC.
+34,238604,Brian,Sullivan,South Bend,IN,,RACE INC.
 35,502006,Mitchell,Ford,Louisville,KY,,University of Louisville
 36,142059,Dale,Eads,Loveland,OH,,Zephyr Wheel Sports
 37,398258,Chad,Mangeot,Fairfield,OH,,Team Dayton Cycling
@@ -234,7 +234,7 @@ Place,License #,First,Last,City,State,Time,Team
 63,411954,Eddie,Krillenberger,Hinsdale,IL,,Indiana University - Bloomington
 64,275551,Nathan,Damm,Bloomington,IN,,Columbus Bicycle Station
 65,239173,Matt,Jones,Indianapolis,IN,,Dash Racing
-66,433604,Jake,Hreha,Berne ,IN,,Yokohama Racing p/b BikeLine/Singleton Coaching
+66,433604,Jake,Hreha,Berne,IN,,Yokohama Racing p/b BikeLine/Singleton Coaching
 DNS,285795,Benjamin,King,Louisville,KY,,Clarksville Schwinn powered by Whayne
 DNS,511798,Joshua,Richards,Bloomington,IN,,Bakehouse Cycling
 DNF,512410,Daniel,Majors,Mccordsville,IN,,Four2One Coaching
@@ -243,7 +243,7 @@ DNF,344528,Lavelle,Hatcher,Dayton,OH,,Kreitler Racing Team
 06/11/2017 Criterium Men Cat 1/2/3 Senior 0-99
 Place,License #,First,Last,City,State,Time,Team
 1,318688,Thomas,Revard,Carmel,IN,,Bissell-ABG-Giant
-2,257134,Josh,Johnson,Fort Wayne,IN,,Bissell-ABG-Giant
+2,257134,Josh,Johnson,Indianapolis,IN,,Bissell-ABG-Giant
 3,257611,Hogan,Sills,Terre Haute,IN,,Bissell-ABG-Giant
 4,293467,Jordan,Marhanka,Sellersburg,IN,,Hincapie Sportswear Development Tean
 5,122674,Chad,Burdzilauskas,Indianapolis,IN,,Dash Racing
@@ -261,7 +261,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,226313,Michael (Casey),Saunders,Saint Louis,MO,,Dogfish/Team Noah
 18,266105,Andy,Prickett,Arcanum ,OH,,Team Dayton Bicycling
 19,398250,Ryan,McLoughlin,Powell,OH,,Kreitler Racing Team
-20,2443,John,Balmer,Indianapolis ,IN,,Century Road Club of America
+20,2443,John,Balmer,Indianapolis,IN,,Century Road Club of America
 21,403103,John,Collier,Indianapolis,IN,,Dash Racing
 22,399512,Craig,Baker,Greenwood,IN,,DASH RACING
 23,286941,Sean,McCarthy,Lockport,IL,,Athletes By Design
@@ -288,10 +288,10 @@ Place,License #,First,Last,City,State,Time,Team
 44,142059,Dale,Eads,Loveland,OH,,Zephyr Wheel Sports
 45,425028,Benjamin,Richardson,Indianapolis,IN,,
 46,323824,Max,Savage,Loveland,OH,,Team Handmade
-47,238604,Brian,Sullivan,Mishawaka ,IN,,RACE INC.
+47,238604,Brian,Sullivan,South Bend,IN,,RACE INC.
 48,407691,Ben,Souders,Indianapolis,IN,,Team Upland Brewing
 49,466116,Kyle,Kelly,Blue Ash,OH,,Bishop's Bicycles
-50,278921,Vance,Fletcher,Chariton,IA,,DASH Racing
+50,278921,Vance,Fletcher,Indianapolis,IN,,DASH Racing
 51,482135,John,Fratinardo,Saint Louis,MO,,Dogfish/Team Noah
 52,454200,Eli,House,Indianapolis,IN,,Veloworks Urban Cyclery
 53,402908,Kelsey,Devereaux,Indianapolis,IN,,Womens Racing Project

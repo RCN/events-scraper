@@ -8,7 +8,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,411156,Justin,Poulson,San Jose,CA,17:04.8,SJBC
 5,380872,Ryan,Jones,San Francisco,CA,18:06.9,
 6,399334,Jack,Rexer,Campbell,CA,19:04.1,
-7,136641,Michael,Hernandez,Oakland,CA,20:17.3,
+7,136641,Michael,Hernandez,Clyde,CA,20:17.3,
 8,253377,Alex,Telitsine,Renton,WA,21:39.3,Apex Racing
 
 01/01/2017 Time Trial Men Juniors 12-18 Junior
@@ -18,7 +18,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,496595,Jonas,Crean,Sonoma,CA,19:35.6,
 4,523021,Louis,Durano,Truckee,CA,20:27.5,
 5,523023,Andy,Durano,Truckee,CA,20:40.7,
-6,523219,Andrew,Esler,San Jose,CA,21:20.7,
+6,523219,Andrew,Esler,San Jose ,CA,21:20.7,
 7,351738,Will,Wright,Campbell,CA,21:44.1,
 8,522931,Zach,Rotblatt,Palo Ato,CA,22:53.3,
 9,394290,Coooper,Downing,Piedmont,CA,24:14.7,JAKROO pb Chrome Industries
@@ -53,7 +53,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,407521,Tim,Davis,San Jose,CA,19:45.9,
 5,356162,Ryosei,Kaneko,El Sobrante,CA,22:16.4,
 6,195443,Erik,Salander,Belmont,CA,23:23.8,Pen Velo Racing/Summit Bicycles
-7,298221,Terry,Dewane,San Anselmo,CA,33:14.4,
+7,298221,Terry,Dewane,San Rafael,CA,33:14.4,
 
 01/01/2017 Time Trial Men 45+ Cat 4/5 Master
 Place,License #,First,Last,City,State,Time,Team
@@ -63,7 +63,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,448906,Shahram,Moatazedi,Mountain View,CA,21:17.9,Los Gatos
 5,522087,Stan,Schwartz,Sparks,NV,22:45.4,
 6,379987,Steven,Dalencon,San Mateo,CA,23:15.4,Pen Velo Racing/Summit Bicycles
-7,522888,Robert,Ballard,Berkeley,CA,23:56.7,
+7,166481,Robert,Ballard,El Cerrito,CA,23:56.7,
 8,392191,Rob,Lytle,Pittsburg,CA,24:07.2,CBRE Racing
 9,2076,Glen,Augustine,Berkeley,CA,24:33.9,
 10,284861,John,Crean,Sonoma,CA,25:38.2,
@@ -75,8 +75,8 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,356928,Jordan,Gudebski,Piedmont,CA,19:05.1,
 2,27283,Jay,Parkhill,San Francisco,CA,19:20.1,Team Roaring Mouse
-3,201585,Daniel,Quirk,Petaluma,CA,19:21.1,ThirstyBear p/b Akamai
-4,146243,Daryl,Spano,Fremont,CA,19:22.1,SJBC
+3,201585,Daniel,Quirk,Sonoma,CA,19:21.1,ThirstyBear p/b Akamai
+4,146243,Daryl,Spano,Colorado Springs,CO,19:22.1,SJBC
 5,418333,Shane,Kinney,Roseville,CA,19:51.5,Sierra Nevada/Reliable Racing
 6,107663,Benjamin,Rush,Oakland,CA,20:09.4,
 
@@ -89,7 +89,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,90934,Philip,Luedtke,Lafayette,CA,21:04.4,
 6,494390,Andrew,Chew,San Mateo,CA,21:40.2,Pen Velo Racing/Summit Bicycles
 7,335722,Leonard,Lesser,Oakland,CA,22:45.9,
-8,440491,Philip,Barros,Danville,CA,22:50.8,
+8,440491,Philip,Barros,Pleasanton,CA,22:50.8,
 9,326874,Zachary,Hilton,Morgan Hill,CA,22:57.2,SJBC
 
 01/01/2017 Time Trial Men 35+ Cat 1/2/3 Master
@@ -150,7 +150,7 @@ Place,License #,First,Last,City,State,Time,Team
 01/01/2017 Time Trial  Women Cat 3/4/5 Elite
 Place,License #,First,Last,City,State,Time,Team
 1,392370,Pamela,Levine,Menlo Park,CA,,
-2,485936,Trish,Pablo,Sacramento ,CA,22:01.9,
+2,485936,Trish,Pablo,Rodeo,CA,22:01.9,
 3,0,Taylor,Sawyer,,,22:46.5,
 4,240797,Jennifer,Barlow,Benicia,CA,23:01.3,
 5,467043,Caroline,Koch,Novato,CA,23:10.5,
@@ -163,7 +163,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,365569,Michelle,Morrill,San Francisco,CA,25:29.8,
 13,271750,Vanessa,Baumann,Alamo,CA,26:07.6,
 14,255734,Carla,Cosentino,San Rafael,CA,26:14.2,
-15,58099,Jessie,Hickel,Auburn,WA,29:07.1,
+15,58099,Jessie,Hickel,Hayward,CA,29:07.1,
 16,522508,Colleen,Chew,San Mateo,CA,29:27.2,
 17,523174,nathalie,criou,San Francisco,CA,33:03.9,
 
@@ -171,5 +171,5 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,470357,Illi,Gardner,Palo Alto,CA,21:04.4,
 2,311464,Tanya,Fredricks,San Anselmo,CA,21:11.3,
-3,252152,Beth,Hernandez,Oakland,CA,23:29.1,
+3,252152,Beth,Hernandez,Concord,CA,23:29.1,
 4,75937,Elizabeth,Benishin,Palo Alto,CA,24:47.9,CA Technologies Racing

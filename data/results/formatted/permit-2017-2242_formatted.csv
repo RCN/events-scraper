@@ -25,13 +25,13 @@ DNP,397013,christopher,BEALL,Burlingame,CA,,LOW//Factory Racing
 Place,License #,First,Last,City,State,Time,Team
 1,396041,Hans,POULSEN,Hayward,CA,,Tieni Duro Junior Cycling Team
 2,320750,Isaiah,CHASS,Sebastopol,CA,,Team Swift
-3,194574,Morgan,GERLAK,Baltimore,MD,,Olympic Club
+3,194574,Morgan,GERLAK,San Francisco,CA,,Olympic Club
 4,497902,Connor,WRIGHT,Reno,NV,,
 5,275120,Cameron,WALKER,Sacramento,CA,,Team Mikes Bikes p/b Equator Coffees
 6,327014,Justin,BALDERSTON,Newark,CA,,Team Mikes Bikes p/b Equator Coffees
 7,395728,Leonard,SCHUMMER,San Francisco,CA,,Tieni Duro Junior Cycling Team
 8,329626,Joseph,NEAR,Kensington,CA,,MIT Cycling
-9,413239,Max,MOTSCHWILLER,Menlo Park,CA,,
+9,413239,Max,MOTSCHWILLER,San Francisco,CA,,
 10,391493,Stuart,WATSON,San Rafael,CA,,Cycle Sport - Specialized p/b Muscle Milk
 11,205713,Nicholas,JERABEK,Oakland,CA,,CA Technologies Racing
 12,220894,Alexander,YERMOLOVICH,Santa Clara,CA,,Pen Velo Racing/Summit Bicycles
@@ -102,7 +102,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,205876,Sean,WILLIAMS,Oakland,CA,,East Bay Velo Club
 3,271499,Robert,NAPIERALSKI,Springville,CA,,
 4,404430,Mark,MASSEY,San Francisco,CA,,Clean Power Cycling pb TESLA
-5,46151,James,SULLIVAN,Calistoga,CA,,Davis Bike Club
+5,46151,James,SULLIVAN,Davis,CA,,Davis Bike Club
 6,270067,Dave,MAMINSKI,Campbell,CA,,Morgan Stanley Cycling Team
 7,457973,RJ,LAFFINS,Chico,CA,,Chico Cycling Team
 8,216231,Jeffrey,KATO,San Rafael,CA,,Clean Power Cycling pb TESLA
@@ -117,11 +117,11 @@ DNP,419084,Daniel,TKACH,Danville,CA,,CBRE Racing
 Place,License #,First,Last,City,State,Time,Team
 1,403525,Jake,TAYLOR,Rancho Cordova,CA,,University of California-Davis
 2,381099,Peter,SMITH,Oakland,CA,,Team Mikes Bikes p/b Equator Coffees
-3,413239,Max,MOTSCHWILLER,Menlo Park,CA,,
+3,413239,Max,MOTSCHWILLER,San Francisco,CA,,
 4,413330,Aaron,MCDEVITT,Mountain View,CA,,SquadraSF p/b Terun
 5,382116,Simon,TUTTLE,Walnut Creek,CA,,
 6,273533,Arnaud,BORNER,Mountain View,CA,,Team Mikes Bikes p/b Equator Coffees
-7,194574,Morgan,GERLAK,Baltimore,MD,,Olympic Club
+7,194574,Morgan,GERLAK,San Francisco,CA,,Olympic Club
 DNS,126770,Seth,MCDONOUGH,Chico,CA,,Chico Corsa Cycling Club
 DNS,258824,Ryan,OAKES,Chico,CA,,AMain Cycling Team
 
@@ -144,7 +144,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,321408,Chris,EVANS,Redwood City,CA,,ThirstyBear p/b Akamai
 16,195470,Kyle,GLERUM,Emerald Hills,CA,,Peet's Coffee Racing
 17,65800,Graham,SIMPSON,Carmel Valley,CA,,Don Chapin Monterey Bay Racing Team
-DNS,179386,Daniel,MARTIN,Pleasanton,CA,,Peet's Coffee Racing
+DNS,179386,Daniel,MARTIN,Loomis,CA,,Peet's Coffee Racing
 DNS,36095,Daniel,TURNER,Oakland,CA,,KaiVelo Racing
 DNP,20105,Bill,LADDISH,Castro Valley,CA,,KaiVelo Racing
 DNP,41848,Hussein,SAFFOURI,Piedmont,CA,,KaiVelo Racing
@@ -174,7 +174,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,133838,Daryl,HEMENWAY,San Jose,CA,,CoreTechs Cycling TwT
 19,30110,Philip,ROBERTS,Oakland,CA,,Chico Cycling Team
 20,195470,Kyle,GLERUM,Emerald Hills,CA,,Peet's Coffee Racing
-21,281420,Greg,TRIPOLI,Hanford,CA,,Dayka-Hackett
+21,281420,Greg,TRIPOLI,Kingsburg,CA,,Dayka-Hackett
 22,176461,Kevin,BAKER,Oakland,CA,,CA Technologies Racing
 23,79214,L Allen,SHAW,Arnold,CA,,Clean Power Cycling pb TESLA
 24,384665,John,SIMMONS,Sacramento,CA,,Clean Power Cycling pb TESLA
@@ -237,7 +237,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,423287,Mathias,JACQUELIN,Walnut Creek,CA,,Team Mikes Bikes p/b Equator Coffees
 12,520923,Rafael,GARCIA,San Francisco,CA,,
 13,494448,Cam,JUAREZ,San Francisco,CA,,RAPHA CYCLING CLUB
-14,494623,MATTHEW,HEPWORTH,San Francisco,CA,,SunPower Racing
+14,494623,MATTHEW,HEPWORTH,Palo Alto,CA,,SunPower Racing
 15,494463,Michael,RIYANTO,San Francisco,CA,,SJBC
 16,504596,Jacob,GORMAN,El Dorado Hills ,CA,,Limitless Cycling
 17,387371,Tom,PERKINS,San Francisco,CA,,JAKROO presented by Chrome Industries
@@ -280,7 +280,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,393225,Lilli,SAFLEY,Modesto,CA,,Bell Real Estate Cycling
 8,507422,Victoria,PRAS,Albany,CA,,
 9,523009,Marsha,GRIFFIN,Gilroy,CA,,San Jose Bicycle Club
-DNS,523813,Julie,DELBUCK,Berkeley,CA,,
+DNS,523813,Julie,DELBUCK,Emeryville,CA,,
 DNS,525629,Jaimee,ERICKSON,San Francisco,CA,,
 DNP,468042,Teri,HUERTA,Davis,CA,,Breakaway Women's Racing p/b Kinetic Cycles
 

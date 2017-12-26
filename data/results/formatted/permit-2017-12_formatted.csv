@@ -112,7 +112,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,473243,Brian,Gorman,Golden,CO,52.632,THE HAMMER VIKINGS
 5,54905,Thomas,Miller,Highlands Ranch,CO,52.632,THE HAMMER VIKINGS
 5,440560,Henry,Winterbottom,Erie,CO,52.632,THE HAMMER VIKINGS
-6,340764,Jason,Kimball,Colorado Springs ,CO,53.842,US PARALYMPICS CYCLI
+6,340764,Jason,Kimball,Colorado Springs,CO,53.842,US PARALYMPICS CYCLI
 6,224712,Jason,Macom,Little Rock,AR,53.842,US PARALYMPICS CYCLI
 6,313338,Justin,Widhalm,Fountain,CO,53.842,US PARALYMPICS CYCLI
 7,267806,Mark,Leppke,Minneapolis,MN,54.693,BLOOD STAINED TEARS
@@ -133,7 +133,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,1044,Brian,Abers,Aloha,OR,50.251,HOP TO IT
 1,311262,James,Lawrence,Colorado Springs,CO,50.251,HOP TO IT
 1,205972,Michael,Paulin,Aurora,CO,50.251,HOP TO IT
-2,250229,Michael,Dancel,Dpo,aa,50.873,BIG PANDA SYNDICATE
+2,250229,Michael,Dancel,Arlington,VA,50.873,BIG PANDA SYNDICATE
 2,273985,Quinn,Hatfield,Los Angeles,CA,50.873,BIG PANDA SYNDICATE
 2,121718,William,Wong,Alexandria,VA,50.873,BIG PANDA SYNDICATE
 3,405604,Karl,Baumgart,Scottsdale,AZ,52.311,SOUTHWEST EXPRESS
@@ -329,7 +329,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,65788,Michael,Lifshotz,Apex,NC,,Fast Gear/Cerious Speed
 5,58174,Shannon,Malmquist,Miami,FL,,Cerious Coaching/Serenity Bicycles
 6,104797,Kenneth,Lo,San Francisco,CA,,Performance Cycle Coaching
-7,340764,Jason,Kimball,Colorado Springs ,CO,,U.S. Paralympics Cycling Team
+7,340764,Jason,Kimball,Colorado Springs,CO,,U.S. Paralympics Cycling Team
 8,473243,Brian,Gorman,Golden,CO,,Hammer Racing Team- TVG LTD.
 9,160630,Joshua,Roeser,Buffalo,MN,,Revolution Cycle & Ski
 10,313338,Justin,Widhalm,Fountain,CO,,U.S. Paralympics Cycling Team
@@ -398,7 +398,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 07/01/2017 Time Trial Men Master 35-39
 Place,License #,First,Last,City,State,Time,Team
-1,198135,Eric,Knackmuhs,Bloomington,IN,1:12.119,Bakehouse Cycling
+1,198135,Eric,Knackmuhs,Bowling Green,KY,1:12.119,Bakehouse Cycling
 2,365286,chris,gaitos,Fremont,CA,1:13.467,Performance Cycle Coaching
 3,224712,Jason,Macom,Little Rock,AR,1:13.771,U.S. Paralympics Cycling Team
 4,232237,Matthew,Weeks,Rocky River,OH,1:13.882,Lake Effect Cycling Team
@@ -442,7 +442,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,492848,Brian,Bowling,San Clemente,CA,04:00.477,Veloce Santiago
 7,356416,James,Shimada,Seattle,WA,04:12.362,Corner 4 Racing
 8,204122,Andrew,Anderson,Evanston,IL,04:18.412,Polish & Slavic FCU International Cycling Team
-DNS,177388,Steven,Chaney,St. Louis ,MO,,Dogfish/Team Noah
+DNS,177388,Steven,Chaney,St. Louis,MO,,Dogfish/Team Noah
 
 06/30/2017 Individual Pursuit Women Master 35-39
 Place,License #,First,Last,City,State,Time,Team
@@ -533,7 +533,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,56762,Timothy,Mullins,Richmond,VA,@1 Lap,
 5,200963,Nao,Yamashita,Breinigsville,PA,@1 Lap,The Velo Shop / LWA Racing
 6,137582,Aram,Bayzaee,Northbrook,IL,@1 Lap,Pact- DISH Network Cycling
-7,2443,John,Balmer,Indianapolis ,IN,@1 Lap,Century Road Club Of America
+7,2443,John,Balmer,Indianapolis,IN,@1 Lap,Century Road Club Of America
 8,264316,Michael,Dega,Farmington Hills,MI,@1 Lap,Team O2
 9,47463,Andrew,Nevitt,Saratoga,CA,@1 Lap,Performance Techniques
 10,52453,David,Klipper,Portland,OR,@1 Lap,Guinness Cycling Team
@@ -541,7 +541,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,260190,Ronald,Sielinski,Redmond,WA,@1 Lap,Kenmore Velo
 13,467481,Gary,Morgan,Austell,GA,@1 Lap,East Point Track Club
 DNS,106895,Steve,Landry,Chula Vista,CA,,G3Foundation / Trek
-DNF,323108,howard,buckley,Atlanta,GA,,East Point Track Club
+DNF,323108,howard,buckley,East Point,GA,,East Point Track Club
 
 06/30/2017 Scratch Race Women Master 55-59
 Place,License #,First,Last,City,State,Time,Team
@@ -550,7 +550,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,104668,Meg,Mautner,Beaverton,OR,,BriHOP Racing/Big Bottom Distilling
 4,440964,Sue,Meinerz,Golden,CO,,Hammer Racing Team- TVG LTD.
 5,15086,Marni,Harker,Washington,DC,,Colavita Midatlantic Women's Team
-6,487871,Diane,Sudduth,Deerfield Beach,FL,,Florida Bicycle Racing Association
+6,487871,Diane,Sudduth,Parkland,FL,,Florida Bicycle Racing Association
 
 06/30/2017 Scratch Race Women Master 60-64
 Place,License #,First,Last,City,State,Time,Team
@@ -631,7 +631,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 06/29/2017 Individual Pursuit Men Master 55-59
 Place,License #,First,Last,City,State,Time,Team
-1,7782,Greg,Cordasco,Basking Ridge,NJ,2:32.693,Liberty Cycle Inc.
+1,7782,Greg,Cordasco,Baskingridge,NJ,2:32.693,Liberty Cycle Inc.
 2,55674,Jon,Lazard,Marion,IN,2:34.632,
 3,35241,Stanley,Terusaki,Livermore,CA,2:35.185,Morgan Stanley Cycling Team
 4,24084,Jorge,Merle,Garland,TX,2:36.605,Dallas Racing
@@ -681,7 +681,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,57947,Michael,Miller,Morgantown,PA,31,Team Skyline
 2,133838,Daryl,Hemenway,San Jose,CA,19,Performance Cycle Coaching
-3,46770,Brian,Teipen,Alpharetta,GA,14,East Point Track Club
+3,46770,Brian,Teipen,Milton,GA,14,East Point Track Club
 4,405604,Karl,Baumgart,Scottsdale,AZ,11,Velo Track Cycling
 5,52491,Gen,Kogure,Asheville,NC,8,Velosports Racing Asheville
 6,10417,Nima,Ebrahimnejad,Washington,DC,5,Kelly Benefit Strategies/LSV
@@ -690,7 +690,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,149752,Eric,Ragot,Brooklyn,NY,-14,Bicycle Habitat-Verge Sport
 10,268295,mark,danniballe,Dublin,OH,-35,Ohio Cycling Association
 11,133,Ryan,Crissey,Garland,TX,-40,Crest/RBM Racing
-12,362289,Jason,Holly,Buffalo Grove ,IL,-60,PSIMET Racing
+12,362289,Jason,Holly,Buffalo Grove,IL,-60,PSIMET Racing
 DQ,319966,John,Schiefer,Union City,CA,14,CoreTechs Cycling TwT
 DNF,9601,Patrick,Diver,Orlando,FL,0,
 DNF,301873,Robert,Higgins,Chicago,IL,0,George Garner Cyclery Track Team
@@ -734,7 +734,7 @@ Place,License #,First,Last,City,State,Time,Team
 06/29/2017 Sprint Men Master 50-54
 Place,License #,First,Last,City,State,Time,Team
 1,1044,Brian,Abers,Aloha,OR,11.324,BRIHOP Cycling
-2,323108,howard,buckley,Atlanta,GA,12.325,East Point Track Club
+2,323108,howard,buckley,East Point,GA,12.325,East Point Track Club
 3,137582,Aram,Bayzaee,Northbrook,IL,11.820,Pact- DISH Network Cycling
 4,164831,Brian,Wilson,Largo,FL,12.348,
 5,205972,Michael,Paulin,Aurora,CO,12.130,Momentum Coaching Group
@@ -746,7 +746,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,262158,Koh,Annoura,Houston,TX,11.816,Northwest Cycling Club
 12,270002,Kirk,Robinson,Wilmington,NC,11.873,Performance Cycle Coaching
 13,185668,Tim,Gaidis,St Louis,MO,12.368,Velo Force
-14,2443,John,Balmer,Indianapolis ,IN,12.393,Century Road Club Of America
+14,2443,John,Balmer,Indianapolis,IN,12.393,Century Road Club Of America
 15,14650,Shon,Halasi,El Segundo,CA,12.640,
 16,38526,Greg,Wilson,Northglenn,CO,12.793,Hammer Racing Team- TVG LTD.
 17,534751,Michael,Tharp,Peachtree City,GA,12.837,East Point Track Club
@@ -760,7 +760,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,494766,Claire,Olsen,Colorado Springs,CO,13.952,Bicycle Racing Association of Colorado
 2,279725,Gwenn,Afton,Reston,VA,13.864,South Mountain Cycle & Cafe
 3,47808,Lisa,Giuffre,Englewood,OH,14.810,The Midwest Express
-4,487871,Diane,Sudduth,Deerfield Beach,FL,15.822,Florida Bicycle Racing Association
+4,487871,Diane,Sudduth,Parkland,FL,15.822,Florida Bicycle Racing Association
 5,440964,Sue,Meinerz,Golden,CO,16.355,Hammer Racing Team- TVG LTD.
 
 06/29/2017 Sprint Women Master 60-64
@@ -782,7 +782,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,335620,Chris,Baker,Seattle,WA,,Corner 4 Racing
 2,124727,Chase,Prezioso,Charlotte,NC,@1 Lap,Giordana-The Cycle Path-S2F
-3,198135,Eric,Knackmuhs,Bloomington,IN,@1 Lap,Bakehouse Cycling
+3,198135,Eric,Knackmuhs,Bowling Green,KY,@1 Lap,Bakehouse Cycling
 4,370961,william,johnson,Brooklyn,NY,@1 Lap,Deluxe Cycles Racing
 5,392677,Matthew,Capps,Charlotte,NC,@1 Lap,Bike Law Cycling Club
 6,268966,James,Gallagher,Durham,NC,@3 Laps,Triangle Velo
@@ -811,7 +811,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,160630,Joshua,Roeser,Buffalo,MN,1:11.950,Revolution Cycle & Ski
 5,65788,Michael,Lifshotz,Apex,NC,1:12.629,Fast Gear/Cerious Speed
 6,313338,Justin,Widhalm,Fountain,CO,1:13.493,U.S. Paralympics Cycling Team
-7,340764,Jason,Kimball,Colorado Springs ,CO,1:13.649,U.S. Paralympics Cycling Team
+7,340764,Jason,Kimball,Colorado Springs,CO,1:13.649,U.S. Paralympics Cycling Team
 8,492848,Brian,Bowling,San Clemente,CA,1:14.944,Veloce Santiago
 9,267806,Mark,Leppke,Minneapolis,MN,1:18.111,LGR p/b Tonka Cycle & Ski
 10,356416,James,Shimada,Seattle,WA,1:19.221,Corner 4 Racing
@@ -831,7 +831,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,126010,Christian,Tregillis,Manhattan Beach,CA,2:28.765,ironfly
 5,264316,Michael,Dega,Farmington Hills,MI,2:32.688,Team O2
 6,56762,Timothy,Mullins,Richmond,VA,2:33.205,
-7,2443,John,Balmer,Indianapolis ,IN,2:33.656,Century Road Club Of America
+7,2443,John,Balmer,Indianapolis,IN,2:33.656,Century Road Club Of America
 8,200963,Nao,Yamashita,Breinigsville,PA,2:34.876,The Velo Shop / LWA Racing
 9,260190,Ronald,Sielinski,Redmond,WA,2:34.933,Kenmore Velo
 10,522602,Sean,Tulley,Lexington Park,MD,2:36.322,
@@ -880,7 +880,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,65848,Michel,Mouly Jr,Rock Hill,SC,9,
 6,359,Jason,Goldberg,Saint Paul,MN,7,SPBRC-Grand Performance
 7,204122,Andrew,Anderson,Evanston,IL,-20,Polish & Slavic FCU International Cycling Team
-8,177388,Steven,Chaney,St. Louis ,MO,-40,Dogfish/Team Noah
+8,177388,Steven,Chaney,St. Louis,MO,-40,Dogfish/Team Noah
 9,303,Nathan,Schickel,Carmel,IN,-40,Igo Fasnow Racing
 
 06/28/2017 Sprint Men Master 35-39
@@ -917,7 +917,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 06/28/2017 Scratch Race Men Cat 1/2/3 Master 45-49
 Place,License #,First,Last,City,State,Time,Team
-1,46770,Brian,Teipen,Alpharetta,GA,,East Point Track Club
+1,46770,Brian,Teipen,Milton,GA,,East Point Track Club
 2,405604,Karl,Baumgart,Scottsdale,AZ,,Velo Track Cycling
 3,133838,Daryl,Hemenway,San Jose,CA,,Performance Cycle Coaching
 4,57947,Michael,Miller,Morgantown,PA,,Team Skyline
@@ -927,7 +927,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,162118,Brian,Haas,Chicago,IL,,Pact- DISH Network Cycling
 9,149752,Eric,Ragot,Brooklyn,NY,,Bicycle Habitat-Verge Sport
 10,133,Ryan,Crissey,Garland,TX,,Crest/RBM Racing
-11,362289,Jason,Holly,Buffalo Grove ,IL,,PSIMET Racing
+11,362289,Jason,Holly,Buffalo Grove,IL,,PSIMET Racing
 12,9601,Patrick,Diver,Orlando,FL,,
 13,52491,Gen,Kogure,Asheville,NC,,Velosports Racing Asheville
 14,230339,Jeremy,Treister,Chicago,IL,,Half Acre Cycling
@@ -985,7 +985,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,55674,Jon,Lazard,Marion,IN,38.867,
 7,24084,Jorge,Merle,Garland,TX,38.945,Dallas Racing
 8,47069,Robert,Bodamer,Kingwood,TX,39.133,Matrix/RBM
-9,7782,Greg,Cordasco,Basking Ridge,NJ,39.138,Liberty Cycle Inc.
+9,7782,Greg,Cordasco,Baskingridge,NJ,39.138,Liberty Cycle Inc.
 10,66088,Richard,Toler,Dayton,OH,39.505,Team Dayton Bicycling
 11,254732,Andy,Bailie,Decatur,GA,40.327,L5Flyers Cycling Team
 12,478467,David,Magloire,Mableton,GA,40.741,East Point Track Club
@@ -1042,7 +1042,7 @@ Place,License #,First,Last,City,State,Time,Team
 06/27/2017 Individual Pursuit Men Master 35-39
 Place,License #,First,Last,City,State,Time,Team
 1,232237,Matthew,Weeks,Rocky River,OH,3:43.774,Lake Effect Cycling Team
-2,198135,Eric,Knackmuhs,Bloomington,IN,3:48.674,Bakehouse Cycling
+2,198135,Eric,Knackmuhs,Bowling Green,KY,3:48.674,Bakehouse Cycling
 3,370961,william,johnson,Brooklyn,NY,3:58.873,Deluxe Cycles Racing
 
 06/27/2017 Individual Pursuit Men Master 65-69
@@ -1071,7 +1071,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,35241,Stanley,Terusaki,Livermore,CA,18,Morgan Stanley Cycling Team
 2,55674,Jon,Lazard,Marion,IN,13,
 3,219611,Kurt,Bickel,Reno,NV,7,Performance Techniques
-4,7782,Greg,Cordasco,Basking Ridge,NJ,5,Liberty Cycle Inc.
+4,7782,Greg,Cordasco,Baskingridge,NJ,5,Liberty Cycle Inc.
 5,37289,Randal,Warren,Asheville,NC,4,Downtown Asheville Racing Club (DARC)
 6,251192,David,Hicken,Rochester Hills,MI,3,Team O2
 7,20324,Greg,Langer,Golden,CO,3,Old School Industries
@@ -1125,7 +1125,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,150400,Todd,Stodolski,Brooklyn,NY,11.727,South Mountain Cycle & Cafe
 6,237854,Jeffrey,Noon,Mansfield,TX,12.15,Cadence Cyclery
 7,54748,James,Kramer,Scottsdale,AZ,12.311,Cyberdyne Systems
-8,362289,Jason,Holly,Buffalo Grove ,IL,12.549,PSIMET Racing
+8,362289,Jason,Holly,Buffalo Grove,IL,12.549,PSIMET Racing
 9,323156,Richard,Keller,Murfreesboro,TN,12.058,Support Clean Sport/SeaSucker/Guttenplan Coaching
 10,230339,Jeremy,Treister,Chicago,IL,12.637,Half Acre Cycling
 11,290560,Richard,Nieto,Columbia Station,OH,12.677,Pista Elite
@@ -1176,7 +1176,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,356416,James,Shimada,Seattle,WA,,Corner 4 Racing
 8,313338,Justin,Widhalm,Fountain,CO,,U.S. Paralympics Cycling Team
 9,303,Nathan,Schickel,Carmel,IN,,Igo Fasnow Racing
-DNF,177388,Steven,Chaney,St. Louis ,MO,,Dogfish/Team Noah
+DNF,177388,Steven,Chaney,St. Louis,MO,,Dogfish/Team Noah
 
 06/27/2017 Scratch Race Women Cat 1/2/3 Master 35-39
 Place,License #,First,Last,City,State,Time,Team
@@ -1198,13 +1198,13 @@ Place,License #,First,Last,City,State,Time,Team
 4,522602,Sean,Tulley,Lexington Park,MD,36.208,
 5,262158,Koh,Annoura,Houston,TX,36.238,Northwest Cycling Club
 6,205972,Michael,Paulin,Aurora,CO,36.400,Momentum Coaching Group
-7,323108,howard,buckley,Atlanta,GA,36.411,East Point Track Club
+7,323108,howard,buckley,East Point,GA,36.411,East Point Track Club
 8,214654,Daniel,Casper,Lauderdale,MN,36.691,Donkey Label
 9,270002,Kirk,Robinson,Wilmington,NC,37.392,Performance Cycle Coaching
 10,50829,Robert,Francis,Scottsdale,AZ,37.477,Velo Track Cycling
 11,54905,Thomas,Miller,Highlands Ranch,CO,37.875,Hammer Racing Team- TVG LTD.
 12,162126,Greg,Dubbe,Longmont,CO,38.000,Old School Industries
-13,2443,John,Balmer,Indianapolis ,IN,38.086,Century Road Club Of America
+13,2443,John,Balmer,Indianapolis,IN,38.086,Century Road Club Of America
 14,164831,Brian,Wilson,Largo,FL,38.470,
 15,200963,Nao,Yamashita,Breinigsville,PA,38.790,The Velo Shop / LWA Racing
 16,264316,Michael,Dega,Farmington Hills,MI,39.396,Team O2
@@ -1221,7 +1221,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,15086,Marni,Harker,Washington,DC,43.781,Colavita Midatlantic Women's Team
 5,47808,Lisa,Giuffre,Englewood,OH,43.826,The Midwest Express
 6,104668,Meg,Mautner,Beaverton,OR,46.280,BriHOP Racing/Big Bottom Distilling
-7,487871,Diane,Sudduth,Deerfield Beach,FL,46.992,Florida Bicycle Racing Association
+7,487871,Diane,Sudduth,Parkland,FL,46.992,Florida Bicycle Racing Association
 8,440964,Sue,Meinerz,Golden,CO,48.737,Hammer Racing Team- TVG LTD.
 9,530419,Roxanne,Daniel,Lexington,SC,49.254,
 

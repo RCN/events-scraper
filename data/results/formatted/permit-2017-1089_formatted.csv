@@ -11,7 +11,7 @@ Place,License #,First,Last,City,State,Time,Team
 07/16/2017 Track Men Cat 1/2/3/4
 Place,License #,First,Last,City,State,Time,Team
 1,316924,Lucas,Koehler,Bronx,NY,76,Pink Rhino Racing
-2,309018,Keith,Mullaly,Belmont,NC,67,Levine Law Group p/b Huseby
+2,309018,Keith,Mullaly,Wethersfield,CT,67,Levine Law Group p/b Huseby
 3,508297,Tim,Clark,White Plains,NY,65,
 4,430538,Nick,Gershberg,Brooklyn,NY,63,Pink Rhino Racing
 5,461050,Jesse,Shotland,Brooklyn,NY,63,Deluxe Cycles Racing
@@ -20,7 +20,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,261749,Brean,Shea,New York,NY,55,Pink Rhino Racing
 9,514798,Matthew,Recchia,Astoria,NY,48,
 10,529749,Chris,Salucci,Brooklyn,NY,45,ETC.
-11,530792,Daniel,Spellman,Wyckoff,NJ,45,
+11,530792,Daniel,Spellman,New York ,NY,45,
 12,45118,Joseph,Brennan,Warren,NJ,42,
 13,381979,Robert,Marcus,Bronx,NY,36,Pink Rhino Racing
 14,49206,Clive,Hallwood,Rockville Centre,NY,28,Mineola Bicycle Racing Team
@@ -30,7 +30,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,112801,Christine,D'Ercole,New York,NY,100,Peloton/Affinity/IAmICanIWillDo
 2,236099,Michelle,Lee,Philadelphia,PA,95,Mathletes Racing
-3,489031,Rebecca,Book,Brooklyn,NY,88,Formula Femme
+3,489031,Rebecca,Book,Seattle,WA,88,Formula Femme
 4,215018,Camie,Kornely,Fort Lee,NJ,87,CRCA/Blue Ribbon-Pennell Venture Partners
 
 07/16/2017 Track Women Cat 5
@@ -59,5 +59,5 @@ Place,License #,First,Last,City,State,Time,Team
 3,481744,Natalie,Eng,Middle Village,NY,70,Star Track Cycling
 4,515935,Marvin,Santos,Brooklyn,NY,69,Star Track Cycling
 5,480585,Max,Rodriguez,Closter,NJ,68,Star Track
-6,525381,Eziel,Hernandez,Forest Hills,NY,63,Star track
+6,525381,Eziel,Hernandez,Levittown,NY,63,Star track
 7,530972,Nya,Santos,Brooklyn,NY,30,Star Track Cycling

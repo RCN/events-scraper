@@ -7,7 +7,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,193992,Woody,Boudreaux,Westwego,LA,,CSpire Fiber Cycling
 4,385828,Brian,Bourgeois,New Orleans,LA,,
 5,167772,Eddie,Corcoran,New Orleans,LA,,
-6,309874,Kenneth,Poole,Hattiesburg ,MS,,CSpire Fiber Cycling
+6,309874,Kenneth,Poole,Hattiesburg,MS,,CSpire Fiber Cycling
 7,238642,William,Jones,Baton Rouge,LA,,4D Racing
 8,60440,Hamrick,Selby,Covington,LA,,Mid South Velo
 9,166615,Jim,Booth,New Orleans,LA,,Urban South Racing p/b Rouler
@@ -58,7 +58,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,477948,Troy,Alexander,Youngsville,LA,,Acadiana Bicycle Company Racing
 12,514844,Greig,Prejean,Carencro,LA,,Acadiana Bicycle Company Racing
 13,482251,Bert,Massey,Jackson,MS,,CSpire Fiber Cycling
-14,501707,ross,lunz,New Orleans,LA,,Squadra Della Pista
+14,501707,ross,lunz,Abluquerque,NM,,Squadra Della Pista
 15,495734,Michael,MacGown,Madison,MS,,CSpire Fiber Cycling
 16,468284,Adam,Layburn,New Orleans,LA,,New Orleans Bicycle Club Inc
 17,222707,Tom,Wooten,Cambridge,MA,,
@@ -67,7 +67,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,456354,Reid,Case,New Orleans,LA,,Urban South Racing p/b Rouler
 21,458937,Benjamin,Amirebrahimi,New Orleans,LA,,Raising Cane's Racing
 22,503764,Tucker,Hoeniges,Brookhaven,MS,,A-D Racing
-23,524417,Jerry,Cornell,New Orleans,LA,,Raising Cane's Racing
+23,524417,Jerry,Cornell,North Potomac,MD,,Raising Cane's Racing
 24,502008,Jeremy,Davidson,Mobile,AL,,Team Pursuit
 25,485415,Beau,Melancon,Luling,LA,,Palmer/CSpire Fiber Cycling
 26,510954,Jacob,Rush,Collins,MS,,
@@ -121,7 +121,7 @@ Place,License #,First,Last,City,State,Time,Team
 21,468645,Travis,Berger,Slidell,LA,,New Orleans Bicycle Club Inc
 22,352798,Brad,Rhodes,Houma,LA,,
 23,375473,Christian,Fontaine,Metairie,LA,,New Orleans Bicycle Club Inc
-24,524417,Jerry,Cornell,New Orleans,LA,,Raising Cane's Racing
+24,524417,Jerry,Cornell,North Potomac,MD,,Raising Cane's Racing
 25,456354,Reid,Case,New Orleans,LA,,Urban South Racing p/b Rouler
 25,303925,Eugene,Parker,Mobile,AL,,Urban South Racing p/b Rouler
 27,282664,christopher,kijko,Neworleans,LA,,Urban South Racing p/b Rouler
@@ -141,7 +141,7 @@ DNF,458937,Benjamin,Amirebrahimi,New Orleans,LA,,Raising Cane's Racing
 04/23/2017 Criterium Men Cat 1/2/3/4
 Place,License #,First,Last,City,State,Time,Team
 1,331166,Ben,Bradley,Plaquemine,LA,,4D Racing
-2,301474,Sam,LeBlanc,Kenner,LA,,4D Racing
+2,301474,Sam,LeBlanc,New Orleans,LA,,4D Racing
 3,378825,Lance,Abshire,Baton Rouge,LA,,Team LaS'port
 4,404765,Patton,Sims,Sterlington,LA,,Palmer/CSpire Fiber Cycling
 5,460011,John,OConnell,New Orleans,LA,,4D Racing
@@ -154,7 +154,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,424121,Jack,White,Madison,MS,,Palmer/CSpire Fiber Cycling
 13,227815,Joseph,Long,Kenner,LA,,Team LaS'port
 14,258236,Trey,Pounds,Brookhaven,MS,,CSpire Fiber Cycling
-15,309874,Kenneth,Poole,Hattiesburg ,MS,,CSpire Fiber Cycling
+15,309874,Kenneth,Poole,Hattiesburg,MS,,CSpire Fiber Cycling
 16,388343,Stephanie,Smith,Metairie,LA,,
 17,281156,Dustin,Drewes,Ponchatoula,LA,,4D Racing
 19,509667,CHRISTOPHER,RAYBURN,Milton,FL,,Palmer/CSpire Fiber Cycling
@@ -217,7 +217,7 @@ DNF,524457,Trevor,Alleman,Scott,LA,,
 Place,License #,First,Last,City,State,Time,Team
 1,378825,Lance,Abshire,Baton Rouge,LA,,Team LaS'port
 2,476920,Mark,LeBlanc,Lafayette,LA,,4D Racing
-3,301474,Sam,LeBlanc,Kenner,LA,,4D Racing
+3,301474,Sam,LeBlanc,New Orleans,LA,,4D Racing
 4,413655,Leopold,Marx,Baton Rouge,LA,,4D Racing
 5,354166,Benjamin,Spain,Raleigh,NC,,4D Racing
 6,507715,Nader,Rezvani,Lafayette,LA,,4D Racing
@@ -225,12 +225,12 @@ Place,License #,First,Last,City,State,Time,Team
 8,355844,Jaden,Kifer,New Orleans,LA,,Team LaS'port
 9,497586,Taylor,Reinhard,New Orleans,LA,,Urban South Racing p/b Rouler
 10,456354,Reid,Case,New Orleans,LA,,Urban South Racing p/b Rouler
-11,501707,ross,lunz,New Orleans,LA,,Squadra Della Pista
+11,501707,ross,lunz,Abluquerque,NM,,Squadra Della Pista
 12,477966,William,Buquoi,Belle Chasse,LA,,Urban South Racing p/b Rouler
 13,492950,Nathaniel,Wood,Marrero,LA,,Urban South Racing p/b Rouler
 14,374950,Jason,Cash,New Orleans,LA,,Semi-Tough Racing
 15,227815,Joseph,Long,Kenner,LA,,Team LaS'port
 16,488146,Darnell,Walton,Baton Rouge,LA,,
-17,456356,William,Gonzaba,San Antonios,TX,,Urban South Racing p/b Rouler
+17,456356,William,Gonzaba,Metairie,LA,,Urban South Racing p/b Rouler
 18,385794,David,Huff,Meraux,LA,,Urban South Racing p/b Rouler
 DNF,470189,Beau,Dennis,Baton Rouge,LA,,Raising Cane's Racing

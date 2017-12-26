@@ -32,7 +32,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,526919,Kyle,Farmer,Saint Louis,MO,,Pastaria - Big Shark Racing Team
 4,513689,Jonathan,Hanahan,Saint Louis,MO,,The Cannonball-Hub Racing Team
 5,526759,Matt,Furlong,Saint Louis,MO,,Maplewood Bicycle St. Louis
-6,513709,James,Reed,Ballwin,MO,,
+6,513709,James,Reed,Manchester,MO,,
 7,403225,James,Cole,St. Louis,MO,,
 8,517113,Jared,Dickerson,New Baden,IL,,
 9,433923,James,Bourisaw,Fenton,MO,,
@@ -42,11 +42,11 @@ Place,License #,First,Last,City,State,Time,Team
 13,516231,Jack,Bourbonnais,St. Louis,MO,,
 14,499139,Thomas,Palazzolo,Wood River,IL,,The Cyclery Racing Team
 15,523011,Matthew,Gilster,O'fallon,IL,,
-16,533001,Andy,Tipton,Greenup,IL,,
-17,513248,Robb,Finegan,St. Louis,MO,,Maplewood Bicycle St. Louis
+16,533001,Andy,Tipton,Effingham ,IL,,
+17,513248,Robb,Finegan,Lincoln,NE,,Maplewood Bicycle St. Louis
 18,492048,Sean,Halloran,Edwardsville ,IL,,
 19,512708,Keith,Adams,Chesterfield ,MO,,Pastaria - Big Shark Racing
-20,527522,Zachary,Tucker,Richmond Heights,MO,,
+20,527522,Zachary,Tucker,Saint Louis,MO,,
 21,504455,Dane,Jackson,Edwardsville,IL,,
 22,454688,Atticus,Jones,Saint Louis,MO,,
 23,501831,jordan,kuiper,Saint Louis,MO,,
@@ -73,18 +73,18 @@ Place,License #,First,Last,City,State,Time,Team
 
 08/29/2017 Omnium Mixed B
 Place,License #,First,Last,City,State,Time,Team
-1,103984,Ben,Beger,Ofallon,MO,,Momentum Racing LLC - MO
+1,103984,Ben,Beger,O Fallon,MO,,Momentum Racing LLC - MO
 2,470102,Devin,Handler,Saint Louis,MO,,Pastaria - Big Shark Racing Team
 3,268673,Brian,Koscielski,St Louis,MO,,Dogfish/Team Noah
 4,420080,Chris,Cook,O Fallon,MO,,Momentum Racing LLC - MO
 5,432078,Sam,Paul,Saint Louis,MO,,
 6,306822,Matthew,Hynes,Saintlouis,MO,,Pastaria - Big Shark Racing Team
 7,50908,Gary,Dyer,Alton,IL,,
-8,503760,Mitch,Reidt,Clayton,MO,,
+8,503760,Mitch,Reidt,Denver,CO,,
 9,526035,Matt,O'Connor,Webster Groves,MO,,Maplewood Bicycle St. Louis
 10,474738,Mitch,Stevens,Kirkwood,MO,,Maplewood Bicycle St. Louis
 11,456585,Andrew,Koller,Saint Louis,MO,,SBR Quantum Racing
-12,502841,Timothy,Bradley,Manchester,MO,,
+12,502841,Timothy,Bradley,St. Louis,MO,,
 13,144636,Mark,Murawski,St Louis,MO,,Gateway Cycling Club
 14,500065,Justin,Hopkins,Saint Louis,MO,,
 15,501823,Max,Bien,Burlington,NC,,SBR Quantum Racing
@@ -110,7 +110,7 @@ Place,License #,First,Last,City,State,Time,Team
 35,321312,Brian,Shelton,Saint Louis,MO,,Dogfish/Team Noah
 36,284465,Bennett,Fallow,St. Louis,MO,,Pastaria - Big Shark Racing Team
 37,276629,Christian,Verry,Saint Louis,MO,,
-38,482205,Dennis,Lilly,Saint Louis,MO,,
+38,482205,Dennis,Lilly,St Louis,MO,,
 39,251991,David,Gray,St. Louis,MO,,Pastaria - Big Shark Racing Team
 40,392298,Nicholas,Gomes,Florissant,MO,,Quantum Solutions Intelligentsia
 
@@ -144,13 +144,13 @@ Place,License #,First,Last,City,State,Time,Team
 26,173579,T David,Cummings,St Louis,MO,,Gateway Cycling Club
 27,247336,Konrad,Witt,Wood Dale,IL,,ABD Cycling Team
 28,340124,Andrew,Lang,Frontenac,MO,,Pastaria - Big Shark Racing
-29,103984,Ben,Beger,Ofallon,MO,,Momentum Racing LLC - MO
+29,103984,Ben,Beger,O Fallon,MO,,Momentum Racing LLC - MO
 30,377930,Nathaniel,Schoonover,Wentzville,MO,,Quantum Solutions Intelligentsia
 31,318648,keith,guilford,Edwardsville,IL,,The Cyclery Racing Team
 32,400799,Jacob,Slosar,Edwardsville,IL,,Quantum Solutions Intelligentsia
 33,311425,Lane,Johnson,Shawnee Mission,KS,,Move Up Development
 34,405582,James,Lewallen IV,Belleville,IL,,Team Novo Nordisk Elite
-35,503760,Mitch,Reidt,Clayton,MO,,
+35,503760,Mitch,Reidt,Denver,CO,,
 36,243485,Dan,young,Saint Louis,MO,,Pastaria - Big Shark Racing Team
 37,269908,Riley,Burgon,Parker,CO,,Dogfish/Team Noah
 38,492633,Jason,Colestock,Minneapolis,MN,,NorthStar Development Cycling
@@ -192,7 +192,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 08/22/2017 Criterium Mixed B
 Place,License #,First,Last,City,State,Time,Team
-1,103984,Ben,Beger,Ofallon,MO,,Momentum Racing LLC - MO
+1,103984,Ben,Beger,O Fallon,MO,,Momentum Racing LLC - MO
 2,474738,Mitch,Stevens,Kirkwood,MO,,Maplewood Bicycle St. Louis
 3,438365,philip,leachman,Saint Louis,MO,,
 4,432078,Sam,Paul,Saint Louis,MO,,
@@ -207,7 +207,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,15149,Chris,Harre,Webster Groves,MO,,Pastaria - Big Shark Racing Team
 5,393328,Leo,Smith,Saint Louis,MO,,The Cannonball-Hub Racing Team
 6,268673,Brian,Koscielski,St Louis,MO,,Dogfish/Team Noah
-7,503760,Mitch,Reidt,Clayton,MO,,
+7,503760,Mitch,Reidt,Denver,CO,,
 8,408215,James,Varner,Saint Louis,MO,,
 
 08/22/2017 Criterium Mixed Cat 4/5 Juniors 9-18
@@ -229,7 +229,7 @@ Place,License #,First,Last,City,State,Time,Team
 08/15/2017 Criterium Mixed B
 Place,License #,First,Last,City,State,Time,Team
 1,456585,Andrew,Koller,Saint Louis,MO,,SBR Quantum Racing
-2,103984,Ben,Beger,Ofallon,MO,,Momentum Racing LLC - MO
+2,103984,Ben,Beger,O Fallon,MO,,Momentum Racing LLC - MO
 3,500065,Justin,Hopkins,Saint Louis,MO,,
 4,432078,Sam,Paul,Saint Louis,MO,,
 5,474738,Mitch,Stevens,Kirkwood,MO,,Maplewood Bicycle St. Louis
@@ -266,7 +266,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,420080,Chris,Cook,O Fallon,MO,,Momentum Racing LLC - MO
 3,306822,Matthew,Hynes,Saintlouis,MO,,Pastaria - Big Shark Racing Team
 4,513689,Jonathan,Hanahan,Saint Louis,MO,,The Cannonball-Hub Racing Team
-5,103984,Ben,Beger,Ofallon,MO,,Momentum Racing LLC - MO
+5,103984,Ben,Beger,O Fallon,MO,,Momentum Racing LLC - MO
 6,438365,philip,leachman,Saint Louis,MO,,
 
 08/08/2017 Criterium Mixed A
@@ -289,14 +289,14 @@ Place,License #,First,Last,City,State,Time,Team
 1,499139,Thomas,Palazzolo,Wood River,IL,,The Cyclery Racing Team
 2,523011,Matthew,Gilster,O'fallon,IL,,
 3,492048,Sean,Halloran,Edwardsville ,IL,,
-4,527522,Zachary,Tucker,Richmond Heights,MO,,
+4,527522,Zachary,Tucker,Saint Louis,MO,,
 5,528979,Patrick,Dunn,Ballwin,MO,,Pastaria - Big Shark Racing Team
 6,526919,Kyle,Farmer,Saint Louis,MO,,Pastaria - Big Shark Racing Team
 
 08/01/2017 Criterium Mixed B
 Place,License #,First,Last,City,State,Time,Team
 1,420080,Chris,Cook,O Fallon,MO,,Momentum Racing LLC - MO
-2,103984,Ben,Beger,Ofallon,MO,,Momentum Racing LLC - MO
+2,103984,Ben,Beger,O Fallon,MO,,Momentum Racing LLC - MO
 3,513689,Jonathan,Hanahan,Saint Louis,MO,,The Cannonball-Hub Racing Team
 4,306822,Matthew,Hynes,Saintlouis,MO,,Pastaria - Big Shark Racing Team
 5,460486,Nick,McClellan,Saint Louis,MO,,
@@ -326,9 +326,9 @@ Place,License #,First,Last,City,State,Time,Team
 
 07/25/2017 Criterium Mixed B
 Place,License #,First,Last,City,State,Time,Team
-1,502841,Timothy,Bradley,Manchester,MO,,
+1,502841,Timothy,Bradley,St. Louis,MO,,
 2,470102,Devin,Handler,Saint Louis,MO,,Pastaria - Big Shark Racing Team
-3,103984,Ben,Beger,Ofallon,MO,,Momentum Racing LLC - MO
+3,103984,Ben,Beger,O Fallon,MO,,Momentum Racing LLC - MO
 4,526759,Matt,Furlong,Saint Louis,MO,,Maplewood Bicycle St. Louis
 5,420080,Chris,Cook,O Fallon,MO,,Momentum Racing LLC - MO
 6,276629,Christian,Verry,Saint Louis,MO,,
@@ -347,12 +347,12 @@ Place,License #,First,Last,City,State,Time,Team
 2,500065,Justin,Hopkins,Saint Louis,MO,,
 3,482207,Benjamin,Hudson,Saint Louis,MO,,Pastaria - Big Shark Racing Team
 4,523011,Matthew,Gilster,O'fallon,IL,,
-5,527522,Zachary,Tucker,Richmond Heights,MO,,
+5,527522,Zachary,Tucker,Saint Louis,MO,,
 6,528979,Patrick,Dunn,Ballwin,MO,,Pastaria - Big Shark Racing Team
 
 07/18/2017 Criterium Mixed B
 Place,License #,First,Last,City,State,Time,Team
-1,103984,Ben,Beger,Ofallon,MO,,Momentum Racing LLC - MO
+1,103984,Ben,Beger,O Fallon,MO,,Momentum Racing LLC - MO
 2,50908,Gary,Dyer,Alton,IL,,
 3,306822,Matthew,Hynes,Saintlouis,MO,,Pastaria - Big Shark Racing Team
 4,420080,Chris,Cook,O Fallon,MO,,Momentum Racing LLC - MO
@@ -389,7 +389,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 07/11/2017 Criterium Mixed B
 Place,License #,First,Last,City,State,Time,Team
-1,103984,Ben,Beger,Ofallon,MO,,Momentum Racing LLC - MO
+1,103984,Ben,Beger,O Fallon,MO,,Momentum Racing LLC - MO
 2,420080,Chris,Cook,O Fallon,MO,,Momentum Racing LLC - MO
 3,50908,Gary,Dyer,Alton,IL,,
 4,470102,Devin,Handler,Saint Louis,MO,,Pastaria - Big Shark Racing Team
@@ -416,7 +416,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,482207,Benjamin,Hudson,Saint Louis,MO,,Pastaria - Big Shark Racing Team
 3,526919,Kyle,Farmer,Saint Louis,MO,,Pastaria - Big Shark Racing Team
 4,512708,Keith,Adams,Chesterfield ,MO,,Pastaria - Big Shark Racing
-5,513709,James,Reed,Ballwin,MO,,
+5,513709,James,Reed,Manchester,MO,,
 6,0,Olsen,Andrew,,,,
 
 06/27/2017 Criterium Mixed B
@@ -424,7 +424,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,432078,Sam,Paul,Saint Louis,MO,,
 2,470102,Devin,Handler,Saint Louis,MO,,Pastaria - Big Shark Racing Team
 3,526035,Matt,O'Connor,Webster Groves,MO,,Maplewood Bicycle St. Louis
-4,103984,Ben,Beger,Ofallon,MO,,Momentum Racing LLC - MO
+4,103984,Ben,Beger,O Fallon,MO,,Momentum Racing LLC - MO
 5,225142,Dennis,Koscielski,Saint Louis,MO,,Dogfish/Team Noah
 6,472295,Bryan,Barts,Saint Louis,MO,,The Cannonball-Hub Racing Team
 
@@ -449,15 +449,15 @@ Place,License #,First,Last,City,State,Time,Team
 06/20/2017 Criterium Mixed C
 Place,License #,First,Last,City,State,Time,Team
 1,513689,Jonathan,Hanahan,Saint Louis,MO,,The Cannonball-Hub Racing Team
-2,533001,Andy,Tipton,Greenup,IL,,
+2,533001,Andy,Tipton,Effingham ,IL,,
 3,500065,Justin,Hopkins,Saint Louis,MO,,
 4,89689,Daniel,Mueller,St Louis Park,MN,,
-5,513709,James,Reed,Ballwin,MO,,
+5,513709,James,Reed,Manchester,MO,,
 6,492048,Sean,Halloran,Edwardsville ,IL,,
 
 06/20/2017 Criterium Mixed B
 Place,License #,First,Last,City,State,Time,Team
-1,103984,Ben,Beger,Ofallon,MO,,Momentum Racing LLC - MO
+1,103984,Ben,Beger,O Fallon,MO,,Momentum Racing LLC - MO
 2,420080,Chris,Cook,O Fallon,MO,,Momentum Racing LLC - MO
 3,362082,william,franzen,Chesterfield,MO,,
 4,500512,William,Zoughaib,Sainte Genevieve,MO,,
@@ -488,7 +488,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,513689,Jonathan,Hanahan,Saint Louis,MO,,The Cannonball-Hub Racing Team
 2,527691,Stephen,Sciaroni,St.louis,MO,,
 3,526919,Kyle,Farmer,Saint Louis,MO,,Pastaria - Big Shark Racing Team
-4,527522,Zachary,Tucker,Richmond Heights,MO,,
+4,527522,Zachary,Tucker,Saint Louis,MO,,
 5,528979,Patrick,Dunn,Ballwin,MO,,Pastaria - Big Shark Racing Team
 
 06/13/2017 Criterium Mixed B
@@ -508,7 +508,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,226313,Michael (Casey),Saunders,Saint Louis,MO,,Dogfish/Team Noah
 4,339952,Derek,Christison,Saint Charles,MO,,Pastaria - Big Shark Racing Team
 5,423859,mark,hitzhusen,Saint Louis,MO,,Momentum Racing LLC - MO
-6,503760,Mitch,Reidt,Clayton,MO,,
+6,503760,Mitch,Reidt,Denver,CO,,
 
 06/13/2017 Criterium Mixed Cat 4/5 Juniors 9-18
 Place,License #,First,Last,City,State,Time,Team
@@ -521,7 +521,7 @@ Place,License #,First,Last,City,State,Time,Team
 06/06/2017 Criterium Mixed C
 Place,License #,First,Last,City,State,Time,Team
 1,500065,Justin,Hopkins,Saint Louis,MO,,
-2,533001,Andy,Tipton,Greenup,IL,,
+2,533001,Andy,Tipton,Effingham ,IL,,
 3,527691,Stephen,Sciaroni,St.louis,MO,,
 4,526919,Kyle,Farmer,Saint Louis,MO,,Pastaria - Big Shark Racing Team
 5,406390,John,Helvey,Saint Louis,MO,,
@@ -530,7 +530,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,470102,Devin,Handler,Saint Louis,MO,,Pastaria - Big Shark Racing Team
 2,268673,Brian,Koscielski,St Louis,MO,,Dogfish/Team Noah
-3,503760,Mitch,Reidt,Clayton,MO,,
+3,503760,Mitch,Reidt,Denver,CO,,
 4,306822,Matthew,Hynes,Saintlouis,MO,,Pastaria - Big Shark Racing Team
 5,466478,James,Arpin,St Louis,MO,,
 6,488506,Joe,Schnapp,Ballwin,MO,,
@@ -554,7 +554,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/30/2017 Criterium Mixed C
 Place,License #,First,Last,City,State,Time,Team
-1,513709,James,Reed,Ballwin,MO,,
+1,513709,James,Reed,Manchester,MO,,
 2,527691,Stephen,Sciaroni,St.louis,MO,,
 3,513689,Jonathan,Hanahan,Saint Louis,MO,,The Cannonball-Hub Racing Team
 4,526919,Kyle,Farmer,Saint Louis,MO,,Pastaria - Big Shark Racing Team
@@ -563,7 +563,7 @@ Place,License #,First,Last,City,State,Time,Team
 05/30/2017 Criterium Mixed B
 Place,License #,First,Last,City,State,Time,Team
 1,470102,Devin,Handler,Saint Louis,MO,,Pastaria - Big Shark Racing Team
-2,503760,Mitch,Reidt,Clayton,MO,,
+2,503760,Mitch,Reidt,Denver,CO,,
 3,526035,Matt,O'Connor,Webster Groves,MO,,Maplewood Bicycle St. Louis
 4,526759,Matt,Furlong,Saint Louis,MO,,Maplewood Bicycle St. Louis
 5,243485,Dan,young,Saint Louis,MO,,Pastaria - Big Shark Racing Team
@@ -592,7 +592,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,513689,Jonathan,Hanahan,Saint Louis,MO,,The Cannonball-Hub Racing Team
 2,500065,Justin,Hopkins,Saint Louis,MO,,
 3,482207,Benjamin,Hudson,Saint Louis,MO,,Pastaria - Big Shark Racing Team
-4,533001,Andy,Tipton,Greenup,IL,,
+4,533001,Andy,Tipton,Effingham ,IL,,
 5,526919,Kyle,Farmer,Saint Louis,MO,,Pastaria - Big Shark Racing Team
 6,400068,Judy,Slosar,Edwardsville,IL,,GP Velotek
 
@@ -603,7 +603,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,432078,Sam,Paul,Saint Louis,MO,,
 4,50908,Gary,Dyer,Alton,IL,,
 5,470102,Devin,Handler,Saint Louis,MO,,Pastaria - Big Shark Racing Team
-6,482205,Dennis,Lilly,Saint Louis,MO,,
+6,482205,Dennis,Lilly,St Louis,MO,,
 
 05/23/2017 Criterium Mixed A
 Place,License #,First,Last,City,State,Time,Team
@@ -633,8 +633,8 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/16/2017 Criterium Mixed B
 Place,License #,First,Last,City,State,Time,Team
-1,503760,Mitch,Reidt,Clayton,MO,,
-2,502841,Timothy,Bradley,Manchester,MO,,
+1,503760,Mitch,Reidt,Denver,CO,,
+2,502841,Timothy,Bradley,St. Louis,MO,,
 3,128064,James,VanDeven,De Soto,MO,,Dogfish/Team Noah
 4,470102,Devin,Handler,Saint Louis,MO,,Pastaria - Big Shark Racing Team
 5,50908,Gary,Dyer,Alton,IL,,
@@ -664,7 +664,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,500065,Justin,Hopkins,Saint Louis,MO,,
 3,403225,James,Cole,St. Louis,MO,,
 4,526919,Kyle,Farmer,Saint Louis,MO,,Pastaria - Big Shark Racing Team
-5,513709,James,Reed,Ballwin,MO,,
+5,513709,James,Reed,Manchester,MO,,
 
 05/09/2017 Criterium Mixed B
 Place,License #,First,Last,City,State,Time,Team
@@ -672,7 +672,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,526035,Matt,O'Connor,Webster Groves,MO,,Maplewood Bicycle St. Louis
 3,482206,Evan,Mueller,Edwardsville,IL,,The Cyclery Racing Team
 4,468376,Joseph,Scherrer,Saint Louis,MO,,Pastaria - Big Shark Racing Team
-5,103984,Ben,Beger,Ofallon,MO,,Momentum Racing LLC - MO
+5,103984,Ben,Beger,O Fallon,MO,,Momentum Racing LLC - MO
 6,306822,Matthew,Hynes,Saintlouis,MO,,Pastaria - Big Shark Racing Team
 7,470102,Devin,Handler,Saint Louis,MO,,Pastaria - Big Shark Racing Team
 
@@ -705,7 +705,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/02/2017 Criterium Mixed B
 Place,License #,First,Last,City,State,Time,Team
-1,103984,Ben,Beger,Ofallon,MO,,Momentum Racing LLC - MO
+1,103984,Ben,Beger,O Fallon,MO,,Momentum Racing LLC - MO
 2,144636,Mark,Murawski,St Louis,MO,,Gateway Cycling Club
 3,526035,Matt,O'Connor,Webster Groves,MO,,Maplewood Bicycle St. Louis
 4,474738,Mitch,Stevens,Kirkwood,MO,,Maplewood Bicycle St. Louis
@@ -718,7 +718,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,186238,Devin,Clark,St. Louis,MO,,Pastaria - Big Shark Racing Team
 3,320838,Spencer,Seggebruch,Saint Louis,MO,,Pastaria - Big Shark Racing Team
 4,347112,Austin,Gomes,Florissant,MO,,Quantum Solutions Intelligentsia
-5,103984,Ben,Beger,Ofallon,MO,,Momentum Racing LLC - MO
+5,103984,Ben,Beger,O Fallon,MO,,Momentum Racing LLC - MO
 6,345484,Ian,Borella,Glendale,MO,,Dogfish/Team Noah
 
 04/25/2017 Criterium Mixed C
@@ -752,14 +752,14 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,526759,Matt,Furlong,Saint Louis,MO,,Maplewood Bicycle St. Louis
 2,433923,James,Bourisaw,Fenton,MO,,
-3,513709,James,Reed,Ballwin,MO,,
+3,513709,James,Reed,Manchester,MO,,
 4,516231,Jack,Bourbonnais,St. Louis,MO,,
 5,526919,Kyle,Farmer,Saint Louis,MO,,Pastaria - Big Shark Racing Team
 
 04/18/2017 Criterium Mixed B
 Place,License #,First,Last,City,State,Time,Team
 1,268673,Brian,Koscielski,St Louis,MO,,Dogfish/Team Noah
-2,103984,Ben,Beger,Ofallon,MO,,Momentum Racing LLC - MO
+2,103984,Ben,Beger,O Fallon,MO,,Momentum Racing LLC - MO
 3,526035,Matt,O'Connor,Webster Groves,MO,,Maplewood Bicycle St. Louis
 4,243485,Dan,young,Saint Louis,MO,,Pastaria - Big Shark Racing Team
 5,501823,Max,Bien,Burlington,NC,,SBR Quantum Racing
@@ -775,15 +775,15 @@ Place,License #,First,Last,City,State,Time,Team
 
 04/11/2017 Criterium Mixed C
 Place,License #,First,Last,City,State,Time,Team
-1,513709,James,Reed,Ballwin,MO,,
+1,513709,James,Reed,Manchester,MO,,
 2,33533,Stephen,South,St Louis,MO,,
 3,528441,Julie,Shapleigh,Saint Louis,MO,,
-4,527522,Zachary,Tucker,Richmond Heights,MO,,
+4,527522,Zachary,Tucker,Saint Louis,MO,,
 5,516231,Jack,Bourbonnais,St. Louis,MO,,
 
 04/11/2017 Criterium Mixed B
 Place,License #,First,Last,City,State,Time,Team
-1,103984,Ben,Beger,Ofallon,MO,,Momentum Racing LLC - MO
+1,103984,Ben,Beger,O Fallon,MO,,Momentum Racing LLC - MO
 2,482206,Evan,Mueller,Edwardsville,IL,,The Cyclery Racing Team
 3,501823,Max,Bien,Burlington,NC,,SBR Quantum Racing
 4,268673,Brian,Koscielski,St Louis,MO,,Dogfish/Team Noah
@@ -802,7 +802,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,526035,Matt,O'Connor,Webster Groves,MO,,Maplewood Bicycle St. Louis
 2,526759,Matt,Furlong,Saint Louis,MO,,Maplewood Bicycle St. Louis
-3,513709,James,Reed,Ballwin,MO,,
+3,513709,James,Reed,Manchester,MO,,
 4,403225,James,Cole,St. Louis,MO,,
 5,33533,Stephen,South,St Louis,MO,,
 6,529445,Kellen,von Hoven,St. Louis,MO,,
@@ -811,7 +811,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,268673,Brian,Koscielski,St Louis,MO,,Dogfish/Team Noah
 2,501823,Max,Bien,Burlington,NC,,SBR Quantum Racing
-3,103984,Ben,Beger,Ofallon,MO,,Momentum Racing LLC - MO
+3,103984,Ben,Beger,O Fallon,MO,,Momentum Racing LLC - MO
 4,144636,Mark,Murawski,St Louis,MO,,Gateway Cycling Club
 5,306822,Matthew,Hynes,Saintlouis,MO,,Pastaria - Big Shark Racing Team
 6,243485,Dan,young,Saint Louis,MO,,Pastaria - Big Shark Racing Team
@@ -834,8 +834,8 @@ Place,License #,First,Last,City,State,Time,Team
 
 03/28/2017 Criterium Mixed B
 Place,License #,First,Last,City,State,Time,Team
-1,103984,Ben,Beger,Ofallon,MO,,Momentum Racing LLC - MO
-2,503760,Mitch,Reidt,Clayton,MO,,
+1,103984,Ben,Beger,O Fallon,MO,,Momentum Racing LLC - MO
+2,503760,Mitch,Reidt,Denver,CO,,
 3,268673,Brian,Koscielski,St Louis,MO,,Dogfish/Team Noah
 4,466478,James,Arpin,St Louis,MO,,
 
@@ -855,7 +855,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 03/21/2017 Criterium Mixed C
 Place,License #,First,Last,City,State,Time,Team
-1,513248,Robb,Finegan,St. Louis,MO,,Maplewood Bicycle St. Louis
+1,513248,Robb,Finegan,Lincoln,NE,,Maplewood Bicycle St. Louis
 2,526035,Matt,O'Connor,Webster Groves,MO,,Maplewood Bicycle St. Louis
 3,526759,Matt,Furlong,Saint Louis,MO,,Maplewood Bicycle St. Louis
 4,433923,James,Bourisaw,Fenton,MO,,
@@ -888,7 +888,7 @@ Place,License #,First,Last,City,State,Time,Team
 03/14/2017 Criterium Mixed C
 Place,License #,First,Last,City,State,Time,Team
 1,501831,jordan,kuiper,Saint Louis,MO,,
-2,513248,Robb,Finegan,St. Louis,MO,,Maplewood Bicycle St. Louis
+2,513248,Robb,Finegan,Lincoln,NE,,Maplewood Bicycle St. Louis
 3,433923,James,Bourisaw,Fenton,MO,,
 4,526759,Matt,Furlong,Saint Louis,MO,,Maplewood Bicycle St. Louis
 5,486247,Samuel,Hancock,Sparta,IL,,Quantum Solutions Intelligentsia
@@ -915,4 +915,4 @@ Place,License #,First,Last,City,State,Time,Team
 3,347112,Austin,Gomes,Florissant,MO,,Quantum Solutions Intelligentsia
 4,226313,Michael (Casey),Saunders,Saint Louis,MO,,Dogfish/Team Noah
 5,340124,Andrew,Lang,Frontenac,MO,,Pastaria - Big Shark Racing
-6,103984,Ben,Beger,Ofallon,MO,,Momentum Racing LLC - MO
+6,103984,Ben,Beger,O Fallon,MO,,Momentum Racing LLC - MO

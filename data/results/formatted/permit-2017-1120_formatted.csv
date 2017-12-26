@@ -157,7 +157,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,50227,Hyun,Lee,Bothell,WA,,Broadmark
 4,481697,Kevin,Stone OBrien,Issaquah,WA,,Egencia
 5,524083,Teddy,Crane,Kirkland,WA,,0
-6,45879,Billy,Rudnick,Bothell,WA,,Egencia
+6,45879,Billy,Rudnick,Lynnwood,WA,,Egencia
 7,514539,Lee,Diallo,Woodinville,WA,,Snoqualmie Ice Cream Racing
 8,424562,Mike,Wesolowski,Bothell,WA,,Dyna Racing
 9,535773,Ido,Ayalon,Seattle,WA,,0
@@ -178,7 +178,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,535773,Ido,Ayalon,Seattle,WA,,0
 11,535595,Eric,Dettinger,Seattle,WA,,0
 12,459882,Arthur,Brummett,Sammamish,WA,,Taco Time Northwest Cycling Team
-13,509812,Cristian,Bambilla,Seattle ,WA,,0
+13,483754,Cristian,Bambilla,Seattle,WA,,0
 DNS,524083,Teddy,Crane,Kirkland,WA,,0
 DNF,324620,Curt,Johnson,Lake Forest Park,WA,,Dyna Racing
 DNF,439549,Kurt,Lamon,Kirkland,WA,,0
@@ -217,11 +217,11 @@ Place,License #,First,Last,City,State,Time,Team
 5,522663,Christopher,Culbert,Seattle,WA,,0
 6,494059,Chris,Sexton,Bothell,WA,,Taco Time Northwest Cycling Team
 6,324620,Curt,Johnson,Lake Forest Park,WA,,Dyna Racing
-7,509812,Cristian,Bambilla,Seattle ,WA,,0
+7,483754,Cristian,Bambilla,Seattle,WA,,0
 7,494059,Chris,Sexton,Bothell,WA,,Taco Time Northwest Cycling Team
 8,522663,Christopher,Culbert,Seattle,WA,,0
 8,459882,Arthur,Brummett,Sammamish,WA,,Taco Time Northwest Cycling Team
-9,509812,Cristian,Bambilla,Seattle ,WA,,0
+9,483754,Cristian,Bambilla,Seattle,WA,,0
 10,236315,John,Koblinsky,Seattle,WA,,0
 11,528528,Derek,Lee,Shoreline,WA,,0
 12,535595,Eric,Dettinger,Seattle,WA,,0
@@ -301,7 +301,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,358448,Ryan,Harasimowicz,Bothell,WA,,Egencia
 4,411879,Gene,Wainwright,Mercer Island,WA,,0
 5,491914,Robert,McMurray,Seattle,WA,,0
-6,509812,Cristian,Bambilla,Seattle ,WA,,0
+6,483754,Cristian,Bambilla,Seattle,WA,,0
 7,281615,David,Parsons,Sammamish,WA,,Taco Time NW
 8,439549,Kurt,Lamon,Kirkland,WA,,0
 9,0,Tod,Mohamed,,,,0
@@ -363,8 +363,8 @@ Place,License #,First,Last,City,State,Time,Team
 6,411879,Gene,Wainwright,Mercer Island,WA,,0
 7,324620,Curt,Johnson,Lake Forest Park,WA,,Dyna Racing
 7,281615,David,Parsons,Sammamish,WA,,Taco Time NW
-8,509812,Cristian,Bambilla,Seattle ,WA,,0
-8,509812,Cristian,Bambilla,Seattle ,WA,,0
+8,483754,Cristian,Bambilla,Seattle,WA,,0
+8,483754,Cristian,Bambilla,Seattle,WA,,0
 9,439549,Kurt,Lamon,Kirkland,WA,,0
 9,324620,Curt,Johnson,Lake Forest Park,WA,,Dyna Racing
 10,535595,Eric,Dettinger,Seattle,WA,,0

@@ -5,7 +5,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,434472,Xander,Jones,Willimantic,CT,2:01:13,CT CYCLING ADVANCEMENT PROGRAM/SCC
 2,512294,Nick,Koleszar,Wilton,CT,2:01:14,CCAP/SHERPA CYCLING
 3,480596,Lucas,Huesman,Stonington,CT,2:01:16,CT CYCLING ADVANCEMENT PROGRAM
-4,505733,Luke,Sedor Protti,Shutesbury ,MA,2:05:07,NCC
+4,505733,Luke,Sedor Protti,Shutesbury,MA,2:05:07,NCC
 5,391679,Johnny,Meyerle,Monroe,CT,2:19:49,CT Cycling Advancement Program
 DNF,468564,Isaac,Whitbeck,Morris,NY,DNF,CNYC/NYCM INSURANCE
 
@@ -31,12 +31,12 @@ Place,License #,First,Last,City,State,Time,Team
 18,0,NICHOLAS,DEHLER,,,2:50:41,INDEPENDENT
 19,381142,Simon,Vidal,New York,NY,2:50:42,CRCA/E2VALUE
 20,503218,Giona,Fabbri,Brooklyn,NY,2:50:43,CRCA DEVELOPMENT FOUNDATION
-21,317888,erik,Lavoie,Brooklyn ,NY,2:52:05,CRCA/ROCKSTAR GAMES
+21,317888,erik,Lavoie,Brooklyn,NY,2:52:05,CRCA/ROCKSTAR GAMES
 22,198142,Paul,McQuade,Millbury,MA,2:52:06,MINUTEMAN ROAD CLUB
 23,467692,REES,MADSEN,Layton,UT,2:52:10,MINUTEMAN ROAD CLUB
 24,431612,Matthew,Ronan,Amherst,NY,2:52:16,INDEPENDENT HEALTH
 25,466098,Joshua,Noggle,New York,NY,2:52:18,CRCA/RBNY RACING - VERGE SPORTS
-26,300882,Jeffrey,Krywanczyk,Rensselaer ,NY,2:53:50,CAPITAL BICYCLE RACING CLUB
+26,300882,Jeffrey,Krywanczyk,Rensselaer,NY,2:53:50,CAPITAL BICYCLE RACING CLUB
 27,311554,Vincent,Lore,Bethel,CT,2:58:47,SHERPA CYCLING
 28,397088,Dennis,Rutherford,Warwick,NY,3:03:18,DEATHROW VELO
 29,272009,Alyosha,Smolarski,Brooklyn,NY,3:04:47,CRCA/GF CAPITAL/ H&E ENT.
@@ -58,12 +58,12 @@ Place,License #,First,Last,City,State,Time,Team
 2,136195,Roger,Aspholm,Haworth,NJ,2:46:31,FINKRAFT CYCLING TEAM
 3,97363,Gregg,Galletta,Dobbs Ferry,NY,2:46:32,CRCA/ROCKSTAR GAMES
 4,216570,Shane,Moran,Brooklyn,NY,2:46:33,ZENBERRYMIX.COM
-5,189842,Andreas,Runggatscher,Monroe,NY,2:48:25,FINKRAFT CYCLING TEAM
+5,189842,Andreas,Runggatscher,Chester,NY,2:48:25,FINKRAFT CYCLING TEAM
 6,21953,Robert,Lyons,Cos Cob,CT,2:48:25,FINKRAFT CYCLING TEAM
 7,59952,Stephen,Jamison,New York,NY,2:51:22,CRCA/LUPUS RACING TEAM
 8,190704,Thomas,Biederer,New Haven,CT,2:52:14,CCC/KELTIC CONST./ZANES CYCLES
 9,501906,Scott,Lawrence,Wilmington,NY,2:55:33,TEAM PLACID PLANET
-10,103281,Massimiliano,Accaputo,Rocky Hill ,CT,2:58:23,CVC/HARTFORD HEALTHCARE SPORTS MEDICINE
+10,103281,Massimiliano,Accaputo,South Glastonbury,CT,2:58:23,CVC/HARTFORD HEALTHCARE SPORTS MEDICINE
 11,286915,Andrew,Williams,Binghamton,NY,3:07:16,THS CYCLING
 12,241308,Michael,Boardman,Brooklyn,NY,3:08:03,CRCA / ROCKSTAR GAMES
 13,348000,Juan,Lopera,Waltham,MA,3:19:49,545 VELO
@@ -77,7 +77,7 @@ DNF,321860,GREGG,SALISBURY,Red Hook,NY,DNF,
 Place,License #,First,Last,City,State,Time,Team
 1,399924,Tim,Wern,Canton,CT,2:48:17,CVC / HARTFORD HEALTHCARE SPORTS MEDICINE
 2,281196,Carl,Reglar,Greenwich,CT,2:48:23,VERGE SPORT / TEST PILOT
-3,106829,Alan,Potter,Newton,MA,2:51:02,TEAM FIT WERX
+3,106829,Alan,Potter,Natick,MA,2:51:02,TEAM FIT WERX
 4,57045,Hank,Pfeifle,Brunswick,ME,2:51:59,DOWNEAST RACING
 5,265393,Jay,Trojan,Lincoln,RI,2:52:06,ARC EN CEIL RACING TEAM
 6,54549,Mark,Paggioli,Glastonbury,CT,2:52:11,CVC - HARTFORD HEALTHCARE SPORTS MEDICINE
@@ -143,7 +143,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,424110,Sean,Meyer,Pittsford,NY,3:32:38,NALGENE / BORAH TEAMWEAR CYCLING
 6,352236,Ian,Clarke,Killington,VT,3:32:39,CCB VELOTOOLER
 7,292160,Ross,Baldwin,New York,NY,3:32:40,LUPUS RACING TEAM
-8,375405,Daniel,NuzzoMueller,Medford ,MA,3:32:40,COMMUNITY BICYCLE RACING
+8,375405,Daniel,NuzzoMueller,Medford,MA,3:32:40,COMMUNITY BICYCLE RACING
 9,498634,Matthew,Shaffer,Allston,MA,3:32:40,Grinta! p/b Best Buddies Challenge
 10,477589,Michael,Landry,New Haven,CT,3:32:41,CT CYCLING ADVANCEMENT PROGRAM
 11,378237,Matthew,Curbeau,Millis,MA,3:32:41,CCB VELOTOOLER
@@ -151,7 +151,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,502978,Camden,Black Ingersoll,Concord,NH,REL 3B1,DOWNEAST RACING
 14,83498,Sean,Cahill,Burlington,CT,3:33:00,TEAM ERRACE P/B DSO MANUFACTURING
 15,309324,Dominic,Caiazzo,Bronx,NY,3:34:26,CRCA/LUPUS RACING TEAM
-16,382938,William,Crabtree,Cambridge,MA,3:42:04,COMMUNITY BICYCLE RACING
+16,382938,William,Crabtree,Lexington,MA,3:42:04,COMMUNITY BICYCLE RACING
 17,274367,Allan,Rego,New York,NY,3:43:23,CRCA/LUPUS RACING TEAM
 18,499151,Geno,Villafano,Vernon Rockville,CT,3:50:04,UNIVERSITY OF CONNECTICUT
 19,355868,Eliot,Pitney,Yarmouth,ME,P&P,DOWNEAST RACING
@@ -168,12 +168,12 @@ DNF,164128,Aidan,Charles,Middletown,CT,DNF,CT Cycling Advancement Program
 
 07/15/2017 Road Race Men Cat 5
 Place,License #,First,Last,City,State,Time,Team
-1,528365,Quintin,Chiapperino,Whitestone,NY,2:01:11,MINEOLA BICYCLE RACING TEAM
-2,523891,Kyle,Konopnicki,Gansevoort,NY,2:01:11,
+1,528365,Quintin,Chiapperino,Austin,TX,2:01:11,MINEOLA BICYCLE RACING TEAM
+2,523891,Kyle,Konopnicki,Norfolk,VA,2:01:11,
 3,528333,Jonathan,Meyer,Waterbury Center,VT,2:01:12,1K2GO SPORTS RACING
 4,528254,Peter,Burgos,Winooski,VT,2:01:17,
 5,401206,Ryan,Wiley,Beacon,NY,2:01:19,
-6,496835,Caleb,Goodhouse,Brighton,MA,2:01:20,RIDE STUDIO CAFE / RIDE HEADQUARTERS
+6,496835,Caleb,Goodhouse,Cambridge,MA,2:01:20,RIDE STUDIO CAFE / RIDE HEADQUARTERS
 7,470200,ARIC,MINE,Fresno,CA,2:01:22,
 8,410412,LUKE,SULLIVAN,South Bend,IN,2:01:22,
 9,430794,JAMES,SAWTELLE,Manchester Center,VT,2:01:27,
@@ -210,7 +210,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,494590,Martijn,de Graaf,New York,NY,2:03:50,CRCA/DAVE JORDAN RACING
 11,422632,Eric,Kirouac,Williamsburg,MA,2:03:51,DistrictTaco Racing
 12,289309,Donald,Kimball,Portland,CT,2:03:52,
-13,488045,Adam,DeJong,New York,NY,2:03:55,
+13,488045,Adam,DeJong,New York,NV,2:03:55,
 14,405415,Niall,Smart,New York,NY,2:03:56,KISSENA CYCLING CLUB
 15,498808,Richard,Nadeau,Farmington,CT,2:03:56,
 16,184938,Jonathan,Favata,Mechanicville ,NY,2:03:56,TRT BICYCLES
@@ -233,7 +233,7 @@ DNF,438304,Stephen,Meisl,Pittsfield,MA,DNF,BCA/LINEN
 
 07/15/2017 Road Race Women Cat 4/5
 Place,License #,First,Last,City,State,Time,Team
-1,498600,Rachel,Uccellini,Saratoga Springs ,NY,2:11:14,UNATTACHED
+1,498600,Rachel,Uccellini,Saratoga Springs,NY,2:11:14,UNATTACHED
 2,0,Aurora,Lamperette,,,2:14:58,
 3,530539,Paula,Valderrama,Stamford,CT,2:24:15,
 4,535833,Susannah,Martin,Westport,CT,REL 1I4(a),SHERPA
@@ -251,7 +251,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,242487,Erica,Adelberg,New York,NY,3:15:14,CRCA/RADICAL MEDIA
 4,407494,rachel,pikus,Rochester,NY,3:15:17,CYCLEWERX OF ROCHESTER
 5,509488,Lane,Marder,Somerville,MA,3:15:20,B2C2/JRA CYCLES
-6,467179,Emma,Edwards,Brookline,MA,3:21:16,B2C2/ JRA CYCLES
+6,467179,Emma,Edwards,Cambridge,MA,3:21:16,B2C2/ JRA CYCLES
 7,499813,Danielle,Ohlson,Canandaigua,NY,3:21:39,CYCLEWERX OF ROCHESTER
 8,469156,Marielle,Ritchie,Enola,PA,P&P,WORLD CUP SKI & CYCLE RACING TEAM
 9,60259,Caryl,Gale,Hoboken,NJ,P&P,CRCA/BREAKAWAY COURIER/BOOMER

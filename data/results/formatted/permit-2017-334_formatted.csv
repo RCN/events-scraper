@@ -63,7 +63,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 02/11/2017 Criterium Men C Collegiate
 Place,License #,First,Last,City,State,Time,Team
-1,496992,Robert,Lyew,Snellville,GA,0:30:02,Auburn University
+1,496992,Robert,Lyew,Hartsville,SC,0:30:02,Auburn University
 2,525151,David,Hernadez,Atlanta,GA,0:30:03,
 3,498178,Nunthadech,Rodcheuy,Atlanta,GA,0:30:03,Georgia Tech Cycling
 4,516679,Joseph,Werble,Barnesville,MD,0:30:03,Georgia Tech Cycling
@@ -78,7 +78,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,498182,Aaron,Highsmith,Cumming,GA,0:30:07,Georgia Tech Cycling
 14,516399,John,Higby,Semmes,AL,0:32:15,Auburn University
 15,486181,Nicholas,Padula,Atlanta,GA,0:30:03,Georgia Tech Cycling
-16,497150,David Michael,Sweet,Wedowee,AL,0:30:04,Auburn University
+16,497150,David Michael,Sweet,Palo Alto,CA,0:30:04,Auburn University
 17,496630,Claybourn,Milner,Mableton,GA,0:30:17,Georgia Tech Cycling
 18,497914,Jesse,Hu,Athens,GA,0:30:23,UGA Cycling
 19,525097,Brandon,Morrow,Clinton,SC,0:30:24,Presbyterian College
@@ -91,10 +91,10 @@ DNF,497837,Seth,Wood,Tampa,FL,0:00:00,
 
 02/11/2017 Criterium Men B Collegiate
 Place,License #,First,Last,City,State,Time,Team
-1,478099,Paul,Gue,Louisville,KY,0:45:07,Auburn University
-2,494503,JeanLuc,ContantGalitello,Pompano Beach,FL,0:45:09,
+1,478099,Paul,Gue,Auburn,AL,0:45:07,Auburn University
+2,494503,JeanLuc,ContantGalitello,Coconut Creek,FL,0:45:09,
 3,396501,Derek,Birch,Tampa,FL,0:45:10,USF Cycling
-4,503564,Dillon,Hickey,Pleasantville,NY,0:45:10,Savannah College of Art and Design - Atlanta
+4,547018,Dillon,Hickey,Pleasantville,NY,0:45:10,Savannah College of Art and Design - Atlanta
 5,525291,Mark,Burnley,Orlando,FL,0:45:10,University of Central Florida
 6,438258,Giovanni,Mercado,Tampa,FL,0:45:10,USF Cycling
 7,460158,Jacob,Payne,Atlanta,GA,0:45:10,Georgia Tech Cycling
@@ -117,7 +117,7 @@ Place,License #,First,Last,City,State,Time,Team
 02/11/2017 Criterium Men A Collegiate
 Place,License #,First,Last,City,State,Time,Team
 1,330752,Clayton,Stone,Anthem,AZ,0:59:45,Savannah College of Art & Design - Savannah
-2,504799,Peter,Foerster,,,0:59:45,Savannah College of Art and Design - Atlanta
+2,504799,Peter,Foerster,Atlanta,GA,0:59:45,Savannah College of Art and Design - Atlanta
 3,276390,J. Colton,Brookshire,Hendersonville,NC,0:59:45,Milligan College
 4,258439,Grayson,Brookshire,Hendersonville,NC,0:59:45,Milligan College
 5,313408,Sebastian,Morfin,Weston,FL,0:59:46,Team Florida
@@ -140,7 +140,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,303566,Carlo,Villarreal,Mcallen,TX,0:59:50,Milligan College
 23,515534,Sean,Fincham,Atlanta,GA,0:59:51,Savannah College of Art and Design - Atlanta
 24,178109,Andrew,Scarano,Athens,GA,1:00:00,Savannah College of Art and Design - Atlanta
-25,308175,Wilman,Vargas,Atlanta ,GA,1:00:01,Savannah College of Art and Design - Atlanta
+25,308175,Wilman,Vargas,Atlanta,GA,1:00:01,Savannah College of Art and Design - Atlanta
 26,207381,Artur,Sagat,Roswell,GA,1:00:17,Savannah College of Art and Design - Atlanta
 27,428278,Kyle,Tiesler,Pegram,TN,1:01:03,Milligan College
 DNF,395602,Antonio,Jimenez,Tallahassee,FL,0:11:49,Florida State University
@@ -208,7 +208,7 @@ DNF,394869,David,Hiatt,Tallahassee,FL,0:05:57,
 
 02/11/2017 Criterium Men Cat 5
 Place,License #,First,Last,City,State,Time,Team
-1,511698,Harrison,Scales,,,0:40:45,
+1,511698,Harrison,Scales,St. Augustine,FL,0:40:45,
 2,497244,Stephen,Chenard,Parrish,FL,0:40:48,Sarasota Cycling Club p/b SeaSucker
 3,517849,Kevin,Cook,Apopka,FL,0:40:48,
 4,494899,Jonathan,Molina,Pompano Beach,FL,0:40:48,Riverside Market South - Cima Cycles p/b Steady Spin
@@ -219,7 +219,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,469265,Andres,Cerezo,Bronx,NY,0:40:51,
 10,520776,William,Wilhelm,Thomasville,GA,0:40:52,Piedmont College
 11,20143,Mark,Laidlaw,Durango,CO,0:40:52,
-12,448396,Rudy,Szymanski,Gowanda,NY,0:40:53,Cycle Sport Concepts Tampa
+12,448396,Rudy,Szymanski,Tampa,FL,0:40:53,Cycle Sport Concepts Tampa
 13,460237,Angel,Garcia,Ormond Beach,FL,0:40:55,
 14,516962,Kenneth,Knowles,Lakewood Ranch,FL,0:42:37,Sarasota Cycling Club p/b SeaSucker
 15,426592,Ryan,Heron,Pembroke Pines,FL,0:40:58,Interactive Metronome p/b Mega Cycle
@@ -261,13 +261,13 @@ Place,License #,First,Last,City,State,Time,Team
 1,468341,Ross,Piper,Orlando,FL,1:11:28,Compass Research Cycling Team
 2,399974,Jorge,Mila,Orlando,FL,1:11:29,Pioneer Mortgage pb Yourkey.com
 3,336940,Jason,Brandt,Sanford,FL,1:12:25,Compass Research Cycling Team
-4,351492,Mark Anthony,Sanchez,Wesley Chapel,FL,1:12:25,Aeropro Coaching Cycling Team
+4,351492,Mark Anthony,Sanchez,Beaveton ,OR,1:12:25,Aeropro Coaching Cycling Team
 DNF,425572,Andy,Hale,Neptune Beach,FL,0:07:29,VeloBrew Cycling Club
 DNF,393804,Emile Jr,Therrien,Jacksonville,FL,0:08:56,VeloBrew Cycling Club
 DNF,501128,Robert,Swift,Tampa,FL,0:10:45,
 DNF,286748,Dominique,Mcconnell,Orlando,FL,0:11:28,Stradalli/Wizard Racing Development Team P/B Wizard Coaching Services
 DNF,367371,Zachary,West,Longwood,FL,0:15:14,Atlantic Shores Velo
-DNF,494503,JeanLuc,ContantGalitello,Pompano Beach,FL,0:52:01,Interactive Metronome p/b Mega Cycle
+DNF,494503,JeanLuc,ContantGalitello,Coconut Creek,FL,0:52:01,Interactive Metronome p/b Mega Cycle
 DNF,265645,Jon,Mccabe,Odessa,FL,0:46:21,West Coast Cycling
 
 02/11/2017 Criterium Men Master 60+
@@ -279,7 +279,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,174914,Erica,Allar,Demorest,GA,0:40:26,UCI WPT: Rally Cycling
 2,443227,Lauren,Dodge,Flemington,NJ,0:40:26,
 3,457648,Antje,Thamm,Gainesville,FL,0:40:28,DelaFina
-4,495140,Carly,George,Dunedin,FL,0:40:29,Aeropro Coaching Cycling Team
+4,495140,Carly,George,Tampa,FL,0:40:29,Aeropro Coaching Cycling Team
 5,0,Deidre,Maloney,,,0:40:31,
 6,374637,Mackenzie,Koth,Dade City,FL,0:40:34,Stradalli/Wizard Racing Development Team P/B Wizard Coaching Services
 
@@ -296,10 +296,10 @@ Place,License #,First,Last,City,State,Time,Team
 9,434223,Lauren,Chen,Tequesta,FL,0:29:57,
 10,466276,Kathryn,Maeder,Powder Springs,GA,0:29:58,Georgia Tech Cycling
 11,525056,Sarah,Carrico,Daphne,AL,0:29:58,Auburn University
-12,497036,Elizabeth,Keefer,Jacksonville,AL,0:30:00,Auburn University
+12,497036,Elizabeth,Keefer,Auburn,AL,0:30:00,Auburn University
 13,422220,Sylvie,Hyman,Gainesville,FL,0:29:54,Team Florida
 14,525192,Daniela,Flores Arias,Atlanta,GA,0:32:32,Savannah College of Art and Design - Atlanta
-15,496968,Ellen,Ray,Atlanta,GA,0:29:56,Georgia Tech Cycling
+15,496968,Ellen,Ray,Austin,TX,0:29:56,Georgia Tech Cycling
 DNF,525194,Xaviera,Coral,Atlanta,GA,0:11:21,Savannah College of Art and Design - Atlanta
 
 02/11/2017 Criterium Women A Collegiate
@@ -384,7 +384,7 @@ Place,License #,First,Last,City,State,Time,Team
 26,432703,Kenny,Cox,Jacksonville,FL,2:29:18,VeloBrew Cycling Club
 27,286862,Rolando,Hernandez,Tampa,FL,2:29:18,Pioneer Mortgage pb Yourkey.com
 28,88669,Adam,Baskin,Montverde,FL,2:29:19,GearLink Racing INC.
-29,353190,Alan,Edwards,Jacksonville,FL,2:29:21,VeloBrew Cycling Club
+29,353190,Alan,Edwards,Johnson City,TN,2:29:21,VeloBrew Cycling Club
 30,186384,Guy,Preston,Jacksonville Beach,FL,,
 31,177906,David,Guttenplan,Clearwater,FL,2:29:22,Support Clean Sport/SeaSucker/Guttenplan Coaching
 32,292511,Bruno,Moreira,Riverview,FL,2:29:23,Pioneer Mortgage pb Yourkey.com
@@ -402,7 +402,7 @@ DNF,209770,David,Steiner,Chagrin Falls,OH,2:11:07,Spin/Litzler Automation
 DNF,497515,Andrew,Hibbitt,Miami,FL,2:01:35,
 DNF,264429,David,Christenson,Reno,NV,0:00:22,Herbalife p/b Marc Pro - Nature's Bakery
 DNF,152659,Andrew,Miller,Jacksonville,FL,1:57:25,VeloBrew Cycling Club
-DNF,58176,Nathan,Rogut,Tampa,FL,0:58:09,R & M
+DNF,58176,Nathan,Rogut,Rock Hill,SC,0:58:09,R & M
 DNF,154900,Scott,Cugno,Tampa,FL,1:43:09,Pioneer Mortgage pb Yourkey.com
 DNF,393374,Hunter,Smith,Orlando,FL,1:44:06,Support Clean Sport / SeaSucker / Guttenplan Coaching
 DNF,274017,Andrew,Hodges,Suwanee,GA,1:57:25,Prima Tappa Cycling p/b Mansfield Oil
@@ -414,7 +414,7 @@ DNF,226235,Colin,Rice,Orlando,FL,2:01:35,Compass Research Cycling Team
 Place,License #,First,Last,City,State,Time,Team
 1,497314,Ross,Dungan,Savannah,GA,1:41:10,Savannah College of Art & Design - Savannah
 2,471804,JeanBrice,Duhamel,Wesley Chapel,FL,1:41:10,USF Cycling
-3,501755,Coleman,Camp,Naperville,IL,1:41:11,Savannah College of Art & Design - Savannah
+3,501755,Coleman,Camp,Savannah,GA,1:41:11,Savannah College of Art & Design - Savannah
 4,524827,Granger,Eltringham,Savannah,GA,1:41:11,Savannah College of Art & Design - Savannah
 5,520776,William,Wilhelm,Thomasville,GA,1:41:12,Piedmont College
 6,524758,Nicolas,Ramirez,Savannah,GA,1:41:12,Savannah College of Art & Design - Savannah
@@ -423,14 +423,14 @@ Place,License #,First,Last,City,State,Time,Team
 
 02/11/2017 Road Race Men C Collegiate
 Place,License #,First,Last,City,State,Time,Team
-1,496992,Robert,Lyew,Snellville,GA,1:41:07,Auburn University
+1,496992,Robert,Lyew,Hartsville,SC,1:41:07,Auburn University
 2,496765,Joshua,Berry,Gainesville,FL,1:41:11,Team Florida
 3,525151,David,Hernadez,Atlanta,GA,1:41:11,Georgia Tech Cycling
 4,516853,Perry,Bunn,Auburn,AL,1:41:11,Auburn University
 5,516679,Joseph,Werble,Barnesville,MD,1:41:11,Georgia Tech Cycling
 6,524938,Brady,Whicker,Auburn,AL,1:41:11,Auburn University
 7,486343,Andrew,Brookins,Columbus,GA,1:41:12,UGA Cycling
-8,497150,David Michael,Sweet,Wedowee,AL,1:41:13,Auburn University
+8,497150,David Michael,Sweet,Palo Alto,CA,1:41:13,Auburn University
 9,498178,Nunthadech,Rodcheuy,Atlanta,GA,1:41:15,Georgia Tech Cycling
 10,476555,Daniel,Bayer,Gadsden,AL,1:41:17,Auburn University
 11,414795,William,Storrs,Covington,KY,1:41:17,Georgia Tech Cycling
@@ -459,7 +459,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,460158,Jacob,Payne,Atlanta,GA,1:35:45,Georgia Tech Cycling
 4,367470,Blake,Norman,Havana,FL,1:41:37,Team Florida
 5,465866,Christopher,Sacco,Rock Hill,SC,1:41:38,Presbyterian College
-6,503564,Dillon,Hickey,Pleasantville,NY,1:41:39,Savannah College of Art and Design - Atlanta
+6,547018,Dillon,Hickey,Pleasantville,NY,1:41:39,Savannah College of Art and Design - Atlanta
 7,525291,Mark,Burnley,Orlando,FL,1:41:40,University of Central Florida
 8,500764,Roger,Gonzalez,Buford,GA,1:41:40,Savannah College of Art & Design - Savannah
 9,438258,Giovanni,Mercado,Tampa,FL,1:41:40,USF Cycling
@@ -469,17 +469,17 @@ Place,License #,First,Last,City,State,Time,Team
 13,375911,Nicholas,LeBlanc,Fernandina Beach,FL,1:41:41,
 14,449021,Hunter,Brown,Bullard,TX,1:41:41,Georgia Tech Cycling
 15,425861,Mark,Gomez,Birmingham,AL,1:41:43,Auburn University
-16,478099,Paul,Gue,Louisville,KY,1:44:48,Auburn University
-17,498920,Matthew,Moore,Gainesville,GA,1:54:19,Savannah College of Art & Design - Savannah
+16,478099,Paul,Gue,Auburn,AL,1:44:48,Auburn University
+17,498920,Matthew,Moore,Savannah,GA,1:54:19,Savannah College of Art & Design - Savannah
 18,514383,JangHo,Kim,Ridgewood,NJ,2:09:00,
 DNF,514383,JangHo,Kim,Ridgewood,NJ,0:00:00,
-DNF,400103,Emmet,Pfau,San Anselmo  ,CA,0:00:00,Savannah College of Art & Design - Savannah
+DNF,400103,Emmet,Pfau,San Anselmo,CA,0:00:00,Savannah College of Art & Design - Savannah
 DNF,459904,Zack,Carlton,Watkinsville,GA,0:33:31,UGA Cycling
 DNF,375152,Marshall,Petrik,Gainesville,FL,0:00:00,University of Florida
 
 02/11/2017 Road Race Men A Collegiate
 Place,License #,First,Last,City,State,Time,Team
-1,504799,Peter,Foerster,,,2:03:26,Savannah College of Art and Design - Atlanta
+1,504799,Peter,Foerster,Atlanta,GA,2:03:26,Savannah College of Art and Design - Atlanta
 2,330752,Clayton,Stone,Anthem,AZ,2:03:27,Savannah College of Art & Design - Savannah
 3,255729,Charlie,Hough,Travelers Rest,SC,2:03:28,Furman University
 4,276390,J. Colton,Brookshire,Hendersonville,NC,2:03:29,Milligan College
@@ -500,7 +500,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,303566,Carlo,Villarreal,Mcallen,TX,2:03:35,Milligan College
 20,427611,Samuel,Wentworth,Sugarcreek,OH,2:03:35,Milligan College
 21,395206,Ian,Umstead,Murray,KY,2:03:36,Murray State University
-22,308175,Wilman,Vargas,Atlanta ,GA,2:03:41,Savannah College of Art and Design - Atlanta
+22,308175,Wilman,Vargas,Atlanta,GA,2:03:41,Savannah College of Art and Design - Atlanta
 23,392529,Brian,Sciba,Tallahassee,FL,2:03:45,Milligan College
 24,258439,Grayson,Brookshire,Hendersonville,NC,2:03:46,Milligan College
 25,282272,Andrew,Bailey,Piney Flats,TN,2:05:46,Milligan College
@@ -519,7 +519,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,480174,Jeff,Mishtawy,Daytona Beach,FL,1:35:41,JC's Bike Shop's Blue Hammers
 4,292123,Michel,Bermudez,Homosassa,FL,1:35:41,West Coast Cycling
 5,0,Shawn,Smith,,,1:35:41,
-6,17748,Stephen,Jenkins,Knoxville,TN,1:35:42,Micro Metals/Bike Zoo
+6,544037,stephen,jenkins,Jacksonville Beach,FL,1:35:42,
 7,459651,jiklis,perez,Orlando,FL,1:35:43,Atlantic Shores Velo
 8,468414,Adrian,Besancon,Tampa,FL,1:35:45,Cycle Sport Concepts Tampa
 9,423812,Octavio,Ocampo,Orlando,FL,1:35:49,Ocampo Racing Team
@@ -536,7 +536,7 @@ DNF,25353,Sean,Mulhall,Ponte Vedra Beach,FL,1:12:55,VeloBrew Cycling Club
 02/11/2017 Road Race Men Cat 4/5 Master 50+
 Place,License #,First,Last,City,State,Time,Team
 1,305247,Scott,Lameier,Valrico,FL,1:35:42,West Coast Cycling
-2,256450,Timothy,Goodin,Chattanooga ,TN,1:35:43,Village VW Chattanooga Cycling Team
+2,256450,Timothy,Goodin,Chattanooga,TN,1:35:43,Village VW Chattanooga Cycling Team
 3,393844,James,Dure,Middleburg,FL,1:35:43,VeloBrew Cycling Club
 4,65608,Omar,Sassin,Tampa,FL,1:35:44,West Coast Cycling
 5,458484,Brett,Price,Sarasota,FL,1:35:44,Aeropro Coaching Cycling Team
@@ -611,7 +611,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,494899,Jonathan,Molina,Pompano Beach,FL,2:14:20,Riverside Market South - Cima Cycles p/b Steady Spin
 2,524215,Nick,Barnes,Melbourne,FL,2:14:31,Infinity Bike Shop
 3,501212,Dion,Stapleton,Tallahassee,FL,2:15:35,
-4,511698,Harrison,Scales,,,2:15:49,
+4,511698,Harrison,Scales,St. Augustine,FL,2:15:49,
 5,524908,Joey,Medina,Orlando,FL,2:15:50,
 6,459160,Miguel,Mora Copa,Windermere,FL,2:15:50,Ocampo Racing Team
 7,224494,Thomas,Gage,Wesley Chapel,FL,2:15:51,
@@ -622,7 +622,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,523303,Calvin,Falwell,Tampa,FL,2:15:54,GearLink Racing INC.
 13,497244,Stephen,Chenard,Parrish,FL,2:15:56,Sarasota Cycling Club p/b SeaSucker
 14,419337,Vincent,Pukki,New Port Richey,FL,2:15:57,Aeropro Coaching Cycling Team
-15,448396,Rudy,Szymanski,Gowanda,NY,2:16:04,Cycle Sport Concepts Tampa
+15,448396,Rudy,Szymanski,Tampa,FL,2:16:04,Cycle Sport Concepts Tampa
 16,416333,Eric,Omdahl,Land O Lakes ,FL,2:16:06,
 17,426592,Ryan,Heron,Pembroke Pines,FL,2:16:08,Interactive Metronome p/b Mega Cycle
 18,460224,Josue,jordan,Ocala,FL,2:34:45,
@@ -676,7 +676,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,399974,Jorge,Mila,Orlando,FL,2:29:22,Pioneer Mortgage pb Yourkey.com
 6,357886,Ian,Gonder,Naples,FL,2:35:17,FloridaVelo
 7,489310,Eric,Hall,Tampa,FL,2:36:01,Aeropro Coaching Cycling Team
-8,494503,JeanLuc,ContantGalitello,Pompano Beach,FL,2:42:00,Interactive Metronome p/b Mega Cycle
+8,494503,JeanLuc,ContantGalitello,Coconut Creek,FL,2:42:00,Interactive Metronome p/b Mega Cycle
 DNF,367371,Zachary,West,Longwood,FL,0:28:39,Atlantic Shores Velo
 DNF,425572,Andy,Hale,Neptune Beach,FL,1:27:55,VeloBrew Cycling Club
 DNF,286748,Dominique,Mcconnell,Orlando,FL,0:00:13,Stradalli/Wizard Racing Development Team P/B Wizard Coaching Services
@@ -697,7 +697,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,174914,Erica,Allar,Demorest,GA,1:47:26,UCI WPT: Rally Cycling
 3,69689,Sherri,Stedje,Lutz,FL,1:47:26,West Coast Cycling
 4,242810,Kimberly,Vaughan,Odessa,FL,1:47:36,West Coast Cycling
-5,495140,Carly,George,Dunedin,FL,1:47:55,Aeropro Coaching Cycling Team
+5,495140,Carly,George,Tampa,FL,1:47:55,Aeropro Coaching Cycling Team
 6,218675,Trish,Cohen,Tampa,FL,1:48:08,West Coast Cycling
 
 02/11/2017 Road Race Women B Collegiate
@@ -708,9 +708,9 @@ Place,License #,First,Last,City,State,Time,Team
 4,524762,Amalia,Restrepo,Savannah,GA,1:20:23,
 5,0,Chantell,Van Staden,,,1:20:24,
 6,419163,Marie,Tutterow,Johnson City,TN,1:20:24,Milligan College
-7,497036,Elizabeth,Keefer,Jacksonville,AL,1:20:25,Auburn University
+7,497036,Elizabeth,Keefer,Auburn,AL,1:20:25,Auburn University
 8,497075,Erin,Nalley,Brandon,MS,1:20:25,Auburn University
-9,496968,Ellen,Ray,Atlanta,GA,1:20:25,Georgia Tech Cycling
+9,496968,Ellen,Ray,Austin,TX,1:20:25,Georgia Tech Cycling
 10,524893,Chrissy,Glover,Savannah,GA,1:20:36,Savannah College of Art & Design - Savannah
 11,394650,Samantha,Morrison,Jacksonville ,FL,1:21:33,
 12,525056,Sarah,Carrico,Daphne,AL,1:27:22,Auburn University
@@ -790,18 +790,18 @@ Place,License #,First,Last,City,State,Time,Team
 10,472752,Luis,Rodriguez,Windermere,FL,0:16:45,Compass Research Cycling Team
 11,395680,Chris,Tricoli,Orlando,FL,0:16:46,Support Clean Sport / SeaSucker / Guttenplan Coaching
 12,152659,Andrew,Miller,Jacksonville,FL,0:17:49,VeloBrew Cycling Club
-13,58176,Nathan,Rogut,Tampa,FL,0:17:51,R & M
+13,58176,Nathan,Rogut,Rock Hill,SC,0:17:51,R & M
 14,432703,Kenny,Cox,Jacksonville,FL,0:19:29,VeloBrew Cycling Club
 
 02/11/2017 Time Trial Men D Collegiate
 Place,License #,First,Last,City,State,Time,Team
 1,525151,David,Hernadez,Atlanta,GA,0:17:40,Georgia Tech Cycling
-2,501755,Coleman,Camp,Naperville,IL,0:18:55,Savannah College of Art & Design - Savannah
+2,501755,Coleman,Camp,Savannah,GA,0:18:55,Savannah College of Art & Design - Savannah
 
 02/11/2017 Time Trial Men Ca5 4/5 Master 50+
 Place,License #,First,Last,City,State,Time,Team
 1,458484,Brett,Price,Sarasota,FL,0:18:37,Aeropro Coaching Cycling Team
-2,256450,Timothy,Goodin,Chattanooga ,TN,0:18:41,Village VW Chattanooga Cycling Team
+2,256450,Timothy,Goodin,Chattanooga,TN,0:18:41,Village VW Chattanooga Cycling Team
 3,305247,Scott,Lameier,Valrico,FL,0:19:03,West Coast Cycling
 4,268321,Roger,Albertson,Dade City,FL,0:19:32,US Military Endurance Sports
 
@@ -809,7 +809,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,524938,Brady,Whicker,Auburn,AL,0:18:46,Auburn University
 2,486343,Andrew,Brookins,Columbus,GA,0:18:48,UGA Cycling
-3,497150,David Michael,Sweet,Wedowee,AL,0:18:49,Auburn University
+3,497150,David Michael,Sweet,Palo Alto,CA,0:18:49,Auburn University
 4,525097,Brandon,Morrow,Clinton,SC,0:18:52,Presbyterian College
 5,497914,Jesse,Hu,Athens,GA,0:20:22,UGA Cycling
 
@@ -818,14 +818,14 @@ Place,License #,First,Last,City,State,Time,Team
 1,460158,Jacob,Payne,Atlanta,GA,0:17:14,Georgia Tech Cycling
 2,395493,Jonathan,Cooper,Conyers,GA,0:17:23,UGA Cycling
 3,465866,Christopher,Sacco,Rock Hill,SC,0:17:44,Presbyterian College
-4,503564,Dillon,Hickey,Pleasantville,NY,0:18:13,Savannah College of Art and Design - Atlanta
+4,547018,Dillon,Hickey,Pleasantville,NY,0:18:13,Savannah College of Art and Design - Atlanta
 
 02/11/2017 Time Trial Men A Collegiate
 Place,License #,First,Last,City,State,Time,Team
 1,178109,Andrew,Scarano,Athens,GA,0:15:45,Savannah College of Art and Design - Atlanta
 2,330752,Clayton,Stone,Anthem,AZ,0:15:58,Savannah College of Art & Design - Savannah
-3,504799,Peter,Foerster,,,0:16:11,Savannah College of Art and Design - Atlanta
-4,308175,Wilman,Vargas,Atlanta ,GA,0:16:14,Savannah College of Art and Design - Atlanta
+3,504799,Peter,Foerster,Atlanta,GA,0:16:11,Savannah College of Art and Design - Atlanta
+4,308175,Wilman,Vargas,Atlanta,GA,0:16:14,Savannah College of Art and Design - Atlanta
 5,515534,Sean,Fincham,Atlanta,GA,0:16:28,Savannah College of Art and Design - Atlanta
 6,395206,Ian,Umstead,Murray,KY,0:16:47,Murray State University
 7,207381,Artur,Sagat,Roswell,GA,0:16:51,Savannah College of Art and Design - Atlanta
@@ -865,7 +865,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,484685,Austin,Doty,Jacksonville,FL,0:17:24,VeloBrew Cycling Club
 2,517849,Kevin,Cook,Apopka,FL,0:18:37,
-3,448396,Rudy,Szymanski,Gowanda,NY,0:19:01,Cycle Sport Concepts Tampa
+3,448396,Rudy,Szymanski,Tampa,FL,0:19:01,Cycle Sport Concepts Tampa
 4,501342,Ryan,Robinson,Land O Lakes,FL,0:19:52,
 5,494899,Jonathan,Molina,Pompano Beach,FL,0:58:41,Riverside Market South - Cima Cycles p/b Steady Spin
 
@@ -882,7 +882,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,489310,Eric,Hall,Tampa,FL,0:17:17,Aeropro Coaching Cycling Team
 3,357886,Ian,Gonder,Naples,FL,0:17:19,FloridaVelo
 4,425572,Andy,Hale,Neptune Beach,FL,0:17:24,VeloBrew Cycling Club
-5,351492,Mark Anthony,Sanchez,Wesley Chapel,FL,0:17:28,Aeropro Coaching Cycling Team
+5,351492,Mark Anthony,Sanchez,Beaveton ,OR,0:17:28,Aeropro Coaching Cycling Team
 6,468341,Ross,Piper,Orlando,FL,0:18:51,Compass Research Cycling Team
 
 02/11/2017 Time Trial Men Master 60+
@@ -894,7 +894,7 @@ Place,License #,First,Last,City,State,Time,Team
 02/11/2017 Time Trial Women Pro/Cat 1/2
 Place,License #,First,Last,City,State,Time,Team
 1,457648,Antje,Thamm,Gainesville,FL,0:16:38,DelaFina
-2,495140,Carly,George,Dunedin,FL,0:17:06,Aeropro Coaching Cycling Team
+2,495140,Carly,George,Tampa,FL,0:17:06,Aeropro Coaching Cycling Team
 3,218675,Trish,Cohen,Tampa,FL,0:17:24,West Coast Cycling
 4,0,Deidre,Maloney,,,0:17:27,
 5,443227,Lauren,Dodge,Flemington,NJ,0:17:59,
@@ -904,7 +904,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,525195,Chantelle,Van Staden,Atlanta,GA,0:20:41,Savannah College of Art and Design - Atlanta
 2,524893,Chrissy,Glover,Savannah,GA,0:21:53,Savannah College of Art & Design - Savannah
-3,497036,Elizabeth,Keefer,Jacksonville,AL,0:22:56,Auburn University
+3,497036,Elizabeth,Keefer,Auburn,AL,0:22:56,Auburn University
 4,525194,Xaviera,Coral,Atlanta,GA,0:23:09,Savannah College of Art and Design - Atlanta
 5,525192,Daniela,Flores Arias,Atlanta,GA,0:24:59,Savannah College of Art and Design - Atlanta
 6,461056,Sasimon,Viriyayuthakorn,Suwanee,GA,0:29:13,Georgia Tech Cycling

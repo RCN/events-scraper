@@ -26,7 +26,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,184119,Frank,Grillo,Orchard Park,NY,,Buffalo Bicycling Club
 23,281967,Robert,Brnilovich,Akron,OH,,Snakebite Racing
 24,467048,Rory,Heinlein,Churchville,NY,,Once Again Nut Butter Multi Sport TeamLCC
-25,195275,Jonathan,Rosen,Amherst,NY,,Buffalo Bicycling Club
+25,195275,Jonathan,Rosen,Colden,NY,,Buffalo Bicycling Club
 
 08/06/2017 Road Race Men Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
@@ -72,13 +72,13 @@ DNF,0,David,Havill,,,,NCCH pb MGCC
 DNF,407281,Scott,Bentley,,,,Sound Solutions
 DNF,0,Andrew,Auld,,,,Team PBR p/b Findlaylaw.ca
 DNF,57486,Jim,Costello,Buffalo,NY,,BBC Elite Cycling Team
-DNF,516574,Scott,Laliberte,,,,LaBicicletta
+DNF,433203,Scott,Laliberte,,,,LaBicicletta
 DNF,0,Seamus,Lavell,,,,NovoFit- Girrardin
 
 08/06/2017 Road Race Men Cat 5
 Place,License #,First,Last,City,State,Time,Team
 1,530653,Reed,Livengood,Jamestown,NY,,Hollyloft/Alfies Cycling Team
-2,513528,Jeff,Sipos,,,,Campus WheelWorks
+2,513528,Jeff,Sipos,,NY,,Campus WheelWorks
 3,534198,Sean,Conway,Orchard Park,NY,,Toms Pro Bike
 4,0,Steve,Quenneville,,,,Newmarket Eagles Cycling Club
 5,0,Orian,Falk-Dotan,,,,Kallisto-FCV p/b Peloton Contracting
@@ -114,7 +114,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,291526,Jonathan,Bottoms,Buffalo,NY,,Toms Pro Bike
 3,430292,Aaron,McCarter,Jamestown,NY,,Hollyloft/Alfies Cycling Team
 4,0,Dylan,Bibic,,,,Midweek CC
-5,534454,Patrick,Brown,Fort Johnson,NY,,
+5,534454,Patrick,Brown,Scranton,PA,,
 6,0,Oliver,Campbell,,,,Midweek Cycling Club
 7,293971,Anthony,Sylor,Conesus,NY,,Once Again Nut Butter Multi-Sport Racing p/b LCC
 8,420059,Adam,Wojcik,Buffalo,NY,,Local Openers p/b Tenspeed Hero
@@ -189,7 +189,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,129026,Jason,Conn,Pittsburgh,PA,,NuGo Racing
 18,244361,Merle,Whitehead,Clarence,NY,,Independent Health
 19,184119,Frank,Grillo,Orchard Park,NY,,Buffalo Bicycling Club
-20,195275,Jonathan,Rosen,Amherst,NY,,Buffalo Bicycling Club
+20,195275,Jonathan,Rosen,Colden,NY,,Buffalo Bicycling Club
 21,365941,Mark,Davis,Bay Village,OH,,Team Spin/Litzler Automation
 
 08/05/2017 Criterium Men Cat 1/2/3
@@ -246,7 +246,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 08/05/2017 Criterium Men Cat 5
 Place,License #,First,Last,City,State,Time,Team
-1,513528,Jeff,Sipos,,,,Campus WheelWorks
+1,513528,Jeff,Sipos,,NY,,Campus WheelWorks
 2,530653,Reed,Livengood,Jamestown,NY,,Hollyloft/Alfies Cycling Team
 3,539036,Tom,Scheeler,East Aurora,NY,,
 4,0,Matthew,Castilloux,,,,
@@ -339,7 +339,7 @@ Place,License #,First,Last,City,State,Time,Team
 08/05/2017 Stage Race Men Men 5
 Place,License #,First,Last,City,State,Time,Team
 1,530653,Reed,Livengood,Jamestown,NY,5,Hollyloft/alfies Cycling Team
-2,513528,Jeff,Sipos,,,10,Campus Wheelworks
+2,513528,Jeff,Sipos,,NY,10,Campus Wheelworks
 3,529227,Benjamin,Kuch,Buffalo,NY,15,Toms Pro Bike
 4,0,Matthew,Castilloux,,,15,
 5,0,Steve,Quenneville,,,15,Newmarket Eagles Cycling Club
@@ -422,7 +422,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,163567,Bryan,Bonn,Amherst,NY,42,Independent Health Cycling
 11,59062,Joe,Giovenco,Buffalo,NY,51,Buffalo Cycling  / Buffalo Bicycling Club
 12,184119,Frank,Grillo,Orchard Park,NY,55,Buffalo Bicycling Club
-13,195275,Jonathan,Rosen,Amherst,NY,63,Buffalo Bicycling Club
+13,195275,Jonathan,Rosen,Colden,NY,63,Buffalo Bicycling Club
 
 08/05/2017 Stage Race Women Women 4/5
 Place,License #,First,Last,City,State,Time,Team
@@ -464,7 +464,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,163567,Bryan,Bonn,Amherst,NY,12:01.4,Independent Health Cycling
 16,59062,Joe,Giovenco,Buffalo,NY,12:06.7,Buffalo Cycling  / Buffalo Bicycling Club
 17,365941,Mark,Davis,Bay Village,OH,12:28.9,Team Spin/Litzler Automation
-18,195275,Jonathan,Rosen,Amherst,NY,13:44.9,Buffalo Bicycling Club
+18,195275,Jonathan,Rosen,Colden,NY,13:44.9,Buffalo Bicycling Club
 
 08/05/2017 Time Trial Men Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
@@ -496,7 +496,7 @@ Place,License #,First,Last,City,State,Time,Team
 26,233485,Jake,Castor,Springwater,NY,10:41.7,Once Again Nut Butter multi sport racing/LCC
 27,353870,Timothy,Paul,Mount Morris,NY,10:45.6,Once Again Nut Butter Multi-Sport Racing p/b LCC
 28,230661,Daniel,Barney,Fairport,NY,10:46.0,Nalgene / Borah Teamwear
-29,516574,Scott,Laliberte,,,10:46.0,LaBicicletta
+29,433203,Scott,Laliberte,,,10:46.0,LaBicicletta
 30,272704,Julian,Georg,Syracuse,NY,10:47.6,Syracuse University
 31,0,Justin,Rogers,,,10:49.0,WASPcam p/b realdealperformance
 32,209770,David,Steiner,Chagrin Falls,OH,10:51.0,Team Spin/Litzler Automation
@@ -519,7 +519,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,0,Matthew,Castilloux,,,11:09.2,
 5,0,Steve,Quenneville,,,11:24.4,Newmarket Eagles Cycling Club
 6,504171,Mitchell,Reichert,Erie,PA,11:30.2,
-7,513528,Jeff,Sipos,,,11:36.4,Campus WheelWorks
+7,513528,Jeff,Sipos,,NY,11:36.4,Campus WheelWorks
 8,443534,Daniel,Deemer,Warners,NY,11:36.7,Syracuse Bicycle Race Team
 9,534198,Sean,Conway,Orchard Park,NY,11:42.4,Toms Pro Bike
 10,494616,Dwayne,Humes,Pittsburgh,PA,11:48.3,

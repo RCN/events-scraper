@@ -6,14 +6,14 @@ Place,License #,First,Last,City,State,Time,Team
 2,126300,Szymon,NIEMOTKO,Columbus,NJ,3,Central Jersey Cycling Team
 3,434218,Trevor,RAAB,Nazareth,PA,27,
 4,64243,Michael,YOZELL,Emmaus,PA,38,Lamprey Systems
-5,392452,Jeremy,BURKHARDT,Baltimore,MD,s.t.,C3-Twenty20 Cycling Co.
+5,392452,Jeremy,BURKHARDT,Washington,DC,s.t.,C3-Twenty20 Cycling Co.
 6,413326,Matthew,TYLER,Morristown,NJ,1:02,Laughing Dog Bicycles
 7,360252,Scott,MYERS,Baltimore,MD,2:06,
 8,244368,Stew,GROSS,Boulder,CO,3:03,Trek
 9,200244,Jonathan,RUIZ,Allentown,PA,3:13,Lamprey Systems
 10,179015,John,MINTURN,State College,PA,3:44,
-11,296751,Michael,GREEN,Wyndmoor ,PA,5:36,Arrow Racing
-12,393014,Bryan,BANDUCCI,Brooklyn ,NY,5:38,King Kog
+11,296751,Michael,GREEN,Wyndmoor,PA,5:36,Arrow Racing
+12,393014,Bryan,BANDUCCI,Brooklyn,NY,5:38,King Kog
 13,384013,Alex,SANBORN,New York,NY,-1 lap,CRCA
 14,102406,Erik,MITCHELL,Phoenixville,PA,-1 lap,TheRunUp.com
 DNF,377947,Chris,PINO,Springfield,PA,DNF,The 5th Floor NYC
@@ -47,7 +47,7 @@ Place,License #,First,Last,City,State,Time,Team
 24,493469,Clark,FREDRICKSEN,Brooklyn,NY,4:19,UCLA
 25,291945,John,SEDLAK,Chatham,NJ,4:28,Watts Up Cycling
 26,473589,Vincent,RIBEIRO,Brooklyn,NY,4:38,Verrazano Team Racing
-27,340772,Matthew,WORSTELL,Basking Ridge,NJ,4:56,
+27,340772,Matthew,WORSTELL,Plymouth,MA,4:56,
 28,518255,Ian,QUINLAN,Eagleville,PA,4:59,Bikesport/Sly Fox
 29,428314,Brandon,MAK,Princeton Junction,NJ,5:06,
 30,471839,Jonathan,CUTLER,Montclair,NJ,5:08,Jalapeo Cycling
@@ -63,11 +63,11 @@ Place,License #,First,Last,City,State,Time,Team
 40,292877,Michael,GREY,Princeton,NJ,s.t.,Century Road Club of America
 41,493730,Max,THORN,Brooklyn,NY,s.t.,Kissena Cycling Club
 42,416366,Jason,ZIEGLER,Newtown Square,PA,5:50,Wisconsin
-43,454556,Michael,FISHER,Point Pleasant ,NJ,5:54,Second Life Bikes
+43,454556,Michael,FISHER,Point Pleasant,NJ,5:54,Second Life Bikes
 44,0,Daniel,COOPER,,,5:56,Ride Brooklyn
-45,486876,Sam,GREEN,Saint Georges,DE,s.t.,Wooden Wheels Racing
+45,486876,Sam,GREEN,Bear,DE,s.t.,Wooden Wheels Racing
 46,353654,Greg,MITSTIFER,Harrisburg,PA,6:04,Mountainside Ski and Sports
-47,121737,Mark,GERSTENSCHLAGER,Chads Ford ,PA,s.t.,
+47,121737,Mark,GERSTENSCHLAGER,Chads Ford,PA,s.t.,
 48,497852,Zachary,BRENNAN,Shamong,NJ,6:08,Drexel University
 49,504205,Chris,MCISAAC,Newtown Square,PA,s.t.,
 50,466599,Riley,HOONAN,Brooklyn,NY,6:10,Two Seconds Ahead p/b Silk Road
@@ -79,7 +79,7 @@ Place,License #,First,Last,City,State,Time,Team
 56,383032,Dirk,VANDER LAAN,Greenville,DE,6:59,Active Yards - Chester County V
 57,378628,Joshua,DERINGER,Bryn Mawr,PA,7:17,Cadence Racing
 58,340980,Christopher,FARAO,Jersey City,NJ,7:24,
-59,346016,Henry,HOYLE,Edgewater,NJ,7:29,
+59,346016,Henry,HOYLE,Ridgefield,NJ,7:29,
 60,467401,Jesus,RIVERA,Highland Park,NJ,7:33,Rutgers University
 61,494590,Martijn,DE GRAAF,New York,NY,7:38,CRCA/Dave Jordan Racing
 62,517474,Tom,COCCIA,Elverson,PA,7:42,Bike Line
@@ -116,7 +116,7 @@ Place,License #,First,Last,City,State,Time,Team
 93,541252,Dean,RADOSKY,Quakertown,PA,-1 lap,
 94,539638,Dan,DOGGETT,Baltimore,MD,-1 lap,Team BBC p/b Baltimore Bicycle
 95,537270,Manuel,GARCIA,Brooklyn,NY,-1 lap,
-96,468671,Colin,WOODS,Nashville,TN,-1 lap,
+96,468671,Colin,WOODS,Knoxville,TN,-1 lap,
 97,0,Dennis,HAGGERTY JR.,,,-1 lap,Doylestown Bike Works p/b Fred
 98,541243,Daniel,ENGEL,Winchester,VA,-1 lap,
 99,94838,Robert,LUND,Vista,CA,-1 lap,
@@ -134,14 +134,14 @@ Place,License #,First,Last,City,State,Time,Team
 111,516720,Kevin,BOYLE,Ottsville,PA,-1 lap,
 112,540424,Eric,HEYER,Princeton,NJ,-2 laps,
 113,440309,Jeffrey,MCCARY,Schnecksville,PA,-4 laps,Fitness Central
-114,64565,Christopher,BYRNE,Boonton,NJ,-4 laps,BYRNE International LLC
+114,64565,Christopher,BYRNE,Boonton Township,NJ,-4 laps,BYRNE International LLC
 DNS,494816,Tyler,ALEXANDER,Homer City,PA,,
 DNS,539923,Joseph,CIERVO,Cherry Hill,NJ,,
 DNS,99296,Andrew Ross,HOLTZER,Maplewood,NJ,,Hilltop
-DNF,424649,Christopher,BURATI,New York,NY,,CRCA/To Be Determined
+DNS,424649,Christopher,BURATI,New York,NY,,CRCA/To Be Determined
+DNS,292631,Matthew,VANDIVORT,Newyork,NY,,CRCA/To Be Determined
 DNF,386732,Andrew,PATTISON,Brooklyn,NY,,King Kog
 DNF,311529,Grant,HARDING,Brooklyn,NY,,Ride Brooklyn
-DNF,292631,Matthew,VANDIVORT,Newyork,NY,,CRCA/To Be Determined
 DNF,495223,Jay,ZEHNGEBOT,New York,NY,,Silk Road Cycles/Hatchmap
 DNF,350892,Stuart,HANNON,Brooklyn,NY,,Dedicated Endurance Training
 DNF,522653,Connor,STEMPLE,Arlington,VA,,
@@ -154,7 +154,7 @@ DNF,379853,Brian,WEAVER,Nazareth,PA,,TorcUP / Weyerbacher
 DNF,332590,Eric,PAULSEN,Somerset,NJ,,Hilltop Bicycles
 DNF,94758,Bryan,MELCHIONDA,West Haven,CT,,KruisCX p/b Repucom
 DNF,120086,Gary,JOSULEVICZ,Allentown,PA,,
-DNF,504757,Thomas,BYRNE,Boonton Township ,NJ,,BYRNE International LLC
+DNF,504757,Thomas,BYRNE,Boonton Township,NJ,,BYRNE International LLC
 DNF,224034,David,WEISS,Short Hills,NJ,,
 
 09/10/2017 Cyclo-cross Men Cat4/5 Juniors 15-18
@@ -179,7 +179,7 @@ Place,License #,First,Last,City,State,Time,Team
 09/10/2017 Cyclo-cross Men Cat3/4 Open
 Place,License #,First,Last,City,State,Time,Team
 1,413123,Tyler,KNAPP,Northampton,MA,43:09:00,Laughing Dog Bicycles
-2,341040,Eran,PREBLE,Philadelphia ,PA,44,INTEGRATED SPORTS MEDICINE P/B
+2,341040,Eran,PREBLE,Newark,DE,44,INTEGRATED SPORTS MEDICINE P/B
 3,366565,Jason,ROTH,Lititz,PA,48,Divine Swine Cycling
 4,459283,Greg,MACCARTY,Parkesburg,PA,50,Team FEC p/b Trek Bikes
 5,441118,Patrick,TORPEY,Brooklyn,NY,55,CRCA/To Be Determined
@@ -193,25 +193,25 @@ Place,License #,First,Last,City,State,Time,Team
 13,472496,Stephen,ROUSSEAU,Brooklyn,NY,2:03,CRCA/To Be Determined
 14,429804,Alex,PANKIW,Harrisburg,PA,2:12,Tregs Ind. Brewing///JBs Bike
 15,385747,Samuel,O'REILLY,Brooklyn,NY,2:29,King Kog
-16,234260,Owen,FAYLE,West Windsor,NJ,2:40,
-17,485990,Aaron James,MILLER,Philadelphia,PA,2:45,
-18,337104,Daniel,CLARK,New York,NY,2:52,CRCA/ GF Capital/ H&E Ent.
-19,419906,Ben,NEWELL,Brooklyn,NY,2:55,King Kog
-20,15699,Ed,HEIN,Philadelphia,PA,3:06,Guy's Racing Club
-21,292639,Jeffrey,WHITE,Brooklyn,NY,3:13,Kissena Cycling Club
-22,454175,Nathan,WERNER,Fleetwood,PA,3:20,Yukato Yoga p/b Sole Ales
-23,272009,Alyosha,SMOLARSKI,Brooklyn,NY,3:25,CRCA/GF Capital/ H&E Ent.
-24,459141,Matthew,HARTSOUGH,Hoboken,NJ,4:12,
-25,423387,Mike,WILLIAMS,Bordentown,NJ,4:13,Cognition Endurance Sports Coac
-26,283659,Phillip,DANIELS,Philadelphia ,PA,s.t.,Dangerous Creatures
-27,481551,Michael,SAAH,Philadelphia,PA,4:18,TU Cycling
-28,357612,Shawn,WOLF,Brooklyn,NY,4:27,King Kog brooklyn
-29,457605,Charles,GOMES,Guttenberg,NJ,4:56,Bicycle Workshop
-30,284780,Todd,ROYAL,New York,NY,5:56,GF Capital
-31,351468,Aaron,MILLER,Lancaster,PA,6:00,Thru It All Body Shop
-32,535995,Justin,CAPTIS,Wallingford,PA,6:03,Bike Sport / SlyFox
-33,269625,Corey,WILLIAMS,New York,NY,6:04,BOLD Racing/enduranceWERX
-34,396145,Zak,ANDREWS,Glenside,PA,s.t.,Doylestown Bike Works p/b Fred
+16,396145,Zak,ANDREWS,Glenside,PA,2:37,Doylestown Bike Works p/b Fred
+17,234260,Owen,FAYLE,West Windsor,NJ,2:40,
+18,485990,Aaron James,MILLER,Philadelphia,PA,2:45,
+19,337104,Daniel,CLARK,New York,NY,2:52,CRCA/ GF Capital/ H&E Ent.
+20,419906,Ben,NEWELL,Brooklyn,NY,2:55,King Kog
+21,15699,Ed,HEIN,Philadelphia,PA,3:06,Guy's Racing Club
+22,292639,Jeffrey,WHITE,Brooklyn,NY,3:13,Kissena Cycling Club
+23,454175,Nathan,WERNER,Hamburg,PA,3:20,Yukato Yoga p/b Sole Ales
+24,272009,Alyosha,SMOLARSKI,Brooklyn,NY,3:25,CRCA/GF Capital/ H&E Ent.
+25,459141,Matthew,HARTSOUGH,Hoboken,NJ,4:12,
+26,423387,Mike,WILLIAMS,Bordentown,NJ,4:13,Cognition Endurance Sports Coac
+27,283659,Phillip,DANIELS,Philadelphia,PA,s.t.,Dangerous Creatures
+28,481551,Michael,SAAH,Philadelphia,PA,4:18,TU Cycling
+29,357612,Shawn,WOLF,Brooklyn,NY,4:27,King Kog brooklyn
+30,457605,Charles,GOMES,Guttenberg,NJ,4:56,Bicycle Workshop
+31,284780,Todd,ROYAL,New York,NY,5:56,GF Capital
+32,351468,Aaron,MILLER,Lancaster,PA,6:00,Thru It All Body Shop
+33,535995,Justin,CAPTIS,Wallingford,PA,6:03,Bike Sport / SlyFox
+34,269625,Corey,WILLIAMS,New York,NY,6:04,BOLD Racing/enduranceWERX
 35,151631,Matthew,PALOMBARO,Glenside,PA,6:32,Guy's Racing Club
 36,476760,Ben,DOUGLAS,Bloomfield,NJ,6:35,Montclair Bikery Development Te
 37,414803,Vince,DUNNE,Arlington,VA,6:39,DIRTYJUICE
@@ -237,7 +237,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,361283,Nick,MORELL,Stroudsburg,PA,1:32,Team Elite Endurance
 7,392088,Nat,AMATO,Easton,PA,2:23,Yukato Yoga p/b Sole Artisan Al
 8,119361,Colin,SANDBERG,Philadelphia,PA,2:30,Team GPOA
-9,282323,Joe,PIGGA,Bethelehem,PA,s.t.,Lamprey Systems
+9,282323,Joe,PIGGA,Bethlehem,PA,s.t.,Lamprey Systems
 10,269506,Ross,ANDERSON,Point Pleasant,NJ,2:53,FinKraft Cycling Team
 11,246153,Matthew,MORRISON,Emmaus,PA,3:04,South Mountain Cycle & Cafe
 12,256449,Blake,RUBIN,Philadelphia,PA,3:12,Arrow Racing
@@ -254,7 +254,7 @@ Place,License #,First,Last,City,State,Time,Team
 23,230098,Chad,CULBERTSON,Pennington,NJ,6:24,Guy's Racing Club
 24,253037,Nick,CAPRIOTTI,Ft Washington,PA,7:11,
 25,297901,Ryan,BRENNAN,Robbinsville,NJ,7:46,Boss Racing
-26,169810,Andrew,WEIR,South Ogden,UT,8:48,
+26,169810,Andrew,WEIR,Ann Arbor,MI,8:48,
 27,351468,Aaron,MILLER,Lancaster,PA,-1 lap,Thru It All Body Shop
 28,403975,Randall,CALVERT,Glen Mills,PA,-1 lap,Team FEC p/b Trek Bikes
 29,507027,Brandon,LINTON,Lancaster,PA,-1 lap,
@@ -275,7 +275,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,27999,Gerry,PFLUG,Connellsville,PA,1:17,Syndicate Cycling p/b Pro Bike
 9,145697,Kelly,CLINE,Media,PA,1:30,Philadelphia Ciclismo
 10,101149,Robert,CAMPOS,Nesconset,NY,s.t.,Bike Junkie Racing
-11,133023,N. Johan,ANESTAD,Quakertown,PA,s.t.,Evolution Racing
+11,133023,N. Johan,ANESTAD,Philadelphia,PA,s.t.,Evolution Racing
 12,43711,Chris,FACAS,Hillsborough,NJ,1:38,Yukato Yoga p/b Sole Artisan Al
 13,230224,Paul,WOJCIAK,Poughkeepsie,NY,1:53,Bikeman.com
 14,365721,Philip,LAVOIE,Granite Springs,NY,1:57,C3 Racing
@@ -367,11 +367,11 @@ Place,License #,First,Last,City,State,Time,Team
 36,197533,Ed,TROIANELLO,Warren,NJ,-1 lap,High Gear/Trek/WW
 37,154757,Richard,BAUCH,Califon,NJ,-1 lap,Colavita Midatlantic Regional T
 38,36831,Darrell,VREUGDENHIL,Havertown,PA,-1 lap,Morgan Stanley/Smith Barney/Mar
-39,404139,Dennis,DEROSA,Wallingford,PA,-1 lap,
+39,404139,Dennis,DEROSA,Chester,PA,-1 lap,
 40,71755,Mike,WILLIAMS,Wilmington,DE,-1 lap,First State Velo Sport
 41,443321,Jim,MUELLER,Pottstown,PA,-1 lap,Penn Ultimate
 42,68499,William,MARQUIS,Willow Grove,PA,-1 lap,Guy's Racing Club
-43,111892,Tom,PERKINS,South Plainfield,NJ,-1 lap,Evolution Racing
+43,111892,Tom,PERKINS,Annandale,NJ,-1 lap,Evolution Racing
 44,516924,Donald,MORRISON,Coatesville,PA,-1 lap,
 45,209567,George,WOOD,Voorhees,NJ,-1 lap,Summit / D & Q
 46,97960,Jerome,WEINER,Elkins Park,PA,-1 lap,Guys Racing Club
@@ -395,7 +395,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,518317,Marlon,HITCHON,Doylestown,PA,6:08,Deck Supply Company Inc.
 9,449143,John,JOSULEVICZ,Allentown,PA,6:24,
 10,484472,Bryson,EVANS,Philadelphia,PA,6:34,
-11,504757,Thomas,BYRNE,Boonton Township ,NJ,-1 lap,BYRNE International LLC
+11,504757,Thomas,BYRNE,Boonton Township,NJ,-1 lap,BYRNE International LLC
 12,541275,Mason,HITCHON,Doylestown,PA,-1 lap,Deck Supply Company Inc.
 13,0,Cooper,LIVINGOOD,,,-1 lap,
 14,0,Travis,HAGGERTY,,,-1 lap,Ten25Racing
@@ -403,7 +403,7 @@ Place,License #,First,Last,City,State,Time,Team
 09/10/2017 Cyclo-cross Men Juniors 9-18
 Place,License #,First,Last,City,State,Time,Team
 1,383935,Austin,BANKS,Mountain Top,PA,46:52:00,Young Medalists
-2,522530,Tommy,SHAPIRO,Snoqualmie,WA,2:42,RAD Racing
+2,522530,Tommy,SHAPIRO,Pittstown,NJ,2:42,RAD Racing
 3,441159,Matthew,SHEA,Annandale,NJ,1:52,V5 Cycles
 
 09/10/2017 Cyclo-cross Women Pro/Cat 1/2 Open
@@ -432,12 +432,12 @@ Place,License #,First,Last,City,State,Time,Team
 13,470166,Erin,GORDON,Philadelphia,PA,s.t.,QCW Cycling p.b. Breakawaybikes
 14,392930,Rosalind,PATTERSON,Philadelphia,PA,32,Laser Cats Feline All Stars
 15,518997,Laura,NORRIS,Baltimore,MD,9,Team BBC p/b Baltimore Bicycle
-16,443460,Gina,GRINSTEAD,Baltimore,MD,12,Team BBC p/b Baltimore Bicycle
+16,443460,Gina,GRINSTEAD,Philadelphia,PA,12,Team BBC p/b Baltimore Bicycle
 17,390782,Lauren,TWOMBLY,Mountainside,NJ,4,Colavita
 18,407649,Rosael,TORRES DAVIS,Brooklyn,NY,s.t.,King Kog Brooklyn
 19,517143,Brooke,MARTIN,Pottstown,PA,13,Sturdy Girl Cycling
 20,198336,Tamara,CABALU,Philadelphia,PA,12,
-21,307018,Maria,DZIEMBOWSKA,Swarthmore,PA,1,FEC
+21,307018,Maria,DZIEMBOWSKA,Wilmington,DE,1,FEC
 22,528417,Lianna,PACIFICO,Fair Lawn,NJ,18,FinKraft Cycling Team
 23,535884,Jessie,PARKER,Baltimore,MD,6,Team BBC p/b Baltimore Bicycle
 24,513885,Christina,WOOLSTON,Brooklyn,NY,1,Kissena
@@ -456,6 +456,38 @@ Place,License #,First,Last,City,State,Time,Team
 37,0,Peici,JARAMILLO,,,-1 lap,Bicycle Workshop
 38,539460,Linda,MCISAAC,Newtown Square,PA,-1 lap,
 DNS,309270,Victoria,BRUMFIELD,New York,NY,DNS,CRCA / Radical Media
+
+09/10/2017 Cyclo-cross Women Cat 5
+Place,License #,First,Last,City,State,Time,Team
+1,525591,Mikaela,MARTIN,Souderton,PA,,Sturdy Girl Cycling
+2,535884,Jessie,PARKER,Baltimore,MD,,Team BBC p/b Baltimore Bicycle
+3,513885,Christina,WOOLSTON,Brooklyn,NY,,Kissena
+4,539460,Linda,MCISAAC,Newtown Square,PA,,Unattached
+5,0,Lindsay,BETZ,,,,Guys Racing
+6,0,Peici,JARAMILLO,,,,Bicycle Workshop
+
+09/10/2017 Cyclo-cross Women Cat 4
+Place,License #,First,Last,City,State,Time,Team
+1,408541,Andrea,ARCHER,New York,NY,,Danny's Cycles
+2,522851,Morgan,STYER,Lambertville,NJ,,Foxy Moxy Racing
+3,480567,Chanel,ZEISEL,Brooklyn,NY,,King Kog
+4,470166,Erin,GORDON,Philadelphia,PA,,QCW Cycling p.b. Breakawaybikes
+5,390782,Lauren,TWOMBLY,Mountainside,NJ,,Colavita
+6,407649,Rosael,TORRES DAVIS,Brooklyn,NY,,King Kog Brooklyn
+7,517143,Brooke,MARTIN,Pottstown,PA,,Sturdy Girl Cycling
+8,307018,Maria,DZIEMBOWSKA,Wilmington,DE,,FEC
+9,528417,Lianna,PACIFICO,Fair Lawn,NJ,,FinKraft Cycling Team
+10,434868,Carla,CLIFFORD,Brooklyn,NY,,Houlihan Lokey
+11,423264,Lauren,BUECHNER,Philadelphia,PA,,QCW Cycling p.b. Breakawaybikes
+12,468138,Denise,MATHENY,Hockessin,DE,,Team FEC p/b Trek Bikes
+13,164760,Jennifer,RHODES,Glenside,PA,,Team Skyline
+14,484648,Jill,WHITE,Brooklyn,NY,,Velo Classic p/b Stan's NoTubes
+15,459970,Kelly,O'BRIEN,Chesterbrook,PA,,Team FEC p/b Trek Bikes
+16,432159,Melissa,PAQUETTE,Havertown,PA,,QCW Cycling p.b. breakawaybikes
+17,253880,Dee Anne,GAVLICK,Norristown,PA,,Sturdy Girl Cycling
+18,422291,Brittany,MCGLONE,Berlin,NJ,,Action Wheels Bicycle Shop
+19,212455,Nancy,HELLER,Philadelphia,PA,,Team Skyline
+20,477452,Krys,BLAKEMORE,Springfield,PA,,ThisTeamSavesLives
 
 09/10/2017 Cyclo-cross Women Juniors 15-18
 Place,License #,First,Last,City,State,Time,Team

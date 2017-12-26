@@ -27,7 +27,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,493150,jules,van kempen,Chapel Hill,NC,,Tri-cyclists
 6,497590,Devin,Jones,Mooresville,NC,,Live It Xtreme Sports Racing
 7,484704,sean,noonan,Charlotte,NC,,36th Street Racing
-8,525286,Peter,Van Susteren,Gainesville,FL,,Race City Cycling
+8,525286,Peter,Van Susteren,Davidson,NC,,Race City Cycling
 9,524473,Luke,Richards,Hilliard,OH,,
 10,393644,Curtis,Hoyt,Huntersville,NC,,Belmont Abbey College
 11,476462,Javier,Zamarripa,Cary,NC,,Jigawatt Cycling
@@ -46,12 +46,12 @@ Place,License #,First,Last,City,State,Time,Team
 24,529810,Zach,Morrow,Morganton,NC,,
 25,279711,Kurt,Holtzclaw,Ashland,OR,,
 DNS,361250,Martin,Jeff,Boone,NC,,
-DNP,207416,Gary,Calton,Lawrence,KS,,GP Velotek
+DNP,207416,Gary,Calton,Southern Pines,NC,,GP Velotek
 DNP,320208,Peter,Cassidy,Charlotte,NC,,Charlotte Cycling Consortium
 DNP,518752,Michael,Stavick,Asheville,NC,,N/A
 DNP,511841,Gabriel,Martin,Cary,NC,,Jigawatt Cycling
 DNP,423582,Jerry,Hochstedler,Fayetteville,NC,,
-DNP,338900,James,Brigman,Gastonia,NC,,South Main Cycles Racing
+DNP,338900,James,Brigman,Charlotte,NC,,South Main Cycles Racing
 
 04/09/2017 Criterium Men Men 1/2/3 00-99
 Place,License #,First,Last,City,State,Time,Team
@@ -72,7 +72,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,215681,Marcus,Canady,Raleigh,NC,,
 16,276816,Timothy,McCollum,Charlotte,NC,,Revolve Residential p/b Pre-Reg.com
 17,392529,Brian,Sciba,Tallahassee,FL,,Kelly Benefits Strategies Elite
-18,272071,Wheeler,Davis,Athens,GA,,Team Novo Nordisk Juniors
+18,272071,Wheeler,Davis,Raleigh,NC,,Team Novo Nordisk Juniors
 19,278167,Carlos,Norena,Greenville ,SC,,Stradalli Cycle/ Saffeti
 20,388411,Alex,Jerome,Pisgah Forest,NC,,Cyclus Sports
 21,0,Alisher,Vakobov,,,,
@@ -111,7 +111,7 @@ DNP,0,Francisco,Carratala Jorda,,,,
 DNP,460008,Tom,Rodarie,Charlotte,NC,,Cyclus Sports
 DNP,219861,Thomas,Savage,Charlotte,NC,,Slippery Sasquatch
 DNP,428048,Dallas,Handy,Wilkesboro,NC,,High Country
-DNP,309018,Keith,Mullaly,Belmont,NC,,
+DNP,309018,Keith,Mullaly,Wethersfield,CT,,
 DNP,367471,Nathaniel,Worcester,Belmont,NC,,Levine Law Group Elite Cycling Team
 DNP,407237,george,pompura,Pittsburgh,PA,,Cyclus Sports
 DNP,0,Rasmus,Ulstrup,,,,
@@ -192,17 +192,17 @@ Place,License #,First,Last,City,State,Time,Team
 6,393999,Brooks,Wienke,Greenville,SC,,Upstate Junior Cycling
 7,466101,Cody,Buford,Fort Mill,SC,,
 8,497590,Devin,Jones,Mooresville,NC,,Live It Xtreme Sports Racing
-9,525286,Peter,Van Susteren,Gainesville,FL,,Race City Cycling
+9,525286,Peter,Van Susteren,Davidson,NC,,Race City Cycling
 10,493150,jules,van kempen,Chapel Hill,NC,,Tri-cyclists
 11,476462,Javier,Zamarripa,Cary,NC,,Jigawatt Cycling
 12,0,Juan,Jose Munera,,,,
 13,513185,Blaise,Schaeffer,Durham,NC,,Constellation Cycling
 14,320208,Peter,Cassidy,Charlotte,NC,,Charlotte Cycling Consortium
-15,207416,Gary,Calton,Lawrence,KS,,GP Velotek
-16,431253,Gustavo,Marin,Clayton,NC,,Constellation Cycling
+15,207416,Gary,Calton,Southern Pines,NC,,GP Velotek
+16,431253,Gustavo,Marin,Asheville,NC,,Constellation Cycling
 17,333392,Tony,King,Loveland,OH,,Cyclehaus Racing
 18,448200,Will,Pfeiffer,Raleigh,NC,,None
-19,520504,James,Walsh,Farmer City,IL,,
+19,520504,James,Walsh,Raleigh,NC,,
 20,261787,Alexander,Fowler,Morganton,NC,,Cumberland Trail Connection Racing
 DNS,361250,Martin,Jeff,Boone,NC,,
 DNS,509303,Dylan,Crockett,Bristol,TN,,
@@ -226,7 +226,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,276816,Timothy,McCollum,Charlotte,NC,,Revolve Residential p/b Pre-Reg.com
 11,253478,Keith,Gerarden,Chapel Hill,NC,,Happy Tooth Racing
 12,419926,Caleb,Smith,Marion,NC,,Boone Area Cyclists
-13,168449,Lang,Reynolds,Boulder,CO,,Revolve Residential
+13,168449,Lang,Reynolds,Charlotte,NC,,Revolve Residential
 14,0,Erich,Lima,,,,High Country
 15,175041,Rich,Harper,Raleigh,NC,,Kens Bike Shop
 16,354786,Dylan,Lawson,Fayetteville,NC,,Cyclus Sports
@@ -251,7 +251,7 @@ Place,License #,First,Last,City,State,Time,Team
 35,0,Rasmus,Ulstrup,,,,
 36,268347,Spencer,Lowden,Brevard,NC,,Cyclus Sports
 37,258844,Aaron,Cruikshank,Akron,OH,,Cyclus Sports
-38,272071,Wheeler,Davis,Athens,GA,,Team Novo Nordisk Juniors
+38,272071,Wheeler,Davis,Raleigh,NC,,Team Novo Nordisk Juniors
 39,310312,Eric,Serantoni,Charlotte,NC,,Nine Lives Carbon Repair
 40,0,Alisher,Vakobov,,,,
 DNP,311717,Hugo,Schreur,Chapel Hill,NC,,Dornier Racing
@@ -282,7 +282,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,49061,Darren,Fuller,Cornelius,NC,,Trappe Door Elite Masters Cycling Team
 8,48697,Ted,Hopkins,Wake Forest,NC,,Team Spoke Cycles
 9,18719,Stephen,Kefer,Kernersville,NC,,E3 Endurance
-10,197646,Tim,Borsetti,Hendersonville,NC,,Cycles 54
+10,197646,Tim,Borsetti,Central,SC,,Cycles 54
 11,329162,Guenter,Heyen,Mount Gilead,NC,,Unilin MDF racing team
 12,186828,Greg,Morgan,Simpsonville,SC,,Spinx Bike Race Team
 13,289643,William,Marcheck,Durham,NC,,Triangle Velo
@@ -316,7 +316,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,375033,Ziyu,Jin,Cary,NC,,Jigawatt Cycling
 18,55442,Robert,Thomas,Fort Mill,SC,,Team Rize
 19,18719,Stephen,Kefer,Kernersville,NC,,E3 Endurance
-20,197646,Tim,Borsetti,Hendersonville,NC,,Cycles 54
+20,197646,Tim,Borsetti,Central,SC,,Cycles 54
 21,329162,Guenter,Heyen,Mount Gilead,NC,,Unilin MDF racing team
 22,186828,Greg,Morgan,Simpsonville,SC,,Spinx Bike Race Team
 23,289643,William,Marcheck,Durham,NC,,Triangle Velo
@@ -357,7 +357,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,524227,Jason,Arne,Durham,NC,,Duke University
 3,525285,Steffen,Erickson,Henrico,VA,,Virginia Polytechnic University
 4,525509,Samuel,Blackmon,Fair Oaks Ranch,TX,,Liberty University
-5,525569,Tyler,Figgins,Crystal Lake,IL,,Liberty University
+5,525569,Tyler,Figgins,Lynchburg,VA,,Liberty University
 6,524923,Aaron,Dunn,Annapolis,MD,,US Naval Academy
 7,524769,Grant,Edwards,Boone,NC,,Appalachian State University
 8,526558,Joel,Schneider,Winston Salem,NC,,US Naval Academy
@@ -365,7 +365,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,524940,Wyatt,Kartvedt,Annapolis,MD,,US Naval Academy
 11,393644,Curtis,Hoyt,Huntersville,NC,,Belmont Abbey College
 12,524983,Andrew,Payne,Annapolis,MD,,US Naval Academy
-13,486748,Matthew,Jones,South Dartmouth,MA,,Appalachian State University
+13,486748,Matthew,Jones,Boone,NC,,Appalachian State University
 14,441143,Connor,Stark,Waxhaw,NC,,Lees-McRae College
 15,480876,David,Burstein,Kernersville,NC,,Appalachian State University
 16,469280,Matthew,Nuar,Blacksburg,VA,,Virginia Polytechnic University
@@ -396,11 +396,11 @@ Place,License #,First,Last,City,State,Time,Team
 1,400214,Evan,Christenson,El Cajon,CA,,Lees-McRae College
 2,312130,Trey,Hedgecock,Ankeny,IA,,Belmont Abbey College
 3,441096,Thomas,Humphreys,Chevy Chase,MD,,University of Maryland-College Park
-4,353190,Alan,Edwards,Jacksonville,FL,,King University
+4,353190,Alan,Edwards,Johnson City,TN,,King University
 5,324900,david,duquette,Gastonia,NC,,Milligan College
 6,427611,Samuel,Wentworth,Sugarcreek,OH,,Milligan College
 7,423626,Nolan,VanderZwaag,Holland,MI,,Lees-McRae College
-8,387921,Alec,Hoover,Kingston ,NY,,Lees-McRae College
+8,387921,Alec,Hoover,Ripon,WI,,Lees-McRae College
 9,423932,Brian,Hardy,Longmont,CO,,US Naval Academy
 10,458277,Jacob,Jones,Barrigada,GU,,Lees-McRae College
 11,288002,Byron,Rice,Durham,NC,,Appalachian State University
@@ -413,7 +413,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,366015,Marcel,Gutierrez,Clemmons,NC,,Appalachian State University
 19,460162,Hoel,Wiesner,Rensselaer,NY,,Duke University
 20,429496,Alex,Mahlandt,Frederick,MD,,University of Maryland-College Park
-21,309018,Keith,Mullaly,Belmont,NC,,Belmont Abbey College
+21,309018,Keith,Mullaly,Wethersfield,CT,,Belmont Abbey College
 22,367471,Nathaniel,Worcester,Belmont,NC,,Belmont Abbey College
 23,367087,Jack,Perry,Banner Elk,NC,,Lees-McRae College
 24,424188,Adam,Pressel,Narberth,PA,,US Naval Academy
@@ -422,7 +422,7 @@ Place,License #,First,Last,City,State,Time,Team
 28,497800,Logan,Everts,Annapolis,MD,,US Naval Academy
 29,442975,Matt,Sloyer,Raleigh,NC,,Appalachian State University
 30,281816,Dylan,Knutson,Advance,NC,,Wake Forest University
-31,352088,Zach,Lyons,Morgantown,WV,,West Virginia University
+31,352088,Zach,Lyons,South Willamsport,PA,,West Virginia University
 
 04/07/2017 Criterium Women CAT C Collegiate
 Place,License #,First,Last,City,State,Time,Team
@@ -474,10 +474,10 @@ Place,License #,First,Last,City,State,Time,Team
 6,524769,Grant,Edwards,Boone,NC,,Appalachian State University
 7,524912,Garrett,Benning,Sylmar,CA,,US Naval Academy
 8,525507,Travis,Fehr,Lynchburg,VA,,Liberty University
-9,525569,Tyler,Figgins,Crystal Lake,IL,,Liberty University
+9,525569,Tyler,Figgins,Lynchburg,VA,,Liberty University
 10,525249,Darius,Jonasch,Durham,NC,,Duke University
 11,526558,Joel,Schneider,Winston Salem,NC,,US Naval Academy
-12,500628,jake,grimes,Matthews,NC,,Lees-McRae College
+12,500628,jake,grimes,Banner Elk,NC,,Lees-McRae College
 13,525509,Samuel,Blackmon,Fair Oaks Ranch,TX,,Liberty University
 14,441143,Connor,Stark,Waxhaw,NC,,Lees-McRae College
 15,525578,Todd,Yoder,Lynchburg,VA,,Liberty University
@@ -505,12 +505,12 @@ Place,License #,First,Last,City,State,Time,Team
 
 04/07/2017 Road Race Men CAT A Collegiate
 Place,License #,First,Last,City,State,Time,Team
-1,387921,Alec,Hoover,Kingston ,NY,,Lees-McRae College
+1,387921,Alec,Hoover,Ripon,WI,,Lees-McRae College
 2,400214,Evan,Christenson,El Cajon,CA,,Lees-McRae College
 3,458277,Jacob,Jones,Barrigada,GU,,Lees-McRae College
 4,423626,Nolan,VanderZwaag,Holland,MI,,Lees-McRae College
 5,423932,Brian,Hardy,Longmont,CO,,US Naval Academy
-6,309018,Keith,Mullaly,Belmont,NC,,Belmont Abbey College
+6,309018,Keith,Mullaly,Wethersfield,CT,,Belmont Abbey College
 7,429496,Alex,Mahlandt,Frederick,MD,,University of Maryland-College Park
 8,324476,Luis,Leme,Mc Lean,VA,,Virginia Polytechnic University
 9,498282,Eric,Sasse,Los Angeles,CA,,Johns Hopkins University
@@ -586,7 +586,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,502957,charles,mantooth,Boone,NC,27:29.8,Boone Area Cyclist Racing
 15,518752,Michael,Stavick,Asheville,NC,32:10.0,N/A
 16,423582,Jerry,Hochstedler,Fayetteville,NC,32:44.9,
-DNP,207416,Gary,Calton,Lawrence,KS,,GP Velotek
+DNP,207416,Gary,Calton,Southern Pines,NC,,GP Velotek
 DNP,393644,Curtis,Hoyt,Huntersville,NC,,Belmont Abbey College
 
 04/07/2017 Time Trial Men Men 1/2/3 00-99

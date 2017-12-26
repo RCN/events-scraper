@@ -4,7 +4,7 @@ Upstate Cycling Classic in Central SC Results
 Place,License #,First,Last,City,State,Time,Team
 1,425551,Dylan,Cantrell,Mount Airy,GA,0:53:31,Piedmont College
 2,43378,Patrick,Raines,Cary,NC,0:53:32,UCI CT: Team SmartStop p/b Mountain Khakis
-3,383915,Tom,Salvesen,Charleston,SC,0:53:32,
+3,383915,Tom,Salvesen,Lakewood,CO,0:53:32,
 4,191703,Thomas,Brown,Athens,GA,0:53:52,
 5,342206,Ryan,Joyce,Charlotte,NC,0:53:52,
 6,175041,Rich,Harper,Raleigh,NC,0:53:58,Hearts Racing Club
@@ -28,7 +28,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,516065,Phillip,Christmas,Columbia,KY,0:29:34,
 5,524279,Aaron,Denning,Fayetteville,GA,0:29:34,
 6,524183,Benjamin,Coomes,Spartanburg,SC,0:29:42,
-7,482633,Billy,Barnes,Johnson City,TN,0:00:02,King University
+7,482633,Billy,Barnes,Gray,TN,0:00:02,King University
 8,526317,Nick,Senador,Cornelia,GA,0:00:00,
 9,522735,Michael,Tibbs,Summerville,SC,0:10:13,
 10,523997,Reid,Haigler,Mount Pleasant,SC,0:00:00,
@@ -44,7 +44,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,516679,Joseph,Werble,Barnesville,MD,0:29:32,
 8,516853,Perry,Bunn,Auburn,AL,0:29:32,
 9,524938,Brady,Whicker,Auburn,AL,0:29:32,Auburn University
-10,497150,David Michael,Sweet,Wedowee,AL,0:29:32,Auburn University
+10,497150,David Michael,Sweet,Palo Alto,CA,0:29:32,Auburn University
 11,492730,Benjamin,Engwall,Saint Petersburg,FL,0:29:32,
 12,524062,Jacob,Varner,Auburn,AL,0:29:34,
 13,516422,Andrew,Swindle,Auburn,AL,0:29:35,
@@ -53,7 +53,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,524176,Matthew,Bartholomew,Savannah,GA,0:16:45,
 17,497914,Jesse,Hu,Athens,GA,0:00:04,UGA Cycling
 18,448413,Addison,Coyman,Oviedo,FL,0:00:00,
-19,418986,Neal,Yates,Atlanta,GA,0:00:03,Furman University
+19,418986,Neal,Yates,Greenville,SC,0:00:03,Furman University
 20,441143,Connor,Stark,Waxhaw,NC,0:00:00,
 21,524062,Jacob,Varner,Auburn,AL,0:00:00,
 DNF,497402,Ryan,Becwar,Clemson,SC,0:07:00,
@@ -69,10 +69,10 @@ Place,License #,First,Last,City,State,Time,Team
 7,265410,Stephen,Spiller,Flemington,NJ,0:42:50,Montclair Bikery Racing
 8,494857,Christian,Acker,Clemson,SC,0:42:50,Clemson University
 9,347008,Reuben,Dupre,Mobile,AL,0:42:50,
-10,503564,Dillon,Hickey,Pleasantville,NY,0:42:50,
+10,547018,Dillon,Hickey,Pleasantville,NY,0:42:50,
 11,428309,Leo,Kirkpatrick Baird,Bernardsville,NJ,0:42:51,KMS Cycling-Killington Mountain School
 12,425861,Mark,Gomez,Birmingham,AL,0:42:56,
-13,496992,Robert,Lyew,Snellville,GA,0:42:59,
+13,496992,Robert,Lyew,Hartsville,SC,0:42:59,
 14,486343,Andrew,Brookins,Columbus,GA,0:42:59,
 15,330500,Jonas,Wood,Nashville,TN,0:42:59,Frazier Cycling Juniors
 16,308241,Jason,McArthur,Tallahassee,FL,0:43:04,Florida State University
@@ -92,18 +92,18 @@ Place,License #,First,Last,City,State,Time,Team
 1,425551,Dylan,Cantrell,Mount Airy,GA,1:02:22,
 2,178109,Andrew,Scarano,Athens,GA,1:02:22,
 3,385573,Fausto,Crapiz,Dandridge,TN,1:02:23,
-4,504799,Peter,Foerster,,,1:02:35,
+4,504799,Peter,Foerster,Atlanta,GA,1:02:35,
 5,276390,J. Colton,Brookshire,Hendersonville,NC,1:02:35,
 6,255729,Charlie,Hough,Travelers Rest,SC,1:02:36,
-7,353190,Alan,Edwards,Jacksonville,FL,1:02:36,
-8,308175,Wilman,Vargas,Atlanta ,GA,1:02:36,
-9,387921,Alec,Hoover,Kingston ,NY,1:02:36,
+7,353190,Alan,Edwards,Johnson City,TN,1:02:36,
+8,308175,Wilman,Vargas,Atlanta,GA,1:02:36,
+9,387921,Alec,Hoover,Ripon,WI,1:02:36,
 10,408355,Luke,Caldwell,Birmingham,AL,1:02:36,
 11,207381,Artur,Sagat,Roswell,GA,1:02:37,
 12,457120,Zachary,Lee,Anniston,AL,1:02:37,
 13,423626,Nolan,VanderZwaag,Holland,MI,1:02:37,
 14,454615,Ryan,Hopkins,Brandenburg,KY,1:02:37,
-15,424802,Lucas,Kalbfell,Crown Point,IN,1:02:37,
+15,424802,Lucas,Kalbfell,Bloomington,IN,1:02:37,
 16,516674,Paul,Wright,Hawea Flat,OT,1:02:38,
 17,424342,Ben,Rothschild,Atlanta,GA,1:02:38,
 18,390751,Kyle,Ellis,Cumming,GA,1:02:38,
@@ -140,7 +140,7 @@ Place,License #,First,Last,City,State,Time,Team
 03/04/2017 Criterium Men Cat 4-5
 Place,License #,First,Last,City,State,Time,Team
 1,495163,Will,Jessup,Orlando,FL,0:30:01,Team Kyles Bike Shop
-2,217539,Nathan,Harris,Frisco,CO,0:30:02,
+2,217539,Nathan,Harris,Spring,TX,0:30:02,
 3,471761,Sean,Huson,Hendersonville,NC,0:30:03,Crosstown Velo
 4,495796,thomas,pierczynski,Greenville,SC,0:30:03,Cycle Haus Racing
 5,425169,Kim,Cantrell,Mount Airy,GA,0:30:03,
@@ -161,7 +161,7 @@ DNF,114198,Joe,Hathcock,Matthews,NC,0:30:38,
 03/04/2017 Criterium Men Cat 3
 Place,License #,First,Last,City,State,Time,Team
 1,442975,Matt,Sloyer,Raleigh,NC,0:54:31,Monster Media Elite Development
-2,272071,Henry,Davis,Athens,GA,0:54:33,Team Novo Nordisk Juniors
+2,272071,Henry,Davis,Raleigh,NC,0:54:33,Team Novo Nordisk Juniors
 3,498547,Lawrence,Monks,Dadeville,AL,0:55:00,AlaCOMP Race Team
 DNF,459904,Zack,Carlton,Watkinsville,GA,0:16:25,UGA Cycling
 DNF,442929,Collin,Tellechea,Medford,NJ,0:18:25,Amoroso's Racing Team
@@ -208,9 +208,9 @@ Place,License #,First,Last,City,State,Time,Team
 6,477048,Abby,Hobbs,Athens,GA,0:28:41,
 7,408916,Madeline,Smith,Colton,NY,0:28:41,KMS Cycling-Killington Mountain School
 8,525056,Sarah,Carrico,Daphne,AL,0:28:50,
-9,497036,Elizabeth,Keefer,Jacksonville,AL,0:28:52,
-10,519139,Sophie,Allen,Asheville,NO,0:28:52,
-11,496968,Ellen,Ray,Atlanta,GA,0:28:53,
+9,497036,Elizabeth,Keefer,Auburn,AL,0:28:52,
+10,519139,Sophie,Allen,Asheville,NC,0:28:52,
+11,496968,Ellen,Ray,Austin,TX,0:28:53,
 12,524655,Hayley,Guy,Tallahassee,FL,0:30:04,
 13,522154,Leah,Silverman,Brattleboro,VT,0:00:00,
 14,525192,Daniela,Flores Arias,Atlanta,GA,0:00:00,
@@ -227,7 +227,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,311541,Hannah,Swan,Alpine,CA,0:42:49,Cycle Haus Racing
 4,288099,Stephanie,Nave,Johnson City,TN,0:42:49,OrthoCarolina Winston Women’s Cycling
 5,326470,Hannah,Arensman,Rutherford College,NC,0:42:49,TWENTY20 Pro Cycling
-6,358569,Janelle,Cole,Rockford,MI,0:42:49,UCI WPT: UnitedHealthcare Pro Cycling
+6,358569,Janelle,Cole,Newaygo,MI,0:42:49,UCI WPT: UnitedHealthcare Pro Cycling
 7,383001,Victoria,Kanizer,Owasso,OK,0:41:01,OrthoCarolina Winston Women’s Cycling
 8,319270,Rachel,Swan,Alpine,CA,0:41:01,Strive Racing
 9,323042,Morgan,Miller,Charleston,TN,0:41:01,CTH Performance Project
@@ -246,8 +246,8 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,346994,Thomas,Gibbons,Linwood,NJ,2:39:46,
 2,175041,Rich,Harper,Raleigh,NC,2:40:41,Hearts Racing Club
-3,168449,Lang,Reynolds,Boulder,CO,2:40:46,Revolve Residential p/b Pre-Reg.com
-4,383915,Tom,Salvesen,Charleston,SC,2:40:49,
+3,168449,Lang,Reynolds,Charlotte,NC,2:40:46,Revolve Residential p/b Pre-Reg.com
+4,383915,Tom,Salvesen,Lakewood,CO,2:40:49,
 5,272130,Bryan,Hoy,Hendersonville,NC,2:41:30,
 6,191703,Thomas,Brown,Athens,GA,2:42:30,
 7,258301,Kirk,Bjorling,Asheville,NC,2:43:54,Velosports Racing
@@ -276,9 +276,9 @@ Place,License #,First,Last,City,State,Time,Team
 6,524183,Benjamin,Coomes,Spartanburg,SC,1:20:21,
 7,343260,Erik,Wendt,Lexington,SC,1:20:22,
 8,524937,Tanner,Batson,Clarkesville,GA,1:24:03,
-9,482633,Billy,Barnes,Johnson City,TN,1:24:21,King University
+9,482633,Billy,Barnes,Gray,TN,1:24:21,King University
 10,526317,Nick,Senador,Cornelia,GA,1:34:25,
-11,524357,Reed,Bender,Clemson,SC,1:38:55,
+11,524357,Reed,Bender,Richardson,TX,1:38:55,
 12,523997,Reid,Haigler,Mount Pleasant,SC,1:46:25,
 
 03/04/2017 Road Race Men Collegiate C
@@ -291,7 +291,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,467462,Clay,Wilderman,Acworth,GA,1:11:21,
 7,492730,Benjamin,Engwall,Saint Petersburg,FL,1:11:22,
 8,493503,Michael,Pajewski,Charlottesville,VA,1:11:24,Clemson University
-9,497150,David Michael,Sweet,Wedowee,AL,1:11:25,Auburn University
+9,497150,David Michael,Sweet,Palo Alto,CA,1:11:25,Auburn University
 10,410987,Matthew,Owen,Brevard,NC,1:11:25,Transylvania County Schools
 11,496630,Claybourn,Milner,Mableton,GA,1:11:27,
 12,516679,Joseph,Werble,Barnesville,MD,1:15:53,
@@ -313,11 +313,11 @@ Place,License #,First,Last,City,State,Time,Team
 6,466013,Hayden,Cox,Johns Creek,GA,1:44:04,
 7,425861,Mark,Gomez,Birmingham,AL,1:44:05,
 8,394613,Brent,Beadles,Greer,SC,1:44:40,Clemson University
-9,503564,Dillon,Hickey,Pleasantville,NY,1:44:58,
+9,547018,Dillon,Hickey,Pleasantville,NY,1:44:58,
 10,330500,Jonas,Wood,Nashville,TN,1:45:00,Frazier Cycling Juniors
-11,412146,Eric,Hubbs,Piney Flats,TN,1:45:01,King University
+11,412146,Eric,Hubbs,Bristol,TN,1:45:01,King University
 12,496365,Joe,Whalley,Johns Creek,GA,1:45:01,
-13,496992,Robert,Lyew,Snellville,GA,1:45:01,
+13,496992,Robert,Lyew,Hartsville,SC,1:45:01,
 14,449021,Hunter,Brown,Bullard,TX,1:45:05,
 15,525291,Mark,Burnley,Orlando,FL,1:45:06,University of Central Florida
 16,371577,Trever,Kingsbury,Petoskey,MI,1:45:24,Brevard College
@@ -338,21 +338,21 @@ DNF,501128,Robert,Swift,Tampa,FL,0:00:02,
 
 03/04/2017 Road Race Men Collegiate A
 Place,License #,First,Last,City,State,Time,Team
-1,504799,Peter,Foerster,,,2:52:04,
+1,504799,Peter,Foerster,Atlanta,GA,2:52:04,
 2,392529,Brian,Sciba,Tallahassee,FL,2:52:06,Kelly Benefit Strategies Elite
 3,400214,Evan,Christenson,El Cajon,CA,2:52:07,La Grange Development U21
 4,423626,Nolan,VanderZwaag,Holland,MI,2:52:08,Team Velo City
 5,178109,Andrew,Scarano,Athens,GA,2:52:09,Stradalli Cycle/Safetti
-6,387921,Alec,Hoover,Kingston ,NY,2:52:14,BikeReg Elite Racing
+6,387921,Alec,Hoover,Ripon,WI,2:52:14,BikeReg Elite Racing
 7,385573,Fausto,Crapiz,Dandridge,TN,2:52:59,Village VW Chattanooga Cycling Team
 8,255729,Charlie,Hough,Travelers Rest,SC,2:53:00,Furman University
 9,425551,Dylan,Cantrell,Mount Airy,GA,2:53:55,Piedmont College
 10,460158,Jacob,Payne,Atlanta,GA,2:56:27,
-11,308175,Wilman,Vargas,Atlanta ,GA,2:56:27,Snyder Factory Racing
+11,308175,Wilman,Vargas,Atlanta,GA,2:56:27,Snyder Factory Racing
 12,408355,Luke,Caldwell,Birmingham,AL,2:56:28,SH!FT Racing p/b St. Vincent's Orthopedics
 13,424342,Ben,Rothschild,Atlanta,GA,2:56:28,
 14,207381,Artur,Sagat,Roswell,GA,2:56:28,Pioneer Mortgage pb Yourkey.com
-15,424802,Lucas,Kalbfell,Crown Point,IN,2:56:28,
+15,424802,Lucas,Kalbfell,Bloomington,IN,2:56:28,
 16,428099,Thomas,Morrison,Cartersville,GA,2:56:28,North Georgia Cycling Association Inc.
 17,367087,Jack,Perry,Banner Elk,NC,2:56:29,
 18,466239,Wesley,Crane,Atlanta,GA,2:56:29,
@@ -361,7 +361,7 @@ Place,License #,First,Last,City,State,Time,Team
 21,457146,Erich,Mesquita Lima,Mars Hill,NC,2:56:32,HC Devo p/b Monster Media Racing
 22,457120,Zachary,Lee,Anniston,AL,2:56:32,Mellow Mushroom Racing
 23,460158,Jacob,Payne,Atlanta,GA,2:56:34,
-24,353190,Alan,Edwards,Jacksonville,FL,2:56:36,VeloBrew Cycling Club
+24,353190,Alan,Edwards,Johnson City,TN,2:56:36,VeloBrew Cycling Club
 25,235572,Nathaniel,Morse,Cohasset,MA,2:56:38,
 26,516674,Paul,Wright,Hawea Flat,OT,2:56:40,
 27,442975,Matt,Sloyer,Raleigh,NC,2:56:41,Monster Media Elite Development
@@ -398,7 +398,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,524946,Yannick,Fischbach,Townsville,SC,1:12:46,
 9,525362,Gary,Swingle,Taylors,SC,0:00:03,
 10,380991,Roy,Jones,Greenville,SC,1:12:53,RTO National Cycling
-11,217539,Nathan,Harris,Frisco,CO,1:13:03,
+11,217539,Nathan,Harris,Spring,TX,1:13:03,
 12,497747,Luca,Gioia,Greenville,SC,1:14:25,
 13,478076,Sammy,Clary,Easley,SC,1:14:26,
 14,442694,Mike,Hopkins,Brandenburg,KY,1:14:35,US Military Endurance Sports
@@ -418,13 +418,13 @@ Place,License #,First,Last,City,State,Time,Team
 2,498547,Lawrence,Monks,Dadeville,AL,2:43:58,AlaCOMP Race Team
 3,388411,Alex,Jerome,Pisgah Forest,NC,2:44:05,
 4,433683,Thomas,Torbik,Vernon Hills,IL,2:51:31,ABD Cycling Team
-5,272071,Henry,Davis,Athens,GA,2:54:49,Team Novo Nordisk Juniors
+5,272071,Henry,Davis,Raleigh,NC,2:54:49,Team Novo Nordisk Juniors
 DNF,442929,Collin,Tellechea,Medford,NJ,0:34:59,Amoroso's Racing Team
 DNF,268347,Spencer,Lowden,Brevard,NC,2:32:49,Cyclus Sports
 
 03/04/2017 Road Race Men Master 35+
 Place,License #,First,Last,City,State,Time,Team
-1,45167,James,Carney,Demorest ,GA,1:44:28,Piedmont Cycling
+1,45167,James,Carney,Demorest,GA,1:44:28,Piedmont Cycling
 2,311472,Gregory,Thompson,Harrisburg,NC,1:44:41,
 3,385645,Matthew,Spargo,Belmont,NC,1:44:54,Carolina Cycling Team
 4,114198,Joe,Hathcock,Matthews,NC,1:44:57,
@@ -459,15 +459,15 @@ Place,License #,First,Last,City,State,Time,Team
 3,331614,Erin,Sferrazza,North Easton,MA,1:26:17,Lees-McRae College
 4,466276,Kathryn,Maeder,Powder Springs,GA,1:26:47,
 5,408916,Madeline,Smith,Colton,NY,1:28:50,KMS Cycling-Killington Mountain School
-6,496968,Ellen,Ray,Atlanta,GA,1:28:51,
+6,496968,Ellen,Ray,Austin,TX,1:28:51,
 7,381641,Aliza,Tobias,Blandon,PA,1:29:55,KMS Cycling-Killington Mountain School
-8,497036,Elizabeth,Keefer,Jacksonville,AL,1:30:50,
+8,497036,Elizabeth,Keefer,Auburn,AL,1:30:50,
 9,524655,Hayley,Guy,Tallahassee,FL,1:35:41,
 10,522154,Leah,Silverman,Brattleboro,VT,1:37:26,
 11,525192,Daniela,Flores Arias,Atlanta,GA,1:38:00,
 12,525056,Sarah,Carrico,Daphne,AL,1:39:00,
 13,526751,Sarah,Rhoades,Asheville,NC,1:40:15,
-14,519139,Sophie,Allen,Asheville,NO,1:40:46,
+14,519139,Sophie,Allen,Asheville,NC,1:40:46,
 15,526756,Alex,Perri,Brevard,NC,1:42:06,
 16,526851,Mackenzie,George,Massena,NY,2:12:16,
 DNF,477048,Abby,Hobbs,Athens,GA,0:01:08,
@@ -478,7 +478,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,174914,Erica,Allar,Demorest,GA,2:44:07,UCI WPT: Rally Cycling
 2,288099,Stephanie,Nave,Johnson City,TN,2:44:08,OrthoCarolina Winston Women’s Cycling
 3,517696,Helen,Mitchell,Milligan College,TN,2:44:08,
-4,358569,Janelle,Cole,Rockford,MI,2:44:09,UCI WPT: UnitedHealthcare Pro Cycling
+4,358569,Janelle,Cole,Newaygo,MI,2:44:09,UCI WPT: UnitedHealthcare Pro Cycling
 5,311541,Hannah,Swan,Alpine,CA,2:44:09,Cycle Haus Racing
 6,290669,Zoe,Mullins,Winter Garden,FL,2:44:10,OrthoCarolina Winston Women’s Cycling
 7,525150,Gloria Perrin,Clavijo,Dacula,GA,2:44:13,
@@ -524,7 +524,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,492730,Benjamin,Engwall,Saint Petersburg,FL,0:10:33,
 6,524938,Brady,Whicker,Auburn,AL,0:10:33,Auburn University
 7,467462,Clay,Wilderman,Acworth,GA,0:11:06,
-8,497150,David Michael,Sweet,Wedowee,AL,0:11:07,Auburn University
+8,497150,David Michael,Sweet,Palo Alto,CA,0:11:07,Auburn University
 9,343260,Erik,Wendt,Lexington,SC,0:11:45,
 
 03/04/2017 Time Trial Men Collegiate B
@@ -532,7 +532,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,494857,Christian,Acker,Clemson,SC,0:09:33,Clemson University
 2,428309,Leo,Kirkpatrick Baird,Bernardsville,NJ,0:09:50,KMS Cycling-Killington Mountain School
 3,459904,Zack,Carlton,Watkinsville,GA,0:10:03,UGA Cycling
-4,503564,Dillon,Hickey,Pleasantville,NY,0:10:12,
+4,547018,Dillon,Hickey,Pleasantville,NY,0:10:12,
 5,484523,William,Hardin,Winston Salem,NC,0:10:15,Hearts Racing Club
 6,425391,Padraic,Elliott,Tallahassee,FL,0:11:05,Florida State University
 7,465866,Christopher,Sacco,Rock Hill,SC,0:11:46,
@@ -541,8 +541,8 @@ Place,License #,First,Last,City,State,Time,Team
 03/04/2017 Time Trial Men Collegiate A
 Place,License #,First,Last,City,State,Time,Team
 1,178109,Andrew,Scarano,Athens,GA,0:08:37,Stradalli Cycle/Safetti
-2,504799,Peter,Foerster,,,0:08:55,
-3,308175,Wilman,Vargas,Atlanta ,GA,0:08:59,Snyder Factory Racing
+2,504799,Peter,Foerster,Atlanta,GA,0:08:55,
+3,308175,Wilman,Vargas,Atlanta,GA,0:08:59,Snyder Factory Racing
 4,207381,Artur,Sagat,Roswell,GA,0:09:05,Pioneer Mortgage pb Yourkey.com
 5,428099,Thomas,Morrison,Cartersville,GA,0:09:53,North Georgia Cycling Association Inc.
 6,424393,Spencer,Crowe,Greer,SC,0:10:00,C360R Cycling Team
@@ -567,7 +567,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 03/04/2017 Time Trial Men Master 50+
 Place,License #,First,Last,City,State,Time,Team
-1,272071,Henry,Davis,Athens,GA,0:11:17,Team Novo Nordisk Juniors
+1,272071,Henry,Davis,Raleigh,NC,0:11:17,Team Novo Nordisk Juniors
 1,390480,Michael,Grigat,Fort Mill,SC,0:10:12,Carolina Cycling Team
 2,159250,Todd,Davis,Raleigh,NC,0:10:39,KCOI Boulevard
 3,375637,Dana,Ravenberg,Cheshire,CT,0:11:12,Cheshire Cycle Racing

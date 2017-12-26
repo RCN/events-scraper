@@ -8,7 +8,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,513087,Florenz,KNAUER,Pompano,FL,1:16:07,
 5,331782,Tony,BACA,Austin,TX,1:16:07,Elbowz Racing
 6,193035,Brandon,FEEHERY,Knoxville,TN,1:16:07,Crit Life
-7,342402,Kevin,GIRKINS,Austin,TX,1:16:07,Elbowz Racing
+7,342402,Kevin,GIRKINS,San Marcos,TX,1:16:07,Elbowz Racing
 8,188572,Andrew,DAHLHEIM,Greenville,SC,1:16:07,Arapahoe Resources
 9,529350,Russell,GILL,,,1:16:08,
 10,502695,Scott,LAW,,,1:16:08,
@@ -45,7 +45,7 @@ Place,License #,First,Last,City,State,Time,Team
 41,529695,Brian,BABILONIA,Garland,TX,1:16:21,
 42,201623,Michael,LALLA,Minneapolis,MN,1:16:21,Bicycles Plus Racing
 43,420701,Vitor,ZUCCO SCHIZZI,Irving,TX,1:16:21,
-44,272809,Ricky,RANDALL,Highland Village ,TX,1:16:21,Arapahoe Resources
+44,272809,Ricky,RANDALL,Highland Village,TX,1:16:21,Arapahoe Resources
 45,360809,Tyler,CLOUTIER,Dallas,TX,1:16:21,Matrix Cycling Club
 46,205741,Stefan,ROTHE,Austin,TX,1:16:22,Elbowz Racing
 47,337206,Sawyer,CURRIE,Edmond,OK,1:16:22,
@@ -64,7 +64,7 @@ Place,License #,First,Last,City,State,Time,Team
 60,510495,Jose Alfredo,RODRIGUEZ VICTORIA,,,1:18:22,
 61,286608,Eamon,FRANCK,Pacific Grove,CA,1:18:22,Crit Life
 62,278173,Kent,WOERMANN,Lees Summit,MO,1:18:22,Olathe Subaru Trek Racing
-63,374617,Chad,CONLEY,Cartersville,GA,1:18:22,Pharmaco-DeepSouth p/b NGCA
+63,374617,Chad,CONLEY,Atlanta,GA,1:18:22,Pharmaco-DeepSouth p/b NGCA
 DNF,333154,Skyler,MACKEY,Tulsa,OK,,Transitions Lifecare P/B Insync
 DNF,229280,Jordan,CULLEN,Hudson,WI,,Elbowz Racing
 DNF,366682,Scott,WILLIAMSON,Lawrence ,KS,,Olathe Subaru Trek Racing
@@ -82,8 +82,8 @@ Place,License #,First,Last,City,State,Time,Team
 
 06/04/2017 Criterium Men Cat 4/5 Junior 9-14
 Place,License #,First,Last,City,State,Time,Team
-1,414448,Michael,WATKINS,Harrah,OK,27:15,Oklahoma City Velo Club
-2,388289,Tayton,PARKER,Jenks,OK,27:16,Air Assurance Devo P/B Spoke Ho
+1,414448,Michael,WATKINS,Choctaw,OK,27:15,Oklahoma City Velo Club
+2,388289,Tayton,PARKER,Tulsa,OK,27:16,Air Assurance Devo P/B Spoke Ho
 3,509431,Orion,CHILD,Ashland,MO,27:16,Velo Childeric
 4,392298,Nicholas,GOMES,Florissant,MO,28:29,Quantum Solutions Intelligentsi
 5,448616,Ryan,DRUMMOND,Oklahoma City,OK,28:03,Oklahoma City Velo Club
@@ -200,7 +200,7 @@ DNF,509503,Rene,HERNANDEZ,Yukon,OK,,Schlegel Racing
 
 06/04/2017 Criterium Men Cat 4
 Place,License #,First,Last,City,State,Time,Team
-1,494178,Christian,CULPEPPER,Fort Worth,TX,43:53:00,
+1,494178,Christian,CULPEPPER,Denver,CO,43:53:00,
 2,440063,Aaron,MCDANIEL,Wichita Falls,TX,43:53:00,
 3,251364,Aaron,WRIGHT,Moore,OK,43:53:00,
 4,476571,Samir,SHINGALA,Austin,TX,43:53:00,Violet Crown Sports Assoc
@@ -240,7 +240,7 @@ DNF,358661,Jonathan,BARNES,Collinsville,OK,,
 
 06/04/2017 Criterium Men Cat 3
 Place,License #,First,Last,City,State,Time,Team
-1,439089,Daryl,THOMAS,Denver ,CO,50:18,Palmares Racing
+1,439089,Daryl,THOMAS,Denver,CO,50:18,Palmares Racing
 2,485014,Bryce,FULTON,Tulsa,OK,50:19,Soundpony Triad Bank
 3,277241,Leo,HANSEN,Oklahoma,OK,50:20,Dna Racing
 4,311427,Cole,JOHNSON,Shawnee Mission,KS,50:20,Move Up Development
@@ -250,7 +250,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,258588,Tanner,CULBREATH,Tulsa,OK,50:20,Air Assurance Devo P/B Spoke Ho
 9,377064,Wyatt,GAULKE,Cheyenne,WY,50:21,Reynolds Roofing/Crj Racing
 10,433230,Austin,EDGAR,Tulsa,OK,50:21,Soundpony Triad Bank
-11,466674,Brandon,WOLD,Oklahoma City,OK,50:21,Dna Racing
+11,466674,Brandon,WOLD,Andover,MN,50:21,Dna Racing
 12,497876,Brandon,JACKSON,Oklahoma City,OK,50:21,Oklahoma City Velo Club
 13,441131,Trevor,FINE,Duncan,OK,50:21,Tulsa Wheelmen
 14,454350,Lesley,MYRICK,Sand Springs,OK,50:21,
@@ -295,7 +295,7 @@ DNF,213968,Rafael,SANTIAGO,Jenks,OK,,Tulsa Wheelmen
 
 06/04/2017 Criterium Men Cat 2
 Place,License #,First,Last,City,State,Time,Team
-1,530396,Jarrod,MORONI,,,57:54,
+1,530396,Jarrod,MORONI,Oceanside,CA,57:54,
 2,347328,John,FREY,Lincoln,NE,57:55,Team Kaos/Joyride Bicycles
 3,388008,Hugo,SCALA JR,Dallas,TX,57:55,Matrix Cycling Club
 4,353912,Said,ASSALI,Houston,TX,57:55,Shama Cycles
@@ -306,7 +306,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,283751,Maxlimilian,FREEMAN,Lakewood,CO,58:31,Rocky Mountain Velo
 10,425009,Jordan,MILLER,Lenexa,KS,58:31,Move Up Development
 11,290477,Andy,CHASTEEN,Oklahoma City,OK,58:31,Dna Racing
-12,424626,Randy,LEE,Richardson,TX,58:31,Bicycles Plus Racing
+12,424626,Randy,LEE,Dallas,TX,58:31,Bicycles Plus Racing
 13,397914,Braxton,MUNDELL,Broken Arrow,OK,58:32,Oklahoma Bicycle Project
 14,423653,Jacob,INGRAM,The Colony,TX,58:32,Matrix Cycling Club
 15,427682,Ben,GRAMLING,Springdale,AR,58:32,Dickson Street Cycling Club
@@ -335,7 +335,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 06/04/2017 Criterium Women Cat Pro/1/2
 Place,License #,First,Last,City,State,Time,Team
-1,509477,Peta,MULLENS,Tulsa,OK,51:54,Hagens Bergen Supermint
+1,509477,Peta,MULLENS,Oceanside,CA,51:54,Hagens Bergen Supermint
 2,484160,Josie,TALBOT,,,51:54,
 3,300089,Skylar,SCHNEIDER,West Allis,WI,51:54,ISCorp Cycling
 4,394701,Kimberly,LUCIE,Tucson,AZ,51:55,La Sweat
@@ -347,7 +347,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,395130,Melanie,BEALE,Boulder,CO,51:56,La Sweat
 11,381993,Solymar,RIVERA,Dallas,TX,51:56,Dallas Racing
 12,528208,Sharlotte,LUCAS,,,51:56,Roxsolt Attaquer
-13,288729,Jennifer,WAGNER,Houston ,TX,51:56,Team Elevate Racing
+13,288729,Jennifer,WAGNER,Houston,TX,51:56,Team Elevate Racing
 14,340314,Ashley,DUBAN,Austin,TX,51:56,Atx Hitsquad
 15,327486,Christa,GHENT,Boulder,CO,51:56,La Sweat
 16,527905,Ruby,LIVINGSTONE,Point Chevalier,,51:57,Roxsolt Attaquer
@@ -413,7 +413,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,467841,Ryan,AITCHESON,,,1:17:10.7,
 7,534570,Cullen,BROWNE,Tulsa,OK,1:17:10.8,
 8,331782,Tony,BACA,Austin,TX,1:17:11.1,Elbowz Racing
-9,342402,Kevin,GIRKINS,Austin,TX,1:17:11.3,Elbowz Racing
+9,342402,Kevin,GIRKINS,San Marcos,TX,1:17:11.3,Elbowz Racing
 10,193035,Brandon,FEEHERY,Knoxville,TN,1:17:11.6,Crit Life
 11,188572,Andrew,DAHLHEIM,Greenville,SC,1:17:11.8,Arapahoe Resources
 12,338924,Nicholas,TORRACA,Grapevine,TX,1:17:11.9,Uci Ct: Elevate-Khs Pro Cycling
@@ -432,7 +432,7 @@ DNF,387057,Brady,REED,Magnolia,TX,,Strike Cycling
 DNF,377614,Davis,DOMBROWSKI,Mesquite,TX,,Matrix Cycling Club
 DNF,360809,Tyler,CLOUTIER,Dallas,TX,,Matrix Cycling Club
 DNF,277433,Zachary,CARLSON,Indianapolis,IN,,Kentucky Flyers Cycling Inc
-DNF,374617,Chad,CONLEY,Cartersville,GA,,Pharmaco-DeepSouth p/b NGCA
+DNF,374617,Chad,CONLEY,Atlanta,GA,,Pharmaco-DeepSouth p/b NGCA
 DNF,349270,Mitchell,SIDES,Magnolia,TX,,Strike Cycling
 DNF,224500,Mario,ARROYAVE,Waxahachie,TX,,Elevate Elite Cycling Team
 DNF,529695,Brian,BABILONIA,Garland,TX,,
@@ -479,8 +479,8 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,509431,Orion,CHILD,Ashland,MO,26:16.2,Velo Childeric
 2,392298,Nicholas,GOMES,Florissant,MO,26:16.3,Quantum Solutions Intelligentsi
-3,388289,Tayton,PARKER,Jenks,OK,26:33.4,Air Assurance Devo P/B Spoke Ho
-4,414448,Michael,WATKINS,Harrah,OK,27:07.5,Oklahoma City Velo Club
+3,388289,Tayton,PARKER,Tulsa,OK,26:33.4,Air Assurance Devo P/B Spoke Ho
+4,414448,Michael,WATKINS,Choctaw,OK,27:07.5,Oklahoma City Velo Club
 5,423902,Maximiliano,ALVAREZ,Plano,TX,@1Lap,
 6,448616,Ryan,DRUMMOND,Oklahoma City,OK,@1Lap,Oklahoma City Velo Club
 7,509433,Asa,CHILD,Ashland,MO,@1Lap,Velo Childeric
@@ -598,7 +598,7 @@ DNF,532213,James,LINDSAY,Oklahoma City,OK,,
 
 06/03/2017 Criterium Men Cat 4
 Place,License #,First,Last,City,State,Time,Team
-1,494178,Christian,CULPEPPER,Fort Worth,TX,39:32.3,
+1,494178,Christian,CULPEPPER,Denver,CO,39:32.3,
 2,509559,Blake,BROWN,Jenks,OK,39:49.6,Fayetteville Wheelmen
 3,433106,Daniel,DOHERTY,Oklahoma City,OK,40:09.2,Bike One Racing Team
 4,474425,Eric,TORELLO,Dallas,TX,40:09.9,Rockwall Racing
@@ -642,7 +642,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,433230,Austin,EDGAR,Tulsa,OK,40:04.8,Soundpony Triad Bank
 3,408131,Andrew,WHEELER,Denver,CO,40:06.1,Primal - Audi Denver
 4,393979,John,ZANNER,Denver,CO,40:07.5,Primal - Audi Denver
-5,439089,Daryl,THOMAS,Denver ,CO,40:07.6,Palmares Racing
+5,439089,Daryl,THOMAS,Denver,CO,40:07.6,Palmares Racing
 6,289098,Jerry,WILLIS,Oklahoma City ,OK,40:08.0,Transitions Lifecare P/B Insync
 7,425254,Fredd,CORPUZ,Denver,CO,40:08.8,Palmares Racing
 8,188366,Chad,SHANKS,Tulsa,OK,40:09.3,
@@ -665,7 +665,7 @@ Place,License #,First,Last,City,State,Time,Team
 DNF,259641,Dustin,WEAVER,Tulsa,OK,,Tulsa Wheelmen
 DNF,332356,Justin,DAVIS,Tulsa,OK,,Team Tom's Bicycles P/B Topeca
 DNF,309806,James,JONES,Sapulpa,OK,,Soundpony Triad Bank
-DNF,466674,Brandon,WOLD,Oklahoma City,OK,,Dna Racing
+DNF,466674,Brandon,WOLD,Andover,MN,,Dna Racing
 DNF,260064,Chad,HARVEY,Dallas,TX,,Team Party Time
 DNF,339152,Nicholas,BLACKWELL,Jenks,OK,,
 DNF,345196,Danial,EBNER,Castle Rock,CO,,Reynolds Roofing/Crj Racing
@@ -689,7 +689,7 @@ DNF,258588,Tanner,CULBREATH,Tulsa,OK,,Air Assurance Devo P/B Spoke Ho
 
 06/03/2017 Criterium Men Cat 2
 Place,License #,First,Last,City,State,Time,Team
-1,530396,Jarrod,MORONI,,,1:01:56.0,
+1,530396,Jarrod,MORONI,Oceanside,CA,1:01:56.0,
 2,283751,Maxlimilian,FREEMAN,Lakewood,CO,1:01:56.1,Rocky Mountain Velo
 3,388008,Hugo,SCALA JR,Dallas,TX,1:01:56.6,Matrix Cycling Club
 4,397914,Braxton,MUNDELL,Broken Arrow,OK,1:01:57.1,Oklahoma Bicycle Project
@@ -710,9 +710,9 @@ Place,License #,First,Last,City,State,Time,Team
 19,394252,Omar,NUNEZ,Laredo,TX,1:02:05.4,Strike Cycling
 20,316020,Dillon,FOWLER,Keller,TX,1:02:05.4,Team Undiscovered
 21,367231,Ben,WATKINS,Tulsa,OK,1:02:05.6,Oklahoma Bicycle Project
-22,424626,Randy,LEE,Richardson,TX,1:02:06.2,Bicycles Plus Racing
+22,424626,Randy,LEE,Dallas,TX,1:02:06.2,Bicycles Plus Racing
 23,394811,Adam,TINGLER,Tulsa,OK,1:02:07.5,Oklahoma Bicycle Project
-24,459347,Matt,LANIER,Edmond,OK,1:02:08.7,JE Dunn Elite Road Racing
+24,459347,Matt,LANIER,Oklahoma City,OK,1:02:08.7,JE Dunn Elite Road Racing
 25,336568,Casey,PAXTON,Austin,TX,1:02:09.3,Daswow Racing
 26,179136,Giancarlo,BIANCHI,Boulder,CO,1:02:11.9,Rocky Mountain Velo
 27,331558,Grant,NAJERA,Tulsa,OK,1:02:13.4,Soundpony Triad Bank
@@ -734,7 +734,7 @@ DNF,269908,Riley,BURGON,Parker,CO,,Dogfish/Team Noah
 
 06/03/2017 Criterium Women Pro/Cat 1/2
 Place,License #,First,Last,City,State,Time,Team
-1,509477,Peta,MULLENS,Tulsa,OK,51:29.5,
+1,509477,Peta,MULLENS,Oceanside,CA,51:29.5,
 2,300089,Skylar,SCHNEIDER,West Allis,WI,51:29.9,ISCorp Cycling
 3,528208,Sharlotte,LUCAS,,,51:30.3,
 4,484160,Josie,TALBOT,,,51:30.5,ISCorp Cycling
@@ -763,7 +763,7 @@ DNF,518425,Caroline,POOLE,Little Rock,AR,,Transitions Lifecare P/B Insync
 DNF,393180,Amber,SMOLIK,Stafford,TX,,Team Elevate Racing
 DNF,529383,Alana,HAANSBERGEN,,,,
 DNF,290139,Moirin,NELSON,St. George,UT,,Faster Cyclist
-DNF,288729,Jennifer,WAGNER,Houston ,TX,,Team Elevate Racing
+DNF,288729,Jennifer,WAGNER,Houston,TX,,Team Elevate Racing
 
 06/03/2017 Criterium Women Cat 4/5 Junior 15-18
 Place,License #,First,Last,City,State,Time,Team
@@ -785,7 +785,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,157443,Kimberly,CHANCE,Dallas,TX,34:04.6,Matrix Cycling Club
 8,265833,Donna,GARLAND,Oklahoma City,OK,34:04.7,Transitions Lifecare P/B Insync
 9,424982,Marianne,MELLING,Lawrence,KS,34:04.9,Gp Velotek
-10,506931,Finn,TAYLOR,Tulsa,OK,34:04.9,Transitions Lifecare P/B Insync
+10,506931,Finn,TAYLOR,Fayetteville,AR,34:04.9,Transitions Lifecare P/B Insync
 11,448619,Aubrey,DRUMMOND,Oklahoma City,OK,34:05.3,DNA Racing
 12,499581,Leigh Ann,FIELDS,Tulsa,OK,34:05.6,Pandemonium Cycling P/B Hodges
 13,471827,Katy,SIMMONS,Little Rock,AR,34:05.6,Transitions Lifecare P/B Insync
@@ -837,10 +837,10 @@ Place,License #,First,Last,City,State,Time,Team
 27,502695,Scott,LAW,,,49:18,
 28,205741,Stefan,ROTHE,Austin,TX,49:19,Elbowz Racing
 29,252928,Rob,BELL,Oklahoma City,OK,49:23,Transitions Lifecare P/B Insync
-30,342402,Kevin,GIRKINS,Austin,TX,49:23,Elbowz Racing
+30,342402,Kevin,GIRKINS,San Marcos,TX,49:23,Elbowz Racing
 31,0,Unknown,Rider,,,49:23,
 32,414951,Jacob,HENLEY,Chattanooga ,TN,49:25,North Georgia Cycling Associati
-33,374617,Chad,CONLEY,Cartersville,GA,49:25,Pharmaco-DeepSouth p/b NGCA
+33,374617,Chad,CONLEY,Atlanta,GA,49:25,Pharmaco-DeepSouth p/b NGCA
 34,337206,Sawyer,CURRIE,Edmond,OK,49:26,Dna Racing
 35,169774,Brian,MCCULLOCH,Yucaipa,CA,49:26,Uci Ct: Elevate-Khs Pro Cycling
 36,412811,Kyle,SWANSON,Fort Worth,TX,49:26,Matrix Cycling Club
@@ -885,7 +885,7 @@ DNF,219998,Benjamin,STOVER,Lawrence,KS,,Olathe Subaru Trek Racing
 
 06/02/2017 Criterium Men Cat 4/5
 Place,License #,First,Last,City,State,Time,Team
-1,494178,Christian,CULPEPPER,Fort Worth,TX,34:42.2,
+1,494178,Christian,CULPEPPER,Denver,CO,34:42.2,
 2,509559,Blake,BROWN,Jenks,OK,34:43.9,Fayetteville Wheelmen
 3,414881,Jason,ENGELKE,Edmond,OK,34:44.4,Transitions Lifecare P/B Insync
 4,476571,Samir,SHINGALA,Austin,TX,34:44.5,Violet Crown Sports Assoc
@@ -945,7 +945,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,311427,Cole,JOHNSON,Shawnee Mission,KS,40:25.7,Move Up Development
 7,522514,John,CHU,Plano,TX,40:25.8,Windsor Door Racing
 8,380802,Keith,STRAND,Denver,CO,40:26.0,Primal - Audi Denver
-9,439089,Daryl,THOMAS,Denver ,CO,40:26.1,Palmares Racing
+9,439089,Daryl,THOMAS,Denver,CO,40:26.1,Palmares Racing
 10,277241,Leo,HANSEN,Oklahoma,OK,40:26.5,Dna Racing
 11,260030,Troy,COWIN,Oklahoma City,OK,40:26.7,
 12,304107,Christopher,SIEMENS,Tulsa,OK,40:26.8,Air Assurance Devo P/b Spoke Ho
@@ -961,7 +961,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,289098,Jerry,WILLIS,Oklahoma City ,OK,40:30.4,Transitions Lifecare P/B Insync
 23,434344,Michael,GATHERS,Yukon,OK,40:30.4,Transitions Lifecare P/B Insync
 24,353500,Kendall,WIEBE,Wichita,KS,40:30.7,Gp Velotek
-25,466674,Brandon,WOLD,Oklahoma City,OK,40:30.8,Dna Racing
+25,466674,Brandon,WOLD,Andover,MN,40:30.8,Dna Racing
 26,370563,Dustin,SMITH,Oklahoma City,OK,40:30.9,
 27,349550,Paul,BUSH,Jenks,OK,40:31.6,Bixby Bicycle Works/Cycling For
 28,482118,Timothy,PALYUKH,Lewisville,TX,40:33.0,Bicycles Plus Racing
@@ -995,7 +995,7 @@ DNF,431380,Greg,REILLY,Tulsa,OK,,Team Young Life Tulsa
 
 06/02/2017 Criterium Men Cat 2
 Place,License #,First,Last,City,State,Time,Team
-1,530396,Jarrod,MORONI,,,46:19.2,
+1,530396,Jarrod,MORONI,Oceanside,CA,46:19.2,
 2,394252,Omar,NUNEZ,Laredo,TX,46:19.6,Strike Cycling
 3,175928,Chad,HODGES,Moore,OK,46:19.7,Dna Racing
 4,367231,Ben,WATKINS,Tulsa,OK,46:19.7,Transitions Lifecare P/B Insync
@@ -1009,7 +1009,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,397914,Braxton,MUNDELL,Broken Arrow,OK,46:21.5,Transitions Lifecare P/B Insync
 13,418091,Ian,SEIBERT,Peculiar,MO,46:21.6,Quantum Solutions Intelligentsi
 14,242682,Cailean,CARLBERG,Tulsa,OK,46:21.8,Soundpony Triad Bank
-15,459347,Matt,LANIER,Edmond,OK,46:21.9,JE Dunn Elite Road Racing
+15,459347,Matt,LANIER,Oklahoma City,OK,46:21.9,JE Dunn Elite Road Racing
 16,308282,Robert,WATSON,Dallas,TX,46:21.9,Team Cadence Cyclery p/b MINI o
 17,423653,Jacob,INGRAM,The Colony,TX,46:22.4,Matrix Cycling Club
 18,269908,Riley,BURGON,Parker,CO,46:22.4,Dogfish/Team Noah
@@ -1038,7 +1038,7 @@ DNF,283751,Maxlimilian,FREEMAN,Lakewood,CO,,Rocky Mountain Velo
 
 06/02/2017 Criterium Women Pro/Cat 1/2
 Place,License #,First,Last,City,State,Time,Team
-1,509477,Peta,MULLENS,Tulsa,OK,46:00.9,
+1,509477,Peta,MULLENS,Oceanside,CA,46:00.9,
 2,300089,Skylar,SCHNEIDER,West Allis,WI,46:00.9,IS Corp Cycling
 3,394701,Kimberly,LUCIE,Tucson,AZ,46:01.2,La Sweat
 4,484160,Josie,TALBOT,,,46:02.1,ISCorp Cycling
@@ -1049,7 +1049,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,361902,Alexandra,BURTON,Portland,OR,46:03.2,Point S Racing
 10,384315,Payten,MANESS,Flower Mound,TX,46:03.3,Papa John's Racing p/b TREK
 11,395130,Melanie,BEALE,Boulder,CO,46:03.6,La Sweat
-12,288729,Jennifer,WAGNER,Houston ,TX,46:03.7,Team Elevate Racing
+12,288729,Jennifer,WAGNER,Houston,TX,46:03.7,Team Elevate Racing
 13,457092,Rachel,LANGDON,Louisville,KY,46:03.7,Iscorp Cycling
 14,408322,Emily,NEWSOM,Fort Worth,TX,46:03.8,Team Elevate Racing
 15,381993,Solymar,RIVERA,Dallas,TX,46:04.3,Dallas Racing

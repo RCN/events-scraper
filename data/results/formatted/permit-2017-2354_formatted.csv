@@ -12,7 +12,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,188997,Rob,Schell,Richmond,CA,,Dolce Vita Freewheel p/b SL2
 9,469122,Alex,Barnes,Redondo Beach,CA,,SANTA MONICA BMW HELEN'S CYCLES RACING
 10,346580,DAVID,PRIEST,Santa Ynez,CA,,STINNER BLACK SHEEP RACING
-11,383744,Jason,Hammond,Stanford,CA,,SunPower Racing
+11,383744,Jason,Hammond,Palo Alto,CA,,SunPower Racing
 12,476831,Richie,Vos,Mountain View,CA,,SunPower Racing
 13,366582,Jason,Gandzjuk,Salinas,CA,,Cycle Sport Specialized PB/Muscle Milk
 14,494658,Sergei,Volkov,San Jose,CA,,Dolce Vita Freewheel p/b SL2
@@ -60,9 +60,9 @@ Place,License #,First,Last,City,State,Time,Team
 3,416562,Philip,Malaspina,San Martin,CA,,CoreTechs Cycling TwT
 4,195470,Kyle,Glerum,Emerald Hills,CA,,Peet's Coffee Racing
 5,356964,Andrew,Heinemann,El Dorado Hills,CA,,Audi Reno - Tahoe Cycling
-6,25655,Jerome,Nadel,Sunnyvale,CA,,ThirstyBear p/b Akamai
+6,25655,Jerome,Nadel,Woodside,CA,,ThirstyBear p/b Akamai
 7,155869,John,Olsen,Pismo Beach,CA,,Schnur Racing
-8,179386,Daniel,Martin,Pleasanton,CA,,Peet's Coffee Racing
+8,179386,Daniel,Martin,Loomis,CA,,Peet's Coffee Racing
 9,273099,Derek,Johnson,San Luis Obispo,CA,,Schnur Racing
 10,60730,Shaun,Bagley,Visalia,CA,,CoreTechs  Cycling-TwT
 11,132859,joseph,staron,Sacramento,CA,,Team Specialized/Touchstone Racing
@@ -75,7 +75,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,153943,Sean,Haidet,San Luis Obispo,CA,,Schnur Racing
 19,141309,Rick,Lawton,Pleasanton,CA,,R4R-Make A Wish
 20,412284,Steven,Aurousseau,San Jose,CA,,Morgan Stanley Cycling Team
-21,218958,Patrick,Hampton,Cambria,CA,,Schnur Racing
+21,218958,Patrick,Hampton,Richmond,VA,,Schnur Racing
 22,380049,George,Tomasich,Norwalk,CA,,Canyon Velo
 23,289685,Jordi,Conrado,Placentia,CA,,OC Armada
 24,300501,Andrew,Adelman,Portola Valley,CA,,CoreTechs Cycling -TwT
@@ -95,7 +95,7 @@ DNP,88456,John,Sevic,Los Gatos,CA,,Core Techs
 DNP,364697,Michael,Penta,Thousand Oaks,CA,,Big orange
 DNP,389078,David,Holland,Culver City,CA,,Big Orange Cycling
 DNP,133838,Daryl,Hemenway,San Jose,CA,,CoreTechs TWT
-DNF,392104,Doug,Zell,Little Rock ,AR,,Intelligentsia-Allied
+DNF,392104,Doug,Zell,Lockhart,TX,,Intelligentsia-Allied
 
 08/19/2017 Road Race Men Cat 1/2/3 Master 55-99
 Place,License #,First,Last,City,State,Time,Team
@@ -118,7 +118,7 @@ DNF,46023,Shin,Umeda,Sunnyvale,CA,,Pen Velo Racing/Summit Bicycles
 08/19/2017 Road Race Men Cat 5
 Place,License #,First,Last,City,State,Time,Team
 1,0,Mark,Schiller,,,,
-2,537310,stan,takashima,Oxnard,CA,,
+2,537310,stan,takashima,,,,
 3,0,Gabriel,Kaehlev,,,,Delano Cycl9ng Team
 4,0,Dan,Speer,,,,TNR
 5,535533,Max,Schoenbrunner,San Diego,CA,,
@@ -141,7 +141,7 @@ DNF,459867,Bill,Sanders,Corona,CA,,Cycles Veloce
 
 08/19/2017 Road Race Men Cat 4
 Place,License #,First,Last,City,State,Time,Team
-1,494623,Matthew,Hepworth,San Francisco,CA,,SunPower Racing
+1,494623,Matthew,Hepworth,Palo Alto,CA,,SunPower Racing
 2,434993,Vasileios,Raptakis,Santa Clara,CA,,SunPower Racing
 3,513639,Stefan,Hubrich,Seaside,CA,,Don Chapin Monterey Bay Jr.Cycling
 4,432898,Levi,Jago,Salinas,CA,,Don Chapin Monterey Bay Race Team
@@ -162,7 +162,7 @@ DNF,495264,Thialor,Mize,Tehachapi,CA,,Skyflash Racing
 08/19/2017 Road Race Men Cat 4 Master 35-99
 Place,License #,First,Last,City,State,Time,Team
 1,249659,Mike,Hatton,Santa Maria,CA,,U.S. Military Endurance Sports
-2,459037,Michael,Baumgartner,Lompoc,CA,,US Military Endurance Sports
+2,459037,Michael,Baumgartner,Peyton,CO,,US Military Endurance Sports
 3,321598,Matthew,Johnson,San Francisco,CA,,Dolce Vita Freewheel p/b SL2
 
 08/19/2017 Road Race Men Cat 4 Master 45-99
@@ -172,7 +172,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,504195,Robert,Wotring,Palo Alto,CA,,
 4,379987,Steve,d'Alencon,San Mateo,CA,,Pen Velo Racing/Summit Bicycles
 5,45436,John,Hawkins,Los Osos,CA,,Christian Cycling/Hammer Nutrition
-6,391447,ANDREW,NUCKLES,Cerritos,CA,,BIG ORANGE CYCLING
+6,391447,ANDREW,NUCKLES,Los Angeles,CA,,BIG ORANGE CYCLING
 7,59049,Mike,Rizzo,Morgan Hill,CA,,SJBC
 8,0,Christian,Wagner,,,,
 9,287300,William,McBride,Santa Barbara,CA,,Polli Veloce
@@ -185,15 +185,15 @@ DNP,195521,Serge,Plasschaert,San Jose,CA,,Pen Velo Racing/Summit Bicycles
 Place,License #,First,Last,City,State,Time,Team
 1,460267,Ben,Marshall,Berkeley,CA,,Team Mikes Bikes p/b Equator Coffees
 2,480974,David,Steinhafel,Los Angeles,CA,,Big Orange Cycling
-3,413239,Max,Motschwiller,Menlo Park,CA,,Union CC / Olympic Club
+3,413239,Max,Motschwiller,San Francisco,CA,,Union CC / Olympic Club
 4,368512,Kevin,Lewis,Santa Barbara,CA,,
 5,484673,Brendon,Bolin,Santa Barbara,CA,,Simple Green
 6,350058,Morgan,Cole,Portola Valley,CA,,SunPower Racing
-7,78591,Matthew,Accarrino,San Francisco ,CA,,
+7,78591,Matthew,Accarrino,San Francisco,CA,,
 8,495103,Leo,Fissel,Redwood Valley,CA,,Team Mikes Bikes p/b Equator Coffees
 9,365851,Donald,Lee,Fremont,CA,,Pen Velo Racing/Summit Bicycles
 10,346232,Jason,Francia,Santa Maria,CA,,Team Simple Green/Cannondale/Bike Religion
-11,266583,Douglas,Schaller,Belmont ,CA,,A Bloc Racing
+11,266583,Douglas,Schaller,Belmont,CA,,A Bloc Racing
 12,391493,Stuart,Watson,San Rafael,CA,,Cycle Sport - Specialized p/b Muscle Milk
 13,18004,Menko,Johnson,Redwood City,CA,,Pen Velo Racing/Summit Bicycles
 14,244034,Robert,Shaw,Altadena,CA,,Ritte Racing / Cleaver Donuts
@@ -201,7 +201,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,497101,Jason,Anderson,Morgan Hill,CA,,Cycle Sport  Specialized p/b Muscle Milk
 17,494490,Madden,Titus,Mountain View,CA,,SunPower Racing
 18,378266,Yuriy,Platoshyn,San Jose,CA,,Pen Velo Racing/Summit Bicycles
-19,250472,Jimmy,Winne,San Luis Obispo,CA,,Woodcreek High School Cycling Team
+19,250472,Jimmy,Winne,Atascadero,CA,,Woodcreek High School Cycling Team
 20,179826,Brian,Kellison,San Mateo,CA,,Pen Velo Racing/Summit Bicycles
 21,0,Unknown,Rider,,,,
 22,376029,Chris,Sontag,Santa Clara,CA,,Pen Velo Racing/Summit Bicycles

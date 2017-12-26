@@ -24,9 +24,9 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/28/2017 Cross Country Men Cat 3 13-15
 Place,License #,First,Last,City,State,Time,Team
-1,388289,Tayton,Parker,Jenks,OK,0:55:02,
+1,388289,Tayton,Parker,Tulsa,OK,0:55:02,
 2,448616,Ryan,Drummond,Oklahoma City,OK,0:57:00,
-3,533961,Matthew,Armstrong,Yukon,OK,0:58:40,
+3,533961,Matthew,Armstrong,Hinton,OK,0:58:40,
 4,502223,Jaxon,Hall,Tulsa,OK,1:07:05,
 5,523984,Ty,Watts,Edmond,OK,1:08:40,
 6,0,Will,Scott,,,1:13:30,
@@ -47,7 +47,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,0,Alvaro,Flores,,,0:59:23,
 6,487211,Joshua,Taylor,Oklahoma City,OK,1:00:54,
 7,519409,Bryan,Hulseberg,Oklahoma City,OK,1:02:26,
-8,530836,Jason,Bertels,Norman,OK,1:03:40,
+8,335100,Jason,Bertels,Oklahoma City,OK,1:03:40,
 9,534425,Kevin,Wagoner,Broken Arrow,OK,1:05:33,
 10,498385,Trey,Eagleton,Tulsa,OK,1:09:05,
 DNF,0,Dane,Dixon,,,13:45:00,
@@ -72,7 +72,7 @@ DNS,438974,Rick,Reese,Tulsa,OK,13:43:00,
 Place,License #,First,Last,City,State,Time,Team
 1,459881,Lewis,Lindenberg,Oklahoma City,OK,0:51:59,
 2,522517,Chris,Patterson,Oakland,CA,0:53:46,
-3,526538,Jeremy,Black,Shawnee,OK,0:54:12,
+3,526538,Jeremy,Black,Oklahoma City,OK,0:54:12,
 4,429711,sy,nola,Oklahoma City,OK,0:54:13,
 5,0,Christian,Tolen,,,0:55:14,
 6,523080,Alex,Canada,Lawton,OK,0:55:32,
@@ -135,7 +135,7 @@ DNF,414515,Dustin,Anderson,Edmond,OK,14:41:00,
 Place,License #,First,Last,City,State,Time,Team
 1,304107,Christopher,Siemens,Tulsa,OK,1:25:50,
 2,343050,Chris,Guidry,Tulsa,OK,1:29:23,
-3,515563,Brad,Eaton,Broken Arrow,OK,1:30:56,
+3,515563,Brad,Eaton,Tulsa,OK,1:30:56,
 4,486713,David,Reynolds,Tulsa,OK,1:32:45,
 5,404701,butch,paine,Sand Springs,OK,1:34:28,
 6,475020,Danny,Murphy,Harrah,OK,1:38:50,
@@ -187,7 +187,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,376423,Brian,Young,Tulsa,OK,1:54:35,
 4,305192,Lance,Duke,Edmond,OK,1:58:35,
 5,229616,Kent,Kinsala,Broken Arrow,OK,2:00:05,
-6,12581,Robert,Farris,Oklahoma City,OK,2:15:55,
+6,12581,Robert,Farris,Norman,OK,2:15:55,
 DNF,174463,Mark,Swezey,Van Buren,AR,12:41:00,
 DNF,179676,Michael,Pickle,Edmond,OK,12:41:00,
 
@@ -224,7 +224,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/28/2017 Cross Country Women Cat 1 19-99
 Place,License #,First,Last,City,State,Time,Team
-1,291250,Sarah,Shanks,Tulsa,OK,2:07:25,
+1,291250,Sarah,Shanks,Norman,OK,2:07:25,
 2,188364,Cleo,Berninger,Tulsa,OK,2:11:30,
 3,401264,Susan,Young,Tulsa,OK,2:16:00,
 
@@ -243,7 +243,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/27/2017 Short Track Cross Country Men Cat 3 13-15
 Place,License #,First,Last,City,State,Time,Team
-1,388289,Tayton,Parker,Jenks,OK,,
+1,388289,Tayton,Parker,Tulsa,OK,,
 2,448616,Ryan,Drummond,Oklahoma City,OK,,
 3,502223,Jaxon,Hall,Tulsa,OK,,
 4,424586,Evan,Coles,Tulsa,OK,,
@@ -252,12 +252,12 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,517667,Kevin,Duplechin,Tulsa,OK,,
 2,504177,Brandon,Reed,Mustang,OK,,
-3,526538,Jeremy,Black,Shawnee,OK,,
+3,526538,Jeremy,Black,Oklahoma City,OK,,
 4,528147,Jonathon,Foss,Tulsa,OK,,
 5,498496,Brent,White,Seminole,OK,,
 6,0,Jimmy,Parker,,,,
 7,498339,Nolan,Krampe,Oklahoma City,OK,,
-8,530836,Jason,Bertels,Norman,OK,,
+8,335100,Jason,Bertels,Oklahoma City,OK,,
 9,0,Maik,Kendrick,,,,
 10,0,Alvaro,Flores,,,,
 11,517591,Theron,Inman,Tulsa,OK,,
@@ -284,7 +284,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,471763,Kye,Cordes,Lawton,OK,,
 3,343050,Chris,Guidry,Tulsa,OK,,
 4,311345,Clay,Chittenden,Broken Arrow,OK,,
-5,515563,Brad,Eaton,Broken Arrow,OK,,
+5,515563,Brad,Eaton,Tulsa,OK,,
 6,406962,Joshua,Reasor,Tulsa,OK,,
 7,400288,Cody,Pollard,Broken Arrow,OK,,
 8,297002,Zach,Pfaff,Tulsa,OK,,
@@ -362,7 +362,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/27/2017 Time Trial Men Cat 3 13-15
 Place,License #,First,Last,City,State,Time,Team
-1,388289,Tayton,Parker,Jenks,OK,0:11:57,
+1,388289,Tayton,Parker,Tulsa,OK,0:11:57,
 2,448616,Ryan,Drummond,Oklahoma City,OK,0:13:07,
 3,502223,Jaxon,Hall,Tulsa,OK,0:15:01,
 4,424586,Evan,Coles,Tulsa,OK,0:16:05,
@@ -374,11 +374,11 @@ Place,License #,First,Last,City,State,Time,Team
 3,460390,Joe,Battiato,Tulsa,OK,0:11:47,
 4,504177,Brandon,Reed,Mustang,OK,0:12:00,
 5,498496,Brent,White,Seminole,OK,0:12:33,
-6,526538,Jeremy,Black,Shawnee,OK,0:12:34,
+6,526538,Jeremy,Black,Oklahoma City,OK,0:12:34,
 7,528147,Jonathan,Foss,Tulsa,OK,0:12:34,
 8,498339,Nolan,Krampe,Oklahoma City,OK,0:12:57,
 9,0,Maik,Kendrick,,,0:13:11,
-10,530836,Jason,Bertels,Norman,OK,0:13:19,
+10,335100,Jason,Bertels,Oklahoma City,OK,0:13:19,
 11,526536,Stephen,Bruns,Tulsa,OK,0:13:13,
 12,517591,Theron,Inman,Tulsa,OK,0:14:04,
 DNS,530568,Rob,Phillips,Tulsa,OK,0:00:00,
@@ -399,7 +399,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,304107,Christopher,Siemens,Tulsa,OK,0:10:12,
 2,471763,Kye,Cordes,Lawton,OK,0:10:24,
-3,515563,Brad,Eaton,Broken Arrow,OK,0:10:47,
+3,515563,Brad,Eaton,Tulsa,OK,0:10:47,
 4,406962,Joshua,Reasor,Tulsa,OK,0:10:49,
 5,400288,Cody,Pollard,Broken Arrow,OK,0:10:51,
 6,433230,Austin,Edgar,Tulsa,OK,0:11:00,

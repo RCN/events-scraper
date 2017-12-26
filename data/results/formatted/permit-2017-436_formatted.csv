@@ -4,7 +4,7 @@ Snelling Road Race in Snelling CA Results
 Place,License #,First,Last,City,State,Time,Team
 1,220775,Thomas,Soladay,Minnetonka,MN,,Rally Cycling
 2,154883,Jesse,Anthony,Newbury Park,CA,,Rally Cycling
-3,222542,Emerson,Oronte,Boulder,CO,,Rally Cycling
+3,222542,Emerson,Oronte,Louisville,CO,,Rally Cycling
 4,219434,Justin,Mauch,Sterling,VA,,Herbalife p/b Marc Pro - Nature's Bakery
 5,267361,Chris,Riekert,San Jose,CA,,Team Mike's Bikes p/b Equator Coffees
 6,337774,Charlie,Velez,El Dorado Hills,CA,,Data Driven Athlete
@@ -15,12 +15,12 @@ Place,License #,First,Last,City,State,Time,Team
 11,366768,Raul,Arias J.R.,East Palo Alto,CA,,SquadraSF p/b Terun
 12,298571,Garrett,Hankins,Carmichael,CA,,Team Mike's Bikes p/b Equator Coffees
 13,420107,Alexander,Cabatic,Clovis,CA,,Fulton Racing Team
-14,207262,Andrew,Goessling,El Cerrito,CA,,Team Mike's Bikes p/b Equator Coffees
+14,207262,Andrew,Goessling,Oakland,CA,,Team Mike's Bikes p/b Equator Coffees
 15,366582,Jason,Gandzjuk,Salinas,CA,,Cycle Sport  Specialized p/b Muscle Milk
 16,382116,Simon,Tuttle,Walnut Creek,CA,,Bloc Racing
 17,303589,Jacob,Albrecht,Soquel,CA,,Herbalife p/b Marc Pro - Nature's Bakery
 18,188997,Rob,Schell,Richmond,CA,,Dolce Vita Freewheel p/b SL2
-19,380700,Martin,Szwarc,San Francisco ,CA,,Cycle Sport  Specialized p/b Muscle Milk
+19,380700,Martin,Szwarc,San Francisco,CA,,Cycle Sport  Specialized p/b Muscle Milk
 20,283386,Jeffrey,Buscheck,Davis,CA,,Davis Bike Club Elite Team
 21,356964,Andrew,Heinemann,El Dorado Hills,CA,,AUDI RENO-TAHOE
 22,397013,christopher,beall,Burlingame,CA,,LOW//Factory Racing
@@ -28,8 +28,8 @@ Place,License #,First,Last,City,State,Time,Team
 24,413330,Aaron,McDevitt,Mountain View,CA,,SquadraSF p/b Terun
 25,275223,Craig,Fellers,Santa Cruz,CA,,Team Mike's Bikes p/b Equator Coffees
 26,187271,Miles,LaMon,San Luis Obispo,CA,,Team Clif Bar Cycling
-27,283139,Naveen,Molloy,Sanfrancisco,CA,,LOW// Factory Racing
-28,344374,Zhaolong,Wu,Corvallis,OR,,Team Oregon Presented by Laurelwood Brewing
+27,283139,Naveen,Molloy,San Francisco,CA,,LOW// Factory Racing
+28,344374,Zhaolong,Wu,Portland,OR,,Team Oregon Presented by Laurelwood Brewing
 29,368496,Matt,Ojeda,Fresno,CA,,Big Orange Cycling p/b Beachbody Performance
 30,494446,Robin,Warman,Santa Monica,CA,,Portland Bicycle Studio
 31,420048,Greg,McCullough,San Francisco,CA,,Cycle Sport  Specialized p/b Muscle Milk
@@ -42,7 +42,7 @@ Place,License #,First,Last,City,State,Time,Team
 38,425803,Cameron,Bronstein,Berkeley,CA,,Team Mike's Bikes p/b Equator Coffees
 39,307653,Jeff,Linder,San Jose,CA,,SquadraSF p/b Terun
 40,309141,Jonathan,Penaloza,Sacramento,CA,,Herbalife p/b Marc Pro - Nature's Bakery
-41,242829,Jove,Graham,Fresno,CA,,Dayka Hackett
+41,242829,Jove,Graham,Palo Alto,CA,,Dayka Hackett
 42,494043,Leon,Gledhill,,,,Team Mike's Bikes p/b Equator Coffees
 DNP,414898,Jackson,Duncan,Santa Rosa,CA,,Hedrick Racing
 DNP,295596,Jonathan,Barbus,Los Altos,CA,,SquadraSF p/b Terun
@@ -73,7 +73,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,286823,Joseph,Foster,Alamo,CA,,ThirstyBear p/b Akamai
 2,39478,Hunter,Ziesing,Bel Tiburon,CA,,Hammer Nutrition/53x11
 3,196222,Hans,Gouwens,Corte Madera,CA,,ThirstyBear p/b Akamai
-4,25655,Jerome,Nadel,Sunnyvale,CA,,ThirstyBear p/b Akamai
+4,25655,Jerome,Nadel,Woodside,CA,,ThirstyBear p/b Akamai
 5,46157,Eric,Saltzman,Menlo Park,CA,,R4R - Make A Wish
 6,192774,Kevin,Willitts,S Lake Tahoe,CA,,3Ft - It's The Law
 7,407521,Tim,Davis,San Jose,CA,,TeamCyclesport - Specialized p/b Muscle Milk
@@ -82,7 +82,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,35241,Stanley,Terusaki,Livermore,CA,,Morgan Stanley/Specialized
 11,22166,Rob,Maheu,Hollister,CA,,SJBC
 12,360492,Dean,Abt,Oakland,CA,,Team Oakland Cycling
-13,345270,Brian,McAndrews,Danville,CA,,ThirstyBear p/b Akamai
+13,345270,Brian,McAndrews,Spring,TX,,ThirstyBear p/b Akamai
 14,310942,Bob,Brandt,San Jose,CA,,SJBC
 15,20630,Scott,Leahy,San Jose,CA,,SJBC
 16,33092,Darryl,Smith,Pleasanton,CA,,R4R-Make A Wish
@@ -111,7 +111,7 @@ Place,License #,First,Last,City,State,Time,Team
 DNP,283140,Bill,Vaughan,Auburn,CA,,Body Concepts Race Team
 DNP,294020,Jeff,Tanforan,Orangevale,CA,,Sierra Nevada/Reliable Racing
 DNP,51637,Tracy,Muegge,Fair Oaks,CA,,Sierra Nevada/Reliable Racing
-DNP,45552,Douglas,KNOX,Santa Barbara,CA,,Velo Pasadena Team
+DNP,45552,Douglas,KNOX,North Hollywood,CA,,Velo Pasadena Team
 DNP,216231,Jeffrey,Kato,San Rafael,CA,,Clean Power Cycling pb TESLA
 DNP,60756,Steve,Grusis,Madera,CA,,Off The Front Racing Team
 DNP,285993,Tom,Cutter,Carmichael,CA,,Sacramento Golden Wheelmen
@@ -144,7 +144,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,523565,Jack,Curphey,Mill Valley,CA,,Team Swift
 21,433237,John Paul,Amalong,Chapel Hill,NC,,Constellation/Inland Construction
 22,501268,Spencer,Nguyen,Folsom,CA,,Limitless Cycling
-DNP,422238,Sawyer,Taylor,Greenbrae,CA,,Team Swift
+DNP,422238,Sawyer,Taylor,San Rafael,CA,,Team Swift
 DNP,396051,Henry,Chadwick,Sacramento,CA,,Team City Sacramento
 
 03/04/2017 Road Race Men Cat 4/5 Master 45-99
@@ -216,7 +216,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,253987,Joseph,Chicoine,Clovis,CA,,Eliel Factory Team
 4,47424,Christopher,Baker,Sacramento,CA,,Team Specialized/Touchstone Racing
 5,186678,Jan,Weissenberger,San Rafael,CA,,ThirstyBear p/b Akamai
-6,459276,Mark,Howard,Cupertino ,CA,,SunPower Racing
+6,459276,Mark,Howard,Cupertino,CA,,SunPower Racing
 7,299720,Travis,Lee,Citrus Heights,CA,,Folsom Bike/Trek
 8,248052,Michael,Claudio,West Sacramento,CA,,ThirstyBear p/b Akamai
 9,303224,Erik,Camacho,San Jose,CA,,Thirsty Bear p/b Akamai
@@ -309,7 +309,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,212699,Haydn,Mackay,Alameda,CA,,Cycles FANATIC
 17,6422,Mike,Castaldo,Chico,CA,,Chico Cycling Team
 18,287526,Jason,Cruser,Walnutcreek,CA,,R4R - Make a Wish
-19,48271,david,baumgardner,Toluca Lake,CA,,Sempre Avanti Masters p/b Zaavy Factory racing
+19,48271,david,baumgardner,Visalia ,CA,,Sempre Avanti Masters p/b Zaavy Factory racing
 20,7881,Ben,Cota,San Jose,CA,,Funsport Bikes Cycling Team
 21,9524,jeff,dillon,Folsom,CA,,Folsom Bike/Trek
 22,370845,John,Coletta,Orinda,CA,,Peet's coffee racing
@@ -320,7 +320,7 @@ Place,License #,First,Last,City,State,Time,Team
 27,17995,Mark,Johnson,Mountain View,CA,,CoreTechs Cycling - TwT
 28,128711,Adam,Andelin,Elk Grove,CA,,Sierra Nevada/Reliable Racing
 29,136970,Robert,Pasco,Belmont,CA,,SAFEWAY Cycling
-30,218958,Patrick,Hampton,Cambria,CA,,Schnur Racing
+30,218958,Patrick,Hampton,Richmond,VA,,Schnur Racing
 31,131973,Scot,Johnson,Walnut Creek,CA,,Divine Electric
 32,49774,Rob,Cady,Rancho Cordova ,CA,,Michael David Winery Cycling Team
 33,53501,Herman,Johnson,Modesto,CA,,Ciclistas del valle
@@ -341,7 +341,7 @@ Place,License #,First,Last,City,State,Time,Team
 DNP,196305,Mike,Vomund,Alamo,CA,,CA Technologies Racing
 DNP,218823,Guy,Van Natta,Clovis,CA,,Core Techs Cycling-TwT
 DNP,368177,Pete,Schoenenberger,Oakdale,CA,,Funsport Bikes Cycling Team
-DNP,231913,Jason,Schmidt,Los Gatos,CA,,Funsport Bikes Cycling Team
+DNP,231913,Jason,Schmidt,San Francisco,CA,,Funsport Bikes Cycling Team
 DNP,319966,John,Schiefer,Union City,CA,,CoreTechs Cycling TwT
 DNP,27253,Daryl,Parker,Sacramento,CA,,Rio Strada Racing
 DNP,155869,John,Olsen,Pismo Beach,CA,,Schnur Racing
@@ -389,7 +389,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,522705,TENZIN,WANGZOR,Point Richmond,CA,,
 23,526640,Matthew,Maurer,South San Francisco,CA,,Alto Velo
 24,522834,John,Wasserman,San Francisco,CA,,SunPower Racing
-25,395297,Shinnosuke,Hasegawa,Alameda,CA,,Team Oakland Cycling
+25,395297,Shinnosuke,Hasegawa,Cupertino,CA,,Team Oakland Cycling
 26,526497,Bryan,Clovis,Modesto,CA,,Fun Sport Bikes
 27,523806,Andrew,Avedian,Walnut Creek,CA,,City Cycle Racing
 28,493697,Michael,Jones,Fremont,CA,,Team Fremont/FFBC
@@ -411,7 +411,7 @@ Place,License #,First,Last,City,State,Time,Team
 03/04/2017 Road Race Men Cat 4
 Place,License #,First,Last,City,State,Time,Team
 1,499657,Charlie,Rimkus,San Francisco,CA,,CA Technologies Racing
-2,378563,Kurt,Brown,Minneapolis,CA,,Dolce Vita Freewheel
+2,378563,Kurt,Brown,San Francisco,CA,,Dolce Vita Freewheel
 3,101309,Ryan,Stroup,San Jose,CA,,Squadra SF pb Terun
 4,481783,Michael,Machado,Salinas,CA,,
 5,456989,kenneth,tsuda,San Jose ,CA,,
@@ -462,7 +462,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,186110,Alvin,Carpenter,Alameda,CA,,Davis Bike Club Race Team
 18,79214,Allen,Shaw,Arnold,CA,,Clean Power Cycling p/b Tesla
 19,326874,Zachary,Hilton,Morgan Hill,CA,,SJBC
-20,440491,Philip,Barros,Danville,CA,,CBRE Racing
+20,440491,Philip,Barros,Pleasanton,CA,,CBRE Racing
 DNP,298307,Brandon,Tyler,Sanmateo,CA,,Peninsula Velo Racing/Summit Bicycles
 DNP,393104,Timothy,Stuart,Santa Cruz,CA,,
 DNP,523297,Duncan,Hassall,Oakland,CA,,Berkeley Bike Club
@@ -478,7 +478,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,434471,emmett,smith,Millbrae,CA,,Pen Velo Racing/ Summit Bicycles
 6,448707,Riley,Marmesh,Oakland,CA,,LOW//Factory Racing
 7,395728,Leonard,Schummer,San Francisco,CA,,Tieni Duro Junior Cycling
-8,78591,Matthew,Accarrino,San Francisco ,CA,,
+8,78591,Matthew,Accarrino,San Francisco,CA,,
 9,437364,Wesley,Miyamura,Elk Grove,CA,,Limitless Cycling
 10,391493,Stuart,Watson,San Rafael,CA,,Cycle Sport - Specialized p/b Muscle Milk
 11,6422,Mike,Castaldo,Chico,CA,,Chico Cycling Team
@@ -493,7 +493,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,394845,Matt,Carvell,Woodside,CA,,SunPower Racing
 21,474152,Bright,Chipongo,Novato,CA,,Team Mike's Bikes p/b Equator Coffees
 22,136389,Sergio,Iniguez,Turlock,CA,,BRE Cycling
-23,417590,Dallas,Siok,Arnold,MD,,BIKE DOCTOR p/b North Tek
+23,417590,Dallas,Siok,Fairfield,CA,,BIKE DOCTOR p/b North Tek
 24,275120,Cameron,Walker,Sacramento,CA,,Team Mikes Bikes p/b Equator Coffees
 25,304879,Christopher,Pimentel,Fresno,CA,,Fulton Racing
 26,334018,Micah,Lerner,Los Altos,CA,,LOW// Factory Racing
@@ -519,7 +519,7 @@ DNP,333136,Sean,Brandt,Alameda,CA,,Dolce Vita Freewheel p/b SL2
 03/04/2017 Road Race Men Junior 13-14
 Place,License #,First,Last,City,State,Time,Team
 1,423654,McKay,Kinsey,Fresno,CA,,Academy Cycling
-2,495779,Toby,Bodden,Lafayette,CA,,Tieni Duro Juniors
+2,495779,Toby,Bodden,Concord,CA,,Tieni Duro Juniors
 3,523905,Matthew,Amara,Fresno,CA,,Unattached
 4,394290,Cooper,Downing,Piedmont,CA,,JAKROO presented by Chrome Industries
 5,523907,Benjamin,Colby,Piedmont,CA,,
@@ -555,15 +555,15 @@ Place,License #,First,Last,City,State,Time,Team
 2,524906,Brandi,Cleland,Auburn,CA,,Victory Velo Racing
 3,512274,Rebekah,Bermudez,Oakland,CA,,Shespoke
 4,525250,Laura,van den Bosch,Berkeley,CA,,Shespoke Racing
-5,523813,Julie,Delbuck,Berkeley,CA,,
+5,523813,Julie,Delbuck,Emeryville,CA,,
 6,522508,Colleen,Chew,San Mateo,CA,,Pen Velo Racing/Summit Bicycles
 DNP,523268,Cari,Roughley,Napa,CA,,SheSpoke Racing
 
 03/04/2017 Road Race Women Cat 4
 Place,License #,First,Last,City,State,Time,Team
 1,494210,Kortney,Parman,San Francisco,CA,,JL Velo
-2,460101,Sarah,Tollman,Stanford,CA,,RAZZLE DAZZLE
-3,460729,Jill,Huyette,Santa Rosa,CA,,JLVelo Cycling Team p/b The Freewheel
+2,460101,Sarah,Tollman,San Francisco,CA,,RAZZLE DAZZLE
+3,460729,Jill,Huyette,Healdsburg,CA,,JLVelo Cycling Team p/b The Freewheel
 4,458024,Anna,Stewart,Turlock,CA,,Bell Real Estate Cycling
 5,459878,Trixie,Bradley,Pilot Hill,CA,,Team Roseville Cyclery
 6,481163,Jessica,Parteno,San Francisco,CA,,JLVelo Cycling p/b The Freewheel
@@ -586,14 +586,14 @@ DNF,393225,Lilli,Safley,Modesto,CA,,
 03/04/2017 Road Race Women Cat 3
 Place,License #,First,Last,City,State,Time,Team
 1,383010,Casey,Myers,Napa,CA,,Chico Cycling Team
-2,422238,Sawyer,Taylor,Greenbrae,CA,,Team Swift
+2,422238,Sawyer,Taylor,San Rafael,CA,,Team Swift
 3,396175,Naomi,Hester,Davis,CA,,
 4,340330,Eleanor,Velez,El Dorado Hills,CA,,
 5,486780,Amy,Moor,Oakland,CA,,SheSpoke Racing
 6,387636,Rachelle,Ortega,Morgan Hill,CA,,JL Velo Cycling p/b The FreeWheel
 7,402178,Zahra,Gill,Hayward,CA,,Sho-air TWENTY20
 8,466237,Diniana,Piekutowski,Stanford,CA,,RAZZLE DAZZLE
-9,485936,Trish,Pablo,Sacramento ,CA,,Team Mikes Bikes p/b Equator Coffees
+9,485936,Trish,Pablo,Rodeo,CA,,Team Mikes Bikes p/b Equator Coffees
 10,291002,Arielle,Little,Berkeley,CA,,SunPower Racing
 11,307890,Heather,McDonald,San Francisco,CA,,JLVelo Cycling Team p/b The Freewheel
 12,419981,Meisin,Yan,San Francisco,CA,,Team Mikes Bikes p/b Equator Coffees

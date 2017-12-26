@@ -12,7 +12,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,336780,Kevin,BECKWITH,Medford,NJ,0.2,Summit Cycling Club
 9,476740,Henry,BOSTIAN,Short Hills,NJ,0.1,Montclair Bikery Development Te
 10,474322,Lamar,ZOOK,Ephrata,PA,0,Qcw Cycling P.b. Breakawaybikes
-11,410977,Oscar,DIAZ,Hamilton,NJ,0.1,Us Military Endurance Sports
+11,410977,Oscar,DIAZ,Millstone Township ,NJ,0.1,Us Military Endurance Sports
 12,0,Christoper,UTHGENANNT,,,0.2,Wooden Wheels Racing
 13,502043,Jon,ELISON,King Of Prussia,PA,0.2,
 14,482053,Ryan,BECK,Philadelphia,PA,0.5,Rohan Cycling
@@ -51,7 +51,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,379369,Tom,REEB,Philadelphia,PA,45:10.2,Bicycle Therapy
 2,499890,William,WAHL,Sicklerville,NJ,2.5,
 3,299366,Nilsson,RUIZ,Perth Amboy,NJ,0.1,Karma Racing Team
-4,411044,Wanya,CAVE,Collingdale,PA,1.2,Tri-state Velo / Amoroso's Raci
+4,411044,Wanya,CAVE,Philadelphia,PA,1.2,Tri-state Velo / Amoroso's Raci
 5,528891,Andrew,OLIVER,Virginia Beach,VA,0,
 6,403975,Randall,CALVERT,Glen Mills,PA,0.1,Team Fec P/b Trek Bikes
 7,425257,Connor,THOMPSON,Sinking Spring,PA,0.4,T-town Elite
@@ -63,7 +63,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,334476,Carl,JACOB,North Brunswick,NJ,0,Rothman Institute P/b Talksoft
 14,477027,Nelson,ODREMAN,North Plainfield ,NJ,0.5,
 15,208386,Paul,DE SANTIS,Freeland,MD,0.2,Bmorehumane P/b Gvc
-16,422489,Uber,URIBE,Montclair ,NJ,0.4,Montclair Bikery Racing
+16,422489,Uber,URIBE,Montclair,NJ,0.4,Montclair Bikery Racing
 17,396584,Sean,GAUGHAN,Elmer,NJ,0.1,Tuckahoe Bike Shop
 18,448395,Kyle,CLIFFORD,Philadelphia,PA,0.1,Cs Velo
 19,473124,Brent,VOLLRATH,Blue Bell,PA,0.1,Blue Bell Private Wealth Manage
@@ -150,7 +150,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,523719,Diego,RODRIGUEZ,Mays Landing,NJ,0.4,Vr2209
 8,313046,Ryan,RAPOLAS,Phoenixville,PA,4.1,Qcw Breakawaybikes.com P.b. Jlv
 9,164375,Brent,HINKLE,Wallingford,PA,8.7,Active Yards
-10,28984,John,RACHFAL,Ardmore,PA,54.1,Cs Velo
+10,28984,John,RACHFAL,Needham,MA,54.1,Cs Velo
 11,86898,Michael,NOVEMSKY,Maplewood,NJ,0.9,Montclair Bikery Racing
 12,52533,Rich,ROSS,Cherry Hill,NJ,25.3,Mambo Kings Racing/d&q
 13,13897,David,GRANT,Downingtown,PA,0.8,Chester County Velo
@@ -174,14 +174,14 @@ Place,License #,First,Last,City,State,Time,Team
 31,213562,John,HOWE,Newtown,PA,1.3,
 32,102332,Daniel,SHELANSKEY,Pitman,NJ,-1 Lap,Caffeinated Cyclist Racing
 DNS,333486,Michael,BORDA,West Deptford,NJ,,Mambo Kings Racing
-DNS,158787,Wasyel,DANYSH,New Providence ,NJ,,Us Military Endurance Sports
+DNS,158787,Wasyel,DANYSH,New Providence,NJ,,Us Military Endurance Sports
 DNS,16515,Scott,HOLDER,Cherry Hill,NJ,,Mambo Kings Racing/d&q
 DNS,301870,Seth,HOUSTON,Perkasie,PA,,Rothman Institute P/b Talksoft
 DNS,188223,Otto,SANCHEZ,Haddonfield ,NJ,,Psracing/ Btb
 DNF,283254,Greg,HORROCKS,Spring City,PA,,Blue Bell Private Wealth Management P/b Cannondale
 DNF,374701,John,PINTO,Maplewood ,NJ,,Direct Contract Packaging-bicisport
 DNF,179761,Dan,ROSENBAUM,W. Conshohocken,PA,,Cs Velo
-DNF,422489,Uber,URIBE,Montclair ,NJ,,Montclair Bikery Racing
+DNF,422489,Uber,URIBE,Montclair,NJ,,Montclair Bikery Racing
 DNF,459031,Bill,WAHL,Sicklerville,NJ,,Psracing/btb
 DNF,164641,Ian,ANDERSON,Brick,NJ,,Cycles 54
 DNF,403076,Ned,BEMENT,West Chester,PA,,Chester County Velo
@@ -195,7 +195,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,259837,Robert,GRIMWOOD,Lewisberry,PA,0.4,World Cup Ski & Cycle Cycling T
 6,18414,David,KAHL,West Milford,NJ,0,Propower Coaching
 7,13897,Dave,GRANT,Downingtown,PA,0.1,Activeyards / Chester County Ve
-8,28984,John,RACHFAL,Ardmore,PA,0.3,Cs Velo
+8,28984,John,RACHFAL,Needham,MA,0.3,Cs Velo
 9,30381,Carlos,ROGERS,Riverton,NJ,1,
 10,141829,Steve,SAMBRANO,Lansdale,PA,0.5,Guy's Racing Club
 11,59841,Slawomir,PODWOJNIAK,Collingswood,NJ,1.2,Summit Cycling Club/ Dq Racing
@@ -219,7 +219,7 @@ Place,License #,First,Last,City,State,Time,Team
 29,420190,Baruch,BAR,Cherry Hill,NJ,-1 Lap,Summit Cycling Club/ Dq Racing
 30,228774,James,FLAHERTY,Collingswood,NJ,-1 Lap,Collingswood Cog
 DNS,7235,Steve,COCHRANE,Princeton,NJ,,Mambo Kings
-DNS,158787,Wasyel,DANYSH,New Providence ,NJ,,Us Military Endurance Sports
+DNS,158787,Wasyel,DANYSH,New Providence,NJ,,Us Military Endurance Sports
 DNS,51369,Keith,DAVIES,Wilmington,DE,,Mambo Kings Racing/d&q
 DNS,9666,Kurt,DODDS,Ardmore,PA,,Cs Velo
 DNS,279498,Chad,MOSS,Hendersonville,TN,,Cs Velo
@@ -251,7 +251,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,191926,Robert,KOWAL,Hillsborough,NJ,0.3,Team Somerset
 12,170709,Doug,HOVER,Leonardo,NJ,0.2,Cycles 54/ Five Four Sports
 13,110675,Clay,ALLEN,Hammonton,NJ,0.3,Pro Pedals Racing
-14,192230,Mark,COWIN,Frederica ,DE,0.1,Pro Pedals Racing
+14,192230,Mark,COWIN,Frederica,DE,0.1,Pro Pedals Racing
 15,46494,John,MUOIO,Ramsey,NJ,0.1,Westwood Velo
 16,47868,Romel,CAMPBELL,Dumont,NJ,0.1,Westwood Velo
 17,15376,Mark,HASTINGS,Philadelphia,PA,0,Qcw Cycling P.b. Breakawaybikes

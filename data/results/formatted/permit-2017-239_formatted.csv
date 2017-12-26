@@ -9,7 +9,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,0,Tyler,Clark*,,,34:31.4,KMS CYCLING
 6,281943,Keith,Kelly,Jamaica Plain,MA,34:36.8,VELOCIO NORTHEAST
 7,318100,Smith,Anderson,Brighton,MA,37:54.8,GREEN LINE VELO
-8,231409,Lucas,Fortini,Fairfield,CT,37:55.3,RACE CF
+8,231409,Lucas,Fortini,Arlington,MA,37:55.3,RACE CF
 9,523883,Stephen,Jette,Framingham,MA,37:55.6,N.E. DEVO
 10,305773,Stephen,Hyde,Easthampton,MA,37:56.4,CONNONDALE
 11,165565,Scott,Yarosh,Hatfield,MA,37:58.3,JAM NCC
@@ -34,9 +34,9 @@ Place,License #,First,Last,City,State,Time,Team
 30,48669,John,Sakalowsky,Newton,MA,43:11.4,TEAM ROMEO
 31,429934,Kameron,Clayton,Somerville,MA,43:11.8,GREEN LINE VELO DRIVEN BY ZIPCA
 32,21706,Jonathan,Lowenstein,North Kingstown,RI,43:12.0,CLIF BAR/GIORDANA
-33,485904,Ken,Greim,Cambridge,MA,43:20.5,GREEN LINE VELO DRIVEN BY ZIPCA
+33,485904,Ken,Greim,Belmont,MA,43:20.5,GREEN LINE VELO DRIVEN BY ZIPCA
 34,207152,Colin,Murphy,Cambridge,MA,43:57.5,BOSTON RACING INDEPENDENT
-35,218415,Ted,Willard,Dartmouth,MA,43:57.7,
+35,218415,Ted,Willard,South Dartmouth,MA,43:57.7,
 
 05/06/2017 Road Race Men CAT 5
 Place,License #,First,Last,City,State,Time,Team
@@ -45,7 +45,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,497930,Stephen,Cameron,Burlington,MA,51:48.6,
 4,500038,Nicholas,Wixom,Brighton,MA,51:48.6,545 VELO
 5,523792,Alex,Scherzer,Cambridge,MA,51:48.8,
-6,496835,Caleb,Goodhouse,Brighton,MA,51:49.3,
+6,496835,Caleb,Goodhouse,Cambridge,MA,51:49.3,
 7,0,Jay,Vasconcellos,,,51:49.7,
 8,472929,Addison,Minott,Boston,MA,51:49.8,
 9,523467,Ronan,Fay,Riverside,RI,51:49.9,SVC/BIKEWORKS
@@ -68,7 +68,7 @@ Place,License #,First,Last,City,State,Time,Team
 26,494672,Matthew,Bourque,Carver,MA,51:57.5,
 27,457985,Mark,Daniels,Grafton,MA,51:57.7,MINUTEMAN ROAD CLUB
 28,305801,Thomas,Curtin,Canton,MA,51:58.0,
-29,0,Michael,Marston,,,51:58.2,ZOMBIE CREW
+29,521156,Michael,Marston,Roxbury,MA,51:58.2,ZOMBIE CREW
 30,0,Frank,Sleegers,,,51:58.4,NORTHAMPTON CYCLING CLUB (NCC)
 31,386678,Matthew,Schnall,Somerville,MA,51:58.5,545 VELO
 32,499818,Matthew,Gudeahn,Danielson,CT,51:58.6,SOUTHBRIDGE BICYCLES
@@ -84,9 +84,9 @@ Place,License #,First,Last,City,State,Time,Team
 42,0,Gregory,Bonath,,,56:36.9,BOATHOUSE BED AND BREAKFAST
 43,269230,Gabriel,Ytterberg,Boston,MA,57:38.7,
 44,522500,Scott,Girvan,Marstons Mills,MA,59:42.6,
-45,529518,Sam,Santich,Springfield,MA,00:05.3,
+45,529518,Sam,Santich,Centennial,CO,00:05.3,
 46,514090,Vladimir,Tejada,Everett,MA,00:07.1,TEAM COLOMBIA
-47,522902,Samuel,Robinson,Medford,MA,01:07.3,545 VELO
+47,522902,Samuel,Robinson,Brookline,MA,01:07.3,545 VELO
 48,527173,Emmanuel,Loaiza,Shrewsbury,MA,06:30.3,
 49,306171,Dale,Hollingsworth,Randolph,MA,09:54.9,TEAM TRAVIS CYCLE
 
@@ -164,7 +164,7 @@ Place,License #,First,Last,City,State,Time,Team
 34,459689,John,Obrien,Meriden,CT,51:57.1,US MILITARY ENDURANCE
 35,502978,Camden,Black-ingersoll,Concord,NH,52:01.7,DOWNEAST RACING
 36,277289,Joseph,Marinelli,Brighton,MA,52:08.5,BLUE HILLS CYCLING CLUB
-37,91530,Jason,Yannelli,S Casco,ME,52:13.8,USMES
+37,91530,Jason,Yannelli,Sebago,ME,52:13.8,USMES
 38,398045,John,Kasbohm,Dover,NH,53:03.4,NORTHHAMPTON CYCLING
 39,236457,Nolan,Garon,Dunstable,MA,59:53.8,GREEN LINE VELO DRIVEN BY ZIPCA
 40,501810,Michael,Rose,Framingham,MA,00:02.5,MINUTEMAN ROAD CLUB
@@ -184,11 +184,11 @@ Place,License #,First,Last,City,State,Time,Team
 11,304095,Jeremy,Cratty,Stow,MA,02:10.6,MINUTEMEN RACING
 12,438505,Kyle,Crowell,Prospect,CT,02:10.6,CT CYCLING ADVANCEMENT PROGRAM
 13,54253,David,Mccay,Southborough,MA,02:10.8,MINUTEMAN ROAD CLUB
-14,271529,Marshall,Johnson,North Stonington ,CT,02:10.9,CLR RACING
+14,271529,Marshall,Johnson,North Stonington,CT,02:10.9,CLR RACING
 15,429724,Ben,Jankowski,Mansfield,MA,02:11.3,JAM FUND
 16,359410,Patrick,Murphy,Burlington,VT,02:11.5,NEXT/BMB
 17,315952,Nathan,Coste,Bristol,RI,02:11.5,SWANSEA VELO CLUB/ BIKEWORKS
-18,485904,Ken,Greim,Cambridge,MA,02:11.6,GREEN LINE VELO DRIVEN BY ZIPCA
+18,485904,Ken,Greim,Belmont,MA,02:11.6,GREEN LINE VELO DRIVEN BY ZIPCA
 19,304459,John,Raguin,Acton,MA,02:11.7,MINUTEMAN ROAD CLUB
 20,293636,Benjamin,Kramer,Bow,NH,02:12.1,SUNAPEE/CONTINENTAL PAVING/BUCH
 21,216404,Andrew,Piper,Cambridge,MA,02:12.5,MINUTEMAN ROAD CLUB
@@ -197,13 +197,13 @@ Place,License #,First,Last,City,State,Time,Team
 24,250715,Anson,Ross,Plainfield,CT,02:13.8,SOUTHBRIDGE BIKES/CANNONDALE
 25,406156,Christian,Norvold,Berlin,MA,02:14.7,JAM / NCC
 26,205206,Nicholas,Tham ming qiang,Somerville,MA,02:14.9,MIT CYCLING P/B FXDD
-27,408284,Mark,Hewitt,South Deerfield,MA,02:16.4,JAM / NCC
+27,408284,Mark,Hewitt,Mattapan,MA,02:16.4,JAM / NCC
 28,27431,Bryan,Patton,Galena,MD,02:17.3,B2C2/JRA CYCLES
 29,93288,Chris,Busick,Shrewsbury,MA,02:20.9,MINUTEMAN ROAD CLUB
 30,429934,Kameron,Clayton,Somerville,MA,02:23.1,GREEN LINE VELO DRIVEN BY ZIPCA
 31,287057,Adam,Bernstein,Boston,MA,02:23.2,GREEN LINE VELO DRIVEN BY ZIPCA
 32,126471,Carl,Hitchcock,South Portland,ME,02:27.2,PVC/CYCLEMANIA
-33,282446,Daniel,Fitzgibbons,Boston,MA,02:29.1,GREEN LINE VELO
+33,282446,Daniel,Fitzgibbons,Dorchester,MA,02:29.1,GREEN LINE VELO
 34,333946,Sam,Damphousse,Marshfield,MA,02:31.7,BMB RACING
 35,316740,Danny,Saccoccio,Walpole,MA,02:41.3,SVC/BIKEWORKS
 
@@ -212,7 +212,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,457311,Lizzy,Hughes,Natick,MA,00:11.1,PEDALPOWERTRAINING.COM
 2,529577,Felicity,Billings,West Newton,MA,00:11.3,545 VELO
 3,531648,Carolyn,Mason,Glastonbury,CT,00:11.5,Race CF
-4,500752,Jennifer,Krueger,Wakefield,RI,00:11.8,W.E. STEDMAN CO.
+4,500752,Jennifer,Krueger,Wakfield,RI,00:11.8,W.E. STEDMAN CO.
 5,295045,Acmae,El yacoubi,Natick,MA,00:12.1,545 VELO
 6,325382,Jauron,Vetter,Manchester,NH,00:12.2,MAD ALCHEMY | ZANCONATO
 7,497978,Melanie,Ryals,Auburndale,MA,00:13.4,545 VELO
@@ -223,7 +223,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,405301,Donna,Frankel,Brookline,MA,00:14.9,545 VELO
 13,522765,Deborah,Linder,Newton,MA,00:15.6,545 VELO
 14,424985,Tanya,Boulanova,Beverly,MA,00:16.0,MONSTER MEDIA RACING P/B BUTCHE
-15,429848,Alex,Carlson,Jamaica Plain,MA,00:16.5,B2C2
+15,429848,Alex,Carlson,Arlington,MA,00:16.5,B2C2
 16,404793,Kim,Dubord,Vernon Rockville,CT,00:18.6,CYCLING CONCEPTS RACING TEAM
 17,214603,Loraine,Warner,Pelham,NH,05:04.3,BFSC
 18,532422,Paulina,Baez zepeda,Brighton,MA,,B2C2-BACK BAY CYCLING CLUB
@@ -270,7 +270,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,74064,Travis,Dixon,Portland,ME,05:59.4,DOWNEAST RACING
 17,272680,Esteban,Sequera,Milford,CT,06:00.0,CVC HARTFORD HEALTHCARE SPORTS
 18,326414,Daniel,Goldman,West Newton,MA,06:01.0,545 VELO
-19,218415,Ted,Willard,Dartmouth,MA,06:02.0,ABSOLUTE VELO
+19,218415,Ted,Willard,South Dartmouth,MA,06:02.0,ABSOLUTE VELO
 20,228871,Oscar,Jimenez,Lowell,MA,06:04.2,BOSTON RACING INDEPENDENT
 21,20392,Ryan,Larocque,Manchester,NH,06:05.4,MAD ALCHEMY | ZANCONATO
 22,19831,Matthew,Kressy,Wellesley,MA,06:12.9,WHEELWORKS

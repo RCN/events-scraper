@@ -83,7 +83,7 @@ DNF,378726,Adam,Fleming,Franklin,WI,0:00:00.00,Metro MTB
 
 07/09/2017 Enduro Men Amateur 40-49
 Place,License #,First,Last,City,State,Time,Team
-1,310413,Dave,Blanke,N. Barrington,IL,0:08:10.98,The Bike Haven
+1,310413,Dave,Blanke,Barrington,IL,0:08:10.98,The Bike Haven
 2,503937,Jason,Kloptowsky,Tinley Park,IL,0:08:12.49,
 3,374811,Darrell,Scheppman,Denmark,WI,0:08:19.03,Loft and Shove
 4,507568,Daniel,Gill,Pewaukee,WI,0:08:42.44,Colectivo
@@ -118,12 +118,12 @@ DNF,392296,Rick,Nelson,Cherry Valley,IL,0:00:00.00,Kegel's Bicycle Shop
 
 07/09/2017 Enduro Women Pro/Open
 Place,License #,First,Last,City,State,Time,Team
-1,350192,Leia,Schneeberger,Madison,WI,0:08:46.45,Broken Spoke Racing
+1,350192,Leia,Schneeberger,De Pere,WI,0:08:46.45,Broken Spoke Racing
 2,467270,Holly,Lavesser,New Berlin,WI,0:08:53.25,Neff Cycle Service
 3,530575,Kera,Linn,Davenport,IA,0:09:03.12,Healthy Habits
 4,481372,Wendy,Boehm,Madison,WI,0:09:26.07,Neff Cycle Service
 5,532595,Jasmine,House,Oneida,WI,0:09:28.64,Enclave
-6,458771,Kristina,Navarro,Mc Farland,WI,0:09:57.28,Neff Cycle Service
+6,458771,Kristina,Navarro,Cambridge,WI,0:09:57.28,Neff Cycle Service
 7,473931,Katrina,Hurst,Lake Geneva,WI,0:10:14.92,Linear Sport /Trek
 
 07/09/2017 Enduro Women Amateur 17-39
@@ -149,7 +149,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,351944,Matt,Riley,Waterloo,WI,0:29:54.6,KS Energy Services / MOSH / WI
 12,481890,Hayden,Rosborough,Prescott,AZ,0:30:14.4,AZ Devo
 13,432831,Bobby,Jones,Gilbertsville,KY,0:30:33.2,Bear Development Team
-14,499709,Grayson,Hughes,Prescott,AZ,-1 Lap,AZ Devo
+14,527142,Grayson,Hughes,Silver Spring,MD,-1 Lap,AZ Devo
 DNF,294148,Ben,Senkerik,Wauwatosa,WI,0:00:00.0,Team Extreme
 
 07/09/2017 Short Track Cross Country Men Amateur 15-18
@@ -203,7 +203,7 @@ Place,License #,First,Last,City,State,Time,Team
 24,531378,Jeff,Meade,Mchenry,IL,-3 Laps,Bike Haven Race Team
 25,499442,Dakota,Smith,Janesville,WI,-3 Laps,All Spoked Up
 26,503658,Paul,Griffin,Sheboygan,WI,-4 Laps,Sheboygan Bicycle Company
-DNF,515907,Matthew,Grady,Steele,AL,0:00:00.0,Team Pedal Moraine
+DNF,515907,Matthew,Grady,Cedarburg,WI,0:00:00.0,Team Pedal Moraine
 
 07/09/2017 Short Track Cross Country Men Amateur 40-49
 Place,License #,First,Last,City,State,Time,Team
@@ -220,13 +220,13 @@ Place,License #,First,Last,City,State,Time,Team
 11,438523,Matt,Lemorande,Suamico,WI,0:18:46.7,Pete's Garage Racing
 12,468491,Eric,Holmstrom,Sherwood,WI,0:18:51.0,Schwag Bike Shop
 13,459045,Philip,Peterson,Madison,WI,0:19:02.6,Brazen Dropouts
-14,208096,Wade,Flisram,Onalaska,WI,0:19:14.0,Hammer Nutrition/S.S.O.D.
+14,208096,Wade,Flisram,La Crosse,WI,0:19:14.0,Hammer Nutrition/S.S.O.D.
 15,470413,Jeff,Pitts,Sheboygan,WI,0:19:20.9,Spandex Bandits
 16,345020,Paul,Baltus,Janesville,WI,0:19:21.2,Janesville Velo Club/Michael's
 17,527202,Craig,Mortvedt,Mount Horeb,WI,-1 Lap,
 18,531316,Nathin,Davisson,Beloit,WI,-1 Lap,Broken Spoke
 19,303018,Brad,Knapp,Appleton,WI,-1 Lap,Broken Spoke Racing
-20,499844,Nick,Aghakhan,Long Grove ,IL,-1 Lap,Bike Haven Race Team
+20,499844,Nick,Aghakhan,Vernon Hills,IL,-1 Lap,Bike Haven Race Team
 21,443014,Daniel,Meyer,Chicago,IL,-1 Lap,Half Acre Cycling
 22,529543,Michael,Schauer,Green Bay,WI,-4 Laps,Broken Spoke
 DNF,500281,Mark,Kessenich,Shorewood,WI,0:00:00.0,Colectivo
@@ -291,7 +291,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,368031,Fletcher,Arlen,Wausau,WI,0:21:25.1,Schwag
 2,477195,Payson,Partridge,Bozeman,MT,0:21:30.0,Dekorra Factory Racing
-3,456923,Jake,Peterson,Batavia,IL,0:21:36.7,Team Bicycle Heaven/Sword
+3,456923,Jake,Peterson,Elburn,IL,0:21:36.7,Team Bicycle Heaven/Sword
 4,384376,David,Carew,Greenville,WI,0:21:50.2,Wheel and Sprocket
 5,429599,Casey,Griesemer,Cambridge,WI,0:21:54.9,Neff Cycle Service
 6,423061,Mark,Kransz,Marquette,MI,0:22:05.6,
@@ -373,9 +373,9 @@ Place,License #,First,Last,City,State,Time,Team
 
 07/09/2017 Short Track Cross Country Women Cat 1 19-39
 Place,License #,First,Last,City,State,Time,Team
-1,350192,Leia,Schneeberger,Madison,WI,0:17:54.7,Broken Spoke Racing
+1,350192,Leia,Schneeberger,De Pere,WI,0:17:54.7,Broken Spoke Racing
 2,202435,Anna,Ganju,New Berlin,WI,0:18:27.8,Collective Coffee Race Team
 3,473931,Katrina,Hurst,Lake Geneva,WI,0:19:17.3,Linear Sport /Trek
-4,458771,Kristina,Navarro,Mc Farland,WI,0:19:43.9,Neff Cycle Service
+4,458771,Kristina,Navarro,Cambridge,WI,0:19:43.9,Neff Cycle Service
 5,481372,Wendy,Boehm,Madison,WI,0:19:49.1,Neff Cycle Service
 6,186264,Rachel,Headley,Milwaukee,WI,-1 Lap,Belgianwerkx

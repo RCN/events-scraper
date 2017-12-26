@@ -17,8 +17,8 @@ Place,License #,First,Last,City,State,Time,Team
 13,394898,Emerson,Glassey,Cambridge,MA,1:04:52,Massachusetts Institute of Technology
 14,311527,Kenneth,McNeill,Rutland,VT,1:04:52,Northeastern University
 15,0,Blake,Bogden,,,1:04:52,Queen's University
-16,311452,Alec,Cunningham,Cheshire,CT,1:04:52,University of New Hampshire
-17,493748,Benjamen,Shrewsberry,Shippensburg,PA,1:04:52,Shippensburg University of Pennsylvania
+16,311452,Alec,Cunningham,Cape Neddick,ME,1:04:52,University of New Hampshire
+17,493748,Benjamen,Shrewsberry,Fredericksburg,VA,1:04:52,Shippensburg University of Pennsylvania
 18,0,Marc-Antonie,Beaudoin,,,1:04:52,University of Toronto
 19,305134,Michael,Martin,Brooklyn,CT,1:04:52,Harvard University
 20,427903,Adam,Ruff,West Point,NY,1:04:52,US Military Academy
@@ -28,14 +28,14 @@ Place,License #,First,Last,City,State,Time,Team
 24,297235,Kenneth,Englert,Shawnee,KS,1:04:52,US Military Academy
 25,371518,Christopher,Welch,Barneveld,NY,1:04:52,KMS Cycling-Killington Mountain School
 26,310212,Zachary,Isaacs,Oakland,CA,P&P,Dartmouth College
-27,383744,Jason,Hammond,Stanford,CA,P&P,University of Delaware
+27,383744,Jason,Hammond,Palo Alto,CA,P&P,University of Delaware
 28,433483,Samuel,Hedlund,Minneapolis,MN,P&P,University of Vermont
 29,0,Ryan,Jonker,,,P&P,Queen's University
 30,0,Cole,Schumacher,,,P&P,Queen's University
 31,423893,Michael,Grome,New Haven,CT,P&P,Yale University
-32,448552,Andrew,Scott,Morristown,NJ,P&P,Princeton University
+32,448552,Andrew,Scott,Seal Harbor ,NJ,P&P,Princeton University
 33,290838,Zachary,Berkow,Bethesda,MD,P&P,Dartmouth College
-34,466208,Darin,Alleman,Newville,PA,P&P,Shippensburg University of Pennsylvania
+34,466208,Darin,Alleman,Fredericksburg,VA,P&P,Shippensburg University of Pennsylvania
 DNF,326136,Alex,Breakstone,Westfield,NJ,DNF,Bucknell University
 
 03/26/2017 Criterium Men Collegiate B
@@ -54,12 +54,12 @@ Place,License #,First,Last,City,State,Time,Team
 12,0,Christopher,Hatton,,,0:48:24,Queen's University
 13,340734,Ian,Bensco,Havkettstown,NJ,0:48:24,Columbia University-NYC
 14,428309,Leo,Kirkpatrick Baird,Bernardsville,NJ,0:48:24,KMS Cycling-Killington Mountain School
-15,301490,Breton,Minnehan,Rochester,NY,0:48:24,Rochester Institute of Technology
+15,301490,Breton,Minnehan,Hopkinton,NH,0:48:24,Rochester Institute of Technology
 16,0,Adric,Heney,,,0:48:24,Queen's University
 17,0,Morten,Rytgaard,,,0:48:24,McGill University
 18,402310,Matthew,Park,Irvine,CA,0:48:24,New York University
 19,455596,Benito,Cecenas,Manchester,NH,P&P,University of Vermont
-20,428501,Torin,La Liberte,Colchester,VT,P&P,Saint Michaels College
+20,428501,Torin,La Liberte,Madison,NH,P&P,Saint Michaels College
 21,487624,Simon,Voorhees,Bethlehem,PA,P&P,Temple University
 22,403141,Andrew,Lints,Brookfield,VT,P&P,Rochester Institute of Technology
 23,397217,Monica,Volk,Kempton,PA,P&P,Pennsylvania State University
@@ -89,7 +89,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,499878,Patrick,White,Somerville,MA,0:39:01,Massachusetts Institute of Technology
 6,497895,Cobie,Arnold,Lebanon,PA,0:39:04,Pennsylvania State University
 7,396793,Galen,Xing,Bronx,NY,0:39:04,Columbia University-NYC
-8,488521,Przemyslaw,Krol,Cambridge,MA,0:39:04,Massachusetts Institute of Technology
+8,488521,Przemyslaw,Krol,Milwaukee,WI,0:39:04,Massachusetts Institute of Technology
 9,500224,Maximilian,Hochschwender,Rye,NH,0:39:04,University of New Hampshire
 10,496826,Jack,Vogel,Franklin Lakes,NJ,0:39:04,New York University
 11,498800,Noah,Stauffer,State College,PA,0:39:16,Pennsylvania State University
@@ -132,7 +132,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,448673,Ian,McCartney,Bethlehem,PA,0:29:57,Lehigh University
 7,527958,Alex,Burlew,Pittsburgh,PA,0:29:57,University of Pittsburgh
 8,527758,Joseph,Robison,State College,PA,0:29:57,Pennsylvania State University
-9,499532,Wesley,Low,Los Altos,CA,0:29:57,Boston University
+9,499532,Wesley,Low,Boston,MA,0:29:57,Boston University
 10,526401,Andrew,Mei,Skillman,NJ,0:29:57,New York University
 11,524413,Rowan,Crowley,West Point,NY,0:29:57,US Military Academy
 12,0,Xuchao,Yang,,,0:29:57,University of Toronto
@@ -185,13 +185,13 @@ Place,License #,First,Last,City,State,Time,Team
 3,480257,Kira,Payer,Housatonic,MA,0:46:13,KMS Cycling-Killington Mountain School
 4,274095,Marjolein,Pawlus,Sarasota,FL,0:46:13,Northeastern University
 5,449362,Allison,Mrugal,West Chester,PA,0:46:13,Rensselaer Polytechnic Institute
-6,467179,Emma,Edwards,Brookline,MA,0:46:13,Massachusetts Institute of Technology
+6,467179,Emma,Edwards,Cambridge,MA,0:46:13,Massachusetts Institute of Technology
 7,495801,Tori,Wuthrich,Cambridge,MA,0:46:13,Massachusetts Institute of Technology
 8,0,Rachel,Blair,,,0:46:13,Queen's University
 9,500046,Megan,Galinat,Boise,ID,0:46:25,Northeastern University
 10,486111,Monte,Ho,West Point,NY,1 Lap,US Military Academy
 11,381950,Turner,Ramsay,Rutland,VT,1 Lap,KMS Cycling-Killington Mountain School
-12,429837,Kathryn,Olesnavage,Somerville,MA,1 Lap,Massachusetts Institute of Technology
+12,429837,Kathryn,Olesnavage,Redondo Beach,CA,1 Lap,Massachusetts Institute of Technology
 13,395693,Josephine,VanLoozen,Philadelphia,PA,1 Lap,Drexel University
 14,290571,Evelyn,Korbich,Lewisburg,PA,1 Lap,Bucknell University
 DNF,404620,Amanda,Schevers,,,DNF,Queen's University
@@ -212,7 +212,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,0,Hannah,Simms,,,0:39:20,Queen's University
 2,460370,Octavia,Mulhern,New York,NY,0:39:20,New York University
 3,487107,Katherine,Rusch,Middletown,RI,0:39:20,Rensselaer Polytechnic Institute
-4,497037,Ellie,Perry,Pittsford,NY,0:39:20,Bucknell University
+4,497037,Ellie,Perry,Los Angeles,CA,0:39:20,Bucknell University
 5,499115,Emily,Mailhot,Blairstown,NJ,0:39:20,Lehigh University
 6,457844,Camille,Joubert,Brooklyn,NY,0:39:20,New York University
 7,414101,Nicole,Walch,Oakland,MD,0:39:20,University of Vermont
@@ -256,18 +256,18 @@ Place,License #,First,Last,City,State,Time,Team
 15,415239,James,Read,Boulder,CO,3:23:32,Pennsylvania State University
 16,0,Daniel,Wilson,,,3:23:32,University of Toronto
 17,290838,Zachary,Berkow,Bethesda,MD,3:25:24,Dartmouth College
-18,448552,Andrew,Scott,Morristown,NJ,3:25:45,Princeton University
+18,448552,Andrew,Scott,Seal Harbor ,NJ,3:25:45,Princeton University
 19,305134,Michael,Martin,Brooklyn,CT,3:26:30,Harvard University
-20,493748,Benjamen,Shrewsberry,Shippensburg,PA,3:26:45,Shippensburg University of Pennsylvania
-21,311452,Alec,Cunningham,Cheshire,CT,3:26:45,University of New Hampshire
+20,493748,Benjamen,Shrewsberry,Fredericksburg,VA,3:26:45,Shippensburg University of Pennsylvania
+21,311452,Alec,Cunningham,Cape Neddick,ME,3:26:45,University of New Hampshire
 22,0,Ryan,Jonker,,,3:33:19,Queen's University
 23,433483,Samuel,Hedlund,Minneapolis,MN,3:35:44,University of Vermont
 24,466366,Carlo,Quicho,Boston,MA,P&P,Boston University
-25,383744,Jason,Hammond,Stanford,CA,P&P,University of Delaware
+25,383744,Jason,Hammond,Palo Alto,CA,P&P,University of Delaware
 26,433833,Hassan,Beydoun,Pittsburgh,PA,P&P,Carnegie Mellon University
 27,297235,Kenneth,Englert,Shawnee,KS,P&P,US Military Academy
 28,272704,Julian,Georg,Syracuse,NY,P&P,Syracuse University
-29,466208,Darin,Alleman,Newville,PA,P&P,Shippensburg University of Pennsylvania
+29,466208,Darin,Alleman,Fredericksburg,VA,P&P,Shippensburg University of Pennsylvania
 30,0,Andrew,Jontter,,,P&P,Queen's University
 31,0,Cole,Schumacher,,,P&P,Queen's University
 
@@ -295,11 +295,11 @@ Place,License #,First,Last,City,State,Time,Team
 20,403141,Andrew,Lints,Brookfield,VT,2:18:57,Rochester Institute of Technology
 21,488789,Caleb,Parnell,Hollidaysburg,PA,2:20:16,Juniata College
 22,397217,Monica,Volk,Kempton,PA,2:20:16,Pennsylvania State University
-23,301490,Breton,Minnehan,Rochester,NY,2:20:36,Rochester Institute of Technology
+23,301490,Breton,Minnehan,Hopkinton,NH,2:20:36,Rochester Institute of Technology
 24,0,Jose Antonio,Jijon,,,2:22:29,McGill University
 25,427000,Nathan,Roberts,Whitehall,PA,2:23:43,unattached
 26,29729,Damon,Richardson,San Francisco,CA,2:25:24,Queen's University
-27,428501,Torin,La Liberte,Colchester,VT,2:29:12,Saint Michaels College
+27,428501,Torin,La Liberte,Madison,NH,2:29:12,Saint Michaels College
 28,455596,Benito,Cecenas,Manchester,NH,2:30:26,University of Vermont
 29,297396,Andrew,Dapper,Macungie,PA,2:30:36,University of Delaware
 30,376915,Dominic,Giannantonio,Kutztown,PA,2:46:53,unattached
@@ -317,7 +317,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,0,Jordan,Miller,,,2:17:13,McGill University
 7,499878,Patrick,White,Somerville,MA,2:18:57,Massachusetts Institute of Technology
 8,380066,Nicholas,Tveter,Derry,NH,2:19:10,University of New Hampshire
-9,488521,Przemyslaw,Krol,Cambridge,MA,2:19:12,Massachusetts Institute of Technology
+9,488521,Przemyslaw,Krol,Milwaukee,WI,2:19:12,Massachusetts Institute of Technology
 10,466637,Xavier,Nogueira,Washington,DC,2:19:12,Temple University
 11,396793,Galen,Xing,Bronx,NY,2:19:17,Columbia University-NYC
 12,497895,Cobie,Arnold,Lebanon,PA,2:19:40,Pennsylvania State University
@@ -344,7 +344,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,524413,Rowan,Crowley,West Point,NY,1:08:34,US Military Academy
 3,499920,Messen,Timothy,Hanover,NH,1:08:39,Dartmouth College
 4,0,Xuchao,Yang,,,1:09:33,University of Toronto
-5,499532,Wesley,Low,Los Altos,CA,1:09:35,Boston University
+5,499532,Wesley,Low,Boston,MA,1:09:35,Boston University
 6,517086,Jacob,Murdock,Baldwin,MD,1:09:54,US Military Academy
 7,477701,Matthew,Mech,Macungie,PA,1:10:13,Emmaus High School
 8,499302,Andrew,Barentine,New Haven,CT,1:10:23,Yale University
@@ -399,8 +399,8 @@ DNF,525939,Lucas,Valdes,Churchville,MD,DNF,Dartmouth College
 
 03/25/2017 Road Race Women Collegiate A
 Place,License #,First,Last,City,State,Time,Team
-1,429837,Kathryn,Olesnavage,Somerville,MA,2:25:51,Massachusetts Institute of Technology
-2,467179,Emma,Edwards,Brookline,MA,2:25:52,Massachusetts Institute of Technology
+1,429837,Kathryn,Olesnavage,Redondo Beach,CA,2:25:51,Massachusetts Institute of Technology
+2,467179,Emma,Edwards,Cambridge,MA,2:25:52,Massachusetts Institute of Technology
 3,500046,Megan,Galinat,Boise,ID,2:26:47,Northeastern University
 4,389569,Emma,Workowski,Kutztown,PA,2:31:04,Kutztown High School
 5,499797,Danielle,Morshead,San Anselmo,CA,2:31:21,Brown University
@@ -431,7 +431,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,487107,Katherine,Rusch,Middletown,RI,1:14:40,Rensselaer Polytechnic Institute
 4,499115,Emily,Mailhot,Blairstown,NJ,1:15:03,Lehigh University
 5,486738,Phoebe,Hill,,,1:17:37,Vaughan Road Academy
-6,497037,Ellie,Perry,Pittsford,NY,1:17:37,Bucknell University
+6,497037,Ellie,Perry,Los Angeles,CA,1:17:37,Bucknell University
 7,460370,Octavia,Mulhern,New York,NY,1:17:37,New York University
 8,414101,Nicole,Walch,Oakland,MD,1:22:54,University of Vermont
 9,497533,Katie,Fogel,Allentown,PA,1:25:12,Penn State-Lehigh Valley

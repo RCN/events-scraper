@@ -2,14 +2,14 @@
 
 06/04/2017 Criterium Men Masters 55-59
 Place,License #,First,Last,City,State,Time,Team
-1,25655,Jerome,NADEL,Sunnyvale,CA,50:53,ThirstyBear p/b Akamai
+1,25655,Jerome,NADEL,Woodside,CA,50:53,ThirstyBear p/b Akamai
 2,52033,Curtis,SOUTHERN,Frederick,MD,50:53,National Capital Velo Club/Unit
 3,47684,Anthony,TAYLOR,Brooklyn,NY,50:54,Century Road Club Assoc
 4,45035,Adam,ASNES,Boulder,CO,50:54,Rocky Mountain Cancer Centers C
 5,18133,Bradley,JONES,Brea,CA,50:54,BBI-SIC Cycling
-6,7782,Greg,CORDASCO,Basking Ridge,NJ,50:55,Liberty Cycle Inc.
+6,7782,Greg,CORDASCO,Baskingridge,NJ,50:55,Liberty Cycle Inc.
 7,204496,Michael,O'ROURKE,Auburn,CA,50:55,Chronos Racing p/b Easton Cycli
-8,46650,Joseph,PAULSON,Boulder,CO,50:56,BoulderCentre for Orthopedics
+8,46650,Joseph,PAULSON,Berthoud,CO,50:56,BoulderCentre for Orthopedics
 9,50802,Keith,JOHNSON,Virginia Beach,VA,50:56,Atlantic Velo
 10,219616,Michael,HALL,Thousand Oaks,CA,50:56,HSR Racing p/b BIRDWORX
 11,10804,Joe,ENGEL,Fort Smith,AR,50:56,Boston Mountain Cyclists
@@ -23,10 +23,10 @@ Place,License #,First,Last,City,State,Time,Team
 19,50819,William,CALIGARI,Sheffield,MA,50:58,Berkshire Cycling Association
 20,87821,Robert,KNOCK,Las Vegas,NV,50:58,US Military Endurance Sports
 21,47071,Craig,HOFER,Littleton,CO,50:58,Groove Subaru Excel Sports
-22,197646,Tim,BORSETTI,Hendersonville,NC,50:58,Five Four Sports
+22,197646,Tim,BORSETTI,Central,SC,50:58,Five Four Sports
 23,192916,Darrell,HULL,Denton,TX,50:58,A Bloc
 24,360757,Kevin,CLARK,Geneva,FL,50:58,FloridaVelo
-25,345270,Brian,MCANDREWS,Danville,CA,50:58,ThirstyBear p/b Akamai
+25,345270,Brian,MCANDREWS,Spring,TX,50:58,ThirstyBear p/b Akamai
 26,101266,Steven,KURTH,Palm City,FL,50:59,Rocky Mountain Cancer Centers C
 27,37289,Randal,WARREN,Asheville,NC,51:01,Downtown Asheville Racing Club
 28,303861,Mark,SCOTT,Washington,DC,51:01,National Capital Velo Club/Unit
@@ -37,7 +37,7 @@ Place,License #,First,Last,City,State,Time,Team
 33,300056,Lance,HAAG,Fairfax,CA,51:02,ThirstyBear p/b Akamai
 34,57849,Rene,LUCAS,Phoenix,AZ,51:02,MORE Foundation Cycling Team
 35,134363,Derek,WILFORD,Euclid,OH,51:02,Spin/Litzler Automation
-36,218958,Patrick,HAMPTON,Cambria,CA,51:02,Rock Solid Cycling
+36,218958,Patrick,HAMPTON,Richmond,VA,51:02,Rock Solid Cycling
 37,49601,David,MARGOLIN,Jackson,NJ,51:03,Watchung Wheelmen
 38,92253,Kevin,SAINT CLAIR,Philadelphia,PA,51:03,Delaware Valley Racing
 39,56523,Robert,MAYERIK,Marietta,GA,51:08,North Atlanta Riding Club
@@ -57,7 +57,7 @@ Place,License #,First,Last,City,State,Time,Team
 DNF,55034,Dale,HAIR,Dalton,GA,,Atlantic Velo
 DNF,416930,Brian,BROWN,Deltona,FL,,Compass Research Cycling Team
 DNF,248843,Jeffrey,SEELEY,Cincinnati,OH,,Ohio Velo
-DNF,324966,Dana,BRAET,Saint Louis,MO,,Velo Force
+DNF,324966,Dana,BRAET,Clayton,MO,,Velo Force
 DNF,495790,Paolo,FASSARI,Indio,CA,,
 DNF,199458,Janne,HAMALAINEN,Tulsa,OK,,Tulsa Wheelmen
 DNF,196529,Will,LARSON,Dunedin,FL,,GearLink Racing INC.
@@ -70,7 +70,7 @@ DNF,260460,Edward,MCCLARTY,Nashville,TN,,Five Four Sports
 DNF,35594,Patrick,TIGHE,Statesville,NC,,Charlotte Sports Cycling
 DNF,53227,Joseph,MANACCHIO,Philadelphia,PA,,Guys Racing Club
 DNF,50553,Todd,STOUT,Southern Pines,NC,,Atlantic Velo
-DNF,57732,John,ALLEN,Pinehurst,NC,,Atlantic Velo
+DNF,57732,John,ALLEN,Charlotte,NC,,Atlantic Velo
 DNF,306875,Jim,CREAMER,Carmel,IN,,Club
 
 06/04/2017 Criterium Men Masters 60-64
@@ -142,9 +142,9 @@ Place,License #,First,Last,City,State,Time,Team
 12,364530,Tony,RICCIO,Fort Collins,CO,45:42,Old School Industries
 13,344084,Richard,CAMPING,Victor,NY,46:16,Genesee Valley Cycling Club
 14,67491,Timothy,POLITO,North Venice,FL,47:00,
-DNF,364536,Jerry,ROME,Denver,CO,,Local Velo
+DNF,364536,Jerry,ROME,Denverdenver,CO,,Local Velo
 DNF,58212,Philip,HOLMAN,Tucson,AZ,,Tucson Masters Cycling
-DNF,70511,Robert,CASCIATO,Chester Springs,PA,,PA Masters p/b Piscitello Law
+DNF,70511,Robert,CASCIATO,Chestersprings,PA,,PA Masters p/b Piscitello Law
 DNF,55295,Robert,MINNICKS,Hilton Head,SC,,Hilton Head Cycling Inc
 DNF,396672,Roger,GOTTFRIED,Laguna Beach,CA,,OC Armada
 DNF,363351,Mark,FLOLID,Boulder,CO,,
@@ -166,7 +166,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,222303,Peter,TEMPEST,Virginia Beach,VA,44:51,Steel Mountain Cycling
 10,135190,David,THOMAS,Knoxville,TN,44:52,Southern Cycling Operations (SC
 11,68855,Stephen,BENNETT,Littleton,CO,45:13,ColoBikeLaw.com
-12,268436,Dan,AUSTAD,Silverdale,WA,44:50,Tacoma Bike
+12,268436,Dan,AUSTAD,Port Ludlow,WA,44:50,Tacoma Bike
 13,57571,Dale,HARLESS,Bellevue,WA,46:24,Apex Racing Team
 14,237005,Theodore,KALLMAN,Florence,MA,44:46,Northampton Cycling Club
 15,45949,Bruce,SKILLINGS,Kettering,OH,45:54,Team Dayton Bicycling
@@ -177,7 +177,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,46705,S Durward,HIGGINS,Chattanooga,TN,44:35,Scenic City Velo
 2,52297,William,LOGAN,Perryville,MO,45:06,
 3,117518,Leo,MENESTRINA,Gilroy,CA,46:14,Alto Velo Racing Club
-4,194019,Joseph,KAPP,La Quinta ,CA,44:44,Veloce Santiago
+4,194019,Joseph,KAPP,La Quinta,CA,44:44,Veloce Santiago
 5,402662,Richard,MOELLERING,Chicago,IL,47:12,xXx Racing
 DNS,4764,Michael,BRENT,Titusville,NJ,,Somerset Wheelmen
 
@@ -245,7 +245,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,216760,Charon,SMITH,Signal Hill,CA,1:15:04,Team Surf City p/b Eliel/Pionee
 12,309494,Luis,RODRIGUEZ,Denver,CO,1:15:04,Simple Racing
 13,333156,Bart,HOLLAREN,Minneapolis,MN,1:15:04,Donkey Label
-14,367806,Eric,WRIGHT,Riverside,CA,1:15:04,OC Armada
+14,367806,Eric,WRIGHT,Aliso Viejo,CA,1:15:04,OC Armada
 15,133375,Michael,OLHEISER,Huntsville,AL,1:15:04,
 16,260982,Amir,WEXLER,Boca Raton,FL,1:15:04,Monster Media Racing
 17,276289,David,NEIS,Yellow Springs,OH,1:15:05,Team Dayton Bicycling
@@ -268,10 +268,10 @@ Place,License #,First,Last,City,State,Time,Team
 34,216719,Carlos,CASALI,Verona,WI,1:15:13,Intelligentsia-Allied
 35,88669,Adam,BASKIN,Montverde,FL,1:15:14,GearLink Racing INC.
 36,58598,David,FUENTES,Herndon,VA,1:15:14,Evolution Cycling Club p/b Long
-37,175537,Cliff,KUGLER,Simpsonville ,SC,1:15:15,Cycle Haus Racing
+37,175537,Cliff,KUGLER,Simpsonville,SC,1:15:15,Cycle Haus Racing
 38,259800,Jose,NUNEZ,Dumfries,VA,1:15:16,Lateral Stress Velo Inc.
 39,16527,Cameron,HOLLAND,Newport News,VA,1:15:16,Evolution Cycling Club p/b Long
-40,201290,Ryan,WHITE,Milwaukee ,WI,1:15:20,Hollander Benelux Racing
+40,201290,Ryan,WHITE,Milwaukee,WI,1:15:20,Hollander Benelux Racing
 41,32871,Chris,SKINNER,Denver,CO,1:15:22,Simple Racing
 42,314538,Luis,FLORES,Apex,NC,1:15:27,Happy Tooth Racing
 43,108976,Curtis,LONG,Atlantic Beach,FL,1:15:29,VeloBrew Cycling Club
@@ -282,7 +282,7 @@ Place,License #,First,Last,City,State,Time,Team
 48,344978,Oleg,TANOVITSKY,Alpharetta,GA,1:16:01,
 49,458669,Steve,KIM,Rancho Palos Verdes,CA,1:16:19,Team Surf City p/b Eliel/Pionee
 50,254866,David,ORTIZ,Aurora,CO,1:16:28,ColoBikeLaw.com
-51,153443,Allison,ANJOS,Boca Raton,FL,1:16:37,
+51,153443,Allison,ANJOS,Boca Rato,FL,1:16:37,
 52,142548,Daudi,COBB,Decatur,GA,1:17:30,Peachtree Bikes
 DNF,150594,Albertus,ROHLING,West Allis,WI,,Intelligentsia-Allied
 DNF,124715,Matthew,ADAMS,Fairfax,CA,,Team Mikes Bikes p/b Equator Co
@@ -292,7 +292,7 @@ DNF,195442,Nathan,SMITH,Signal Mountain,TN,,Kryki Sports
 DNF,467721,Michael,STELLA,Lilburn,GA,,Nouveau Velo Cycling Team
 DNF,119361,Colin,SANDBERG,Philadelphia,PA,,Fort Pitt Velo
 DNF,165571,Jared,BABIK,Pittsburgh,PA,,Fort Pitt Velo
-DNF,82244,Chris,RICHTER,Fishers,IN,,Zone-6 Cycling
+DNF,82244,Chris,RICHTER,Carmel,IN,,Zone-6 Cycling
 DNF,293557,Derek,BRAUCH,Manhattan Beach,CA,,Team Surf City p/b Eliel/Pionee
 DNF,458064,Sean,HALL,Tujunga,CA,,PAA Cycling
 
@@ -300,7 +300,7 @@ DNF,458064,Sean,HALL,Tujunga,CA,,PAA Cycling
 Place,License #,First,Last,City,State,Time,Team
 1,39384,Alexander,ZAMBRANA,Fort Lauderdale,FL,56:52,Vivo Cycling Attorney/Racer's E
 2,52534,Adam,MYERSON,Dorchester,MA,56:52,Cycle-Smart Inc.
-3,46770,Brian,TEIPEN,Alpharetta,GA,56:52,Nouveau Velo Cycling Team
+3,46770,Brian,TEIPEN,Milton,GA,56:52,Nouveau Velo Cycling Team
 4,160538,David,HILDEBRAND,Ellington,CT,56:53,Exposition Wheelmen
 5,56190,Benjamin,SHARP,Boulder,CO,56:54,Stages Cycling
 6,10417,Nima,EBRAHIMNEJAD,Washington,DC,56:54,Lateral Stress Velo Inc.
@@ -333,7 +333,7 @@ Place,License #,First,Last,City,State,Time,Team
 33,59952,Stephen,JAMISON,New York,NY,57:51,Century Road Club Assoc
 34,121519,Geraldo,PERALTA,Lorton,VA,58:03,Whole Wheel Velo Club
 35,261409,Igor,RUDALEV,Alpharetta,GA,58:14,Century Road Club Assoc
-36,418380,Ryan,HAYDEN,Wake Forest ,NC,58:35,The Electric Banana Cycling Pro
+36,418380,Ryan,HAYDEN,Wake Forest,NC,58:35,The Electric Banana Cycling Pro
 37,138607,Jacob,HACKER,New Haven,CT,58:36,
 38,9601,Patrick,DIVER,Orlando,FL,58:48,
 39,156999,Rodney,RIOS,Houston,TX,59:29,Bike Barn (Texas)
@@ -384,7 +384,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,73314,Mark,HILL,Columbus,OH,47:11,
 15,103632,Michael,KING,Woodbridge,VA,47:11,National Capital Velo Club/Unit
 16,3304,Ramon,BENITEZ,Glenwood,MD,47:11,Catoctin Cycling Club
-17,392104,Doug,ZELL,Little Rock ,AR,47:11,Intelligentsia-Allied
+17,392104,Doug,ZELL,Lockhart,TX,47:11,Intelligentsia-Allied
 18,109373,Stephen,SPANBAUER,Louisville,KY,47:11,Kentucky Flyers Cycling Inc
 19,17376,Michael,INGLIS,Lakewood,CO,47:12,Black Swift/Cycleton Cycling Cl
 20,364435,Lilburn,SHAW,Highlands Ranch,CO,47:12,Groove Subaru Excel Sports
@@ -434,7 +434,7 @@ DNF,424256,Chris,ANTIA,Wesley Chapel,FL,,West Coast Cycling
 DNF,289531,Didier,FRESNE,Lutz,FL,,West Coast Cycling
 DNF,2039,Jonathan,ATKINS,Peachtree City,GA,,Velocity Racing & Cycling Inc
 DNF,175088,David,RICHARDSON,Austin,TX,,Mellow Johnny's Cycling Team
-DNF,55745,Robert,STEPPE,Tulsa,OK,,
+DNF,55745,Robert,STEPPE,Lewisville,NC,,
 DNF,211359,Daniel,KING,Richmond,VA,,Richmond Velo Sport
 DNF,263807,Bart,CLIFFORD,Thousand Oaks ,CA,,HSR Racing p/b BIRDWORX
 DNF,73007,Scott,GORDON,Evans,GA,,Colavita Racing Inc.
@@ -446,7 +446,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,35147,Jennifer,MAGUR,Newburgh,NY,42:39:00,Finkraft
 3,413868,Mary,EMERSON,Sandy,UT,42:39:00,PLAN7 DS
 4,153105,Ginny,KING,Dallas,TX,42:39:00,KingRacingGroup
-5,226016,Laura,COOK,Newport News ,VA,42:39:00,Evolution Cycling Club p/b Long
+5,226016,Laura,COOK,Newport News,VA,42:39:00,Evolution Cycling Club p/b Long
 6,70202,Dana,WALTON,E Norriton,PA,42:39:00,PA Masters p/b Piscitello Law
 7,236645,Julie,CUTTS,Bend,OR,42:40:00,
 8,84776,Debbie,MILNE,Greenville,SC,42:40:00,Flamingo Racing LLC
@@ -569,14 +569,14 @@ Place,License #,First,Last,City,State,Time,Team
 41,35297,Nick,THEOBALD,Burlingame,CA,3:07:42,Peets Coffee Racing Team
 42,59952,Stephen,JAMISON,New York,NY,3:07:55,Century Road Club Assoc
 43,439073,Kurt,JAMBRETZ,Palm Beach,FL,3:08:04,Cyberdyne Systems
-44,179386,Daniel,MARTIN,Pleasanton,CA,3:08:23,Peets Coffee Racing Team
+44,179386,Daniel,MARTIN,Loomis,CA,3:08:23,Peets Coffee Racing Team
 45,109180,Matthew,MADDOX,Fernandina Beach,FL,3:08:24,
 46,364771,Vasilios,PALEKIS,Odessa,FL,3:12:18,FloridaVelo
 47,155665,Jerry,GALA,Apex,NC,3:12:28,Happy Tooth Racing
 48,307870,Andres,MUNERA,Tampa,FL,3:13:41,GearLink Racing INC.
 49,206649,Ted,MICHAELS,Leesburg,VA,3:14:18,Evolution Cycling Club p/b Long
 50,69378,Warney,CROSBY,Dallas,TX,3:14:33,Bicycles Plus Racing
-51,418380,Ryan,HAYDEN,Wake Forest ,NC,3:17:35,The Electric Banana Cycling Pro
+51,418380,Ryan,HAYDEN,Wake Forest,NC,3:17:35,The Electric Banana Cycling Pro
 52,308557,Sean,STANTON,Windermere,FL,3:18:17,Compass Research Cycling Team
 53,195298,Robert,JORDAN,Monticello,GA,3:21:29,
 54,48125,Gregory,FINK,Marietta,GA,3:25:35,Wahoo Fitness Masters Team
@@ -632,7 +632,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,60511,Francis (Gardie),JACKSON,Larkspur,CA,3:08:51,ThirstyBear p/b Akamai
 23,56261,Marco,VASQUEZ,Castle Rock,CO,3:08:54,Groove Subaru Excel Sports
 24,368468,Ernie,PENA,Tampa,FL,3:08:54,FloridaVelo
-25,392104,Doug,ZELL,Little Rock ,AR,3:08:56,Intelligentsia-Allied
+25,392104,Doug,ZELL,Lockhart,TX,3:08:56,Intelligentsia-Allied
 26,264285,David,HUSSEY,Ocean,NJ,3:08:57,Five Four Sports
 27,178453,Craig,NUNES,San Luis Obispo,CA,3:08:58,Rock Solid Cycling
 28,66811,John,BLUMENAUER,Middletown,MD,3:08:58,National Capital Velo Club/Unit
@@ -690,7 +690,7 @@ DNF,88447,John,OLSEN,Staten Island,NY,,Century Road Club Assoc
 DNF,142064,Glen,SCHOENUNG,Knoxville,TN,,Zephyr Wheel Sports
 DNF,11991,O'Brien,FORBES,West Chester,OH,,Ohio Velo
 DNF,21638,Andy,LOUGHER,Atlanta,GA,,Nouveau Velo Cycling Team
-DNF,55745,Robert,STEPPE,Tulsa,OK,,
+DNF,55745,Robert,STEPPE,Lewisville,NC,,
 DNF,265645,Jon,MCCABE,Odessa,FL,,West Coast Cycling
 DNF,263807,Bart,CLIFFORD,Thousand Oaks ,CA,,HSR Racing p/b BIRDWORX
 DNF,23014,Jeffrey,MAY,Blackville,SC,,Outspokin Bicycles - Augusta
@@ -709,7 +709,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,47684,Anthony,TAYLOR,Brooklyn,NY,2:33:07,Century Road Club Assoc
 4,18133,Bradley,JONES,Brea,CA,2:33:08,BBI-SIC Cycling
 5,286823,Joseph,FOSTER,Alamo,CA,2:33:08,ThirstyBear p/b Akamai
-6,25655,Jerome,NADEL,Sunnyvale,CA,2:33:09,ThirstyBear p/b Akamai
+6,25655,Jerome,NADEL,Woodside,CA,2:33:09,ThirstyBear p/b Akamai
 7,199458,Janne,HAMALAINEN,Tulsa,OK,2:33:11,Tulsa Wheelmen
 8,52033,Curtis,SOUTHERN,Frederick,MD,2:33:12,National Capital Velo Club/Unit
 9,37289,Randal,WARREN,Asheville,NC,2:33:13,Downtown Asheville Racing Club
@@ -717,7 +717,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,47071,Craig,HOFER,Littleton,CO,2:33:14,Groove Subaru Excel Sports
 12,130228,Yehuda,PACKER,Valley Vlg,CA,2:33:14,MORE Foundation Cycling Team
 13,39478,Hunter,ZIESING,Bel Tiburon,CA,2:33:14,Hammer/53x11
-14,345270,Brian,MCANDREWS,Danville,CA,2:33:14,ThirstyBear p/b Akamai
+14,345270,Brian,MCANDREWS,Spring,TX,2:33:14,ThirstyBear p/b Akamai
 15,64894,Pascal,SAUVAYRE,New York,NY,2:33:14,Century Road Club Assoc
 16,45035,Adam,ASNES,Boulder,CO,2:33:15,Rocky Mountain Cancer Centers C
 17,50819,William,CALIGARI,Sheffield,MA,2:33:15,Berkshire Cycling Association
@@ -727,12 +727,12 @@ Place,License #,First,Last,City,State,Time,Team
 21,119674,Daniel,LACH,Terrace Park,OH,2:33:16,Zephyr Wheel Sports
 22,21461,Bryan,LOFTON,Orlando,FL,2:33:18,Compass Research Cycling Team
 23,242627,Greg,PICKREN,Oldsmar,FL,2:33:20,
-24,46650,Joseph,PAULSON,Boulder,CO,2:33:22,BoulderCentre for Orthopedics
+24,46650,Joseph,PAULSON,Berthoud,CO,2:33:22,BoulderCentre for Orthopedics
 25,416930,Brian,BROWN,Deltona,FL,2:33:23,Compass Research Cycling Team
 26,222263,Raymond,PLEWACKI,Fairfax,VA,2:33:23,Evolution Cycling Club p/b Long
 27,186828,Greg,MORGAN,Simpsonville,SC,2:33:24,Freewheelers of Spartanburg
-28,256450,Timothy,GOODIN,Chattanooga ,TN,2:33:27,Scenic City Velo
-29,218958,Patrick,HAMPTON,Cambria,CA,2:33:27,Rock Solid Cycling
+28,256450,Timothy,GOODIN,Chattanooga,TN,2:33:27,Scenic City Velo
+29,218958,Patrick,HAMPTON,Richmond,VA,2:33:27,Rock Solid Cycling
 30,66729,Lee,REAVIS,Winston Salem,NC,2:33:29,Carolina Cycling Team
 31,10804,Joe,ENGEL,Fort Smith,AR,2:33:29,Boston Mountain Cyclists
 32,60440,Hamrick,SELBY,Covington,LA,2:33:29,MidSouth Velo
@@ -741,7 +741,7 @@ Place,License #,First,Last,City,State,Time,Team
 35,50802,Keith,JOHNSON,Virginia Beach,VA,2:33:30,Atlantic Velo
 36,360757,Kevin,CLARK,Geneva,FL,2:33:31,FloridaVelo
 37,196222,Hans,GOUWENS,Corte Madera,CA,2:33:37,ThirstyBear p/b Akamai
-38,197646,Tim,BORSETTI,Hendersonville,NC,2:33:39,Five Four Sports
+38,197646,Tim,BORSETTI,Central,SC,2:33:39,Five Four Sports
 39,326312,Jim,LELAND,Jacksonville Beach,FL,2:33:39,
 40,262078,Jerome,JACOBS,Haverford,PA,2:33:41,QCW Cycling
 41,84615,Chris,DIETRICH,Charlotte,NC,2:33:43,Carolina Cycling Team
@@ -756,7 +756,7 @@ Place,License #,First,Last,City,State,Time,Team
 50,101266,Steven,KURTH,Palm City,FL,2:41:38,Treasure Coast Cycling Associat
 51,280630,Peter,STEVENS,St. Louis,MO,2:44:14,Velo Force
 52,115856,Bruce,DONAGHY,Macungie,PA,2:45:02,Morgan Stanley Cycling Team
-53,324966,Dana,BRAET,Saint Louis,MO,2:46:27,Velo Force
+53,324966,Dana,BRAET,Clayton,MO,2:46:27,Velo Force
 54,289643,William,MARCHECK,Durham,NC,2:49:49,Triangle Velo
 55,186948,Erik,SCHELLER,Gig Harbor,WA,2:54:58,Tete de la Course Cycling
 56,219616,Michael,HALL,Thousand Oaks,CA,2:54:58,HSR Racing p/b BIRDWORX
@@ -776,7 +776,7 @@ DNF,16152,Scott,HILBURN,Atlanta,GA,,
 DNF,33966,Mark,STEIN,Tarpon Springs,FL,,FloridaVelo
 DNF,50908,Gary,DYER,Alton,IL,,The Cyclery Racing Team
 DNF,300056,Lance,HAAG,Fairfax,CA,,ThirstyBear p/b Akamai
-DNF,7782,Greg,CORDASCO,Basking Ridge,NJ,,Liberty Cycle Inc.
+DNF,7782,Greg,CORDASCO,Baskingridge,NJ,,Liberty Cycle Inc.
 DNF,394869,David,HIATT,Tallahassee,FL,,
 DNF,11947,Richard,FOLEY,Travelers Rest,SC,,Cycle Haus Racing
 DNF,260460,Edward,MCCLARTY,Nashville,TN,,Adams Avenue Bicycles
@@ -861,7 +861,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,362385,Richard,MULL,Malibu,CA,2:08:10,Big Orange Cycling
 11,13000,Thomas,GEE,Paris,TN,2:08:25,Lift Center Racing
 12,129809,Andrew,BUCK,Ambler,PA,2:11:03,Guys Racing Club
-13,364536,Jerry,ROME,Denver,CO,2:11:30,Local Velo
+13,364536,Jerry,ROME,Denverdenver,CO,2:11:30,Local Velo
 14,364530,Tony,RICCIO,Fort Collins,CO,2:13:39,Old School Industries
 15,174998,Michael,SHAPANKA,Somerville,NJ,2:13:48,Watchung Wheelmen
 16,51085,Rick,FIELDEN,Tega Cay,SC,2:23:19,Freewheelers of Spartanburg
@@ -869,7 +869,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,45926,Charles,SEWARD,Stockbridge,GA,2:25:48,Unione Sportiva Italiana
 19,63373,James,TAYLOR,Greer,SC,2:50:34,Greenville Spinners Bicycle Clu
 DNF,58212,Philip,HOLMAN,Tucson,AZ,,Tucson Masters Cycling
-DNF,70511,Robert,CASCIATO,Chester Springs,PA,,PA Masters p/b Piscitello Law
+DNF,70511,Robert,CASCIATO,Chestersprings,PA,,PA Masters p/b Piscitello Law
 DNF,45371,Patrick,GELLINEAU,Brooklyn,NY,,Somerset Wheelmen
 DNF,55295,Robert,MINNICKS,Hilton Head,SC,,Hilton Head Cycling Inc
 DNF,396672,Roger,GOTTFRIED,Laguna Beach,CA,,OC Armada
@@ -889,7 +889,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,243643,Tom,LEX,Aiken,SC,2:13:22,
 7,47936,Loren,SIMONS,St Johns,MI,2:13:23,Team Athletic Mentors / GREENWA
 8,45607,Thomas,LOBDELL,Indianapolis,IN,2:13:29,Speedway Wheelmen
-9,268436,Dan,AUSTAD,Silverdale,WA,2:13:30,Tacoma Bike
+9,268436,Dan,AUSTAD,Port Ludlow,WA,2:13:30,Tacoma Bike
 10,47107,Paul,MEHLENBECK,Milwaukee,WI,2:13:31,Midwest Masters Cycling Team
 11,135190,David,THOMAS,Knoxville,TN,2:24:19,Southern Cycling Operations (SC
 12,68855,Stephen,BENNETT,Littleton,CO,2:26:20,ColoBikeLaw.com
@@ -906,7 +906,7 @@ DNF,530689,Robert,FRIEDMAN,Asheville,NC,,
 Place,License #,First,Last,City,State,Time,Team
 1,46705,S Durward,HIGGINS,Chattanooga,TN,2:13:18,Scenic City Velo
 2,52297,William,LOGAN,Perryville,MO,2:33:18,
-3,194019,Joseph,KAPP,La Quinta ,CA,2:58:45,Veloce Santiago
+3,194019,Joseph,KAPP,La Quinta,CA,2:58:45,Veloce Santiago
 4,55134,Joseph,BLACK,Saint Louis,MO,3:01:41,
 5,402662,Richard,MOELLERING,Chicago,IL,3:05:39,xXx Racing
 DNF,531877,Phil,NEEDHAM,Georgetown,KY,,
@@ -1020,16 +1020,16 @@ Place,License #,First,Last,City,State,Time,Team
 38,280524,Roy,FOLEY,Lithia,FL,3:25:18,Aeropro Coaching Cycling Team
 39,70876,Travis,SHERMAN,Pelham,AL,3:25:49,Birmingham Velo
 40,216719,Carlos,CASALI,Verona,WI,3:26:19,Intelligentsia-Allied
-41,175537,Cliff,KUGLER,Simpsonville ,SC,3:26:51,Cycle Haus Racing
+41,175537,Cliff,KUGLER,Simpsonville,SC,3:26:51,Cycle Haus Racing
 42,267937,Brady,JORDAN,Shiloh,IL,3:27:00,Korte Hammer Down Racing
 43,369051,Modesto,DIAZ,Stockbridge,GA,3:29:23,Giovanni's Tile Design Cycling
 44,290408,Robbin,RAHMAN,Little Rock,AR,3:29:24,L5Flyers Cycling Team
 45,32871,Chris,SKINNER,Denver,CO,3:29:25,Simple Racing
 46,14176,Russell,GRIFFIN,Denver,CO,3:29:25,Black Swift/Cycleton Cycling Cl
 47,337896,Bernd,GREIMEL,Tuscaloosa,AL,3:33:09,Queen City Cycles
-48,367806,Eric,WRIGHT,Riverside,CA,3:33:15,OC Armada
+48,367806,Eric,WRIGHT,Aliso Viejo,CA,3:33:15,OC Armada
 49,516288,Patrick,MERLE,Tallahassee,FL,3:37:35,850 Velo
-50,123119,Jeffrey,TANSKI,Chattahoochee Hills,GA,3:39:01,Velocity Racing & Cycling Inc
+50,123119,Jeffrey,TANSKI,Palmetto,GA,3:39:01,Velocity Racing & Cycling Inc
 51,303224,Erik,CAMACHO,San Jose,CA,3:41:31,ThirstyBear p/b Akamai
 52,314538,Luis,FLORES,Apex,NC,3:45:10,Happy Tooth Racing
 53,297638,Patrick,HOGAN,Riva,MD,3:53:00,Bayside Velo/Bike Doctor
@@ -1055,11 +1055,11 @@ DNF,259800,Jose,NUNEZ,Dumfries,VA,,Lateral Stress Velo Inc.
 DNF,266290,Andrew,SCHLUCK,Monticello,FL,,
 DNF,119361,Colin,SANDBERG,Philadelphia,PA,,Fort Pitt Velo
 DNF,165571,Jared,BABIK,Pittsburgh,PA,,Fort Pitt Velo
-DNF,82244,Chris,RICHTER,Fishers,IN,,Zone-6 Cycling
+DNF,82244,Chris,RICHTER,Carmel,IN,,Zone-6 Cycling
 DNF,41946,Micah,RICE,Colorado Springs,CO,,
 DNF,35628,Philip,TINSTMAN,San Marcos,CA,,Monster Media Racing
 DNF,261127,Osvaldo,DELGADO,Port Saint Lucie,FL,,
-DNF,153443,Allison,ANJOS,Boca Raton,FL,,
+DNF,153443,Allison,ANJOS,Boca Rato,FL,,
 
 06/02/2017 Road Race Women Cat 1/2/3 Masters 35-39
 Place,License #,First,Last,City,State,Time,Team
@@ -1103,9 +1103,9 @@ Place,License #,First,Last,City,State,Time,Team
 5,501037,Sharon,RANA,Athens,OH,2:11:09,Team Athens
 6,413868,Mary,EMERSON,Sandy,UT,2:13:21,PLAN7 DS
 7,162337,Susan,JONES - MORGAN,Simpsonville,SC,2:13:24,RTO National Cycling
-8,391020,Gigi,CARTER,Madison,MS,2:18:01,Nunchuck Bunnies
+8,391020,Gigi,CARTER,Eastsound,WA,2:18:01,Nunchuck Bunnies
 9,70202,Dana,WALTON,E Norriton,PA,2:18:01,PA Masters p/b Piscitello Law
-DNF,226016,Laura,COOK,Newport News ,VA,,Evolution Cycling Club p/b Long
+DNF,226016,Laura,COOK,Newport News,VA,,Evolution Cycling Club p/b Long
 DNF,35147,Jennifer,MAGUR,Newburgh,NY,,Finkraft
 
 06/02/2017 Road Race Women Masters 50-54
@@ -1316,12 +1316,12 @@ Place,License #,First,Last,City,State,Time,Team
 12,279529,Dave,WELLER,St. George,UT,42:47.4,
 13,416930,Brian,BROWN,Deltona,FL,42:58.7,Compass Research Cyc
 14,360757,Kevin,CLARK,Geneva,FL,43:15.4,FloridaVelo
-15,46650,Joseph,PAULSON,Boulder,CO,43:16.0,BoulderCentre for Or
+15,46650,Joseph,PAULSON,Berthoud,CO,43:16.0,BoulderCentre for Or
 16,311896,David,HUGHES,El Paso,TX,43:36.3,ZiaVelo Cycling
-17,324966,Dana,BRAET,Saint Louis,MO,43:36.4,Velo Force
+17,324966,Dana,BRAET,Clayton,MO,43:36.4,Velo Force
 18,64894,Pascal,SAUVAYRE,New York,NY,43:40.7,Century Road Club As
 19,440944,Michael,DAVIS,Downers Grove,IL,43:57.3,ABD Cycling Club
-20,345270,Brian,MCANDREWS,Danville,CA,44:10.4,ThirstyBear p/b Akamai
+20,345270,Brian,MCANDREWS,Spring,TX,44:10.4,ThirstyBear p/b Akamai
 21,222263,Raymond,PLEWACKI,Fairfax,VA,44:30.2,Evolution Cycling Cl
 22,244246,Matthew,WILLIAMS,Evans,GA,45:09.9,
 23,478608,Kirby,YODER,Norcross,GA,45:27.5,North Georgia Cyclin
@@ -1370,7 +1370,7 @@ Place,License #,First,Last,City,State,Time,Team
 26,529793,Dane,LUHRSEN,Wheaton,IL,45:18.0,ABD Cycling Club
 27,45535,Lonnie,KENNEDY,Florissant,MO,45:18.7,
 28,334312,Val,LINCECUM,Katy,TX,45:28.5,Southwest Cycling Cl
-29,385441,Mark,MILLER,Lighthouse Point,FL,45:37.6,
+29,385441,Mark,MILLER,Pompano Beach,FL,45:37.6,
 30,227669,Richard,WILEY,West Salem,OH,46:04.5,Ride On Wooster
 31,157136,John,HAMILTON,Williamsport,PA,46:35.8,Delaware Valley Raci
 32,334522,Barry,STRASNICK,Needham,MA,47:38.0,
@@ -1392,7 +1392,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,50623,Wayne,WATSON,Denver,CO,28:20.2,Megastar/Lake
 6,46799,Josef,LEMIRE,Daly City,CA,28:31.2,ThirstyBear p/b Akamai
 7,215917,Richard,KREUTZFELDT,Glenview,IL,28:37.9,Pact- DISH Network C
-8,364536,Jerry,ROME,Denver,CO,28:51.5,Local Velo
+8,364536,Jerry,ROME,Denverdenver,CO,28:51.5,Local Velo
 9,87901,Mark,PETERSON,Cornelius,NC,29:01.2,Race City Cycling
 10,58212,Philip,HOLMAN,Tucson,AZ,29:08.6,Tucson Masters Cycli
 11,348508,Eric,JOHNSTON,Hendersonville,NC,29:34.2,
@@ -1401,13 +1401,13 @@ Place,License #,First,Last,City,State,Time,Team
 14,424477,Tom,CARR,Roanoke,VA,30:44.5,
 15,344084,Richard,CAMPING,Victor,NY,30:57.6,Genesee Valley Cycli
 16,131425,Larry,VARYS,Littleton,CO,31:15.9,ChristianCycling
-17,70511,Robert,CASCIATO,Chester Springs,PA,31:19.7,PA Masters p/b Pisci
+17,70511,Robert,CASCIATO,Chestersprings,PA,31:19.7,PA Masters p/b Pisci
 18,382970,Dan,FINERAN,Mooresville,NC,31:20.1,Race City Cycling
 19,364530,Tony,RICCIO,Fort Collins,CO,31:57.7,Old School Industrie
 20,126742,Donald,HATCH,Lexington,KY,32:40.6,859 Cycling
 21,181214,James,DEGOEY,Ashburn,VA,33:26.3,
 22,155467,David,TILLERY,Atlanta,GA,34:44.8,
-DNS,404079,Pat,JENNINGS,Saint Petersburg ,FL,,Aeropro Coaching Cyc
+DNS,404079,Pat,JENNINGS,Saint Petersburg,FL,,Aeropro Coaching Cyc
 
 06/01/2017 Time Trial Men Masters 70-74
 Place,License #,First,Last,City,State,Time,Team
@@ -1424,7 +1424,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,248501,Joseph,FRESCHI,Atlanta,GA,31:42.4,North Georgia Cyclin
 12,47107,Paul,MEHLENBECK,Milwaukee,WI,31:43.3,Midwest Masters Cycl
 13,188780,Randy,WHITT,Charlotte,NC,32:16.5,
-14,268436,Dan,AUSTAD,Silverdale,WA,33:17.9,Tacoma Bike
+14,268436,Dan,AUSTAD,Port Ludlow,WA,33:17.9,Tacoma Bike
 15,135190,David,THOMAS,Knoxville,TN,34:07.8,Southern Cycling Ope
 16,237005,Theodore,KALLMAN,Florence,MA,38:10.9,Northampton Cycling
 17,508299,Donald,RUSSELL,Houston,TX,41:09.0,
@@ -1484,11 +1484,11 @@ Place,License #,First,Last,City,State,Time,Team
 1,236645,Julie,CUTTS,Bend,OR,42:45.8,
 2,90889,Elizabeth,GOLD,Englewood,CO,44:05.8,
 3,501037,Sharon,RANA,Athens,OH,44:13.4,Team Athens
-4,391020,Gigi,CARTER,Madison,MS,44:36.6,Nunchuck Bunnies
+4,391020,Gigi,CARTER,Eastsound,WA,44:36.6,Nunchuck Bunnies
 5,268002,Sarah,MATCHETT,Davidson,NC,45:48.7,Race City Cycling
 6,412712,Christine,GRANT,Gainesville,GA,46:25.4,Prima Tappa Cycling
 7,274754,Ainhoa,PEREZ-DIEZ,Olney,MD,46:48.1,Annapolis Bicycle Ra
-8,226016,Laura,COOK,Newport News ,VA,47:38.3,Evolution Cycling Cl
+8,226016,Laura,COOK,Newport News,VA,47:38.3,Evolution Cycling Cl
 9,502680,Natalie,JACKSON,Larkspur,CA,48:36.7,ThirstyBear p/b Akamai
 10,309159,Christi,BRITT,Asheville,NC,50:20.0,
 11,367986,Mary,ISAAC,Knoxville,TN,50:53.9,VELOSOPHY
@@ -1519,7 +1519,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,332820,Debbie,PHELPS,Rockledge,FL,30:47.5,
 5,503235,Sylvia,ESSERGLEASON,Dayton,OH,30:47.7,Team Dayton Bicyclin
 6,201741,Tracy,TOLSON,Louisville,KY,31:27.3,
-7,247337,Jane,FYFFE,Marcellus,NY,31:44.4,
+7,247337,Jane,FYFFE,Marietta,NY,31:44.4,
 8,0,Sarah,SAUVAYRE,,,31:47.0,Century Road Club As
 9,531878,Benedicta,HALECKY,Lexington,KY,32:17.4,Pedal Power Team-MA
 10,15086,Marni,HARKER,Washington,DC,32:30.8,Colavita Racing Inc.

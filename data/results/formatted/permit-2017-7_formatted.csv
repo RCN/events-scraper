@@ -18,7 +18,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 04/30/2017 Criterium Men C3
 Place,License #,First,Last,City,State,Time,Team
-1,340764,Jason,Kimball,Colorado Springs ,CO,40:13.4,U.S. Paralympics Cycling Team
+1,340764,Jason,Kimball,Colorado Springs,CO,40:13.4,U.S. Paralympics Cycling Team
 2,413846,Nicholas,Gleissner,San Jacinto,CA,40:14.3,Peace Cycling Performance
 3,286175,Robert,Ludwick,San Antonio,TX,40:16.2,US Military Endurance Sports
 4,526476,Ernest,Franz,Bainbridge Island,WA,40:16.4,
@@ -36,8 +36,8 @@ DNS,250362,John,Wise,Menlo Park,CA,DNS,Loyola University Maryland
 
 04/30/2017 Criterium Men C5
 Place,License #,First,Last,City,State,Time,Team
-1,385044,Nicholas,Gibb,Bend,OR,38:10.0,Team Roger C Peace
-2,216306,Mark,Gyulafia,Portland ,OR,39:02.9,Team Roger C Peace
+1,385044,Nicholas,Gibb,Colorado Springs,CO,38:10.0,Team Roger C Peace
+2,216306,Mark,Gyulafia,Portland,OR,39:02.9,Team Roger C Peace
 3,400239,Jason,Griffin,Easley,SC,39:03.5,Team Roger C Peace
 4,423582,Jerry,Hochstedler,Fayetteville,NC,40:15.5,Team Greenville Health System
 
@@ -58,7 +58,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,299855,David,Randall,Mansfield,OH,28:52.3,Team Roger C Peace
 2,133580,Craig,Cornwall,Boise,ID,28:53.7,Paralyzed Veterans of America Racing
 3,169071,Matthew,Updike,Denver,CO,28:54.7,
-4,501086,Radames,Rodriguez,San Antonio ,TX,28:56.7,
+4,501086,Radames,Rodriguez,San Antonio,TX,28:56.7,
 5,524951,Daniel,Evans,St Petersburg,FL,29:28.1,Paralyzed Veterans of America Racing
 6,410773,Ryan,Rigard,Bozeman,MT,31:38.3,Gallatin Valley Bicycle Club
 7,458224,Christopher,sproule,Las Vegas,NV,31:38.4,Team PossAbilities
@@ -71,11 +71,11 @@ Place,License #,First,Last,City,State,Time,Team
 2,458697,Edwin,Quiros Ortiz,Auburndale,FL,31:43.8,Paralyzed Veterans of America Racing
 3,433395,Travis,Wood,Cedar City,UT,31:43.9,
 DNS,199594,Seth,Arseneau,Albuquerque,NM,DNS,Paralyzed Veterans of America Racing
-DNS,528174,Sam,Craven,Walnut Creek,CA,DNS,
+DNS,528179,Sam,Craven,Walnut Creek,CA,DNS,
 
 04/30/2017 Criterium Men H5
 Place,License #,First,Last,City,State,Time,Team
-1,440349,Solomon,Revils,Chesapeake,VA,31:59.7,Paralyzed Veterans of America Racing
+1,440349,Solomon,Revils,Chespeake,VA,31:59.7,Paralyzed Veterans of America Racing
 
 04/30/2017 Criterium Women C2
 Place,License #,First,Last,City,State,Time,Team
@@ -104,9 +104,9 @@ DNF,359379,Daniel,Parkman,Tucson,AZ,,Stone House p/b Monster Media
 DNF,354298,Stephen,Pedone,Tucson,AZ,,Superissimo
 DNF,472892,Brandon,Russell,Brooklyn,NY,,Harvard University
 DNF,216157,Kevin,Schaefer,Austin,TX,,DNA Cycling pb Onion Creek Volkswagen
-DNF,87933,Paul,Thomas,Gilbert ,AZ,,Stone House p/b Monster Media
+DNF,87933,Paul,Thomas,Gilbert,AZ,,Stone House p/b Monster Media
 DNF,395209,Mark,Vomund,Carthagewhispering Pines,NC,,
-DNF,264301,Stan,Moore,Medford,OR,DNF,
+DNF,299739,Stan,Moore,Medford,OR,DNF,
 DNF,523243,griffin,pinkow,Holtsville,NY,DNF,
 DNF,439529,Steven,Walker,Redondo Beach,CA,DNF,Paralyzed Veterans of America Racing
 
@@ -136,10 +136,10 @@ DNF,250362,John,Wise,Menlo Park,CA,DNF,Loyola University Maryland
 04/29/2017 Road Race Men C5
 Place,License #,First,Last,City,State,Time,Team
 1,305269,Christopher,Murphy,Colorado Springs,CO,26:50.9,
-2,385044,Nicholas,Gibb,Bend,OR,27:00.2,Team Roger C Peace
+2,385044,Nicholas,Gibb,Colorado Springs,CO,27:00.2,Team Roger C Peace
 3,400239,Jason,Griffin,Easley,SC,53:09.9,Team Roger C Peace
 4,423582,Jerry,Hochstedler,Fayetteville,NC,38:31.6,Team Greenville Health System
-DNS,216306,Mark,Gyulafia,Portland ,OR,DNS,Team Roger C Peace
+DNS,216306,Mark,Gyulafia,Portland,OR,DNS,Team Roger C Peace
 
 04/29/2017 Road Race Men H1
 Place,License #,First,Last,City,State,Time,Team
@@ -158,9 +158,9 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,299855,David,Randall,Mansfield,OH,06:32.7,Team Roger C Peace
 2,133580,Craig,Cornwall,Boise,ID,06:33.6,Paralyzed Veterans of America Racing
-3,501086,Radames,Rodriguez,San Antonio ,TX,08:25.9,
+3,501086,Radames,Rodriguez,San Antonio,TX,08:25.9,
 4,410773,Ryan,Rigard,Bozeman,MT,19:50.4,Gallatin Valley Bicycle Club
-5,523346,Brandon,Lyons,Colorado Springs,CO,23:54.4,
+5,523346,Brandon,Lyons,Carlsbad,CA,23:54.4,
 6,169071,Matthew,Updike,Denver,CO,24:20.4,
 7,524951,Daniel,Evans,St Petersburg,FL,27:40.8,Paralyzed Veterans of America Racing
 8,458224,Christopher,sproule,Las Vegas,NV,30:37.9,Team PossAbilities
@@ -185,7 +185,7 @@ DNS,199594,Seth,Arseneau,Albuquerque,NM,DNS,Paralyzed Veterans of America Racing
 Place,License #,First,Last,City,State,Time,Team
 1,376186,Alfredo,Delossantos,Hopewell Junction,NY,42:22.3,
 2,465851,David,Berling,Avondale,AZ,50:16.7,Paralyzed Veterans of America Racing
-3,440349,Solomon,Revils,Chesapeake,VA,@2 laps,Paralyzed Veterans of America Racing
+3,440349,Solomon,Revils,Chespeake,VA,@2 laps,Paralyzed Veterans of America Racing
 
 04/29/2017 Road Race Men T1
 Place,License #,First,Last,City,State,Time,Team
@@ -243,7 +243,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,503552,Ivan,Castro,Raeford,NC,51:33.3,
 6,497653,Paul,Shields,Plano,TX,53:11.3,
 7,509884,Brandon,Adame,Houston,TX,54:45.3,
-8,264301,Stan,Moore,Medford,OR,58:54.2,
+8,299739,Stan,Moore,Medford,OR,58:54.2,
 9,523243,griffin,pinkow,Holtsville,NY,00:09.0,
 DNF,139166,Tim,Keffer,Royal Oak,MI,,
 DNF,24392,Gregory,Miller,Knoxville,TN,,Friends Great Smokies (FGS Cycling)
@@ -252,7 +252,7 @@ DNF,359379,Daniel,Parkman,Tucson,AZ,,Stone House p/b Monster Media
 DNF,354298,Stephen,Pedone,Tucson,AZ,,Superissimo
 DNF,472892,Brandon,Russell,Brooklyn,NY,,Harvard University
 DNF,216157,Kevin,Schaefer,Austin,TX,,DNA Cycling pb Onion Creek Volkswagen
-DNF,87933,Paul,Thomas,Gilbert ,AZ,,Stone House p/b Monster Media
+DNF,87933,Paul,Thomas,Gilbert,AZ,,Stone House p/b Monster Media
 DNF,395209,Mark,Vomund,Carthagewhispering Pines,NC,,
 
 04/28/2017 Individual Time Trial Men C4
@@ -271,9 +271,9 @@ DNF,413846,Nicholas,Gleissner,San Jacinto,CA,DNF,Peace Cycling Performance
 04/28/2017 Individual Time Trial Men C5
 Place,License #,First,Last,City,State,Time,Team
 1,305269,Christopher,Murphy,Colorado Springs,CO,45:41.2,
-2,385044,Nicholas,Gibb,Bend,OR,48:18.9,Team Roger C Peace
+2,385044,Nicholas,Gibb,Colorado Springs,CO,48:18.9,Team Roger C Peace
 3,488921,Gerardo,Medrano,Colorado Springs,CO,50:22.0,
-4,216306,Mark,Gyulafia,Portland ,OR,51:54.9,Team Roger C Peace
+4,216306,Mark,Gyulafia,Portland,OR,51:54.9,Team Roger C Peace
 5,400239,Jason,Griffin,Easley,SC,55:28.6,Team Roger C Peace
 6,423582,Jerry,Hochstedler,Fayetteville,NC,06:35.0,Team Greenville Health System
 
@@ -307,9 +307,9 @@ Place,License #,First,Last,City,State,Time,Team
 2,133580,Craig,Cornwall,Boise,ID,38:33.83,Paralyzed Veterans of America Racing
 3,169071,Matthew,Updike,Denver,CO,40:38.31,
 4,524951,Daniel,Evans,St Petersburg,FL,41:25.51,Paralyzed Veterans of America Racing
-5,501086,Radames,Rodriguez,San Antonio ,TX,41:34.99,
+5,501086,Radames,Rodriguez,San Antonio,TX,41:34.99,
 6,410773,Ryan,Rigard,Bozeman,MT,42:49.66,Gallatin Valley Bicycle Club
-7,523346,Brandon,Lyons,Colorado Springs,CO,43:32.07,
+7,523346,Brandon,Lyons,Carlsbad,CA,43:32.07,
 8,502059,BRETT,RICHARDS,Redlands ,CA,44:59.51,
 9,458224,Christopher,sproule,Las Vegas,NV,45:03.27,Team PossAbilities
 10,468005,Ryan,Kelling,East Wenatchee,WA,49:27.13,Cascade/Major Taylor Project Racing
@@ -333,7 +333,7 @@ DNF,433395,Travis,Wood,Cedar City,UT,DNF,
 Place,License #,First,Last,City,State,Time,Team
 1,465851,David,Berling,Avondale,AZ,34:23.55,Paralyzed Veterans of America Racing
 2,376186,Alfredo,Delossantos,Hopewell Junction,NY,34:34.76,
-3,440349,Solomon,Revils,Chesapeake,VA,07:17.13,Paralyzed Veterans of America Racing
+3,440349,Solomon,Revils,Chespeake,VA,07:17.13,Paralyzed Veterans of America Racing
 
 04/27/2017 Individual Time Trial Men Para T1
 Place,License #,First,Last,City,State,Time,Team

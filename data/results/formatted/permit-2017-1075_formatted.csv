@@ -52,7 +52,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 04/30/2017 Omnium Men Cat 1/2/3/4/5 Junior 9-10
 Place,License #,First,Last,City,State,Time,Team
-1,525381,EZIEL,Hernandez,Forest Hills,NY,3,Star track
+1,525381,EZIEL,Hernandez,Levittown,NY,3,Star track
 2,489355,Corban,Burford,Walkertown,NC,6,Keenz p/b Mission Source
 3,497674,Gavin,Evans,Zionsville,PA,9,Vortex
 
@@ -80,7 +80,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 04/30/2017 Omnium Women Cat 1/2/3/4/5 Junior 17-18
 Place,License #,First,Last,City,State,Time,Team
-1,321084,Marcy,Bardman,Oley,PA,4,Sprinter's Edge Track Development Team
+1,321084,Marcy,Bardman,Jackson,WY,4,Sprinter's Edge Track Development Team
 
 04/30/2017 Omnium Women Cat 1/2/3/4/5 Junior 9-10
 Place,License #,First,Last,City,State,Time,Team
@@ -120,7 +120,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 04/30/2017 Points Race Women Cat 1/2/3/4/5 Junior 17-18
 Place,License #,First,Last,City,State,Time,Team
-1,321084,Marcy,Bardman,Oley,PA,12,Sprinter's Edge Track Development Team
+1,321084,Marcy,Bardman,Jackson,WY,12,Sprinter's Edge Track Development Team
 
 04/30/2017 Sprint Men Cat 1/2/3/4/5 Junior 15-16
 Place,License #,First,Last,City,State,Time,Team
@@ -155,7 +155,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 04/30/2017 Sprint Women Cat 1/2/3/4/5 Junior 17-18
 Place,License #,First,Last,City,State,Time,Team
-1,321084,Marcy,Bardman,Oley,PA,,Sprinter's Edge Track Development Team
+1,321084,Marcy,Bardman,Jackson,WY,,Sprinter's Edge Track Development Team
 
 04/30/2017 Scratch Race Men Cat 1/2/3/4/5 Junior 15-16
 Place,License #,First,Last,City,State,Time,Team
@@ -189,8 +189,8 @@ Place,License #,First,Last,City,State,Time,Team
 
 04/30/2017 Scratch Race Women Cat 1/2/3/4/5 Junior 17-18
 Place,License #,First,Last,City,State,Time,Team
-1,321084,Marcy,Bardman,Oley,PA,,Sprinter's Edge Track Development Team
-1,321084,Marcy,Bardman,Oley,PA,,Sprinter's Edge Track Development Team
+1,321084,Marcy,Bardman,Jackson,WY,,Sprinter's Edge Track Development Team
+1,321084,Marcy,Bardman,Jackson,WY,,Sprinter's Edge Track Development Team
 
 04/29/2017 Individual Time Trial Men Cat 1/2/3/4/5 Junior 11-12
 Place,License #,First,Last,City,State,Time,Team
@@ -250,7 +250,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 04/29/2017 Individual Time Trial Men Cat 1/2/3/4/5 Junior 9-10
 Place,License #,First,Last,City,State,Time,Team
-1,525381,EZIEL,Hernandez,Forest Hills,NY,50.45,Star track
+1,525381,EZIEL,Hernandez,Levittown,NY,50.45,Star track
 2,489355,Corban,Burford,Walkertown,NC,55.39,Keenz p/b Mission Source
 3,497674,Gavin,Evans,Zionsville,PA,56.01,Vortex
 
@@ -278,7 +278,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 04/29/2017 Individual Time Trial Women Cat 1/2/3/4/5 Junior 17-18
 Place,License #,First,Last,City,State,Time,Team
-1,321084,Marcy,Bardman,Oley,PA,39.23,Sprinter's Edge Track Development Team
+1,321084,Marcy,Bardman,Jackson,WY,39.23,Sprinter's Edge Track Development Team
 
 04/29/2017 Individual Time Trial Women Cat 1/2/3/4/5 Junior 9-10
 Place,License #,First,Last,City,State,Time,Team
@@ -286,7 +286,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 04/29/2017 Individual Time Trial Mixed Cat 1/2/3/4/5 Open 15+
 Place,License #,First,Last,City,State,Time,Team
-1,7782,Greg,Cordasco,Basking Ridge,NJ,38.53,Liberty Cycle
+1,7782,Greg,Cordasco,Baskingridge,NJ,38.53,Liberty Cycle
 1,191926,Robert,Kowal,Hillsborough,NJ,39.09,Team Somerset
 1,458724,Edward,Delaney,Bristol,RI,44.54,
 1,469162,Tom,Marnell,Allentown,PA,41.06,Peaks Coaching Group Racing Team
@@ -304,7 +304,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 04/29/2017 Individual Time Trial Mixed Cat 1/2/3/4/5 Open 55+
 Place,License #,First,Last,City,State,Time,Team
-1,7782,Greg,Cordasco,Basking Ridge,NJ,2:38.93,Liberty Cycle
+1,7782,Greg,Cordasco,Baskingridge,NJ,2:38.93,Liberty Cycle
 1,191926,Robert,Kowal,Hillsborough,NJ,2:50.29,Team Somerset
 1,458724,Edward,Delaney,Bristol,RI,3:03.66,
 1,45079,Chip,Berezny,Coopersburg,PA,2:49.53,
@@ -380,8 +380,8 @@ Place,License #,First,Last,City,State,Time,Team
 
 04/29/2017 Scratch Race Men Cat 1/2/3/4/5 Junior 9-10
 Place,License #,First,Last,City,State,Time,Team
-1,525381,EZIEL,Hernandez,Forest Hills,NY,,Star track
-1,525381,EZIEL,Hernandez,Forest Hills,NY,,Star track
+1,525381,EZIEL,Hernandez,Levittown,NY,,Star track
+1,525381,EZIEL,Hernandez,Levittown,NY,,Star track
 2,489355,Corban,Burford,Walkertown,NC,,Keenz p/b Mission Source
 2,489355,Corban,Burford,Walkertown,NC,,Keenz p/b Mission Source
 3,497674,Gavin,Evans,Zionsville,PA,,Vortex
@@ -424,7 +424,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 04/29/2017 Track Men Cat 1/2/3/4/5 Junior 9-10
 Place,License #,First,Last,City,State,Time,Team
-1,525381,EZIEL,Hernandez,Forest Hills,NY,,Star track
+1,525381,EZIEL,Hernandez,Levittown,NY,,Star track
 2,489355,Corban,Burford,Walkertown,NC,,Keenz p/b Mission Source
 3,497674,Gavin,Evans,Zionsville,PA,,Vortex
 

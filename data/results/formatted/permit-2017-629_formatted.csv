@@ -47,7 +47,7 @@ Place,License #,First,Last,City,State,Time,Team
 37,159943,Jeffery,Nettles,Seattle,WA,,Fell Swoop
 37,48459,Robert,Kirkwood,Seattle,WA,,
 37,44109,Michael,Klisch,Carnation,WA,,Center Cycle
-37,306785,David,Mullen,Eatonville,WA,,HagenBerman/Society Consulting
+37,306785,David,Mullen,Orting,WA,,HagenBerman/Society Consulting
 37,48095,Jim,Ahrens,University Place,WA,,Tacoma Bike
 37,359555,Cameron,Janes,Mercer Island,WA,,Dyna Racing
 
@@ -79,12 +79,12 @@ Place,License #,First,Last,City,State,Time,Team
 24,458971,Jim,Wright,Renton,WA,,Taco Time NW
 24,466846,Julie,Strong,Bonney Lake,WA,,Northwest Tri & Bike
 24,287072,David,Hurt,Seattle,WA,,
-24,439021,William,Cucco,Federal Way,WA,,Seattle Cancer Care Alliance Cycling Team
+24,439021,William,Cucco,University Place,WA,,Seattle Cancer Care Alliance Cycling Team
 24,280758,Travis,Dougan,Kirkland,WA,,Belgian Boys Club
 24,522572,Florin,Folta,Redmond,WA,,
 24,115811,Timothy,Culbertson,Issaquah,WA,,Belgian Boys Club - Seattle
 24,0,George,Wright,,,,Northwest Tri & Bike
-24,480724,Scott,Woods,Seattle,WA,,Dyna Racing
+24,64134,Scott,Woods,Seattle,WA,,Dyna Racing
 24,524194,Lash,Mullen,Redmond,WA,,Dyna Racing
 24,481697,Kevin,Stone O'Brien,Issaquah,WA,,Egencia
 24,209057,David,Friedt,Mercer Island,WA,,Taco Time Northwest Cycling Team
@@ -158,7 +158,7 @@ Place,License #,First,Last,City,State,Time,Team
 41,366292,Joshua,Simmons,Tacoma,WA,,Monton TM
 42,414541,Jonas,Bakkane,Mountlake Terrace,WA,,Egencia
 43,196878,Alex,Rosenast,Seattle,WA,,Garage Racing
-44,306785,David,Mullen,Eatonville,WA,,HagenBerman/Society Consulting
+44,306785,David,Mullen,Orting,WA,,HagenBerman/Society Consulting
 45,297455,Scott,Stout,Sammamish,WA,,HagenBerman/Society Consulting
 46,76754,Brian,Hall,Seattle,WA,,Audi/Kryki Sports Racing
 47,331096,Sheila,Walsh,Seattle,WA,,Dyna Racing
@@ -184,14 +184,14 @@ Place,License #,First,Last,City,State,Time,Team
 12,357393,Sam,Zivin,Seattle,WA,,Audi/Kryki Sports Racing
 13,115811,Timothy,Culbertson,Issaquah,WA,,Belgian Boys Club - Seattle
 14,388837,Justin,Kong,Seattle,WA,,Audi/Kryki Sports Racing
-15,439012,Jeremy,Cucco,Federal Way,WA,,Seattle Cancer Care Alliance Cycling Team
+15,439012,Jeremy,Cucco,University Place,WA,,Seattle Cancer Care Alliance Cycling Team
 16,356944,Dave,Preston,Fall City,WA,,Monton TM
 17,520430,Victor,Peterson,Sumner,WA,,Tacoma Bike
 18,523123,Tayler,Sabin,Gig Harbor,WA,,JoeFroyo Racing p/b Old Town Bicycle
 19,525217,Ryan,Downey,Renton,WA,,Northwest Tri & Bike
 20,524668,Mathew,Simmons,Bellingham,WA,,WWU Cycling Team
 21,256299,Andy,Bechtel,Issaquah,WA,,Seattle Cancer Care Alliance Cycling Team
-22,305711,Chris,Soelling,Kirkland,WA,,Taco Time NW
+22,305711,Chris,Soelling,Redmond,WA,,Taco Time NW
 23,466336,Kevin,Semler,Tacoma,WA,,JoeFroyo Racing p/b Old Town Bicycle
 24,115427,Brad,Williams,Kent,WA,,Northwest Tri & Bike
 25,203885,Mark,Clausen,Mercer Island,WA,,Taco Time Northwest Cycling Team
@@ -202,7 +202,7 @@ Place,License #,First,Last,City,State,Time,Team
 30,459789,Reid,Hellekson,Seattle,WA,,Apex Racing
 31,481697,Kevin,Stone O'Brien,Issaquah,WA,,Egencia
 32,0,Matthew,Creagan,,,,
-33,439021,William,Cucco,Federal Way,WA,,Seattle Cancer Care Alliance Cycling Team
+33,439021,William,Cucco,University Place,WA,,Seattle Cancer Care Alliance Cycling Team
 34,0,Alex,Newton,,,,
 35,524179,Michael,Zimmerman,Seattle,WA,,Velobody/Bikesale.com
 36,290960,Scott,Burger,Bellevue,WA,,Seattle Cancer Care Alliance Cycling Team
@@ -212,7 +212,7 @@ Place,License #,First,Last,City,State,Time,Team
 40,517341,Michael,Chaten,Seattle,WA,,Egencia
 41,467446,Aaron,Reinke,Seattle,WA,,Seattle Cancer Care Alliance Cycling Team
 42,0,George,Wright,,,,Northwest Tri & Bike
-43,480724,Scott,Woods,Seattle,WA,,Dyna Racing
+43,64134,Scott,Woods,Seattle,WA,,Dyna Racing
 44,209057,David,Friedt,Mercer Island,WA,,Taco Time Northwest Cycling Team
 45,525222,Keith,Oslin,Edgewood,WA,,Northwest Tri & Bike
 46,493465,Bobby,Humphrey,Tacoma,WA,,JoeFroyo Racing p/b Old Town Bicycle
@@ -314,16 +314,16 @@ Place,License #,First,Last,City,State,Time,Team
 14,460553,Ernesto,Cabanes,Tacoma,WA,,Tacoma Bike Racing
 15,485748,Brendon,Confer,Seattle,WA,,Metier Racing & Coffee
 16,466769,George,Frasier,Auburn,WA,,Egencia
-17,529586,Philip,Walczak,Seattle,WA,,
+17,529586,Philip,Walczak,Mill Creek,WA,,
 18,0,George,Wright,,,,Northwest Tri & Bike
 19,280758,Travis,Dougan,Kirkland,WA,,Belgian Boys Club
-20,457077,Matt,Dente,Seattle,WA,,Fell Swoop
+20,457077,Matt,Dente,Bainbridge Island,WA,,Fell Swoop
 21,528859,Graham,Gallagher,Lake Forest Park,WA,,Seattle Cancer Care Alliance Cycling Team
 21,182956,Erik,Yang,Bellevue,WA,,Dyna Racing
 22,182956,Erik,Yang,Bellevue,WA,,
 22,493782,Garrett,Born,Seattle,WA,,CycleU/Apex Racing
 23,501691,Ken,Daugherty,Seattle,WA,,
-24,439012,Jeremy,Cucco,Federal Way,WA,,Seattle Cancer Care Alliance Cycling Team
+24,439012,Jeremy,Cucco,University Place,WA,,Seattle Cancer Care Alliance Cycling Team
 25,523081,Nate,Bullock,Seattle,WA,,Seattle Cancer Care Alliance Cycling Team
 26,115427,Brad,Williams,Kent,WA,,Northwest Tri & Bike
 27,524064,Peter,Cousseau,Seattle,WA,,Egencia
@@ -334,7 +334,7 @@ Place,License #,First,Last,City,State,Time,Team
 32,496674,Stephen,McMurtry,Seattle,WA,,Hedrick Racing
 33,467446,Aaron,Reinke,Seattle,WA,,Seattle Cancer Care Alliance Cycling Team
 34,404014,Michael,Mullen,Seattle,WA,,Taco Time Northwest Cycling Team
-35,439021,William,Cucco,Federal Way,WA,,Seattle Cancer Care Alliance Cycling Team
+35,439021,William,Cucco,University Place,WA,,Seattle Cancer Care Alliance Cycling Team
 36,520430,Victor,Peterson,Sumner,WA,,Tacoma Bike
 37,239086,Thomas,Catalina,Seattle,WA,,Seattle Cancer Care Alliance Cycling Team
 38,523051,Lance,French,Seattle,WA,,
@@ -377,7 +377,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,287991,Steven,Wilssens,Kenmore,WA,,Automattic/Velobody/Bikesale.com
 20,229536,Kyle,Peterek,Seattle,WA,,Apex Racing
 21,58553,William,Broeker,Pasco,WA,,
-22,416923,Scott,Miller,Kent,WA,,Hedrick Cylces
+22,416923,Scott,Miller,Layton,UT,,Hedrick Cylces
 23,220071,Dave,Chipchase,Dupont,WA,,Seattle Cancer Care Alliance Cycling Team
 23,264726,Craig,Hammond,Mercer Island,WA,,Audi/Kryki Sports Racing
 23,169507,Jose Alfredo,Ramirez,Tacoma,WA,,Audi/Kryki Sports Racing
@@ -415,11 +415,11 @@ Place,License #,First,Last,City,State,Time,Team
 15,424909,Malia,Greening,Issaquah,WA,,Seattle Cancer Care Alliance Cycling Team
 15,179565,Robert,Velez,Issaquah,WA,,Fell Swoop
 15,56728,Andrew,Lamb,Mercer Island,WA,,Dyna Racing
-15,532218,Robert,Trombley,Seattle,WA,,HUP United
+15,143968,Robert,Trombley,Seattle,WA,,HUP United
 15,198969,Ben,Storrar,Tacoma,WA,,
 15,274551,Matt,Bennett,Issaquah,WA,,Village Verdgris
 15,525222,Keith,Oslin,Edgewood,WA,,Northwest Tri & Bike
-15,305711,Chris,Soelling,Kirkland,WA,,Taco Time NW
+15,305711,Chris,Soelling,Redmond,WA,,Taco Time NW
 
 05/02/2017 Circuit Race Men Cat 4/5
 Place,License #,First,Last,City,State,Time,Team
@@ -431,13 +431,13 @@ Place,License #,First,Last,City,State,Time,Team
 6,501691,Ken,Daugherty,Seattle,WA,,
 7,509529,John,Kesler,Seattle,WA,,Hedrick Racing
 8,105150,John,McConnell,Tacoma,WA,,Tacoma Bike Racing Team
-9,529586,Philip,Walczak,Seattle,WA,,
-10,439012,Jeremy,Cucco,Federal Way,WA,,Seattle Cancer Care Alliance Cycling Team
+9,529586,Philip,Walczak,Mill Creek,WA,,
+10,439012,Jeremy,Cucco,University Place,WA,,Seattle Cancer Care Alliance Cycling Team
 11,528429,Carl,Bolstad,Seattle,WA,,Egencia
 12,323466,Gabriel,Holmes,Seattle,WA,,
 13,115427,Brad,Williams,Kent,WA,,Northwest Tri & Bike
 14,0,Ryan,Downey,,,,Northwest Tri & Bike
-15,528126,Josh,Crandall,Poulsbo,WA,,OMG Racing
+15,528126,Josh,Crandall,Bainbridge Island,WA,,OMG Racing
 16,460553,Ernesto,Cabanes,Tacoma,WA,,Tacoma Bike Racing
 17,501826,Alex,Aguinaldo,Lake Stevens,WA,,Team Mang
 18,404014,Michael,Mullen,Seattle,WA,,Taco Time Northwest Cycling Team
@@ -450,13 +450,13 @@ Place,License #,First,Last,City,State,Time,Team
 22,493465,Bobby,Humphrey,Tacoma,WA,,JoeFroyo Racing p/b Old Town Bicycle
 22,290960,Scott,Burger,Bellevue,WA,,Seattle Cancer Care Alliance Cycling Team
 22,457188,Savio,Tsui,Seattle,WA,,HagenBerman/Society Consulting
-22,439021,William,Cucco,Federal Way,WA,,Seattle Cancer Care Alliance Cycling Team
+22,439021,William,Cucco,University Place,WA,,Seattle Cancer Care Alliance Cycling Team
 22,525377,Ray,Brenkus,Renton,WA,,Northwest Tri & Bike
 22,457987,Dennis,Christensen,Green Bay,WI,,Northwest Tri & Bike
 22,57571,Dale,Harless,Bellevue,WA,,CycleU/Apex Racing
 22,532097,Brock,McNally,Tacoma,WA,,
 22,280758,Travis,Dougan,Kirkland,WA,,Seattle Cancer Care Alliance Cycling Team
-22,531594,Curtis,White,Spanaway,WA,,Tacoma Bike
+22,234696,Curtis,White,Delanson,NY,,Tacoma Bike
 22,522572,Florin,Folta,Redmond,WA,,
 22,491914,Robert,McMurray,Seattle,WA,,Metier Racing & Coffee
 22,0,David,Kramer,,,,
@@ -549,7 +549,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,524064,Peter,Cousseau,Seattle,WA,,Egencia
 12,501691,Ken,Daugherty,Seattle,WA,,
 13,0,Unreadable,Number,,,,
-14,439012,Jeremy,Cucco,Federal Way,WA,,Seattle Cancer Care Alliance Cycling Team
+14,439012,Jeremy,Cucco,University Place,WA,,Seattle Cancer Care Alliance Cycling Team
 15,520795,Jeffrey,Musser,Issaquah,WA,,Seattle Cancer Care Alliance Cycling Team
 16,526034,Parker,McKean,Seattle,WA,,Metier Racing & Coffee
 17,504220,George,Peck,Everett,WA,,Bicycle Care
@@ -558,9 +558,9 @@ Place,License #,First,Last,City,State,Time,Team
 20,331382,Michael,McGuffin,Mercer Island,WA,,Taco Time
 21,522504,Aaron,Jones,Edmonds,WA,,Apex Racing
 22,481152,Brett,Robertson,Seattle,WA,,
-23,528126,Josh,Crandall,Poulsbo,WA,,OMG Racing
+23,528126,Josh,Crandall,Bainbridge Island,WA,,OMG Racing
 24,58553,William,Broeker,Pasco,WA,,
-25,523713,Chris,Ahl,Seattle,WA,,Metier Racing & Coffee
+25,523713,Chris,Ahl,San Francisco,CA,,Metier Racing & Coffee
 26,278610,Stephen,Gingrich,Seattle,WA,,Dyna Racing
 27,494059,Chris,Sexton,Bothell,WA,,
 29,523454,Van,Lam,Seattle,WA,,Audi
@@ -578,7 +578,7 @@ Place,License #,First,Last,City,State,Time,Team
 30,12989,Reeve,Geary,Seattle,WA,,Egencia
 30,457188,Savio,Tsui,Seattle,WA,,HagenBerman/Society Consulting
 30,493465,Bobby,Humphrey,Tacoma,WA,,JoeFroyo Racing p/b Old Town Bicycle
-30,439021,William,Cucco,Federal Way,WA,,Seattle Cancer Care Alliance Cycling Team
+30,439021,William,Cucco,University Place,WA,,Seattle Cancer Care Alliance Cycling Team
 30,307266,Darnell,Umagat,Renton,WA,,Seattle Cancer Care Alliance Cycling Team
 30,290960,Scott,Burger,Bellevue,WA,,Seattle Cancer Care Alliance Cycling Team
 30,418917,Gian,Vito,Austin,TX,,Seattle Cancer Care Alliance Cycling Team
@@ -617,7 +617,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,393649,Sun,Dang,Bellevue,WA,,Audi/Kryki Sports Racing
 13,366292,Joshua,Simmons,Tacoma,WA,,Monton TM
 14,288962,Timothy,Hughes,Olympia,WA,,Seattle Cancer Care Alliance Cycling Team
-15,423956,James,Labayen,Bellingham,WA,,WWU Cycling Team
+15,423956,James,Labayen,Lakewood,WA,,WWU Cycling Team
 16,0,Bib not readable,,,,,Audi/Kryki Sports Racing
 17,239255,Christopher,Nelson,Puyallup,WA,,Monton-TM
 18,56197,Josh,Crow,Medina,WA,,Seattle Cancer Care Alliance Cycling Team

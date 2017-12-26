@@ -12,7 +12,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,432762,Kent,Ryan,Westbrook,ME,36:24.nd,Tall Sock Racing
 9,340174,Chris,Barr,Stratham,NH,36:24.nd,Tallsock Racing
 10,489314,Jason,Tinkov,Sudbury,MA,36:24.nd,Tinkov Racing
-11,91530,Jason,Yannelli,S Casco,ME,36:24.nd,USMES
+11,91530,Jason,Yannelli,Sebago,ME,36:24.nd,USMES
 12,470273,Jeff,Doughty,South Portland,ME,36:24.nd,Portland Velo Club
 13,502412,Steve,Martel,Scarborough,ME,36:24.nd,Portland Velo Club
 14,524380,Forrest,Brock,Rochester,NH,36:24.nd,Team Chorkie Racing
@@ -29,11 +29,11 @@ Place,License #,First,Last,City,State,Time,Team
 25,504239,Adam,Schwengler,Mankato,MN,36:24.nd,
 26,458025,Matthew,Morabito,Portland,ME,36:24.nd,
 27,530914,John,Baldwin,Windham,ME,36:24.nd,Portland Velo Club
-28,471651,Michael,Waldroup,Portland,ME,36:24.nd,Tall Sock Racing
+28,471651,Michael,Waldroup,Yarmouth,ME,36:24.nd,Tall Sock Racing
 29,398045,John,Kasbohm,Dover,NH,36:24.nd,Northampton Cycling Club
-30,515319,Shanta,Keller,Boston,MA,36:24.nd,
+30,515319,Shanta,Keller,Newton,MA,36:24.nd,
 31,502219,Kyle,Wilson,Portland,ME,36:24.nd,Tall Sock Racing
-32,312160,Benjamin,Ho,Scarborough,ME,36:29.nd,Tall Sock Racing
+32,312160,Benjamin,Ho,Saco,ME,36:29.nd,Tall Sock Racing
 33,52137,Jason,Lobozzo,Cape Elizabeth,ME,36:29.nd,Portland Velo Club
 34,468634,Daniel,Leland,Falmouth,ME,36:31.nd,Portland Velo Club
 35,434739,James,Whelan,Portland,ME,36:33.nd,Tall Sock Racing
@@ -55,7 +55,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,82836,Troy,Barry,Falmouth,ME,46:38.nd,Downeast Racing
 9,460968,Mike,Stivaletti,South Portland,ME,46:38.nd,Tall Sock Racing
 10,178029,Cody,Harris,Falmouth,ME,46:42.nd,Moxie Racing P/B Trck / Colonial Bicycle
-11,312160,Benjamin,Ho,Scarborough,ME,46:43.nd,Tall Sock Racing
+11,312160,Benjamin,Ho,Saco,ME,46:43.nd,Tall Sock Racing
 12,51815,Graydon,Stevens,Cape Elizabeth,ME,46:45.nd,Portland Velo Club
 13,225306,Joseph,Lynch,Windham,ME,46:49.nd,Downeast Racing
 
@@ -63,7 +63,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,355868,Eliot,Pitney,Yarmouth,ME,1:11:14,Downeast Racing
 2,433522,Matt,Robinson,Bangor,ME,1:11:22,Downeast Racing
-3,322408,Travis,Kroot,Cumberland,ME,1:11:22,Downeast Racing
+3,322408,Travis,Kroot,Portland,ME,1:11:22,Downeast Racing
 4,220996,Steven,Edwards,South Portland,ME,1:11:24,Portland Velo Club
 5,377496,Scott,White,Lisbon Falls,ME,1:11:24,Maine Cycling Club / Rainbow Bike Cycling
 6,56029,George,Theall,Portland,ME,1:11:24,Portland Velo Club
@@ -87,10 +87,10 @@ DNF,56683,Andrew,Haskell,Gardiner,ME,,Momentum Barracuda Cycling
 
 05/07/2017 Criterium Mixed Cat 4/5
 Place,License #,First,Last,City,State,Time,Team
-1,91530,Jason,Yannelli,S Casco,ME,36:46.th,USMES
+1,91530,Jason,Yannelli,Sebago,ME,36:46.th,USMES
 2,470273,Jeff,Doughty,South Portland,ME,36:47.th,Portland Velo Club
 3,486067,Dylan,Whitcraft,Lewiston,ME,36:47.th,Bates College
-4,471651,Michael,Waldroup,Portland,ME,36:47.th,Tall Sock Racing
+4,471651,Michael,Waldroup,Yarmouth,ME,36:47.th,Tall Sock Racing
 5,340174,Chris,Barr,Stratham,NH,36:47.th,Tall socks racing
 6,529897,Sean,Mohan,Moultonboro,NH,36:47.th,
 7,529818,Jonathan,Allen,North Yarmouth,ME,36:55.th,Tall socks racing
@@ -116,7 +116,7 @@ Place,License #,First,Last,City,State,Time,Team
 27,395316,Todd,Strehlke,Portland ,ME,38:19.th,Tall Sock Racing
 28,0,Wayne,Tuoley,,,38:38.th,
 29,148680,David,Shedd,Portland,ME,Lapped,Portland Velo Club
-30,312160,Benjamin,Ho,Scarborough,ME,Lapped,Tall Sock Racing
+30,312160,Benjamin,Ho,Saco,ME,Lapped,Tall Sock Racing
 
 05/07/2017 Criterium Mixed Cat 1/2/3/4 Master 40+
 Place,License #,First,Last,City,State,Time,Team
@@ -133,13 +133,13 @@ Place,License #,First,Last,City,State,Time,Team
 11,208402,Edward,Sebok,Scarborough,ME,47:15.th,Momentum Barracuda Cycling
 12,46462,Eugene,Petrella,Pelham,NH,47:18.th,Clinton Cycling Club
 13,178029,Cody,Harris,Falmouth,ME,Lapped,Moxie Racing P/B Trck / Colonial Bicycle
-14,312160,Benjamin,Ho,Scarborough,ME,Lapped,Tall Sock Racing
+14,312160,Benjamin,Ho,Saco,ME,Lapped,Tall Sock Racing
 15,428303,Stephanie,Makoujy,Portland,ME,Lapped,Tall Sock Racing
 16,500908,Kathy,Ventura,Falmouth,ME,Lapped,
 
 05/07/2017 Criterium Mixed Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
-1,322408,Travis,Kroot,Cumberland,ME,0.049745428,Downeast Racing
+1,322408,Travis,Kroot,Portland,ME,0.049745428,Downeast Racing
 2,303889,Neal,Coughlin,Lewiston,ME,0.049747685,Maine Cycling Club
 3,220996,Steven,Edwards,South Portland,ME,0.049751823,Portland Velo Club
 4,305301,Ryan,Laperle,Pomfret,CT,0.049763426,
@@ -159,9 +159,9 @@ DNF,208402,Edward,Sebok,Scarborough,ME,,Momentum Barracuda Cycling
 
 04/30/2017  Mixed Cat 4/5
 Place,License #,First,Last,City,State,Time,Team
-1,91530,Jason,Yannelli,S Casco,ME,,
-1,91530,Jason,Yannelli,S Casco,ME,,
-1,91530,Jason,Yannelli,S Casco,ME,,
+1,91530,Jason,Yannelli,Sebago,ME,,
+1,91530,Jason,Yannelli,Sebago,ME,,
+1,91530,Jason,Yannelli,Sebago,ME,,
 2,512404,Alexander,Truitt,Bethesda,MD,,
 2,512404,Alexander,Truitt,Bethesda,MD,,
 2,512404,Alexander,Truitt,Bethesda,MD,,
@@ -234,12 +234,12 @@ Place,License #,First,Last,City,State,Time,Team
 25,470616,Luca,Haines,Durham,NH,,
 25,470616,Luca,Haines,Durham,NH,,
 25,470616,Luca,Haines,Durham,NH,,
-26,312160,Benjamin,Ho,Scarborough,ME,,
-26,312160,Benjamin,Ho,Scarborough,ME,,
-26,312160,Benjamin,Ho,Scarborough,ME,,
-27,469036,Boyang,Zhang,Brunswick,ME,,
-27,469036,Boyang,Zhang,Brunswick,ME,,
-27,469036,Boyang,Zhang,Brunswick,ME,,
+26,312160,Benjamin,Ho,Saco,ME,,
+26,312160,Benjamin,Ho,Saco,ME,,
+26,312160,Benjamin,Ho,Saco,ME,,
+27,469036,Boyang,Zhang,San Diego,CA,,
+27,469036,Boyang,Zhang,San Diego,CA,,
+27,469036,Boyang,Zhang,San Diego,CA,,
 28,530914,John,Baldwin,Windham,ME,,
 28,530914,John,Baldwin,Windham,ME,,
 28,530914,John,Baldwin,Windham,ME,,
@@ -336,10 +336,10 @@ Place,License #,First,Last,City,State,Time,Team
 
 04/30/2017 Criterium Men Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
-1,322408,Travis,Kroot,Cumberland,ME,,
-1,322408,Travis,Kroot,Cumberland,ME,,
-1,322408,Travis,Kroot,Cumberland,ME,,
-1,322408,Travis,Kroot,Cumberland,ME,,
+1,322408,Travis,Kroot,Portland,ME,,
+1,322408,Travis,Kroot,Portland,ME,,
+1,322408,Travis,Kroot,Portland,ME,,
+1,322408,Travis,Kroot,Portland,ME,,
 2,220670,Fred,Thomas,Cape Elizabeth,ME,,
 2,220670,Fred,Thomas,Cape Elizabeth,ME,,
 2,220670,Fred,Thomas,Cape Elizabeth,ME,,
@@ -411,7 +411,7 @@ DNF,51815,Graydon,Stevens,Cape Elizabeth,ME,,
 
 04/30/2017 Criterium Mixed Cat 4/5
 Place,License #,First,Last,City,State,Time,Team
-1,91530,Jason,Yannelli,S Casco,ME,,
+1,91530,Jason,Yannelli,Sebago,ME,,
 2,512404,Alexander,Truitt,Bethesda,MD,,
 3,0,Craig,Hanson,,,,
 4,486067,Dylan,Whitcraft,Lewiston,ME,,
@@ -436,8 +436,8 @@ Place,License #,First,Last,City,State,Time,Team
 23,458025,Matthew,Morabito,Portland,ME,,
 24,242129,Kyle,Redimarker,Strafford,NH,,
 25,470616,Luca,Haines,Durham,NH,,
-26,312160,Benjamin,Ho,Scarborough,ME,,
-27,469036,Boyang,Zhang,Brunswick,ME,,
+26,312160,Benjamin,Ho,Saco,ME,,
+27,469036,Boyang,Zhang,San Diego,CA,,
 28,530914,John,Baldwin,Windham,ME,,
 29,434739,James,Whelan,Portland,ME,,
 30,398045,John,Kasbohm,Dover,NH,,
@@ -478,8 +478,8 @@ Place,License #,First,Last,City,State,Time,Team
 2,470273,Jeff,Doughty,South Portland,ME,,
 3,194532,Liam,Somers,Scarborough,ME,,
 4,502412,Steve,Martel,Scarborough,ME,,
-5,471651,Michael,Waldroup,Portland,ME,,
-6,91530,Jason,Yannelli,S Casco,ME,,
+5,471651,Michael,Waldroup,Yarmouth,ME,,
+6,91530,Jason,Yannelli,Sebago,ME,,
 7,396298,Brendan,Schoff,Weston,CT,,
 8,466645,Iliya,Simeonov,Nantucket,MA,,
 9,486067,Dylan,Whitcraft,Lewiston,ME,,
@@ -527,7 +527,7 @@ DNF,187314,Eric,Larsson,Portland,ME,,
 
 04/23/2017 Criterium Men Cat 1/2/3 Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
-1,322408,Travis,Kroot,Cumberland,ME,,
+1,322408,Travis,Kroot,Portland,ME,,
 2,322762,Cory,Hartman,Hampton Falls,NH,,
 3,220996,Steven,Edwards,South Portland,ME,,
 4,433522,Matt,Robinson,Bangor,ME,,
@@ -550,11 +550,11 @@ Place,License #,First,Last,City,State,Time,Team
 6,340174,Christopher,Barr,Stratham,NH,,
 7,503857,Andrew,Page,North Yarmouth,ME,,
 8,501618,Matthew,Hurley,Portland,ME,,
-9,91530,Jason,Yannelli,S Casco,ME,,
-10,503074,Samual,McMillan,Rangeley,ME,,
+9,91530,Jason,Yannelli,Sebago,ME,,
+10,476318,Samual,McMillan,Rangeley,ME,,
 11,529818,Jonathan,Allen,North Yarmouth,ME,,
 12,194532,Liam,Somers,Scarborough,ME,,
-13,312160,Benjamin,Ho,Scarborough,ME,,
+13,312160,Benjamin,Ho,Saco,ME,,
 14,380546,Ian,Wilson,Winslow,ME,,
 15,502412,Steve,Martel,Scarborough,ME,,
 16,395316,Todd,Strehlke,Portland ,ME,,
@@ -562,7 +562,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,468634,Dan,Leland,Falmouth,ME,,
 19,398045,John,Kasbohm,Dover,NH,,
 20,528494,Keith,Peterson,Belgrade,ME,,
-21,471651,Michael,Waldroup,Portland,ME,,
+21,471651,Michael,Waldroup,Yarmouth,ME,,
 22,460968,Mike,Stivaletti,South Portland,ME,,
 23,0,John,Baldwin,,,,
 24,503049,Nathan,Kimble,Portland,ME,,
@@ -603,7 +603,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,355868,Eliot,Pitney,Yarmouth,ME,,
 3,418209,Zev,Myerowitz,Cape Elizabeth,ME,,
 4,407169,Alexander,Chrystall,Wellesley,MA,,
-5,322408,Travis,Kroot,Cumberland,ME,,
+5,322408,Travis,Kroot,Portland,ME,,
 6,377496,Scott,White,Lisbon Falls,ME,,
 7,429983,John,Boucher,Portland,ME,,
 8,56029,George,Theall,Portland,ME,,
@@ -655,7 +655,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,470273,Jeff,Doughty,South Portland,ME,,
 4,389618,Jake,Inger,Yarmouth,ME,,
 5,503857,Andrew,Page,North Yarmouth,ME,,
-6,91530,Jason,Yannelli,S Casco,ME,,
+6,91530,Jason,Yannelli,Sebago,ME,,
 7,529818,Jonathan,Allen,North Yarmouth,ME,,
 8,529897,Sean,Mohan,Moultonboro,NH,,
 9,443661,Michael,Benson,Pelham,NH,,
@@ -666,13 +666,13 @@ Place,License #,First,Last,City,State,Time,Team
 14,524380,Forrest,Brock,Rochester,NH,,
 15,460424,Henry,Colt,Whateley,MA,,
 16,194532,Liam,Somers,Scarborough,ME,,
-17,471651,Michael,Waldroup,Portland,ME,,
+17,471651,Michael,Waldroup,Yarmouth,ME,,
 18,466645,Iliya,Simeonov,Nantucket,MA,,
 19,502412,Steve,Martel,Scarborough,ME,,
 20,502134,Chris,Dsida,Milton,MA,,
-21,312160,Benjamin,Ho,Scarborough,ME,,
+21,312160,Benjamin,Ho,Saco,ME,,
 22,268184,Douglas,McFadd,Cape Elizabeth,ME,,
-23,435019,Drew,Blackstone,North Monmouth,ME,,
+23,435019,Drew,Blackstone,North Monmouth  Me,ME,,
 24,458961,Seth,Flynn,Brunswick,ME,,
 25,385090,David,Crelling,Somerville,MA,,
 26,0,John,Baldwin,,,,
@@ -705,7 +705,7 @@ DNF,148680,David,Shedd,Portland,ME,,
 
 04/09/2017 Criterium Men Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
-1,322408,Travis,Kroot,Cumberland,ME,,
+1,322408,Travis,Kroot,Portland,ME,,
 2,192750,Ted,Horwitz,Haverhill,MA,,
 3,429983,John,Boucher,Portland,ME,,
 4,433522,Matt,Robinson,Bangor,ME,,

@@ -5,14 +5,14 @@ Place,License #,First,Last,City,State,Time,Team
 1,476479,Kevin,Salmon,Flagstaff,AZ,01:13:03,Team Pay 'N Take
 2,508078,Grant,Soehnel,Albuquerque,NM,01:15:35,
 3,514512,Seth,Wall,Jefferson,MD,01:15:59,
-4,502980,Benjamin,Cristofori,Tucson,AZ,01:16:09,
+4,502980,Benjamin,Cristofori,Marana,AZ,01:16:09,
 5,527413,Jason,Sealover,Flagstaff,AZ,01:18:58,
 6,523948,Jeremia,Petz,Tucson,AZ,01:19:29,El Grupo Youth Cycling Club
 
 03/19/2017 Circuit Race Men SM P-1
 Place,License #,First,Last,City,State,Time,Team
 1,268330,Travis,McCabe,Tucson,AZ,01:52:41,UCI PCT: UnitedHealthcare
-2,155190,Chad,Beyer,Scottsdale,AZ,01:52:45,UCI CT: Canyon Bicycles
+2,155190,Chad,Beyer,Tempe,AZ,01:52:45,UCI CT: Canyon Bicycles
 3,288133,Lucas Sebastian,Haedo,Linden,NJ,01:52:47,UnitedHealthcare
 4,382065,David,Greif,Tucson,AZ,01:52:51,Sabino Cycles Racing
 5,394102,Adam,Bryfogle,Tucson,AZ,01:52:48,White Mountain Road Club
@@ -33,7 +33,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,287780,Taylor,Warren,San Diego,CA,01:52:51,Rocky Mountain Velo
 21,527541,Max,Rubarth,Ottawa,ON,01:52:51,Equipe Transports Lacombe/Devinvi
 22,210225,Garrick,Valverde,Lawrence,KS,01:52:51,Olathe Subaru Trek Racing
-23,525752,Nickolas,Zukowsky,Sainte-lucie-des-laurentides,QC,01:52:51,Silber Pro Cycling Team
+23,495707,Nickolas,Zukowsky,Tucson,AZ,01:52:51,Silber Pro Cycling Team
 24,418955,Nicholas,Greeff,Arvada,CO,01:52:51,303 Project
 25,396776,Wouter,Zwart,Tucson,AZ,01:52:51,White Mountain Road Club
 26,306276,Daniel,Eaton,Boulder,CO,01:52:49,UCI PCT: UnitedHealthcare
@@ -55,7 +55,7 @@ Place,License #,First,Last,City,State,Time,Team
 42,497565,Emile,Jean,,,01:53:21,Silber Pro cycling
 43,499505,PIERANDRE,COTE,,,01:53:28,Silber Pro Cycling Team
 44,307642,Evan,Murphy,Portland,OR,01:53:52,Toronto Hustle
-45,527010,Alexis,Cartier,,,01:53:59,H&R Block Pro Cycling Team
+45,424712,Alexis,Cartier,Moscow,ID,01:53:59,H&R Block Pro Cycling Team
 46,294220,Andrew,Clemence,Tucson,AZ,01:54:00,White Mountain Road Club
 47,267611,Alex,Driscoll,Fountain,CO,01:54:33,COS Racing
 48,57576,Lewis,Elliot,Scottsdale,AZ,01:54:33,
@@ -96,7 +96,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,423690,Jonathan,McLaren,Flagstaff,AZ,01:24:00,
 20,487304,jack,senese,Tucson,AZ,01:24:00,El Grupo Youth Cycling Club
 21,296802,Kevin,Mikkelson,Tucson,AZ,01:24:00,Stone House p/b Monster Media
-22,366670,David,platon,Avondale ,AZ,01:24:00,Team Santini USA
+22,366670,David,platon,Avondale,AZ,01:24:00,Team Santini USA
 23,345260,Noah,Bankhurst,Albuquerque,NM,01:24:00,
 24,354450,Joe,Pavlik,Flagstaff,AZ,01:24:00,Team Pay 'N Take
 25,367835,Eric,Larson,Tucson,AZ,01:24:00,
@@ -145,7 +145,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,206228,Andrew,Scott,Tucson,AZ,01:38:31,Sabino Cycles Racing
 15,335860,clint,Bluestein,Phoenix,AZ,01:38:31,San Tan Racing
 16,527552,Christopher,Villegas,Hermosillo,SO,01:38:31,
-17,392666,Bill,Karras,Mesa ,AZ,01:38:31,Athlete Octane Racing
+17,392666,Bill,Karras,Mesa,AZ,01:38:31,Athlete Octane Racing
 18,376271,Dariusz,Zdunek,Gilbert,AZ,01:38:31,Athlete Octane Racing
 19,458291,Erik,Brockhoff,West Jordan,UT,01:38:31,
 20,402675,John,Ketterhagen,Georgetown,TX,01:39:01,Dark Horse Racing
@@ -153,7 +153,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,253918,David,Ubinger,El Paso,TX,01:38:31,
 23,394505,Castle,Gay,Tucson,AZ,01:39:01,
 24,494479,Ethan,Overson,Tucson,AZ,01:38:28,El Grupo Youth Cycling Club
-25,493880,William,Raus,Murrieta,CA,01:38:41,S2C/BOSCH pb Pearl Izumi
+25,493880,William,Raus,Oceanside,CA,01:38:41,S2C/BOSCH pb Pearl Izumi
 26,449058,Zachary Morrison,Morrison,Buckeye,AZ,01:38:42,Northern Arizona University
 27,422305,Michael,Hast,Tucson,AZ,01:38:53,ChristianCycling
 28,217473,Greg,Foster,Albuquerque,NM,01:40:59,Nero Veloce p/b Michael Thomas Coffee
@@ -224,14 +224,14 @@ Place,License #,First,Last,City,State,Time,Team
 2,47502,Steven,Worley,Boulder,CO,01:23:28,BoulderCentre for Orthopedics
 3,58212,Philip,Holman,Tucson,AZ,01:23:31,Tucson Masters Cycling
 4,427913,Roy,Quade,,,01:23:37,
-5,245777,Steven,Borer,Show Low,AZ,01:23:37,Fleming Wealth Strategies.com
+5,245777,Steven,Borer,Laguna Hills,CA,01:23:37,Fleming Wealth Strategies.com
 6,466441,Steven,Long,Vail,AZ,01:23:36,Cyclefit Solutions Racing
 7,428440,Kenneth,Starcke,Tucson,AZ,01:23:47,Cyclefit Solutions Racing
 
 03/19/2017 Circuit Race Men MM 55+
 Place,License #,First,Last,City,State,Time,Team
 1,187602,Charlie,Beadles,Flagstaff,AZ,01:29:24,Team Pay 'N Take
-2,46650,Joseph,Paulson,Boulder,CO,01:29:31,BoulderCentre for Orthopedics
+2,46650,Joseph,Paulson,Berthoud,CO,01:29:31,BoulderCentre for Orthopedics
 3,46714,Shannon,Fox,Englewood,CO,01:29:33,BoulderCentre for Orthopedics
 4,35822,Lawrence,Towner,Boonton,NJ,01:29:35,Team ProPower Coaching
 5,48867,Andrew,Hosterman,Tucson,AZ,01:29:37,White Mountain Road Club
@@ -249,7 +249,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,200910,Kurt,Kroemer,Phoenix,AZ,01:31:54,Cyberdyne Systems
 18,59550,Brian,Lemke,Cave Creek,AZ,01:35:58,White Mountain Road Club
 19,294799,Michel,Lalonde,Benson,AZ,01:37:05,Cycle Fit Solutions
-20,192230,Mark,Cowin,Frederica ,DE,01:37:38,Pro Pedals Bike Shop
+20,192230,Mark,Cowin,Frederica,DE,01:37:38,Pro Pedals Bike Shop
 21,38636,Bradley,Wingfield,Oro Valley,AZ,01:38:16,
 22,487417,Jeff,Doucet,Tucson,AZ,01:51:21,Summit Velo
 23,45330,Alan,Fischer,Tucson,AZ,01:53:29,Arizona Cycling Racing Team Inc.
@@ -300,8 +300,8 @@ Place,License #,First,Last,City,State,Time,Team
 11,55904,Timothy,Carolan,Tucson,AZ,01:40:56,Cyclefit Solutions Racing
 12,294312,Michael,Radcliff,Tucson,AZ,01:41:07,GST Racing
 13,57369,Eugene,Boronow,Tucson,AZ,01:41:34,Superissimo
-14,87933,Paul,Thomas,Gilbert ,AZ,01:43:56,Stone House p/b Monster Media
-15,399839,Sergio,Dominguez,,,01:43:56,
+14,87933,Paul,Thomas,Gilbert,AZ,01:43:56,Stone House p/b Monster Media
+15,399840,Sergio,Dominguez,,,01:43:56,
 16,396315,daniel,fernandez,Boulder,CO,01:43:56,Sonic Boom Racing
 
 03/19/2017 Circuit Race Men JM 9-12
@@ -339,7 +339,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,527684,Marcela,Prieto,,,01:50:10,CONADE-Visit Mxico-Specialized
 11,527679,Veronica,Leal,Queretaro,QU,01:50:10,CONADE-Visit Mxico-Specialized
 12,366797,Caitlin,Laroche,Manitou Springs,CO,01:50:10,UCI WPT: Rally Cycling
-13,499864,Julyn,Aguila,El Paso,TX,01:50:10,Crazy Cat Cyclery
+13,481054,Julyn,Aguila,El Paso,TX,01:50:10,Crazy Cat Cyclery
 14,466699,Catherine,Ouellette,Saint-lambert,QC,01:50:10,Team Quebec
 15,275988,Emma,White,Delanson,NY,01:50:10,UCI WPT: Rally Cycling
 16,258361,Kate,Wilson,Los Angeles,CA,01:50:10,Ironfly
@@ -380,11 +380,11 @@ Place,License #,First,Last,City,State,Time,Team
 12,454005,Susie,King,Tucson,AZ,01:25:59,El Grupo Youth Cycling Club
 13,395289,Ana,Quintanabernal,Tucson,AZ,01:28:33,El Grupo Youth Cycling Club
 14,418890,Dawn,Manfredonia,Lafayette,CO,01:29:50,Primal Audi Denver Womens Racing Team
-15,410651,Sara,LittleMasterson,Bentonville,AR,01:32:26,Festlig Norsk CC
+15,410651,Sara,LittleMasterson,Virginia Beach ,VA,01:32:26,Festlig Norsk CC
 
 03/19/2017 Circuit Race Women SW 3
 Place,License #,First,Last,City,State,Time,Team
-1,492481,Emily,Rodger,,,01:41:13,The Velo Ambassador Team
+1,492481,Emily,Rodger,Scottsdale,AZ,01:41:13,The Velo Ambassador Team
 2,416428,Lauren,Diaz,San Diego,CA,01:41:23,Eliel Factory Team
 3,457164,Izabel,Adams,Tucson,AZ,01:41:35,El Grupo Youth Cycling Club
 4,489136,Tori,Riemersma,Tempe,AZ,01:41:54,Arizona State University
@@ -418,7 +418,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,508346,Helen,Gruneisen,Tucson,AZ,01:21:07,
 3,195195,Charlayne,Barger,Chandler,AZ,01:22:40,Thrive Youth Cycling
 4,291973,Kimberly,Tom,San Diego,CA,01:22:47,SkyFlash Racing
-5,242391,Kimberly,Hodes,Boulder,CO,01:22:48,Primal Audi Denver Womens Racing Team
+5,242391,Kimberly,Hodes,Tucson,AZ,01:22:48,Primal Audi Denver Womens Racing Team
 6,403647,Beata,George,Scottsdale,AZ,01:22:49,AZ Women Racing
 7,205380,Katheryn,Patterson,San Diego,CA,01:26:49,SkyFlash Racing
 8,235714,Carolyn,Audilet,Tucson,AZ,01:29:47,Tolero Racing
@@ -449,7 +449,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,476479,Kevin,Salmon,Flagstaff,AZ,03:12:34,Team Pay 'N Take
 2,508078,Grant,Soehnel,Albuquerque,NM,03:16:11,
 3,514512,Seth,Wall,Jefferson,MD,03:17:31,
-4,502980,Benjamin,Cristofori,Tucson,AZ,03:20:05,
+4,502980,Benjamin,Cristofori,Marana,AZ,03:20:05,
 5,523948,Jeremia,Petz,Tucson,AZ,03:27:59,El Grupo Youth Cycling Club
 6,527413,Jason,Sealover,Flagstaff,AZ,03:33:06,
 
@@ -458,8 +458,8 @@ Place,License #,First,Last,City,State,Time,Team
 1,268330,Travis,McCabe,Tucson,AZ,05:12:25,UCI PCT: UnitedHealthcare
 2,525408,Nigel,Ellsay,,,05:12:32,Silber Pro Cycling Team
 3,499901,James,Piccoli,,,05:12:50,Pacific Premier Bank Cycling Team
-4,155190,Chad,Beyer,Scottsdale,AZ,05:12:49,UCI CT: Canyon Bicycles
-5,525752,Nickolas,Zukowsky,Sainte-lucie-des-laurentides,QC,05:12:59,Silber Pro Cycling Team
+4,155190,Chad,Beyer,Tempe,AZ,05:12:49,UCI CT: Canyon Bicycles
+5,495707,Nickolas,Zukowsky,Tucson,AZ,05:12:59,Silber Pro Cycling Team
 6,306276,Daniel,Eaton,Boulder,CO,05:13:06,UCI PCT: UnitedHealthcare
 7,396776,Wouter,Zwart,Tucson,AZ,05:13:17,White Mountain Road Club
 8,394102,Adam,Bryfogle,Tucson,AZ,05:13:27,White Mountain Road Club
@@ -498,7 +498,7 @@ Place,License #,First,Last,City,State,Time,Team
 41,307642,Evan,Murphy,Portland,OR,05:16:33,Toronto Hustle
 42,57576,Lewis,Elliot,Scottsdale,AZ,05:16:36,
 43,267611,Alex,Driscoll,Fountain,CO,05:16:44,COS Racing
-44,527010,Alexis,Cartier,,,05:17:48,H&R Block Pro Cycling Team
+44,424712,Alexis,Cartier,Moscow,ID,05:17:48,H&R Block Pro Cycling Team
 45,497565,Emile,Jean,,,05:20:40,Silber Pro cycling
 46,253798,Michael,Dziedzic,Tempe,AZ,05:20:47,White Mountain Road Club
 47,390013,Joseph,Garey,Henderson,NV,05:21:06,Esprit Velo
@@ -533,7 +533,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,423690,Jonathan,McLaren,Flagstaff,AZ,04:13:04,
 13,496849,Zaid,Murrieta,Tucson,AZ,04:13:06,El Grupo Youth Cycling Club
 14,494489,Ethan,Harrelson,Scottsdale,AZ,04:13:07,Fleming Wealth Strategies.com
-15,366670,David,platon,Avondale ,AZ,04:13:11,Team Santini USA
+15,366670,David,platon,Avondale,AZ,04:13:11,Team Santini USA
 16,420173,Lucien,Fuertes,Tucson,AZ,04:13:11,Tolero Racing
 17,345260,Noah,Bankhurst,Albuquerque,NM,04:13:12,
 18,303997,Michael,Abdalla,Albuquerque,NM,04:13:12,Echelon Racing New Mexico
@@ -584,10 +584,10 @@ Place,License #,First,Last,City,State,Time,Team
 9,522242,kyle,berg,Phoenix,AZ,04:23:13,
 10,458291,Erik,Brockhoff,West Jordan,UT,04:23:14,
 11,354802,Robert,Paulsen,Mesa,AZ,04:23:14,Unity Racing
-12,493880,William,Raus,Murrieta,CA,04:23:18,S2C/BOSCH pb Pearl Izumi
+12,493880,William,Raus,Oceanside,CA,04:23:18,S2C/BOSCH pb Pearl Izumi
 13,487306,matthew,riccitello,Tucson,AZ,04:23:22,El Grupo Youth Cycling Club
 14,253918,David,Ubinger,El Paso,TX,04:23:22,
-15,392666,Bill,Karras,Mesa ,AZ,04:23:24,Athlete Octane Racing
+15,392666,Bill,Karras,Mesa,AZ,04:23:24,Athlete Octane Racing
 16,527162,Miguel,Escobar,,,04:23:24,Crazy Cat Cyclery
 17,489859,Jason,Chan,Las Vegas,NV,04:23:25,High Desert Cycling Club
 18,359878,Ryan,Milmoe,Scottsdale,AZ,04:23:37,Bike Accident Attorneys
@@ -668,7 +668,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,58212,Philip,Holman,Tucson,AZ,03:35:56,Tucson Masters Cycling
 3,466441,Steven,Long,Vail,AZ,03:36:15,Cyclefit Solutions Racing
 4,219527,Larry,Wolff,Sacramento,CA,03:36:47,Team Hammer Nutrition
-5,245777,Steven,Borer,Show Low,AZ,03:37:08,Fleming Wealth Strategies.com
+5,245777,Steven,Borer,Laguna Hills,CA,03:37:08,Fleming Wealth Strategies.com
 6,427913,Roy,Quade,,,03:37:22,
 7,428440,Kenneth,Starcke,Tucson,AZ,03:37:46,Cyclefit Solutions Racing
 
@@ -683,7 +683,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,157351,Doug,Chiasson,Athol,MA,03:25:10,Quabbin Cycling Club
 8,46714,Shannon,Fox,Englewood,CO,03:25:11,BoulderCentre for Orthopedics
 9,148316,John,Newton,Kennett Square,PA,03:25:14,Chester County Velo
-10,46650,Joseph,Paulson,Boulder,CO,03:25:18,BoulderCentre for Orthopedics
+10,46650,Joseph,Paulson,Berthoud,CO,03:25:18,BoulderCentre for Orthopedics
 11,48867,Andrew,Hosterman,Tucson,AZ,03:25:19,White Mountain Road Club
 12,332428,Tim,Stone,Boulder,CO,03:25:25,Rocky Mountain Cancer Centers Cycling Team
 13,242764,Stuart,Mann,Boulder,CO,03:25:42,BoulderCentre for Orthopedics
@@ -692,7 +692,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,460357,Gil,Tovar,Tucson,AZ,03:33:22,VeloVets
 17,59550,Brian,Lemke,Cave Creek,AZ,03:36:46,White Mountain Road Club
 18,294799,Michel,Lalonde,Benson,AZ,03:38:52,Cycle Fit Solutions
-19,192230,Mark,Cowin,Frederica ,DE,03:39:02,Pro Pedals Bike Shop
+19,192230,Mark,Cowin,Frederica,DE,03:39:02,Pro Pedals Bike Shop
 20,38636,Bradley,Wingfield,Oro Valley,AZ,03:41:00,
 21,200910,Kurt,Kroemer,Phoenix,AZ,03:56:02,Cyberdyne Systems
 22,487417,Jeff,Doucet,Tucson,AZ,04:18:27,Summit Velo
@@ -740,8 +740,8 @@ Place,License #,First,Last,City,State,Time,Team
 7,57369,Eugene,Boronow,Tucson,AZ,04:23:16,Superissimo
 8,55904,Timothy,Carolan,Tucson,AZ,04:23:35,Cyclefit Solutions Racing
 9,294312,Michael,Radcliff,Tucson,AZ,04:23:42,GST Racing
-10,87933,Paul,Thomas,Gilbert ,AZ,04:26:01,Stone House p/b Monster Media
-11,399839,Sergio,Dominguez,,,04:26:50,
+10,87933,Paul,Thomas,Gilbert,AZ,04:26:01,Stone House p/b Monster Media
+11,399840,Sergio,Dominguez,,,04:26:50,
 12,228961,Aaron,Jeffrey,Wellington,CO,04:31:37,Sonic Boom Racing
 13,197252,Craig,Streit,Scottsdale,AZ,04:32:01,Stone House p/b Monster Media
 14,83075,James,Webster,Tucson,AZ,04:35:42,Stone House p/b Monster Media
@@ -789,7 +789,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,395130,Melanie,Beale,Boulder,CO,04:35:25,
 17,258361,Kate,Wilson,Los Angeles,CA,04:35:28,Ironfly
 18,527682,Antonieta,Gaxiola,,,04:35:31,CONADE-Visit Mxico-Specialized
-19,499864,Julyn,Aguila,El Paso,TX,04:35:33,Crazy Cat Cyclery
+19,481054,Julyn,Aguila,El Paso,TX,04:35:33,Crazy Cat Cyclery
 20,255388,Brenna,Nelson,St. George,UT,04:35:34,Faster Cyclist
 21,466699,Catherine,Ouellette,Saint-lambert,QC,04:35:48,Team Quebec
 22,310825,Aliya,Traficante,Chico,CA,04:35:49,Folsom Bike
@@ -823,12 +823,12 @@ Place,License #,First,Last,City,State,Time,Team
 11,454005,Susie,King,Tucson,AZ,03:43:33,El Grupo Youth Cycling Club
 12,527629,Julia,Montez,El Paso,TX,03:45:14,
 13,395289,Ana,Quintanabernal,Tucson,AZ,03:46:03,El Grupo Youth Cycling Club
-14,410651,Sara,LittleMasterson,Bentonville,AR,03:50:58,Festlig Norsk CC
+14,410651,Sara,LittleMasterson,Virginia Beach ,VA,03:50:58,Festlig Norsk CC
 15,418890,Dawn,Manfredonia,Lafayette,CO,03:51:06,Primal Audi Denver Womens Racing Team
 
 03/19/2017 Stage Race Women SW 3
 Place,License #,First,Last,City,State,Time,Team
-1,492481,Emily,Rodger,,,05:00:45,The Velo Ambassador Team
+1,492481,Emily,Rodger,Scottsdale,AZ,05:00:45,The Velo Ambassador Team
 2,416428,Lauren,Diaz,San Diego,CA,05:02:07,Eliel Factory Team
 3,457164,Izabel,Adams,Tucson,AZ,05:03:58,El Grupo Youth Cycling Club
 4,358118,Daniela,Diamente,Tucson,AZ,05:04:13,El Grupo Youth Cycling Club
@@ -860,7 +860,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,164775,Jane,Berger,Tucson,AZ,03:34:40,AZ Women Racing
 2,508346,Helen,Gruneisen,Tucson,AZ,03:35:02,
-3,242391,Kimberly,Hodes,Boulder,CO,03:37:44,Primal Audi Denver Womens Racing Team
+3,242391,Kimberly,Hodes,Tucson,AZ,03:37:44,Primal Audi Denver Womens Racing Team
 4,195195,Charlayne,Barger,Chandler,AZ,03:38:16,Thrive Youth Cycling
 5,291973,Kimberly,Tom,San Diego,CA,03:38:38,SkyFlash Racing
 6,403647,Beata,George,Scottsdale,AZ,03:39:35,AZ Women Racing
@@ -893,7 +893,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,476479,Kevin,Salmon,Flagstaff,AZ,01:51:21,Team Pay 'N Take
 2,508078,Grant,Soehnel,Albuquerque,NM,01:51:34,
 3,514512,Seth,Wall,Jefferson,MD,01:52:11,
-4,502980,Benjamin,Cristofori,Tucson,AZ,01:54:22,
+4,502980,Benjamin,Cristofori,Marana,AZ,01:54:22,
 5,523948,Jeremia,Petz,Tucson,AZ,01:58:11,El Grupo Youth Cycling Club
 6,527413,Jason,Sealover,Flagstaff,AZ,02:03:32,
 7,481614,Roger,Higgs,Fort Huachuca,AZ,02:11:18,
@@ -901,13 +901,13 @@ Place,License #,First,Last,City,State,Time,Team
 03/18/2017 Road Race Men SM P-1
 Place,License #,First,Last,City,State,Time,Team
 1,268330,Travis,McCabe,Tucson,AZ,03:12:17,UCI PCT: UnitedHealthcare
-2,155190,Chad,Beyer,Scottsdale,AZ,03:12:21,UCI CT: Canyon Bicycles
+2,155190,Chad,Beyer,Tempe,AZ,03:12:21,UCI CT: Canyon Bicycles
 3,525408,Nigel,Ellsay,,,03:12:23,Silber Pro Cycling Team
 4,525765,Nicolas,Masbourian,Montréal,QC,03:12:45,Silber Pro Cycling Team
 5,306276,Daniel,Eaton,Boulder,CO,03:12:45,UCI PCT: UnitedHealthcare
 6,394102,Adam,Bryfogle,Tucson,AZ,03:12:43,White Mountain Road Club
 7,356904,Anton,Varabei,,,03:12:45,Toronto Hustle
-8,525752,Nickolas,Zukowsky,Sainte-lucie-des-laurentides,QC,03:12:45,Silber Pro Cycling Team
+8,495707,Nickolas,Zukowsky,Tucson,AZ,03:12:45,Silber Pro Cycling Team
 9,499505,PIERANDRE,COTE,,,03:12:42,Silber Pro Cycling Team
 10,396776,Wouter,Zwart,Tucson,AZ,03:12:45,White Mountain Road Club
 11,499901,James,Piccoli,,,03:12:45,Pacific Premier Bank Cycling Team
@@ -946,7 +946,7 @@ Place,License #,First,Last,City,State,Time,Team
 44,466256,MARIO,ZAMORA,Alameda,CA,03:14:29,Vumedi Cycling Team
 45,470625,Trevor,O'Donnell,,,03:14:45,Toronto Hustle
 46,161263,Ryan,Knapp,Bloomington,IN,03:14:56,Zone-6 Cycling
-47,527010,Alexis,Cartier,,,03:15:54,H&R Block Pro Cycling Team
+47,424712,Alexis,Cartier,Moscow,ID,03:15:54,H&R Block Pro Cycling Team
 48,466205,Alexandre,Matte,,,03:19:23,True North Medical
 49,115698,Martin,Adamczyk,San Diego,CA,03:19:23,San Diego Bicycle Club
 50,148285,Matthew,Holecko,Scottsdale,AZ,03:19:24,Procon Cycling
@@ -986,7 +986,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,423690,Jonathan,McLaren,Flagstaff,AZ,02:40:06,
 19,400167,Jimmy,DavisJr,Tucson,AZ,02:40:06,ChristianCycling
 20,478634,Joseph,Clark,Albuquerque,NM,02:40:06,Velo Veloce
-21,366670,David,platon,Avondale ,AZ,02:40:06,Team Santini USA
+21,366670,David,platon,Avondale,AZ,02:40:06,Team Santini USA
 22,286193,Michael,Hemmerlin,Mesa,AZ,02:40:06,Strada Racing Club
 23,53480,Randall,Bradford,Albuquerque,NM,02:40:11,Echelon Racing New Mexico
 24,527661,Ramon,Garcia,Hermosillo,,02:40:11,
@@ -1027,7 +1027,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,301754,Ryan,Travelstead,Albuquerque,NM,02:35:58,Nero Veloce p/b Michael Thomas Coffee
 2,527162,Miguel,Escobar,,,02:36:02,Crazy Cat Cyclery
-3,493880,William,Raus,Murrieta,CA,02:36:04,S2C/BOSCH pb Pearl Izumi
+3,493880,William,Raus,Oceanside,CA,02:36:04,S2C/BOSCH pb Pearl Izumi
 4,364702,Gilberto,Melendez,Tucson,AZ,02:36:08,TERacing
 5,527552,Christopher,Villegas,Hermosillo,SO,02:36:08,
 6,305434,Terry,schmidtknecht,Mesa,AZ,02:36:08,Unity Racing
@@ -1043,7 +1043,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,376271,Dariusz,Zdunek,Gilbert,AZ,02:36:08,Athlete Octane Racing
 17,253918,David,Ubinger,El Paso,TX,02:36:08,
 18,494479,Ethan,Overson,Tucson,AZ,02:36:08,El Grupo Youth Cycling Club
-19,392666,Bill,Karras,Mesa ,AZ,02:36:15,Athlete Octane Racing
+19,392666,Bill,Karras,Mesa,AZ,02:36:15,Athlete Octane Racing
 20,404469,Steven,Morley,Los Alamos,NM,02:36:15,Velo Veloce
 21,489859,Jason,Chan,Las Vegas,NV,02:36:19,High Desert Cycling Club
 22,402675,John,Ketterhagen,Georgetown,TX,02:36:20,Dark Horse Racing
@@ -1135,13 +1135,13 @@ Place,License #,First,Last,City,State,Time,Team
 3,466441,Steven,Long,Vail,AZ,02:03:26,Cyclefit Solutions Racing
 4,427913,Roy,Quade,,,02:03:33,
 5,219527,Larry,Wolff,Sacramento,CA,02:03:33,Team Hammer Nutrition
-6,245777,Steven,Borer,Show Low,AZ,02:03:33,Fleming Wealth Strategies.com
+6,245777,Steven,Borer,Laguna Hills,CA,02:03:33,Fleming Wealth Strategies.com
 7,428440,Kenneth,Starcke,Tucson,AZ,02:04:02,Cyclefit Solutions Racing
 
 03/18/2017 Road Race Men MM 55+
 Place,License #,First,Last,City,State,Time,Team
 1,187602,Charlie,Beadles,Flagstaff,AZ,01:46:31,Team Pay 'N Take
-2,46650,Joseph,Paulson,Boulder,CO,01:46:35,BoulderCentre for Orthopedics
+2,46650,Joseph,Paulson,Berthoud,CO,01:46:35,BoulderCentre for Orthopedics
 3,45530,William,Kellagher,Boulder,CO,01:46:37,Rocky Mountain Cancer Centers Cycling Team
 4,46714,Shannon,Fox,Englewood,CO,01:46:41,BoulderCentre for Orthopedics
 5,27519,Eric,Pearce,Tucson,AZ,01:46:41,Quabbin Cycling Club
@@ -1156,7 +1156,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,148316,John,Newton,Kennett Square,PA,01:46:41,Chester County Velo
 15,157351,Doug,Chiasson,Athol,MA,01:46:56,Quabbin Cycling Club
 16,459051,STEPHEN,LEAKE,Lexington,IL,01:51:06,Bloomington Cycle Racing Team
-17,192230,Mark,Cowin,Frederica ,DE,01:51:13,Pro Pedals Bike Shop
+17,192230,Mark,Cowin,Frederica,DE,01:51:13,Pro Pedals Bike Shop
 18,460357,Gil,Tovar,Tucson,AZ,01:51:16,VeloVets
 19,294799,Michel,Lalonde,Benson,AZ,01:51:17,Cycle Fit Solutions
 20,59550,Brian,Lemke,Cave Creek,AZ,01:51:19,White Mountain Road Club
@@ -1206,8 +1206,8 @@ Place,License #,First,Last,City,State,Time,Team
 4,57369,Eugene,Boronow,Tucson,AZ,02:33:33,Superissimo
 5,363531,Dane,Emde,Fort Collins,CO,02:34:13,Modern Market Racing p/b GR Capital Partners
 6,172139,Bryan,Reid,Santa Fe,NM,02:34:14,RA Racing Apparel/BMC
-7,399839,Sergio,Dominguez,,,02:34:14,
-8,87933,Paul,Thomas,Gilbert ,AZ,02:34:14,Stone House p/b Monster Media
+7,399840,Sergio,Dominguez,,,02:34:14,
+8,87933,Paul,Thomas,Gilbert,AZ,02:34:14,Stone House p/b Monster Media
 9,170964,Rob,Alvarez,Tucson,AZ,02:34:14,Stone House p/b Monster Media
 10,294312,Michael,Radcliff,Tucson,AZ,02:34:19,GST Racing
 11,55904,Timothy,Carolan,Tucson,AZ,02:34:22,Cyclefit Solutions Racing
@@ -1263,7 +1263,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,229069,Tracey,Jacobs,Boulder,CO,02:35:50,ALP Cycles Racing
 19,290139,Moirin,Nelson,St. George,UT,02:35:50,Faster Cyclist
 20,395130,Melanie,Beale,Boulder,CO,02:35:50,
-21,499864,Julyn,Aguila,El Paso,TX,02:35:50,Crazy Cat Cyclery
+21,481054,Julyn,Aguila,El Paso,TX,02:35:50,Crazy Cat Cyclery
 22,310825,Aliya,Traficante,Chico,CA,02:35:50,Folsom Bike
 23,275988,Emma,White,Delanson,NY,02:35:50,UCI WPT: Rally Cycling
 24,527683,Ana,Hernandez,,,02:36:28,CONADE-Visit Mxico-Specialized
@@ -1297,7 +1297,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,526687,Leslie,Horn,,,02:06:31,NovoFit - Giradin
 11,527527,Jacie,Porter,Sahuarita,AZ,02:06:31,
 12,523837,Lily,Vitt,Tucson,AZ,02:06:31,El Grupo Youth Cycling Club
-13,410651,Sara,LittleMasterson,Bentonville,AR,02:06:31,Festlig Norsk CC
+13,410651,Sara,LittleMasterson,Virginia Beach ,VA,02:06:31,Festlig Norsk CC
 14,383167,Amelia,Lopez,El Paso,TX,02:10:09,
 15,418890,Dawn,Manfredonia,Lafayette,CO,02:10:09,Primal Audi Denver Womens Racing Team
 16,527629,Julia,Montez,El Paso,TX,02:10:58,
@@ -1305,7 +1305,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 03/18/2017 Road Race Women SW 3
 Place,License #,First,Last,City,State,Time,Team
-1,492481,Emily,Rodger,,,03:10:42,The Velo Ambassador Team
+1,492481,Emily,Rodger,Scottsdale,AZ,03:10:42,The Velo Ambassador Team
 2,416428,Lauren,Diaz,San Diego,CA,03:11:08,Eliel Factory Team
 3,522301,Ellie,Wood,Tucson,AZ,03:12:17,Tolero Racing
 4,457164,Izabel,Adams,Tucson,AZ,03:12:21,El Grupo Youth Cycling Club
@@ -1315,7 +1315,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,457672,Sarah,Posner,Sedona,AZ,03:14:45,White Mountain Road Club
 9,489136,Tori,Riemersma,Tempe,AZ,03:16:02,Arizona State University
 10,460576,Hannah,Dalsing,Peoria,AZ,03:17:14,The Velo Ambassador Team
-11,499866,Lucia,Carreno,El Paso,TX,03:21:35,Crazy Cat Cyclery
+11,481033,Lucia,Carreno,El Paso,TX,03:21:35,Crazy Cat Cyclery
 12,496845,Pearl,Dixon,Tucson,AZ,03:21:38,El Grupo Youth Cycling Club
 13,422584,Tristen,Musselman,Flagstaff,AZ,03:21:42,Team One Racing
 
@@ -1338,7 +1338,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,508346,Helen,Gruneisen,Tucson,AZ,02:04:09,
 2,164775,Jane,Berger,Tucson,AZ,02:04:13,AZ Women Racing
-3,242391,Kimberly,Hodes,Boulder,CO,02:04:19,Primal Audi Denver Womens Racing Team
+3,242391,Kimberly,Hodes,Tucson,AZ,02:04:19,Primal Audi Denver Womens Racing Team
 4,195195,Charlayne,Barger,Chandler,AZ,02:04:37,Thrive Youth Cycling
 5,291973,Kimberly,Tom,San Diego,CA,02:05:00,SkyFlash Racing
 6,403647,Beata,George,Scottsdale,AZ,02:05:40,AZ Women Racing
@@ -1371,7 +1371,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,476479,Kevin,Salmon,Flagstaff,AZ,00:08:10,Team Pay 'N Take
 2,508078,Grant,Soehnel,Albuquerque,NM,00:09:02,
 3,514512,Seth,Wall,Jefferson,MD,00:09:20,
-4,502980,Benjamin,Cristofori,Tucson,AZ,00:09:33,
+4,502980,Benjamin,Cristofori,Marana,AZ,00:09:33,
 5,523948,Jeremia,Petz,Tucson,AZ,00:10:18,El Grupo Youth Cycling Club
 6,527413,Jason,Sealover,Flagstaff,AZ,00:10:36,
 7,481614,Roger,Higgs,Fort Huachuca,AZ,00:11:07,
@@ -1382,7 +1382,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,499901,James,Piccoli,,,00:07:12,Pacific Premier Bank Cycling Team
 3,525408,Nigel,Ellsay,,,00:07:17,Silber Pro Cycling Team
 4,294220,Andrew,Clemence,Tucson,AZ,00:07:20,White Mountain Road Club
-5,525752,Nickolas,Zukowsky,Sainte-lucie-des-laurentides,QC,00:07:22,Silber Pro Cycling Team
+5,495707,Nickolas,Zukowsky,Tucson,AZ,00:07:22,Silber Pro Cycling Team
 6,268330,Travis,McCabe,Tucson,AZ,00:07:26,UCI PCT: UnitedHealthcare
 7,341120,Tyler,Stites,Tucson,AZ,00:07:29,UCI CT: Aevolo Cycling Inc.
 8,442824,Rene,Corella,,,00:07:30,BMW Development Team
@@ -1394,7 +1394,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,371826,Timothy,Savre,Glencoe,MN,00:07:41,Project Echelon Racing
 15,427556,Rolando,Gonzalez,Durango,CO,00:07:42,CRC Janitorial/ Cannondale Pro Cycling
 16,257316,Stephen,Bassett,Knoxville,TN,00:07:43,
-17,155190,Chad,Beyer,Scottsdale,AZ,00:07:43,UCI CT: Canyon Bicycles
+17,155190,Chad,Beyer,Tempe,AZ,00:07:43,UCI CT: Canyon Bicycles
 18,497565,Emile,Jean,,,00:07:46,Silber Pro cycling
 19,418955,Nicholas,Greeff,Arvada,CO,00:07:46,303 Project
 20,267611,Alex,Driscoll,Fountain,CO,00:07:48,COS Racing
@@ -1405,7 +1405,7 @@ Place,License #,First,Last,City,State,Time,Team
 25,395387,Sean,Gardner,Richmond,VA,00:07:52,Gateway Harley-Davidson
 26,253798,Michael,Dziedzic,Tempe,AZ,00:07:53,White Mountain Road Club
 27,499505,PIERANDRE,COTE,,,00:07:54,Silber Pro Cycling Team
-28,527010,Alexis,Cartier,,,00:07:55,H&R Block Pro Cycling Team
+28,424712,Alexis,Cartier,Moscow,ID,00:07:55,H&R Block Pro Cycling Team
 29,161263,Ryan,Knapp,Bloomington,IN,00:07:55,Zone-6 Cycling
 30,394102,Adam,Bryfogle,Tucson,AZ,00:07:55,White Mountain Road Club
 31,287780,Taylor,Warren,San Diego,CA,00:08:00,Rocky Mountain Velo
@@ -1473,7 +1473,7 @@ Place,License #,First,Last,City,State,Time,Team
 24,496849,Zaid,Murrieta,Tucson,AZ,00:09:04,El Grupo Youth Cycling Club
 25,494168,Avery,Baltunis,Hereford,AZ,00:09:04,M and M RC
 26,494489,Ethan,Harrelson,Scottsdale,AZ,00:09:05,Fleming Wealth Strategies.com
-27,366670,David,platon,Avondale ,AZ,00:09:05,Team Santini USA
+27,366670,David,platon,Avondale,AZ,00:09:05,Team Santini USA
 28,487304,jack,senese,Tucson,AZ,00:09:08,El Grupo Youth Cycling Club
 29,420173,Lucien,Fuertes,Tucson,AZ,00:09:09,Tolero Racing
 30,303997,Michael,Abdalla,Albuquerque,NM,00:09:10,Echelon Racing New Mexico
@@ -1519,15 +1519,15 @@ Place,License #,First,Last,City,State,Time,Team
 9,255142,Gary,Bell,Las Cruces,NM,00:08:20,ZiaVelo Cycling
 10,359878,Ryan,Milmoe,Scottsdale,AZ,00:08:21,Bike Accident Attorneys
 11,305434,Terry,schmidtknecht,Mesa,AZ,00:08:29,Unity Racing
-12,332886,Timothy,Scott,Sahuarita ,AZ,00:08:31,Aggress
+12,332886,Timothy,Scott,Sahuarita,AZ,00:08:31,Aggress
 13,522242,kyle,berg,Phoenix,AZ,00:08:33,
-14,493880,William,Raus,Murrieta,CA,00:08:33,S2C/BOSCH pb Pearl Izumi
+14,493880,William,Raus,Oceanside,CA,00:08:33,S2C/BOSCH pb Pearl Izumi
 15,217473,Greg,Foster,Albuquerque,NM,00:08:34,Nero Veloce p/b Michael Thomas Coffee
 16,458291,Erik,Brockhoff,West Jordan,UT,00:08:34,
 17,489859,Jason,Chan,Las Vegas,NV,00:08:34,High Desert Cycling Club
 18,212000,James,Haycraft,Tucson,AZ,00:08:34,
 19,354802,Robert,Paulsen,Mesa,AZ,00:08:35,Unity Racing
-20,392666,Bill,Karras,Mesa ,AZ,00:08:37,Athlete Octane Racing
+20,392666,Bill,Karras,Mesa,AZ,00:08:37,Athlete Octane Racing
 21,422305,Michael,Hast,Tucson,AZ,00:08:38,ChristianCycling
 22,206228,Andrew,Scott,Tucson,AZ,00:08:38,Sabino Cycles Racing
 23,353942,Levi,Kramer,Scottsdale,AZ,00:08:42,Cyberdyne Systems
@@ -1622,7 +1622,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,466441,Steven,Long,Vail,AZ,00:09:13,Cyclefit Solutions Racing
 4,219527,Larry,Wolff,Sacramento,CA,00:09:47,Team Hammer Nutrition
 5,428440,Kenneth,Starcke,Tucson,AZ,00:09:57,Cyclefit Solutions Racing
-6,245777,Steven,Borer,Show Low,AZ,00:09:58,Fleming Wealth Strategies.com
+6,245777,Steven,Borer,Laguna Hills,CA,00:09:58,Fleming Wealth Strategies.com
 7,427913,Roy,Quade,,,00:10:13,
 
 03/17/2017 Time Trial Men MM 55+
@@ -1640,12 +1640,12 @@ Place,License #,First,Last,City,State,Time,Team
 11,48867,Andrew,Hosterman,Tucson,AZ,00:09:01,White Mountain Road Club
 12,45530,William,Kellagher,Boulder,CO,00:09:04,Rocky Mountain Cancer Centers Cycling Team
 13,332428,Tim,Stone,Boulder,CO,00:09:07,Rocky Mountain Cancer Centers Cycling Team
-14,46650,Joseph,Paulson,Boulder,CO,00:09:12,BoulderCentre for Orthopedics
+14,46650,Joseph,Paulson,Berthoud,CO,00:09:12,BoulderCentre for Orthopedics
 15,242764,Stuart,Mann,Boulder,CO,00:09:24,BoulderCentre for Orthopedics
 16,459051,STEPHEN,LEAKE,Lexington,IL,00:09:24,Bloomington Cycle Racing Team
 17,59550,Brian,Lemke,Cave Creek,AZ,00:09:28,White Mountain Road Club
 18,53871,David,French,Tucson,AZ,00:09:38,White Mountain Road Club
-19,192230,Mark,Cowin,Frederica ,DE,00:10:11,Pro Pedals Bike Shop
+19,192230,Mark,Cowin,Frederica,DE,00:10:11,Pro Pedals Bike Shop
 20,172847,Randall,Clayborn,Tucson,AZ,00:10:20,Stone House p/b Monster Media
 21,200910,Kurt,Kroemer,Phoenix,AZ,00:10:21,Cyberdyne Systems
 22,38636,Bradley,Wingfield,Oro Valley,AZ,00:10:26,
@@ -1696,7 +1696,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,527306,Hector Hugo,Rangel Zamarron,Tucson,AZ,00:07:39,
 2,35628,Philip,Tinstman,San Marcos,CA,00:07:46,Monster Media Racing
 3,527307,David,Salomon Alvarez,Tucson,AZ,00:07:48,
-4,87933,Paul,Thomas,Gilbert ,AZ,00:07:51,Stone House p/b Monster Media
+4,87933,Paul,Thomas,Gilbert,AZ,00:07:51,Stone House p/b Monster Media
 5,228961,Aaron,Jeffrey,Wellington,CO,00:08:06,Sonic Boom Racing
 6,57369,Eugene,Boronow,Tucson,AZ,00:08:09,Superissimo
 7,170964,Rob,Alvarez,Tucson,AZ,00:08:10,Stone House p/b Monster Media
@@ -1705,7 +1705,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,172139,Bryan,Reid,Santa Fe,NM,00:08:18,RA Racing Apparel/BMC
 11,197252,Craig,Streit,Scottsdale,AZ,00:08:35,Stone House p/b Monster Media
 12,363531,Dane,Emde,Fort Collins,CO,00:08:36,Modern Market Racing p/b GR Capital Partners
-13,399839,Sergio,Dominguez,,,00:08:40,
+13,399840,Sergio,Dominguez,,,00:08:40,
 14,83075,James,Webster,Tucson,AZ,00:08:40,Stone House p/b Monster Media
 15,396315,daniel,fernandez,Boulder,CO,00:08:49,Sonic Boom Racing
 16,459645,Matthew,Sinclair,Tucson,AZ,00:09:24,Stone House p/b Monster Media
@@ -1761,7 +1761,7 @@ Place,License #,First,Last,City,State,Time,Team
 21,258361,Kate,Wilson,Los Angeles,CA,00:09:28,Ironfly
 22,527682,Antonieta,Gaxiola,,,00:09:31,CONADE-Visit Mxico-Specialized
 23,527684,Marcela,Prieto,,,00:09:32,CONADE-Visit Mxico-Specialized
-24,499864,Julyn,Aguila,El Paso,TX,00:09:33,Crazy Cat Cyclery
+24,481054,Julyn,Aguila,El Paso,TX,00:09:33,Crazy Cat Cyclery
 25,466699,Catherine,Ouellette,Saint-lambert,QC,00:09:34,Team Quebec
 26,527670,ARIADNA,GUTERREZ,,,00:09:38,CONADE-Visit Mxico-Specialized
 27,255388,Brenna,Nelson,St. George,UT,00:09:43,Faster Cyclist
@@ -1796,13 +1796,13 @@ Place,License #,First,Last,City,State,Time,Team
 13,354122,Kayla,Hankins,Scottsdale,AZ,00:11:17,Velo Track Cycling
 14,295932,Leslie,Brady,Glendale,AZ,00:11:24,Faster Cyclist
 15,496435,Elizabeth,Rivera,Escondido,CA,00:11:29,SDBC/EMERALD TEXTILES p/b UC Cyclery
-16,410651,Sara,LittleMasterson,Bentonville,AR,00:12:01,Festlig Norsk CC
+16,410651,Sara,LittleMasterson,Virginia Beach ,VA,00:12:01,Festlig Norsk CC
 17,383167,Amelia,Lopez,El Paso,TX,00:12:34,
 18,527629,Julia,Montez,El Paso,TX,00:12:58,
 
 03/17/2017 Time Trial Women SW 3
 Place,License #,First,Last,City,State,Time,Team
-1,492481,Emily,Rodger,,,00:08:50,The Velo Ambassador Team
+1,492481,Emily,Rodger,Scottsdale,AZ,00:08:50,The Velo Ambassador Team
 2,358118,Daniela,Diamente,Tucson,AZ,00:09:33,El Grupo Youth Cycling Club
 3,416428,Lauren,Diaz,San Diego,CA,00:09:37,Eliel Factory Team
 4,522301,Ellie,Wood,Tucson,AZ,00:09:48,Tolero Racing
@@ -1814,7 +1814,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,312388,Elizabeth,Korinek,Scottsdale,AZ,00:10:07,The Velo Ambassador Team
 11,496845,Pearl,Dixon,Tucson,AZ,00:10:15,El Grupo Youth Cycling Club
 12,422584,Tristen,Musselman,Flagstaff,AZ,00:10:19,Team One Racing
-13,499866,Lucia,Carreno,El Paso,TX,00:11:01,Crazy Cat Cyclery
+13,481033,Lucia,Carreno,El Paso,TX,00:11:01,Crazy Cat Cyclery
 
 03/17/2017 Time Trial Women MW 65+
 Place,License #,First,Last,City,State,Time,Team
@@ -1837,7 +1837,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,164775,Jane,Berger,Tucson,AZ,00:09:26,AZ Women Racing
 2,508346,Helen,Gruneisen,Tucson,AZ,00:09:46,
 3,267858,Dana,Stryk,Alexandria,VA,00:10:30,Evolution Cycling Club p/b Long & Foster
-4,242391,Kimberly,Hodes,Boulder,CO,00:10:37,Primal Audi Denver Womens Racing Team
+4,242391,Kimberly,Hodes,Tucson,AZ,00:10:37,Primal Audi Denver Womens Racing Team
 5,291973,Kimberly,Tom,San Diego,CA,00:10:51,SkyFlash Racing
 6,235714,Carolyn,Audilet,Tucson,AZ,00:10:58,Tolero Racing
 7,195195,Charlayne,Barger,Chandler,AZ,00:10:59,Thrive Youth Cycling

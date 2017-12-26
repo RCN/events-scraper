@@ -19,7 +19,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,494707,Zach,Gregg,Roanoke,VA,,
 6,359849,Michael,Potter,Winston Salem,NC,,Boone Area Cyclists
 7,376024,Charkie,Huegel,Greensboro,NC,,Nine Lives Carbon Repair
-8,309018,Keith,Mullaly,Belmont,NC,,
+8,309018,Keith,Mullaly,Wethersfield,CT,,
 9,161552,Lucas,Livermon,Durham,NC,,Cyclus Sports
 10,324184,Franklin,Deese,Greensboro,NC,,Cyclus Sports
 11,128948,Matthew,Latyszonek,Alexandria,VA,,
@@ -27,7 +27,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,48697,Ted,Hopkins,Wake Forest,NC,,Team Spoke Cycles
 14,308793,DEVIN,REAVIS,Elkin,NC,,Boone Area Cyclists
 15,366015,Marcel,Gutierrez,Clemmons,NC,,Hearts Racing Club
-16,272071,Wheeler,Davis,Athens,GA,,Team Novo Nordisk
+16,272071,Wheeler,Davis,Raleigh,NC,,Team Novo Nordisk
 17,258844,Aaron,Cruikshank,Akron,OH,,
 18,406669,Jesse,Kooistra,Paw Paw,MI,,Levine Law Group Elite Cycling Team
 19,359308,Richard,OBriant,Fuquay Varina,NC,,Jigawatt Cycling
@@ -60,7 +60,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,501405,Spencer,Schutte,Morgantown,WV,,West Virginia University
 6,306498,James,Long,Forest,VA,,Liberty University
 7,524884,Dan,Lee,Millersville,MD,,University of Maryland-College Park
-8,477446,Hugh,Nezat,Jacksonville,NC,,University of North Carolina at Chapel Hill
+8,477446,Hugh,Nezat,Chapel Hill,NC,,University of North Carolina at Chapel Hill
 9,524852,Andrew,Krantz,College Park,MD,,University of Maryland-College Park
 10,497893,Zachary,Felch,Gambrills,MD,,University of Maryland-College Park
 11,356992,Ian,Tumulty,Mohegan Lake,NY,,University of Maryland-College Park
@@ -93,7 +93,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,498282,Eric,Sasse,Los Angeles,CA,,Johns Hopkins University
 4,395548,Noah,Flaxman,Mclean,VA,,University of Virginia
 5,525508,Thomas,Sonnery-Cottet,Lynchburg,VA,,Liberty University
-6,525569,Tyler,Figgins,Crystal Lake,IL,,Liberty University
+6,525569,Tyler,Figgins,Lynchburg,VA,,Liberty University
 7,414127,Christopher,Bell,Harrisonburg,VA,,James Madison University
 8,499317,Sean,Ponce,Baltimore,MD,,Johns Hopkins
 9,432132,Paul,Wagner,Clemmons,NC,,North Carolina State University at Raleigh
@@ -114,9 +114,9 @@ Place,License #,First,Last,City,State,Time,Team
 24,525507,Travis,Fehr,Lynchburg,VA,,Liberty University
 25,486490,Austin,Sheffer,Blacksburg,VA,,Virginia Polytechnic University
 26,461080,Christopher,Keosian,Salisbury,MD,,University of Maryland-College Park
-27,503328,Nathan,Bailey,Hempstead,NY,,University of Maryland-College Park
+27,503328,Nathan,Bailey,Silver Spring,MD,,University of Maryland-College Park
 28,466355,Harrison,Chapman,Hanover,NH,,College of William and Mary
-29,486748,Matt,Jones,South Dartmouth,MA,,
+29,486748,Matt,Jones,Boone,NC,,
 30,524983,Andrew,Payne,Annapolis,MD,,US Naval Academy
 31,393644,Curtis,Hoyt,Huntersville,NC,,Belmont Abbey College
 32,525746,Seth,Watkins,Apex,NC,,
@@ -159,13 +159,13 @@ DNF,497356,Tirone,Johnson,Washington,DC,,University of Maryland-College Park
 02/19/2017 Criterium Men Collegiate A
 Place,License #,First,Last,City,State,Time,Team
 1,441096,Thomas,Humphreys,Chevy Chase,MD,,University of Maryland-College Park
-2,309018,Keith,Mullaly,Belmont,NC,,Belmont Abbey College
+2,309018,Keith,Mullaly,Wethersfield,CT,,Belmont Abbey College
 3,359308,Richard,OBriant,Fuquay Varina,NC,,North Carolina State University at Raleigh
 4,360227,Charles,Ramsbotham,Boone,NC,,Appalachian State University
 5,404229,Clayton,Travis,Hudson,OH,,Virginia Polytechnic University
 6,429496,Alex,Mahlandt,Frederick,MD,,University of Maryland-College Park
 7,215681,Marcus,Canady,Raleigh,NC,,North Carolina State University at Raleigh
-8,514785,Christopher,Peltzer,Johnstown,PA,,Indiana University-PA
+8,514785,Christopher,Peltzer,Indiana,PA,,Indiana University-PA
 9,312130,Trey,Hedgecock,Ankeny,IA,,Belmont Abbey College
 10,442975,Matt,Sloyer,Raleigh,NC,,Appalachian State University
 11,423932,Brian,Hardy,Longmont,CO,,US Naval Academy
@@ -179,7 +179,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,379982,Joshua,Spokes,Baltimore,MD,,University of Maryland-College Park
 DNS,460162,Hoel,Wiesner,Rensselaer,NY,,Duke University
 DNF,433833,Hassan,Beydoun,Pittsburgh,PA,,Carnegie Mellon University
-DNF,352088,Zach,Lyons,Morgantown,WV,,West Virginia University
+DNF,352088,Zach,Lyons,South Willamsport,PA,,West Virginia University
 DNF,413113,Spencer,Moavenzadeh,Durham,NC,,University of Virginia
 DNF,394179,Gabe,Morgan,Richmond,VA,,Liberty University
 DNF,367471,Nathaniel,Worcester,Belmont,NC,,Belmont Abbey College
@@ -203,7 +203,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,314226,Robbie,Morris,Blairs,VA,,
 15,472976,Marvin Shawn,Perkins,Raleigh,NC,,Jigawatt Cycling
 16,121604,Harold,Overman,Cary,NC,,Jigawatt Cycling
-17,524321,Shea,Stepusin,Raleigh,NC,,
+17,524321,Shea,Stepusin,Oxford,NC,,
 18,410826,Joe,Briscoe,Clemmons,NC,,TEAM MS p/b Herbalife/Maui Jim
 19,393644,Curtis,Hoyt,Huntersville,NC,,
 20,524067,Johnathan,Thacker,Youngsville,NC,,Team Spoke Cycles
@@ -235,7 +235,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,370578,David,Stauffer,Arlington,VA,,National Capital Velo Club/UnitedHealthcare
 11,442975,Matt,Sloyer,Raleigh,NC,,Boone Area Cyclists
 12,476462,Javier,Zamarripa,Cary,NC,,Jigawatt Cycling
-13,431253,Gustavo,Marin,Clayton,NC,,Constellation Cycling
+13,431253,Gustavo,Marin,Asheville,NC,,Constellation Cycling
 14,2962,John,Baxter,Raleigh,NC,,Constellation Cycling
 15,494213,Timothy,Meyers,Fredericksburg,VA,,National Capital Velo Club/UnitedHealthcare
 16,152390,Mark,McClay,Whispering Pines,NC,,Southeast Velo Racing
@@ -294,7 +294,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 02/19/2017 Criterium Women Cat 4/5
 Place,License #,First,Last,City,State,Time,Team
-1,476619,Paige,Kostanecki,Charottesville,VA,,New York University
+1,476619,Paige,Kostanecki,Charlottesville,VA,,New York University
 2,482120,Shannon,Goyda,Clemmons,NC,,Greensboro Velo Club
 3,0,Erin,Kling,,,,
 4,523609,Lauren,Phillips,Raleigh,NC,,
@@ -319,7 +319,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,459984,August,Myers,Princeton,NJ,,Monticello Velo Club
 16,268347,Spencer,Lowden,Brevard,NC,,
 17,367171,Joel,Waters,Richmond,VA,,
-18,220150,Jared,Nieters,Haymarket,VA,,Celerity Cycling
+18,220150,Jared,Nieters,Amissville,VA,,Celerity Cycling
 19,205601,Adam,Perez,Raleigh,NC,,Happy Tooth Racing
 20,370578,David,Stauffer,Arlington,VA,,National Capital Velo Club/UnitedHealthcare
 21,311717,Hugo,Schreur,Chapel Hill,NC,,Dornier Racing
@@ -338,7 +338,7 @@ Place,License #,First,Last,City,State,Time,Team
 34,460008,Tom,Rodarie,Charlotte,NC,,
 35,27256,David,Parker,Chapel Hill,NC,,The Electric Banana Cycling Project p/b FSC Racing
 36,376024,Charkie,Huegel,Greensboro,NC,,Nine Lives Carbon Repair
-37,3868,Christopher,Blake,Morrisville,NC,,Happy Tooth Racing
+37,3868,Christopher,Blake,Apex,NC,,Happy Tooth Racing
 38,40606,Christopher,Zieman,Chapel Hill,NC,,The Electric Banana Cycling Project p/b FSC Racing
 39,248170,Robert,O'Gorman Jr,Wake Forest,NC,,Happy Tooth Racing
 40,50288,Richard,Creed,Raleigh,NC,,Revolution Cycle Sports
@@ -351,7 +351,7 @@ Place,License #,First,Last,City,State,Time,Team
 48,433214,Sergejs,Bowers,Columbus,OH,,Kreitler Racing Team
 49,152390,Mark,McClay,Whispering Pines,NC,,Southeast Velo Racing
 51,264184,Kevin,SigRist,Raleigh,NC,,
-52,418380,Ryan,Hayden,Wake Forest ,NC,,
+52,418380,Ryan,Hayden,Wake Forest,NC,,
 53,338692,Brandon,Knettel,Raleigh,NC,,The Electric Banana Cycling Project p/b FSC Racing
 54,346132,Gregorino,Cordasco,Basking Ridge,NJ,,Liberty Cycle Inc.
 56,166834,Greg,Robitaille,Raleigh,NC,,Capital Cyling / Cary Audi
@@ -359,15 +359,15 @@ Place,License #,First,Last,City,State,Time,Team
 DQ,64902,Eric,Abrams,Irvine,CA,,R5 Ciclismo
 DNF,165037,Patrick,Weddell,Boone ,NC,,Boone Area Cyclists
 DNF,174904,Brian,Weightman,Washington,DC,,National Capital Velo Club/UnitedHealthcare
-DNF,339024,Rick,Williams,Apex ,NC,,Jigawatt Cycling
+DNF,339024,Rick,Williams,Cary,NC,,Jigawatt Cycling
 DNF,440072,Alex,Winnicki,Greensboro,NC,,Cyclus Sports
 DNF,424414,Carlos,Zamarripa,Cary,NC,,Jigawatt Cycling
 DNF,295295,Ian,Baun,Pittsburgh,PA,,Cyclus Sports
 DNF,331876,Joshua,Brown,New Bern,NC,,Cyclus Sports
 DNF,193513,Ryan,Buerman,Alexandria,VA,,National Capital Velo Club/UnitedHealthcare
 DNF,215681,Marcus,Canady,Raleigh,NC,,North Carolina State University at Raleigh
-DNF,7782,Greg,Cordasco,Basking Ridge,NJ,,Liberty Cycle Inc.
-DNF,272071,Wheeler,Davis,Athens,GA,,Team Novo Nordisk
+DNF,7782,Greg,Cordasco,Baskingridge,NJ,,Liberty Cycle Inc.
+DNF,272071,Wheeler,Davis,Raleigh,NC,,Team Novo Nordisk
 DNF,60811,Darrin,Dexter,Apex,NC,,Capital Cycling Club
 DNF,314538,Luis,Flores,Apex,NC,,Happy Tooth Racing
 DNF,155665,Jerry,Gala,Apex,NC,,Happy Tooth Racing
@@ -448,14 +448,14 @@ Place,License #,First,Last,City,State,Time,Team
 10,499057,Roderick,Bowlby,Zionsville,IN,,Johns Hopkins University
 11,493150,jules,van kempen,Chapel Hill,NC,,0
 12,525508,Thomas,Sonnery-Cottet,Lynchburg,VA,,Liberty University
-13,525569,Tyler,Figgins,Crystal Lake,IL,,Liberty University
+13,525569,Tyler,Figgins,Lynchburg,VA,,Liberty University
 14,498274,Daniel,Webb,Havre De Grace,MD,,University of Maryland-College Park
 15,414127,Christopher,Bell,Harrisonburg,VA,,James Madison University
 16,525509,Samuel,Blackmon,Fair Oaks Ranch,TX,,Liberty University
 17,525507,Travis,Fehr,Lynchburg,VA,,Liberty University
 18,525570,Joel,Brenny,Lynchburg,VA,,Liberty University
 19,395548,Noah,Flaxman,Mclean,VA,,University of Virginia
-20,486748,Matt,Jones,South Dartmouth,MA,,
+20,486748,Matt,Jones,Boone,NC,,
 21,524769,Grant,Edwards,Boone,NC,,Appalachian State University
 22,499317,Sean,Ponce,Baltimore,MD,,Johns Hopkins
 23,525285,steffen,erickson,Henrico,VA,,Virginia Polytechnic University
@@ -473,7 +473,7 @@ Place,License #,First,Last,City,State,Time,Team
 35,525601,Max,Forsyth,Akron,OH,,Carnegie Mellon University
 36,525149,Jeffrey,Kramer,Annapolis,MD,,US Naval Academy
 37,466355,Harrison,Chapman,Hanover,NH,,College of William and Mary
-DNF,503328,Nathan,Bailey,Hempstead,NY,,University of Maryland-College Park
+DNF,503328,Nathan,Bailey,Silver Spring,MD,,University of Maryland-College Park
 DNF,524940,Wyatt,Kartvedt,Annapolis,MD,,US Naval Academy
 DNF,432132,Paul,Wagner,Clemmons,NC,,North Carolina State University at Raleigh
 DNF,525746,Seth,Watkins,Apex,NC,,
@@ -513,19 +513,19 @@ Place,License #,First,Last,City,State,Time,Team
 1,406669,Jesse,Kooistra,Paw Paw,MI,,Belmont Abbey College
 2,404229,Clayton,Travis,Hudson,OH,,Virginia Polytechnic University
 3,359308,Richard,OBriant,Fuquay Varina,NC,,North Carolina State University at Raleigh
-4,309018,Keith,Mullaly,Belmont,NC,,Belmont Abbey College
+4,309018,Keith,Mullaly,Wethersfield,CT,,Belmont Abbey College
 5,360227,Charles,Ramsbotham,Boone,NC,,Appalachian State University
 6,445064,Hao,Sun,Raleigh,NC,,North Carolina State University at Raleigh
 7,383138,Blane,Maddox,Blacksburg,VA,,Virginia Polytechnic University
 8,429496,Alex,Mahlandt,Frederick,MD,,University of Maryland-College Park
 9,413113,Spencer,Moavenzadeh,Durham,NC,,University of Virginia
 10,324476,Luis,Leme,Mc Lean,VA,,Virginia Polytechnic University
-11,514785,Christopher,Peltzer,Johnstown,PA,,Indiana University-PA
+11,514785,Christopher,Peltzer,Indiana,PA,,Indiana University-PA
 12,394179,Gabe,Morgan,Richmond,VA,,Liberty University
 13,423932,Brian,Hardy,Longmont,CO,,US Naval Academy
 14,433833,Hassan,Beydoun,Pittsburgh,PA,,Carnegie Mellon University
 15,314080,Ana,Novo,College Park,MD,,University of Maryland-College Park
-16,352088,Zach,Lyons,Morgantown,WV,,West Virginia University
+16,352088,Zach,Lyons,South Willamsport,PA,,West Virginia University
 17,441096,Thomas,Humphreys,Chevy Chase,MD,,University of Maryland-College Park
 18,460162,Hoel,Wiesner,Rensselaer,NY,,Duke University
 19,442975,Matt,Sloyer,Raleigh,NC,,Appalachian State University
@@ -542,7 +542,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,496722,Kyle,Baca,Arlington,VA,,National Capital Velo Club/UnitedHealthcare
 4,396799,Christopher,Giannone,Lynchburg,VA,,Dire Wolf Racing
 5,510164,William,Longwell,Arlington,VA,,National Capital Velo Club/UnitedHealthcare
-6,256958,Matthew,Wisthoff,Wilmington,NC,,
+6,256958,Matthew,Wisthoff,Wrightsville Beach,NC,,
 7,523455,James,Sharp,Arlington,VA,,National Capital Velo Club/UnitedHealthcare
 8,454850,Christopher,Neureiter,Arlington,VA,,National Capital Velo Club/UnitedHealthcare
 9,513920,Samuel,Bush-Joseph,Alexandria,VA,,National Capital Velo Club/UnitedHealthcare
@@ -557,7 +557,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,524175,Jonathan,Dempsey,Cary ,NC,,Jigawatt Cycling
 19,525631,Chad,Kufen,Raleigh,NC,,
 20,85270,Mark,Carey,Chapel Hill,NC,,The Electric Banana Cycling Project p/b FSC Racing
-21,361447,Jason,Biggs,Cary,NC,,FS Series
+21,361447,Jason,Biggs,Raleigh,NC,,FS Series
 22,501936,Tyler,Wolfe,Baltimore,MD,,Johns Hopkins University
 23,511841,Gabriel,Martin,Cary,NC,,Jigawatt Cycling
 24,366929,Craig,Thompson,Raleigh ,NC,,Jigawatt Cycling
@@ -575,15 +575,15 @@ Place,License #,First,Last,City,State,Time,Team
 36,419093,Tyler,Garrard,Durham,NC,,
 37,512468,Carleton,Bowen,Rockville,MD,,
 38,121604,Harold,Overman,Cary,NC,,Jigawatt Cycling
-39,524321,Shea,Stepusin,Raleigh,NC,,
+39,524321,Shea,Stepusin,Oxford,NC,,
 40,481034,David,Zimmerman,Raleigh,NC,,
 41,345828,michael,hufham,Greensboro,NC,,
 42,478028,Scott,Moore,Raleigh,NC,,Revolution Cycle Sports
 43,391128,Eric,Rood,Apex,NC,,
 44,406255,John,Dina,Wake Forest,NC,,Team Spoke Cycles
 45,474247,Greg,Hohn,Chapel Hill,NC,,Triangle Velo
-46,520504,James,Walsh,Farmer City,IL,,
-47,431253,Gustavo,Marin,Clayton,NC,,Constellation Cycling
+46,520504,James,Walsh,Raleigh,NC,,
+47,431253,Gustavo,Marin,Asheville,NC,,Constellation Cycling
 48,0,Mike,Beaman,,,,Jigawatts
 49,257588,Allen,Walker,Rolesville,NC,,Revolution Cycle Sports
 50,0,Ronald,Kurney,,,,
@@ -596,7 +596,7 @@ Place,License #,First,Last,City,State,Time,Team
 57,408188,Joshua,Quinn,Rocky Mount,VA,,Charlottesville Racing Club
 58,504043,Gertjan,Duine,Charlottesville,VA,,Charlottesville Racing Club
 59,514995,Francis,Longaker,Richmond,VA,,
-60,360735,Mitchell,Collins,Kingsport,TN,,
+60,360735,Mitchell,Collins,Houston,TX,,
 61,392677,Matthew,Capps,Charlotte,NC,,
 62,133057,Jeffrey,Safrit,Salisbury,NC,,Southeast Velo Racing
 63,495050,Paul,Scott,Raleigh,NC,,Team CBC
@@ -606,7 +606,7 @@ Place,License #,First,Last,City,State,Time,Team
 67,302689,Jim,Casper,Fuquay Varina,NC,,Constellation Cycling
 68,384612,Jonas,Cherry,Raleigh,NC,,TLC Racing
 69,0,David,Pressell,,,,
-DNF,524857,kevin,brumagin,Whitsett,NC,,
+DNF,526292,kevin,brumagin,Liberty,NC,,
 DNF,524879,Chris,Chaten,Durham,NC,,
 DNF,521482,Philip,Danquah,Durham,NC,,
 DNF,432788,Thomas,Howser,Vass,NC,,Southeast Velo Racing
@@ -625,7 +625,7 @@ DNF,469533,Alastair,Grey,Valencia,CA,,
 Place,License #,First,Last,City,State,Time,Team
 1,525687,Rebecca,Kefer,Kernersville,NC,,E3: Endurance
 2,395229,Danielle,Baker,Durham,NC,,SpokesWomen Syndicate Inc.
-3,476619,Paige,Kostanecki,Charottesville,VA,,Charlottesville Racing Club
+3,476619,Paige,Kostanecki,Charlottesville,VA,,Charlottesville Racing Club
 4,525671,Anna,DeMonte,Raleigh,NC,,Jigawatt Cycling
 5,212846,Emily,Joyner,Virginia Beach,VA,,Celerity Cycling
 6,368854,Mary,Still,Norfolk,VA,,Celerity Cycling

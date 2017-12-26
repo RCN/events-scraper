@@ -29,15 +29,15 @@ Place,License #,First,Last,City,State,Time,Team
 25,307228,Oliver,Flautt,Norcross,CO,,303 Project
 26,282064,Isaiah,Newkirk,Boulder,CO,,303 Project
 27,0,Alejandro,Padilla,,,,Team Arapahoe Resources
-28,301474,samuel,leblanc,Kenner,LA,,4D Racing
+28,301474,samuel,leblanc,New Orleans,LA,,4D Racing
 29,205741,Stefan,Rothe,Austin,TX,,ELBOWZ Racing p/b Synergy.O
 30,413223,Joaquin,Najar,Austin,TX,,Super Squadra p/b Eliel Cycling
 31,252928,Rob,Bell,Oklahoma City,OK,,Oklahoma Bicycle Project
 32,386614,Justin,Stanley,Austin,TX,,ELBOWZ Racing p/b Synergy.O
 33,0,Juan,Martinez,,,,
 34,340154,Emiliano,Morales,San Antonio,TX,,Team CCR Roofing
-35,157827,Corey,Ray,Mckinney,TX,,Team Giant Lakeside p/b MINI of Plano
-36,272809,Ricky,Randall,Highland Village ,TX,,Team Arapahoe Resources
+35,157827,Corey,Ray,Green River,WY,,Team Giant Lakeside p/b MINI of Plano
+36,272809,Ricky,Randall,Highland Village,TX,,Team Arapahoe Resources
 37,272180,Jacob,White,Pauls Valley,OK,,Oklahoma Bicycle Project
 38,387057,Brady,Reed,Magnolia,TX,,Strike Cycling Elite Team
 39,180160,Daniel,Ajer,Austin ,TX,,Super Squadra
@@ -50,10 +50,10 @@ Place,License #,First,Last,City,State,Time,Team
 46,338924,Nicholas,Torraca,Grapevine,TX,,UCI CT: Elevate-KHS Pro Cycling
 47,178970,Mat,Stephens,Dallas,TX,,Arapahoe Resources / Garneau
 48,319214,Grant,Koontz,Spring,TX,,Arapahoe Resources / Garneau
-49,368638,Kyle,Walker,Lubbock ,TX,,Team Giant Lakeside p/b MINI of Plano
+49,368638,Kyle,Walker,Fort Worth,TX,,Team Giant Lakeside p/b MINI of Plano
 50,279653,Beau,Edwards,West Lake Hills ,TX,,Team CCR Roofing
 51,260618,Kent,Myers,Austin,TX,,Team Giant Lakeside p/b MINI of Plano
-52,310983,Tice,Porterfield,Bertram,TX,,Strike Cycling Elite Team
+52,310983,Tice,Porterfield,Austin,TX,,Strike Cycling Elite Team
 53,418085,Michael,Jones,Austin,TX,,Team Giant Lakeside p/b MINI of Plano
 54,187231,Mason,Quintana,Austin,TX,,DasWow Racing
 55,316954,Paul,Carty,Austin,TX,,DasWow Racing
@@ -72,7 +72,7 @@ Place,License #,First,Last,City,State,Time,Team
 68,269412,Adam,Koble,Tulsa,OK,,Oklahoma Bicycle Project
 DNS,337040,Stephan,Hirsch,Oklahoma City,OK,,Arapahoe Resources / Garneau
 DNS,284344,Jake,Boone,San Marcos,TX,,Bicycle Heaven / PVA
-DNF,202202,Garrett,White,Scottsdale,AZ,,Single Barrel CX
+DNF,202202,Garrett,White,San Antonio,TX,,Single Barrel CX
 DNF,60806,Andrew,Willis,Austin,TX,,PURE Driveway Series p/b SKINourishment
 DNF,122096,Jimmy,Miller,Austin,TX,,Team CCR Roofing
 DNF,89282,David,Wenger,Austin,TX,,Super Squadra p/b Eliel Cycling
@@ -82,12 +82,12 @@ DNF,188306,Scott,Veggeberg,Austin,TX,,Team CCR Roofing
 DNF,527248,Cesar,Serna,Aguascalientes,AG,,Rudys Ritas BP
 DNF,152962,Steven,Wheeler,Austin,TX,,Super Squadra p/b Eliel Cycling
 DNF,147032,Allen,Abell,New Braunfels,TX,,Bicycle Heaven / PVA
-DNF,230716,John,Noonan,Evergreen,CO,,Primal - Audi Denver
+DNF,230716,John,Noonan,Tucson,AZ,,Primal - Audi Denver
 DNF,354880,Tyler,Stewart,Austin,TX,,Team Giant Lakeside p/b MINI of Plano
 DNF,360809,Tyler,Cloutier,Dallas,TX,,Matrix Cycling Club
 DNF,283142,Alex,Joseph,Houston,TX,,Blue Agave Racing
 DNF,187559,Andrew,Armstrong,Dallas,TX,,Matrix/RBM
-DNF,503876,Alexandro,Garcia,,,,Rudys Ritas
+DNF,529796,Alexandro,Garcia,,,,Rudys Ritas
 DNF,333154,Skyler,Mackey,Tulsa,OK,,Oklahoma Bicycle Project
 DNF,282337,Brian,Firle,Boulder,CO,,Primal - Audi Denver
 DNF,199154,Henk,Calderon,Bellaire,TX,,
@@ -164,7 +164,7 @@ Place,License #,First,Last,City,State,Time,Team
 48,173567,Jeromie,Payne,Leander,TX,,Bat City Cycling
 49,89918,Gerardo,Chaparro,Allen,TX,,Windsor Door / LiftMaster p/b Bicycles P
 50,92563,Robert,Wray,Austin,TX,,DNA Cycling pb Onion Creek Volkswagen
-51,400785,Jeff,Makohon,Rockwall,TX,,Rockwall Racing
+51,400785,Jeff,Makohon,Heath,TX,,Rockwall Racing
 52,85255,Barry,Lee,Nederland,CO,,NINOX Racing
 53,58983,Michael,Gacki,Frisco,TX,,Windsor Door Racing
 54,55803,Tim,Granshaw,Lakeway,TX,,
@@ -248,7 +248,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,523157,Brian,Jenkins,Austin,TX,,Steiner Ranch Cycling
 8,476824,Connor,White,College Station,TX,,The University of Texas at Austin
 9,459856,Xiangxing,Liu,Austin,TX,,Violet Crown
-10,494929,Mike,Goppert,Frisco ,TX,,Crest/RBM Racing
+10,494929,Mike,Goppert,Frisco,TX,,Crest/RBM Racing
 11,528403,Steven,Kubiak,Austin,TX,,
 12,519993,James,Robertson,Austin,TX,,
 13,523666,Evan,Goldstrohm,Abilene,TX,,Steamboat Cycling
@@ -309,7 +309,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,427474,Clint,Bradford,Austin,TX,,Violet Crown
 4,196754,Jake,Allen,Austin,TX,,
 5,419216,Donald,Gwartney,Corpus Christi,TX,,
-6,466206,Daniel,Padgett,San Antonio,TX,,Bicycle Heaven / PVA
+6,466206,Daniel,Padgett,Colorado Springs,CO,,Bicycle Heaven / PVA
 7,425223,Angel,Leal,San Antonio,TX,,Bicycle Heaven / PVA
 8,476571,samir,shingala,Austin,TX,,Violet Crown Sports Assoc
 9,474601,Gregory,LaStrapes,Robstown,TX,,
@@ -337,7 +337,7 @@ Place,License #,First,Last,City,State,Time,Team
 31,499706,Thomas,Lea,Austin,TX,,Steiner Ranch Cycling
 32,382547,Allan,Watkins,Austin,TX,,Blur Racing p/b Austin Multi-Sport
 33,439119,Norman,Wilhelm,Houston,TX,,Urban Development p/b Urban Bicycle Gall
-34,467827,John,Nadolski,Austin,TX,,Steiner Ranch Cycling
+34,467827,John,Nadolski,Lake Elmo,MN,,Steiner Ranch Cycling
 35,496732,Eric,Quiat,Austin,TX,,Violet Crown
 36,412254,Christopher,Dedera,Keller,TX,,MBBC Racing
 37,303927,Adir,Doliner,Austin,TX,,VooDoo Racing
@@ -353,7 +353,7 @@ Place,License #,First,Last,City,State,Time,Team
 47,439308,Brian,Creasy,Austin,TX,,Bicycle Sport Shop Road Team
 48,494147,Pedro,Rodriguez,Georgetown,TX,,Weaver Technologies Racing
 49,306073,Weston,Giunta,Austin,TX,,Violet Crown
-50,206241,John,McAllister,Fort Worth,TX,,Elevate-KHS
+50,206241,John,McAllister,Weatherford,TX,,Elevate-KHS
 51,367192,Beau,Daigneault,San Marcos,TX,,
 52,498311,Stephen,Brown,Austin,TX,,PHENOM p/b Phobio
 53,472779,andrew,michalets,Houston,TX,,Bayou City Racing
@@ -366,7 +366,7 @@ Place,License #,First,Last,City,State,Time,Team
 60,487549,Andrew,Snell,San Antonios,TX,,Bike World Racing
 61,159240,Steve,Sprinkle,Austin,TX,,
 62,289266,Alan,Bryson,Houston,TX,,swcc
-63,375820,Paul,Wakefield,Houston,TX,,
+63,375820,Paul,Wakefield,Horseshoe Bay,TX,,
 64,501917,Jesse,Crews,Round Rock,TX,,Steiner Ranch Cycling
 65,496404,Taylor,Pruet,Houston,TX,,
 DNS,433899,Mac,Wilhelm Mwengi,Katy,TX,,swcc
@@ -430,13 +430,13 @@ DNF,350678,Hunter,Hinton,Weatherford,TX,,Volharden
 DNF,319960,Randall,Courtney,Dallas,TX,,Team Party Time
 DNF,392779,Brian,Moynihan,Georgetown,TX,,Texas State Cycling
 DNF,330120,Karla,Gendler,Austin,TX,,Team Yacht Club
-DNF,268349,Callum,Ingram,Boulder,CO,,
+DNF,268349,Callum,Ingram,Reno,NV,,
 DNF,415240,Nicolas,Hima,San Antonio,TX,,TILT Racing
 DNF,313174,Bernave,Velasquez,Arlington,TX,,Hilltop Bicycle Center
 DNF,52930,Brian,Handal,Houston,TX,,Nick Lopez Tailoring Cycling Team
 DNF,417103,Stuart,Gardner,Houston,TX,,Bike Barn Texas
 DNF,263456,Patrick,Davis,Austin,TX,,Anata Racing
-DNF,419098,Gregory,Simpson,San Antonio,TX,,Shred Monster
+DNF,419098,Gregory,Simpson,Austin,TX,,Shred Monster
 DNF,195642,Brent,Bellm,Austin,TX,,
 DNF,494576,Jake,Nelson,Frisco,TX,,Crest/RBM Racing
 DNF,388796,Gabriel,Ortiz,Dallas,TX,,
@@ -469,7 +469,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,368834,David,Ross,San Marcos,TX,,Shred Monster
 23,353912,Said,Assali,Houston,TX,,Shama Cycles
 24,350938,Gabriel,Porterfield,Bertram,TX,,Strike Cycling Elite Team
-25,424626,Randy,Lee,Richardson,TX,,Team Plano Cycling
+25,424626,Randy,Lee,Dallas,TX,,Team Plano Cycling
 26,385701,Gregory,Seymour,Denver,CO,,Sonic Boom Racing Team
 27,428965,Bryan,Burpee,Rockwall,TX,,Matrix/RBM
 28,294768,Melvin,Barrios,Houston,TX,,
@@ -524,11 +524,11 @@ Place,License #,First,Last,City,State,Time,Team
 1,408322,Emily,Newsom,Fort Worth,TX,,Team Elevate Racing
 2,137837,Carolyn,Defoore,Austin,TX,,Athlete Architecture p/b Hyperthreads
 3,217750,Christina,Gokey-Smith,Denton,TX,,Papa John's Racing p/b TREK
-4,288729,Jennifer,Wagner,Houston ,TX,,Team Elevate Racing
+4,288729,Jennifer,Wagner,Houston,TX,,Team Elevate Racing
 5,381993,Solymar,Rivera,Dallas,TX,,Sun & Ski Women's Racing
 6,393180,Amber,Smolik,Stafford,TX,,Team Elevate Racing
 7,188342,Jennifer,Park,San Antonio,TX,,Bicycle Heaven / PVA
-8,308837,Natalie,Smith,San Antonio ,TX,,Bicycle Heaven / PVA
+8,308837,Natalie,Smith,San Antonio,TX,,Bicycle Heaven / PVA
 9,368365,Katie,Kantzes,Austin,TX,,ATX HitSquad
 10,413502,Leigh,Ganzar,Austin,TX,,Athlete Architecture p/b Hyperthreads
 11,384315,Payten,Maness,Flower Mound,TX,,Papa John's Racing p/b TREK
@@ -567,11 +567,11 @@ Place,License #,First,Last,City,State,Time,Team
 18,525823,Melanie,Clancy,Dallas,TX,,October 3
 19,519168,Emily,Trahan,Leander,TX,,Violet Crown
 20,423119,Paige,Zizka,Katy,TX,,Northwest Cycling Club
-21,500675,Liesel,McAllister,Fort Worth,TX,,
+21,500675,Liesel,McAllister,Weatherford,TX,,
 22,518790,Irene,Pena,League City,TX,,
 23,476056,Jaime,Larmer,Fort Worth,TX,,
 24,380121,Lori,Francis,San Antonio,TX,,Bicycle Heaven / PVA
-25,410651,Sara,LittleMasterson,Bentonville,AR,,Festlig Norsk CC
+25,410651,Sara,LittleMasterson,Virginia Beach ,VA,,Festlig Norsk CC
 26,0,Valerie,Lozano,,,,UTSA Triathlon
 27,367683,Rebecca,Forsyth,Houston,TX,,Urban Development p/b Urban Bicycle Gall
 28,525026,Carly,Conrad,Austin,TX,,
@@ -598,7 +598,7 @@ DNF,422294,Iwona,Hill,Austin,TX,,Athlete Architecture p/b Hyperthreads
 Place,License #,First,Last,City,State,Time,Team
 1,458800,Emily,Beaudoin,San Marcos,TX,,PHENOM p/b Phobio
 2,472366,Caitlin,Friesen,Austin,TX,,Athlete Architecture p/b Hyperthreads
-3,377033,Brittany,Parffrey,San Antonio ,TX,,Bicycle Heaven / PVA
+3,377033,Brittany,Parffrey,San Antonio,TX,,Bicycle Heaven / PVA
 4,440483,maddie,woolley,Highland Village,TX,,
 5,289166,Tracy,Jones-Martin,Houston,TX,,Team Elevate Racing
 6,432936,Natalie,Pruitt,Houston,TX,,Southwest Cycling Club Racing

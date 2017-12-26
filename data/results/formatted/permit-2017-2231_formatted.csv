@@ -2,13 +2,13 @@ Main Line Bike Race in Ardmore PA Results
 
 08/20/2017 Criterium Men Pro/Cat 1/2
 Place,License #,First,Last,City,State,Time,Team
-1,378837,Bill,Ash,Philadelphia,PA,1:06:34,QCW Cycling
+1,378837,Bill,Ash,New York ,NY,1:06:34,QCW Cycling
 2,0,Stephen,Hall,,,,
 3,89187,Ryan,DeWald,Mount Penn,PA,,Delaware Valley Racing
 4,0,Geron,Williams,,,,
 5,318896,Micah,Engle,Dillsburg,PA,,Gateway Harley-Davidson
 6,186783,Colton,Valentine,Philadelphia,PA,,QCW Cycling
-7,341040,Eran,Preble,Philadelphia ,PA,,PTS Racing
+7,341040,Eran,Preble,Newark,DE,,PTS Racing
 8,324500,Dakota,Schaeffer,West Lawn,PA,,CS Velo
 9,250197,David,Dawson,Springfield,PA,,Delaware Valley Racing
 10,379489,William,Cooper,Pittsburgh,PA,,CS Velo
@@ -32,7 +32,7 @@ Place,License #,First,Last,City,State,Time,Team
 28,423581,Christopher,Baccash,Doylestown,PA,,Tri State Velo
 29,286845,Calvin,Hoops,Philadelphia,PA,,Tri State Velo
 30,501357,Laurent,Rivard,Haverford,PA,,QCW Cycling
-31,277019,Jonathan,Marshall,Chambersburg,PA,,PTS Racing
+31,277019,Jonathan,Marshall,Shippensburg,PA,,PTS Racing
 32,119361,Colin,Sandberg,Philadelphia,PA,,Fort Pitt Velo
 33,377947,Chris,Pino,Springfield,PA,,
 34,313046,Ryan,Rapolas,Phoenixville,PA,,QCW Cycling
@@ -43,7 +43,7 @@ Place,License #,First,Last,City,State,Time,Team
 39,257631,John,Drummond,Philadelphia,PA,,Arrow Racing
 40,217713,Joshua,West,Allentown,PA,,
 41,290087,Nicholas,Rogers,Philadelphia,PA,,QCW Cycling
-DNS,305602,Craig,Nichols,Ephrata,PA,,CS Velo
+DNS,305602,Craig,Nichols,Lancaster,PA,,CS Velo
 DNS,497509,Ismael,Collado,Bronx,NY,,NYCC Racing
 DNF,332188,Alex,Kellum,Philadelphia,PA,,QCW Cycling
 DNF,263181,Karl,Nelson,Philadelphia,PA,,QCW Cycling
@@ -75,7 +75,7 @@ DNF,407169,Alexander,Chrystall,Wellesley,MA,,New England Devo
 
 08/20/2017 Criterium Men Masters 45-49
 Place,License #,First,Last,City,State,Time,Team
-1,28984,John,Rachfal,Ardmore,PA,44:44.1,CS Velo
+1,28984,John,Rachfal,Needham,MA,44:44.1,CS Velo
 2,54963,Mark,Gorman,Philadelphia,PA,,L'equipe DeVille
 3,89253,Edward,Bennett,Columbus,NJ,,Century Road Club Assoc
 4,57947,michael,miller,Morgantown,PA,,Team Skyline
@@ -113,7 +113,7 @@ DNF,64938,David,Whitney,East Windsor,NJ,,Somerset Wheelmen
 DNF,51369,Keith,Davies,Wilmington,DE,,
 DNF,52533,Rich,Ross,Cherry Hill,NJ,,Mambo Kings Racing/D&Q
 DNF,48189,Frank,Negri,New York,NY,,Colavita
-DNF,320586,Cameron,Quick,Gaithersburg ,MD,,Phase Cycling
+DNF,320586,Cameron,Quick,Gaithersburg,MD,,Phase Cycling
 
 08/20/2017 Criterium Men Masters 55-59
 Place,License #,First,Last,City,State,Time,Team
@@ -214,14 +214,14 @@ Place,License #,First,Last,City,State,Time,Team
 4,382206,William,Walton,Allentown,PA,,Young Medalists
 5,420216,Elliot,Olsen,Eatontown,NJ,,Direct Contract Packaging-BiciSport
 6,425914,adriano,hauck,Philadelphia,PA,,Rohan Cycling
-7,147771,Colin,Reuter,Somerville,MA,,B2C2 / JRA Cycles
+7,147771,Colin,Reuter,Leeds,MA,,B2C2 / JRA Cycles
 8,317156,Josh,Woodson,Fallschurch,VA,,WWVC Racing
 9,362003,Jeremy,Hunter,Lancaster,PA,,Thru It All Body Shop
 10,403975,Randall,Calvert,Glen Mills,PA,,Team FEC p/b Trek Bikes
 11,382095,Michael,Schweizer,Emmaus,PA,,Long Tail Creative
 12,448395,Kyle,Clifford,Philadelphia,PA,,CS Velo
 13,425641,Nate,Cornman,Philadelphia,PA,,CS Velo
-14,283659,Philip,Daniels,Philadelphia ,PA,,Dangerous Creatures
+14,283659,Philip,Daniels,Philadelphia,PA,,Dangerous Creatures
 15,396264,Gregory,Sherrick,Royersford,PA,,Blue Bell Private Wealth Management p/b Cannondale
 16,427000,Nathan,Roberts,Whitehall,PA,,T-Town Elite
 17,381270,Joseph,Clay,Upper Darby,PA,,Young Medalists
@@ -230,15 +230,15 @@ Place,License #,First,Last,City,State,Time,Team
 20,502043,Jon,Elison,King Of Prussia,PA,,
 21,487624,Simon,Voorhees,Bethlehem,PA,,CS Velo
 22,418915,Aaron,McNany,Clarks Summit,PA,,Lackawanna Valley Racing Team
-23,320586,Cameron,Quick,Gaithersburg ,MD,,Phase Cycling
+23,320586,Cameron,Quick,Gaithersburg,MD,,Phase Cycling
 24,48189,Frank,Negri,New York,NY,,Colavita
 25,524900,Dillon,Mast,Philadelphia,PA,,CS Velo
 26,480090,Brian,Phipps,Jessup,MD,,Getting It In Cyclist
 27,414984,Samuel,Santos,Philadelphia,PA,,Independence Cycling
-28,296751,michael,green,Wyndmoor ,PA,,Arrow Racing
-29,324134,Matthew,Mory,Philadelphia,PA,,QCW Cycling p.b. Breakawaybikes.com
+28,296751,michael,green,Wyndmoor,PA,,Arrow Racing
+29,324134,Matthew,Mory,Mesa,AZ,,QCW Cycling p.b. Breakawaybikes.com
 30,484765,Tim,Straub,Ardmore,PA,,Team I Hate Cancer
-31,534454,Patrick,Brown,Fort Johnson,NY,,
+31,534454,Patrick,Brown,Scranton,PA,,
 32,226750,Dan,Lichtenberger,Wilmington,DE,,Team FEC p/b Trek Bikes
 33,470835,Eric,Williams,Philadelphia,PA,,Bicycle Therapy Racing
 DNF,425029,Ian,Witkowski,Elizabethtown,PA,,Young Medalists
@@ -279,7 +279,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,251573,Antonina,Esposto,Blandon,PA,,Human Zoom Bicycle Shop
 13,277608,Candace,Kennedy-Hess,Kintnersville,PA,,Sturdy  Girl Cycling / Vanderkitten
 14,30250,Anne,Rock (Maurer),Philadelphia,PA,,Cadence Racing PHL
-DNS,476619,Paige,Kostanecki,Charottesville,VA,,BRC Racing pb Reynolds GM-Subaru
+DNS,476619,Paige,Kostanecki,Charlottesville,VA,,BRC Racing pb Reynolds GM-Subaru
 DNS,432159,Melissa,Paquette,Havertown,PA,,QCW Cycling p.b. breakawaybikes.com
 DNS,505798,McKensie,Walker,Grenloch,NJ,,PSCC
 
@@ -296,7 +296,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,353242,Christin,Reuter,Leeds,MA,,crossresults.com
 10,369472,Leslie,Timm,Amherst,NH,,QCW Cycling p/b Breakaway - JL Velo
 11,366912,Marianna,Williams,Philadelphia,PA,,QCW Cycling p/b Breakaway - JLVelo
-12,476619,Paige,Kostanecki,Charottesville,VA,,BRC Racing pb Reynolds GM-Subaru
+12,476619,Paige,Kostanecki,Charlottesville,VA,,BRC Racing pb Reynolds GM-Subaru
 13,313982,Kate,Kirkpatrick,Washington,DC,,Mellow Mushroom
 14,466961,Diana,Chang,Washington,DC,1 Lap,Artemis Racing
 15,118465,sarah,chubb sauvayre,New York,NY,2 Lap,CRCA/Rockstar Games

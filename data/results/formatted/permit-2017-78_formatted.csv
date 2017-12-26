@@ -16,7 +16,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,9601,Patrick,Diver,Orlando,FL,1:11:23,
 13,335312,Marc,Boults,Lithia,FL,1:11:25,Pioneer Mortgage pb Yourkey.com
 14,469445,Raynaught,Jeffery,Westow,FL,1:11:25,
-15,374617,Chad,Conley,Cartersville,GA,1:11:26,Pharmaco-DeepSouth p/b NGCA
+15,374617,Chad,Conley,Atlanta,GA,1:11:26,Pharmaco-DeepSouth p/b NGCA
 16,467842,Clay,Murfet,Knoxville,TN,1:12:56,Crit Life
 17,237816,Justin,Pfaff,Alachua,FL,1:09:11,Stradalli/Wizard Racing Development Team P/B Wizard Coaching Services
 18,311519,Steven,Perezluha,Longwood,FL,1:10:05,Support Clean Sport / SeaSucker / Guttenplan Coaching
@@ -37,7 +37,7 @@ DNF,412295,Darel,Christopher,Forest Park,GA,0:00:03,Southern Crescent Cycling
 03/31/2017 Criterium Men Cat 4-5
 Place,License #,First,Last,City,State,Time,Team
 1,487018,Luis,Castro,Davenport,FL,0:44:08,Orlando Road Club
-2,448396,Rudy,Szymanski,Gowanda,NY,0:44:09,Cycle Sport Concepts Tampa
+2,448396,Rudy,Szymanski,Tampa,FL,0:44:09,Cycle Sport Concepts Tampa
 3,429044,Marcel,Maldonado,Miramar,FL,0:44:09,Interactive Metronome Development
 4,346606,Brance,Unkrich,Jacksonville Beach,FL,0:44:10,
 5,478108,Kaue,King,Pembroke Pines,FL,0:44:26,Interactive Metronome p/b Mega Cycle
@@ -66,11 +66,11 @@ DNF,500061,Garfield,Smith,Wellington,FL,0:08:00,
 
 03/31/2017 Criterium Men Cat 4/5 Master 50+
 Place,License #,First,Last,City,State,Time,Team
-1,433485,Richard,Benson,Port Saint Lucie,FL,0:45:44,Treasure Coast Racing
+1,433485,Richard,Benson,Fort Pierce,FL,0:45:44,Treasure Coast Racing
 2,297191,Omelio,Rufin,Miami,FL,0:47:04,Pro Cycling Miami
 3,65608,Omar,Sassin,Tampa,FL,0:47:05,West Coast Cycling
 4,305247,Scott,Lameier,Valrico,FL,0:48:40,West Coast Cycling
-5,399837,Bruce,Camacho,Davenport,FL,0:48:15,
+5,516222,Bruce,Camacho,,,0:48:15,
 
 03/31/2017 Criterium Men Cat 1/2/3 Master 40+
 Place,License #,First,Last,City,State,Time,Team
@@ -152,7 +152,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,417152,Garrett,Reel,Port Richey,FL,1:11:25,FloridaVelo
 4,416373,Shimran,Ali,Jacksonville,FL,0:37:58,Finish Strong Endurance Team
 5,357886,Ian,Gonder,Naples,FL,0:34:04,FloridaVelo
-6,494503,JeanLuc,ContantGalitello,Pompano Beach,FL,0:34:04,Interactive Metronome p/b Mega Cycle
+6,494503,JeanLuc,ContantGalitello,Coconut Creek,FL,0:34:04,Interactive Metronome p/b Mega Cycle
 7,396501,Derek,Birch,Tampa,FL,0:34:04,USF Cycling
 8,499550,Alex,Mitz,Melbourne Beach,FL,0:34:05,
 9,336940,Jason,Brandt,Sanford,FL,0:32:37,Compass Research Cycling Team
@@ -163,7 +163,7 @@ DNF,367371,Zachary,West,Longwood,FL,0:04:38,Atlantic Shores Velo
 DNF,170532,Jason,Romain,Windermere,FL,0:08:21,Pista Elite
 DNF,274768,Jan,Heylen,Clearwater,FL,0:06:46,
 DNF,396875,Andrew,Luettgen,Milton,GA,0:10:43,Snyder Factory Racing
-DNF,351492,Mark Anthony,Sanchez,Wesley Chapel,FL,0:08:28,Aeropro Coaching Cycling Team
+DNF,351492,Mark Anthony,Sanchez,Beaveton ,OR,0:08:28,Aeropro Coaching Cycling Team
 DNF,399974,Jorge,Mila,Orlando,FL,0:15:23,Pioneer Mortgage pb Yourkey.com
 
 03/31/2017 Criterium Men Master 60+

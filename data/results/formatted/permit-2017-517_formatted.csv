@@ -5,11 +5,11 @@ Place,License #,First,Last,City,State,Time,Team
 1,386614,JUSTIN,STANLEY,Austin,TX,2:06:27,ELBOWZ Racing
 2,420701,VITOR,ZUCCO SCHIZZI,Irving,TX,2:07:06,Giant Lakeside Pb MINI of Plano
 3,338708,COLIN,STRICKLAND,Austin,TX,2:08:52,
-4,342402,KEVIN,GIRKINS,Austin,TX,2:08:58,Elbowz Racing
+4,342402,KEVIN,GIRKINS,San Marcos,TX,2:08:58,Elbowz Racing
 5,252928,ROB,BELL,Oklahoma City,OK,2:08:59,Team OBP
 6,178970,MAT,STEPHENS,Dallas,TX,2:09:02,DNA Racing/Arapahoe resources/Garneau
 7,324478,SAMUEL,LEAR,Wimberley,TX,2:09:05,Volharden
-8,310983,TICE,PORTERFIELD,Bertram,TX,2:09:05,Strike Cycling
+8,310983,TICE,PORTERFIELD,Austin,TX,2:09:05,Strike Cycling
 9,387450,EVAN,BAUSBACHER,Richardson,TX,2:09:16,Matrix/RBM
 10,210129,CONNOR,SALLEE,Dallas,TX,2:09:16,Bicycles Plus Racing
 11,325930,JEFFEREY,MAY,Greenville,TX,2:09:20,Team Guerciotti Redondela
@@ -21,7 +21,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,331782,TONY,BACA,Austin,TX,2:09:44,ELBOWZ Racing
 18,238136,KYLE,ANDERSON,Wichita Falls,TX,2:11:34,Team CCR Roofing
 19,272180,JACOB,WHITE,Pauls Valley,OK,-1 lap,Team OBP
-20,157827,COREY,RAY,Mckinney,TX,-1 lap,Giant Lakeside pb MINI of Plano
+20,157827,COREY,RAY,Green River,WY,-1 lap,Giant Lakeside pb MINI of Plano
 21,303015,PAUL,DENTEL,Dallas,TX,-1 lap,Team Plano Cycling
 22,200977,JOHNNY,PURVIS,Parthenon,AR,-1 lap,Team OBP
 23,441131,TREVOR,FINE,Duncan,OK,-1 lap,Tulsa Wheelmen
@@ -31,10 +31,10 @@ Place,License #,First,Last,City,State,Time,Team
 27,225120,ERIN,ELLIOTT,Oklahoma City,OK,-2 laps,Team OBP
 28,269412,ADAM,KOBLE,Tulsa,OK,-2 laps,Team OBP
 29,243733,KYLE,SIGL,Fort Worth,TX,-2 laps,Elevate/KHS
-30,424626,RANDY,LEE,Richardson,TX,-2 laps,Bicycles Plus Racing
+30,424626,RANDY,LEE,Dallas,TX,-2 laps,Bicycles Plus Racing
 31,6135,CHRIS,CARLSON,Plano,TX,-2 laps,Matrix/RBM
-32,299251,JUSTIN,MCQUERRY,Athens,GA,-2 laps,Team Novo Nordisk Development
-33,368638,KYLE,WALKER,Lubbock ,TX,-2 laps,Giant_Lakeside p.b. MINI of Plano
+32,299251,JUSTIN,MCQUERRY,Austin,TX,-2 laps,Team Novo Nordisk Development
+33,368638,KYLE,WALKER,Fort Worth,TX,-2 laps,Giant_Lakeside p.b. MINI of Plano
 34,395674,MICHAEL,HINDS,Austin,TX,-2 laps,VooDoo Racing
 35,225276,COLLIN,DAVIS,Euless,TX,-2 laps,Bicycles Plus Racing
 36,224500,MARIO,ARROYAVE,Waxahachie,TX,-2 laps,Elevate/KHS
@@ -107,7 +107,7 @@ Place,License #,First,Last,City,State,Time,Team
 34,493289,GARY,HUDSON,Denton,TX,-1 lap,A Bloc
 35,459230,JAMES,NYAWERA,Mc Kinney,TX,-3 laps,Team Bicycle Plus
 DNF,4551,SCOTT,BRADEN,Richardson,TX,n/a,Windsor Door Racing p/b Bicycles Plus
-DNF,114178,JOHN,BROWN,Fort Worth ,TX,n/a,TBI/DRT
+DNF,114178,JOHN,BROWN,Fort Worth,TX,n/a,TBI/DRT
 
 02/05/2017 Road Race Men Cat 1/2/3/4/5 Master 60-99
 Place,License #,First,Last,City,State,Time,Team
@@ -153,7 +153,7 @@ Place,License #,First,Last,City,State,Time,Team
 35,502580,HANS,AJIEREN,Richardson,TX,1:04:06,
 36,523689,BRIAN,YOUNGER,Midland,TX,1:04:29,ViM Racing
 37,277223,MICHAEL,BAKER,North Richland Hills,TX,1:04:42,
-38,459616,PAUL,WALLER,Arlington,TX,1:05:33,Crest/RBM Racing
+38,459616,PAUL,WALLER,Frisco,TX,1:05:33,Crest/RBM Racing
 39,523966,HECTOR,MENDOZA JR,Denton,TX,1:05:38,McKinney Velo
 40,457200,SCOTT,MCKENZIE,Denton,TX,1:05:39,McKinney Velo
 41,472779,ANDREW,MICHALETS,Houston,TX,1:05:58,Bayou City Racing
@@ -174,7 +174,7 @@ Place,License #,First,Last,City,State,Time,Team
 56,486545,DANIEL,NEICE,Allen,TX,-2 laps,Team Cadence Cyclery
 57,0,STEVE,YEAGER,,,-2 laps,
 58,523258,JESSY,MILBURN,Bedford,TX,-2 laps,
-59,382333,BOB,INGRAM,Lewisville,TX,-2 laps,
+59,382333,BOB,INGRAM,The Colony,TX,-2 laps,
 60,487538,NOAH,HOLBEN,Dallas,TX,-2 laps,Jesuit Dallas
 61,525030,JUAN,SANCHEZ,Dallas,TX,-2 laps,
 62,395543,RYAN,LINDBERG,Grand Prairie,TX,-2 laps,Hilltop Racing
@@ -183,9 +183,9 @@ Place,License #,First,Last,City,State,Time,Team
 65,349470,ANDREW,MATTINGLY,Flower Mound,TX,-6 laps,GS Tenzing
 66,0,KEVIN,PATE,,,-9 laps,Daughter
 67,0,JUAN CARLOS,MONTES DE OCA,,,-11 laps,
-68,524707,ALEXIS,SERRANO,Dallas,TX,-12 laps,Richardson BikeMart
+68,524707,ALEXIS,SERRANO,Carrollton,TX,-12 laps,Richardson BikeMart
 69,323290,JOSE,MUNOZ,Laredo,TX,-12 laps,
-DNF,523539,JOSEPH,GAUTHIER,Sulphur Springs,TX,-13 laps,Rockwall Racing
+DNF,523539,JOSEPH,GAUTHIER,Suwanee,GA,-13 laps,Rockwall Racing
 DNF,494147,PEDRO,RODRIGUEZ,Georgetown,TX,-13 laps,Weaver Technologies Racing
 DNF,303607,ALLEN,HERRINGTON,Dallas,TX,-13 laps,King Racing Group
 DNF,201589,JOEL,SHEWRY,Arlington,TX,n/a,TBI/DRT
@@ -221,7 +221,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,375072,ASTON,HASWELL,Fort Worth,TX,1:45:05,
 12,109510,GILBERTO,VELAZQUEZ,Dallas,TX,1:45:05,Hill Top Racing
 13,313174,BARNEY,VELASQUEZ,Arlington,TX,1:45:07,HillTop Racing
-14,268349,CALLUM,INGRAM,Boulder,CO,1:45:07,The November Bicycles Roadtrip
+14,268349,CALLUM,INGRAM,Reno,NV,1:45:07,The November Bicycles Roadtrip
 15,482118,TIMOTHY,PALYUKH,Lewisville,TX,1:45:07,Bicycles Plus Racing
 16,404619,THOMAS,MORITZ,Tulsa,OK,1:45:07,Team Tom's Bicycles
 17,61012,JESUS,CHAPARRO,Allen,TX,1:45:07,Windsor Door Racing p/b Bicycle Plus
@@ -238,7 +238,7 @@ DNF,503348,MIKE,STANLEY,Dallas,TX,n/a,Bicycles Plus Racing
 DNF,289098,JERRY,WILLIS,Oklahoma City ,OK,n/a,Transitions LifeCare p/b InSync RX
 DNF,466389,SHANNON,HISAW,Dallas,TX,n/a,Cadence Cyclery
 DNF,350678,HUNTER,HINTON,Weatherford,TX,n/a,Volharden
-DNF,206241,JOHN,MCALLISTER,Fort Worth,TX,n/a,Elevate Cycling
+DNF,206241,JOHN,MCALLISTER,Weatherford,TX,n/a,Elevate Cycling
 DNF,332356,JUSTIN,DAVIS,Tulsa,OK,n/a,Team Tom's Bicycles
 DNF,308019,CARL,STROUD,Denton,TX,n/a,Merritt Hawkins AMN / Sun and Ski
 DNF,366128,RICHARD,HELLBERG,Dallas,TX,n/a,Dallas Bike Works
@@ -260,7 +260,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,205462,MICHAEL,DAWDY,Sunnyvale,TX,1:26:31,GS Tenzing
 13,418507,JOHN,MURAZAK,Irving,TX,1:26:31,Crest/RBM Racing
 14,327668,BRAD,FLACHSBART,Allen,TX,1:26:31,Crest / RBM Racing
-15,392104,DOUG,ZELL,Little Rock ,AR,1:26:31,Intelligentsia-Allied
+15,392104,DOUG,ZELL,Lockhart,TX,1:26:31,Intelligentsia-Allied
 16,422633,JOE,BELL,Rockwall,TX,1:26:31,GS Tenzing
 17,383962,JOHN,YODER,Houston,TX,1:26:31,Shama Cycles
 18,458957,DANIEL,BRODERICK,Plano,TX,1:26:31,Windsor Door Racing p/b Bicycles Plus
@@ -308,7 +308,7 @@ DNF,237854,JEFF,NOON,Mansfield,TX,n/a,Team Cadence Cyclery P.B Mini of Plano
 DNF,416305,GREG,CLARK,Dallas,TX,n/a,October Three Racing
 DNF,334196,ERIC,WHITWORTH,Plano,TX,n/a,Matrix Cycling Club
 DNF,8783,GEOFFREY,DAVIS,Frisco,TX,n/a,Crest/RBM Cycling
-DNF,400785,JEFF,MAKOHON,Rockwall,TX,n/a,Rockwall Racing
+DNF,400785,JEFF,MAKOHON,Heath,TX,n/a,Rockwall Racing
 DNF,177629,BEN,SEWELL,Dallas,TX,n/a,Team Bicycles Plus
 DNF,457409,JOHN,SOMMER,Richardson,TX,n/a,PACC
 
@@ -330,7 +330,7 @@ DNF,153105,GINNY,KING,Dallas,TX,n/a,King Racing
 Place,License #,First,Last,City,State,Time,Team
 1,487769,Kendall,Jackson,Austin,TX,0:37:47,Team Yacht Club
 2,411314,Sheree,Benavides,Dallas,TX,0:38:04,Matrix/RBM
-3,500675,Liesel,McAllister,Fort Worth,TX,0:38:04,Elevate Cycling
+3,500675,Liesel,McAllister,Weatherford,TX,0:38:04,Elevate Cycling
 4,454572,Maddie,Willis,Oklahoma City,OK,0:38:05,Yoga Box Racing p/b Transitions Lifecare
 5,204645,Tracy,Christenson,Dallas,TX,0:38:05,Athlete Architecture p/b Hyperthreads
 6,495795,Noni,Bertagnoli,Mc Kinney,TX,0:38:06,Dallas Racing/Sun & Ski
@@ -384,7 +384,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,273378,SHAWN,HODGES,Dallas,TX,0:36:00,Rudy's Ritas
 2,422280,ZACH,CONOVER,Lewisville,TX,0:37:21,Cadence Cyclery
-3,519372,BRICE,KOERNER,Stephenville,TX,-3 laps,Unspoken Racing
+3,519372,BRICE,KOERNER,Fort Worth,TX,-3 laps,Unspoken Racing
 
 02/04/2017 Cyclo-cross Men Cat 1/2/3/4/5 Master 40-99
 Place,License #,First,Last,City,State,Time,Team
@@ -418,9 +418,9 @@ Place,License #,First,Last,City,State,Time,Team
 5,428195,DONALD,MORGAN,Tulsa,OK,-1 lap,Team Soundpony p/b Triad Bank
 6,0,REID,HUTCHINS,,,-1 lap,
 7,523689,BRIAN,YOUNGER,Midland,TX,-1 lap,ViM Racing
-8,519372,BRICE,KOERNER,Stephenville,TX,-1 lap,Unspoken Racing
+8,519372,BRICE,KOERNER,Fort Worth,TX,-1 lap,Unspoken Racing
 9,113910,DERRICK,BIRDSALL,Denton,TX,-1 lap,
-DNF,400785,JEFF,MAKOHON,Rockwall,TX,n/a,Rockwall Racing
+DNF,400785,JEFF,MAKOHON,Heath,TX,n/a,Rockwall Racing
 
 02/04/2017 Cyclo-cross Women P/1/2/3/4
 Place,License #,First,Last,City,State,Time,Team
@@ -526,13 +526,13 @@ Place,License #,First,Last,City,State,Time,Team
 8,178970,MAT,STEPHENS,Dallas,TX,2:13:31,DNA Racing/Arapahoe resources/Garneau
 9,225120,ERIN,ELLIOTT,Oklahoma City,OK,2:13:31,Team OBP
 10,380276,GRAYSON,KEPPLER,Dallas,TX,2:13:31,Giant_Lakeside p.b. MINI of Plano
-11,299251,JUSTIN,MCQUERRY,Athens,GA,2:13:31,Team Novo Nordisk Development
+11,299251,JUSTIN,MCQUERRY,Austin,TX,2:13:31,Team Novo Nordisk Development
 12,272180,JACOB,WHITE,Pauls Valley,OK,2:13:31,Team OBP
 13,527248,CESAR,SERNA,Aguascalientes,AG,2:13:32,Rudys ritas
 14,412090,PRESTON,GLACE,Cedar Park,TX,2:13:32,Super Squadra pb Eliel Cycling
 15,310349,SHAWN,SMALL,Longview,TX,2:13:34,GS Tenzing
 16,441131,TREVOR,FINE,Duncan,OK,2:13:35,Tulsa Wheelmen
-17,424626,RANDY,LEE,Richardson,TX,2:13:36,Bicycles Plus Racing
+17,424626,RANDY,LEE,Dallas,TX,2:13:36,Bicycles Plus Racing
 18,484562,ANDY,JOBIN,Austin,TX,2:13:36,TILT Racing
 19,387450,EVAN,BAUSBACHER,Richardson,TX,2:13:37,Matrix/RBM
 20,325930,JEFFEREY,MAY,Greenville,TX,2:13:37,Team Guerciotti Redondela
@@ -546,16 +546,16 @@ Place,License #,First,Last,City,State,Time,Team
 28,252928,ROB,BELL,Oklahoma City,OK,2:13:43,Team OBP
 29,395674,MICHAEL,HINDS,Austin,TX,2:13:43,VooDoo Racing
 30,338924,NICK,TORRACA,Grapevine,TX,2:13:44,Elevate Cycling Team
-31,342402,KEVIN,GIRKINS,Austin,TX,2:13:46,Elbowz Racing
+31,342402,KEVIN,GIRKINS,San Marcos,TX,2:13:46,Elbowz Racing
 32,0,ALXANDRO,GARCIA,,,2:13:47,Rudys ritas cycling team
-33,157827,COREY,RAY,Mckinney,TX,2:13:48,Giant Lakeside pb MINI of Plano
+33,157827,COREY,RAY,Green River,WY,2:13:48,Giant Lakeside pb MINI of Plano
 34,69378,BRET,CROSBY,Dallas,TX,2:13:49,TEAM BICYCLES PLUS RACING
 35,119514,MICAH,NEWELL,Edmond ,OK,2:13:51,Schlegel Racing
 36,304773,MICHAEL,JOHNSON,Dallas,TX,2:13:55,Bicycles Plus Racing
-37,310983,TICE,PORTERFIELD,Bertram,TX,2:14:00,Strike Cycling
+37,310983,TICE,PORTERFIELD,Austin,TX,2:14:00,Strike Cycling
 38,379268,CHRIS,DAUWE,Dallas,TX,2:14:03,Giant Lakeside
 39,238136,KYLE,ANDERSON,Wichita Falls,TX,2:14:09,Team CCR Roofing
-40,368638,KYLE,WALKER,Lubbock ,TX,2:14:10,Giant_Lakeside p.b. MINI of Plano
+40,368638,KYLE,WALKER,Fort Worth,TX,2:14:10,Giant_Lakeside p.b. MINI of Plano
 41,354880,TYLER,STEWART,Austin,TX,2:14:11,Giant Lakeside pb MINI of Plano
 42,431771,JUSTICE,HUDSON,Austin,TX,2:14:14,Merritt Hawkins Healthcare/ SUN AND SKI
 43,240838,JOHN,RYAN,North Richland Hills,TX,2:14:22,Matrix/RBM
@@ -628,7 +628,7 @@ Place,License #,First,Last,City,State,Time,Team
 39,55980,PATRICK,DOUGHERTY,Ft Worth,TX,-2 laps,Elevate Cycling Team
 40,16837,BRAD,HOUSE,Dallas,TX,-2 laps,Mirage
 41,302038,GLENN,TOLLE,Denton,TX,-2 laps,GS Tenzing
-42,114178,JOHN,BROWN,Fort Worth ,TX,-3 laps,TBI/DRT
+42,114178,JOHN,BROWN,Fort Worth,TX,-3 laps,TBI/DRT
 43,459230,James,NYAWERA,Mc Kinney,TX,-3 laps,Team bicycle Plus
 DNF,163030,BOYD,WALLACE,Garland,TX,n/a,
 
@@ -696,7 +696,7 @@ Place,License #,First,Last,City,State,Time,Team
 54,486545,DANIEL,NEICE,Allen,TX,-1 lap,Team Cadence Cyclery
 55,201589,JOEL,SHEWRY,Arlington,TX,-1 lap,TBI/DRT
 56,405519,HECTOR,MOLINA,Laredodo,TX,-2 laps,MBBC
-57,382333,BOB,INGRAM,Lewisville,TX,-2 laps,
+57,382333,BOB,INGRAM,The Colony,TX,-2 laps,
 58,523749,PHIL,DAVIS,Fort Worth,TX,-2 laps,MBBC Racing
 59,524566,ANDREW,BAILEY,Mckinney,TX,-2 laps,Cadence Cyclery - Team
 60,395543,RYAN,LINDBERG,Grand Prairie,TX,-2 laps,Hilltop Racing
@@ -707,7 +707,7 @@ DNF,496975,MICHAEL,WING,Oklahoma City,OK,n/a,Transitions LifeCare p/b InSync
 DNF,463080,RYAN,VOGEL,Boerne,TX,n/a,Bikeworld
 DNF,497745,DEREK,HU,Katy,TX,n/a,UT Dallas Cycling Club
 DNF,441153,RUSSELL,KIM,Oklahoma City,OK,n/a,OKC Velo Bike Lab
-DNF,523539,JOSEPH,GAUTHIER,Sulphur Springs,TX,n/a,Rockwall Racing
+DNF,523539,JOSEPH,GAUTHIER,Suwanee,GA,n/a,Rockwall Racing
 DNF,277223,MICHAEL,BAKER,North Richland Hills,TX,n/a,
 DNF,478271,STEPHEN,MCCOY,Conroe,TX,n/a,
 DNF,0,ERICK,VANT WESTEINDE,,,n/a,Bicycles Plus Racing
@@ -741,7 +741,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,474071,MAX,TUCKER,Little Rock,AR,1:28:36,
 11,289098,JERRY,WILLIS,Oklahoma City ,OK,1:28:37,Transitions LifeCare p/b InSync RX
 12,392351,COLT,CLEMENS,Rockwall,TX,1:28:37,Rockwall Racing
-13,268349,CALLUM,INGRAM,Boulder,CO,1:28:37,The November Bicycles Roadtrip
+13,268349,CALLUM,INGRAM,Reno,NV,1:28:37,The November Bicycles Roadtrip
 14,377307,KATO,BENTLEY,Plano,TX,1:28:37,Bicycles Plus Racing
 15,415240,NICOLAS,HIMA,San Antonio,TX,1:28:38,TILT Racing p/b Crush Fitness
 16,109510,GILBERTO,VELAZQUEZ,Dallas,TX,1:28:38,Hill Top Racing
@@ -763,7 +763,7 @@ Place,License #,First,Last,City,State,Time,Team
 32,239374,STEVE,BRANNAN,Fort Worth,TX,1:31:09,Team Elevate Racing
 33,407906,SCOTT,BOLDT,Fort Worth,TX,1:33:12,Team Elevate Racing
 34,439756,TYREL,FUCHS,Santa Rosa,NM,1:33:22,Velo Veloce
-35,206241,JOHN,MCALLISTER,Fort Worth,TX,-1 lap,Elevate Cycling
+35,206241,JOHN,MCALLISTER,Weatherford,TX,-1 lap,Elevate Cycling
 36,61012,JESUS,CHAPARRO,Allen,TX,-1 lap,Windsor Door Racing p/b Bicycle Plus
 37,359282,PHILIP,HAIGH,Dallas,TX,-1 lap,October Three Racing
 38,501684,JOSEPH,PORTERA,Dallas,TX,-2 laps,
@@ -819,7 +819,7 @@ Place,License #,First,Last,City,State,Time,Team
 34,55866,STEPHEN,BORSKI,Mckinney,TX,1:35:50,Team Plano Cycling Elite
 35,297193,FRANCOIS,LAFONTAINE,Richardson,TX,1:35:50,PACC
 36,96437,MICHAEL,SLAUGHTER,Dallas,TX,1:35:56,GS Tenzing
-37,400785,JEFF,MAKOHON,Rockwall,TX,1:36:08,Rockwall Racing
+37,400785,JEFF,MAKOHON,Heath,TX,1:36:08,Rockwall Racing
 38,319236,MICHAEL,WERT,Flower Mound,TX,1:36:23,GS Tenzing
 39,31772,BRIAN,SCHOW,Frisco,TX,-1 lap,Crest/RBM
 40,385612,JEFF,FRYE,Celina,TX,-2 laps,Crest/RBM Racing
@@ -862,7 +862,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,476056,JAIME,LARMER,Fort Worth,TX,0:40:14,
 2,429924,KELLIE,NELSON,Frisco,TX,0:40:14,Crest/RBM
 3,411314,SHEREE,BENAVIDES,Dallas,TX,0:40:15,Matrix/RBM
-4,500675,LIESEL,MCALLISTER,Fort Worth,TX,0:40:15,Elevate Cycling
+4,500675,LIESEL,MCALLISTER,Weatherford,TX,0:40:15,Elevate Cycling
 5,386370,ABIGAIL,YATES,Rowlett,TX,0:40:17,Matrix/RBM
 6,368833,CHELSEA,REEDY,Denton,TX,0:40:19,Matrix/RBM
 7,426126,IRENE,BENAVIDES-PEREZ,College Station,TX,0:40:21,NWCC

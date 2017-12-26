@@ -10,7 +10,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,53502,John,DURSO,Morris Plains,NJ,s.t.,High Gear/trek/ww
 7,489099,Felipe,NYSTROM,Vancouver,WA,s.t.,
 8,313046,Ryan,RAPOLAS,Phoenixville,PA,s.t.,Qcw Breakawaybikes.com P/b Felt
-9,383744,Jason,HAMMOND,Stanford,CA,s.t.,
+9,383744,Jason,HAMMOND,Palo Alto,CA,s.t.,
 11,304430,Erik,POST,Brooklyn,NY,s.t.,Crca/the Weather Channel Specia
 12,413052,Baris,AYTAN,Brooklyn,NY,s.t.,Crca/e2value
 13,344644,Matthew,FISCHEL,Hockessin,DE,s.t.,Integrated Sports Medicine P/b
@@ -76,7 +76,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,252243,Jeff,GONZALES,San Antonio,TX,s.t.,Caffeinated Cyclist Racing
 20,292639,Jeffrey,WHITE,Brooklyn,NY,s.t.,Kissena
 21,383032,Dirk,VANDER LAAN,Greenville,DE,s.t.,Activeyards / Chester County Ve
-22,505277,Brendan,GRAHAM,Westchester,PA,1.3,Cadence Racing
+22,505277,Brendan,GRAHAM,Philadelphia,PA,1.3,Cadence Racing
 23,393405,Marquand,BROWN,Pottstown,PA,4.6,Blue Bell Private Wealth Manage
 24,495853,Jaime,BOU III,Philadelphia,PA,s.t.,Zen Masters Racing
 25,295399,Eric,SCHOPF,Stewartstown,PA,1.2,Kelly Benefit Strategies/lsv
@@ -97,7 +97,7 @@ DNF,229515,Jim,LEX,Haddon Township,NJ,,Summit Cycling Club / D&q
 DNF,512592,Nicholas,MORENO,,PA,,Qcw Cycling P.b. Breakawaybikes.com
 DNF,497154,Larry,PARKER,West Creek,NJ,,Vr2209
 DNF,48010,Steven,RICHMOND,Carrboro,NC,,
-DNF,427513,Todd,TOWNSEND,Pitman,NJ,,Caffeinated Cyclist Racing
+DNF,427513,Todd,TOWNSEND,Englewood,CO,,Caffeinated Cyclist Racing
 DNF,493695,Robert,WILLIAMS,Glassboro,NJ,,Caffeinated Cyclist Racing
 DNF,0,Jeffrey,GONZALEZ,,,,
 
@@ -133,7 +133,7 @@ Place,License #,First,Last,City,State,Time,Team
 28,211564,Marcello Daniel,RODIO,Clifton,NJ,s.t.,Montclair Bikery Racing
 29,283856,Steven R.,GARCIA,Willingboro,NJ,s.t.,Cs Velo
 30,228774,James,FLAHERTY,Collingswood,NJ,s.t.,Collingswood Cog
-31,244768,Wilson,ANDRADE,Westfield,NJ,1.5,Karma Racing Team
+31,244768,Wilson,ANDRADE,Edison,NJ,1.5,Karma Racing Team
 32,16043,Wade,HESS,Wenonah,NJ,1.6,Independance Cycling Team
 33,299092,Kenn,BARFELL,West Grove,PA,3.5,Activeyards / Chester County Ve
 34,12727,Scott,GAMBLE,West Chester,PA,1.8,Activeyards / Chester County Ve
@@ -148,7 +148,7 @@ Place,License #,First,Last,City,State,Time,Team
 43,440158,Owen,LEE,Philadelphia,PA,1.2,Cs Velo
 44,276040,Greg,ZIELINSKI,Wilmington,DE,6.7,Activeyards / Chester County Ve
 45,430977,David,BENNETT,Metuchen,NJ,s.t.,Karma Racing Team
-46,427513,Todd,TOWNSEND,Pitman,NJ,s.t.,Caffeinated Cyclist Racing
+46,427513,Todd,TOWNSEND,Englewood,CO,s.t.,Caffeinated Cyclist Racing
 47,186990,Matthew,KUPSKY,Vineland,NJ,s.t.,The Rothman Institute P/b Talks
 48,383032,Dirk,VANDER LAAN,Greenville,DE,s.t.,Activeyards / Chester County Ve
 49,46602,Craig,LEISER,Coatesville,PA,s.t.,Activeyards / Chester County Ve
@@ -168,7 +168,7 @@ DNF,226183,Victor,SCHEPISI,Succasunna,NJ,,Team Marty's
 Place,License #,First,Last,City,State,Time,Team
 1,535246,Madeline,MARBURY,Maplewood,NJ,47:34,
 2,466295,Danielle,FERLAND,Rockaway,NJ,1.2,Team Eps/css P/b Shebell & Sheb
-3,290222,Jenna,LATOUR-NICHOLS,Mclean ,VA,s.t.,Sabotage Cycling
+3,290222,Jenna,LATOUR-NICHOLS,Mclean,VA,s.t.,Sabotage Cycling
 4,459029,Robin,WAHL,Sicklerville,NJ,s.t.,Peddler's Shop (psr)
 5,350202,Becca,BROWN,New York,NY,s.t.,Crca / Team Veselka P/b Cafe Gr
 6,0,Margaret,MARBURY,,,s.t.,

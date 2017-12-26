@@ -8,7 +8,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,379841,Spencer,Kruse,Racine,WI,,KS Energy Services / MOSH / Team Wisconsin
 5,258735,Kevin,McConnell,Iowa City,IA,,University of Iowa Heart and Vascular Care-Specialized
 6,391158,Igor,Shvytov,Chicago,IL,,xXx Racing
-7,230509,Ben,Laforce,Chicago,IL,,xXx Racing
+7,230509,Ben,Laforce,Denver,CO,,xXx Racing
 8,306717,Peter,Kelley,Geneva,IL,,Team Bicycle Heaven
 9,312080,Tristan,Petsch-Horvath,Milwaukee,WI,,Great Dane Velo Club p/b Capital Brewery
 10,87929,John,Kunert,Madison,WI,,Great Dane Velo Club p/b Capital Brewery
@@ -21,7 +21,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,220881,Timothy,Strelecki,Naperville,IL,,EMC2 / Elmhurst Masters
 18,364716,Benjamin,Anderson,Iowa City,IA,,University of Iowa Heart and Vascular Care-Specialized
 19,52765,Robert,Kelley,Geneva,IL,,Team Bicycle Heaven
-20,201290,Ryan,White,Milwaukee ,WI,,Hollander Benelux Racing
+20,201290,Ryan,White,Milwaukee,WI,,Hollander Benelux Racing
 21,340630,Matthew,Kelley,Homewood,IL,,Bicycle Heaven
 22,438454,Ross,Tuneberg,Rockford,IL,,Scarlet Fire Racing
 23,142034,Tom,Driver,Chicago,IL,,Burnham Racing
@@ -95,7 +95,7 @@ Place,License #,First,Last,City,State,Time,Team
 32,374976,Kyle,Millns,Chicago,IL,,INTENT
 33,375856,Sean,Haggerty,Roscoe,IL,,Team Velocause
 34,213060,Kevin,Oneill,Chicago,IL,,xXx Racing
-35,503155,Mitchell,Hansen,Chicago,IL,,
+35,503155,Mitchell,Hansen,Nashville,TN,,
 36,529498,Adam,Wix,Lake In The Hills,IL,,
 37,317728,David,Paff,Kenosha,WI,,Kenosha Velosport Cycling
 DNS,481947,Ryan,Durrie,Chicago,IL,,Roll: Racing
@@ -120,7 +120,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,307857,Jim,Groenhof,Elkgrovevillage,IL,,INTENT
 7,340880,Andres,Echeverri,Evanston,IL,,Polish & Slavic FCU International Cycling Team
 8,385332,Rob,Jacobsen,Chicago,IL,,INTENT
-9,362289,Jason,Holly,Buffalo Grove ,IL,,PSIMET Racing
+9,362289,Jason,Holly,Buffalo Grove,IL,,PSIMET Racing
 10,349694,Kevin,Quijas,Davenport,IA,,Trek Store Davenport
 11,369612,Bart,Hrvatin,Oswego,IL,,Wolfpack Bike Racing
 12,89028,Kaz,Milas,Kenosha,WI,,Kenosha Velosport Cycling
@@ -136,7 +136,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,378503,Mark,Richier,Naperville,IL,,ABD Cycling Team
 23,385963,Peter,Ackermann,Whitefish Bay,WI,,
 24,250244,Voytek,Glinkowski,Buffalo Grove,IL,,Polish & Slavic FCU International Cycling Team
-25,361716,Freddy,Bernabe,Chicago ,IL,,Team Barraza
+25,361716,Freddy,Bernabe,Chicago,IL,,Team Barraza
 26,529941,George,Ivanov,Burr Ridge,IL,,
 27,390405,Brett,Obourke,Hinsdale,IL,,UPB Cycling
 28,375856,Sean,Haggerty,Roscoe,IL,,Team Velocause
@@ -156,8 +156,8 @@ Place,License #,First,Last,City,State,Time,Team
 2,402874,Andrzej,Krzysiak,Westmont,IL,,Polish & Slavic FCU International Cycling Team
 3,119288,Cory,Hickman,Orland Park,IL,,Burnham Racing
 4,291549,Dan,Swenson,Hawthorn Woods,IL,,The Weather Channel
-5,406399,Simon,Phuah,Downers Grove,IL,,INTENT
-6,201290,Ryan,White,Milwaukee ,WI,,Hollander Benelux Racing
+5,406399,Simon,Phuah,Littleton,CO,,INTENT
+6,201290,Ryan,White,Milwaukee,WI,,Hollander Benelux Racing
 7,142034,Tom,Driver,Chicago,IL,,Burnham Racing
 8,204122,Andrew,Anderson,Evanston,IL,,Polish & Slavic FCU International Cycling Team
 9,246297,Clayton,Chase,Mequon,WI,,
@@ -167,7 +167,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,185666,Rick,Schopp,Warrenville,IL,,INTENT
 14,45366,Robert,Gauss,Kenosha,WI,,Lakes Area Physical Therapy
 15,26581,Ara,Oggoian,Geneva,IL,,Bicycle Heaven
-16,362289,Jason,Holly,Buffalo Grove ,IL,,PSIMET Racing
+16,362289,Jason,Holly,Buffalo Grove,IL,,PSIMET Racing
 17,313798,Briant,Kelly,Libertyville,IL,,PSIMET Racing
 18,178088,Jeff,Elam,Madison,WI,,Team Velocause
 19,42620,Jason,Garner,Glenview,IL,,George Garner Cyclery Track Team
@@ -232,7 +232,7 @@ Place,License #,First,Last,City,State,Time,Team
 24,466972,Jason,Finefield,Crystal Lake,IL,,PSIMET Racing
 25,306967,David,Donnelly,Chicago,IL,,Spidermonkey Cycling
 26,268897,Michael,Riva,Pleasant Prairie,WI,,Kenosha Velosport Cycling
-27,503155,Mitchell,Hansen,Chicago,IL,,
+27,503155,Mitchell,Hansen,Nashville,TN,,
 28,530065,Mike,Wilson,Chicago,IL,,
 29,496979,Marcello,Di Giulio,Carol Stream,IL,,UNATTACHED
 30,527232,Joe,Skala,Lincolnshire,IL,,
@@ -299,7 +299,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,385856,James,Barclay,Chicago,IL,,xXx Racing
 11,286044,David,Hudson,Chicago,IL,,xXx Racing
 12,89028,Kaz,Milas,Kenosha,WI,,Kenosha Velosport Cycling
-13,361716,Freddy,Bernabe,Chicago ,IL,,Barraza
+13,361716,Freddy,Bernabe,Chicago,IL,,Barraza
 14,393810,Kevin,Whitford,Chicago,IL,,xXx Racing
 15,176412,Timothy,Gehr,Plainfield,IL,,
 16,340880,Andres,Echeverri,Evanston,IL,,Polish & Slavic FCU International Cycling Team
@@ -374,7 +374,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,414408,MaryAnn,Sedor,Warrenville,IL,,INTENT
 DNS,497459,Nadia,Abrahamson,Elgin,IL,,PSIMET Racing
 DNS,440261,Donna,Gallardo,Milwaukee,WI,,Team Velocause
-DNS,497594,Maya,Stosic,Chicago,IL,,
+DNS,497594,Maya,Stosic,Chiicago,IL,,
 
 04/09/2017 Criterium Women Cat 4
 Place,License #,First,Last,City,State,Time,Team
@@ -424,14 +424,14 @@ Place,License #,First,Last,City,State,Time,Team
 1,516103,Marcus,Van Mieghem,Evanston,IL,,Union Cycling Team
 2,435220,Shay,Wright,Rock Island,IL,,Atlas/Other Films Cycling Team
 3,516333,Chloe,Yoder,Lake Villa,IL,,Kenosha Velosport Cycling
-4,440523,Samuel,Dennison,Carpentersville,IL,,International Christian Cycling
+4,440523,Samuel,Dennison,West Dundee,IL,,International Christian Cycling
 5,448281,Henrique,Lowe,Walworth,WI,,Tread Head Cycling
 6,486336,Melroy,Holzhauer,Geneva,IL,,ABD Cycling Team
 7,458444,Anna,Wilson,Kenosha,WI,,Kenosha Velosport Cycling
 8,516336,Josh,Yoder,Lake Villa,IL,,
-9,493062,Nicholas,Labbe,Rolling Meadows  Il,IL,,The Pony Shop
+9,493062,Nicholas,Labbe,Rolling Meadows  ,IL,,The Pony Shop
 10,484631,Aidan,Letzel,Mount Prospect,IL,,The Pony Shop
-11,476977,Rafi,Dennison,Carpentersvile,IL,,International Christian Cycling
+11,476977,Rafi,Dennison,West Dundee,IL,,International Christian Cycling
 12,511849,Owen,O'Shea,Plainfield,IL,,
 13,476242,Andrew,Curtis,Elgin,IL,,
 14,458059,KARL,PAFF,Kenosha,WI,,Kenosha Velosport Cycling

@@ -20,13 +20,13 @@ Place,License #,First,Last,City,State,Time,Team
 16,0,Geron,WILLIAMS,,,s.t.,CRCA/Foundation
 17,403696,Tim,WEIGELT,Philadelphia,PA,s.t.,CS Velo Elite
 18,52604,Steven,WARD,Rockaway,NJ,s.t.,High Gear/Trek/WW
-19,264350,Kerry,Werner,Birdsboro,PA,s.t.,Benissimo Racing
+19,264350,Kerry,Werner,Advance,NC,s.t.,Benissimo Racing
 20,395327,Sean,BURGER,Philadelphia,PA,s.t.,CS Velo Elite
 21,295295,Ian,BAUN,Pittsburgh,PA,s.t.,Cyclus Sports
 22,0,Laurent,GERVAIS,,,s.t.,Aevolo Cycling
 23,53502,John,DURSO,Morris Plains,NJ,s.t.,High Gear/Trek/WW
 24,528368,Augusto,SANCHEZ BERIGUETE,Greenville,SC,s.t.,Karma Racing Team
-25,341040,Eran,PREBLE,Philadelphia ,PA,s.t.,Integrated Sports Medicine p/b
+25,341040,Eran,PREBLE,Newark,DE,s.t.,Integrated Sports Medicine p/b
 26,47232,Bill,ELLISTON,Easton,PA,s.t.,Van Dessel Factory Team
 27,306704,Steven,KUSY,Alexandria,VA,s.t.,District Velocity Racing p/b Bi
 28,226439,Nathan,COLEMAN,Sterling,VA,s.t.,Hydromonky NSMI
@@ -75,7 +75,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,228090,Gregory,BATTISTA,Toms River,NJ,s.t.,Five Four Sports/ Team Metra /
 3,344332,Phil,GAROFOLO,Brooklyn,NY,1:04,The 5th Floor NYC
 4,328642,Jeff,HENNESSY,Wilmington,DE,s.t.,University of Delaware
-5,460421,Sean,MILES,New Yor,NY,s.t.,Kissena Cycling Club
+5,460421,Sean,MILES,New York,NY,s.t.,Kissena Cycling Club
 6,440158,Owen,LEE,Philadelphia,PA,1:06,CS Velo
 7,497895,Cobie,ARNOLD,Lebanon,PA,s.t.,Deluxx Bikes
 8,477554,Andrew,NELSON,Mc Lean,VA,s.t.,NCVC/UnitedHealthcare
@@ -85,7 +85,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,396145,Zak,ANDREWS,Glenside,PA,s.t.,Doylestown Bike Works p/b Fred
 13,390412,Alex,KASCH,Arlington,VA,1:12,NCVC/UnitedHealthcare
 14,458001,Lucas,BEIRNE,Alexandria,VA,1:14,NCVC/UnitedHealthcare
-15,320586,Cameron,QUICK,Gaithersburg ,MD,1:35,Phase Cycling
+15,320586,Cameron,QUICK,Gaithersburg,MD,1:35,Phase Cycling
 16,502043,Jon,ELISON,King Of Prussia,PA,s.t.,Unattached
 17,499260,Brad,SUCHOSKI,Bel Air,MD,1:36,BSBA Racing
 18,459726,Andrew,MCLAREN,Alexandria,VA,s.t.,Veloworks-Spokes Etc
@@ -97,9 +97,9 @@ Place,License #,First,Last,City,State,Time,Team
 24,498287,Wes,EVASICK,Newark,DE,s.t.,
 25,474306,Stephen,ZOOK,Philadelphia,PA,1:43,QCW Cycling p/b breakawaybikes.
 26,42837,Fred,GRAFE,Wilmington,DE,2:01,Chester County Velo
-27,530282,Pierce,CONLON,Wilmington,DE,2:03,
+27,530282,Pierce,CONLON,Philadelphia,PA,2:03,
 28,501185,Matt,SMITH,Allentown,PA,2:08,T-Town Elite
-29,500289,Kyle,SAMMON,Bradley Beach,NJ,2:11,
+29,500289,Kyle,SAMMON,Lancaster,PA,2:11,
 30,507027,Brandon,LINTON,Lancaster,PA,2:26,Thru-It-All Cycling Team
 31,526294,David,THOMPSON,Philadelphia,PA,@1Lap,CS Velo
 32,498800,Noah,STAUFFER,State College,PA,@1Lap,
@@ -132,7 +132,7 @@ DNS,407724,Bryan,NORWOOD,Arlington,VA,,Phase Cycling
 DNS,473073,David,PHIMSIPASOM,North Plainfield,NJ,,Westwood Velo
 DNS,442889,Morgan,ROCKETT,Needham,MA,,GREEN LINE VELO driven by Zipcar
 DNS,282117,Seth,SIVINSKI,Woodinville,WA,,Metier Racing
-DNS,394862,Jeremy,VAUGHAN,Arlington ,VA,,Evolution Cycling Club p/b Long & Foster
+DNS,394862,Jeremy,VAUGHAN,Arlington,VA,,Evolution Cycling Club p/b Long & Foster
 DNS,501355,Jim,WILSON,Hummelstown,PA,,Blue Mountain Velo
 DNF,455361,Jon-Jorge,ARAS,Philadelphia,PA,,Rohan Cycling
 DNF,438243,Brandon,BROWN,Macungie,PA,,
@@ -152,14 +152,14 @@ Place,License #,First,Last,City,State,Time,Team
 1,284009,Samuel,JAMES,Blacksburg,VA,59:18:00,Kelly Benefit Strategies Elite
 2,438887,Justin,BUTSAVAGE,Macungie,PA,9,T-Town Elite
 3,281178,Scott,McGill,Fallston,MD,18,Kelly Benefit Strategies Elite
-4,530396,Jarrod,MORONI,,,s.t.,Moronis Bikes Bendigo
+4,530396,Jarrod,MORONI,Oceanside,CA,s.t.,Moronis Bikes Bendigo
 5,382869,Aaron,HOTALING,Washington,DC,s.t.,District Velocity Racing p/b Bi
 6,414381,Cesar,GALLEGO,Kew Gardens,NY,s.t.,The 5th Floor NYC
 7,297561,Guy,TAWNEY,Baltimore,MD,s.t.,C3Twenty20 Cycling
 8,165571,Jared,BABIK,Pittsburgh,PA,s.t.,TEAM GPOA
 9,431533,Derrick,BUTLER,Nazareth,PA,s.t.,CS Velo
 10,388411,Alex,JEROME,Pisgah Forest,NC,s.t.,Cycles Sports Charlotte
-11,277019,Jonathan,MARSHALL,Chambersburg,PA,s.t.,Integrated Sports Medicine p/b
+11,277019,Jonathan,MARSHALL,Shippensburg,PA,s.t.,Integrated Sports Medicine p/b
 12,310898,Alec,RATZELL,Blandon,PA,s.t.,CS Velo
 13,408591,Ryan,KNIGHT,Bethesda,MD,s.t.,C3-Twenty20 Cycling Co.
 14,459283,Greg,MACCARTY,Parkesburg,PA,s.t.,Team FEC p/b Trek Bikes
@@ -184,8 +184,8 @@ Place,License #,First,Last,City,State,Time,Team
 33,458393,Mark,LEWIS,Preston,MD,s.t.,TEAM BIKE DOCTOR
 34,411680,Brad,GREEN,Schnecksville,PA,s.t.,CS Velo
 35,440072,Alex,WINNICKI,Greensboro,NC,s.t.,Cyclus Sports
-36,296751,michael,GREEN,Wyndmoor ,PA,s.t.,Arrow Racing
-37,392452,Jeremy,BURKHARDT,Baltimore,MD,s.t.,C3-Twenty20 Cycling Co.
+36,296751,michael,GREEN,Wyndmoor,PA,s.t.,Arrow Racing
+37,392452,Jeremy,BURKHARDT,Washington,DC,s.t.,C3-Twenty20 Cycling Co.
 38,496704,Fischer,MARIS,Richmond,VA,s.t.,Kelly Benefit Strategies Elite
 39,423581,Christopher,BACCASH,Doylestown,PA,s.t.,Tri-State Velo / Amoroso's Raci
 40,278237,Keith,HATTON,Philadelphia,PA,s.t.,Tri-State Velo / Amoroso's Raci
@@ -197,7 +197,7 @@ Place,License #,First,Last,City,State,Time,Team
 46,497730,Andrew,IDELL,Newark,DE,34,Wooden Wheels Racing Inc.
 47,454850,Christopher,NEUREITER,Arlington,VA,35,NCVC/UnitedHealthcare
 48,52413,Shawn,FENTY,Washington,DC,s.t.,Team Buyer Auto/DC Velo Ltd
-49,299925,Chad,CAPOBIANCO,Watkinsville,GA,39,DistrictTaco Racing
+49,299925,Chad,CAPOBIANCO,Aldie,VA,39,DistrictTaco Racing
 50,257631,Jack,DRUMMOND,Philadelphia,PA,s.t.,Arrow Racing
 51,429497,Christopher,ROTHERMEL,Alexandria ,VA,1:07,DistrictTaco Racing
 52,434726,Gregory,ARMSTRONG,Philadelphia,PA,1:13,QCW Cycling p.b. Breakawaybikes
@@ -218,14 +218,14 @@ DNS,334476,Carl,JACOB,North Brunswick,NJ,,Rothman Institute p/b Talksoft
 DNS,393896,Christopher,KHANOYAN,Washington,DC,,NCVC/UnitedHealthcare
 DNS,54448,Robert,MECEA,Brooklyn,NY,,Healthy & Happy Racing
 DNS,379369,Tom,REEB,Philadelphia,PA,,Bicycle Therapy
-DNF,283659,Philip,DANIELS,Philadelphia ,PA,,Dangerous Creatures
+DNF,283659,Philip,DANIELS,Philadelphia,PA,,Dangerous Creatures
 DNF,115826,Brad,THOMPSON,Philadelphia,PA,,Amoroso's/TSV
 DNF,358000,Dimetra,COOPER,Trenton,NJ,,Karma Racing
 DNF,241376,Duncan,OLIVER,Cambridge,OH,,
 DNF,306953,Adam,FULCHER,Washington,DC,,Oberlin College
 DNF,369115,Chris,BRENNAN,Alexandria,VA,,VeloWorks-Spokes Etc
 DNF,347764,Sean,CHISHAM,Falls Church,VA,,VeloWorks-Spokes Etc
-DNF,324134,Matthew,MORY,Philadelphia,PA,,QCW Cycling p.b. Breakawaybikes
+DNF,324134,Matthew,MORY,Mesa,AZ,,QCW Cycling p.b. Breakawaybikes
 DNF,272404,Collin,MAGNETTI,Silver Spring,MD,,Artemis Racing
 DNF,299366,Nilsson,RUIZ,Perth Amboy,NJ,,Karma Racing Team
 DNF,44238,Marc,BERTUCCO,New York,NY,,
@@ -253,7 +253,7 @@ DNF,174904,Brian,WEIGHTMAN,Washington,DC,,NCVC/UnitedHealthcare
 05/20/2017 Criterium Women Pro/Cat 1/2/3 Open
 Place,License #,First,Last,City,State,Time,Team
 1,0,Marlies,MEJIAS,,,1:05:18,Weber Shimano Ladies Power
-2,509477,Peta,MULLENS,Tulsa,OK,s.t.,Hagens Berman | Supermint
+2,509477,Peta,MULLENS,Oceanside,CA,s.t.,Hagens Berman | Supermint
 3,41951,Tina,PIC,Bountiful,UT,s.t.,Papa John's Racing p/b TREK
 4,36345,Laura,VAN GILDER,Cresco,PA,2,Mellow Mushroom
 5,271181,Kyrstin,BLUHM,Nashville,TN,s.t.,Fearless Femme Racing

@@ -21,11 +21,11 @@ Place,License #,First,Last,City,State,Time,Team
 17,414984,Samuel,Santos,Philadelphia,PA,00:00.0,Fuji Bikes/Independence Cycling
 18,507686,Gabriel,TONINI,Fresh Meadows,NY,00:00.0,CUEVAS CYCLING DEVELOPMENT/ROA
 19,526294,David,THOMPSON,Philadelphia,PA,00:00.0,
-20,410977,Oscar,DIAZ,Hamilton,NJ,00:00.0,
+20,410977,Oscar,DIAZ,Millstone Township ,NJ,00:00.0,
 21,396611,Tom,MAIORIELLO,Mullica Hill,NJ,00:00.0,Caffeinated Cyclist Racing
 22,459031,Bill,WAHL,Sicklerville,NJ,00:00.0,PSracing/BTB
 23,299092,Kenneth,BARFELL,West Grove,PA,00:00.0,Chester County Velo
-24,511397,Raymundo,TORRES,Fort Lee,NJ,00:00.0,NYCC Racing
+24,511397,Raymundo,TORRES,Old Tappan,NJ,00:00.0,NYCC Racing
 25,524917,Jerry,RODRIGUEZ,Fresh Meadows,NY,00:00.0,CUEVAS CYCLING DEVELOPMENT/ROA
 26,343626,Travis,FORNEY,Doylestown,PA,00:00.0,Doylestown Bikeworks p/b Fred
 27,525497,Howard,RINCON,Fresh Meadows,NY,00:00.0,CUEVAS CYCLING DEVELOPMENT/ROA
@@ -46,7 +46,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,239267,John,ARIAS,Freeport,NY,00:00.0,Cuevas cycling development
 10,507686,Gabriel,TONINI,Fresh Meadows,NY,00:00.0,CUEVAS CYCLING DEVELOPMENT/ROA
 11,379369,Tom,REEB,Philadelphia,PA,00:00.0,Bicycle Therapy
-12,324134,Matthew,MORY,Philadelphia,PA,00:00.0,QCW Cycling p.b. Breakawaybike
+12,324134,Matthew,MORY,Mesa,AZ,00:00.0,QCW Cycling p.b. Breakawaybike
 13,474322,Lamar,ZOOK,Ephrata,PA,00:00.0,QCW Cycling p.b. Breakawaybike
 14,448395,Kyle,CLIFFORD,Philadelphia,PA,00:00.0,CS Velo
 15,326136,Alex,BREAKSTONE,Westfield,NJ,00:00.0,High Gear/Trek/WW
@@ -80,12 +80,12 @@ DNP,3341,Thomas,BENNETT,Staten Island,NY,00:00.0,Ny/ Nj colavita regional team
 
 03/12/2017 Criterium Men Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
-1,306560,Steven,WENTWORTH,Yardley ,PA,00:00.0,
+1,306560,Steven,WENTWORTH,Yardley,PA,00:00.0,
 2,240153,Glenn,FERREIRA,Manville,NJ,00:00.0,Team Metra / XRCEL / Cycles 54
 3,344644,Matthew,FISCHEL,Hockessin,DE,00:00.0,
 4,286845,Calvin,HOOPS,Philadelphia,PA,00:00.0,Tri-State Velo / Amoroso's Rac
 5,328624,Ryan,WEI,Bethlehem,PA,00:00.0,Team CLIF Bar Cycling
-6,383744,Jason,HAMMOND,Stanford,CA,00:00.0,
+6,383744,Jason,HAMMOND,Palo Alto,CA,00:00.0,
 7,332188,Alex,KELLUM,Philadelphia,PA,00:00.0,QCW Cycling p.b. Breakawaybike
 8,270565,Jason,WOOD,Lansdale,PA,00:00.0,Tri State Velo
 9,403696,Tim,WEIGELT,Philadelphia,PA,00:00.0,CS Velo
@@ -110,7 +110,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,522543,Shannon,SCOTT,New York,NY,00:00.0,CRCA/NYCC Racing p/b BGC Partn
 6,438638,Bryan,SIMPSON,Philadelphia,PA,00:00.0,QCW Cycling p.b. breakawaybike
 7,424298,Christopher,MOORE,Philadelphia,PA,00:00.0,QCW Cycling p.b. Breakawaybike
-8,511397,Raymundo,TORRES,Fort Lee,NJ,00:00.0,NYCC Racing
+8,511397,Raymundo,TORRES,Old Tappan,NJ,00:00.0,NYCC Racing
 9,526294,David,THOMPSON,Philadelphia,PA,00:00.0,
 10,525099,Erik,CRANDLEMIRE,Silver Spring,MD,00:00.0,National Capital Velo Club (NC
 11,524900,Dillon,MAST,Philadelphia,PA,00:00.0,CS Velo

@@ -5,7 +5,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,234564,Peter,Goguen,Hopedale,MA,59:33,
 2,399473,Connor,Jennings,Portsmouth,NH,59:37,Velocio Northeast
 3,52534,Adam,Myerson,Dorchester,MA,59:40,
-4,231409,Lucas,Fortini,Fairfield,CT,59:40,Race CF
+4,231409,Lucas,Fortini,Arlington,MA,59:40,Race CF
 5,107000,Ernest,Tautkus,Uncasville,CT,59:40,CVC / Hartford Healthcare Sports Medicine
 6,466,Miles,Billings,Newton,MA,59:40,545 Velo
 7,318100,Smith,Anderson,Brighton,MA,59:40,GREEN LINE VELO driven by Zipcar
@@ -31,7 +31,7 @@ Place,License #,First,Last,City,State,Time,Team
 27,0,Thomas,Coleman,,,59:40,Minuteman Road Club
 28,0,Mark,Hewitt,,,59:40,JAM / NCC
 29,208131,Gary,Aspnes,Hopkinton,MA,59:40,Aetna-Expo Wheelmen
-30,0,Andrew,Page,,,59:40,Tall Sock Racing
+30,503857,Andrew,Page,North Yarmouth,ME,59:40,Tall Sock Racing
 31,378237,Matthew,Curbeau,Millis,MA,59:40,Velocio Northeast
 32,64384,James,Nash,North Hampton,NH,59:40,CCB Racing
 33,0,Michael,Martin,,,59:40,B2C2/JRA Cycles
@@ -41,7 +41,7 @@ Place,License #,First,Last,City,State,Time,Team
 37,66046,John,Grenier,Lewiston,ME,59:40,Rancourt Shoe/ Rainbow Bike
 38,414812,Mike,Morse,Salem,NH,59:40,Colonial Bicycle Company
 39,0,Tyler,Munroe,,,59:40,RiversideRacing
-40,271529,Marshall,Johnson,North Stonington ,CT,59:40,CLR Racing
+40,271529,Marshall,Johnson,North Stonington,CT,59:40,CLR Racing
 41,0,Andrew,Goodale,,,59:40,Race CF
 42,0,Patrick,Ruane,,,59:40,Sunapee/Continental Paving/Buchikas
 43,0,Colin H.,Murphy,,,59:40,Boston Racing Independent
@@ -66,7 +66,7 @@ DNF,314892,Ford,Murphy,Portsmouth,NH,DNF,Cyclus Sports-New England
 DNF,250910,Jay,Robbins,Ashland,MA,DNF,Boston Racing Independent
 DNF,32979,John,Smathers,Somerville,MA,DNF,545 Velo
 DNF,0,Jeffrey,Weaver,,,DNF,Cheshire Cycle Racing
-DNF,485904,Ken,Greim,Cambridge,MA,DNF,GREEN LINE VELO driven by Zipcar
+DNF,485904,Ken,Greim,Belmont,MA,DNF,GREEN LINE VELO driven by Zipcar
 DNF,0,Tommy,Goguen,,,DNF,Race CF
 DNF,290750,Kevin,Goguen,Hopedale,MA,DNF,Race CF
 
@@ -76,22 +76,22 @@ Place,License #,First,Last,City,State,Time,Team
 2,298091,Jackson,Heath,Lynn,MA,39:33,RiversideRacing
 3,305301,Ryan,Laperle,Pomfret,CT,39:33,BMB Racing
 4,0,Mark,Hewitt,,,39:33,JAM / NCC
-5,147771,Colin,Reuter,Somerville,MA,39:33,B2C2 / JRA Cycles
+5,147771,Colin,Reuter,Leeds,MA,39:33,B2C2 / JRA Cycles
 6,456194,Travis,Wold,Berlin,MA,39:33,Spin Arts Cycling
 7,205206,Nicholas,Tham Ming Qiang,Somerville,MA,39:33,MIT Cycling
-8,91530,Jason,Yannelli,S Casco,ME,39:33,USMES
+8,91530,Jason,Yannelli,Sebago,ME,39:33,USMES
 9,442889,Morgan,Rockett,Needham,MA,39:33,GREEN LINE VELO driven by Zipcar
 10,525181,Nicholas,Huber,Leopold,IN,39:33,GREEN LINE VELO driven by Zipcar
 11,355922,Jacob,Lipcon,Arlington,MA,39:33,Minuteman Road Club
 12,299592,William,King,Topsfield,MA,39:33,Team KIT
-13,485904,Ken,Greim,Cambridge,MA,39:33,GREEN LINE VELO driven by Zipcar
-14,428501,Torin,La Liberte,Colchester,VT,39:33,Sunapee Racing / Buchika's Ski and Bike
+13,485904,Ken,Greim,Belmont,MA,39:33,GREEN LINE VELO driven by Zipcar
+14,428501,Torin,La Liberte,Madison,NH,39:33,Sunapee Racing / Buchika's Ski and Bike
 15,432762,Kent,Ryan,Westbrook,ME,39:33,Tall Sock Racing
 16,305134,Michael,Martin,Brooklyn,CT,39:33,B2C2/JRA Cycles
 17,468175,Eric,Loehle,Georgetown,MA,39:33,Monster Media Racing p/b Butcher Box
 18,499673,Fisher,Curran,Pittsford,MA,39:33,Monster Media Racing
 19,274231,Gregory,Colby,Hyde Park,MA,39:33,B2C2/JRA Cycles
-20,471656,Matt,Davies,Williamstown,MA,39:33,Williams College
+20,471656,Matt,Davies,Boston,MA,39:33,Williams College
 21,59145,Brad,Walker,W. Newton,MA,39:33,545 Velo
 22,512911,Michael,Williams,West Hartford,CT,39:33,Greater Hartford Cycling Club
 23,410772,John,Bonetsky,Niverville,NY,39:33,R-Cubed
@@ -122,7 +122,7 @@ Place,License #,First,Last,City,State,Time,Team
 48,460023,Tom,Dodge,Manchesterm,MA,39:33,TEAM FIT WERX
 49,236457,Nolan,Garon,Dunstable,MA,39:33,GREEN LINE VELO driven by Zipcar
 50,32365,Timothy,Shea,Amherst,NH,39:33,Sunapee/Continental Paving/Buchikas
-51,345164,Dan,Cariolo,Cambridge,MA,39:33,B2C2 / JRA cycles
+51,345164,Dan,Cariolo,Arlington,MA,39:33,B2C2 / JRA cycles
 52,0,Duvalier,Alvarez,,,39:33,R.U.
 DNF,366589,John,Baillieul,Brookline,MA,DNF,Jimmy Fund Racing
 DNF,244301,Keith,Cardoza,Brookline,MA,DNF,
@@ -183,7 +183,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,378983,Whitney,Withington,Brookline,MA,40:22,GREEN LINE VELO driven by Zipcar
 6,469247,Jessica,He,Newton Upper Falls,MA,40:22,Monster Media Racing p/b ButcherBox
 7,533143,Galen,Shaffer,Allston,MA,40:22,
-8,429848,Alex,Carlson,Jamaica Plain,MA,40:22,B2C2
+8,429848,Alex,Carlson,Arlington,MA,40:22,B2C2
 9,368785,Cristine,Hall,Windham,NH,40:22,State 9 Racing
 10,517991,Erica,Lesyshyn,Beverly,MA,40:22,Comprehensive Racing / GC Coaching
 11,0,Elana,Boehm,,,40:22,

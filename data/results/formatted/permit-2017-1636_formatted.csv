@@ -8,7 +8,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,477135,Riley,Mosak,Crown Point,IN,,Region Racing
 5,457574,Aaron,Banks,Westfield,IN,,Indiana Cycling Development
 6,525754,Luke,Scott,Simpsonville,KY,,Team Louisville
-7,433604,Jake,Hreha,Berne ,IN,,Yokohama Racing p/b BikeLine/SingletonCoaching
+7,433604,Jake,Hreha,Berne,IN,,Yokohama Racing p/b BikeLine/SingletonCoaching
 8,530141,Jake,Richards,Bloomington,IN,,None
 9,454240,Alex,Corby,Carmel,IN,,Midwest Development Cycling Inc.
 10,518737,Sam,Burkle,Zionsville,IN,,None
@@ -17,7 +17,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,76192,Kevin,Collins,Grand Rapids,MI,,Speed Merchants
 2,34815,Jason,Swiatlowski,Grand Rapids,MI,,
-3,82244,chris,richter,Fishers,IN,,Heroes Masters Racing
+3,82244,chris,richter,Carmel,IN,,Heroes Masters Racing
 4,263833,Andrzej,Banaszkiewicz,Brownsburg,IN,,Zipp Masters Team
 5,410406,Justin,Kirk,Carmel,IN,,Phoenix Fitness and Training
 6,65323,Harry,Clark,Carmel,IN,,Team Heroes - First Internet Bank Cycling
@@ -72,7 +72,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,411181,Larry,Donald,Evansville,IN,,Dan's Comp Factory Racing
 11,258979,Cody,Hardley,Columbia City,IN,,Team Upland Brewing
 12,281084,Ross,Williams,Williamsburg,MI,,Athletic Mentors / GREENWARE
-13,508091,Kevin,Mangel,Valparaiso ,IN,,
+13,508091,Kevin,Mangel,Valparaiso,IN,,
 14,432103,Noah,Voyles,Newburgh,IN,,Black Key Bulls
 15,374802,William,Martin,Goshen,IN,,Spin Zone Racing
 16,499710,Ean,Pugh,Rochester,IN,,Yokohama Racing p/b BikeLine/SingletonCoaching
@@ -82,7 +82,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,431122,Joseph,Matacale,Evansville,IN,,Dan's Comp Factory Racing
 21,400639,Michael,Chettleburgh,Indianapolis,IN,,None
 22,177206,Felipe,Cardenas,Indianapolis,IN,,DASH RACING TEAM
-23,238604,Brian,Sullivan,Mishawaka ,IN,,RACE INC.
+23,238604,Brian,Sullivan,South Bend,IN,,RACE INC.
 24,389918,john,Conant,Indianapolis,IN,,Dash Racing
 25,138584,Rhys,Edwards,Noblesville,IN,,Team Upland Brewing
 26,445682,John,Reidy,Warsaw,IN,,None
@@ -91,7 +91,7 @@ Place,License #,First,Last,City,State,Time,Team
 29,473688,Tony,Gumbel,Newburgh,IN,,Dan's Comp Factory Racing
 30,411787,Aidan,Burkins,Plymouth,IN,,Spin Zone Racing
 31,391804,Jacob,Hoggard,Carmel,IN,,Yokohama Racing p/b BikeLine/SingletonCoaching
-32,273966,michael z,cook,South Bend ,IN,,spinzone racing PB Evil Czech Brewing
+32,273966,michael z,cook,South Bend,IN,,spinzone racing PB Evil Czech Brewing
 33,407691,Ben,Souders,Indianapolis,IN,,Team Upland Brewing
 34,410898,levi,gaswint,Findlay,OH,,RedBike
 35,382208,Tommy,Graul,Dayton,OH,,Team Dayton
@@ -104,7 +104,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/21/2017 Criterium Men Cat 1/2/3 Senior 0-99
 Place,License #,First,Last,City,State,Time,Team
-1,257134,Josh,Johnson,Fort Wayne,IN,,Bissell ABG Giant
+1,257134,Josh,Johnson,Indianapolis,IN,,Bissell ABG Giant
 2,257611,Hogan,Sills,Terre Haute,IN,,Bissell ABG Giant
 3,298338,Jack,McCann,Cincinnati,OH,,First Internet Bank Cycling
 4,240005,Kyle,Perry,Muncie,IN,,Texas Roadhouse Cycling
@@ -206,7 +206,7 @@ Place,License #,First,Last,City,State,Time,Team
 25,433207,Matthew,Thomas,Goshen,IN,,No Limit Racing
 26,292916,nick,cisler,Comstock Park,MI,,Freewheeler Racing
 27,340938,Mike,Chandler,Bowling Green,OH,,
-28,433604,Jake,Hreha,Berne ,IN,,Yokohama Racing p/b BikeLine/SingletonCoaching
+28,433604,Jake,Hreha,Berne,IN,,Yokohama Racing p/b BikeLine/SingletonCoaching
 29,311614,Scott,Berger,Upland,IN,,None
 30,432819,ryan,bredemeyer,Bloomington,IN,,Bakehouse Cycling
 31,358179,Brent,Kattau,Elkhart,IN,,SpinZone
@@ -215,12 +215,12 @@ Place,License #,First,Last,City,State,Time,Team
 05/21/2017 Criterium Women Cat 1/2/3/4/5 Junior 9-13
 Place,License #,First,Last,City,State,Time,Team
 1,529891,Sarah,Banks,Westfeild In,IN,,Indiana Cycling Development
-2,530376,Katie,Smock,Indianapolis,IN,,Midwest Devo
+2,535361,Katie,Smock,Indianapolis,IN,,Midwest Devo
 
 05/21/2017 Criterium Women Cat 4/5 Senior 0-99
 Place,License #,First,Last,City,State,Time,Team
 1,457222,Eliza,Gregoire,Zionsville,IN,,Yokohama Racing p/b BikeLine/SingletonCoaching
-2,485822,Caryn,Willis,Lansing,MI,,Speed Merchants Race Team
+2,485822,Caryn,Willis,Pittsburgh,PA,,Speed Merchants Race Team
 3,503371,Anna,Affias,Chicago,IL,,Spidermonkey Cycling
 4,426252,Eleanor,Dyas,Carmel,IN,,Midwest Devo
 5,507790,Jessica,Miller,Evansville,IN,,Dan's Comp Factory Racing
@@ -270,7 +270,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/20/2017 Road Race Men Cat 1/2/3/4/5 Master 40+
 Place,License #,First,Last,City,State,Time,Team
-1,82244,chris,richter,Fishers,IN,,Heroes Masters Racing
+1,82244,chris,richter,Carmel,IN,,Heroes Masters Racing
 2,268295,Mark,DAnniballe,Dublin,OH,,Trek Stores of Columbus
 3,34815,Jason,Swiatlowski,Grand Rapids,MI,,
 4,367918,Nick,Mossing,Holland,OH,,Maumee Valley Wheelmen
@@ -319,7 +319,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/20/2017 Road Race Men Cat 1/2 Senior 0-99
 Place,License #,First,Last,City,State,Time,Team
-1,257134,Josh,Johnson,Fort Wayne,IN,,Bissell ABG Giant
+1,257134,Josh,Johnson,Indianapolis,IN,,Bissell ABG Giant
 2,432674,Jarret,Oldham,Chicago,IL,,First Internet Bank Cycling
 3,378085,Bryce,Nuiver,Jenison,MI,,Eps Cycling
 4,311256,Rob,Thompson,Lakewood,OH,,Team Spin/Litzler Automation
@@ -351,7 +351,7 @@ Place,License #,First,Last,City,State,Time,Team
 30,425028,Benjamin,Richardson,Indianapolis,IN,,Dan's Comp Factory Racing
 31,0,Ben,Reed,,,,Indy Bike PB IU Health
 32,368147,Alex,Mclaughlin,Louisville,KY,,Texas Roadhouse Cycling Team
-33,313374,Kyle,Stewart,Indianapolis ,IN,,Team Dayton
+33,313374,Kyle,Stewart,Indianapolis,IN,,Team Dayton
 34,371391,Jordan,Fleming,Carmel,IN,,Yokohama Racing p/b BikeLine/SingletonCoaching
 DNF,425100,Daniel,Shamburger,Grand Rapids,MI,,EPS Cycling
 DNF,240005,Kyle,Perry,Muncie,IN,,Texas Roadhouse Cycling
@@ -406,7 +406,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,437388,James,Welch,Terre Haute,IN,,None
 16,430930,Shelby,Gibbs,Indianapolis,IN,,Dash Racing
 17,470510,Matt,Cleland,Whitehouse,OH,,Maumee Valley Wheelmen
-18,433604,Jake,Hreha,Berne ,IN,,Yokohama Racing p/b BikeLine/SingletonCoaching
+18,433604,Jake,Hreha,Berne,IN,,Yokohama Racing p/b BikeLine/SingletonCoaching
 19,324096,PETER,DOROSZKO,South Bend,IN,,None
 20,282137,Chad,Nay,Carmel,IN,,None
 21,457574,Aaron,Banks,Westfield,IN,,Yokohama Racing p/b BikeLine/SingletonCoaching
@@ -446,7 +446,7 @@ Place,License #,First,Last,City,State,Time,Team
 DNF,302078,Cameron,Fisk,Louisville,KY,,Team Handmade
 DNF,411787,Aidan,Burkins,Plymouth,IN,,Spin Zone Racing
 DNF,258979,Cody,Hardley,Columbia City,IN,,Team Upland Brewing
-DNF,238604,Brian,Sullivan,Mishawaka ,IN,,RACE INC.
+DNF,238604,Brian,Sullivan,South Bend,IN,,RACE INC.
 DNF,388830,John,Walbaum,Chicago,IL,,South Chicago Wheelmen
 DNF,389918,john,Conant,Indianapolis,IN,,Dash Racing
 DNF,411181,Larry,Donald,Evansville,IN,,Dan's Comp Factory Racing
@@ -456,7 +456,7 @@ DNF,353804,Josiah,Longenecker,Angola,IN,,RACE INC
 Place,License #,First,Last,City,State,Time,Team
 1,457222,Eliza,Gregoire,Zionsville,IN,,Yokohama Racing p/b BikeLine/SingletonCoaching
 2,503696,Stefanie,Dittmer,Grand Rapids,MI,,FreeWheeler Racing
-3,485822,Caryn,Willis,Lansing,MI,,Speed Merchants Race Team
+3,485822,Caryn,Willis,Pittsburgh,PA,,Speed Merchants Race Team
 4,391451,allison,mccurry,Crestwood,KY,,team louisville
 5,438565,Amy,Woods,Fort Wayne,IN,,Fort Wayne Outfitters
 6,367876,Caron,Leader,Evansville,IN,,Dan's Comp Factory Racing
@@ -497,7 +497,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,48628,Henry,Swinty,Fort Wayne,IN,0:07:24.400,Fort Wayne Outfitters
 2,57121,greg,mueller,South Bend,IN,0:07:25.210,heroes foundation
-3,82244,chris,richter,Fishers,IN,0:07:27.270,Heroes Masters Racing
+3,82244,chris,richter,Carmel,IN,0:07:27.270,Heroes Masters Racing
 4,367918,Nick,Mossing,Holland,OH,0:07:31.270,Maumee Valley Wheelmen
 5,381685,William,Gorton,Alma,MI,0:07:34.650,unattached
 6,65323,Harry,Clark,Carmel,IN,0:07:38.960,Team Heroes - First Internet Bank Cycling
@@ -529,7 +529,7 @@ DQ,489115,Henry,Conaway,Zionsville,IN,0:06:01.110,Midwest Devo
 Place,License #,First,Last,City,State,Time,Team
 1,207549,Paul,Martin,North Royalton,OH,0:06:38.110,First Internet Bank
 2,161263,Ryan,Knapp,Bloomington,IN,0:06:45.990,First Internet Bank Cycling
-3,257134,Josh,Johnson,Fort Wayne,IN,0:06:48.490,Bissell ABG Giant
+3,257134,Josh,Johnson,Indianapolis,IN,0:06:48.490,Bissell ABG Giant
 4,401755,Brice,Brookshire,Elkhart,IN,0:06:49.990,Texas Roadhouse Cycling p/b Stradalli
 5,318688,Thomas,Revard,Carmel,IN,0:06:52.020,Marian University Cycling Team
 6,226733,Jonathan,Jacob,Indianapolis,IN,0:06:54.520,Bissell ABG Giant
@@ -548,7 +548,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,311256,Rob,Thompson,Lakewood,OH,0:07:12.990,Team Spin/Litzler Automation
 20,387328,Andrew,Guelzo,Grand Rapids,MI,0:07:14.400,ATHLETIC MENTORS/ GREENWARE
 21,402875,Matthew,Salpietro,Indianapolis,IN,0:07:15.110,Texas Roadhouse Cycling
-22,424802,Lucas,Kalbfell,Crown Point,IN,0:07:16.110,None
+22,424802,Lucas,Kalbfell,Bloomington,IN,0:07:16.110,None
 23,334610,Sam,Winters,Indianapolis,IN,0:07:17.240,Marian University Cycling Team
 24,425100,Daniel,Shamburger,Grand Rapids,MI,0:07:22.210,EPS Cycling
 25,411678,Robert,Frangi,Indianapolis,IN,0:07:24.740,Dash Racing
@@ -604,7 +604,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,402275,Dylan,Curtis,Fort Wayne,IN,0:08:02.180,Team NeighborLink
 15,410898,levi,gaswint,Findlay,OH,0:08:03.080,RedBike
 16,292916,nick,cisler,Comstock Park,MI,0:08:05.020,Freewheeler Racing
-17,433604,Jake,Hreha,Berne ,IN,0:08:05.680,Yokohama Racing p/b BikeLine/SingletonCoaching
+17,433604,Jake,Hreha,Berne,IN,0:08:05.680,Yokohama Racing p/b BikeLine/SingletonCoaching
 18,430930,Shelby,Gibbs,Indianapolis,IN,0:08:06.400,Dash Racing
 19,366213,Daniel,Tierney,Monclova,OH,0:08:06.650,Maumee Valley Wheelmen
 20,489308,Ryan,Bauer,Fort Wayne,IN,0:08:09.840,No Limit Racing
@@ -622,14 +622,14 @@ Place,License #,First,Last,City,State,Time,Team
 5,242744,Andrew,Truemper,Indianapolis,IN,0:07:18.520,Team Upland Brewing
 6,391804,Jacob,Hoggard,Carmel,IN,0:07:22.990,Yokohama Racing p/b BikeLine/SingletonCoaching
 7,439310,Conor,Swan,Zionsville,IN,0:07:24.240,Yokohama Racing p/b BikeLine/SingletonCoaching
-8,198135,Eric,Knackmuhs,Bloomington,IN,0:07:24.430,Scholars Inn Bakehouse
-9,238604,Brian,Sullivan,Mishawaka ,IN,0:07:28.840,RACE INC.
+8,198135,Eric,Knackmuhs,Bowling Green,KY,0:07:24.430,Scholars Inn Bakehouse
+9,238604,Brian,Sullivan,South Bend,IN,0:07:28.840,RACE INC.
 10,411173,jonas,Maguire,Findlay,OH,0:07:31.020,Maumee Valley Wheelmen
 11,233960,Spencer,Dell,Indianapolis,IN,0:07:33.810,Team Upland Brewing
 12,298137,Kevin,Baumann,Grand Rapids,MI,0:07:34.050,EPS cycling team
 13,258979,Cody,Hardley,Columbia City,IN,0:07:38.490,Team Upland Brewing
 14,432103,Noah,Voyles,Newburgh,IN,0:07:40.140,Black Key Bulls
-15,273966,michael z,cook,South Bend ,IN,0:07:42.270,spinzone racing PB Evil Czech Brewing
+15,273966,michael z,cook,South Bend,IN,0:07:42.270,spinzone racing PB Evil Czech Brewing
 16,474032,Abel,Barrera Duran,Kokomo,IN,0:07:42.520,Phoenix Fitness and Training
 17,400639,Michael,Chettleburgh,Indianapolis,IN,0:07:42.620,None
 18,431122,Joseph,Matacale,Evansville,IN,0:07:52.620,Dan's Comp Factory Racing
@@ -648,7 +648,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,374283,Emily,Andrews,Muncie,IN,0:08:47.930,Team NeighborLink
 5,391451,allison,mccurry,Crestwood,KY,0:08:55.930,team louisville
 6,438565,Amy,Woods,Fort Wayne,IN,0:08:59.210,Fort Wayne Outfitters
-7,485822,Caryn,Willis,Lansing,MI,0:09:04.340,Speed Merchants Race Team
+7,485822,Caryn,Willis,Pittsburgh,PA,0:09:04.340,Speed Merchants Race Team
 8,497491,Rachael,DelGuanto,Union,MI,0:09:09.680,Spin Zone Racing
 9,0,Ann,Barker,,,0:09:24.810,None
 10,402338,Bonnie,Yoder,Granger,IN,0:09:29.680,Spin Zone Racing

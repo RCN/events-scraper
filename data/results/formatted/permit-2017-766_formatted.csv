@@ -3,12 +3,12 @@ Purdue University TTT and Road Race in West Lafayette IN Results
 04/01/2017 Road Race Men A
 Place,License #,First,Last,City,State,Time,Team
 1,318688,Thomas,Revard,Carmel,IN,,Marian University
-2,271372,Jos,Chalmers,Indian Harbour Beach,FL,,Marian University
+2,271372,Jos,Chalmers,Melbourne,FL,,Marian University
 3,301623,Frankie,Gonzalez,Pembroke Pines,FL,,Ohio State University
 4,219225,Evan,Hartig,Dubuque,IA,,Lindenwood University
 5,358808,Jonah,MeadVanCort,Ithaca,NY,,Lindenwood University
 6,334610,Sam,Winters,Indianapolis,IN,,Marian University
-7,424802,Lucas,Kalbfell,Crown Point,IN,,Indiana University-Bloomington
+7,424802,Lucas,Kalbfell,Bloomington,IN,,Indiana University-Bloomington
 8,337040,Stephan,Hirsch,Oklahoma City,OK,,Marian University
 9,285795,Benjamin,King,Louisville,KY,,University of Louisville
 10,465841,Laszlo,Jakab,Chicago,IL,,University of Chicago
@@ -29,7 +29,7 @@ DNF,313840,James,Pratt,Niles,MI,,University of Notre Dame
 DNF,311360,Anthony,Pratt,Niles,MI,,University of Notre Dame
 DNF,466664,Daniel,Blumberg,Highland Park,IL,,University of Wisconsin-Madison
 DNF,226739,Trevor,Rolette,Tinley Park,IL,,University of Wisconsin-Madison
-DNF,245670,Jim,Maddock,South Berwick,ME,,Northwestern University
+DNF,245670,Jim,Maddock,Chicago,IL,,Northwestern University
 DNF,402520,Michael,Linse,Powell,OH,,Miami University-Oxford
 DNF,459350,Jacob,Shupe,Greenwood,IN,,Purdue University
 DNF,400198,Ryan,hospelhorn,Normal,IL,,Lindenwood University
@@ -57,7 +57,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,243473,Tyler,Roberts,Indianapolis,IN,,Marian University
 16,498156,Jeanhyuk,Park,Cleveland Heights,OH,,Case Western Reserve University
 17,408273,Stefan,Cerbin,Lansing,MI,,Michigan State University
-18,468397,Nicholas,Merchant Wells,Solana Beach,CA,,Case Western Reserve University
+18,468397,Nicholas,Merchant Wells,Cleveland,OH,,Case Western Reserve University
 19,499607,Fernando,Roman-Garcia,Urbana,IL,,University of Illinois at Urbana-Champaign
 20,391085,Stephen,Claiborne,Winston Salem,NC,,Miami University-Oxford
 21,346648,Thomas,Carter,Saint Charles,MO,,Lindenwood University
@@ -66,7 +66,7 @@ Place,License #,First,Last,City,State,Time,Team
 24,461990,Chandler,Horton,Zionsville,IN,,Marian University
 25,497019,Chase,Snowden,Johnstown,OH,,Ohio State University
 26,425125,Michael,Emerson,Milford,OH,,University of Cincinnati
-27,466154,Eamonn,Schnell,Brooklyn,NY,,Oberlin College
+27,466154,Eamonn,Schnell,Oberlin,OH,,Oberlin College
 28,429561,Henry,Bermet,Seattle,WA,,Case Western Reserve University
 29,457085,Daniel,Eckerson,Madison,WI,,University of Wisconsin-Madison
 DNF,466322,David,Mckenna,Notre Dame,IN,,University of Notre Dame
@@ -74,8 +74,8 @@ DNF,498715,Mitchell,Powers,Cincinnati,OH,,University of Cincinnati
 DNF,499850,John,Caffarelli,Libertyville,IL,,University of Notre Dame
 DNF,455635,Austin,Anderson,Delafield,WI,,Marquette University
 DNF,432819,ryan,bredemeyer,Bloomington,IN,,Indiana University-Bloomington
-DNF,472755,Tom,Madden,Elmhurst,IL,,Marquette University
-DNF,468428,John,McGarry,Cleveland Heights,OH,,Case Western Reserve University
+DNF,472755,Tom,Madden,Milwaukee,WI,,Marquette University
+DNF,468428,John,McGarry,San Diego,CA,,Case Western Reserve University
 DNF,244626,Brian,Gaines,St. Charles,MO,,Lindenwood University
 
 04/01/2017 Road Race Men C
@@ -88,7 +88,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,460619,Ryan,Craig,Marquette,MI,,Northern Michigan University
 7,382399,Jason,Keena,Poplar Bluff,MO,,Lindenwood University
 8,460946,Andres,Urrego,West Lafayette,IN,,Purdue University
-9,449356,Jacob,Holtgrewe,Louisville,KY,,University of Louisville
+9,449356,Jacob,Holtgrewe,Paducah,KY,,University of Louisville
 10,500736,Jackson,Wolf,Avon Lake,OH,,Ohio State University
 11,501162,Mark,Zhao,West Lafayette,IN,,Purdue University
 12,498874,Nick,Vander Velden,Minnetonka,MN,,University of Wisconsin-Madison
@@ -104,12 +104,12 @@ DNF,485811,Javier,Perruca Munoz,St Charles,MO,,Lindenwood University
 DNF,442987,Daniel,Nesbitt,Indianapolis,IN,,Marian University
 DNF,496786,Douglas,Simpson,Powell,OH,,Ohio State University
 DNF,498018,Jordan,Reynolds,Lorain,OH,,Ohio State University
-DNF,441114,Kyle,Pyeatt,Grand Blanc,MI,,Michigan State University
+DNF,441114,Kyle,Pyeatt,East Lansing,MI,,Michigan State University
 DNF,467690,Chuyu,Hu,West Lafayette,IN,,Purdue University
 
 04/01/2017 Road Race Men D
 Place,License #,First,Last,City,State,Time,Team
-1,527073,Peter,Dixon,Ann Arbor,MI,,University of Michigan-Ann Arbor
+1,527073,Peter,Dixon,Pasadena,CA,,University of Michigan-Ann Arbor
 2,475037,Marc,Spratt,Nineveh,IN,,Purdue University
 3,526355,brian,mitchell,Chicago,IL,,University of Chicago
 4,525163,Nills,Van den Broecke,Chicago,IL,,University of Chicago
@@ -136,11 +136,11 @@ Place,License #,First,Last,City,State,Time,Team
 25,497890,Michael,Fitz,Urbana,IL,,University of Illinois at Urbana-Champaign
 26,527244,Sean,Roberts,Cleveland,OH,,Case Western Reserve University
 27,474121,Willem,van Vliet,Chicago,IL,,University of Chicago
-28,459479,Samuel,Huntington,Greenville,SC,,Purdue University
+28,459479,Samuel,Huntington,Lafayette,IN,,Purdue University
 29,528894,Griffin,Bianchi,Evanston,IL,,Northwestern University
 30,525433,Talius,Chickering,Cleveland,OH,,Case Western Reserve University
 31,500809,Nathan,Villiger,Indianapolis,IN,,Butler University
-32,501236,Kevin,Bodkin,Chicago,IL,,Northwestern University
+32,501236,Kevin,Bodkin,Evanston,IL,,Northwestern University
 33,529196,Kaleb,VanArsdale,Steamboat Springs,CO,,Depauw University
 34,473629,Justin,McNally,Ann Arbor,MI,,University of Michigan-Ann Arbor
 35,423787,Parker,Ohlmann,Glen Ellyn,IL,,The College of Wooster
@@ -174,7 +174,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,408538,Catherine,Culkin,Ann Arbor,MI,,University of Michigan-Ann Arbor
 6,229338,Zoe,Frazier,Suwanee,GA,,Marian University
 7,302383,Katherine,Santos,Louisville,KY,,Marian University
-8,433105,Brenna,Gibbons,Coon Valley ,WI,,University of Wisconsin-Madison
+8,433105,Brenna,Gibbons,Madison,WI,,University of Wisconsin-Madison
 9,315188,Marta,Morris,Grand Junction,CO,,Marian University
 10,468081,Ellie,Morgenthaler,Chesterfield,MO,,Lindenwood University
 11,425277,Sarah,Cullen,Northville,MI,,University of Notre Dame
@@ -193,7 +193,7 @@ DNF,355110,Emily,Neice,Granger,IN,,Marian University
 
 04/01/2017 Road Race Women C
 Place,License #,First,Last,City,State,Time,Team
-1,527854,Allison,Schroeder,Chicago,IL,,University of Illinois at Urbana-Champaign
+1,527854,Allison,Schroeder,Champaign,IL,,University of Illinois at Urbana-Champaign
 2,524796,Gabrielle,Zacks,Ann Arbor,MI,,University of Michigan-Ann Arbor
 3,523937,Mikaela,Toloday,Indianapolis,IN,,Marian University
 4,524789,Madeline,Goodson,Ann Arbor,MI,,University of Michigan-Ann Arbor
@@ -201,7 +201,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,526283,Grace,Couture,Columbus,OH,,Ohio State University
 7,0,Lainie,Wright,,,,Purdue University
 8,520859,Stephanie,Alcala,Hacienda Heights,CA,,University of Michigan-Ann Arbor
-9,525838,Theresa,Smart,South Bend,IN,,University of Notre Dame
+9,525838,Theresa,Smart,Peoria,IL,,University of Notre Dame
 10,524791,Caroline,Lakeman,Ann Arbor,MI,,University of Michigan-Ann Arbor
 11,524704,Alexandra,Lindstrom,St. Louis,MO,,Washington University in St Louis
 12,302230,Valerie,McGoldrick,Deephaven,MN,,University of Wisconsin-Platteville

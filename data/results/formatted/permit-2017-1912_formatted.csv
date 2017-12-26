@@ -11,14 +11,14 @@ Place,License #,First,Last,City,State,Time,Team
 7,532129,Grey,Jordan,Gulfport,MS,,
 8,501861,Madison,Felker,Madisonville,LA,,Nth Degree Racing LLC
 9,530203,Layne,Presley,Clinton,MS,,The Bike Crossing
-10,530206,Landen,Brookshire,Clinton,MS,,
+10,545455,Landen,Brookshire,Clinton,MS,,
 11,530262,Lawson,Presley,Clinton,MS,,
 12,530961,Madelyn,MacGown,Madison,MS,,Nunchuck Bunnies
 
 08/12/2017 Criterium Men Cat 1/2/3/4/5 40+ Masters
 Place,License #,First,Last,City,State,Time,Team
 1,347118,Bronson,Breaux,Saint Martinville ,LA,,Acadiana Bicycle Company Racing
-2,309874,Kenneth,Poole,Hattiesburg ,MS,,CSpire Fiber Cycling
+2,309874,Kenneth,Poole,Hattiesburg,MS,,CSpire Fiber Cycling
 3,77897,Kevin,Landry,Youngsville,LA,,Acadiana Bicycle Company Racing
 4,41597,Frank,Moak,Brookhaven,MS,,CSpire Fiber Cycling
 5,475181,Steven,Wolfe,Winnfield,LA,,Acadiana Bicycle Company Racing
@@ -38,7 +38,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,378825,Lance,Abshire,Baton Rouge,LA,,Team LaS'port
 2,404765,Patton,Sims,Sterlington,LA,,Palmer/CSpire Fiber Cycling
 3,355844,Jaden,Kifer,New Orleans,LA,,Team LaS'port
-4,309874,Kenneth,Poole,Hattiesburg ,MS,,CSpire Fiber Cycling
+4,309874,Kenneth,Poole,Hattiesburg,MS,,CSpire Fiber Cycling
 5,77897,Kevin,Landry,Youngsville,LA,,Acadiana Bicycle Racing
 6,41597,Frank,Moak,Brookhaven,MS,,CSpire Fiber Cycling
 7,275075,Benjamin,Grier,Grove City,OH,,Paradise Garage Racing

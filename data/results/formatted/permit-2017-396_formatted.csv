@@ -42,12 +42,12 @@ Place,License #,First,Last,City,State,Time,Team
 4,242234,Julie,Funk,Topeka,KS,,GP Velotek
 5,367894,Melissa,Gomes,Florissant,MO,,Quantum Solutions Intelligentsia
 6,392024,Susana,Calderon,Decatur,IL,,Balanced: Bike Fitting & Coaching Cycling Team
-7,424446,Renee,Ehrlich,Florissant,MO,,Balanced: Bike Fitting & Coaching Cycling Team
+7,424446,Renee,Ehrlich,St. Paul,MO,,Balanced: Bike Fitting & Coaching Cycling Team
 8,347376,Christy,Moninger,Saint Louis,MO,,Pastaria - Big Shark Racing Team
 
 08/06/2017 Criterium Mixed Pro/Cat 1/2/3/4 Masters 40+
 Place,License #,First,Last,City,State,Time,Team
-1,482205,Dennis,Lilly,Saint Louis,MO,,
+1,482205,Dennis,Lilly,St Louis,MO,,
 
 08/06/2017 Criterium Mixed Pro/Cat 1/2
 Place,License #,First,Last,City,State,Time,Team
@@ -59,7 +59,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,377930,Nathaniel,Schoonover,Wentzville,MO,,Quantum Solutions Intelligentsia
 7,199884,Justin,Maciekowicz,Saint Louis,MO,,Korte Hammer Down Racing
 8,271607,B.J.,Keane,Defiance,MO,,Pastaria - Big Shark Racing
-9,307737,Evan,Lardinois,St. Charles ,MO,,Korte Hammer Down Racing
+9,307737,Evan,Lardinois,St. Charles,MO,,Korte Hammer Down Racing
 10,255040,Kyle,Cress,Hillsboro,IL,,Korte Hammer Down Racing
 11,428327,Zachary,Scharnhorst,Quincy,IL,,Momentum Racing LLC - MO
 12,423859,mark,hitzhusen,Saint Louis,MO,,Momentum Racing LLC - MO
@@ -95,7 +95,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,503150,patrick,finley,St Peters,MO,,
 17,468937,Tyler,Cheslik,Harrisonville,MO,,Bicycle Shack Racing
 18,260282,Benjamin,Bockting,Fayette,MO,,Walt's Bike Shop/Logboat Brewing Co.
-19,526443,Jordan,Lambert,Lees Summit,MO,,Bicycle Shack Racing
+19,526443,Jordan,Lambert,Lee's Summit,MO,,Bicycle Shack Racing
 20,498570,Kyle,Raymer,Jefferson City,MO,,
 21,516231,Jack,Bourbonnais,St. Louis,MO,,
 22,516562,Tyler,Batton,Poplar Bluff,MO,,Country Cycles Cycling Club
@@ -121,7 +121,7 @@ Place,License #,First,Last,City,State,Time,Team
 DNF,494829,Jose,Madero,Saint Louis,MO,,Washington University in St. Louis
 DNF,112498,Cale,McAninch,Ozark,MO,,Kuat Trek P/B A&B Cycle
 DNF,4563,Brian,Bradley,Blue Springs,MO,,Kuat Trek P/B A&B Cycle
-DNF,103984,Ben,Beger,Ofallon,MO,,Momentum Racing LLC - MO
+DNF,103984,Ben,Beger,O Fallon,MO,,Momentum Racing LLC - MO
 
 08/06/2017 Criterium Mixed Cat 1/2/3/4 Masters 40+
 Place,License #,First,Last,City,State,Time,Team
@@ -129,7 +129,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,4563,Brian,Bradley,Blue Springs,MO,,Kuat Trek P/B A&B Cycle
 3,318648,keith,guilford,Edwardsville,IL,,The Cyclery Racing Team
 4,173579,T David,Cummings,St Louis,MO,,Gateway Cycling Club
-5,103984,Ben,Beger,Ofallon,MO,,Momentum Racing LLC - MO
+5,103984,Ben,Beger,O Fallon,MO,,Momentum Racing LLC - MO
 6,46244,Scott,Moninger,St Louis,MO,,Pastaria - Big Shark Racing Team
 7,25123,Craig,Morris,Raymore,MO,,Bicycle Shack Racing
 8,182683,Scott,Shaw,Edwardsville,IL,,The Cyclery Racing Team
@@ -160,7 +160,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,353032,Edward,Kim,Columbia,MO,,Big Tree Cycling
 7,97351,Brian,Thieme,Saint Charles,MO,,Maplewood Bicycle St. Louis
 8,246148,Chris,Hershey,Kansas City,MO,,Cycle City Racing
-9,503760,Mitch,Reidt,Clayton,MO,,
+9,503760,Mitch,Reidt,Denver,CO,,
 10,440912,Samuel,Meullenet,Fayetteville,AR,,Breakaway Cycling Club - NWA
 11,221970,Aaron,Sims,Kansas City,MO,,Cycle City Racing
 12,275021,K Erik,Seaver,St. Louis,MO,,The Cannonball-Hub Racing Team

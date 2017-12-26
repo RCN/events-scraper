@@ -78,7 +78,7 @@ DNS,68448,Robert,VOGT,Salem,OH,,Stark Velo
 Place,License #,First,Last,City,State,Time,Team
 1,404266,Shequaya,BAILEY,Pittsburgh,PA,0:44:25,Conemaugh Women’s Racing
 2,466135,Megan,SYBELDON,Pittsburgh,PA,0:44:26,Conemaugh Women’s Racing
-3,466552,Colleen,GRYGIER,Gibsonia,PA,0:45:10,Conemaugh Women’s Racing
+3,466552,Colleen,GRYGIER,Wexford,PA,0:45:10,Conemaugh Women’s Racing
 4,496829,Kelly,COLLIER,Pittsburgh,PA,0:45:24,La Prima Espresso Co. Racing
 5,456906,Elise,ROWE,Pittsburgh,PA,0:44:33,La Prima Espresso Co. Racing
 DNS,339116,Daniela,MEHECH,Cleveland Heights,OH,,bike ohio
@@ -102,7 +102,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,401577,Steven,MONGIELO,Buffalo,NY,1:01:36,Buffalo Bicycling Club Inc.
 8,412373,David,GALATI,Pittsburgh,PA,1:01:36,La Prima Espresso Co. Racing
 9,488789,Caleb,PARNELL,Hollidaysburg,PA,1:01:37,CS Velo
-10,514785,Christopher,Peltzer,Johnstown,PA,1:01:37,La Prima Espresso Co. Racing
+10,514785,Christopher,Peltzer,Indiana,PA,1:01:37,La Prima Espresso Co. Racing
 11,275435,Corey,KNOWLES,Hamburg,NY,1:01:38,Buffalo Cycling Team
 12,312772,Caleb,Smith,Cheswick,PA,1:01:38,La Prima Espresso Co. Racing
 13,339070,Spencer,INGELS,Morgantown,WV,1:01:41,
@@ -137,7 +137,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,275155,Glenn,Ford,Sewickley,PA,0:30:15,n+1 Cycling
 11,459239,Christopher,BUTOR,Canonsburg,PA,0:30:15,Top Gear Racing
 12,339650,Peter,GREWAR,Cranberry Twp,PA,0:30:16,n+1 Cycling
-13,57476,Alan,Baker,Evans City,PA,0:30:16,Allegheny Cycling Association
+13,526585,Alan,Baker,Saxonburg,PA,0:30:16,Allegheny Cycling Association
 14,448668,Raymond,ZILLIOX,Buffalo,NY,0:30:17,Buffalo Bicycling Club Inc.
 15,342734,Lawrence,Smith,Twinsburg,OH,0:30:20,Summit Freewheelers
 16,129026,Jason,CONN,Pittsburgh,PA,0:30:54,NuGo Racing
@@ -219,11 +219,11 @@ Place,License #,First,Last,City,State,Time,Team
 5,497050,Brian,KLEIJNJANS,Moon Township,PA,0:29:26,
 6,504171,Mitchell,REICHERT,Erie,PA,0:30:01,Pennsylvania Cycling Association
 7,534752,Stowe,HAMMARBERG,Pittsburgh,PA,0:30:08,
-8,529494,Michael,MARTYS,Pittsburgh,PA,0:31:08,
+8,529494,Michael,MARTYS,Murrysville,PA,0:31:08,
 9,0,Steve,SCHAFFER,,,0:29:04,
 10,367250,Daniel,SCHUMACHER,Easley,SC,0:30:54,US Military Endurance Sports
 11,438578,Keith,CUMPSTON,Pittsburgh,PA,0:30:58,Aero Tech Designs Factory Team
-12,512550,Joshua,BECKER,Wheeling ,WV,0:31:42,
+12,512550,Joshua,BECKER,Wheeling,WV,0:31:42,
 13,473572,Rich,SCHUTTE,Mars,PA,0:31:43,
 14,484711,Timothy,HAVRANEK,New Castle,PA,0:30:13,
 DNS,530112,Joseph,SCHNEIDER,Pittsburgh,PA,,
@@ -232,7 +232,7 @@ DNS,530112,Joseph,SCHNEIDER,Pittsburgh,PA,,
 Place,License #,First,Last,City,State,Time,Team
 1,310691,Kennedy,ADAMS,Stow,OH,0:45:28,Summit Freewheelers
 2,206620,Samantha,BRODE,Akron,OH,0:45:31,Freddie Fu Cycling Team
-3,466552,Colleen,Grygier,Gibsonia,PA,0:45:40,Conemaugh Women’s Racing
+3,466552,Colleen,Grygier,Wexford,PA,0:45:40,Conemaugh Women’s Racing
 4,496829,Kelly,Collier,Pittsburgh,PA,0:46:29,La Prima Espresso Co. Racing
 5,339116,Daniela,MEHECH,Cleveland Heights,OH,0:46:29,bike ohio
 6,401997,Melissa,HILLER,Pittsburgh,PA,0:46:33,Conemaugh Women’s Racing

@@ -34,14 +34,14 @@ DNF,389356,Mark,McNees,Tallahassee,FL,0:29:16,RedEye Velo
 Place,License #,First,Last,City,State,Time,Team
 1,117424,Romero,Gill,Jacksonville,FL,0:41:20,VeloBrew Cycling Club
 2,305247,Scott,Lameier,Valrico,FL,0:41:20,West Coast Cycling
-3,433485,Richard,Benson,Port Saint Lucie,FL,0:41:22,Treasure Coast Racing
+3,433485,Richard,Benson,Fort Pierce,FL,0:41:22,Treasure Coast Racing
 4,297191,Omelio,Rufin,Miami,FL,0:41:22,Pro Cycling Miami
 5,338264,Tom,Redpath,Arlington,VA,0:41:22,US Military Endurance Sports
 
 05/27/2017 Criterium Men Cat 1/2/3 Master 40+
 Place,License #,First,Last,City,State,Time,Team
 1,439073,Kurt,Jambretz,Palm Beach,FL,1:07:27,Cyberdyne Systems
-2,58611,Austin,Spencer,Colorado Springs ,CO,1:07:36,COS Racing
+2,58611,Austin,Spencer,Colorado Springs,CO,1:07:36,COS Racing
 3,53461,Tim,Molyneaux,Clarkesville,GA,1:07:50,Atlantic Shores Velo
 
 05/27/2017 Criterium Men Cat 1/2/3 Master 50+
@@ -65,7 +65,7 @@ DNF,501713,Daniel,Ortiz,Jacksonville,FL,0:16:38,
 
 05/27/2017 Criterium Men Cat 4
 Place,License #,First,Last,City,State,Time,Team
-1,448396,Rudy,Szymanski,Gowanda,NY,0:58:34,Cycle Sport Concepts Tampa
+1,448396,Rudy,Szymanski,Tampa,FL,0:58:34,Cycle Sport Concepts Tampa
 2,467775,Cruz,Mond,Panama City,FL,0:58:34,Team Loblolly Cycling
 3,458591,ROBERT,MARTELL,Homestead,FL,0:58:43,
 3,413913,Bryan,Harrington,Navarre,FL,0:58:34,West Florida Wheelmen Inc.
@@ -96,7 +96,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/27/2017 Criterium Women Pro/Cat 1/2
 Place,License #,First,Last,City,State,Time,Team
-1,495140,Carly,George,Dunedin,FL,0:34:03,Stradalli/Wizard Racing Development Team P/B Wizard Coaching Services
+1,495140,Carly,George,Tampa,FL,0:34:03,Stradalli/Wizard Racing Development Team P/B Wizard Coaching Services
 2,360214,Heidi,Thompson,Tallahassee,FL,0:33:43,RedEye Velo
 
 05/27/2017 Criterium Women Cat 4
@@ -140,7 +140,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,307308,Adam,Faine,St Augustine ,FL,2:18:28,US Military Endurance Sports
 4,480174,Jeff,Mishtawy,Daytona Beach,FL,2:18:28,JC's Bike Shop's Blue Hammers
 5,270854,Kelly,Edwards,Valdosta,GA,2:18:29,Outspokin' Augusta
-6,17748,Stephen,Jenkins,Knoxville,TN,2:18:29,Micro Metals/Bike Zoo
+6,544037,stephen,jenkins,Jacksonville Beach,FL,2:18:29,
 7,25353,Sean,Mulhall,Ponte Vedra Beach,FL,2:18:29,VeloBrew Cycling Club
 8,403026,trevor,widick,Malabar,FL,2:18:29,Infinity Bike Shop
 9,459538,Erick,Hauser,Tallahasseet,FL,2:18:30,
@@ -152,7 +152,7 @@ DNF,389356,Mark,McNees,Tallahassee,FL,1:31:38,RedEye Velo
 
 05/27/2017 Road Race Men Cat 4/5 Master 50+
 Place,License #,First,Last,City,State,Time,Team
-1,433485,Richard,Benson,Port Saint Lucie,FL,2:18:29,Treasure Coast Racing
+1,433485,Richard,Benson,Fort Pierce,FL,2:18:29,Treasure Coast Racing
 2,297191,Omelio,Rufin,Miami,FL,2:18:29,Pro Cycling Miami
 3,326312,Jim,Leland,Jacksonville Beach,FL,2:18:29,
 4,305247,Scott,Lameier,Valrico,FL,2:18:30,West Coast Cycling
@@ -223,7 +223,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/27/2017 Road Race Women Pro/Cat 1/2
 Place,License #,First,Last,City,State,Time,Team
-1,495140,Carly,George,Dunedin,FL,1:35:50,Stradalli/Wizard Racing Development Team P/B Wizard Coaching Services
+1,495140,Carly,George,Tampa,FL,1:35:50,Stradalli/Wizard Racing Development Team P/B Wizard Coaching Services
 2,360214,Heidi,Thompson,Tallahassee,FL,1:35:51,RedEye Velo
 
 05/27/2017 Road Race Women Cat 4
@@ -263,7 +263,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,270854,Kelly,Edwards,Valdosta,GA,,Outspokin' Augusta
 2,480174,Jeff,Mishtawy,Daytona Beach,FL,,JC's Bike Shop's Blue Hammers
-3,17748,Stephen,Jenkins,Knoxville,TN,,Micro Metals/Bike Zoo
+3,544037,stephen,jenkins,Jacksonville Beach,FL,,
 4,292123,Michel,Bermudez,Homosassa,FL,,West Coast Cycling
 5,519539,Rob,Reynolds,Hahira,GA,,PCP Race Team
 6,25353,Sean,Mulhall,Ponte Vedra Beach,FL,,VeloBrew Cycling Club
@@ -273,7 +273,7 @@ Place,License #,First,Last,City,State,Time,Team
 05/27/2017 Time Trial Men Cat 4/5 Master 50+
 Place,License #,First,Last,City,State,Time,Team
 1,338264,Tom,Redpath,Arlington,VA,,US Military Endurance Sports
-2,433485,Richard,Benson,Port Saint Lucie,FL,,Treasure Coast Racing
+2,433485,Richard,Benson,Fort Pierce,FL,,Treasure Coast Racing
 3,297191,Omelio,Rufin,Miami,FL,,Pro Cycling Miami
 4,305247,Scott,Lameier,Valrico,FL,,West Coast Cycling
 
@@ -333,7 +333,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/27/2017 Time Trial Women Pro/Cat 1/2
 Place,License #,First,Last,City,State,Time,Team
-1,495140,Carly,George,Dunedin,FL,,Stradalli/Wizard Racing Development Team P/B Wizard Coaching Services
+1,495140,Carly,George,Tampa,FL,,Stradalli/Wizard Racing Development Team P/B Wizard Coaching Services
 2,360214,Heidi,Thompson,Tallahassee,FL,,RedEye Velo
 
 05/27/2017 Time Trial Women Cat 4

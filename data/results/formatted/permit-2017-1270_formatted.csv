@@ -20,7 +20,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,47922,Steve,Alschuler,Albuquerque,NM,2:06:35,
 17,286513,Anthony,Pachelli,Albuquerque,NM,2:14:08,Sport Systems 505 Cycling
 18,69704,Gordon,Sargent,Tijeras,NM,2:17:29,
-19,355982,Mike,Hunter,Edgewood,NM,2:19:14,Nero Veloce PB MTC
+19,355982,Mike,Hunter,Albuquerque,NM,2:19:14,Nero Veloce PB MTC
 20,173387,Warren,Hire,Corrales,NM,2:23:40,Nob Hill
 21,260547,Cal,ridgeway,Albuquerque,NM,2:41:28,RGRT
 DNS,260271,Tony,Bettini,Albuquerque,NM,0:00:00,
@@ -49,7 +49,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,507642,Javier,Valles,El Paso,TX,2:12:40,
 21,275592,Ian,Oliver,Albuquerque,NM,2:12:42,unattached
 22,0,Douglas,Chinn,,,2:19:23,
-23,314830,Donald,Mercer,Albuquerque ,NM,2:19:46,
+23,314830,Donald,Mercer,Albuquerque,NM,2:19:46,
 24,435253,Arturo,Bernal,El Paso,TX,2:21:37,Crazy Cat Cyclery
 25,0,Jesus,Bencomo,,,2:26:03,unattached
 26,487651,Noah,Vigil,Albuquerque,NM,2:26:07,TBC/No Tubes
@@ -88,7 +88,7 @@ DNF,345260,Noah,Bankhurst,Albuquerque,NM,0:00:00,Velo Veloce
 
 06/11/2017 Road Race Men Men 1/2/3
 Place,License #,First,Last,City,State,Time,Team
-1,294241,fortunato,ferrara,Albuquerque,NM,2:55:07,RA Racing Apparel / BMC
+1,294241,fortunato,ferrara,Santa Fe,NM,2:55:07,RA Racing Apparel / BMC
 2,210273,Mark,Aasmundstad,Albuquerque,NM,3:00:26,
 3,277993,Michael,Palmer,Las Vegas,NM,3:06:33,RA Racing Apparel / Mellow Velo / BMC
 4,80429,Kevin,Quattlebaum,High Rolls,NM,3:09:44,Zia Velo Cycling
@@ -97,7 +97,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,262008,Joseph,Garcia,Kyle,TX,3:13:19,ZiaVelo Cycling
 8,271620,wristen,paschich,Albuquerque,NM,3:13:26,NERO veloce p/b Michael Thomas Coffee
 9,53480,Randall,Bradford,Albuquerque,NM,3:15:29,Echelon Racing of New Mexico
-10,507753,Miguel,Escobar,El Paso,TX,3:17:09,
+10,527162,Miguel,Escobar,,,3:17:09,
 11,45355,John,Frey,Albuquerque,NM,3:20:55,SANDIA CYCLES---Squadra Della Pista
 12,347850,Mark,Tremlett,Albuquerque,NM,3:21:02,GS Mimmo
 13,330938,Joey,Bacala,Albuquerque,NM,3:25:06,4D Racing

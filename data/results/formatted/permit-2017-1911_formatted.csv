@@ -46,7 +46,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,501691,Ken,Daugherty,Seattle,WA,1:16:32,Hedrick
 19,381507,Nick,Johnson,Puyallup,WA,1:16:32,Monton-TM
 20,467446,Aaron,Reinke,Seattle,WA,1:16:32,Seattle Cancer Care Alliance Cy
-21,439012,Jeremy,Cucco,Federal Way,WA,1:16:32,Seattle Cancer Care Alliance Cy
+21,439012,Jeremy,Cucco,University Place,WA,1:16:32,Seattle Cancer Care Alliance Cy
 22,362279,Daniel,Hubbell,Seattle,WA,1:16:37,Taco Time Northwest Cycling Tea
 23,459299,Peter,Farr,Bellevue,WA,1:16:41,VELOBODY / Bikesale
 24,457517,Matthew,Radcliff,Kirkland,WA,1:16:43,Audi
@@ -72,7 +72,7 @@ DNF,12989,Reeve,Geary,Seattle,WA,DNF,Cal Cycle
 Place,License #,First,Last,City,State,Time,Team
 1,356944,Dave,Preston,Fall City,WA,1:22:13,Monton-TM
 2,523051,Lance,French,Seattle,WA,1:22:13,Seattle Cancer Care Alliance Cy
-3,457077,Matt,Dente,Seattle,WA,1:22:13,Fell Swoop
+3,457077,Matt,Dente,Bainbridge Island,WA,1:22:13,Fell Swoop
 4,527197,Pieter,Mulier,Bainbridge Island,WA,1:22:13,Classic Cycle
 5,425104,Colin,Corbin,Olympia,WA,1:22:13,Audi
 6,480113,Michael,Swale,Tacoma,WA,1:22:13,Tacoma Bike Racing Team
@@ -92,7 +92,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,287159,Chad,Olson,Redmond,WA,1:22:40,Taco Time Northwest Cycling Tea
 21,412266,Marty,Lewis,Seattle,WA,1:23:10,Unattached
 22,493465,Bobby,Humphrey,Tacoma,WA,1:23:17,JoeFroyo Racing p/b Old Town Bi
-23,305711,Christopher,Soelling,Kirkland,WA,1:23:35,Taco Time Northwest Cycling Tea
+23,305711,Christopher,Soelling,Redmond,WA,1:23:35,Taco Time Northwest Cycling Tea
 24,520267,Matthew,Heist,Spokane,WA,1:24:59,Unattached
 25,115811,Timothy,Culbertson,Issaquah,WA,1:25:49,Belgian Boys Club
 26,522529,Heikki,Heinaro,Redmond,WA,1:28:02,Taco Time Northwest Cycling Tea
@@ -112,10 +112,10 @@ Place,License #,First,Last,City,State,Time,Team
 7,382085,Ryan,Trimble,Snohomish,WA,1:44:17,Metier Racing & Coffee
 8,426445,Devon,Wright,Port Orchard,WA,1:44:17,Monton-TM
 9,351580,Lewis,Whiley,Olympia,WA,1:44:17,Hedrick
-10,198253,Tavish,Taylor,Sequim,WA,1:44:20,Audi
+10,198253,Tavish,Taylor,Wenatchee,WA,1:44:20,Audi
 11,220071,David,Chipchase,Dupont,WA,1:44:24,Seattle Cancer Care Alliance Cy
 12,316276,Andrew,Austin,University Place,WA,1:44:26,Hedrick Racing
-13,472368,Scott,Ofarrell,Tacoma,WA,1:44:26,Metier Racing & Coffee
+13,472368,Scott,Ofarrell,Seattle,WA,1:44:26,Metier Racing & Coffee
 14,11775,John,Flack,Olympia,WA,1:44:29,Olympia Orthopaedic Associates
 15,336434,Martin,Turek,Issaquah,WA,1:44:29,Monton-TM
 16,288845,Bradlee,Haley,Tacoma,WA,1:44:29,Seattle Cancer Care Alliance Cy
@@ -124,7 +124,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,393649,Sun,Dang,Bellevue,WA,1:44:34,Audi
 20,377993,Michael,Baldus,Seattle,WA,1:44:34,Metier Racing & Coffee
 21,333350,Bill,Booth,Seattle,WA,1:44:40,Monton-TM
-22,306854,Christopher,Carter,Bellingham,WA,1:44:43,Este Racing
+22,306854,Christopher,Carter,Fountain Hills,AZ,1:44:43,Este Racing
 23,284741,Brian,Hitchcock,Seattle,WA,1:44:43,Metier Racing & Coffee
 24,82975,Pete,Groblewski,Seattle,WA,1:44:52,Keller Rohrback Cycling
 25,311819,Eric,Cockrell,Seattle,WA,1:45:10,Metier Racing & Coffee
@@ -164,7 +164,7 @@ Place,License #,First,Last,City,State,Time,Team
 24,54763,Roger,Honz,Seattle,WA,1:36:25,Metier Racing & Coffee
 25,293248,Taylor,Tongate,Corona,CA,1:36:30,Team Velosport Junior & U23 Dev
 26,340042,Aaron,Wolf,Seattle,WA,1:36:37,Apex Racing
-27,306785,David,Mullen,Eatonville,WA,2:00:00,Hagens Berman - EY Society
+27,306785,David,Mullen,Orting,WA,2:00:00,Hagens Berman - EY Society
 DNF,144794,Sylvio,Bravetti,Brier,WA,DNF,Audi
 DNF,393268,Alec,Osenbach,Seattle,WA,DNF,10 Speed Hero
 DNF,497835,Justin,Seely,Seattle,WA,DNF,Hedrick Racing
@@ -179,7 +179,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 06/24/2017 Circuit Race Men Junior 9-12
 Place,License #,First,Last,City,State,Time,Team
-1,439021,William,Cucco,Federal Way,WA,0:36:11,Seattle Cancer Care Alliance Cycling Team
+1,439021,William,Cucco,University Place,WA,0:36:11,Seattle Cancer Care Alliance Cycling Team
 2,388674,Parker,Anderson,Olympia,WA,0:46:20,Rad Racing NW
 
 06/24/2017 Circuit Race Women Cat 4/5 Senior
@@ -203,5 +203,5 @@ Place,License #,First,Last,City,State,Time,Team
 7,324610,Nicole,Weiss,Seattle,WA,1:33:54,Team Thrive p/b Kaiser Permanen
 8,396740,Olga,Magun,Mercer Island,WA,1:33:54,Team Thrive p/b Kaiser Permanen
 9,392792,Emily,Alexander,Seattle,WA,1:33:59,Seattle Cancer Care Alliance Cy
-10,309733,Heidi,Wood,Seattle,WA,1:34:01,Garage Racing
+10,309733,Heidi,Wood,Hood River,OR,1:34:01,Garage Racing
 11,413050,Anne,Bertucio,Normandy Park,WA,1:34:03,Seattle Cancer Care Alliance Cy

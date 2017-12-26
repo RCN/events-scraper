@@ -5,13 +5,13 @@ Place,License #,First,Last,City,State,Time,Team
 1,320000,Derek,COTE,Burlington,CT,,
 2,0,JOSHUA,ANDERSON,,,,
 3,251580,A.J.,MORAN,Jamaica Plain,MA,,
-4,309018,Keith,MULLALY,Belmont,NC,,
+4,309018,Keith,MULLALY,Wethersfield,CT,,
 5,477589,Michael,LANDRY,New Haven,CT,,
 6,413052,BARIS,AYTAN,Brooklyn,NY,,
 7,274271,Chris,GOGUEN,Franklin,MA,,
 8,231092,Will,GLEASON,Norwalk,CT,,
 9,301686,SAM,ROSENHOLTZ,Brookline,MA,,
-10,231409,LUCAS,FORTINI,Fairfield,CT,,
+10,231409,LUCAS,FORTINI,Arlington,MA,,
 11,273689,Cole,ARCHAMBAULT,Northampton ,MA,,
 12,214503,David,MAYNARD,Middletown,CT,,
 13,247838,THOMAS,BARNETT,Freehold,NJ,,
@@ -31,7 +31,7 @@ Place,License #,First,Last,City,State,Time,Team
 27,83498,JEAN,CAHILL,Burlington,CT,,
 28,403129,GENNARO,AMENO,North Reading,MA,,
 29,290750,Kevin,GOGUEN,Hopedale,MA,,
-30,485904,Ken,GREIM,Cambridge,MA,,
+30,485904,Ken,GREIM,Belmont,MA,,
 31,60566,Wade,SUMMERS,Southington,CT,,
 32,433612,John,GUIZA,Fairfield ,CT,,
 33,107000,Ernest,TAUTKUS,Uncasville,CT,,
@@ -44,7 +44,7 @@ Place,License #,First,Last,City,State,Time,Team
 06/04/2017 Criterium Men CAT 4/5
 Place,License #,First,Last,City,State,Time,Team
 1,0,NICHOLAS,HUBER,,,,
-2,528848,Nortton pedro,SANCHEZ MORALES,North Proviidence,RI,,
+2,528848,Nortton pedro,SANCHEZ MORALES,North Providence,RI,,
 3,434951,Karel,CITROEN,South Glastonbury,CT,,
 4,343300,Sean,GRIBBIN,Dover,NH,,
 5,523792,alex,SCHERZER,Cambridge,MA,,
@@ -52,7 +52,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,512911,MIKE,WILLIAMS,West Hartford,CT,,
 8,0,Evan,SHERLING,,,,
 9,321510,Patrick,COCHRAN,Beverly,MA,,
-10,311452,Alec,CUNNINGHAM,Cheshire,CT,,
+10,311452,Alec,CUNNINGHAM,Cape Neddick,ME,,
 11,530070,Frank,LEVICK,Tolland,CT,,
 12,520780,Roderick,ESKEW,Trumbull,CT,,
 13,497930,Stephen,CAMERON,Burlington,MA,,
@@ -104,7 +104,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,343300,Sean,GRIBBIN,Dover,NH,,
 18,497978,Melanie,RYALS,Auburndale,MA,,
 19,398045,john,KASBOHM,Dover,NH,,
-20,381192,Zachary,FLYNN,West Hartford ,CT,,
+20,381192,Zachary,FLYNN,West Hartford,CT,,
 21,37109,Sean,WALSH,Killingworth,CT,,
 22,503857,Andrew,PAGE,North Yarmouth,ME,,
 23,422632,Eric,Kirouac,Williamsburg,MA,,
@@ -119,8 +119,8 @@ DNF,466214,Brandon,MARSHALL,Boston,MA,,
 
 06/04/2017 Criterium Men CAT 3
 Place,License #,First,Last,City,State,Time,Team
-1,311452,Alec,CUNNINGHAM,Cheshire,CT,,
-2,485904,Ken,GREIM,Cambridge,MA,,
+1,311452,Alec,CUNNINGHAM,Cape Neddick,ME,,
+2,485904,Ken,GREIM,Belmont,MA,,
 3,459060,AARON,BLACK,W Hartford,CT,,
 4,305301,Ryan,LAPERLE,Pomfret,CT,,
 5,293161,Andrew,GOODALE,Maynard,MA,,
@@ -128,7 +128,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,0,BEN,BRUCE,,,,
 8,368862,Maxwell,NAGEL,Bedford,NH,,
 9,438505,KYLE,CROWELL,Prospect,CT,,
-10,271529,Marshall,JOHNSON,North Stonington ,CT,,
+10,271529,Marshall,JOHNSON,North Stonington,CT,,
 11,330868,Nicholas,WILLETTE,Vernon,CT,,
 12,337680,MIKE,HYMAN,Norwalk,CT,,
 13,412750,MATTHEW,AMPLEMAN,St. Louis,MO,,
@@ -143,6 +143,13 @@ Place,License #,First,Last,City,State,Time,Team
 06/04/2017 Criterium Men JR 10-14
 Place,License #,First,Last,City,State,Time,Team
 1,486786,AIDEN,SIMMONS,Brunswick,ME,,
+
+06/04/2017 Criterium Men Jr 15-18
+Place,License #,First,Last,City,State,Time,Team
+1,344882,Wyatt,COTE,Burlington,CT,,
+2,337380,KYLE,MULLALY,Wethersfield,CT,,
+3,391679,Johnny,MEYERLE,Monroe,CT,,
+4,534647,Christopher,MCDONNELL,Old Greenwich,CT,,
 
 06/04/2017 Criterium Men MASTER 30-99
 Place,License #,First,Last,City,State,Time,Team
@@ -184,7 +191,7 @@ Place,License #,First,Last,City,State,Time,Team
 24,38789,Kyle,WOLFE,Brattleboro,VT,,
 25,173890,CHRIS,CROWELL,Prospect,CT,,
 26,266348,TIM,MALTON,Guilford,CT,,
-27,103281,Massimiliano,ACCAPUTO,Rocky Hill ,CT,,
+27,103281,Massimiliano,ACCAPUTO,South Glastonbury,CT,,
 28,278135,Kyle,HERLIHY,Ridgefield,CT,,
 DNF,51860,MICHAEL,NORTON,Monson,MA,,
 
@@ -247,10 +254,6 @@ Place,License #,First,Last,City,State,Time,Team
 7,485984,Nathaniel,SUMMERS,Southington,CT,,
 8,532456,Tom,BROWN,Natick,MA,,
 9,0,Evan,SHERLING,,,,
-DNF,344882,Wyatt,COTE,Burlington,CT,,
-DNF,0,KYLE,MULLALY,,,,
-DNF,391679,Johnny,MEYERLE,Monroe,CT,,
-DNF,0,Christopher,MCDONNELL,,,,
 
 06/04/2017 Criterium Women PRO 1/2/3
 Place,License #,First,Last,City,State,Time,Team

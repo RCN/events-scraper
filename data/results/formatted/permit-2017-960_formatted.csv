@@ -16,11 +16,11 @@ DNS,525614,Connor,Juban,Denham Springs,LA,,Louisiana State University
 04/16/2017 Criterium Men C
 Place,License #,First,Last,City,State,Time,Team
 1,525584,Chris,Alexis Jr.,Wichita Falls,TX,,Midwestern State University
-2,513333,Kanten,Nichols,Longview,TE,,University of North Texas
+2,513333,Kanten,Nichols,Denton,TX,,University of North Texas
 3,522475,Jose,Magana,Austin,TX,,The University of Texas at Austin
 4,465989,Seth,Markovich,Denton,TX,,University of North Texas
 5,487076,Carlos,Moreno,Houston,TX,,Rice University
-6,524417,Jerry,Cornell,New Orleans,LA,,Tulane University of Louisiana
+6,524417,Jerry,Cornell,North Potomac,MD,,Tulane University of Louisiana
 7,514693,Patrick,Breen,Findlay,OH,,Rice University
 8,518444,Bryce,Ward,North Little Rock,AR,,University of Arkansas
 9,519785,Joseph,Fryer,Austin,TX,,The University of Texas at Austin
@@ -39,7 +39,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,331166,Ben,Bradley,Plaquemine,LA,,Tulane University of Louisiana
 2,466134,Pablo,Cruz,Wichita Falls,TX,,Midwestern State University
 3,466498,Thomas,Brown,Little Rock,AR,,University of Arkansas
-4,378837,Bill,Ash,Philadelphia,PA,,Midwestern State University
+4,378837,Bill,Ash,New York ,NY,,Midwestern State University
 5,487064,Joshua,Buchel,Wichita Falls,TX,,Midwestern State University
 6,406377,Brian,Lea,Bartlesville,OK,,University of Arkansas
 7,349270,Mitchell,Sides,Magnolia,TX,,Midwestern State University
@@ -80,9 +80,9 @@ Place,License #,First,Last,City,State,Time,Team
 3,519785,Joseph,Fryer,Austin,TX,,The University of Texas at Austin
 4,465989,Seth,Markovich,Denton,TX,,University of North Texas
 4,487076,Carlos,Moreno,Houston,TX,,Rice University
-6,513333,Kanten,Nichols,Longview,TE,,University of North Texas
+6,513333,Kanten,Nichols,Denton,TX,,University of North Texas
 6,522475,Jose,Magana,Austin,TX,,The University of Texas at Austin
-8,524417,Jerry,Cornell,New Orleans,LA,,Tulane University of Louisiana
+8,524417,Jerry,Cornell,North Potomac,MD,,Tulane University of Louisiana
 9,518444,Bryce,Ward,North Little Rock,AR,,University of Arkansas
 10,459092,Joseph,Wertz,Breaux Bridge,LA,,University of Louisiana-Lafayette
 
@@ -99,7 +99,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,331166,Ben,Bradley,Plaquemine,LA,,Tulane University of Louisiana
 2,466134,Pablo,Cruz,Wichita Falls,TX,,Midwestern State University
 3,466498,Thomas,Brown,Little Rock,AR,,University of Arkansas
-4,378837,Bill,Ash,Philadelphia,PA,,Midwestern State University
+4,378837,Bill,Ash,New York ,NY,,Midwestern State University
 5,354166,Benjamin,Spain,Raleigh,NC,,Tulane University of Louisiana
 6,349270,Mitchell,Sides,Magnolia,TX,,Midwestern State University
 7,406377,Brian,Lea,Bartlesville,OK,,University of Arkansas
@@ -123,7 +123,7 @@ Place,License #,First,Last,City,State,Time,Team
 04/15/2017 Individual Time Trial Men A
 Place,License #,First,Last,City,State,Time,Team
 1,331166,Ben,Bradley,Plaquemine,LA,06:23.4,Tulane University of Louisiana
-2,378837,Bill,Ash,Philadelphia,PA,06:26.1,Midwestern State University
+2,378837,Bill,Ash,New York ,NY,06:26.1,Midwestern State University
 3,466498,Thomas,Brown,Little Rock,AR,06:37.8,University of Arkansas
 4,466134,Pablo,Cruz,Wichita Falls,TX,06:46.4,Midwestern State University
 5,354166,Benjamin,Spain,Raleigh,NC,06:49.2,Tulane University of Louisiana
@@ -153,11 +153,11 @@ Place,License #,First,Last,City,State,Time,Team
 3,487076,Carlos,Moreno,Houston,TX,,Rice University
 4,525584,Chris,Alexis Jr.,Wichita Falls,TX,,Midwestern State University
 5,465989,Seth,Markovich,Denton,TX,,University of North Texas
-6,524417,Jerry,Cornell,New Orleans,LA,,Tulane University of Louisiana
+6,524417,Jerry,Cornell,North Potomac,MD,,Tulane University of Louisiana
 7,518444,Bryce,Ward,North Little Rock,AR,,University of Arkansas
 8,522475,Jose,Magana,Austin,TX,,The University of Texas at Austin
 9,459092,Joseph,Wertz,Breaux Bridge,LA,,University of Louisiana-Lafayette
-DNF,513333,Kanten,Nichols,Longview,TE,,University of North Texas
+DNF,513333,Kanten,Nichols,Denton,TX,,University of North Texas
 
 04/15/2017 Road Race Men B
 Place,License #,First,Last,City,State,Time,Team
@@ -175,7 +175,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,354166,Benjamin,Spain,Raleigh,NC,,Tulane University of Louisiana
 5,349270,Mitchell,Sides,Magnolia,TX,,Midwestern State University
 6,406377,Brian,Lea,Bartlesville,OK,,University of Arkansas
-7,378837,Bill,Ash,Philadelphia,PA,,Midwestern State University
+7,378837,Bill,Ash,New York ,NY,,Midwestern State University
 8,460877,Jonathan,Cripe,Baton Rouge,LA,,Louisiana State University
 9,496914,martial,trigeaud,Little Rock,AR,,University of Arkansas - Little Rock
 DNF,487064,Joshua,Buchel,Wichita Falls,TX,,Midwestern State University

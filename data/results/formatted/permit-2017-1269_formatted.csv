@@ -2,12 +2,12 @@ The Mississippi Gran Prix presented by C-Spire in Brookhaven MS Results
 
 05/21/2017 Circuit Race Men P/1/2/3
 Place,License #,First,Last,City,State,Time,Team
-1,374617,Chad,Conley,Cartersville,GA,1:16:36,Pharmaco-DeepSouth p/b NGCA
+1,374617,Chad,Conley,Atlanta,GA,1:16:36,Pharmaco-DeepSouth p/b NGCA
 2,345004,Daniel,Lausin,Willowick,OH,1:16:47,Palmer/CSpire Fiber Cycling
-3,301474,Sam,LeBlanc,Kenner,LA,1:16:49,4D Racing
+3,301474,Sam,LeBlanc,New Orleans,LA,1:16:49,4D Racing
 4,222021,Emile,Abraham,Atlanta,GA,1:16:49,Pharmaco-DeepSouth p/b NGCA
 5,432532,Bryan,Mutell,Raleigh ,NC,1:16:49,4D Racing
-6,504799,Peter,Foerster,,,1:16:49,
+6,504799,Peter,Foerster,Atlanta,GA,1:16:49,
 7,230433,matthew,davis,Shreveport,LA,1:16:49,Team LaS'port
 8,278514,Michael,McBrien,Milton,FL,1:16:49,Palmer Cycling
 9,10367,Hunter,East,Little Rock,AR,1:16:49,Oklahoma City Velo Club
@@ -37,7 +37,7 @@ Place,License #,First,Last,City,State,Time,Team
 33,374783,Taylor,Hanegan,Haughton,LA,1:23:02,Team LaS'port
 34,354792,Nicholas,Burton,Shreveport,LA,1:23:18,Team LaS'port
 35,238642,William,Jones,Baton Rouge,LA,1:39:22,4D Racing
-36,58176,Nathan,Rogut,Tampa,FL,1:40:22,R & M
+36,58176,Nathan,Rogut,Rock Hill,SC,1:40:22,R & M
 DNF,381675,Stanton,Pearson,Jefferson,LA,,Palmer/CSpire Fiber Cycling
 DNF,213476,Andrew,Hammond,Jackson,MS,,Palmer Cycling
 DNF,442815,Whit,Somerall,Shreveport,LA,,Team LaS'port
@@ -45,7 +45,7 @@ DNF,442815,Whit,Somerall,Shreveport,LA,,Team LaS'port
 05/21/2017 Circuit Race Men Cat 1/2/3/4/5 Masters 40+
 Place,License #,First,Last,City,State,Time,Team
 1,70876,Travis,Sherman,Pelham,AL,1:10:45,Infinity Cycling Team
-2,309874,Kenneth,Poole,Hattiesburg ,MS,1:10:45,CSpire Fiber Cycling
+2,309874,Kenneth,Poole,Hattiesburg,MS,1:10:45,CSpire Fiber Cycling
 3,95739,Donald,VanPatter,Little Rock,AR,1:10:45,Oklahoma City Velo Club
 4,258236,Trey,Pounds,Brookhaven,MS,1:10:45,CSpire Fiber Cycling
 5,41597,Frank,Moak,Brookhaven,MS,1:10:45,CSpire Fiber Cycling
@@ -111,7 +111,7 @@ Place,License #,First,Last,City,State,Time,Team
 05/21/2017 Circuit Race Women Cat 4/5
 Place,License #,First,Last,City,State,Time,Team
 1,431035,Tiffany,Landry,Hattiesburg,MS,,Nunchuck Bunnies
-2,526679,Caroline,Turner,Mobile ,AL,,
+2,526679,Caroline,Turner,Fairhope,AL,,
 3,460932,Shannon,Cook,Memphis,TN,,Marx and Bensdorf Cycling Team
 4,462012,Cindy,Clark,Oakland,TN,,Journeymen Racing Multisport
 5,488000,Ashley,Doucet Congemi,New Orleans,LA,,
@@ -137,11 +137,11 @@ Place,License #,First,Last,City,State,Time,Team
 10,222021,Emile,Abraham,Atlanta,GA,5:35:32.1,Pharmaco-DeepSouth p/b NGCA
 11,359849,Michael,Potter,Winston Salem,NC,5:36:06.7,Boone Area Cyclists
 12,199999,Will,Stoffel,Germantown,TN,5:36:20.0,Marx and Bensdorf Cycling Team
-13,504799,Peter,Foerster,,,5:36:20.5,
+13,504799,Peter,Foerster,Atlanta,GA,5:36:20.5,
 14,211847,Patrick,Casey,Park City,UT,5:36:20.7,Palmer Cycling
 15,494130,Davis,Adams,Headland,AL,5:36:35.9,Infinity Cycling Team
-16,301474,Sam,LeBlanc,Kenner,LA,5:38:59.8,4D Racing
-17,374617,Chad,Conley,Cartersville,GA,5:39:02.1,Pharmaco-DeepSouth p/b NGCA
+16,301474,Sam,LeBlanc,New Orleans,LA,5:38:59.8,4D Racing
+17,374617,Chad,Conley,Atlanta,GA,5:39:02.1,Pharmaco-DeepSouth p/b NGCA
 18,406676,Taylor,Herron,Memphis,TN,5:39:24.7,Marx and Bensdorf Cycling Team
 19,337684,Adam,Morris,Belden,MS,5:39:25.0,Palmer Cycling
 20,10367,Hunter,East,Little Rock,AR,5:39:34.0,Oklahoma City Velo Club
@@ -160,7 +160,7 @@ Place,License #,First,Last,City,State,Time,Team
 33,211145,Benjamin,Bryant,Decatur,GA,6:02:44.0,Pharmaco-DeepSouth p/b NGCA
 34,238642,William,Jones,Baton Rouge,LA,6:03:40.6,4D Racing
 35,227815,Joseph,Long,Kenner,LA,6:10:40.7,Team LaS'port
-36,58176,Nathan,Rogut,Tampa,FL,7:11:47.2,R & M
+36,58176,Nathan,Rogut,Rock Hill,SC,7:11:47.2,R & M
 DNF,95739,Donald,VanPatter,Little Rock,AR,,Oklahoma City Velo Club
 DNF,381675,Stanton,Pearson,Jefferson,LA,,Palmer/CSpire Fiber Cycling
 DNF,213476,Andrew,Hammond,Jackson,MS,,Palmer Cycling
@@ -175,14 +175,14 @@ DNF,288498,Keith,Miller,Baton Rouge,LA,,GEAUX Race
 DNF,70876,Travis,Sherman,Pelham,AL,,Infinity Cycling Team
 DNF,281156,Dustin,Drewes,Ponchatoula,LA,,4D Racing
 DNF,258236,Trey,Pounds,Brookhaven,MS,,CSpire Fiber Cycling
-DNF,309874,Kenneth,Poole,Hattiesburg ,MS,,CSpire Fiber Cycling
+DNF,309874,Kenneth,Poole,Hattiesburg,MS,,CSpire Fiber Cycling
 DNF,399650,Brock,Mason,Athens,GA,,Pharmaco-DeepSouth p/b NGCA
 DNF,423085,Jackson,Griffin,Tallahassee,FL,,RedEye Velo
 
 05/21/2017 Stage Race Men Cat 1/2/3/4/5 Masters 40+
 Place,License #,First,Last,City,State,Time,Team
 1,70876,Travis,Sherman,Pelham,AL,4:04:33.6,Infinity Cycling Team
-2,309874,Kenneth,Poole,Hattiesburg ,MS,4:04:45.3,CSpire Fiber Cycling
+2,309874,Kenneth,Poole,Hattiesburg,MS,4:04:45.3,CSpire Fiber Cycling
 3,95739,Donald,VanPatter,Little Rock,AR,4:04:58.0,Oklahoma City Velo Club
 4,41597,Frank,Moak,Brookhaven,MS,4:05:21.5,CSpire Fiber Cycling
 5,258236,Trey,Pounds,Brookhaven,MS,4:06:58.8,CSpire Fiber Cycling
@@ -249,20 +249,20 @@ Place,License #,First,Last,City,State,Time,Team
 9,503764,Tucker,Hoeniges,Brookhaven,MS,17,A-D Racing
 10,495734,Michael,MacGown,Madison,MS,15,CSpire Fiber Cycling
 11,485718,Joseph,Middleton,Gretna,LA,11,Palmer/CSpire Fiber Cycling
-12,391020,Gigi,Carter,Madison,MS,9,Nunchuck Bunnies
+12,391020,Gigi,Carter,Eastsound,WA,9,Nunchuck Bunnies
 13,494771,Timothy,Gilthorpe,New Orleans,LA,6,Urban South Racing p/b Rouler
 14,527252,Stephen,Waldrip,Memphis,TN,5,Journeymen Racing Multisport
 
 05/21/2017 Omnium Women Cat 4/5
 Place,License #,First,Last,City,State,Time,Team
 1,431035,Tiffany,Landry,Hattiesburg,MS,60,Nunchuck Bunnies
-2,526679,Caroline,Turner,Mobile ,AL,48,
+2,526679,Caroline,Turner,Fairhope,AL,48,
 3,460932,Shannon,Cook,Memphis,TN,39,Marx and Bensdorf Cycling Team
 4,462012,Cindy,Clark,Oakland,TN,31,Journeymen Racing Multisport
 5,492425,Emily,Bissett,New Orleans,LA,27,Crush Racing
 6,488000,Ashley,Doucet Congemi,New Orleans,LA,25,
 7,404673,Denise,Mills,Jackson,MS,19,Nunchuck Bunnies
-8,0,,,,,16,Nunchuck Bunnies
+8,468532,alison,carey,Mandeville,LA,16,Nunchuck Bunnies
 9,404138,Leigh,Laney,Madison,MS,7,
 10,400864,Linda,Vasquez,Hattiesburg,MS,6,HUB City Velo
 
@@ -273,7 +273,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,530961,Madelyn,MacGown,Madison,MS,28,Nunchuck Bunnies
 4,516931,Noah,Smith,New Orleans,LA,20,Peaks Coaching Group Racing Team
 5,530203,Layne,Presley,Clinton,MS,16,
-6,530206,Landen,Brookshire,Clinton,MS,14,
+6,545455,Landen,Brookshire,Clinton,MS,14,
 7,530262,Lawson,Presley,Clinton,MS,10,
 
 05/20/2017 Individual Time Trial Men P/1/2/3
@@ -281,14 +281,14 @@ Place,License #,First,Last,City,State,Time,Team
 1,330938,Joseph,Bacala,Albuquerque,NM,0:07:40.2,4D Racing
 2,359399,Miles,Hubbard,Wilkesboro,NC,0:07:49.4,Monster Media Elite Development
 3,230433,matthew,davis,Shreveport,LA,0:07:50.2,Team LaS'port
-4,301474,Sam,LeBlanc,Kenner,LA,0:08:01.8,4D Racing
+4,301474,Sam,LeBlanc,New Orleans,LA,0:08:01.8,4D Racing
 5,432532,Bryan,Mutell,Raleigh ,NC,0:08:02.5,4D Racing
 6,222021,Emile,Abraham,Atlanta,GA,0:08:03.1,Pharmaco-DeepSouth p/b NGCA
 7,494130,Davis,Adams,Headland,AL,0:08:09.9,Infinity Cycling Team
 8,300740,Peter,Reed,Oxford,MS,0:08:12.5,Marx and Bensdorf Cycling Team
 9,406676,Taylor,Herron,Memphis,TN,0:08:12.7,Marx and Bensdorf Cycling Team
 10,337684,Adam,Morris,Belden,MS,0:08:13.0,Palmer Cycling
-11,374617,Chad,Conley,Cartersville,GA,0:08:13.1,Pharmaco-DeepSouth p/b NGCA
+11,374617,Chad,Conley,Atlanta,GA,0:08:13.1,Pharmaco-DeepSouth p/b NGCA
 12,165037,Patrick,Weddell,Boone ,NC,0:08:17.6,HC Devo p/b Monster Media Racing
 13,423085,Jackson,Griffin,Tallahassee,FL,0:08:17.7,RedEye Velo
 14,473175,Logan,Mclain,Bossier City,LA,0:08:18.7,Team LaS'port
@@ -298,7 +298,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,442815,Whit,Somerall,Shreveport,LA,0:08:27.0,Team LaS'port
 19,340566,William,Johnson,Greensboro,NC,0:08:30.5,Monster Media Elite Development
 20,359849,Michael,Potter,Winston Salem,NC,0:08:31.7,Boone Area Cyclists
-21,504799,Peter,Foerster,,,0:08:35.5,
+21,504799,Peter,Foerster,Atlanta,GA,0:08:35.5,
 22,433325,Eric,Nelson,Mobile,AL,0:08:38.9,Indian Cycle Racing
 23,412295,Darel,Christopher,Forest Park,GA,0:08:40.5,Pharmaco-DeepSouth p/b NGCA
 24,227815,Joseph,Long,Kenner,LA,0:08:44.7,Team LaS'port
@@ -313,7 +313,7 @@ Place,License #,First,Last,City,State,Time,Team
 33,345004,Daniel,Lausin,Willowick,OH,0:09:15.0,Palmer/CSpire Fiber Cycling
 34,213476,Andrew,Hammond,Jackson,MS,0:09:17.9,Palmer Cycling
 35,374783,Taylor,Hanegan,Haughton,LA,0:09:20.7,Team LaS'port
-36,58176,Nathan,Rogut,Tampa,FL,0:09:30.3,R & M
+36,58176,Nathan,Rogut,Rock Hill,SC,0:09:30.3,R & M
 37,238642,William,Jones,Baton Rouge,LA,0:09:55.6,4D Racing
 38,381675,Stanton,Pearson,Jefferson,LA,0:10:02.3,Palmer/CSpire Fiber Cycling
 39,374748,Travis,Dorman,Panama City,FL,0:10:32.0,Palmer/CSpire Fiber Cycling
@@ -321,7 +321,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/20/2017 Individual Time Trial Men Cat 1/2/3/4/5 Masters 40+
 Place,License #,First,Last,City,State,Time,Team
-1,309874,Kenneth,Poole,Hattiesburg ,MS,0:08:21.3,CSpire Fiber Cycling
+1,309874,Kenneth,Poole,Hattiesburg,MS,0:08:21.3,CSpire Fiber Cycling
 2,70876,Travis,Sherman,Pelham,AL,0:08:21.6,Infinity Cycling Team
 3,41597,Frank,Moak,Brookhaven,MS,0:08:28.5,CSpire Fiber Cycling
 4,95739,Donald,VanPatter,Little Rock,AR,0:08:40.0,Oklahoma City Velo Club
@@ -338,7 +338,7 @@ Place,License #,First,Last,City,State,Time,Team
 05/20/2017 Individual Time Trial Men Cat 4/5
 Place,License #,First,Last,City,State,Time,Team
 1,484491,Charles,Lichenstein,Thibodaux,LA,0:08:51.6,4D Racing
-2,391020,Gigi,Carter,Madison,MS,0:09:04.3,Nunchuck Bunnies
+2,391020,Gigi,Carter,Eastsound,WA,0:09:04.3,Nunchuck Bunnies
 3,498099,Zack,Keup,Madison,MS,0:09:08.2,CSpire Fiber Cycling
 4,513335,Jared,Shore,Madison,MS,0:09:11.2,CSpire Fiber Cycling
 5,484347,McAben,Prince,Greenville,SC,0:09:31.3,Palmer/CSpire Fiber Cycling
@@ -391,7 +391,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,431035,Tiffany,Landry,Hattiesburg,MS,0:10:01.9,Nunchuck Bunnies
 2,460932,Shannon,Cook,Memphis,TN,0:10:14.6,Marx and Bensdorf Cycling Team
-3,526679,Caroline,Turner,Mobile ,AL,0:10:33.0,
+3,526679,Caroline,Turner,Fairhope,AL,0:10:33.0,
 4,462012,Cindy,Clark,Oakland,TN,0:10:56.2,Journeymen Racing Multisport
 5,492425,Emily,Bissett,New Orleans,LA,0:10:59.4,Crush Racing
 6,488000,Ashley,Doucet Congemi,New Orleans,LA,0:11:53.5,
@@ -416,7 +416,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,222021,Emile,Abraham,Atlanta,GA,3:09:33,Pharmaco-DeepSouth p/b NGCA
 11,359849,Michael,Potter,Winston Salem,NC,3:09:33,Boone Area Cyclists
 12,211847,Patrick,Casey,Park City,UT,3:09:33,Palmer Cycling
-13,504799,Peter,Foerster,,,3:09:43,
+13,504799,Peter,Foerster,Atlanta,GA,3:09:43,
 14,199999,Will,Stoffel,Germantown,TN,3:09:56,Marx and Bensdorf Cycling Team
 15,494130,Davis,Adams,Headland,AL,3:10:24,Infinity Cycling Team
 16,337684,Adam,Morris,Belden,MS,3:13:10,Palmer Cycling
@@ -429,14 +429,14 @@ Place,License #,First,Last,City,State,Time,Team
 23,378825,Lance,Abshire,Baton Rouge,LA,3:13:10,Team LaS'port
 24,359091,Brian,Davis,Orlando,FL,3:13:10,Compass Research Cycling Team
 25,354792,Nicholas,Burton,Shreveport,LA,3:13:10,Team LaS'port
-26,301474,Sam,LeBlanc,Kenner,LA,3:13:10,4D Racing
+26,301474,Sam,LeBlanc,New Orleans,LA,3:13:10,4D Racing
 27,414951,Jacob,Henley,Chattanooga ,TN,3:13:10,Pharmaco-DeepSouth p/b NGCA
 28,406676,Taylor,Herron,Memphis,TN,3:13:10,Marx and Bensdorf Cycling Team
 29,238642,William,Jones,Baton Rouge,LA,3:13:10,4D Racing
 30,374783,Taylor,Hanegan,Haughton,LA,3:13:10,Team LaS'port
 31,377671,Austin,Ulich,Athens,GA,3:13:10,Pharmaco-DeepSouth p/b NGCA
 32,481987,Derek,Morgan,Memphis,TN,3:13:10,Marx and Bensdorf Cycling Team
-33,374617,Chad,Conley,Cartersville,GA,3:13:10,Pharmaco-DeepSouth p/b NGCA
+33,374617,Chad,Conley,Atlanta,GA,3:13:10,Pharmaco-DeepSouth p/b NGCA
 34,278514,Michael,McBrien,Milton,FL,3:15:30,Palmer Cycling
 35,466498,Thomas,Brown,Little Rock,AR,3:17:56,Experience Fayetteville Cycling Team
 36,213476,Andrew,Hammond,Jackson,MS,3:25:10,Palmer Cycling
@@ -445,14 +445,14 @@ Place,License #,First,Last,City,State,Time,Team
 39,211145,Benjamin,Bryant,Decatur,GA,3:32:51,Pharmaco-DeepSouth p/b NGCA
 40,227815,Joseph,Long,Kenner,LA,3:41:15,Team LaS'port
 41,442815,Whit,Somerall,Shreveport,LA,3:53:10,Team LaS'port
-42,58176,Nathan,Rogut,Tampa,FL,4:15:08,R & M
+42,58176,Nathan,Rogut,Rock Hill,SC,4:15:08,R & M
 43,381675,Stanton,Pearson,Jefferson,LA,4:15:08,Palmer/CSpire Fiber Cycling
 DNF,95739,Donald,VanPatter,Little Rock,AR,,Oklahoma City Velo Club
 DNF,308793,DEVIN,REAVIS,Elkin,NC,,Boone Area Cyclists
 DNF,288498,Keith,Miller,Baton Rouge,LA,,GEAUX Race
 DNF,70876,Travis,Sherman,Pelham,AL,,Infinity Cycling Team
 DNF,281156,Dustin,Drewes,Ponchatoula,LA,,4D Racing
-DNF,309874,Kenneth,Poole,Hattiesburg ,MS,,CSpire Fiber Cycling
+DNF,309874,Kenneth,Poole,Hattiesburg,MS,,CSpire Fiber Cycling
 DNF,399650,Brock,Mason,Athens,GA,,Pharmaco-DeepSouth p/b NGCA
 
 05/20/2017 Road Race Men Cat 1/2/3/4/5 Masters 40+
@@ -460,7 +460,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,95739,Donald,VanPatter,Little Rock,AR,2:45:49,Oklahoma City Velo Club
 2,70876,Travis,Sherman,Pelham,AL,2:45:49,Infinity Cycling Team
 3,308797,Alex,Habbit,Youngsville,LA,2:45:49,Acadiana Bicycle Company Racing
-4,309874,Kenneth,Poole,Hattiesburg ,MS,2:45:49,CSpire Fiber Cycling
+4,309874,Kenneth,Poole,Hattiesburg,MS,2:45:49,CSpire Fiber Cycling
 5,41597,Frank,Moak,Brookhaven,MS,2:46:08,CSpire Fiber Cycling
 6,258236,Trey,Pounds,Brookhaven,MS,2:47:25,CSpire Fiber Cycling
 7,32781,Butch,Sims,Hattiesburg,MS,2:47:25,CSpire Fiber Cycling
@@ -531,7 +531,7 @@ Place,License #,First,Last,City,State,Time,Team
 05/20/2017 Road Race Women Cat 4/5
 Place,License #,First,Last,City,State,Time,Team
 1,431035,Tiffany,Landry,Hattiesburg,MS,,Nunchuck Bunnies
-2,526679,Caroline,Turner,Mobile ,AL,,
+2,526679,Caroline,Turner,Fairhope,AL,,
 3,468532,alison,carey,Mandeville,LA,,Nunchuck Bunnies
 4,460932,Shannon,Cook,Memphis,TN,,Marx and Bensdorf Cycling Team
 5,492425,Emily,Bissett,New Orleans,LA,,Crush Racing
@@ -546,17 +546,17 @@ Place,License #,First,Last,City,State,Time,Team
 1,423117,Tyler,Griffin,Tallahassee,FL,,RedEye Velo
 2,516931,Noah,Smith,New Orleans,LA,,Peaks Coaching Group Racing Team
 3,530203,Layne,Presley,Clinton,MS,,
-4,530206,Landen,Brookshire,Clinton,MS,,
+4,545455,Landen,Brookshire,Clinton,MS,,
 5,501861,Madison,Felker,Madisonville,LA,,
 6,530262,Lawson,Presley,Clinton,MS,,
 
 05/19/2017 Criterium Men P/1/2/3
 Place,License #,First,Last,City,State,Time,Team
-1,301474,Sam,LeBlanc,Kenner,LA,1:01:13,4D Racing
+1,301474,Sam,LeBlanc,New Orleans,LA,1:01:13,4D Racing
 2,222021,Emile,Abraham,Atlanta,GA,1:01:13,Pharmaco-DeepSouth p/b NGCA
 3,10367,Hunter,East,Little Rock,AR,1:01:13,Oklahoma City Velo Club
-4,504799,Peter,Foerster,,,1:01:13,
-5,374617,Chad,Conley,Cartersville,GA,1:01:13,Pharmaco-DeepSouth p/b NGCA
+4,504799,Peter,Foerster,Atlanta,GA,1:01:13,
+5,374617,Chad,Conley,Atlanta,GA,1:01:13,Pharmaco-DeepSouth p/b NGCA
 6,278514,Michael,McBrien,Milton,FL,1:01:13,Palmer Cycling
 7,378825,Lance,Abshire,Baton Rouge,LA,1:01:13,Team LaS'port
 8,423085,Jackson,Griffin,Tallahassee,FL,1:01:13,RedEye Velo
@@ -571,7 +571,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,404765,Patton,Sims,Sterlington,LA,1:01:13,Palmer/CSpire Fiber Cycling
 18,494130,Davis,Adams,Headland,AL,1:01:13,Infinity Cycling Team
 19,211847,Patrick,Casey,Park City,UT,1:01:13,Palmer Cycling
-20,309874,Kenneth,Poole,Hattiesburg ,MS,1:01:13,CSpire Fiber Cycling
+20,309874,Kenneth,Poole,Hattiesburg,MS,1:01:13,CSpire Fiber Cycling
 21,281156,Dustin,Drewes,Ponchatoula,LA,1:01:13,4D Racing
 22,227815,Joseph,Long,Kenner,LA,1:01:13,Team LaS'port
 23,337684,Adam,Morris,Belden,MS,1:01:13,Palmer Cycling
@@ -599,7 +599,7 @@ Place,License #,First,Last,City,State,Time,Team
 45,374783,Taylor,Hanegan,Haughton,LA,1:03:46,Team LaS'port
 46,433325,Eric,Nelson,Mobile,AL,1:05:18,Indian Cycle Racing
 47,354792,Nicholas,Burton,Shreveport,LA,1:06:19,Team LaS'port
-48,58176,Nathan,Rogut,Tampa,FL,1:06:47,R & M
+48,58176,Nathan,Rogut,Rock Hill,SC,1:06:47,R & M
 49,171264,Kyle,Boudreaux,Covington,LA,1:06:47,
 50,381675,Stanton,Pearson,Jefferson,LA,1:07:20,Palmer/CSpire Fiber Cycling
 DNF,460011,John,OConnell,New Orleans,LA,,4D Racing

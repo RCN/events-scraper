@@ -74,7 +74,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,455356,Rod,Stanton,Holly Springs,NC,,Team Spoke Cycles
 4,432788,Thomas,Howser,Vass,NC,,Southeast Velo Racing
 5,413987,Gregory,Jones,Wake Forest,NC,,Jigawatt Cycling
-6,256958,Matthew,Wisthoff,Wilmington,NC,,
+6,256958,Matthew,Wisthoff,Wrightsville Beach,NC,,
 7,478105,Lucas,Rugani,Durham,NC,,
 8,391844,Eric,Terlizzi,Raleigh,NC,,Jigawatt Cycling
 9,513185,Blaise,Schaeffer,Durham,NC,,
@@ -83,7 +83,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,0,Francis,Ignacio,,,,
 13,497343,Braxton,Wilson,Raleigh,NC,,
 14,495050,Paul,Scott,Raleigh,NC,,Team CBC
-15,524321,Shea,Stepusin,Raleigh,NC,,RevolutionCycleSports p/b Lonerider
+15,524321,Shea,Stepusin,Oxford,NC,,RevolutionCycleSports p/b Lonerider
 16,524318,Logan,Hunt,Durham,NC,,
 17,524067,Jonathan,Thacker,Youngsville,NC,,
 18,365062,Kyle,Johnston,Raleigh,NC,,Team Spoke Cycles
@@ -116,14 +116,14 @@ Place,License #,First,Last,City,State,Time,Team
 5,393312,Cliff,Mueller,Cornelius,NC,,Tumult-Levine Law Group Racing p/b Trek
 6,370751,Chris,Mathis,Columbia,SC,,Carolina Velo/Cycle Center
 7,59460,Noah,Byrd,Durham,NC,,The Electric Banana Cycling Project p/b FSC Racing
-8,339024,Rick,Williams,Apex ,NC,,Jigawatt Cycling
+8,339024,Rick,Williams,Cary,NC,,Jigawatt Cycling
 9,233189,William,McDaniel,Raleigh,NC,,Jigawatt Cycling
 10,496783,Oren,Mizrahi,Durham,NC,,Duke University
 11,135598,Daniel,Potts,Raeford,NC,,Southeast Velo Racing
 12,432788,Thomas,Howser,Vass,NC,,Southeast Velo Racing
 13,478105,Lucas,Rugani,Durham,NC,,
 14,199032,Bret,Busby,Salisbury,NC,,
-15,256958,Matthew,Wisthoff,Wilmington,NC,,
+15,256958,Matthew,Wisthoff,Wrightsville Beach,NC,,
 16,476462,Javier,Zamarripa,Cary,NC,,
 17,66729,Lee,Reavis,Winston Salem,NC,,Carolina Cycling Team
 18,413987,Gregory,Jones,Wake Forest,NC,,Jigawatt Cycling
@@ -173,7 +173,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,306369,Andy Allen,Sherman,Saxapahaw,NC,,The Electric Banana Cycling Project p/b FSC Racing
 19,59460,Noah,Byrd,Durham,NC,,The Electric Banana Cycling Project p/b FSC Racing
 DNF,155616,Curtis,Staples,Apex,NC,,
-DNF,339024,Rick,Williams,Apex ,NC,,Jigawatt Cycling
+DNF,339024,Rick,Williams,Cary,NC,,Jigawatt Cycling
 DNF,460162,Hoel,Wiesner,Rensselaer,NY,,Duke
 
 01/28/2017 Criterium Men Masters Open 30+
@@ -192,7 +192,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,345324,lamont,Wilson,High Point,NC,,TEAM MS p/b Herbalife/Maui Jim
 5,133057,Jeffrey,Safrit,Salisbury,NC,,Southeast Velo Racing
 6,289643,Bill,Marcheck,Durham,NC,,Triangle Velo
-7,339024,Rick,Williams,Apex ,NC,,Jigawatt Cycling
+7,339024,Rick,Williams,Cary,NC,,Jigawatt Cycling
 8,233189,William,McDaniel,Raleigh,NC,,Jigawatt Cycling
 9,394250,Greg,Manson,Raleigh,NC,,Jigawatt Cycling
 10,395229,Danielle,Baker,Durham,NC,,SpokesWomen Syndicate Inc.
@@ -229,7 +229,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,252386,Bill,Langston,Chapel Hill,NC,,Triangle Velo
 4,493150,Jules,van Kempen,Chapel Hill,NC,,
 5,455356,Rod,Stanton,Holly Springs,NC,,Team Spoke Cycles
-6,217539,Nathan,Harris,Frisco,CO,,
+6,217539,Nathan,Harris,Spring,TX,,
 7,524175,Jonathan,Dempsey,Cary ,NC,,
 8,511841,Gabriel,Martin,Cary,NC,,
 9,432788,Thomas,Howser,Vass,NC,,Southeast Velo Racing
@@ -248,7 +248,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,433633,Moises,Castro,Charlotte,NC,,Southeast Velo Racing
 23,498167,Jonathan,Holt,Durham,NC,,
 24,472976,Marvin Shawn,Perkins,Raleigh,NC,,Jigawatt Cycling
-25,90455,Christopher,Kearnes,Wake Forest ,NC,,Team Spoke Cycles
+25,90455,Christopher,Kearnes,Wake Forest,NC,,Team Spoke Cycles
 26,495050,Paul,Scott,Raleigh,NC,,Team CBC
 27,522774,Timothy,Rogers,Charlotte,NC,,Southeast Velo Racing
 28,497343,Braxton,Wilson,Raleigh,NC,,
@@ -260,11 +260,11 @@ Place,License #,First,Last,City,State,Time,Team
 34,421189,John,Boger,Carrboro,NC,,Triangle Velo
 35,43757,David,Plunkett,Asheville,NC,,
 36,506833,Ronald,Kurney,Raleigh,NC,,
-37,520504,James,Walsh,Farmer City,IL,,
-38,524321,Shea,Stepusin,Raleigh,NC,,
+37,520504,James,Walsh,Raleigh,NC,,
+38,524321,Shea,Stepusin,Oxford,NC,,
 39,401425,Alan,Sanfilippo,Carrboro,NC,,Triangle Velo
 40,378574,Joshua,Eisner,Chapel Hill,NC,,Constellation Cycling
-41,431253,Gustavo,Marin,Clayton,NC,,Constellation Cycling
+41,431253,Gustavo,Marin,Asheville,NC,,Constellation Cycling
 42,524313,Steven,Barlow,Raleigh,NC,,
 DNF,302689,Jim,Casper,Fuquay Varina,NC,,Constellation Cycling
 DNF,521943,Blake,Hunt,Mooresville,NC,,
@@ -272,7 +272,7 @@ DNF,413987,Gregory,Jones,Wake Forest,NC,,Jigawatt Cycling
 DNF,406255,John,Dina,Wake Forest,NC,,Big Tree Cycling
 DNF,457561,David,Rieder,Raleigh,NC,,Capital Cycling Club
 DNF,524067,Jonathan,Thacker,Youngsville,NC,,
-DNF,207416,Gary,Calton,Lawrence,KS,,GP Velotek
+DNF,207416,Gary,Calton,Southern Pines,NC,,GP Velotek
 DNF,0,Alan,Metz,,,,Triangle Velo
 DNF,524318,Logan,Hunt,Durham,NC,,
 
@@ -289,7 +289,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,27256,David,Parker,Chapel Hill,NC,,The Electric Banana Cycling Project p/b FSC Racing
 10,152390,Mark,McClay,Whispering Pines,NC,,Southeast Velo Racing
 11,496783,Oren,Mizrahi,Durham,NC,,Duke University
-12,217539,Nathan,Harris,Frisco,CO,,
+12,217539,Nathan,Harris,Spring,TX,,
 13,379678,Louis,Botta,Durham,NC,,Constellation Cycling
 14,264829,Adam,Long,Pittsboro,NC,,
 15,59460,Noah,Byrd,Durham,NC,,The Electric Banana Cycling Project p/b FSC Racing
@@ -303,7 +303,7 @@ Place,License #,First,Last,City,State,Time,Team
 23,53635,Mark,Bacon,Raleigh,NC,,Southeast Velo Racing
 24,349850,James,Price,Chapel Hill,NC,,Tri-Cyclists BRC
 25,495821,Brian,Petkov,Saint Paul,MN,,Duke Cycling
-26,431253,Gustavo,Marin,Clayton,NC,,Constellation Cycling
+26,431253,Gustavo,Marin,Asheville,NC,,Constellation Cycling
 27,53029,Joel,Eisner,Chapel Hill,NC,,Constellation Cycling
 28,225108,Jason,Halsey,Durham,NC,,Triangle Velo
 DNF,0,Unknown,Rider,,,,

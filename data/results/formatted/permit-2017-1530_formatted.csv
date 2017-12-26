@@ -14,7 +14,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,419256,Michael,Wisbauer,Round Rock,TX,01:23:48.000,Texas Cycle Werks
 11,393549,Chris,Sechelski,Houston,TX,01:25:02.00,Team West End Bikes
 12,178201,Erik,Streight,Houston,TX,01:27:43.000,West End
-13,288726,Hunter,Dickerson,Spring,TX,01:33:52.000,Bayou City Cycles
+13,288726,Hunter,Dickerson,Houston,TX,01:33:52.000,Bayou City Cycles
 14,420225,Brad,Spooner,Helotes,TX,01:40:27.000,Alamo City Racing
 
 05/21/2017 Cross Country Men Pro/C1 19-99
@@ -45,7 +45,7 @@ Place,License #,First,Last,City,State,Time,Team
 24,255458,Darryl,Rosenfeld,Bellaire,TX,01:47:15.000,Bayou City Racing
 25,349588,Thomas,Sebring,Hutto,TX,01:49:00.000,
 DNF,82063,Ryan,Hobbs,Dallas,TX,DNF,Matrix/RBM
-DNF,7789,Robert,Coreale,Spring ,TX,DNF,Tile Roofs of Texas/Bike Barn
+DNF,7789,Robert,Coreale,Spring,TX,DNF,Tile Roofs of Texas/Bike Barn
 
 05/21/2017 Cross Country Men Cat3 1-10
 Place,License #,First,Last,City,State,Time,Team
@@ -118,7 +118,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,357344,Alex,Gonzalez,Cedar Park,TX,01:12:13.000,
 2,470923,Matt,Rodgers,Cedar Park,TX,01:12:18.000,The Peddler Bike Shop
 3,532085,Cole,Layson,Houston,TX,01:12:33.000,West End
-4,458722,Matt,Shaner,Austin,TX,01:13:22.000,Weaver Technologies Racing
+4,458722,Matt,Shaner,Joplin,MO,01:13:22.000,Weaver Technologies Racing
 5,0,Micah,LaJeunesse,,,01:13:24.000,
 6,0,Chris,Lofaro,,,01:14:52.000,MTB North Crew
 7,479410,Gerardo,Coronado,Austin,TX,01:15:43.000,Weaver Technologies Racing
@@ -126,7 +126,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,505427,Dillon,Murrow,Austin,TX,01:16:51.000,
 10,526245,Derek,Faul,Dallas,TX,01:17:31.000,ACTION BIKES
 11,368688,James,Procter,San Antonio,TX,01:18:10.000,Southern Elite/Sun & Ski
-12,497288,Tanner,McDaniel,Spring,TX,01:18:17.000,Bayou City Cycles
+12,497288,Tanner,McDaniel,Tomball,TX,01:18:17.000,Bayou City Cycles
 13,525117,Cameron,Radetsky,San Antonio,TX,01:19:38.000,
 14,418383,Sergio,Cazares,Austin,TX,01:23:04.000,Weaver Tech Racing
 DNS,417213,Pete,Saulino,Missouri City,TX,DNS,Blue Agave Racing p/b Wholesome Sweetner
@@ -185,7 +185,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,346064,Juan,Pagan,Conroe,TX,01:22:37.000,Bikeland
 15,0,Jose,Lopez,,,01:23:13.000,
 16,442335,Juan,Serna,Rosharon,TX,01:26:44.000,The Growing Tree Academy
-17,128154,Thomas,Smith,Jersey Village,TX,01:39:58.00,Northwest Cycle Club
+17,128154,Thomas,Smith,Houston,TX,01:39:58.00,Northwest Cycle Club
 DNF,0,Edward,Padron,,,DNF,Weaver Technologies Racing
 DNF,395217,Jerome,Saint-Orens,Austin,TX,DNF,Bicycle Sport Shop
 DNF,336568,Casey,Paxton,Austin,TX,DNF,Daswow
@@ -208,7 +208,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,521127,Luis,Adam,San Antonio,TX,01:20:26.000,Cuervos xc
 15,260901,Wes,Robinson,Austin,TX,01:21:09.000,Bicycle Sport Shop
 16,524531,John,Haun,Temple,TX,01:21:37.000,
-17,104907,Allen,Zolondek,Round Rock,TX,01:22:08.000,Team Brain and Spine Cycling
+17,104907,Allen,Zolondek,Cedar Park,TX,01:22:08.000,Team Brain and Spine Cycling
 18,0,Andrew,Walters,,,01:30:01.000,West End Bikes
 19,0,Darrell,Quinlivan,,,01:34:14.000,ARR
 
@@ -220,8 +220,8 @@ Place,License #,First,Last,City,State,Time,Team
 4,254028,Thom,Moore,Austin,TX,01:18:08.000,potomac Velo/The Bike Lane
 5,0,Richard,Wupperman,,,01:18:13.000,
 6,454546,Carlos,Marin,Pflugerville,TX,01:18:38.000,Weaver Technologies Racing
-7,336804,David,Calvo,San Antonio,TX,01:19:42.000,A1 Alarm & Tint
-8,468263,Ross,LaJeunesse,San Antonio ,TX,01:20:27.000,
+7,336804,David,Calvo,Helotes,TX,01:19:42.000,A1 Alarm & Tint
+8,468263,Ross,LaJeunesse,San Antonio,TX,01:20:27.000,
 9,442068,John,Procter,Houston,TX,01:20:28.000,Southern Elite/Sun & Ski Sports/PARD
 10,0,Wes,Rogers,,,01:20:40.000,Squabble Creek Posse
 11,469027,Chris,Soncrant,Spring,TX,01:20:55.000,NWCC
@@ -386,14 +386,14 @@ DNS,524909,Nathan,Murphy,Austin,TX,DNS,Lake Travis Middle School
 Place,License #,First,Last,City,State,Time,Team
 1,465994,Jeffrey,Graham,Katy,TX,00:39:03.000,A&M Cycling
 2,508451,Travis,Ferguson,Montgomery,TX,00:39:19.000,
-3,497288,Tanner,McDaniel,Spring,TX,00:39:34.000,Bayou City Cycles
+3,497288,Tanner,McDaniel,Tomball,TX,00:39:34.000,Bayou City Cycles
 4,505427,Dillon,Murrow,Austin,TX,00:39:47.000,
 5,525117,Cameron,Radetsky,San Antonio,TX,00:39:53.000,
 6,0,Jaime,Quintero,,,00:40:33.00,
 7,494370,Scott,May,Fredericksburg,TX,00:41:56.000,Hill Country Bicycle Works
 8,0,Kyle,Walker,,,00:42:04.000,Bayou City Cycles
 9,519098,Cameron,Vilven,San Marcos,TX,00:42:26.000,Texas State Cycling Team
-10,519372,Brice,Koerner,Stephenville,TX,00:43:01.000,Unspoken Racing
+10,519372,Brice,Koerner,Fort Worth,TX,00:43:01.000,Unspoken Racing
 11,0,David,Green,,,00:44:58.000,
 12,514066,Austin,Hibbetts,Cypress,TX,00:46:37.000,Tru Tri Sports
 13,0,Burnie,Burns,,,01:08:03.000,
@@ -410,7 +410,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,498150,Brian,Bowe,Austin,TX,00:41:39.000,
 7,406215,David,Quintero,Katy,TX,00:41:45.000,
 8,0,Erik,Enge,,,00:43:23.000,
-9,288726,Hunter,Dickerson,Spring,TX,00:43:56.000,Bayou City Cycles
+9,288726,Hunter,Dickerson,Houston,TX,00:43:56.000,Bayou City Cycles
 10,0,Fernandez,Jorge,,,00:45:59.000,
 11,377294,Daniel,Griganavicius,Kyle,TX,00:46:21.000,Bayou City Cycles
 DNS,533227,Damien,Tayman,Houston,TX,DNS,
@@ -458,7 +458,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,475093,Ron,Miller,Georgetown,TX,00:43:36.000,Georgetown Cyclewerx
 4,0,Keith,Moore,,,00:44:05.000,Chicken Express
 5,459236,John,Polk,Houston,TX,00:44:24.000,NWCC
-6,438213,Bruce,Green,Spring,TX,00:45:00.000,NWCC
+6,438213,Bruce,Green,Conroe,TX,00:45:00.000,NWCC
 7,0,Charles,Ramsay,,,00:45:49.000,ATX Bike Racing Team
 8,525111,Patrick,Bixenman,Sugar Land,TX,00:46:06.000,
 9,526145,Juan,Aramburu,Spring,TX,00:47:41.000,
@@ -475,11 +475,11 @@ DNF,105144,Scott,Rucker,Houston,TX,DNF,
 Place,License #,First,Last,City,State,Time,Team
 1,470475,Calvin,Miller,Georgetown,TX,01:44:30.000,Summit/Competitive Cyclist
 2,414598,Cole,Weldon,Austin,TX,01:45:52.000,Beat the Clock Cycling Club
-3,488673,Trevor,Berry,Zachary ,LA,01:45:54.000,Highwayman
+3,488673,Trevor,Berry,The Woodlands,TX,01:45:54.000,Highwayman
 4,528148,Marcos,Alves,Dallas,TX,01:49:21.000,PACC
 5,397483,Bryce,Landry,Breaux Bridge,LA,01:53:01.000,
 6,457770,Tanner,McKee,San Antonios,TX,01:55:05.000,Alamo City Racing
-7,427794,Kevin,Fort,Austin,TX,01:55:10.000,Yeah!
+7,427794,Kevin,Fort,Pflugerville,TX,01:55:10.000,Yeah!
 DNS,422280,Zach,Conover,Lewisville,TX,DNS,Cadence Cyclery
 
 05/20/2017 Cross Country Men Cat1 30-39
@@ -517,12 +517,12 @@ Place,License #,First,Last,City,State,Time,Team
 12,255458,Darryl,Rosenfeld,Bellaire,TX,01:13:58.000,Bayou City Racing
 13,107334,Jeremy,Valdez,Amarillo,TX,01:14:39.000,
 14,199834,James,Webb,Kyle,TX,01:15:06.000,
-15,407308,Dave,Bellante,Bastrop ,TX,01:15:09.000,Yeah!
+15,407308,Dave,Bellante,Bastrop,TX,01:15:09.000,Yeah!
 16,311065,Markus,Beeby,Austin,TX,01:17:11.000,Weaver Technologies Racing
 17,82063,Ryan,Hobbs,Dallas,TX,01:17:42.000,Matrix/RBM
 18,42117,William,Mabus,Dallas,TX,01:19:24.000,Matrix/RBM
 19,395653,David,Cervera,Houston,TX,01:21:55.000,Sugar Cycles/Wholesome Sweeteners
-20,34666,Jonny,Sundt,Austin,TX,01:23:17.000,Giant South
+20,34666,Jonny,Sundt,Bastrop,TX,01:23:17.000,Giant South
 DNF,497981,Tommy,Burson,Waco,TX,DNF,The Highwaymen
 
 05/20/2017 Cross Country Men Cat1 50-59

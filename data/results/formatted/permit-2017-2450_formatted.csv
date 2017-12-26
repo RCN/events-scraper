@@ -54,9 +54,9 @@ Place,License #,First,Last,City,State,Time,Team
 2,411640,Ben,Walton,Concord,MA,0:29:50,New England Devo p/b Cadence Wealth Management
 3,425297,Nathaniel,Ryan,Randolph,MA,0:30:08,Cannondale Sports New England
 4,504483,David,Sandoval,Wolfeboro,NH,0:31:01,BMB Racing
-5,487187,Colby,Simone,Quincyquincy,MA,0:31:30,Sea Sports Clean Green Junior Team
+5,487187,Colby,Simone,Quincy Mass,MA,0:31:30,Sea Sports Clean Green Junior Team
 6,515298,Henry,Lord,Kittery Point,ME,0:32:14,Jewett Farms Racing
-7,487182,Corbin,Simone,Quincymass,MA,0:32:58,Sea Sports Clean Green Junior Team
+7,487182,Corbin,Simone,Quincy Mass,MA,0:32:58,Sea Sports Clean Green Junior Team
 8,515307,Tyler,McGarry,Concord,MA,0:33:32,Gnargonauts NEHSCA / MRC
 9,486786,Aiden,Simmons,Brunswick,ME,0:34:22,Portland Velo Club
 10,489314,Jason,Tinkov,Sudbury,MA,0:35:09,
@@ -66,7 +66,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,536377,Johannes,Erlandson,Kingston,MA,lapped,bchigh
 15,536372,Joseph,Braga,West Bridgewater,MA,lapped,BC High
 16,541061,Riley,Fagans,Acton,MA,lapped,Gnargonauts NEHSCA / MRC
-17,171505,William,Whitcher,Goffstown,NH,lapped,Guipago Custom Cycles
+17,0,William,Whitcher,,,lapped,Guipago Custom Cycles
 18,511382,Jaxon,Heine,Plymouth,MA,lapped,BC High
 19,511378,Brendan,Webb,Hingham,MA,lapped,BC High
 20,536374,Joseph,Chu,Randolph,MA,lapped,BC High
@@ -119,13 +119,13 @@ Place,License #,First,Last,City,State,Time,Team
 11,441040,Christopher,Sammartano,Ipswich,MA,0:34:02,Team Fit Werx
 12,94736,Edward,Dishong,Francestown,NH,0:34:02,Guipago Custom Cycles
 13,120408,Paul,Niehoff,Portland,ME,0:34:08,Portland Velo Club
-14,21957,David,Lystila,Fitchburg,MA,0:34:40,optimum  performance
-15,32746,Richard,Simone,Quincy,MA,0:35:33,Sea Sports Cycling
+14,21957,David,Lystila,Clinton,MA,0:34:40,optimum  performance
+15,32746,Richard,Simone,Quincyquincy,MA,0:35:33,Sea Sports Cycling
 16,62529,Colin,Kernan,Hingham,MA,0:35:56,Cycle Lodge
 17,0,Gerry,Katz,,,0:36:22,Team Quad Cycles
 18,0,David,Kindler,,,0:36:34,Monsters in the Basement
 19,203000,Lawrence,Purtill,Narragansett,RI,0:37:20,Stedmans Bicycle Co
-20,100224,Martin,Verville,Contoocook ,NH,lapped,Gus CX
+20,100224,Martin,Verville,Contoocook,NH,lapped,Gus CX
 21,53174,Scott,Sherman,Northbridge,MA,lapped,Grace Bicycles Velo Club
 
 09/10/2017 Cyclo-cross Men Cat 3/4
@@ -138,15 +138,15 @@ Place,License #,First,Last,City,State,Time,Team
 6,456926,Nick,Weigel,Somerville,MA,0:43:16,pedalpowertraining.com
 7,480954,Erik,Saunders,Chester,NH,0:43:18,Mad Alchemy | Zanconato
 8,385867,Glenn,Soulia,South Kingstown,RI,0:43:18,Stedmans
-9,275070,Tyler,Samson,Hatfield,MA,0:44:02,Competitive Edge Cycling
-10,288393,Matthew,Griswold,Boston,MA,0:44:08,B2C2 / JRA Cycles
+9,275070,Tyler,Samson,Enfield,CT,0:44:02,Competitive Edge Cycling
+10,288393,Matthew,Griswold,Guilford,CT,0:44:08,B2C2 / JRA Cycles
 11,498634,Matthew,Shaffer,Allston,MA,0:44:22,Grinta! p/b Best Buddies Challenge
 12,418476,Tucker,Walsh,Jamaica Plain,MA,0:44:22,HUP United
 13,277289,Joseph,Marinelli,Brighton,MA,0:44:48,Blue Hills Cycling Club
 14,206588,Charley,Schmidt,Lancaster,NH,0:45:01,
 15,376171,Liam,Howard,Allston,MA,0:45:31,B2C2/Boloco
 16,281386,Tobin,Wells,Somerville ,MA,0:45:47,Wells & Company Builders
-17,345164,Daniel,Cariolo,Cambridge,MA,0:46:08,B2C2 / JRA cycles
+17,345164,Daniel,Cariolo,Arlington,MA,0:46:08,B2C2 / JRA cycles
 18,360825,Brendan,Mulvey,Watertown,MA,0:46:46,Cape Cod Cycling/C4
 19,0,Nowak,Gregory,,,0:47:08,
 20,393596,Joshua,Geib,Bath,ME,0:47:26,Naylors  - Treadwell Training
@@ -210,7 +210,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,141839,Christopher,Pare,Franklin,MA,0:43:10,Minuteman Road Club
 13,457396,Brig,Currie,Bolton,MA,0:43:32,
 14,224122,R. Michael,McKittrick,Dorchester,MA,0:43:41,pedalpowertraining.com
-15,83074,Sean,Silva,North Reading ,MA,0:43:49,Northeast Bicycle Club
+15,83074,Sean,Silva,North Reading,MA,0:43:49,Northeast Bicycle Club
 16,412713,Jason,Myler,Concord,MA,0:44:08,Boulder Cycle Sport/YogaGlo
 17,344106,Wilson,Martinez Polanco,Brookline,MA,0:44:12,545 VELO
 18,93288,Chris,Busick,Shrewsbury,MA,0:44:29,Minuteman Road Club
@@ -229,7 +229,7 @@ Place,License #,First,Last,City,State,Time,Team
 31,248478,Paul,Jobin,Merrimack,NH,0:47:32,State 9 Racing p/b Vittoria
 32,248220,Christopher,Morabito,Lexington,MA,0:47:57,Cycledrome Racing
 33,448662,Nathan,Wong,Worcester,MA,0:48:41,Fritz's Bicycle Shop
-34,135275,Chad,Morris,Newburyport,MA,lapped,Riverside Racing
+34,135275,Chad,Morris,West Newbury,MA,lapped,Riverside Racing
 35,216414,Michael,Whitfield,Etna,NH,lapped,Cowbell Racing
 36,149850,Michael,Tobin,Stow,MA,lapped,Comprehensive Racing
 37,250716,Christopher,Plummer,Manchester,NH,lapped,
@@ -258,7 +258,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,140765,John,Mosher,Boxborough,MA,0:45:58,Wheelworks Racing
 17,418111,Jay,Prewitt,Eliot,ME,0:46:11,
 18,230842,Gary,Jasdzewski,Cambridge,MA,0:46:13,Wheelworks Racing
-19,33736,David,Stacey,Methuen,MA,0:46:30,Athletes Against Alzheimer's
+19,33736,David,Stacey,Haverhill,MA,0:46:30,Athletes Against Alzheimer's
 20,23503,Steve,McGrath,Portsmouth,NH,0:46:35,Lagunitas Racing Experience
 21,63446,Daniel,Russell,Hingham,MA,0:46:49,Cycle Lodge
 22,245369,John,McGrath,Westford,MA,0:46:56,Riverside Racing
@@ -308,9 +308,9 @@ Place,License #,First,Last,City,State,Time,Team
 6,83528,Matthew,O'Keefe,Ipswich,MA,0:53:18,RIVERSIDE RACING
 7,262000,Mark,Miller,Marlborough,NH,0:53:26,Minuteman Road Club
 8,500524,Ben,Powers,Haverhill,MA,0:53:27,riverside racing
-9,408284,Mark,Hewitt,South Deerfield,MA,0:53:54,JAM / NCC
+9,408284,Mark,Hewitt,Mattapan,MA,0:53:54,JAM / NCC
 10,429727,Benjamin,Ryan,Randolph,MA,0:53:55,Cannondale Sports New England
-11,147771,Colin,Reuter,Somerville,MA,0:54:12,crossresults.com
+11,147771,Colin,Reuter,Leeds,MA,0:54:12,crossresults.com
 12,325388,Charles,Berhtram,Roxbury,MA,0:54:27,B2C2 / JRA Cycles
 13,165565,Scott,Yarosh,Hatfield,MA,0:54:46,Northampton Bicycle
 14,390756,Finnegan,O'Connor,West Hatfield,MA,0:54:48,Competitive Edge Ski & Bike
@@ -330,14 +330,14 @@ Place,License #,First,Last,City,State,Time,Team
 28,216404,Andrew,Piper,Cambridge,MA,lapped,Minuteman Road Club
 29,233018,Eric,Carlson,Bristol,CT,lapped,Team Edge
 30,207971,Sean,Curran,Arlington,MA,lapped,IMSHI cycles
-31,339512,Christopher,Rabadi,Somerville,MA,lapped,Unattached
+31,339512,Christopher,Rabadi,Rockville,MD,lapped,Unattached
 DNF,327318,Andrew,Lysaght,Somerville,MA,DNF,B2C2 p/b JRA Cycles
 DNF,274231,Gregory,Colby,Hyde Park,MA,DNF,B2C2/JRA Cycles
 DNF,498634,Matthew,Shaffer,Allston,MA,DNF,Grinta! p/b Best Buddies Challenge
 
 09/10/2017 Cyclo-cross Men Cat 5
 Place,License #,First,Last,City,State,Time,Team
-1,471656,Matthew,Davies,Williamstown,MA,0:30:17,Williams College
+1,471656,Matthew,Davies,Boston,MA,0:30:17,Williams College
 2,534865,Jacob,LeBlanc,Keene,NH,0:30:23,NCC
 3,529161,Tucker,Wetmore,Somerville,MA,0:30:25,Minuteman Road Club
 4,484363,Ben,Finch,Waban,MA,0:30:36,545 Velo
@@ -368,7 +368,7 @@ Place,License #,First,Last,City,State,Time,Team
 29,0,Peter,Oregel,,,0:36:57,Seaside Cycle p/b Atomic Coffee Roasters
 30,0,Nick,Carter,,,0:37:36,
 31,0,Devin,Auclair,,,0:37:40,
-32,373836,Preston,Sanford,Houghton,MI,0:37:48,
+32,373836,Preston,Sanford,Auburn,MA,0:37:48,
 33,541009,Conor,O'Brien,Brighton,MA,0:37:51,
 34,394304,Mickey,Cheah,Cambridge,MA,0:38:14,Team Monster Truck
 35,465544,Christopher,Davies,West Valley,UT,0:39:21,The Davis Method
@@ -434,7 +434,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,467727,Jonathan,MAuterer,Hatfield,MA,0:35:56,Northampton Bicycle Racing
 3,471886,Taylor,Dundas,Watertown,MA,0:36:31,
 4,455162,Timothy,LaBua,Cambridge,MA,0:37:11,NEMBA Racing
-5,325396,Colin,Cook,Bedford,NH,0:37:15,The Velo Resource
+5,325396,Colin,Cook,Brookline,NH,0:37:15,The Velo Resource
 6,0,Ian,Bachman-Sanders,,,0:37:16,Freewheel Bike Shop
 7,340174,Chris,Barr,Stratham,NH,0:37:32,Tallsock racing
 8,470616,Luca,Haines,Durham,NH,0:37:49,New England Devo p/b Cadence Wealth Management
@@ -451,11 +451,11 @@ Place,License #,First,Last,City,State,Time,Team
 19,429852,Tyler,Parnes,Boston,MA,0:40:34,B2C2 / JRA Cycling
 20,425375,Steve,Black,Newton,MA,0:40:44,B2C2/JRA Cycles
 21,299592,William,King,Topsfield,MA,0:40:48,Keep It Tight
-22,273785,David,Freeman,Cambridge ,MA,0:41:01,545 Velo
+22,273785,David,Freeman,Cambridge,MA,0:41:01,545 Velo
 23,517235,Garrison,Parker,Manchester,NH,0:41:29,Colonial Bicycle Company
 24,283261,Stephen,Horaj,Stoneham,MA,0:41:45,
 25,460915,Andrew,Weaver,Greenland,NH,0:41:47,
-26,301774,Andy,Huff,Arlington,MA,0:42:11,GPM Racing
+26,301774,Andy,Huff,Watertown,MA,0:42:11,GPM Racing
 27,354176,Jason,Barella,Brookline,MA,0:42:54,Grinta! P/B Best Buddies Challenge
 28,288844,Craig,Keasler,Santa Barbara,CA,0:42:55,
 29,468561,Jacob,Coblentz,Washington,DC,0:43:53,Sons United Racing
@@ -474,7 +474,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,410623,Kevin,Teves,Boylston,MA,0:38:01,Minuteman Road Club
 5,90213,David,Parmelee,Manchester,MA,0:38:31,ecv | essex county velo
 6,515317,Jonathan,Pohl,West Boylston,MA,0:38:40,
-7,325172,Patrick,Greehan,Beverly,MA,0:38:45,ecv | essex county velo
+7,325172,Patrick,Greehan,Duluth,MN,0:38:45,ecv | essex county velo
 8,348000,Juan,Lopera,Waltham,MA,0:38:55,545 Velo
 9,207322,Robert,Hoenick,Providence,RI,0:38:57,SVC/Bikeworks
 10,472319,Tom,Haines,Durham,NH,0:39:04,New England Devo p/b Cadence Wealth Management
@@ -557,7 +557,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,518037,Bethany,Newton,West Simsbury,CT,0:26:29,RACE CF
 4,515318,Bridget,Darby,Brookline,MA,0:26:32,The Hustle Hive p/b Somervelo
 5,308739,Audrey,Raboin,Arlington,MA,0:26:53,Boston Road Club
-6,484155,Brooke,Spaulding,Boston,MA,0:27:07,IMSHI cycles
+6,484155,Brooke,Spaulding,Arlington,MA,0:27:07,IMSHI cycles
 7,539632,Lyndall,Robinson,Beverly,MA,0:27:22,Parlee Cycles
 8,0,Julie,Warren,,,0:27:22,
 9,413187,Valerie,Enriquez,Dorchester,MA,0:27:40,Team Monster Truck p/b Hub Bicycle Co.
@@ -580,7 +580,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,431797,Monique,Gipps,South Grafton,MA,0:27:17,Worcester County Women's Cycling
 5,359187,Laura,Kernan,Newburyport,MA,0:27:24,Riverside Racing
 6,515109,Sarah,Proctor,Deerfield,NH,0:27:48,The Velo Resource
-7,359404,Anne,Normand,Beverly,MA,0:28:06,ecv | essex county velo
+7,359404,Anne,Normand,Duluth,MN,0:28:06,ecv | essex county velo
 8,0,Felicity,Billings,,,0:28:29,545 Velo
 9,0,Elizabeth,O'Donnell,,,0:29:14,Psycho
 10,393122,Tracy,Sherman,Northbridge,MA,0:29:23,Grace Bicycles Velo Club
@@ -606,7 +606,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,431462,Allison,Halsey,Medford,MA,0:44:06,Team Monster Truck
 11,500873,Nikki,Montanaro,Kingston,MA,0:44:08,Ladies First p/b Milton Caterpillar
 12,308739,Audrey,Raboin,Arlington,MA,0:44:40,Boston Road Club
-13,484155,Brooke,Spaulding,Boston,MA,0:44:47,IMSHI cycles
+13,484155,Brooke,Spaulding,Arlington,MA,0:44:47,IMSHI cycles
 14,327436,Cindy,Berhtram,Boston,MA,0:45:14,Firefly Adventure Team
 15,413187,Valerie,Enriquez,Dorchester,MA,0:45:33,Team Monster Truck p/b Hub Bicycle Co.
 16,454867,Stephanie,Golmon,Arlington,MA,P&P,Keep It Tight
@@ -643,7 +643,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,355068,Kayla,Brannen,Thetford Center,VT,0:40:06,Cowbell Racing p/b World Bicycle Relief
 11,413709,Nicole,Yeh,Medford,MA,0:40:06,Keep It Tight
 12,372141,Natalie,Forsythe,Beverly ,MA,0:41:03,Riverside Racing
-13,429848,alex,carlson,Jamaica Plain,MA,0:41:22,Cycle-Smart
+13,429848,alex,carlson,Arlington,MA,0:41:22,Cycle-Smart
 14,0,Festa,Lauren,,,0:41:46,Rare Disease Cycling
 15,270038,Christine,Fort,Somerville,MA,0:43:46,pedalpowertraining.com
 16,376693,Hannah,Rossi,Allston,MA,0:44:11,Hustle Hive p/b Somervelo

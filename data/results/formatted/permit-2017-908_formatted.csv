@@ -52,7 +52,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 04/08/2017 Circuit Race Men CAT D Collegiate
 Place,License #,First,Last,City,State,Time,Team
-1,525265,Mason,Witter,Irvine,CA,0:00:00,University of California-Merced
+1,525265,Mason,Witter,Merced,CA,0:00:00,University of California-Merced
 2,524479,Shunjian,Li,Hayward,CA,0:00:00,San Jose State University
 3,525426,Bowei,wang,Irvine,CA,0:00:00,University of California-Irvine
 4,503401,Colin,Clemmons,Stanford,CA,0:00:00,Stanford University
@@ -68,7 +68,7 @@ Place,License #,First,Last,City,State,Time,Team
 04/08/2017 Circuit Race Men CAT C Collegiate
 Place,License #,First,Last,City,State,Time,Team
 1,468044,Johnray,Fernandez,Hollister,CA,0:00:00,University of California-Davis
-2,297530,Ryan,Walker,Aptos,CA,0:00:00,California State University-Long Beach
+2,297530,Ryan,Walker,Carson,CA,0:00:00,California State University-Long Beach
 3,526482,Paul,Talma,Stanford,CA,0:00:00,Stanford University
 4,458516,Jacob,Lin,Davis,CA,0:00:00,University of California-Davis
 5,496440,Matthew,Hung,San Diego,CA,0:00:00,University of California-San Diego
@@ -86,7 +86,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,442775,Daniel,Feinberg,Santa Barbara,CA,0:00:00,University of California-Davis
 18,394228,Giovanni,Velasco,Cypress,CA,0:00:00,California State University-Channel Islands
 19,496628,Raymond,Vo,Milpitas,CA,0:00:00,University of California-Santa Barbara
-20,494787,Dario,Serrano Jr,Irvine,CA,0:00:00,University of California-Irvine
+20,494787,Dario,Serrano Jr,Los Angeles,CA,0:00:00,University of California-Irvine
 
 04/08/2017 Circuit Race Men CAT B Collegiate
 Place,License #,First,Last,City,State,Time,Team
@@ -108,7 +108,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,313364,Ethan,Frankel,Mill Valley,CA,0:00:00,University of California-Los Angeles
 3,263998,Reese,Levine,Orinda,CA,0:00:00,University of California-Berkeley
 4,489166,Colin,Patterson,Palo Alto,CA,0:00:00,California Polytechnic-San Luis Obispo
-5,456576,Samuel,Boardman,Washington,CA,0:00:00,University of California-Los Angeles
+5,456576,Samuel,Boardman,Los Angeles,CA,0:00:00,University of California-Los Angeles
 6,422932,Nicholas,Besse,Scotts Valley,CA,0:00:00,University of California-Santa Barbara
 7,524086,Kai Hong,Pang,La Jolla,CA,0:00:00,University of California-San Diego
 8,299528,Remy,CantoAdams,Windsor,CA,0:00:00,California Polytechnic-San Luis Obispo
@@ -164,7 +164,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,524191,Lena,Stock,Del Mar,CA,0:00:00,University of California-San Diego
 5,489396,Eleanor,Wiseman,Berkeley,CA,0:00:00,University of California-Berkeley
 6,311800,Katie,Quinn,San Mateo,CA,0:00:00,Stanford University
-7,340844,Jennifer,Wilson,Cambridge,MA,0:00:00,Stanford University
+7,340844,Jennifer,Wilson,Los Gatos,CA,0:00:00,Stanford University
 8,291002,Arielle,Little,Berkeley,CA,0:00:00,University of California-Berkeley
 9,344090,Jocelyn,Vides,Reno,NV,0:00:00,University of California-Berkeley
 10,523756,Sydnee,Hyman,San Diego,CA,0:00:00,University of California-San Diego
@@ -175,7 +175,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,528118,Theodore,Cross,Berkeley,CA,0:00:00,University of California-Berkeley
 3,525426,Bowei,wang,Irvine,CA,0:00:00,University of California-Irvine
 4,524219,Erik,Snyder,Santa Clara,CA,0:00:00,California Polytechnic-San Luis Obispo
-5,525265,Mason,Witter,Irvine,CA,0:00:00,University of California-Merced
+5,525265,Mason,Witter,Merced,CA,0:00:00,University of California-Merced
 6,494744,Broder,Schmidt,Menlo Park,CA,0:00:00,Stanford University
 7,526973,Haojun,Li,Berkeley,CA,0:00:00,University of California-Berkeley
 8,0,Collin,Platt,,,0:00:00,University of San Francisco
@@ -188,7 +188,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,468044,Johnray,Fernandez,Hollister,CA,0:00:00,University of California-Davis
 2,526482,Paul,Talma,Stanford,CA,0:00:00,Stanford University
-3,297530,Ryan,Walker,Aptos,CA,0:00:00,California State University-Long Beach
+3,297530,Ryan,Walker,Carson,CA,0:00:00,California State University-Long Beach
 4,458516,Jacob,Lin,Davis,CA,0:00:00,University of California-Davis
 5,496440,Matthew,Hung,San Diego,CA,0:00:00,University of California-San Diego
 6,417530,Paul,Nguyen,San Jose,CA,0:00:00,University of California-Irvine
@@ -225,7 +225,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 04/08/2017 Road Race Men CAT A Collegiate
 Place,License #,First,Last,City,State,Time,Team
-1,456576,Samuel,Boardman,Washington,CA,0:00:00,University of California-Los Angeles
+1,456576,Samuel,Boardman,Los Angeles,CA,0:00:00,University of California-Los Angeles
 2,346448,Dominik,Cinka,Mill Valley,CA,0:00:00,University of California-Santa Barbara
 3,418177,Eric,Bryan,Los Angeles,CA,0:00:00,University of California-Los Angeles
 4,416940,Leo,Yip,Fremont,CA,0:00:00,University of California-Davis
@@ -271,7 +271,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,496675,Maddy,Ward,Los Angeles,CA,0:00:00,University of California-Los Angeles
 4,524191,Lena,Stock,Del Mar,CA,0:00:00,University of California-San Diego
 5,523756,Sydnee,Hyman,San Diego,CA,0:00:00,University of California-San Diego
-6,340844,Jennifer,Wilson,Cambridge,MA,0:00:00,Stanford University
+6,340844,Jennifer,Wilson,Los Gatos,CA,0:00:00,Stanford University
 
 04/08/2017 Team Time Trial Men CAT C Collegiate
 Place,License #,First,Last,City,State,Time,Team

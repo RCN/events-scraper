@@ -27,7 +27,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,496370,Levi,Jefferies,Vista,CA,,Swami's Junior Development Team
 4,482343,Nick,Mckenna,Riverside,CA,,Team Velosport Junior & U23 Development - Ridebiker Alliance
 5,496623,Garrison,Mejia,Covina,CA,,Southern California Velo -  Main Street Garage Junior Development
-6,493183,Marc,Leon,Ontario,CA,,Southern California Velo -  Main Street Garage Junior Development
+6,493183,Marc,Leon,Pomona,CA,,Southern California Velo -  Main Street Garage Junior Development
 7,376116,NIKOLAS,Lovegren,Lakewood,CA,,KLTS Junior Development
 8,381215,Lance,Araiza,Lakewood,CA,,Celo Pacific
 9,340318,JoseLuis,Orozco,Calexico,CA,,S2C/BOSCH pb Pearl Izumi
@@ -82,7 +82,7 @@ Place,License #,First,Last,City,State,Time,Team
 33,473712,Raul,Vazquez Diaz,Hawthorne,CA,,Big Orange Cycling p/b Beachbody Performance
 34,523204,Sean,Brown,Cypress,TX,,Majestic/Mobbin Cycling
 35,480572,Allen,Mecum,Eastvale,CA,,Monster Media Racing
-36,311122,Michael,Fosselman,Glendora ,CA,,Go Fast -Incycle
+36,311122,Michael,Fosselman,Glendora,CA,,Go Fast -Incycle
 37,520072,Louie,Peick,Wildomar,CA,,S2C/BOSCH pb Pearl Izumi
 38,525430,Steven,Walter,Marina Del Rey,CA,,
 DNS,524737,Joseph,Granelli,San Diego,CA,,SDBC/EMERALD TEXTILES p/b UC Cyclery
@@ -127,7 +127,7 @@ Place,License #,First,Last,City,State,Time,Team
 31,238500,Rahman,Pinckney,Riverside,CA,,Impact Racing Team
 32,336616,Jordan,Ezell,Long Beach,CA,,
 33,473712,Raul,Vazquez Diaz,Hawthorne,CA,,Big Orange Cycling p/b Beachbody Performance
-34,391447,Andrew,Nuckles,Cerritos,CA,,Big Orange Cycling p/b Beachbody Performance
+34,391447,Andrew,Nuckles,Los Angeles,CA,,Big Orange Cycling p/b Beachbody Performance
 35,428932,Israel,Lizarraga,Imperial,CA,,SDBC/EMERALD TEXTILES p/b UC Cyclery
 36,501934,Nhattrieu,Duong,Redondo Beach,CA,,Big Orange Cycling p/b Beachbody Performance
 37,428497,Kevin,Colburn,Hemet,CA,,Cast a Shadow/Temecula Farmers/Specialized
@@ -197,7 +197,7 @@ Place,License #,First,Last,City,State,Time,Team
 24,60314,Scott,Raymond,Cypress,CA,,BBI-SIC
 25,197750,Ross,Gagnon,Long Beach,CA,,BBI-SIC
 26,168222,Greg,Hayes,Corona,CA,,Impact Racing Team
-27,71874,Thomas,Buttleman,Murrieta,CA,,S2C/BOSCH pb Pearl Izumi
+27,71874,Thomas,Buttleman,Menifee,CA,,S2C/BOSCH pb Pearl Izumi
 28,333364,Anthony,Reguero,Irvine,CA,,WTR
 29,263117,Kurt,Kovacks,Menifee,CA,,S2C/BOSCH pb Pearl Izumi
 30,114543,Jon,Davis,Woodland Hills,CA,,Serious Cycling
@@ -225,7 +225,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,197750,Ross,Gagnon,Long Beach,CA,,BBI-SIC
 15,263117,Kurt,Kovacks,Menifee,CA,,S2C/BOSCH pb Pearl Izumi
 16,45249,Brad,Decker,Irvine,CA,,Team Simple Green/Cannondale/Bike Religion
-17,71874,Thomas,Buttleman,Murrieta,CA,,S2C/BOSCH pb Pearl Izumi
+17,71874,Thomas,Buttleman,Menifee,CA,,S2C/BOSCH pb Pearl Izumi
 18,138696,Ricardo,Luengas,Aliso Viejo,CA,,Radsport Cycling Team
 19,247807,Artemio,Martinez,Rialto,CA,,G3Foundation / Trek
 20,82789,Victor,Caraballo,Corona,CA,,
@@ -343,7 +343,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,524732,Hayden,Flores,Fallbrook,CA,,
 18,526015,Mike,Heinze,Palm Desert,CA,,Jessup Auto Plaza p/b P.S. Cyclery
 19,520072,Louie,Peick,Wildomar,CA,,S2C/BOSCH pb Pearl Izumi
-20,494190,James,Burthe,Pomona,CA,,
+20,494190,James,Burthe,San Diego,CA,,
 21,409313,Mark,Fillebrown,Spring Valley,CA,,Rogue Athletic
 22,511279,Jason,Gilbert,Oceanside,CA,,Swami's Cycling Club
 23,480572,Allen,Mecum,Eastvale,CA,,Monster Media Racing
@@ -399,7 +399,7 @@ Place,License #,First,Last,City,State,Time,Team
 29,496370,Levi,Jefferies,Vista,CA,,Swami's Junior Development Team
 30,428932,Israel,Lizarraga,Imperial,CA,,SDBC/EMERALD TEXTILES p/b UC Cyclery
 31,429181,Jonathan,Martinez,Moreno Valley,CA,,Team Velosport Junior & U23 Development - Ridebiker Alliance
-32,391447,Andrew,Nuckles,Cerritos,CA,,Big Orange Cycling p/b Beachbody Performance
+32,391447,Andrew,Nuckles,Los Angeles,CA,,Big Orange Cycling p/b Beachbody Performance
 33,523783,Miguel,Tillo,San Diego,CA,,Adams Avenue Bicycles
 34,496573,Daniel,Beltran,South Gate,CA,,
 35,501934,Nhattrieu,Duong,Redondo Beach,CA,,Big Orange Cycling p/b Beachbody Performance

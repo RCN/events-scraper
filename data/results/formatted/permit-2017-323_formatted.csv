@@ -60,7 +60,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,514115,Jason,Willette,Jamestown,NC,49:37.59,
 3,457069,Jacob,Olsen,Rock Hill,SC,49:39.34,
 4,200137,Jason,Eaton,Cary,NC,49:41.79,
-5,484980,Tom,Lazzaro,Belmont,NC,52:16.41,
+5,484980,Tom,Lazzaro,Crouse,NC,52:16.41,
 6,460819,David,Neri,Greenville,SC,54:00.38,
 7,467503,Joseph,Newman,Mount Pleasant,SC,54:01.98,Low Country Cycling Team
 8,365263,Alexander,Butler,Columbia,SC,55:15.21,
@@ -97,14 +97,14 @@ Place,License #,First,Last,City,State,Time,Team
 15,499049,Jeff,Eaton,Thomasville,NC,59:36.68,
 16,526631,Rob,Hrubala,Spartanburg,SC,1:00:09.69,
 17,503495,Michael,Milhorn,Johnson City,TN,1:00:17.28,
-18,531857,David,Root,Seneca,SC,1:01:04.46,
+18,499588,David,Root,Seneca,SC,1:01:04.46,
 19,522044,Richard,Rice,Lexington,SC,1:01:07.62,
 20,0,James,Hobbs,,,1:01:15.89,
 21,496526,Charles,Stackley,Ladson,SC,1:02:34.03,
-22,38341,Fred,Williams,Kingsport ,TN,1:02:52.80,
+22,38341,Fred,Williams,Kingsport,TN,1:02:52.80,
 23,531391,Timothy,Cornnell SR,Myrtle Beach,SC,1:03:06.74,
 24,473151,Jeff,Kohler,Bluffton,SC,1:03:09.20,
-25,522388,Robert,Beasley,Monroe,NC,1:03:39.46,
+25,522388,Robert,Beasley,Chapel Hill,NC,1:03:39.46,
 26,498677,Parker,Lilly,Florence,SC,1:07:11.16,
 27,531490,michael,flynn,North Myrtle Beach,SC,1:08:47.48,
 28,526151,Rick,Anewalt,Charleston,,1:14:57.77,
@@ -132,8 +132,8 @@ Place,License #,First,Last,City,State,Time,Team
 9,429372,Doug,Cline,Mount Hermon,CA,58:40.89,
 10,499049,Jeff,Eaton,Thomasville,NC,59:36.68,
 11,503495,Michael,Milhorn,Johnson City,TN,1:00:17.28,
-12,531857,David,Root,Seneca,SC,1:01:04.46,
-13,522388,Robert,Beasley,Monroe,NC,1:03:39.46,
+12,499588,David,Root,Seneca,SC,1:01:04.46,
+13,522388,Robert,Beasley,Chapel Hill,NC,1:03:39.46,
 14,498677,Parker,Lilly,Florence,SC,1:07:11.16,
 15,75852,Nick,Kremydas,Florence,SC,1:15:37.56,
 16,531469,Paul,Heger,Pelion,SC,1:15:54.37,
@@ -152,7 +152,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,522044,Richard,Rice,Lexington,SC,1:01:07.62,
 8,0,James,Hobbs,,,1:01:15.89,
 9,496526,Charles,Stackley,Ladson,SC,1:02:34.03,
-10,38341,Fred,Williams,Kingsport ,TN,1:02:52.80,
+10,38341,Fred,Williams,Kingsport,TN,1:02:52.80,
 11,531391,Timothy,Cornnell SR,Myrtle Beach,SC,1:03:06.74,
 12,473151,Jeff,Kohler,Bluffton,SC,1:03:09.20,
 13,531490,michael,flynn,North Myrtle Beach,SC,1:08:47.48,
@@ -211,11 +211,11 @@ DNF,143016,Jonathan,McGinney,Central,SC,DNF,
 
 04/30/2017 Cross Country Men Cat 1 Masters 40+
 Place,License #,First,Last,City,State,Time,Team
-1,403359,Craig,Campbell,Lyman ,SC,2:14:04.5,
+1,403359,Craig,Campbell,Lyman,SC,2:14:04.5,
 2,27669,John,Pennypacker,Charlotte,NC,2:15:11.1,
 3,200487,John,Witherspoon,Midlothian,VA,2:19:28.1,Bad Cat Racing
 4,304488,Corbitt,Bourne,Fries,VA,2:19:54.0,Blue Ridge Bike Shop
-5,364930,Mark,Jakubowski,Ronkonkoma,NY,2:22:38.0,Paniagua Cycling
+5,364930,Mark,Jakubowski,Cary,NC,2:22:38.0,Paniagua Cycling
 6,17045,Cary,Hughes,Anderson,SC,2:24:30.5,
 7,161303,Gregory,Frame,Rock Hill,SC,2:31:54.8,
 8,322386,David,Nolletti,Asheville,NC,2:32:26.4,Velosports Racing Asheville

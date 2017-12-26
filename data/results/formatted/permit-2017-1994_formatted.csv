@@ -35,7 +35,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,387318,Tyler,Dunn,Denver,CO,01:03:16,
 2,271148,Cormac,Dunn,Denver,CO,01:05:18,
-3,290098,Miles,Gentry,Minturn ,CO,01:05:23,
+3,290098,Miles,Gentry,Minturn,CO,01:05:23,
 
 06/03/2017 Cross Country Men senior 03 30-39
 Place,License #,First,Last,City,State,Time,Team
@@ -45,9 +45,9 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,365432,Ciro,Zarate,Vail,CO,01:48:25,
 2,0,Peter,Santini,,,01:58:48,
-3,295499,Michael,Melley,Tempe,AZ,02:05:02,
+3,541666,Michael,Melley,Broomfield,CO,02:05:02,
 4,0,Bernie,Norton,,,02:08:21,
-5,31298,Jay,Sapp,Avon,CO,02:09:38,
+5,31298,Jay,Sapp,Vail,CO,02:09:38,
 6,0,Dallas,Hartley,,,02:11:39,
 7,0,Matthew,Hall,,,02:30:02,
 8,381506,Doug,Hanna,Longmont,CO,02:42:08,
@@ -79,7 +79,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,185340,Brian,Jensen,Broomfield,CO,01:48:06,
 2,315896,Gregory,Strokes,Aspen,CO,01:48:48,
 3,99202,Tyson,Kaman,Fort Collins,CO,01:52:25,
-4,28536,David,Poulton,Lake Forest,IL,01:53:20,
+4,28536,David,Poulton,Boulder,CO,01:53:20,
 5,362905,Josh,Petrucci,Frisco,CO,01:54:50,
 6,149470,Brian,Baker,Vail,CO,01:57:04,
 7,210109,Derek,Henderson,Golden,CO,01:57:59,
@@ -356,7 +356,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,401448,Katja,Freeburn,Durango,CO,01:32:38,
 2,460485,Molly,Madden,Boulder,CO,01:41:29,
 3,418969,Camryn,Kercher,Highlands Ranch,CO,01:43:05,
-4,512650,Gaja,Wilson,Edwards,CO,01:45:38,
+4,512649,Gaja,Wilson,Edwards,CO,01:45:38,
 5,536084,Madelynn,Gerritsen,Golden,CO,01:53:05,
 6,511250,Zoe,Livran,Edwards,CO,01:57:15,
 

@@ -8,7 +8,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 01/28/2017 1 Lap Men 1Lap 19-39
 Place,License #,First,Last,City,State,Time,Team
-1,375437,Jayden,Hakala,San Antonio,TX,02:11:40.000,Ride Away Cycling Club
+1,375437,Jayden,Hakala,Colorado Springs,CO,02:11:40.000,Ride Away Cycling Club
 2,500814,Cody,Haverfield,Richmond,TX,02:14:07.000,Mafia - West End Bikes
 3,504622,Odecio,Zapparolli,Austin,TX,02:15:57.000,
 4,80219,Kyle,Hopkins,Williston,VT,02:21:53.000,West End Bikes
@@ -19,7 +19,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,483285,Davis,Green,Austin,TX,02:31:44.000,
 10,497962,Joshua,Roemer,Schertz,TX,02:34:10.000,Ride Away Cycling Club
 11,0,Jonathan,Mullen,,,02:37:29.000,Team Chupacabras
-12,483820,Samuel,Damiani,Cypress,TX,02:38:55.000,Neilson Devo
+12,483820,Samuel,Damiani,Tomball,TX,02:38:55.000,Neilson Devo
 13,497310,Abel,Salazar,Midland,TX,02:39:54.000,VIM Racing
 14,532085,Cole,Layson,Houston,TX,02:43:03.000,West End
 15,349588,Thomas,Sebring,Hutto,TX,02:43:44.000,512 Racing p/b AJ's Cyclery
@@ -61,7 +61,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,188566,Kyle,Poole,Austin,TX,02:33:14.000,Team IPA/Velorangutan
 10,199834,James,Webb,Kyle,TX,02:33:59.000,Mafia Racing
 11,0,Harry,Wallace,,,02:36:11.000,
-12,422391,Gabriel,Ayala,Canyon Lake,TX,02:37:37.000,The Hub
+12,391808,Gabriel,Ayala,Canyon Lake,TX,02:37:37.000,The Hub
 13,457968,Charles,McGuill,New Braunfels,TX,02:38:42.000,Guadalupe River Cycle & Fitness
 14,269816,Timothy,Spence,Austin,TX,02:41:10.000,Mafia Racing/West End
 15,202489,Don,Smith,Austin,TX,02:42:02.000,
@@ -72,7 +72,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,0,James,Gheida,,,03:00:30.000,
 21,0,Shawn,Dorn,,,03:01:52.000,
 22,433320,Miguel,Villarreal,Spring,TX,03:02:38.000,West End Bikes
-23,468263,Ross,LaJeunesse,San Antonio ,TX,03:03:10.000,
+23,468263,Ross,LaJeunesse,San Antonio,TX,03:03:10.000,
 24,448605,Jeff,Coyle,San Antonio,TX,03:11:14.000,
 25,240855,Scot,Morris,Brownwood,TX,03:13:48.000,Violet Crown
 26,458441,Mike,Blazek,Georgetown,TX,03:16:18.000,
@@ -87,8 +87,8 @@ Place,License #,First,Last,City,State,Time,Team
 35,0,Chad,Athans,,,05:03:03.000,
 DNS,0,Robert,Krupa,,,DNS,
 DNS,487237,Richard,Jennings,San Antonio,TX,DNS,Ride Away Bicycle Club
-DNS,220829,Rolando,Roman,Ridgeland ,MS,DNS,Texas Cyclocross Project/Ridebiker
-DNS,392730,Kevin,Roles,San Antonio,TX,DNS,
+DNS,220829,Rolando,Roman,Ridgeland,MS,DNS,Texas Cyclocross Project/Ridebiker
+DNS,392730,Kevin,Roles,San Marcos,TX,DNS,
 DNF,507775,Jeremy,Monk,Bastrop,TX,DNF,NWCC
 DNF,474525,William,Miller,Houston,TX,DNF,West End Bikes/Karbach
 DNF,0,Ben,Adair,,,DNF,Team IPA Racing
@@ -102,7 +102,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,496387,Lucie,Hanzlik,Austin,TX,03:14:50.000,Team IPA Racing
 6,388072,Teresa,Franzke,Austin,TX,03:21:45.000,Bicycle Sport Shop
 7,347478,Cammie,Robbiano,San Antonio,TX,03:30:45.000,Bike World Racing/Reagan High School
-8,442111,Kelly,McCabe,San Antonio,TX,03:30:46.000,Bike World San Antonio
+8,442111,Kelly,McCabe,Sanantonio,TX,03:30:46.000,Bike World San Antonio
 9,494897,Jeanne,Hoffman,Austin,TX,03:34:30.000,Team Switchback
 10,461757,Beth,Campbell,Austin,TX,03:42:14.000,
 11,291188,Margaret,Nolen,Cedar Park,TX,03:54:49.000,Team Bicycle Sport Shop
@@ -117,13 +117,13 @@ DNS,308467,Thomas,Miller,Austin,TX,DNS,
 
 01/28/2017 Cross Country Marathon Men Cat 1/2/3 19-29
 Place,License #,First,Last,City,State,Time,Team
-1,135094,Joe,Riggs,Oak Ridge,NJ,04:45:10.000,Bicycle Heaven
+1,372842,Joseph,Riggs,San Antonio,TX,04:45:10.000,Bicycle Heaven
 2,414598,Cole,Weldon,Austin,TX,04:54:34.000,Beat the Clock Cycling Club
 3,352488,Jason,Baker,Austin,TX,05:02:46.000,PHENOM p/b Phobio
-4,427794,Kevin,Fort,Austin,TX,05:03:33.000,Yeah!
+4,427794,Kevin,Fort,Pflugerville,TX,05:03:33.000,Yeah!
 5,378436,Miles,Juneau,Oklahoma City ,OK,05:22:50.000,Wreckless Racing
 6,367809,Christian,Newton,Friendswood,TX,05:28:19.000,ATC Racing
-7,497288,Tanner,McDaniel,Spring,TX,06:16:30.000,Bayou City Cycles
+7,497288,Tanner,McDaniel,Tomball,TX,06:16:30.000,Bayou City Cycles
 DNS,395052,Theodore,McLean,San Antonio,TX,DNS,Bicycle Heaven
 DNF,515658,Caleb,Cunningham,San Antonio,TX,DNF,
 
@@ -169,7 +169,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,258845,Paul,Fafard,Austin,TX,04:31:06.000,Cycle Progression/Telluride Cycling Club
 2,457350,Zvonimir,Gluhak,San Antonio,TX,04:41:40.000,
 3,426165,Marc,Cook,Cedar Park,TX,04:48:25.000,Texas A/C & Heating
-4,407308,Dave,Bellante,Bastrop ,TX,05:05:10.000,Yeah!
+4,407308,Dave,Bellante,Bastrop,TX,05:05:10.000,Yeah!
 5,188387,John,Meegan,Cibolo,TX,05:05:48.000,Bike World Racing
 6,425264,Daniel,Scoville,Cypress,TX,05:11:24.000,Neilson Devo
 7,396230,Aaron,De La Garza,San Antonio,TX,05:16:50.000,Bike World Racing
@@ -203,7 +203,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,73177,Paul,Forderhase,Austin,TX,05:48:26.000,Monkey Wrench Bikes
 9,371224,Stephen,Yeamans,Austin,TX,06:03:10.000,
 10,208741,David,Priest,Ft Worth,TX,06:24:22.000,Big Pig Racing
-11,144572,Scott,Long,Keller,TX,06:59:32.00,
+11,144572,Scott,Long,Fort Worth,TX,06:59:32.00,
 
 01/28/2017 Cross Country Marathon Men Cat 1/2/3 60-99
 Place,License #,First,Last,City,State,Time,Team
@@ -215,10 +215,10 @@ Place,License #,First,Last,City,State,Time,Team
 2,188342,Jenny,Park,San Antonio,TX,05:26:00.000,Bicycle Heaven / PVA
 3,248750,Erin,Reedy,Amarillo,TX,05:39:00.000,Sun Adventure Sports
 4,237368,Tara,Kelly,Houston,TX,05:41:01.000,WTF
-5,442592,Lindsey,Henley,Houston,TX,05:41:16.000,Neilson Devo
+5,442592,Lindsey,Henley,Cypress,TX,05:41:16.000,Neilson Devo
 6,440799,Maga,Sanchez,Houston,TX,05:46:16.000,NWCC
 7,523670,Stephanie,Ledford,Midland,TX,06:07:12.000,
 8,466655,Haleigh,Smith,College Station,TX,06:07:19.000,Team Trail Party
-9,418981,Stephanie,Cole,Houston ,TX,06:21:00.000,Planetary Cycles/Way Past Fast
+9,418981,Stephanie,Cole,Houston,TX,06:21:00.000,Planetary Cycles/Way Past Fast
 10,376753,Katy,McGuire,Austin,TX,06:23:06.000,Bike Lab
 11,441438,Cherie,Spooner,Helotes,TX,06:27:31.000,Ride Away Cycling Club

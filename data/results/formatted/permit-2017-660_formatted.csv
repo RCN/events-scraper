@@ -69,7 +69,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,1283,Kirk,Albers,Upper Arlington,OH,,Zone-6 Cycling
 11,394358,Seth,Worthington,Westfield,IN,,0
 12,365925,Scott,Miller,Dayton,OH,,Team Dayton Bicycling
-13,149656,Ryan,Gamm,Bexley ,OH,,Ride On Wooster
+13,149656,Ryan,Gamm,Bexley,OH,,Ride On Wooster
 14,258844,Aaron,Cruikshank,Akron,OH,,Cyclus Sports
 15,300661,Jordan,Villella,Pittsburgh,PA,,Cyclus Sports
 16,368618,Jacob,Henningsen,Cincinnati,OH,,Team Hungry
@@ -117,7 +117,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,480321,Lonnie,Welch,Athens,OH,,Team Athens
 16,524051,Matthew,Reiner,Worthington,OH,,0
 17,391240,Maciej,Kawalkowski,Middletown,OH,,Queen City Wheels
-18,512550,Joshua,Becker,Wheeling ,WV,,0
+18,512550,Joshua,Becker,Wheeling,WV,,0
 19,358802,Bartek,Kawalkowski,Middletown,OH,,Cincinnati Cyclocross
 20,0,Paul,Acheson,,,,
 21,443677,Fin,Vieh,Cincinnati,OH,,
@@ -140,12 +140,12 @@ Place,License #,First,Last,City,State,Time,Team
 11,430988,Nathan,Molnar,Shaker Heights,OH,,Bike Ohio
 12,97948,Jason,Hall,Cuyahoga Falls,OH,,Summit Freewheelers
 13,272389,Ron,Moody,Mount Gilead,OH,,Kryki Sports
-14,468428,John,McGarry,Cleveland Heights,OH,,Case Western Reserve University
+14,468428,John,McGarry,San Diego,CA,,Case Western Reserve University
 15,429612,Adam,Johnston,Cleveland,OH,,0
 16,410898,Levi,Gaswint,Findlay,OH,,Red Bike
 17,344712,Greg,Blanton,Farmersville,OH,,0
 18,221134,Shane,Brenner,Tipp City,OH,,0
-19,325072,Nicholas,Petrov,Mckinney,TX,,Cincinnati Cyclocross
+19,325072,Nicholas,Petrov,Mason,OH,,Cincinnati Cyclocross
 20,425125,Michael,Emerson,Milford,OH,,University of Cincinnati
 21,496571,Mark,Illingworth,Mason,OH,,Queen City Wheels
 22,498668,Peter,Weiss,Dayton,OH,,Ghisallo Cycling Team Inc.
@@ -215,7 +215,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,482685,Karen,Lehtonen,Beavercreek,OH,,Team Dayton Bicycling
 8,430105,Marie,Grassi,Columbus,OH,,Cincinnati Cyclocross
 9,389276,Kristine,Hofstra,Springfield,OH,,Team Dayton Bicycling
-10,460636,Karilyn,Cox,Beavercreek,OH,,Team Dayton Bicycling
+10,460636,Karilyn,Cox,Bellbrook,OH,,Team Dayton Bicycling
 11,473898,Wendy,Gilmore,Centerville,OH,,Queen City Wheels
 12,489696,Mary,Adamo Price,Centerville,OH,,0
 13,333204,Heidi,Riffle,Dayton,OH,,Team Dayton Bicycling

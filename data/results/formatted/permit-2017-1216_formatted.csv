@@ -12,11 +12,11 @@ Place,License #,First,Last,City,State,Time,Team
 8,192774,Kevin,Willitts,S Lake Tahoe,CA,,3Ft - It's The Law
 9,420247,Christophe,Butterworth,Modesto,CA,,Not attached
 10,35914,Matthew,Trethric,San Rafael,CA,,Hammer Nutrition 53/11
-11,345270,Brian,McAndrews,Danville,CA,,ThirstyBear p/b Akamai
+11,345270,Brian,McAndrews,Spring,TX,,ThirstyBear p/b Akamai
 12,51130,West,Kurihara,Fremont,CA,,Team Fremont/FFBC
 13,22517,Gregg,Marioni,San Anselmo,CA,,Clean Power Cycling pb TESLA
 14,204100,Phillip,Heiman,Penngrove,CA,,Colavita Racing/ Inc/Colavita-Norcal
-15,45552,Douglas,Knox,Santa Barbara,CA,,Velo Pasadena Team
+15,45552,Douglas,Knox,North Hollywood,CA,,Velo Pasadena Team
 16,12799,Fred,Garcy,Danville,CA,,Unattached
 DNP,360492,Dean,Abt,Oakland,CA,,Team Oakland Cycling
 DNP,256153,Jonathan,Laine,Truckee,CA,,3 Ft. - It's The Law
@@ -35,7 +35,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,497040,Lyubomir,Grigorov,Sunnyvale,CA,,SquadraSF
 7,423129,Hernan,Gatpandan,Pacifica,CA,,Pen Velo Racing/Summit Bicycles
 8,486531,Aidan,McNeil,Cupertino,CA,,NCCF Team Specialized
-9,494505,CJ,Mooneyham,Santa Rosa,CA,,Form + Data p/b Mercedes Benz of Modesto
+9,494505,CJ,Mooneyham,Turlock,CA,,Form + Data p/b Mercedes Benz of Modesto
 10,529912,Jonah,Kellogg,Roseville,CA,,Woodcreek High School/Roseville Cyclery
 11,367266,Jacob,Jordan,San Jose,CA,,TMB Development p/b Equator
 12,384335,Stuart,Collett,Lafayette,CA,,CA Technologies Racing
@@ -79,7 +79,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,321598,Matthew,Johnson,San Francisco,CA,,Dolce Vita Freewheel p/b SL2
 8,459638,Albert,Lehman,Lodi,CA,,Clean Power Cycling pb TESLA
 9,367792,Daniel,Ayres,Fresno,CA,,Off the Front Racing
-10,440491,Philip,Barros,Danville,CA,,Cycle Sport - Specialized p/b Muscle Milk
+10,440491,Philip,Barros,Pleasanton,CA,,Cycle Sport - Specialized p/b Muscle Milk
 11,392418,Samuel,Paik,Livermore,CA,,Christian Cycling-Hammer Nutrition
 12,261903,Martin,Kozera,San Carlos,CA,,Pen Velo Racing/Summit Bicycles
 13,529650,Victor,Loh,San Francisco,CA,,Cognition Racing
@@ -120,12 +120,12 @@ DNF,303960,Patrick,Peters,Carmichael,CA,,Body Concepts
 Place,License #,First,Last,City,State,Time,Team
 1,220196,Christopher,Coble,Mill Valley,CA,,Olympic Club
 2,281883,Jason,Grefrath,Sacramento,CA,,ThirstyBear p/b Akamai
-3,380700,Martin,Szwarc,San Francisco ,CA,,Cycle Sport - Specialized p/b Muscle Milk
+3,380700,Martin,Szwarc,San Francisco,CA,,Cycle Sport - Specialized p/b Muscle Milk
 4,365111,Brian,Brown,Sacramento,CA,,Folsom Bike/Trek
 5,484494,Richard,Gabel,Fresno,CA,,Revs Road Race p/b Kinetic Cycles
 6,303224,Erik,Camacho,San Jose,CA,,ThirstyBear p/b Akamai
 7,236809,Alvaro,Mosquera,Sacramento,CA,,
-8,78591,Matthew,Accarrino,San Francisco ,CA,,
+8,78591,Matthew,Accarrino,San Francisco,CA,,
 9,434312,Nick,Eslinger,Oaklando,CA,,
 10,150305,Lucas,Paz,Richmond,CA,,KaiVelo Racing
 11,391642,Donald,Dumaine,Sacramento,CA,,Revs Road Race p/b Kinetic Cycles
@@ -138,7 +138,7 @@ DNF,333472,Jeff,Dale,Cameron Park,CA,,Revs Road Race p/b Kinetic Cycles
 
 05/21/2017 Road Race Men Cat 1/2/3 Master 45-99
 Place,License #,First,Last,City,State,Time,Team
-1,25655,Jerome,Nadel,Sunnyvale,CA,,ThirstyBear p/b Akamai
+1,25655,Jerome,Nadel,Woodside,CA,,ThirstyBear p/b Akamai
 2,47424,Christopher,Baker,Sacramento,CA,,Team Specialized/Touchstone Racing
 3,204496,michael,orourke,Auburn,CA,,Peet's Coffee Racing
 4,61440,Alex,Holtz,Sacramento,CA,,Team Specialized/Touchstone Racing
@@ -157,7 +157,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,384955,Gary,Paden,Livermore,CA,,Morgan Stanley Cycling Team
 18,115342,Ken,Calender,Salinas,CA,,Don Chapin/Monterey Bay Race Team
 19,286823,Joseph,Foster,Alamo,CA,,ThirstyBear p/b Akamai
-20,201585,Dan,Quirk,Petaluma,CA,,ThirstyBear p/b Akamai
+20,201585,Dan,Quirk,Sonoma,CA,,ThirstyBear p/b Akamai
 21,204018,Sean,Smith,Oakland,CA,,CA Technologies Racing
 22,300056,Lance,Haag,Fairfax,CA,,ThirstyBear p/b Akamai
 23,17995,Mark,Johnson,Mountain View,CA,,CoreTechs Cycling - TwT
@@ -206,7 +206,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,413330,Aaron,McDevitt,Mountain View,CA,,SquadraSF p/b Terun
 DNP,195470,Kyle,Glerum,Emerald Hills,CA,,Peet's Coffee Racing
 DNP,61117,Brian,Zimny,Sacramento,CA,,Peet's Coffee Racing
-DNP,306325,Willie,Myers,Orinda,CA,,Herbalife p/b Marc Pro - Narure's Bakery
+DNP,306325,Willie,Myers,Davis,CA,,Herbalife p/b Marc Pro - Narure's Bakery
 DNF,381099,Peter,Smith,Oakland,CA,,TMB Development p/b Equator
 DNF,304367,Fergus,Tanaka,San Francisco,CA,,AMain Cycling Team
 DNF,366768,Raul,Arias J.R.,East Palo Alto,CA,,Squadrasf P/B Terun
@@ -217,7 +217,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,457591,Travis,Mceuen,Martinez,CA,,TMB Development p/b Equator
 3,397700,Erik,Schiller,Half Moon Bay,CA,,SunPower Racing
 4,434471,emmett,smith,Millbrae,CA,,
-5,266583,Douglas,Schaller,Belmont ,CA,,A Bloc Racing
+5,266583,Douglas,Schaller,Belmont,CA,,A Bloc Racing
 6,391493,Stuart,Watson,San Rafael,CA,,Cycle Sport - Specialized p/b Muscle Milk
 7,346232,Jason,Francia,Santa Maria,CA,,Team Simple Green/Cannondale/Bike Religion
 8,494273,Yatwah,Mitchell,Orangevale,CA,,Sierra Nevada/Reliable Racing

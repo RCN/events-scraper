@@ -28,11 +28,11 @@ Place,License #,First,Last,City,State,Time,Team
 2,458768,Andrew,Martin,Austin,TX,0:56:30,Bat City Cycling
 2,322840,David,Callahan,Cedar Park,TX,0:56:30,Bat City Cycling
 2,531728,Felipe,Payet,Austin,TX,0:56:30,Bat City Cycling
-2,336950,Barry,Conlon,Austin,TX,0:56:30,Bat City Cycling
+2,336950,Barry,Conlon,Leander,TX,0:56:30,Bat City Cycling
 3,494954,Todd,Finley,Frisco,TX,0:56:52,Crest/RBM Cycling
 3,404202,Greg,Gibbs,Carrollton,TX,0:56:52,Crest/RBM Cycling
 3,423135,Jeffrey,Waller,Dallas,TX,0:56:52,Crest/RBM Cycling
-3,494929,Mike,Goppert,Frisco ,TX,0:56:52,Crest/RBM Cycling
+3,494929,Mike,Goppert,Frisco,TX,0:56:52,Crest/RBM Cycling
 4,532238,John,Impey,The Woodlands,TX,0:57:00,
 4,425264,Daniel,Scoville,Cypress,TX,0:57:00,Northwest Cycling Club
 4,284038,David,Roberts,Houston,TX,0:57:00,Northwest Cycling Club
@@ -55,7 +55,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,533859,Chad,Smith,The Woodlands,TX,0:55:40,
 1,533863,Hunter,Shelton,The Woodlands,TX,0:55:40,
 1,435181,Joseph,Chevalier,Montgomery,TX,0:55:40,
-1,533902,Andrew,Cashion,Houston,TX,0:55:40,
+1,189467,Andrew,Cashion,Houston,TX,0:55:40,
 2,533553,Richard,Bragg,Richmond,TX,0:56:01,
 2,467301,Ryan,Moore,Tyler,TX,0:56:01,
 2,480273,Sean,Kwiatek,Flint,TX,0:56:01,
@@ -158,11 +158,11 @@ Place,License #,First,Last,City,State,Time,Team
 7,352414,Kevin,Franklin,The Woodlands,TX,0:55:37,Northwest Cycling Club
 7,138628,Robert,McCallum,Houston,TX,0:55:37,Northwest Cycling Club
 7,317672,Mike,Faber,Tomball,TX,0:55:37,A Bloc
-8,336628,Edvin,Ordonez,Carrollton,TX,0:57:51,Crest/RBM Cycling
+8,336628,Edvin,Ordonez,The Colony,TX,0:57:51,Crest/RBM Cycling
 8,48635,Tom,Hauk,Frisco,TX,0:57:51,Crest/RBM Cycling
 8,354628,Willem,Van Der Gryp,Plano,TX,0:57:51,Crest/RBM Cycling
 8,44048,Robert,Heatley,Austin,TX,0:57:51,Crest/RBM Cycling
-9,378945,Kevin,Duncan,Katy ,TX,1:01:30,Northwest Cycling Club
+9,378945,Kevin,Duncan,Katy,TX,1:01:30,Northwest Cycling Club
 9,420185,Pat,Luciano,Katy,TX,1:01:30,Northwest Cycling Club
 9,35099,John,Taylor,Cypress,TX,1:01:30,Northwest Cycling Club
 9,367301,lawrence,ocampo,Cypress,TX,1:01:30,Northwest Cycling Club
@@ -191,7 +191,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,500372,Barbara,Wu,Cypress,TX,0:34:46,Northwest Cycling Club
 4,533560,Gary,Alexander,Tomball,TX,0:42:02,Northwest Cycling Club
 4,416995,Jeanette,Tyler,Magnolia,TX,0:42:02,Northwest Cycling Club
-4,455885,SARA,GREEN,Spring,TX,0:42:02,Northwest Cycling Club
+4,455885,SARA,GREEN,Houston,TX,0:42:02,Northwest Cycling Club
 
 05/21/2017 Team Time Trial Men Master 70-99
 Place,License #,First,Last,City,State,Time,Team
@@ -215,7 +215,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,510897,Jen,Ingram,Katy,TX,1:02:02,
 2,478630,Brid,Mahony,Houston,TX,1:03:08,Northwest Cycling Club
 2,303890,Kathy,Garrett,Houston,TX,1:03:08,Northwest Cycling Club
-2,365139,Laurie,Poe,Spring,TX,1:03:08,Northwest Cycling Club
+2,365139,Laurie,Poe,Bulverde,TX,1:03:08,Northwest Cycling Club
 2,456003,Nancy,Kotinek,Tomball,TX,1:03:08,Northwest Cycling Club
 3,532385,Jennifer,Alpard,Houston,TX,1:05:31,
 3,533659,Maria,Carstens,Houston,TX,1:05:31,
@@ -235,7 +235,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,393180,Amber,Smolik,Stafford,TX,0:55:42,Team Elevate Racing
 1,389218,Christie,Tracy,Austin,TX,0:55:42,ATC Racing
 1,408322,Emily,Newsom,Fort Worth,TX,0:55:42,Team Elevate Racing
-1,288729,Jennifer,Wagner,Houston ,TX,0:55:42,Team Elevate Racing
+1,288729,Jennifer,Wagner,Houston,TX,0:55:42,Team Elevate Racing
 
 05/21/2017 Team Time Trial Women Cat 5
 Place,License #,First,Last,City,State,Time,Team
@@ -366,7 +366,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,466467,Adrine,Fontenot,Church Point,LA,1:02:49,Acadiana Bicycle Company Racing
 20,533858,dougal,grant,Houston,TX,1:03:34,
 21,532089,Larry,Wright,Iowa,LA,1:05:07,
-22,375820,Paul,Wakefield,Houston,TX,1:05:38,
+22,375820,Paul,Wakefield,Horseshoe Bay,TX,1:05:38,
 23,480197,Ronald,Breitwieser II,Houston,TX,1:06:24,Northwest Cycling Club
 24,533861,Aldrick,Garcia Mayans,Houston,TX,1:07:34,
 DNS,304576,Ryan,Coover,Austin,TX,N/A,Coover Caramels p/b ENVE Sweetness
@@ -407,7 +407,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,523086,Brent,Neal,Houston,TX,1:01:48,Northwest Cycling Club
 13,294738,Carlos,Barrios,Houston,TX,1:01:57,Nick Lopez Tailoring Cycling Team
 14,417213,Peter,Saulino,Missouri City,TX,1:02:32,Blue Agave Racing
-15,64163,Jeffrey,Kralik,Philadelphia,PA,1:02:57,QCW Cycling
+15,64163,Jeffrey,Kralik,Houston,TX,1:02:57,QCW Cycling
 16,494351,Juan,Acosta,Houston,TX,1:04:08,
 17,500832,Andrew,Joy,San Antonio,TX,1:05:21,Paragon Training
 18,482660,Gabriel,Couriel,Houston,TX,1:07:59,Northwest Cycling Club
@@ -446,11 +446,11 @@ Place,License #,First,Last,City,State,Time,Team
 5,308019,Carl,Stroud,Denton,TX,1:04:02,Dallas Racing
 6,429220,Christopher,Schneider,Katy,TX,1:04:29,Southwest Cycling Club Racing
 7,521819,Charles,Snider,Fort Worth,TX,1:04:34,Team Elevate Racing
-8,400785,Jeff,Makohon,Rockwall,TX,1:05:00,Rockwall Racing
+8,400785,Jeff,Makohon,Heath,TX,1:05:00,Rockwall Racing
 9,375203,chuck,terrell,Santa Fe,TX,1:07:03,Texas Pro Health Racing
 10,529876,Evan,Radler,Fort Worth,TX,1:07:10,Team Elevate Racing
 11,33346,W Kent,Snead,Georgetown,TX,1:10:07,ROL Wheels
-12,530627,Jerry,Venable,Rosenberg,TX,1:11:28,
+12,509583,Jerry,Venable,Richmond,TX,1:11:28,
 13,515006,Graeme,Craigon,Houston,TX,1:11:41,
 14,533899,Brian,Baker,Jersey Village,TX,1:22:52,Northwest Cycling Club
 
@@ -464,7 +464,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,527489,James,Griffis,The Woodlands,TX,1:02:37,
 7,514674,Lee,Glaesemann,Katy,TX,1:03:06,
 8,533559,Bryan,Gottfried,Spring,TX,1:03:14,
-9,533555,Jeremy,Hughes,Houston,,1:03:52,
+9,533555,Jeremy,Hughes,Houston,TX,1:03:52,
 10,527567,Cezar,Sandu,Heath,TX,1:04:11,
 11,527700,Andy,Scott,Houston,TX,1:05:00,Northwest Cycling Club
 12,509494,Marshall,Blanks,Conroe,TX,1:06:03,
@@ -474,7 +474,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,35099,John,Taylor,Cypress,TX,1:03:37,Northwest Cycling Club
 2,420185,Pat,Luciano,Katy,TX,1:04:07,Northwest Cycling Club
 3,392351,Colt,Clemens,Rockwall,TX,1:04:25,Rockwall Racing
-4,378945,Kevin,Duncan,Katy ,TX,1:04:54,Northwest Cycling Club
+4,378945,Kevin,Duncan,Katy,TX,1:04:54,Northwest Cycling Club
 5,438178,John,Walker,Tomball,TX,1:08:01,Northwest Cycling Club
 6,41109,Carl,Jones,Houston,TX,1:10:27,Northwest Cycling Club
 7,367301,lawrence,ocampo,Cypress,TX,1:12:30,Northwest Cycling Club
@@ -515,7 +515,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,68011,Jason,Bentley,Houston,TX,0:56:34,Bat City Cycling
 6,189732,Chris,Prince,Kingwood,TX,0:59:34,
 7,533430,Diego,Soto,Cypress,TX,1:01:24,
-8,336628,Edvin,Ordonez,Carrollton,TX,1:04:25,Crest/RBM Cycling
+8,336628,Edvin,Ordonez,The Colony,TX,1:04:25,Crest/RBM Cycling
 9,530360,Julian,Londono,Spring,TX,1:04:34,
 DNS,467963,Adrian,Chesters,Houston,TX,N/A,
 DNS,531389,Stephen,Mayor,Cypress,TX,N/A,
@@ -569,7 +569,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,349098,Gregory,Bilhartz,Round Rock,TX,1:01:33,Blur Racing p/b Austin Multi-Sport
 12,31723,Mark,Schnur,San Antonio,TX,1:05:07,
 13,533851,Robert,McNair,Houston,TX,1:08:05,Bike Barn (Texas)
-DNS,259608,Glenn,Harsin,New Braunfels ,TX,,
+DNS,259608,Glenn,Harsin,Ridge Manor,FL,,
 DNS,198066,Davis,Tucker,Austin,TX,,Red's Racing
 
 05/20/2017 Individual Time Trial Men Master 60-99
@@ -629,14 +629,14 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/20/2017 Individual Time Trial Women Cat 3/4/5 Master 40-99
 Place,License #,First,Last,City,State,Time,Team
-1,273884,Robyn,Poulson,Houston ,TX,0:59:49,
+1,273884,Robyn,Poulson,Houston,TX,0:59:49,
 2,217109,Joy,Brott,Belton,TX,1:01:43,Gritty Teeth Racing p/b Tri-City Bicycles
 3,303890,Kathy,Garrett,Houston,TX,1:02:24,Northwest Cycling Club
 4,300081,Lisa,Dannenbaum-Shaw,Katy,TX,1:02:48,Southwest Cycling Club Racing
 5,459550,Christy,Richbourg,Tyler,TX,1:03:00,FRESH Racing
 6,510897,Jen,Ingram,Katy,TX,1:03:59,
 7,413203,Heidi,Weelborg,Richmond,TX,1:06:08,Northwest Cycling Club
-8,365139,Laurie,Poe,Spring,TX,1:06:34,Northwest Cycling Club
+8,365139,Laurie,Poe,Bulverde,TX,1:06:34,Northwest Cycling Club
 9,474004,Lisa,Michele,Houston,TX,1:12:57,
 10,533690,Rosanna,Halter,Houston,TX,1:23:31,
 11,357555,Kristin,Blaise,Tyler,TX,1:30:35,FRESH Racing
@@ -647,7 +647,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,408322,Emily,Newsom,Fort Worth,TX,0:56:17,Team Elevate Racing
 2,389218,Christie,Tracy,Austin,TX,0:58:01,ATC Racing
 3,393180,Amber,Smolik,Stafford,TX,1:01:44,Team Elevate Racing
-4,288729,Jennifer,Wagner,Houston ,TX,1:02:48,Team Elevate Racing
+4,288729,Jennifer,Wagner,Houston,TX,1:02:48,Team Elevate Racing
 5,362136,Allison,Atkinson,Austin,TX,1:03:33,ATX HitSquad
 6,381993,Solymar,Rivera,Dallas,TX,1:06:23,Dallas Racing
 
@@ -741,7 +741,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,22496,Linda,Margraf,Southlake,TX,0:30:52,Colavita Racing Inc.
 2,532124,Suzanne,Wheatall,Houston,TX,0:31:38,
 3,283078,Deborah,Barton,Collegestation,TX,0:34:06,
-4,56226,Beth,Dawson,Austin,TX,0:34:21,
+4,56226,Beth,Dawson,Los Altos,CA,0:34:21,
 5,396959,Carole,Burroughs,Tyler,TX,0:36:34,FRESH Racing
 6,434863,Marsha,Cohen,Houston,TX,0:38:03,
 7,109256,Suzanne,Schmid,Waco,TX,0:38:29,
@@ -756,7 +756,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/20/2017 Individual Time Trial Mixed ITT Paralympic Handc
 Place,License #,First,Last,City,State,Time,Team
-1,501086,Radames,Rodriguez,San Antonio ,TX,0:33:22,
+1,501086,Radames,Rodriguez,San Antonio,TX,0:33:22,
 2,416331,Scott,Wells,Charlotte,NC,0:39:23,US Military Endurance Sports
 3,527214,Caleb,Daley,Tyler,TX,0:53:30,
 DNS,503185,Sara,Domson,Houston,TX,N/A,

@@ -24,7 +24,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,89187,Ryan,DeWald,Mount Penn,PA,,Delaware Valley
 21,193086,Ben,Renkema,Greenville,SC,,Palmetto State Medical Elite Cycling Team
 22,501222,Ed,Veal,,,,RealDeal Racing
-23,211435,zack,allison,Fort Collins ,CO,,Team Clif Bar
+23,211435,zack,allison,Fort Collins,CO,,Team Clif Bar
 24,295295,Ian,Baun,Pittsburgh,PA,,Cyclus Sports
 25,528230,Alberto,Covarrubias,Springdale,AR,,Stradalli Cycle/ Safetti
 26,263324,Parker,Kyzer,Spartanburg,SC,,Palmetto State Medical Elite Cycling Team
@@ -46,7 +46,7 @@ Place,License #,First,Last,City,State,Time,Team
 42,237586,Kevin,Mullervy,Centennial,CO,,TEAM CLIF BAR
 43,221975,Oscar,Clark,Athens,GA,,Holowesko/Citadel p/b Hincapie Sportswear
 44,270997,Robert,Sroka,North Royalton,OH,,First Internet Bank Cycling
-45,259043,John,ShalekBriski,Spokane,WA,,#N/A
+45,259043,John,ShalekBriski,Apo,AP,,#N/A
 46,243416,Mac,Brennan,Greenville,SC,,Holowesko/Citadel p/b Hincapie Sportswear
 47,477870,Jake,Magee,Boulder ,CO,,Texas Roadhouse
 DNF,297555,Chris,Meacham,Mooresville,NC,,Palmetto State Medical Elite Cycling Team
@@ -55,7 +55,7 @@ DNF,413700,Kyle,Danner,Greenville,SC,,CycleHaus
 DNF,0,#N/A,#N/A,,,,#N/A
 DNF,308793,Devin,Reavis,Elkin,NC,,HC Devo Elite p/b Monster Media
 DNF,0,#N/A,#N/A,,,,#N/A
-DNF,2443,John,Balmer,Indianapolis ,IN,,Century Road Club of America
+DNF,2443,John,Balmer,Indianapolis,IN,,Century Road Club of America
 DNF,0,#N/A,#N/A,,,,#N/A
 DNF,192750,Ted,Horwitz,Haverhill,MA,,Monster Media Racing pb Butcher Box
 DNF,0,#N/A,#N/A,,,,#N/A
@@ -67,7 +67,7 @@ DNF,439991,adam,schepps,San Diego,CA,,NYTRO MENS' TEAM p/b BREAKAWAY TRAINING
 DNF,0,#N/A,#N/A,,,,#N/A
 DNF,374968,Juan Carlos,Arias,Kennesaw,GA,,SOUTHERN CRESCENT CYCLING/EDA
 DNF,0,John,Stowe,,,,
-DNF,299251,Justin,McQuerry,Athens,GA,,Team Novo Nordisk Development
+DNF,299251,Justin,McQuerry,Austin,TX,,Team Novo Nordisk Development
 DNF,165037,sean,weddell,Boone ,NC,,Monster Media Racing
 DNF,211248,Steve M,Cullen,Seattle,WA,,MMR/BuctherBox
 DNF,0,Benjamin,Byyant,,,,Pharmaco-Deep South p/b NGCA
@@ -95,11 +95,11 @@ DNF,265398,Logan Lakota,Phippen,Athens,GA,,Team Novo Nordisk Development
 DNF,310312,Eric,Serantoni,Charlotte,NC,,Nine Lives Carbon Repair
 DNF,399927,Matt,Green,Delafield,WI,,First Internet Bank Cycling
 DNF,275823,Isaac,Strickland,Newnan,GA,,Ridley Masters Team p/b Reality bikes
-DNF,299251,Justin,McQuerry,Athens,GA,,Team Novo Nordisk Development
+DNF,299251,Justin,McQuerry,Austin,TX,,Team Novo Nordisk Development
 DNF,0,Raynauth,Jeffery,,,,Pharmaco-Deep South p/b NGCA
 DNF,237726,CONOR,Mullervy,Boulder,CO,,Team Clif Bar
 DNF,0,#N/A,#N/A,,,,#N/A
-DNF,374617,Chad,Conley,Cartersville,GA,,Pharmaco-Deep South p/b NGCA
+DNF,374617,Chad,Conley,Atlanta,GA,,Pharmaco-Deep South p/b NGCA
 DNF,256839,Taylor,Kruse,Columbus,OH,,Team Hungry
 DNF,156999,Rodney,Rios,Houston,TX,,Bike Barn Texas
 DNF,119871,Joshua,Friedman,Pittsburgh,PA,,GREEN LINE VELO driven by Zipcar
@@ -153,7 +153,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,477021,Alec,Harp,Lilburn,GA,,Prima Tappa
 23,393367,Michael,Garrison,Decatur,GA,,Holowesko/Citadel pb Hincapie Jr. Devo
 24,0,Eric,Hueston,,,,Towheels
-25,272407,Timothy J.,Killelea,Chattanooga ,TN,,Nashville local cycling
+25,272407,Timothy J.,Killelea,Chattanooga,TN,,Nashville local cycling
 26,425178,Colin,Kalescky,Clinton,TN,,United States Military Endurance Sports
 27,413726,Nick,Bruskewitz,Austin,TX,,
 28,234564,Peter,Goguen,Hopedale,MA,,RACE CF
@@ -162,7 +162,7 @@ Place,License #,First,Last,City,State,Time,Team
 31,448620,Jonathan,Crain,Birmingham,AL,,NSAT
 32,311382,William,Burton,Lexington,KY,,Commonwealth Eye Surgery pb Crankworks
 33,413113,Spencer,Moavenzadeh,Durham,NC,,Monster Media p/b ButcherBox
-34,217539,Nathan,Harris,Frisco,CO,,
+34,217539,Nathan,Harris,Spring,TX,,
 35,422849,Yukio,Mariner,Murfreesboro,TN,,Moab Race Team
 36,495796,thomas,pierczynski,Greenville,SC,,Cycle Haus Racing
 37,366936,Ethan,Sealy,Warner Robins,GA,,PCP Race Team
@@ -175,7 +175,7 @@ Place,License #,First,Last,City,State,Time,Team
 45,350322,Haegan,Altizer,Decatur,GA,,Snyder Factory Racing
 46,459366,Brian,Hale,Savannah,GA,,Hilton Head Cycling/Robson Forensic
 47,379060,W. Harrison,Nguy,Suwanee,GA,,Frazier Cycling
-48,175537,Cliff,Kugler,Simpsonville ,SC,,Cycle Haus Racing
+48,175537,Cliff,Kugler,Simpsonville,SC,,Cycle Haus Racing
 49,467721,Michael,Stella,Lilburn,GA,,Nouveau team/Ridley masters p/b reality bikes
 50,460129,Dana,Simmons,Roswell,GA,,Giovanni's Tile Design p/b Roswell Bicycles
 51,501128,Robert,Swift,Tampa,FL,,
@@ -383,7 +383,7 @@ Place,License #,First,Last,City,State,Time,Team
 04/29/2017 Criterium Men Masters 55+
 Place,License #,First,Last,City,State,Time,Team
 1,62179,Glenn,Sandefur,Pooler,GA,,Robson Forensic/ Hilton Head Cycling
-2,197646,Tim,Borsetti,Hendersonville,NC,,Cycles 54/XRCEL
+2,197646,Tim,Borsetti,Central,SC,,Cycles 54/XRCEL
 3,360757,Kevin,Clark,Geneva,FL,,FloridaVelo
 4,48691,john,turner,Suwanee,GA,,eptc
 5,274153,John,Strickland,Gainesville,GA,,Neuvo Vello
@@ -398,14 +398,14 @@ Place,License #,First,Last,City,State,Time,Team
 
 04/29/2017 Criterium Women Pro 1/2/3
 Place,License #,First,Last,City,State,Time,Team
-1,509477,Peta,Mullens,Tulsa,OK,,Hagens
+1,509477,Peta,Mullens,Oceanside,CA,,Hagens
 2,0,Beck,Wiasak,,,,Fearless Femme Racing
 3,41951,Tina,Pic,Bountiful,UT,,Papa John'sRacing p/b Trek
 4,217750,Christina,Gokey-Smith,Denton,TX,,Papa John's Racing p/b Trek
 5,36345,Laura,Van Gilder,Cresco,PA,,Mellow Mushroom Pizza Bakers p/b Van Dessel
 6,457092,Rachel,Langdon,Louisville,KY,,ISCorp p/b Progress Software
 7,529804,Caroline,Baur,,,,RMV Elgg/SUI
-8,267467,Christy,Keely,Greenville ,SC,,Fearless Femme Racing
+8,267467,Christy,Keely,Greenville,SC,,Fearless Femme Racing
 9,397657,Laura,Jorgensen,Asheville,NC,,
 10,406712,Megan,Heath,Alpharetta,GA,,Rally Cycling Devo
 11,89443,Tiffany,Pezzulo,Salt Lake City,UT,,LA Sweat
@@ -525,7 +525,7 @@ Place,License #,First,Last,City,State,Time,Team
 04/29/2017 Criterium Mixed Amateur Finals
 Place,License #,First,Last,City,State,Time,Team
 1,387697,Owen,Shott,Jacksonville Beach,FL,,Velobrew-AV Homes
-2,46770,Brian,Teipen,Alpharetta,GA,,#N/A
+2,46770,Brian,Teipen,Milton,GA,,#N/A
 3,508242,Seth,Callahan,Monroe,GA,,Frazier Cycling
 4,383705,David,Heath,Alpharetta,GA,,Frazier Cycling
 5,394026,Gabriel,Mendez,Columbus,GA,,Masters Cycling Systems
@@ -536,7 +536,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,403557,Eric,Moore,Greenville,SC,,Les Amis Cycling
 11,393312,Cliff,Mueller,Cornelius,NC,,HC Devo Elite p/b Monster Media
 12,297241,Brad,Parkerson,Loganville,GA,,Ridley Masters
-13,175537,Cliff,Kugler,Simpsonville ,SC,,Cycle Haus Racing
+13,175537,Cliff,Kugler,Simpsonville,SC,,Cycle Haus Racing
 14,413113,Spencer,Moavenzadeh,Durham,NC,,Monster Media p/b ButcherBox
 15,368468,Ernie,Pena,Tampa,FL,,FloridaVelo
 16,268919,Eric,Palacio,Atlanta,GA,,L5Flyers Cycling Team
@@ -544,12 +544,12 @@ Place,License #,First,Last,City,State,Time,Team
 18,484971,Michael,Lambert,Tuscaloosa,AL,,Team SH!FT p/b Cahaba Cycles
 19,112223,Reginald,Pineda,Cumming,GA,,Giovanni's Tile Design Racing p/b Roswell Bicycles
 20,413726,Nick,Bruskewitz,Austin,TX,,
-21,272407,Timothy J.,Killelea,Chattanooga ,TN,,Nashville local cycling
+21,272407,Timothy J.,Killelea,Chattanooga,TN,,Nashville local cycling
 22,2333,Kenny,Baker,Knoxville,TN,,VELOSOPHY
 23,311099,William,Sheftall,Huntersville,NC,,Raising Cane's Racing
 24,311382,William,Burton,Lexington,KY,,Commonwealth Eye Surgery pb Crankworks
 25,498547,Lawrence,Monks,Dadeville,AL,,AlaCOMP Race Team
-26,217539,Nathan,Harris,Frisco,CO,,
+26,217539,Nathan,Harris,Spring,TX,,
 27,495163,Will,Jessup,Orlando,FL,,Team Kyles Bike Shop
 28,477021,Alec,Harp,Lilburn,GA,,Prima Tappa
 29,467721,Michael,Stella,Lilburn,GA,,Nouveau team/Ridley masters p/b reality bikes

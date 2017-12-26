@@ -44,7 +44,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 02/05/2017 Criterium Women CATEGORY 3/4/5
 Place,License #,First,Last,City,State,Time,Team
-1,273884,ROBYN,POULSON,Houston ,TX,,
+1,273884,ROBYN,POULSON,Houston,TX,,
 2,525065,HELEN,SCOTT,Houston,TX,,
 3,493534,MARGARET,PACHECO,Houston,TX,,
 
@@ -77,7 +77,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,523904,JOSE,PEREZ,Houston,TX,,
 4,0,MOSES,RIOS,,,,
 5,0,ALEX,MALDONADO,,,,
-6,378945,KEVIN,DUNCAN,Katy ,TX,,
+6,378945,KEVIN,DUNCAN,Katy,TX,,
 7,0,EDUARDO,GARZA,,,,
 
 01/29/2017 Criterium Men CATEGORY 4/5
@@ -94,8 +94,8 @@ Place,License #,First,Last,City,State,Time,Team
 01/29/2017 Criterium Women CATEGORY 3/4/5
 Place,License #,First,Last,City,State,Time,Team
 1,487769,KENDALL,JACKSON,Austin,TX,,
-2,273884,ROBYN,POULSON,Houston ,TX,,
-3,365139,LAURIE,POE,Spring,TX,,
+2,273884,ROBYN,POULSON,Houston,TX,,
+3,365139,LAURIE,POE,Bulverde,TX,,
 4,0,HELEN,SCOTT,,,,
 5,426126,IRENE,BENAVIDES-PEREZ,College Station,TX,,
 6,423119,PAIGE,ZIZKA,Katy,TX,,
@@ -148,7 +148,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,393855,David,Switzer,Katy,TX,,
 23,504077,Eddie,Gonzalez,Houston,TX,,
 24,377722,Diego,Alonso,Austin,TX,,
-25,497181,Christian,Deschamps,Cypressc,TX,,
+25,497181,Christian,Deschamps,Cypress,TX,,
 26,0,George,Rangel,,,,
 27,475432,Jonathan,Toups,Shreveport,LA,,
 28,434154,Favad,Janjua,Katy,TX,,
@@ -219,9 +219,9 @@ Place,License #,First,Last,City,State,Time,Team
 
 01/15/2017 Criterium Women WOMENS CATEGORY 3/4
 Place,License #,First,Last,City,State,Time,Team
-1,273884,ROBYN,POULSON,Houston ,TX,,
+1,273884,ROBYN,POULSON,Houston,TX,,
 2,324962,KELLEY,DEVINE,Houston,TX,,
-3,365139,LAURIE,POE,Spring,TX,,
+3,365139,LAURIE,POE,Bulverde,TX,,
 4,429797,Clare,Gardner,Houston,TX,,
 5,432853,YULIE,JOHNSON,Corpus Christi,TX,,
 
@@ -232,5 +232,5 @@ Place,License #,First,Last,City,State,Time,Team
 3,417103,STUART,GARDNER,Houston,TX,,
 4,274529,DAVID,MILHAM,Spring,TX,,
 5,0,Moises,Rios,,,,
-6,520510,Aaron,Ortiz,Austin,TX,,
+6,511278,Aaron,Ortiz,Austin,TX,,
 7,0,EDUARDO,GARCIA,,,,

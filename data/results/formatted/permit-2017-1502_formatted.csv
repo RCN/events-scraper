@@ -12,7 +12,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,499663,Zev,Auchey,Raeford,NC,1:44:14.3,
 9,369504,Sam,Roach,Roanoke,VA,1:45:14.5,
 10,305207,Zachary,Lowden,Cary,NC,1:45:31.2,Oak City Cycling Project Race Team
-11,90455,Christopher,Kearnes,Wake Forest ,NC,1:49:27.1,Team Spoke Cycles
+11,90455,Christopher,Kearnes,Wake Forest,NC,1:49:27.1,Team Spoke Cycles
 DNF,226556,Seth,Kemp,Campobello,SC,DNF,Cyclus Sports
 DNF,192115,Bradford,Perley,Brevard,NC,DNF,
 DNF,91202,Ben,Brown,Wilmington,NC,DNF,J. A. King Racing
@@ -61,7 +61,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,514115,Jason,Willette,Jamestown,NC,53:48.2,
 2,526911,Josh,Ramsey,Winston-salem,NC,54:49.1,
-3,484980,Tom,Lazzaro,Belmont,NC,55:21.3,
+3,484980,Tom,Lazzaro,Crouse,NC,55:21.3,
 4,298994,Keith,Handlon,Apex,NC,56:42.3,
 5,390795,John,Fowler,Mount Pleasant,SC,57:26.0,
 6,509622,Joshua,McKay,Lillington,NC,59:01.1,
@@ -74,11 +74,11 @@ Place,License #,First,Last,City,State,Time,Team
 1,528770,Bradley,Howe,Belmont,NC,56:38.0,Velo 16 BSG
 2,467036,Chris,Huggins,Thomasville,NC,57:10.9,
 3,534677,Matt,Wilkins,Cary,NC,58:13.2,
-4,522388,Robert,Beasley,Monroe,NC,1:00:12.0,
+4,522388,Robert,Beasley,Chapel Hill,NC,1:00:12.0,
 5,303865,Cooper,Fowler,Mt. Pleasant,SC,1:00:54.3,
 6,416568,Michael,Obrien,Kernersville,NC,1:00:55.7,
 7,343928,Christopher,Hill,Linwood,NC,1:01:56.5,
-8,38341,Fred,Williams,Kingsport ,TN,1:03:03.1,
+8,38341,Fred,Williams,Kingsport,TN,1:03:03.1,
 9,460031,Mark,Simpson,Browns Summit,NC,1:03:07.8,J. A. King Racing
 10,503495,Michael,Milhorn,Johnson City,TN,1:03:40.1,
 11,517454,Tim,Riddle,Burlington,NC,1:04:47.1,
@@ -91,7 +91,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,502133,Jack,Sharples,Cary,NC,40:18.9,
 3,499329,Davis,Breedlove,Monroe,NC,40:22.6,Slippery Sasquatch
 4,422303,Ethan,White,Greensboro,NC,42:21.8,
-5,535479,Parks,Harrison,Hickory,NC,43:44.6,
+5,535477,Parks,Harrison,Hickory,NC,43:44.6,
 6,530698,Ely,Clark,Weaverville,NC,45:55.7,
 7,392013,William,Fowler,Mount Pleasant,SC,46:40.2,
 8,525933,MARIO,QUIVERA,Granite Falls,NC,54:15.7,
@@ -135,11 +135,11 @@ DNF,0,Ryan,Freeman,,,DNF,
 06/10/2017 Cross Country Men Cat 1 Masters 40+
 Place,License #,First,Last,City,State,Time,Team
 1,183183,Thomas,Rodgers,Greensboro,NC,1:40:03.0,
-2,132845,Michael,Mathers,Raleigh,NC,1:40:05.2,J. A. King Racing
+2,132845,Michael,Mathers,Wake Forest,NC,1:40:05.2,J. A. King Racing
 3,535513,Ryan,Danell,Winterville,NC,1:44:49.2,
 4,368141,Gabor,Szilagyi,Greensboro,NC,1:47:09.7,Trek Greensboro Generals
 5,30035,Gary,Roach,Roanoke,VA,1:49:19.1,
-6,364930,Mark,Jakubowski,Ronkonkoma,NY,1:49:54.3,Paniagua Cycling
+6,364930,Mark,Jakubowski,Cary,NC,1:49:54.3,Paniagua Cycling
 DNF,217857,Nathaniel,Ward,Lewisville,NC,DNF,
 DNF,233189,William,McDaniel,Raleigh,NC,DNF,Specialized Dumonde Tech
 

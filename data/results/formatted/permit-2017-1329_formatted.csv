@@ -10,7 +10,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,358927,Kyle,Russ,Madison,WI,1:30:30.7,Brazen Dropouts
 7,193027,Ray,Nelson,Woodstock,IL,1:30:50.8,Treadhead Cycling
 8,368031,Fletcher,Arlen,Wausau,WI,1:31:10.2,Schwag
-9,357121,Taylor,Hunter,Chicago ,IL,1:31:11.6,Spokes Bikes
+9,357121,Taylor,Hunter,Chicago,IL,1:31:11.6,Spokes Bikes
 10,214936,Nathan,Guerra,Oconomowoc,WI,1:32:35.5,Vision Cycling
 11,356588,Vincent,Steger,Fitchburg,WI,1:32:47.7,High Gravity
 12,306717,Peter,Kelley,Geneva,IL,1:33:56.2,Team Bicycle Heaven
@@ -59,7 +59,7 @@ DNF,0,Francisco,Gaytan Haeckel,,,0:00:00.0,Colectivo Coffee Team
 DNF,369471,Pawel,Rutkowski,Rockford,IL,0:00:00.0,Scarlet Fire Racing
 DNF,469239,Dan,Szczepanski,Sobieski,WI,0:00:00.0,BelGioioso/Steele Nutrition
 DNF,429599,Casey,Griesemer,Cambridge,WI,0:00:00.0,Team Neff Cycle Service
-DNF,456923,Jake,Peterson,Batavia,IL,0:00:00.0,Team Bicycle Heaven
+DNF,456923,Jake,Peterson,Elburn,IL,0:00:00.0,Team Bicycle Heaven
 DNF,185686,Jereme,Noffke,Madison,WI,0:00:00.0,L5 Racing
 DNF,155854,James,Holmes,Cross Plains,WI,0:00:00.0,
 DNF,246376,Rick,Mezo,Crown Point,IN,0:00:00.0,RBCKescom
@@ -81,7 +81,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,282686,Nico,Cabrera,Chicago,IL,1:23:25.3,Chicago CuttinCrew
 4,493702,James,Sawyer,Fitchburg,WI,1:23:43.7,
 5,427379,Dave,Wasikowski,Glenview,IL,1:26:51.4,
-6,208096,Wade,Flisram,Onalaska,WI,1:26:58.7,Hammer Nutrition/S.S.O.D.
+6,208096,Wade,Flisram,La Crosse,WI,1:26:58.7,Hammer Nutrition/S.S.O.D.
 7,487742,Matthew,McKay,Madison,WI,1:28:08.5,
 8,431724,Kerry,Gonzalez,Burlington,WI,1:29:03.7,Treadhead Cycling
 9,210181,Jeff,Steckbauer,Princeton,WI,1:29:11.7,Rib Mnt Cycles
@@ -246,7 +246,7 @@ Place,License #,First,Last,City,State,Time,Team
 97,532464,Neil,Halmstad,Chippewa Falls,WI,0:56:15.8,
 98,0,Jason,Sadlon,,,0:56:24.5,
 99,499125,Isaac,Johnson,Brookfield,WI,0:56:30.3,Wheel and Sprocket/VIsion
-100,428885,Reece,Rimrodt,Sun Prairie,WI,0:56:39.5,Sun Prairie Youth Cycling
+100,529250,Reece,Rimrodt,Sun Prairie,WI,0:56:39.5,Sun Prairie Youth Cycling
 101,467114,Doug,Emerson,Sheboygan,WI,0:57:24.6,Broken Spoke
 102,0,Ric,Cederholm,,,0:57:32.5,Team Suds
 103,0,Christian,Moore,,,0:57:50.6,Scarlet Knights
@@ -421,7 +421,7 @@ Place,License #,First,Last,City,State,Time,Team
 56,429960,Chip,Way,Burlington,WI,1:04:18.6,Milwaukee Bicycle Co Race Team
 57,307070,John,Felke,Elmwood Park,IL,1:37:15.0,
 57,469215,Jim,Gust,Batavia,IL,1:04:33.1,
-58,310413,Dave,Blanke,N. Barrington,IL,1:37:53.4,The Bike Haven
+58,310413,Dave,Blanke,Barrington,IL,1:37:53.4,The Bike Haven
 58,79703,Chuck,Cunningham,Bear Creek,WI,1:04:36.3,L.A.P.T.
 59,17365,Dwight,Ingalls,Oconomowoc,WI,1:39:43.2,OnPoint Fitness
 59,429525,Colin,Erskine,Madison,WI,1:04:45.7,Neff Cycle Service
@@ -432,7 +432,7 @@ Place,License #,First,Last,City,State,Time,Team
 63,428673,Ethan,Janssen,Mayville,WI,1:05:17.7,Diablo Cycling
 64,246726,Thomas,Dvoratchek,South Elgin,IL,1:05:19.2,
 65,0,Jay,Gunderson,,,1:05:22.3,Team Suds
-66,0,Walter,Sdrenka,,,1:05:24.1,Vision
+66,538244,Walter,Sdrenka,Carpentersville,IL,1:05:24.1,Vision
 67,356852,Christopher,McArdle,Greendale,WI,1:05:25.8,Colectivo Coffee
 68,358867,Matthew,Kletti,Appleton,WI,1:05:26.2,Loft & Shove
 69,262551,Don,Freitag,Marshall,WI,1:05:27.8,Team Extreme
@@ -487,7 +487,7 @@ Place,License #,First,Last,City,State,Time,Team
 118,454023,James,Price,Wonder Lake,IL,1:14:56.5,Bike Haven Race Team
 119,451372,Jeff,Beck,Ingleside,IL,1:16:10.2,
 120,0,Michael,Szlapka,,,1:16:13.2,
-121,435324,Hayden,Poff,Manitowoc,WI,1:16:36.1,Heavy Pedal Velo Club
+121,435324,Hayden,Poff,De Pere,WI,1:16:36.1,Heavy Pedal Velo Club
 122,369703,James,Padden,Traverse City,MI,1:16:57.1,Universal Racing
 123,0,Reed,Ellickson,,,1:17:19.3,
 124,475234,Chris,Kemble,Milwaukee,WI,1:17:28.5,Emerys
@@ -500,7 +500,7 @@ Place,License #,First,Last,City,State,Time,Team
 131,433593,Thom,Hineline,Brooklyn,WI,1:20:14.8,Capitol OffRoadPathfinders
 132,435307,Mike,Bons,Menomonee Falls,WI,1:20:36.5,
 133,0,Luke,Agnew,,,1:21:00.6,
-134,439289,Peter,Walton,New Orleans,LA,1:21:03.0,Team Suds
+134,439289,Peter,Walton,Houston,TX,1:21:03.0,Team Suds
 135,376527,Dennis,Malmanger,Janesville,WI,1:21:44.0,Janesville Velo Club
 136,0,Craig,Radmann,,,1:21:46.1,ECR Racing
 137,376076,Mike,Miller,Lodi,WI,1:22:04.7,Team Skunk
@@ -527,14 +527,14 @@ DNF,425245,Bob,Flicek,Mchenry,IL,0:00:00.0,Epic Cycle andFitness
 DNF,433722,Steve,Lipski,Greenfield,WI,0:00:00.0,The Bike Haven
 DNF,532157,Troy,Gengler,Reedsburg,WI,0:00:00.0,Team WORS
 DNF,529166,Ben,Gasper,Plymouth,WI,0:00:00.0,Sheboygan Bicycle Company
-DNF,499844,Nick,Aghakhan,Long Grove ,IL,0:00:00.0,Bike Haven Race Team
+DNF,499844,Nick,Aghakhan,Vernon Hills,IL,0:00:00.0,Bike Haven Race Team
 DNF,0,Johnson,Jimerson,,,0:00:00.0,Broken Spoke Racing
 DNF,431420,Samuel,Adams,Menomonee Falls,WI,0:00:00.0,Milwaukee Bicycle Company
 DNF,473413,Brian,Brockmann,Merrill,WI,0:00:00.0,Team Attivo
 DNF,528872,Isaac,Wendlick,Green Bay,WI,0:00:00.0,Broken Spoke Racing
 DNF,126893,Randy,Snyder,Dixon,IL,0:00:00.0,GACC
 DNF,347916,Porter,Thorpe,Wausau,WI,0:00:00.0,Rib Mountain Cycles/Red Eye Br
-DNF,342844,Ron,Smith,Fond Du Lac,WI,0:00:00.0,Team WORS
+DNF,342844,Ron,Smith,Casco,WI,0:00:00.0,Team WORS
 DNF,70548,Jeffrey,Hatton,Appleton,WI,0:00:00.0,Steele Nutrition
 DNF,345020,Paul,Baltus,Janesville,WI,0:00:00.0,Janesville Velo Club/Michael's
 DNF,389140,Stephen,Drew,Geneva,IL,0:00:00.0,Team Bicycle Heaven
@@ -550,7 +550,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,439727,Aidan,Lemorande,Suamico,WI,1:20:39.7,Pete's Garage Racing
 4,460092,Tristan N,Hauser,Wausau,WI,1:23:03.0,
 5,432325,Corbin,Hodgeman,Pardeeville,WI,1:25:27.2,
-6,0,Juan C,Gonzalez,,,1:28:15.9,Sammys Race Team
+6,299118,Juan,Gonzalez,Chicago,IL,1:28:15.9,Sammys Race Team
 7,406097,Owen,Reich,Pine River,WI,1:43:35.8,Team Extreme
 8,529484,Fangsheng,Zhou,Stevens Point,WI,2:19:21.6,
 
@@ -559,10 +559,10 @@ Place,License #,First,Last,City,State,Time,Team
 1,286164,Emma,Swartz,Madison,WI,1:17:48.6,Team Wisconsin
 2,307289,Amber,Markey,Madison,WI,1:20:02.7,
 3,532629,Lindsay,Guerra,Oconomowoc,WI,1:20:34.3,Vision Cycling
-4,350192,Leia,Schneeberger,Madison,WI,1:20:37.0,Broken Spoke Racing
+4,350192,Leia,Schneeberger,De Pere,WI,1:20:37.0,Broken Spoke Racing
 5,202435,Anna,Ganju,New Berlin,WI,1:23:44.8,Colectivo MTB
 6,467270,Holly,Lavesser,New Berlin,WI,1:24:39.5,Neff Cycle Service
-7,458771,Kristina,Navarro,Mc Farland,WI,1:32:05.3,Neff Cycle Service
+7,458771,Kristina,Navarro,Cambridge,WI,1:32:05.3,Neff Cycle Service
 8,473931,Katrina,Hurst,Lake Geneva,WI,1:33:12.7,Linear Sport /Trek
 9,350598,Maria,Statz,Wisconsin Rapida,WI,1:38:10.7,
 10,323492,Rebecca,Mikrut,Chicago,IL,1:39:05.2,Skunkworks Racing
@@ -639,15 +639,15 @@ Place,License #,First,Last,City,State,Time,Team
 25,434314,Aryana,Knudson,Casco,WI,1:23:56.7,Team WORS
 DNF,523117,Beth,Christensen,Green Bay,WI,0:00:00.0,Milwaukee Bicycle Co.
 DNF,459012,Arielle,Christensen,Green Bay,WI,0:00:00.0,Milwaukee Bicycle Company Raci
-DNF,499819,Paige,Smith,Fond Du Lac,WI,0:00:00.0,Team WORS
+DNF,499819,Paige,Smith,Casco,WI,0:00:00.0,Team WORS
 
 05/06/2017 Cross Country Women Cat 2 - Sport
 Place,License #,First,Last,City,State,Time,Team
 1,382905,Kaitlin,Kimberling,Claremont,CA,1:04:42.2,
-2,504237,Madelyn,Anderson,Eau Claire,WI,1:06:07.6,On The Rivet
+2,504237,Madelyn,Anderson,Eleva,WI,1:06:07.6,On The Rivet
 3,435361,Brooklyn,Waldner,Onalaska,WI,1:06:41.8,Bikes Limited
 4,434475,Kim,Biedermann,Oshkosh,WI,1:08:46.8,Winnebago Bikes
-5,425714,Kelsey,Phillips,Chicago,IL,1:09:24.2,Chicago CuttinCrew
+5,425714,Kelsey,Phillips,Bend,OR,1:09:24.2,Chicago CuttinCrew
 6,407243,Antonia,Gengler,Reedsburg,WI,1:09:57.8,ASU Devo
 7,368322,Leah,Fletcher,Waterford,WI,1:11:15.2,Vision/Wheel &Sprocket
 8,273362,Jennifer,Filipiak,Platteville,WI,1:12:10.4,n/a
@@ -664,7 +664,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,448299,Nicole,Pedrick,Cambridge,WI,1:20:51.4,2Rivers/Vision
 20,468451,heather,rainer,Burlington,WI,1:23:45.8,Treadhead Cycling
 21,0,Kelly,Raber,,,1:25:53.9,
-22,0,Sarah,Pruss,,,1:25:55.1,Loft and shove
+22,540903,Sarah,Pruss,Geneva,IL,1:25:55.1,Loft and shove
 23,503766,Lindsay,Bons,Menomonee Falls,WI,1:47:26.0,
 
 05/06/2017 Cross Country Women Cat 1 - Junior

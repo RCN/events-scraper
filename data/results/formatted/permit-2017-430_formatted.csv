@@ -9,22 +9,22 @@ Place,License #,First,Last,City,State,Time,Team
 5,283185,Anthony,FERRETTI,Oroville,CA,1:00:12,AMain Cycling Team
 6,409776,Alex,HOEHN,Lenexa,KS,1:00:12,Elevate-KHS Pro Cycling
 7,236923,Conner,BROWN,Grandview,MO,1:00:12,Elevate-KHS Pro Cycling
-8,381623,Owen,GILLOTT,Foster City ,CA,1:00:12,Storck-CCN
+8,381623,Owen,GILLOTT,Foster City,CA,1:00:12,Storck-CCN
 9,304797,Matt,CHATLAONG,Roseville,CA,1:00:12,Herbalife pb Marc Pro - Nature's Bakery
 10,0,Callum,GORDON,,,1:00:12,SoCalCycling.com
 11,459871,Brandon,BAKER,Santa Barbara,CA,1:00:12,STINNER BLACK SHEEP RACING
 12,282590,Griffin,EASTER,Upland,CA,1:00:12,Team Illuminate
-13,207262,Andrew,GOESSLING,El Cerrito,CA,1:00:12,Team Mike's Bikes pb Equator Coffees
-14,306325,William,MYERS,Orinda,CA,1:00:12,Herbalife pb Marc Pro - Nature's Bakery
+13,207262,Andrew,GOESSLING,Oakland,CA,1:00:12,Team Mike's Bikes pb Equator Coffees
+14,306325,William,MYERS,Davis,CA,1:00:12,Herbalife pb Marc Pro - Nature's Bakery
 15,397835,Cole,DAVIS,Folsom,CA,1:00:12,NCCF Team Specialized Juniors
 16,192584,Shane,KLINE,Bally,PA,1:00:12,Rally Cycling
-17,456576,Sam,BOARDMAN,Washington,CA,1:00:12,Herbalife pb Marc Pro - Nature's Bakery
+17,456576,Sam,BOARDMAN,Los Angeles,CA,1:00:12,Herbalife pb Marc Pro - Nature's Bakery
 18,219434,Justin,MAUCH,Sterling,VA,1:00:12,Herbalife pb Marc Pro - Nature's Bakery
-19,342402,Kevin,GIRKINS,Austin,TX,1:00:12,Elbowz Racing
-20,222542,Emerson,ORONTE,Boulder,CO,1:00:12,Rally Cycling
+19,342402,Kevin,GIRKINS,San Marcos,TX,1:00:12,Elbowz Racing
+20,222542,Emerson,ORONTE,Louisville,CO,1:00:12,Rally Cycling
 21,319002,Innokenty,ZAVYALOV,San Marcos,CA,1:00:18,Elevate-KHS Pro Cycling
 22,442824,Rene,Corella,,,1:00:18,Start Vaxes Cycling Team
-23,522775,Leon,Gledhill,Santa Clara,CA,1:00:18,Team Mike's Bikes pb Equator Coffees
+23,494043,Leon,Gledhill,,,1:00:18,Team Mike's Bikes pb Equator Coffees
 24,422564,Jeremy,RUSSELL,Portland,OR,1:00:18,River City Bicycles
 25,403731,Gavin,MURRAY,Sebastopol,CA,1:00:18,Storck-CCN
 26,372580,Brad,NEAGOS,Grand Rapids,MI,1:00:18,Team Illuminate
@@ -32,7 +32,7 @@ Place,License #,First,Last,City,State,Time,Team
 28,343054,Cameron,PIPER,Morgan Hill,CA,1:00:18,Team Illuminate
 29,295492,Jules,GILLIAM,Manhattan Beach,CA,1:00:18,Team Specialized Racing
 30,373958,Jules,GOGUELY,Palo Alto,CA,1:00:18,Storck-CCN
-31,211435,Zack,ALLISON,Fort Collins ,CO,1:00:18,Team Clif Bar Elite
+31,211435,Zack,ALLISON,Fort Collins,CO,1:00:18,Team Clif Bar Elite
 32,169774,Brian,MCCULLOCH,Yucaipa,CA,1:00:18,Elevate-KHS Pro Cycling
 33,244581,Cullen,EASTER,Grand Junction,CO,1:00:18,Team Illuminate
 34,263998,Reese,LEVINE,Orinda,CA,1:00:18,Team Mike's Bikes pb Equator Coffees
@@ -122,14 +122,14 @@ Place,License #,First,Last,City,State,Time,Team
 3,286823,Joseph,FOSTER,Alamo,CA,0:41:02,ThirstyBear pb Akamai
 4,360492,Dean,ABT,Oakland,CA,0:41:02,Team Oakland Cycling
 5,39478,Hunter,ZIESING,Bel Tiburon,CA,0:41:02,Hammer Nutrition/53x11
-6,345270,Brian,MCANDREWS,Danville,CA,0:41:02,ThirstyBear pb Akamai
+6,345270,Brian,MCANDREWS,Spring,TX,0:41:02,ThirstyBear pb Akamai
 7,192774,Kevin,WILLITTS,S Lake Tahoe,CA,0:41:02,3Ft - It's The Law
 8,196222,Hans,GOUWENS,Corte Madera,CA,0:41:02,ThirstyBear pb Akamai
 9,33092,Darryl,SMITH,Pleasanton,CA,0:41:02,R4R-Make A Wish
 10,371699,John,MARENGO,Fair Oaks,CA,0:41:02,Team City Racing
 11,356162,Ryosei,KANEKO,El Sobrante,CA,0:41:14,ol republic/SERT
 12,181341,Robert,MCWHORTER,Divide,CO,0:41:23,US Military Endurance Sports
-13,46151,Jim,SULLIVAN,Calistoga,CA,0:41:23,Unattached
+13,46151,Jim,SULLIVAN,Davis,CA,0:41:23,Unattached
 14,300056,Lance,HAAG,Fairfax,CA,0:41:23,ThirstyBear pb Akamai
 DNF,71802,Jon,ORNSTIL,San Francisco,CA,,Hammer Nutrition/53x11
 
@@ -145,7 +145,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,129753,Paul,VACCARI,Upland,CA,0:38:51,Monster media
 9,272237,Cale,REEDER,Albuquerque,NM,0:38:51,Hammer/53x11
 10,141309,Rick,LAWTON,Pleasanton,CA,0:38:51,R4R-Make A Wish
-11,201585,Dan,QUIRK,Petaluma,CA,0:38:51,ThirstyBear pb Akamai
+11,201585,Dan,QUIRK,Sonoma,CA,0:38:51,ThirstyBear pb Akamai
 12,9524,Jeff,DILLON,Folsom,CA,0:38:51,Folsom Bike/Trek
 13,394292,Richard,REINHARDT,Sacramento,CA,0:38:51,Folsom Bike/Trek Men's Road Team
 14,6422,Mike,CASTALDO,Chico,CA,0:38:51,Chico Cycling Team
@@ -168,7 +168,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 02/26/2017 Criterium Men Masters 35+ Cat 3-4
 Place,License #,First,Last,City,State,Time,Team
-31,378563,Kurt,BROWN,Minneapolis,CA,0:31:02,Dolce Vita Freewheel
+31,378563,Kurt,BROWN,San Francisco,CA,0:31:02,Dolce Vita Freewheel
 
 02/26/2017 Criterium Men Masters 35+ Cat 3-4 35-99
 Place,License #,First,Last,City,State,Time,Team
@@ -268,7 +268,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,500905,Joe,KRUEGEL,Grass Valley,CA,0:31:22,Ol' Republic Sho-Air
 16,475727,Justin,LAIR,Bend,OR,0:31:22,Team Oregon
 17,509552,Oscar,MARTINSSON,San Francisco,CA,0:31:23,Team Mike's Bikes pb Equator Coffee
-18,498709,Mikal,DAVIS,Menlo Park,CA,0:31:23,TMB Development pb Equator
+18,498709,Mikal,DAVIS,Redwood City,CA,0:31:23,TMB Development pb Equator
 19,137885,Travis,BURLESON,Roxbury,MA,0:31:23,Blue Hills Cycling Club
 20,399678,Trevor,GILMORE,San Francisco,CA,0:31:23,TMB Development pb Equator
 21,502469,Alex,ATMORE,San Francisco,CA,0:31:24,PenVelo
@@ -288,7 +288,7 @@ Place,License #,First,Last,City,State,Time,Team
 35,493642,Andrew,YEAGER,Folsom,CA,0:31:27,Limitless Cycling pb GoodyFinder.com
 36,458131,Michael,DUFFY,San Francisco,CA,0:31:27,0
 37,425279,James,LONGWAY,Chico,CA,0:31:28,Chico Cycling Team
-38,282259,Matthew,MARINELLI,Towson,MD,0:31:28,Team BBC pb Baltimore Bicycle Works
+38,282259,Matthew,MARINELLI,Baltimore,MD,0:31:28,Team BBC pb Baltimore Bicycle Works
 39,523100,Justin,Maguire,Sausalito,CA,0:31:28,Citycycle
 40,322792,Matthew,SANTILLAN,Fairfield,CA,0:31:28,CBRE Racing
 41,459105,Kaito,CLARKE,Milpitas,CA,0:31:28,SJBC
@@ -309,7 +309,7 @@ Place,License #,First,Last,City,State,Time,Team
 56,495184,Jeremy,POND,Rocklin,CA,0:34:25,Limitless Cycling
 57,277289,Joseph,MARINELLI,Brighton,MA,0:34:25,Blue Hills Cycling Club
 58,368889,Carson,HEDRICK,Seattle,WA,0:34:25,HEDRICK RACING
-59,307201,Nye,YACKLE,Spokane ,WA,0:34:46,Yackle Brothers Racing
+59,307201,Nye,YACKLE,Spokane,WA,0:34:46,Yackle Brothers Racing
 60,458621,Jude,VANNI,Rosev,CA,0:34:46,Limitless Cycling pb GoodyFinder.com
 61,518435,Anthony,DE LA TORRE,San Bruno,CA,0:34:46,0
 62,495761,John,HUGHES,Spring Creek,NV,0:34:46,0
@@ -322,7 +322,7 @@ DNF,347404,Adam,STANSBURY,El Dorado Hills,CA,,Folsom Bike/Trek/Raley's- Men's Ro
 02/26/2017 Criterium Men Cat 3
 Place,License #,First,Last,City,State,Time,Team
 1,286429,Will,KANZ,Davis,CA,0:39:23,Davis Bike Club Race Team
-2,266583,Douglas,SCHALLER,Belmont ,CA,0:39:23,Bloc Racing
+2,266583,Douglas,SCHALLER,Belmont,CA,0:39:23,Bloc Racing
 3,458972,Theo,GOGUELY,Menlo Park,CA,0:39:23,TMB Development pb Equator
 4,404458,Allen,LIN,Santa Clara,CA,0:39:23,0
 5,460867,Mark,MORTON,Lakeport,CA,0:39:23,Cycle Sport - Specialized pb Muscle Milk
@@ -338,7 +338,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,382116,Simon,TUTTLE,Walnut Creek,CA,0:39:23,Bloc Racing
 16,477280,Neil,LEONARD,San Francisco,CA,0:39:23,Dolce Vita Freewheel
 17,497517,Zane,JENSEN,Lakeport,CA,0:39:23,Main Street Elite pb Main Street Bicycles
-18,307192,Jake,YACKLE,Spokane ,WA,0:39:23,Yackle Brothers Racing
+18,307192,Jake,YACKLE,Spokane,WA,0:39:23,Yackle Brothers Racing
 19,457144,Brian,KOHAGEN,Boise,ID,0:39:23,Rolling H Cycles
 20,327014,Justin,BALDERSTON,Newark,CA,0:39:23,TMB Development pb Equator
 21,366956,Ashton,LYLE,Benicia,CA,0:39:23,SquadraSF pb Terun
@@ -362,9 +362,9 @@ Place,License #,First,Last,City,State,Time,Team
 39,350058,Morgan,COLE,Portola Valley,CA,0:39:31,SunPower Racing
 40,333136,Sean,BRANDT,Alameda,CA,0:39:31,Dolce Vita Freewheel pb SL2
 41,394845,Matt,CARVELL,Woodside,CA,0:39:35,SunPower Racing
-42,442816,Matthew,PAEZ,Reno,NV,0:39:37,Orange Pedal Cycling
+42,442816,Matthew,PAEZ,Bend,OR,0:39:37,Orange Pedal Cycling
 43,460267,Ben,MARSHALL,Berkeley,CA,0:39:41,TMB Development pb Equator
-44,286323,James,YANG,Costa Mesa ,CA,0:39:42,0
+44,286323,James,YANG,Berkeley,CA,0:39:42,0
 45,396434,Matthew,SWARTWOUT,Mountain View,CA,0:41:01,TMB Development pb Equator
 46,501065,Julien,SCHALLER,Los Altos,CA,0:41:34,SunPower Racing
 47,303430,Alex,BRAUNSTEIN,San Francisco,CA,0:41:34,Dolce Vita Freewheel pb SL2
@@ -394,8 +394,8 @@ Place,License #,First,Last,City,State,Time,Team
 17,440638,Taylor,KRING,Granite Bay,CA,0:38:31,Limitless Cycling pb GoodyFinder.com
 18,416256,Steven,FULLER,Claremont ,CA,0:38:31,SC Velo
 19,398391,Kyle,Stoffan Thornton,Boise,ID,0:38:31,Mercedes Benz pb Thrivent Financial
-20,207547,Michael,CORDOVA,Chico,CA,0:38:31,Chico Masters Cycling Team
-21,269966,Chester,GILLMORE,Santa Barbara,CA,0:38:31,Dolce Vita Freewheel pb SL2
+20,524998,Michael,CORDOVA,Chico,CA,0:38:31,Chico Masters Cycling Team
+21,269966,Chester,GILLMORE,San Francisco,CA,0:38:31,Dolce Vita Freewheel pb SL2
 22,318306,Samuel,HILL,Woodland,CA,0:38:31,Williams Cycling
 23,380345,Marcus,BELTRAMO,San Francisco,CA,0:38:31,Dolce Vita Freewheel pb SL2
 24,419309,John,JANNECK,Brea,CA,0:38:31,SC Velo
@@ -415,7 +415,7 @@ Place,License #,First,Last,City,State,Time,Team
 38,258824,Ryan,OAKES,Chico,CA,0:38:36,AMain Cycling Team
 39,366768,Raul,Arias J.R.,East Palo Alto,CA,0:38:37,SquadraSf pb
 40,397013,Christopher,BEALL,Burlingame,CA,0:38:37,LOW//Factory Racing
-41,380700,Martin,SZWARC,San Francisco ,CA,0:38:37,Cycle Sport  Specialized
+41,380700,Martin,SZWARC,San Francisco,CA,0:38:37,Cycle Sport  Specialized
 42,420048,Greg,MCCULLOUGH,San Francisco,CA,0:38:37,Cycle Sport  Specialized
 43,270844,Jason,PAEZ,Whittier,CA,0:38:37,SC Velo
 44,414898,Jackson,DUNCAN,Santa Rosa,CA,0:38:38,HEDRICK RACING
@@ -432,24 +432,24 @@ Place,License #,First,Last,City,State,Time,Team
 2,0,Claire,ROSE,,,0:39:26,Visit Dallas DNA Pro Cycling
 3,287816,Ivy,AUDRAIN,Bellingham,WA,0:39:26,Hagens Berman | Supermint
 4,202033,Starla,TEDDERGREEN,Portland,OR,0:39:26,Hagens Berman | Supermint
-5,317802,Holly,BRECK,Santa Ynez,CA,0:39:26,Sho-Air TWENTY20
+5,317802,Holly,BRECK,San Dimas,CA,0:39:26,Sho-Air TWENTY20
 6,420158,Hanna,MUEGGE,Marina,CA,0:39:26,Visit Dallas DNA Pro Cycling
 7,145511,Liza,RACHETTO,Boise,ID,0:39:26,Hagens Berman | Supermint
-8,267768,Lindsay,BAYER,Reston,VA,0:39:26,Hagens Berman | Supermint
+8,267768,Lindsay,BAYER,Chantilly,VA,0:39:26,Hagens Berman | Supermint
 9,230062,Erica,ZAVETA,Brevard,NC,0:39:26,Cylance Pro Cycling
 10,292211,Jennifer,TETRICK,Sausalito,CA,0:39:26,Team TIBCO-Silicon Valley Bank
 11,0,Sofia,ARREOLA NAVARRO,,,0:39:26,Sho-Air TWENTY20
 12,366011,Krista,DOEBEL-HICKOK,Marina Del Rey,CA,0:39:26,Cylance Pro Cycling
 13,300089,Skylar,SCHNEIDER,West Allis,WI,0:39:26,Team Illuminate
-14,355078,Mandy,HEINTZ,Phoenix,AZ,0:39:26,Visit Dallas DNA Pro Cycling
+14,355078,Mandy,HEINTZ,Scottsdale ,AZ,0:39:26,Visit Dallas DNA Pro Cycling
 15,395502,Megan,ALDERETE,San Francisco,CA,0:39:26,UCI WT: Hagens Berman | Supermint
 16,375540,Kristen,ARNOLD,Columbus,OH,0:39:26,Velo Classic pb Stan's NoTubes
 17,269569,Marissa,AXELL,El Cerrito,CA,0:39:26,JL Velo Cycling Team pb The Freewheel
-18,230397,Shayna,POWLESS,Roseville,CA,0:39:26,Sho-Air TWENTY20
+18,230397,Shayna,POWLESS,Jacksonville,FL,0:39:26,Sho-Air TWENTY20
 19,392651,Melanie,WONG,Oakland,CA,0:39:26,Folsom Bike/Trek
 20,424919,Ayesha,MCGOWAN,El Sobrante,CA,0:39:26,Jakroo presented by Chrome Industries
 21,457092,Rachel,LANGDON,Louisville,KY,0:39:26,Team Illuminate
-22,343484,Summer,MOAK,Phoenix,AZ,0:39:26,Sho-Air TWENTY20
+22,343484,Summer,MOAK,Scottsdale,AZ,0:39:26,Sho-Air TWENTY20
 23,395081,Brenna,WRYE-SIMPSON,Portland,OR,0:39:26,LA Sweat
 24,280870,Jennifer,LUEBKE,Bend,OR,0:39:26,Visit Dallas DNA Pro Cycling
 25,293983,Jessica,CERRA,Encinitas,CA,0:39:26,Hagens Berman | Supermint
@@ -463,7 +463,7 @@ Place,License #,First,Last,City,State,Time,Team
 33,347126,Jo,CELSO,Vista,CA,0:39:26,Jakroo presented by Chrome Industries
 34,459301,Liz,OTTO HAMEL,Palo Alto,CA,0:39:26,Folsom Bike/Trek
 35,401364,Leah,THOMAS,Boulder Creek,CA,0:39:26,Sho-Air TWENTY20
-36,263791,Breanne,NALDER,Murray,UT,0:39:35,Visit Dallas DNA Pro Cycling
+36,263791,Breanne,NALDER,Millcreek,UT,0:39:35,Visit Dallas DNA Pro Cycling
 37,362328,Beth Ann,ORTON,Bend,OR,0:39:35,Hagens Berman | Supermint
 38,203755,Amanda,SEIGLE,Citrus Heights,CA,0:40:11,Jakroo presented by Chrome Industries
 39,458871,Megan,RUBLE,Modesto,CA,0:40:14,Cycle Sport-Specialized pb Muscle Milk
@@ -479,7 +479,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,396175,Naomi,HESTER,Davis,CA,0:28:42,JLVelo Cycling Team pb The Freewheel
 2,496675,Maddy,WARD,Los Angeles,CA,0:28:42,Velo Club La Grange +21
 3,334726,Rachel,GEITER,Milwaukie,OR,0:28:42,Razzle Dazzle
-4,455528,Shelby,TRAMEL,San Francisco,CA,0:28:42,RAZZLE DAZZLE
+4,455528,Shelby,TRAMEL,Oakkland,CA,0:28:42,RAZZLE DAZZLE
 5,457199,Erica,MENZE,Portland,OR,0:28:42,Team Oregon pb Laurelwood Brewing Company
 6,287914,Nicole,SLATON,Davis,CA,0:28:42,JLVelo Cycling Team pb The Freewheel
 7,340330,Eleanor,VELEZ,El Dorado Hills,CA,0:28:42,0
@@ -489,17 +489,17 @@ Place,License #,First,Last,City,State,Time,Team
 11,494210,Kortney,PARMAN,San Francisco,CA,0:28:42,JL Velo
 12,425153,Ginger,BOYD,Los Angeles,CA,0:28:42,STINNER BLACK SHEEP RACING
 13,0,Anna,ERIKSMO,,,0:28:42,CK Ringen
-14,485936,Trish,PABLO,Sacramento ,CA,0:28:42,Team Mike's Bikes pb Equator Coffees
+14,485936,Trish,PABLO,Rodeo,CA,0:28:42,Team Mike's Bikes pb Equator Coffees
 15,458352,Loran,VILAS,Chico,CA,0:28:42,Chico Cycling Team
 16,277526,June,NGUYEN,Santa Rosa,CA,0:28:42,JLVelo Cycling Team pb The Freewheel
 17,17778,Lesley,JENSEN,Benicia,CA,0:28:48,JLVelo Cycling Team pb The Freewheel
 18,385403,Diana,CEDENO,Novato,CA,0:28:48,JLVelo Cycling Team pb The Freewheel
 19,458805,Lindsay,BARLOW,Menlo Park,CA,0:28:48,JLVelo Cycling Team pb The Freewheel
-20,340844,Jennifer,WILSON,Cambridge,MA,0:28:48,RAZZLE DAZZLE
+20,340844,Jennifer,WILSON,Los Gatos,CA,0:28:48,RAZZLE DAZZLE
 21,466237,Diniana,PIEKUTOWSKI,Stanford,CA,0:28:42,RAZZLE DAZZLE
-22,306378,Kristen,HILL,Woodland,CA,0:28:53,Williams Cycling
+22,306378,Kristen,HILL,Sacramento,CA,0:28:53,Williams Cycling
 23,459878,Trixie,BRADLEY,Pilot Hill,CA,0:29:41,Team Roseville Cyclery
-24,526214,Caroline,LEA,Mill Valley,CA,0:29:41,Olympic Club
+24,440213,Caroline,LEA,Mill Valley,CA,0:29:41,Olympic Club
 25,419981,Meisin,YAN,San Francisco,CA,0:38:15,Team Mike's Bikes pb Equator Coffees
 26,394566,Katie,BOERNER,Chico,CA,0:43:01,Chico Cycling Team
 DNF,522553,Alison,KUBOTA,San Francisco,CA,,JLVelo Cycling Team pb The Freewheel
@@ -519,14 +519,14 @@ Place,License #,First,Last,City,State,Time,Team
 9,393803,Richard,HOLEC,Murrieta,CA,6:12:11,LUX/Stradling
 10,279095,Eric,YOUNG,Boulder,CO,6:12:13,Rally Cycling
 11,347932,Sean,BENNETT,El Cerrito,CA,6:12:15,jelly belly pb maxxis
-12,222542,Emerson,ORONTE,Boulder,CO,6:12:33,Rally Cycling
+12,222542,Emerson,ORONTE,Louisville,CO,6:12:33,Rally Cycling
 13,267361,Chris,RIEKERT,San Jose,CA,6:12:38,Team Mike's Bikes pb Equator Coffees
 14,263055,Torey,PHILIPP,El Dorado Hills,CA,6:12:59,Herbalife pb Marc Pro - Nature's Bakery
 15,220775,Thomas,SOLADAY,Minnetonka,MN,6:13:02,Rally Cycling
 16,154883,Jesse,ANTHONY,Newbury Park,CA,6:13:02,Rally Cycling
 17,282590,Griffin,EASTER,Upland,CA,6:13:13,Team Illuminate
 18,397835,Cole,DAVIS,Folsom,CA,6:13:14,NCCF Team Specialized Juniors
-19,381623,Owen,GILLOTT,Foster City ,CA,6:13:21,Storck-CCN
+19,381623,Owen,GILLOTT,Foster City,CA,6:13:21,Storck-CCN
 20,442824,Rene,Corella,,,6:13:23,Start Vaxes Cycling Team
 21,366582,Jason,GANDZJUK,Salinas,CA,6:13:51,Cycle Sport  Specialized
 22,218686,Jacob,RATHE,Portland,OR,6:13:51,Jelly Belly Cycling pb Maxxis
@@ -538,14 +538,14 @@ Place,License #,First,Last,City,State,Time,Team
 28,254728,Austin,ARGUELLO,Beaverton,OR,6:15:08,Grixsen Brewing pb Westend Bikes
 29,445034,Orlando,Garibay,,,6:15:38,Cylance Pro Cycling
 30,283185,Anthony,FERRETTI,Oroville,CA,6:16:01,AMain Cycling Team
-31,342402,Kevin,GIRKINS,Austin,TX,6:16:20,Elbowz Racing
-32,456576,Sam,BOARDMAN,Washington,CA,6:16:50,Herbalife pb Marc Pro - Nature's Bakery
+31,342402,Kevin,GIRKINS,San Marcos,TX,6:16:20,Elbowz Racing
+32,456576,Sam,BOARDMAN,Los Angeles,CA,6:16:50,Herbalife pb Marc Pro - Nature's Bakery
 33,394106,Cameron,CLARK,Bend,OR,6:18:16,Team Oregon presented by Laurelwood Brewing
 34,218355,Samuel (Hunter),Snipe Grove,Pomona,CA,6:18:22,Cylance Pro Cycling
 35,169774,Brian,MCCULLOCH,Yucaipa,CA,6:18:42,Elevate-KHS Pro Cycling
 36,422564,Jeremy,RUSSELL,Portland,OR,6:18:53,River City Bicycles
 37,425803,Cameron,BRONSTEIN,Berkeley,CA,6:19:57,Team Mike's Bikes pb Equator Coffees
-38,207262,Andrew,GOESSLING,El Cerrito,CA,6:20:49,Team Mike's Bikes pb Equator Coffees
+38,207262,Andrew,GOESSLING,Oakland,CA,6:20:49,Team Mike's Bikes pb Equator Coffees
 39,373958,Jules,GOGUELY,Palo Alto,CA,6:20:52,Storck-CCN
 40,275223,Craig,FELLERS,Santa Cruz,CA,6:21:00,Team Mike's Bikes pb Equator Coffees
 41,332190,Chris,HARLAND-DUNAWAY,Berkeley,CA,6:21:33,Herbalife pb Marc Pro - Nature's Bakery
@@ -555,8 +555,8 @@ Place,License #,First,Last,City,State,Time,Team
 45,263998,Reese,LEVINE,Orinda,CA,6:24:49,Team Mike's Bikes pb Equator Coffees
 46,403731,Gavin,MURRAY,Sebastopol,CA,6:24:54,Storck-CCN
 47,486720,Jaap,BERG,Redding,CA,6:25:06,AMain Cycling Team
-48,211435,Zack,ALLISON,Fort Collins ,CO,6:26:16,Team Clif Bar Elite
-49,522775,Leon,Gledhill,Santa Clara,CA,6:26:45,Team Mike's Bikes pb Equator Coffees
+48,211435,Zack,ALLISON,Fort Collins,CO,6:26:16,Team Clif Bar Elite
+49,494043,Leon,Gledhill,,,6:26:45,Team Mike's Bikes pb Equator Coffees
 50,411789,Ben,FOSTER,Topanga,CA,6:27:56,Support Clean Sport / Sea Sucker / Guttenplan Coaching
 51,280894,Alex,DARVILLE,Santa Barbara,CA,6:31:09,STINNER BLACK SHEEP RACING
 52,272559,Aj,SNOVEL,Sacramento,CA,6:32:43,Davis Bike Club Elite Team
@@ -573,7 +573,7 @@ Place,License #,First,Last,City,State,Time,Team
 63,289282,Brian,FUNK,Menlo Park,CA,7:14:13,Cycle Sport  Specialized pb Muscle Milk
 64,330938,Joseph,BACALA,Albuquerque,NM,7:14:48,4D Racing
 65,197316,Justin,WILLIAMS,Los Angeles,CA,7:16:42,Cylance Pro Cycling
-66,306325,William,MYERS,Orinda,CA,7:17:23,Herbalife pb Marc Pro - Nature's Bakery
+66,306325,William,MYERS,Davis,CA,7:17:23,Herbalife pb Marc Pro - Nature's Bakery
 
 02/26/2017 Stage Race Men Masters Cat 4-5 45-99
 Place,License #,First,Last,City,State,Time,Team
@@ -611,12 +611,12 @@ Place,License #,First,Last,City,State,Time,Team
 5,196222,Hans,GOUWENS,Corte Madera,CA,6:04:07,ThirstyBear pb Akamai
 6,371699,John,MARENGO,Fair Oaks,CA,6:05:25,Team City Racing
 7,33092,Darryl,SMITH,Pleasanton,CA,6:08:17,R4R-Make A Wish
-8,345270,Brian,MCANDREWS,Danville,CA,6:11:45,ThirstyBear pb Akamai
+8,345270,Brian,MCANDREWS,Spring,TX,6:11:45,ThirstyBear pb Akamai
 9,360492,Dean,ABT,Oakland,CA,6:17:09,Team Oakland Cycling
 10,356162,Ryosei,KANEKO,El Sobrante,CA,6:18:31,ol republic/SERT
 11,192774,Kevin,WILLITTS,S Lake Tahoe,CA,6:18:48,3Ft - It's The Law
 12,300056,Lance,HAAG,Fairfax,CA,6:34:02,ThirstyBear pb Akamai
-13,46151,Jim,SULLIVAN,Calistoga,CA,6:38:03,Unattached
+13,46151,Jim,SULLIVAN,Davis,CA,6:38:03,Unattached
 14,181341,Robert,MCWHORTER,Divide,CO,7:11:03,US Military Endurance Sports
 
 02/26/2017 Stage Race Men Masters 45+ Cat 1-2-3 45-99
@@ -633,7 +633,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,60511,Gardie,JACKSON,Larkspur,CA,5:51:03,ThirstyBear pb Akamai
 11,286421,Rich,NICHOLS,Danville,CA,5:51:11,R4R-Make A Wish
 12,411242,Matt,KLINE,Grants Pass,OR,5:51:22,Martys
-13,201585,Dan,QUIRK,Petaluma,CA,5:51:23,ThirstyBear pb Akamai
+13,201585,Dan,QUIRK,Sonoma,CA,5:51:23,ThirstyBear pb Akamai
 14,141309,Rick,LAWTON,Pleasanton,CA,5:51:33,R4R-Make A Wish
 15,394292,Richard,REINHARDT,Sacramento,CA,5:51:50,Folsom Bike/Trek Men's Road Team
 16,296426,Todd,MUNK,Morgan Hill,CA,5:51:58,SJBC
@@ -653,7 +653,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 02/26/2017 Stage Race Men Masters 35+ Cat 3-4
 Place,License #,First,Last,City,State,Time,Team
-8,378563,Kurt,BROWN,Minneapolis,CA,2:48:17,Dolce Vita Freewheel
+8,378563,Kurt,BROWN,San Francisco,CA,2:48:17,Dolce Vita Freewheel
 
 02/26/2017 Stage Race Men Masters 35+ Cat 3-4 35-99
 Place,License #,First,Last,City,State,Time,Team
@@ -729,7 +729,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 02/26/2017 Stage Race Men Cat 4-5
 Place,License #,First,Last,City,State,Time,Team
-1,498709,Mikal,DAVIS,Menlo Park,CA,2:44:45,TMB Development pb Equator
+1,498709,Mikal,DAVIS,Redwood City,CA,2:44:45,TMB Development pb Equator
 2,439886,Jason,WHITLEY,The Dalles,OR,2:45:11,Team Oregon
 3,523100,Justin,Maguire,Sausalito,CA,2:45:22,Citycycle
 4,353828,Tom,VAN PELT,San Francisco,CA,2:45:33,TMB Development pb Equator
@@ -777,9 +777,9 @@ Place,License #,First,Last,City,State,Time,Team
 46,494509,Ryan,GONZALES,Granite Bay,CA,2:56:00,Limitless
 47,458621,Jude,VANNI,Rosev,CA,2:57:14,Limitless Cycling pb GoodyFinder.com
 48,459105,Kaito,CLARKE,Milpitas,CA,2:57:55,SJBC
-49,282259,Matthew,MARINELLI,Towson,MD,2:58:50,Team BBC pb Baltimore Bicycle Works
+49,282259,Matthew,MARINELLI,Baltimore,MD,2:58:50,Team BBC pb Baltimore Bicycle Works
 50,494448,Cam,JUAREZ,San Francisco,CA,3:00:09,0
-51,307201,Nye,YACKLE,Spokane ,WA,3:02:35,Yackle Brothers Racing
+51,307201,Nye,YACKLE,Spokane,WA,3:02:35,Yackle Brothers Racing
 52,526188,Joel,HAMMOND,Chico,CA,3:03:13,Chico cycling team
 53,458056,Ben,CLARKE,Milpitas,CA,3:04:18,SJBC
 54,518435,Anthony,DE LA TORRE,San Bruno,CA,3:05:08,0
@@ -811,7 +811,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,381082,Tucker,FEYDER,Boise,ID,5:51:03,Team Bob's-Bicycles.com
 18,458972,Theo,GOGUELY,Menlo Park,CA,5:51:07,TMB Development pb Equator
 19,18004,Menko,JOHNSON,Redwood City,CA,5:51:34,Pen Velo Racing/Summit Bicycles
-20,442816,Matthew,PAEZ,Reno,NV,5:52:27,Orange Pedal Cycling
+20,442816,Matthew,PAEZ,Bend,OR,5:52:27,Orange Pedal Cycling
 21,418894,Jordan,BABB,Escondido,CA,5:52:55,Eliel Factory Team
 22,366956,Ashton,LYLE,Benicia,CA,5:53:07,SquadraSF pb Terun
 23,333136,Sean,BRANDT,Alameda,CA,5:53:52,Dolce Vita Freewheel pb SL2
@@ -819,7 +819,7 @@ Place,License #,First,Last,City,State,Time,Team
 25,495103,Leo,FISSEL,Redwood Valley,CA,5:55:53,TMB Development pb Equator
 26,407736,Raymond,LEE,San Francisco,CA,5:56:03,TMB Development pb Equator
 27,382116,Simon,TUTTLE,Walnut Creek,CA,5:56:43,Bloc Racing
-28,286323,James,YANG,Costa Mesa ,CA,5:57:12,0
+28,286323,James,YANG,Berkeley,CA,5:57:12,0
 29,263172,Grant,HEADLEY,Portland,OR,5:58:11,Swift Racing PDX pb 21st Ave Bicycles
 30,340930,Jonathan,MACDONALD,Nampa,ID,6:02:37,0
 31,497517,Zane,JENSEN,Lakeport,CA,6:05:07,Main Street Elite pb Main Street Bicycles
@@ -829,7 +829,7 @@ Place,License #,First,Last,City,State,Time,Team
 35,334018,Micah,LERNER,Los Altos,CA,6:11:59,LOW// Factory Racing
 36,501065,Julien,SCHALLER,Los Altos,CA,6:16:57,SunPower Racing
 37,394845,Matt,CARVELL,Woodside,CA,6:25:27,SunPower Racing
-38,307192,Jake,YACKLE,Spokane ,WA,6:28:58,Yackle Brothers Racing
+38,307192,Jake,YACKLE,Spokane,WA,6:28:58,Yackle Brothers Racing
 39,320750,Isaiah,CHASS,Sebastopol,CA,6:30:45,Team Swift
 40,413795,Jeff,SCOTT,Roseville,CA,6:32:03,Data Driven Athlete
 41,126770,Seth,MCDONOUGH,Chico,CA,6:32:36,0
@@ -839,7 +839,7 @@ Place,License #,First,Last,City,State,Time,Team
 45,430072,Carlos,FuerteGaspar,Riverside,CA,6:48:34,Eliel Factory Team
 46,422186,Keith,SOLLERS,Davis,CA,6:49:43,Davis Bike Club Race Team
 47,327014,Justin,BALDERSTON,Newark,CA,6:51:09,TMB Development pb Equator
-48,266583,Douglas,SCHALLER,Belmont ,CA,7:05:14,Bloc Racing
+48,266583,Douglas,SCHALLER,Belmont,CA,7:05:14,Bloc Racing
 49,396434,Matthew,SWARTWOUT,Mountain View,CA,7:12:39,TMB Development pb Equator
 
 02/26/2017 Stage Race Men Cat 2
@@ -852,7 +852,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,416256,Steven,FULLER,Claremont ,CA,5:38:51,SC Velo
 7,400645,Cooper,SHANKS,Pleasant Hill,CA,5:38:51,Dolce Vita Freewheel pb SL2
 8,351580,Lewis,WHILEY,Olympia,WA,5:38:53,HEDRICK RACING
-9,269966,Chester,GILLMORE,Santa Barbara,CA,5:39:04,Dolce Vita Freewheel pb SL2
+9,269966,Chester,GILLMORE,San Francisco,CA,5:39:04,Dolce Vita Freewheel pb SL2
 10,414898,Jackson,DUNCAN,Santa Rosa,CA,5:39:07,HEDRICK RACING
 11,458488,Timmy,BAUER,Placerville,CA,5:39:07,Williams Cycling
 12,224269,Jonathon,LEVIE,Mountlake Terrace,WA,5:39:14,HEDRICK RACING
@@ -880,8 +880,8 @@ Place,License #,First,Last,City,State,Time,Team
 34,420048,Greg,MCCULLOUGH,San Francisco,CA,5:54:25,Cycle Sport  Specialized
 35,413330,Aaron,MCDEVITT,Mountain View,CA,5:55:39,SquadraSF pb Terun
 36,318306,Samuel,HILL,Woodland,CA,5:58:57,Williams Cycling
-37,207547,Michael,CORDOVA,Chico,CA,6:06:18,Chico Masters Cycling Team
-38,380700,Martin,SZWARC,San Francisco ,CA,6:06:35,Cycle Sport  Specialized
+37,524998,Michael,CORDOVA,Chico,CA,6:06:18,Chico Masters Cycling Team
+38,380700,Martin,SZWARC,San Francisco,CA,6:06:35,Cycle Sport  Specialized
 39,408446,David,WAPLES,Spokane,WA,6:07:19,Kryki Sports pb Audi
 40,404003,Christian,MOLINA,La Crescenta,CA,6:13:13,Endo Concept Team
 41,356530,Robert,LANDER,Sacramento,CA,6:18:20,AMain Cycling Team
@@ -894,16 +894,16 @@ Place,License #,First,Last,City,State,Time,Team
 02/26/2017 Stage Race Women Pro-1-2-3
 Place,License #,First,Last,City,State,Time,Team
 1,0,Claire,ROSE,,,6:13:34,Visit Dallas DNA Pro Cycling
-2,267768,Lindsay,BAYER,Reston,VA,6:13:38,Hagens Berman | Supermint
+2,267768,Lindsay,BAYER,Chantilly,VA,6:13:38,Hagens Berman | Supermint
 3,401364,Leah,THOMAS,Boulder Creek,CA,6:13:55,Sho-Air TWENTY20
-4,355078,Mandy,HEINTZ,Phoenix,AZ,6:14:08,Visit Dallas DNA Pro Cycling
+4,355078,Mandy,HEINTZ,Scottsdale ,AZ,6:14:08,Visit Dallas DNA Pro Cycling
 5,266806,Alison,TETRICK,Petaluma,CA,6:14:30,Cylance Pro Cycling
 6,292211,Jennifer,TETRICK,Sausalito,CA,6:14:34,Team TIBCO-Silicon Valley Bank
 7,362328,Beth Ann,ORTON,Bend,OR,6:14:45,Hagens Berman | Supermint
 8,280870,Jennifer,LUEBKE,Bend,OR,6:14:51,Visit Dallas DNA Pro Cycling
-9,343484,Summer,MOAK,Phoenix,AZ,6:15:04,Sho-Air TWENTY20
+9,343484,Summer,MOAK,Scottsdale,AZ,6:15:04,Sho-Air TWENTY20
 10,0,Sofia,ARREOLA NAVARRO,,,6:15:10,Sho-Air TWENTY20
-11,263791,Breanne,NALDER,Murray,UT,6:15:12,Visit Dallas DNA Pro Cycling
+11,263791,Breanne,NALDER,Millcreek,UT,6:15:12,Visit Dallas DNA Pro Cycling
 12,266674,Kathryn,DONOVAN,Oxnard,CA,6:15:14,Visit Dallas DNA Pro Cycling
 13,420158,Hanna,MUEGGE,Marina,CA,6:15:21,Visit Dallas DNA Pro Cycling
 14,470357,Illi,GARDNER,Palo Alto,CA,6:15:26,Folsom Bike/Trek
@@ -911,11 +911,11 @@ Place,License #,First,Last,City,State,Time,Team
 16,202033,Starla,TEDDERGREEN,Portland,OR,6:15:33,Hagens Berman | Supermint
 17,392651,Melanie,WONG,Oakland,CA,6:15:33,Folsom Bike/Trek
 18,272063,Lindsay,MYERS,Paradise,CA,6:15:39,0
-19,230397,Shayna,POWLESS,Roseville,CA,6:15:40,Sho-Air TWENTY20
+19,230397,Shayna,POWLESS,Jacksonville,FL,6:15:40,Sho-Air TWENTY20
 20,287816,Ivy,AUDRAIN,Bellingham,WA,6:15:46,Hagens Berman | Supermint
 21,395502,Megan,ALDERETE,San Francisco,CA,6:15:50,UCI WT: Hagens Berman | Supermint
 22,401076,Clare,SAYLE,San Jose,CA,6:15:55,Jakroo presented by Chrome Industries
-23,317802,Holly,BRECK,Santa Ynez,CA,6:16:24,Sho-Air TWENTY20
+23,317802,Holly,BRECK,San Dimas,CA,6:16:24,Sho-Air TWENTY20
 24,269569,Marissa,AXELL,El Cerrito,CA,6:16:31,JL Velo Cycling Team pb The Freewheel
 25,145511,Liza,RACHETTO,Boise,ID,6:16:41,Hagens Berman | Supermint
 26,457092,Rachel,LANGDON,Louisville,KY,6:16:57,Team Illuminate
@@ -944,18 +944,18 @@ Place,License #,First,Last,City,State,Time,Team
 2,496675,Maddy,WARD,Los Angeles,CA,2:59:56,Velo Club La Grange +21
 3,0,Anna,ERIKSMO,,,3:00:36,CK Ringen
 4,396175,Naomi,HESTER,Davis,CA,3:00:46,JLVelo Cycling Team pb The Freewheel
-5,526214,Caroline,LEA,Mill Valley,CA,3:00:52,Olympic Club
-6,485936,Trish,PABLO,Sacramento ,CA,3:00:57,Team Mike's Bikes pb Equator Coffees
+5,440213,Caroline,LEA,Mill Valley,CA,3:00:52,Olympic Club
+6,485936,Trish,PABLO,Rodeo,CA,3:00:57,Team Mike's Bikes pb Equator Coffees
 7,425153,Ginger,BOYD,Los Angeles,CA,3:01:01,STINNER BLACK SHEEP RACING
 8,494210,Kortney,PARMAN,San Francisco,CA,3:01:11,JL Velo
 9,17778,Lesley,JENSEN,Benicia,CA,3:01:51,JLVelo Cycling Team pb The Freewheel
 10,340330,Eleanor,VELEZ,El Dorado Hills,CA,3:02:49,0
 11,334726,Rachel,GEITER,Milwaukie,OR,3:02:58,Razzle Dazzle
-12,455528,Shelby,TRAMEL,San Francisco,CA,3:05:18,RAZZLE DAZZLE
-13,340844,Jennifer,WILSON,Cambridge,MA,3:05:21,RAZZLE DAZZLE
+12,455528,Shelby,TRAMEL,Oakkland,CA,3:05:18,RAZZLE DAZZLE
+13,340844,Jennifer,WILSON,Los Gatos,CA,3:05:21,RAZZLE DAZZLE
 14,287914,Nicole,SLATON,Davis,CA,3:05:49,JLVelo Cycling Team pb The Freewheel
 15,458805,Lindsay,BARLOW,Menlo Park,CA,3:06:18,JLVelo Cycling Team pb The Freewheel
-16,306378,Kristen,HILL,Woodland,CA,3:07:16,Williams Cycling
+16,306378,Kristen,HILL,Sacramento,CA,3:07:16,Williams Cycling
 17,262057,Joy,FRANCO,Stanford,CA,3:07:23,RAZZLE DAZZLE
 18,459878,Trixie,BRADLEY,Pilot Hill,CA,3:08:37,Team Roseville Cyclery
 19,458778,Makenzie,DELAUGHDER,Davis,CA,3:11:14,Team Mike's Bikes pb Equator Coffees
@@ -976,19 +976,19 @@ Place,License #,First,Last,City,State,Time,Team
 5,219434,Justin,MAUCH,Sterling,VA,17:01.2,Herbalife pb Marc Pro - Nature's Bakery
 6,393803,Richard,HOLEC,Murrieta,CA,17:07.2,LUX/Stradling
 7,132539,Brad,HUFF,Springfield,MO,17:08.0,Rally Cycling
-8,456576,Sam,BOARDMAN,Washington,CA,17:08.7,Herbalife pb Marc Pro - Nature's Bakery
+8,456576,Sam,BOARDMAN,Los Angeles,CA,17:08.7,Herbalife pb Marc Pro - Nature's Bakery
 9,154883,Jesse,ANTHONY,Newbury Park,CA,17:08.9,Rally Cycling
 10,409776,Alex,HOEHN,Lenexa,KS,17:12.4,Elevate-KHS Pro Cycling
 11,192584,Shane,KLINE,Bally,PA,17:14.6,Rally Cycling
 12,267361,Chris,RIEKERT,San Jose,CA,17:15.8,Team Mike's Bikes pb Equator Coffees
 13,279095,Eric,YOUNG,Boulder,CO,17:19.1,Rally Cycling
-14,342402,Kevin,GIRKINS,Austin,TX,17:21.6,Elbowz Racing
+14,342402,Kevin,GIRKINS,San Marcos,TX,17:21.6,Elbowz Racing
 15,243374,Kai,APPLEQUIST,Boise,ID,17:27.7,Mercedes Benz pb Thrivent Financial
 16,295492,Jules,GILLIAM,Manhattan Beach,CA,17:30.9,Team Specialized Racing
 17,220775,Thomas,SOLADAY,Minnetonka,MN,17:31.2,Rally Cycling
 18,347932,Sean,BENNETT,El Cerrito,CA,17:33.8,jelly belly pb maxxis
 19,153790,Roman,KILUN,Oakland,CA,17:34.3,Team Mike's Bikes pb Equator Coffees
-20,222542,Emerson,ORONTE,Boulder,CO,17:41.8,Rally Cycling
+20,222542,Emerson,ORONTE,Louisville,CO,17:41.8,Rally Cycling
 21,263055,Torey,PHILIPP,El Dorado Hills,CA,17:44.3,Herbalife pb Marc Pro - Nature's Bakery
 22,368368,Zachary,MORVANT,San Francisco,CA,17:47.3,Dolce Vita Freewheel pb SL2
 23,329962,Cameron,BEARD,Bend,OR,17:49.3,UCI CT: CCB Velotooler
@@ -1002,7 +1002,7 @@ Place,License #,First,Last,City,State,Time,Team
 31,263998,Reese,LEVINE,Orinda,CA,18:08.2,Team Mike's Bikes pb Equator Coffees
 32,442824,Rene,Corella,,,18:08.6,Start Vaxes Cycling Team
 33,459871,Brandon,BAKER,Santa Barbara,CA,18:09.7,STINNER BLACK SHEEP RACING
-34,381623,Owen,GILLOTT,Foster City ,CA,18:12.5,Storck-CCN
+34,381623,Owen,GILLOTT,Foster City,CA,18:12.5,Storck-CCN
 35,283185,Anthony,FERRETTI,Oroville,CA,18:13.2,AMain Cycling Team
 36,403731,Gavin,MURRAY,Sebastopol,CA,18:14.4,Storck-CCN
 37,394826,Aria,KIANI,Santa Rosa,CA,18:18.6,Team Mike's Bikes pb Equator Coffees
@@ -1028,16 +1028,16 @@ Place,License #,First,Last,City,State,Time,Team
 57,280894,Alex,DARVILLE,Santa Barbara,CA,19:24.4,STINNER BLACK SHEEP RACING
 58,486720,Jaap,BERG,Redding,CA,19:27.9,AMain Cycling Team
 59,303659,Kyle,MURPHY,Townshend,VT,19:31.6,Cylance Pro Cycling
-60,211435,Zack,ALLISON,Fort Collins ,CO,19:36.2,Team Clif Bar Elite
+60,211435,Zack,ALLISON,Fort Collins,CO,19:36.2,Team Clif Bar Elite
 61,425803,Cameron,BRONSTEIN,Berkeley,CA,19:40.1,Team Mike's Bikes pb Equator Coffees
 62,411789,Ben,FOSTER,Topanga,CA,19:41.6,Support Clean Sport / Sea Sucker / Guttenplan Coaching
 63,289282,Brian,FUNK,Menlo Park,CA,19:44.8,Cycle Sport  Specialized pb Muscle Milk
 64,372580,Brad,NEAGOS,Grand Rapids,MI,19:46.4,Team Illuminate
 65,244581,Cullen,EASTER,Grand Junction,CO,19:46.4,Team Illuminate
-66,207262,Andrew,GOESSLING,El Cerrito,CA,19:53.0,Team Mike's Bikes pb Equator Coffees
+66,207262,Andrew,GOESSLING,Oakland,CA,19:53.0,Team Mike's Bikes pb Equator Coffees
 67,218355,Samuel (Hunter),Snipe Grove,Pomona,CA,20:01.2,Cylance Pro Cycling
 68,445034,Orlando,Garibay,,,20:14.1,Cylance Pro Cycling
-69,522775,Leon,Gledhill,Santa Clara,CA,20:15.2,Team Mike's Bikes pb Equator Coffees
+69,494043,Leon,Gledhill,,,20:15.2,Team Mike's Bikes pb Equator Coffees
 70,197714,Joseph,SCHMALZ,Lawrence,KS,20:17.6,Elevate-KHS Pro Cycling
 71,309141,Jonathan,PENALOZA,Sacramento,CA,20:19.5,Herbalife pb Marc Pro - Nature's Bakery
 72,269476,Michael,JASINSKI,Rocklin,CA,20:21.6,Team CLIF Bar
@@ -1049,7 +1049,7 @@ Place,License #,First,Last,City,State,Time,Team
 78,197316,Justin,WILLIAMS,Los Angeles,CA,21:56.2,Cylance Pro Cycling
 79,282569,Stephen,LEECE,Goleta,CA,22:39.5,STINNER BLACK SHEEP RACING
 80,304797,Matt,CHATLAONG,Roseville,CA,24:22.4,Herbalife pb Marc Pro - Nature's Bakery
-81,306325,William,MYERS,Orinda,CA,24:47.2,Herbalife pb Marc Pro - Nature's Bakery
+81,306325,William,MYERS,Davis,CA,24:47.2,Herbalife pb Marc Pro - Nature's Bakery
 
 02/26/2017 Time Trial Men Masters Cat 4-5 45-99
 Place,License #,First,Last,City,State,Time,Team
@@ -1089,14 +1089,14 @@ Place,License #,First,Last,City,State,Time,Team
 4,196222,Hans,GOUWENS,Corte Madera,CA,19:12.3,ThirstyBear pb Akamai
 5,39478,Hunter,ZIESING,Bel Tiburon,CA,19:29.8,Hammer Nutrition/53x11
 6,371699,John,MARENGO,Fair Oaks,CA,19:54.9,Team City Racing
-7,345270,Brian,MCANDREWS,Danville,CA,20:00.4,ThirstyBear pb Akamai
+7,345270,Brian,MCANDREWS,Spring,TX,20:00.4,ThirstyBear pb Akamai
 8,300056,Lance,HAAG,Fairfax,CA,20:30.5,ThirstyBear pb Akamai
 9,356162,Ryosei,KANEKO,El Sobrante,CA,20:53.4,ol republic/SERT
 10,192774,Kevin,WILLITTS,S Lake Tahoe,CA,20:55.2,3Ft - It's The Law
 11,181341,Robert,MCWHORTER,Divide,CO,20:58.7,US Military Endurance Sports
 12,33092,Darryl,SMITH,Pleasanton,CA,21:16.7,R4R-Make A Wish
 13,360492,Dean,ABT,Oakland,CA,21:35.5,Team Oakland Cycling
-14,46151,Jim,SULLIVAN,Calistoga,CA,22:20.6,Unattached
+14,46151,Jim,SULLIVAN,Davis,CA,22:20.6,Unattached
 
 02/26/2017 Time Trial Men Masters 45+ Cat 1-2-3 45-99
 Place,License #,First,Last,City,State,Time,Team
@@ -1114,7 +1114,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,129753,Paul,VACCARI,Upland,CA,19:01.9,Monster media
 13,286421,Rich,NICHOLS,Danville,CA,19:13.2,R4R-Make A Wish
 14,411242,Matt,KLINE,Grants Pass,OR,19:14.1,Martys
-15,201585,Dan,QUIRK,Petaluma,CA,19:15.9,ThirstyBear pb Akamai
+15,201585,Dan,QUIRK,Sonoma,CA,19:15.9,ThirstyBear pb Akamai
 16,141309,Rick,LAWTON,Pleasanton,CA,19:18.4,R4R-Make A Wish
 17,287526,Jason,CRUSER,Walnutcreek,CA,19:23.7,R4R - Make A Wish
 18,17995,Mark,JOHNSON,Mountain View,CA,19:27.3,CoreTechs Cycling - TwT
@@ -1133,7 +1133,7 @@ DNS,204936,Todd,DODDS,Redding,CA,,Owens Healthcare
 
 02/26/2017 Time Trial Men Masters 35+ Cat 3-4
 Place,License #,First,Last,City,State,Time,Team
-2,378563,Kurt,BROWN,Minneapolis,CA,18:41.5,Dolce Vita Freewheel
+2,378563,Kurt,BROWN,San Francisco,CA,18:41.5,Dolce Vita Freewheel
 
 02/26/2017 Time Trial Men Masters 35+ Cat 3-4 35-99
 Place,License #,First,Last,City,State,Time,Team
@@ -1213,7 +1213,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 02/26/2017 Time Trial Men Cat 4-5
 Place,License #,First,Last,City,State,Time,Team
-1,498709,Mikal,DAVIS,Menlo Park,CA,18:30.9,TMB Development pb Equator
+1,498709,Mikal,DAVIS,Redwood City,CA,18:30.9,TMB Development pb Equator
 2,439886,Jason,WHITLEY,The Dalles,OR,18:57.7,Team Oregon
 3,523100,Justin,Maguire,Sausalito,CA,19:02.5,Citycycle
 4,406045,Henry,CAY,Spring Creeks,NV,19:10.8,0
@@ -1242,7 +1242,7 @@ Place,License #,First,Last,City,State,Time,Team
 27,496600,Nicholas,SEATON,Pollock Pines,CA,21:02.0,Sierra Nevada/Reliable Buick GMC
 28,367266,Jacob,JORDAN,San Jose,CA,21:03.4,TMB Development pb Equator
 29,423129,Hernan,GATPANDAN,Pacifica,CA,21:04.1,Pen Velo Racing/Summit Bicycles
-30,282259,Matthew,MARINELLI,Towson,MD,21:05.5,Team BBC pb Baltimore Bicycle Works
+30,282259,Matthew,MARINELLI,Baltimore,MD,21:05.5,Team BBC pb Baltimore Bicycle Works
 31,429965,Austin,GUYETTE,Seattle,WA,21:10.6,Blue Hills Cycling Club
 32,486531,Aidan,MCNEIL,Cupertino,CA,21:13.6,NCCF Team Specialized
 33,520923,Rafael,GARCIA,San Francisco,CA,21:16.7,0
@@ -1270,7 +1270,7 @@ Place,License #,First,Last,City,State,Time,Team
 55,458621,Jude,VANNI,Rosev,CA,23:02.2,Limitless Cycling pb GoodyFinder.com
 56,494463,Michael,RIYANTO,San Francisco,CA,23:07.4,SJBC
 57,0,Nathaniel,SHERRETT,,,23:14.8,Team Oregon presented by Laurelwood Brewing
-58,307201,Nye,YACKLE,Spokane ,WA,23:20.8,Yackle Brothers Racing
+58,307201,Nye,YACKLE,Spokane,WA,23:20.8,Yackle Brothers Racing
 59,494509,Ryan,GONZALES,Granite Bay,CA,23:43.0,Limitless
 60,526188,Joel,HAMMOND,Chico,CA,29:40.9,Chico cycling team
 DNS,500905,Joe,KRUEGEL,Grass Valley,CA,,Ol' Republic Sho-Air
@@ -1313,20 +1313,20 @@ Place,License #,First,Last,City,State,Time,Team
 30,18004,Menko,JOHNSON,Redwood City,CA,20:50.9,Pen Velo Racing/Summit Bicycles
 31,497517,Zane,JENSEN,Lakeport,CA,21:04.1,Main Street Elite pb Main Street Bicycles
 32,413795,Jeff,SCOTT,Roseville,CA,21:13.9,Data Driven Athlete
-33,442816,Matthew,PAEZ,Reno,NV,21:29.3,Orange Pedal Cycling
+33,442816,Matthew,PAEZ,Bend,OR,21:29.3,Orange Pedal Cycling
 34,495103,Leo,FISSEL,Redwood Valley,CA,21:33.8,TMB Development pb Equator
 35,394845,Matt,CARVELL,Woodside,CA,21:37.4,SunPower Racing
 36,286429,Will,KANZ,Davis,CA,21:44.0,Davis Bike Club Race Team
 37,220894,Alexander,YERMOLOVICH,Santa Clara,CA,21:47.7,Pen Velo Racing/Summit Bicycles
 38,430072,Carlos,FuerteGaspar,Riverside,CA,21:53.5,Eliel Factory Team
-39,307192,Jake,YACKLE,Spokane ,WA,21:55.1,Yackle Brothers Racing
+39,307192,Jake,YACKLE,Spokane,WA,21:55.1,Yackle Brothers Racing
 40,126770,Seth,MCDONOUGH,Chico,CA,21:56.9,0
 41,418894,Jordan,BABB,Escondido,CA,22:03.0,Eliel Factory Team
-42,286323,James,YANG,Costa Mesa ,CA,22:38.9,0
+42,286323,James,YANG,Berkeley,CA,22:38.9,0
 43,396434,Matthew,SWARTWOUT,Mountain View,CA,22:42.9,TMB Development pb Equator
 44,333136,Sean,BRANDT,Alameda,CA,23:00.8,Dolce Vita Freewheel pb SL2
 45,334018,Micah,LERNER,Los Altos,CA,23:21.3,LOW// Factory Racing
-46,266583,Douglas,SCHALLER,Belmont ,CA,23:48.3,Bloc Racing
+46,266583,Douglas,SCHALLER,Belmont,CA,23:48.3,Bloc Racing
 47,327014,Justin,BALDERSTON,Newark,CA,23:52.0,TMB Development pb Equator
 48,263172,Grant,HEADLEY,Portland,OR,23:52.7,Swift Racing PDX pb 21st Ave Bicycles
 49,415478,Chris,LEVINS,Redwood City,CA,24:03.1,Pen Velo Racing/Summit Bicycles
@@ -1342,7 +1342,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,398391,Kyle,Stoffan Thornton,Boise,ID,18:05.7,Mercedes Benz pb Thrivent Financial
 5,270844,Jason,PAEZ,Whittier,CA,18:10.5,SC Velo
 6,416256,Steven,FULLER,Claremont ,CA,18:22.0,SC Velo
-7,269966,Chester,GILLMORE,Santa Barbara,CA,18:22.2,Dolce Vita Freewheel pb SL2
+7,269966,Chester,GILLMORE,San Francisco,CA,18:22.2,Dolce Vita Freewheel pb SL2
 8,413540,Adriano,CASTRO,San Francisco,CA,18:26.9,Dolce Vita Freewheel pb SL2
 9,366768,Raul,Arias J.R.,East Palo Alto,CA,18:27.5,SquadraSf pb
 10,400645,Cooper,SHANKS,Pleasant Hill,CA,18:29.4,Dolce Vita Freewheel pb SL2
@@ -1371,10 +1371,10 @@ Place,License #,First,Last,City,State,Time,Team
 33,248976,Sean,Estes,Morgan Hill,CA,20:01.4,Like the Wheel
 34,258824,Ryan,OAKES,Chico,CA,20:16.4,AMain Cycling Team
 35,257848,Timothy,LANG,San Francisco,CA,20:19.1,LOW// Factory Racing
-36,207547,Michael,CORDOVA,Chico,CA,20:22.0,Chico Masters Cycling Team
+36,524998,Michael,CORDOVA,Chico,CA,20:22.0,Chico Masters Cycling Team
 37,404003,Christian,MOLINA,La Crescenta,CA,20:31.2,Endo Concept Team
 38,318306,Samuel,HILL,Woodland,CA,20:31.6,Williams Cycling
-39,380700,Martin,SZWARC,San Francisco ,CA,20:33.6,Cycle Sport  Specialized
+39,380700,Martin,SZWARC,San Francisco,CA,20:33.6,Cycle Sport  Specialized
 40,420048,Greg,MCCULLOUGH,San Francisco,CA,20:45.9,Cycle Sport  Specialized
 41,370448,Christian,LAM,San Francisco,CA,21:05.5,SquadraSF pb Terun
 42,413330,Aaron,MCDEVITT,Mountain View,CA,21:06.5,SquadraSF pb Terun
@@ -1395,12 +1395,12 @@ Place,License #,First,Last,City,State,Time,Team
 2,401364,Leah,THOMAS,Boulder Creek,CA,18:33.9,Sho-Air TWENTY20
 3,266806,Alison,TETRICK,Petaluma,CA,19:08.2,Cylance Pro Cycling
 4,292211,Jennifer,TETRICK,Sausalito,CA,19:12.2,Team TIBCO-Silicon Valley Bank
-5,267768,Lindsay,BAYER,Reston,VA,19:14.0,Hagens Berman | Supermint
+5,267768,Lindsay,BAYER,Chantilly,VA,19:14.0,Hagens Berman | Supermint
 6,362328,Beth Ann,ORTON,Bend,OR,19:14.1,Hagens Berman | Supermint
 7,280870,Jennifer,LUEBKE,Bend,OR,19:29.8,Visit Dallas DNA Pro Cycling
-8,263791,Breanne,NALDER,Murray,UT,19:41.8,Visit Dallas DNA Pro Cycling
+8,263791,Breanne,NALDER,Millcreek,UT,19:41.8,Visit Dallas DNA Pro Cycling
 9,269569,Marissa,AXELL,El Cerrito,CA,19:43.1,JL Velo Cycling Team pb The Freewheel
-10,355078,Mandy,HEINTZ,Phoenix,AZ,19:47.6,Visit Dallas DNA Pro Cycling
+10,355078,Mandy,HEINTZ,Scottsdale ,AZ,19:47.6,Visit Dallas DNA Pro Cycling
 11,0,Sofia,ARREOLA NAVARRO,,,19:48.1,Sho-Air TWENTY20
 12,266674,Kathryn,DONOVAN,Oxnard,CA,19:53.0,Visit Dallas DNA Pro Cycling
 13,420158,Hanna,MUEGGE,Marina,CA,19:59.8,Visit Dallas DNA Pro Cycling
@@ -1408,15 +1408,15 @@ Place,License #,First,Last,City,State,Time,Team
 15,395081,Brenna,WRYE-SIMPSON,Portland,OR,20:05.5,LA Sweat
 16,347126,Jo,CELSO,Vista,CA,20:06.5,Jakroo presented by Chrome Industries
 17,392651,Melanie,WONG,Oakland,CA,20:11.9,Folsom Bike/Trek
-18,230397,Shayna,POWLESS,Roseville,CA,20:18.4,Sho-Air TWENTY20
+18,230397,Shayna,POWLESS,Jacksonville,FL,20:18.4,Sho-Air TWENTY20
 19,202033,Starla,TEDDERGREEN,Portland,OR,20:21.2,Hagens Berman | Supermint
 20,395502,Megan,ALDERETE,San Francisco,CA,20:28.5,UCI WT: Hagens Berman | Supermint
-21,343484,Summer,MOAK,Phoenix,AZ,20:29.0,Sho-Air TWENTY20
+21,343484,Summer,MOAK,Scottsdale,AZ,20:29.0,Sho-Air TWENTY20
 22,287816,Ivy,AUDRAIN,Bellingham,WA,20:32.3,Hagens Berman | Supermint
 23,401076,Clare,SAYLE,San Jose,CA,20:33.5,Jakroo presented by Chrome Industries
 24,487470,Annick,CHALIER,Portland,OR,20:52.7,Fast Fun Nice RacingTeam pb Wattie Ink
 25,272063,Lindsay,MYERS,Paradise,CA,20:53.1,0
-26,317802,Holly,BRECK,Santa Ynez,CA,20:57.6,Sho-Air TWENTY20
+26,317802,Holly,BRECK,San Dimas,CA,20:57.6,Sho-Air TWENTY20
 27,145511,Liza,RACHETTO,Boise,ID,21:08.6,Hagens Berman | Supermint
 28,367211,Julia,GIESCHEN,Solvang,CA,21:19.9,STINNER BLACK SHEEP RACING
 29,459301,Liz,OTTO HAMEL,Palo Alto,CA,21:22.1,Folsom Bike/Trek
@@ -1440,35 +1440,35 @@ Place,License #,First,Last,City,State,Time,Team
 02/26/2017 Time Trial Women Cat 3-4
 Place,License #,First,Last,City,State,Time,Team
 1,458894,Sandra,FREEMAN,Morgan Hill,CA,20:14.0,JLVelo Cycling Team pb The Freewheel
-2,526214,Caroline,LEA,Mill Valley,CA,20:40.7,Olympic Club
+2,440213,Caroline,LEA,Mill Valley,CA,20:40.7,Olympic Club
 3,458778,Makenzie,DELAUGHDER,Davis,CA,21:05.9,Team Mike's Bikes pb Equator Coffees
 4,496675,Maddy,WARD,Los Angeles,CA,21:11.9,Velo Club La Grange +21
 5,17778,Lesley,JENSEN,Benicia,CA,21:33.0,JLVelo Cycling Team pb The Freewheel
 6,340330,Eleanor,VELEZ,El Dorado Hills,CA,21:33.2,0
 7,0,Anna,ERIKSMO,,,21:37.1,CK Ringen
-8,485936,Trish,PABLO,Sacramento ,CA,21:44.2,Team Mike's Bikes pb Equator Coffees
+8,485936,Trish,PABLO,Rodeo,CA,21:44.2,Team Mike's Bikes pb Equator Coffees
 9,396175,Naomi,HESTER,Davis,CA,21:50.8,JLVelo Cycling Team pb The Freewheel
 10,262057,Joy,FRANCO,Stanford,CA,21:52.9,RAZZLE DAZZLE
 11,425153,Ginger,BOYD,Los Angeles,CA,21:54.7,STINNER BLACK SHEEP RACING
 12,494210,Kortney,PARMAN,San Francisco,CA,22:08.0,JL Velo
 13,419981,Meisin,YAN,San Francisco,CA,22:08.6,Team Mike's Bikes pb Equator Coffees
 14,277526,June,NGUYEN,Santa Rosa,CA,22:24.1,JLVelo Cycling Team pb The Freewheel
-15,455528,Shelby,TRAMEL,San Francisco,CA,22:38.9,RAZZLE DAZZLE
-16,306378,Kristen,HILL,Woodland,CA,22:46.6,Williams Cycling
+15,455528,Shelby,TRAMEL,Oakkland,CA,22:38.9,RAZZLE DAZZLE
+16,306378,Kristen,HILL,Sacramento,CA,22:46.6,Williams Cycling
 17,334726,Rachel,GEITER,Milwaukie,OR,22:47.9,Razzle Dazzle
 18,287914,Nicole,SLATON,Davis,CA,22:51.6,JLVelo Cycling Team pb The Freewheel
 19,385403,Diana,CEDENO,Novato,CA,23:01.1,JLVelo Cycling Team pb The Freewheel
 20,458352,Loran,VILAS,Chico,CA,23:07.1,Chico Cycling Team
 21,458805,Lindsay,BARLOW,Menlo Park,CA,23:23.1,JLVelo Cycling Team pb The Freewheel
 22,466237,Diniana,PIEKUTOWSKI,Stanford,CA,23:30.4,RAZZLE DAZZLE
-23,340844,Jennifer,WILSON,Cambridge,MA,23:56.7,RAZZLE DAZZLE
+23,340844,Jennifer,WILSON,Los Gatos,CA,23:56.7,RAZZLE DAZZLE
 24,459878,Trixie,BRADLEY,Pilot Hill,CA,24:49.9,Team Roseville Cyclery
 25,457199,Erica,MENZE,Portland,OR,25:53.7,Team Oregon pb Laurelwood Brewing Company
 26,394566,Katie,BOERNER,Chico,CA,26:48.6,Chico Cycling Team
 
 02/25/2017 Road Race Men Pro-1
 Place,License #,First,Last,City,State,Time,Team
-1,222542,Emerson,ORONTE,Boulder,CO,3:27:00,Rally Cycling
+1,222542,Emerson,ORONTE,Louisville,CO,3:27:00,Rally Cycling
 2,409776,Alex,HOEHN,Lenexa,KS,3:27:00,Elevate-KHS Pro Cycling
 3,279095,Eric,YOUNG,Boulder,CO,3:27:07,Rally Cycling
 4,132539,Brad,HUFF,Springfield,MO,3:27:07,Rally Cycling
@@ -1484,7 +1484,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,343054,Cameron,PIPER,Morgan Hill,CA,3:27:07,Team Illuminate
 15,422564,Jeremy,RUSSELL,Portland,OR,3:27:07,River City Bicycles
 16,192584,Shane,KLINE,Bally,PA,3:27:07,Rally Cycling
-17,381623,Owen,GILLOTT,Foster City ,CA,3:27:07,Storck-CCN
+17,381623,Owen,GILLOTT,Foster City,CA,3:27:07,Storck-CCN
 18,295492,Jules,GILLIAM,Manhattan Beach,CA,3:27:07,Team Specialized Racing
 19,219434,Justin,MAUCH,Sterling,VA,3:27:07,Herbalife pb Marc Pro - Nature's Bakery
 20,283185,Anthony,FERRETTI,Oroville,CA,3:27:07,AMain Cycling Team
@@ -1512,22 +1512,22 @@ Place,License #,First,Last,City,State,Time,Team
 42,425803,Cameron,BRONSTEIN,Berkeley,CA,3:30:45,Team Mike's Bikes pb Equator Coffees
 43,368368,Zachary,MORVANT,San Francisco,CA,3:30:57,Dolce Vita Freewheel pb SL2
 44,486720,Jaap,BERG,Redding,CA,3:31:27,AMain Cycling Team
-45,207262,Andrew,GOESSLING,El Cerrito,CA,3:31:40,Team Mike's Bikes pb Equator Coffees
+45,207262,Andrew,GOESSLING,Oakland,CA,3:31:40,Team Mike's Bikes pb Equator Coffees
 46,373958,Jules,GOGUELY,Palo Alto,CA,3:31:40,Storck-CCN
-47,342402,Kevin,GIRKINS,Austin,TX,3:31:40,Elbowz Racing
+47,342402,Kevin,GIRKINS,San Marcos,TX,3:31:40,Elbowz Racing
 48,169774,Brian,MCCULLOCH,Yucaipa,CA,3:31:40,Elevate-KHS Pro Cycling
 49,390013,Joseph,GAREY,Henderson,NV,3:31:40,Pacific Premier Bank Cycling Team
 50,301042,Christopher,WYMAN,Long Beach,CA,3:31:40,Pacific Premier Bank Cycling Team
 51,304797,Matt,CHATLAONG,Roseville,CA,3:31:40,Herbalife pb Marc Pro - Nature's Bakery
-52,456576,Sam,BOARDMAN,Washington,CA,3:31:40,Herbalife pb Marc Pro - Nature's Bakery
+52,456576,Sam,BOARDMAN,Los Angeles,CA,3:31:40,Herbalife pb Marc Pro - Nature's Bakery
 53,332190,Chris,HARLAND-DUNAWAY,Berkeley,CA,3:31:40,Herbalife pb Marc Pro - Nature's Bakery
 54,272559,Aj,SNOVEL,Sacramento,CA,3:33:58,Davis Bike Club Elite Team
 55,309396,Stephan,HOFFMAN,Soquel,CA,3:33:58,Team Clif Bar
 56,411789,Ben,FOSTER,Topanga,CA,3:33:58,Support Clean Sport / Sea Sucker / Guttenplan Coaching
-57,522775,Leon,Gledhill,Santa Clara,CA,3:35:38,Team Mike's Bikes pb Equator Coffees
+57,494043,Leon,Gledhill,,,3:35:38,Team Mike's Bikes pb Equator Coffees
 58,279388,Connor,MCCUTCHEON,Bend,OR,3:35:54,Team Illuminate
 59,263998,Reese,LEVINE,Orinda,CA,3:35:54,Team Mike's Bikes pb Equator Coffees
-60,211435,Zack,ALLISON,Fort Collins ,CO,3:38:32,Team Clif Bar Elite
+60,211435,Zack,ALLISON,Fort Collins,CO,3:38:32,Team Clif Bar Elite
 61,403731,Gavin,MURRAY,Sebastopol,CA,3:38:32,Storck-CCN
 62,287912,Todd,GOSSELAAR,Corona,CA,3:43:08,0
 63,269476,Michael,JASINSKI,Rocklin,CA,3:43:10,Team CLIF Bar
@@ -1547,7 +1547,7 @@ Place,License #,First,Last,City,State,Time,Team
 77,459871,Brandon,BAKER,Santa Barbara,CA,4:06:44,STINNER BLACK SHEEP RACING
 78,282569,Stephen,LEECE,Goleta,CA,4:06:44,STINNER BLACK SHEEP RACING
 79,289282,Brian,FUNK,Menlo Park,CA,4:20:44,Cycle Sport  Specialized pb Muscle Milk
-80,306325,William,MYERS,Orinda,CA,4:24:34,Herbalife pb Marc Pro - Nature's Bakery
+80,306325,William,MYERS,Davis,CA,4:24:34,Herbalife pb Marc Pro - Nature's Bakery
 81,197316,Justin,WILLIAMS,Los Angeles,CA,4:26:11,Cylance Pro Cycling
 DNS,283386,Jeffrey,BUSCHECK,Davis,CA,,Davis Bike Club Elite Team
 DNS,320490,Corey,DUREN,Chico,CA,,AMain Cycling Team
@@ -1600,13 +1600,13 @@ Place,License #,First,Last,City,State,Time,Team
 5,371699,John,MARENGO,Fair Oaks,CA,4:07:00,Team City Racing
 6,26205,Lawrence,NOLAN,Fremont,CA,4:07:46,Team Specialized Racing Masters
 7,33092,Darryl,SMITH,Pleasanton,CA,4:08:30,R4R-Make A Wish
-8,345270,Brian,MCANDREWS,Danville,CA,4:13:14,ThirstyBear pb Akamai
+8,345270,Brian,MCANDREWS,Spring,TX,4:13:14,ThirstyBear pb Akamai
 9,71802,Jon,ORNSTIL,San Francisco,CA,4:13:14,Hammer Nutrition/53x11
 10,360492,Dean,ABT,Oakland,CA,4:17:03,Team Oakland Cycling
 11,356162,Ryosei,KANEKO,El Sobrante,CA,4:18:55,ol republic/SERT
 12,192774,Kevin,WILLITTS,S Lake Tahoe,CA,4:19:22,3Ft - It's The Law
 13,300056,Lance,HAAG,Fairfax,CA,4:34:40,ThirstyBear pb Akamai
-14,46151,Jim,SULLIVAN,Calistoga,CA,4:36:51,Unattached
+14,46151,Jim,SULLIVAN,Davis,CA,4:36:51,Unattached
 15,181341,Robert,MCWHORTER,Divide,CO,5:09:38,US Military Endurance Sports
 DNS,202161,Lance,NEWEY,Folsom,CA,,Sierra Nevada/Reliable Racing
 DNF,458419,Cal,ERDMAN,Sacramento,CA,,Team City Racing
@@ -1631,7 +1631,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,382234,Troy,DEIBERT,Truckee,CA,3:55:40,Paco's Northstar
 14,411242,Matt,KLINE,Grants Pass,OR,3:55:40,Martys
 15,394292,Richard,REINHARDT,Sacramento,CA,3:55:40,Folsom Bike/Trek Men's Road Team
-16,201585,Dan,QUIRK,Petaluma,CA,3:55:40,ThirstyBear pb Akamai
+16,201585,Dan,QUIRK,Sonoma,CA,3:55:40,ThirstyBear pb Akamai
 17,296426,Todd,MUNK,Morgan Hill,CA,3:55:43,SJBC
 18,141309,Rick,LAWTON,Pleasanton,CA,3:55:47,R4R-Make A Wish
 19,205616,Shawn,DALY,Santa Rosa,CA,3:56:21,ThirstyBear pb Akamai
@@ -1651,7 +1651,7 @@ DNF,176461,Kevin,BAKER,Oakland,CA,,Chico Cycling
 
 02/25/2017 Road Race Men Masters 35+ Cat 3-4
 Place,License #,First,Last,City,State,Time,Team
-19,378563,Kurt,BROWN,Minneapolis,CA,1:58:34,Dolce Vita Freewheel
+19,378563,Kurt,BROWN,San Francisco,CA,1:58:34,Dolce Vita Freewheel
 
 02/25/2017 Road Race Men Masters 35+ Cat 3-4 35-99
 Place,License #,First,Last,City,State,Time,Team
@@ -1696,7 +1696,7 @@ Place,License #,First,Last,City,State,Time,Team
 40,492614,Drew,NOEL,Sacramento,CA,2:15:14,Trafiq vs. Traffic
 DNF,393325,Len,BAKER,El Dorado Hills,CA,,Revs Road Race pb Kinetic Cycles
 DNF,53651,Jim,BLANKENSHIP,Rescue,CA,,Victory Velo Racing
-DNF,394639,Nicholas,CASTER,Roseville  ,CA,,Data Driven Athlete Racing
+DNF,394639,Nicholas,CASTER,Roseville,CA,,Data Driven Athlete Racing
 DNF,434312,Nick,ESLINGER,Oaklando,CA,,0
 DNF,226193,Allan,MECHAM,Salt Lake City,UT,,0
 DNF,393391,Mathew,MILLER,San Carlos,CA,,Pen Velo Racing/Summit Bicycles
@@ -1759,7 +1759,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,508231,Isaiah,OLIVER,El Dorado Hills,CA,1:54:52,Limitless Cycling
 16,406824,Creighton,GRUBER,Chico,CA,1:54:52,Team Swift
 17,519860,Richard,LOEWEN,Willows,CA,1:54:52,0
-18,498709,Mikal,DAVIS,Menlo Park,CA,1:54:52,TMB Development pb Equator
+18,498709,Mikal,DAVIS,Redwood City,CA,1:54:52,TMB Development pb Equator
 19,277289,Joseph,MARINELLI,Brighton,MA,1:54:52,Blue Hills Cycling Club
 20,484392,Fraser,BURCH,Orinda,CA,1:54:52,Tieni Duro Junior Cycling Team
 21,439886,Jason,WHITLEY,The Dalles,OR,1:54:52,Team Oregon
@@ -1793,8 +1793,8 @@ Place,License #,First,Last,City,State,Time,Team
 49,496600,Nicholas,SEATON,Pollock Pines,CA,2:01:35,Sierra Nevada/Reliable Buick GMC
 50,526188,Joel,HAMMOND,Chico,CA,2:01:38,Chico cycling team
 51,502469,Alex,ATMORE,San Francisco,CA,2:01:54,PenVelo
-52,307201,Nye,YACKLE,Spokane ,WA,2:04:29,Yackle Brothers Racing
-53,282259,Matthew,MARINELLI,Towson,MD,2:06:17,Team BBC pb Baltimore Bicycle Works
+52,307201,Nye,YACKLE,Spokane,WA,2:04:29,Yackle Brothers Racing
+53,282259,Matthew,MARINELLI,Baltimore,MD,2:06:17,Team BBC pb Baltimore Bicycle Works
 54,459105,Kaito,CLARKE,Milpitas,CA,2:06:17,SJBC
 55,204848,Juan,NAVARRO,San Jose,CA,2:07:13,TMB Development pb Equator
 56,525967,Drew,SCHIBSTED,Chico,CA,2:07:45,Chico Cycling Team
@@ -1839,7 +1839,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,378266,Yuriy,PLATOSHYN,San Jose,CA,3:53:19,Pen Velo Racing/Summit Bicycles
 19,263172,Grant,HEADLEY,Portland,OR,3:53:19,Swift Racing PDX pb 21st Ave Bicycles
 20,457144,Brian,KOHAGEN,Boise,ID,3:53:19,Rolling H Cycles
-21,442816,Matthew,PAEZ,Reno,NV,3:53:19,Orange Pedal Cycling
+21,442816,Matthew,PAEZ,Bend,OR,3:53:19,Orange Pedal Cycling
 22,476831,Richie,VOS,Mountain View,CA,3:53:19,SunPower Racing
 23,489166,Colin,PATTERSON,Palo Alto,CA,3:53:19,SquardaSF pb Terun
 24,460867,Mark,MORTON,Lakeport,CA,3:53:19,Cycle Sport - Specialized pb Muscle Milk
@@ -1848,7 +1848,7 @@ Place,License #,First,Last,City,State,Time,Team
 27,366956,Ashton,LYLE,Benicia,CA,3:54:55,SquadraSF pb Terun
 28,286429,Will,KANZ,Davis,CA,3:56:04,Davis Bike Club Race Team
 29,495103,Leo,FISSEL,Redwood Valley,CA,3:56:47,TMB Development pb Equator
-30,286323,James,YANG,Costa Mesa ,CA,3:56:50,0
+30,286323,James,YANG,Berkeley,CA,3:56:50,0
 31,340930,Jonathan,MACDONALD,Nampa,ID,4:04:45,0
 32,377646,Christopher,CRAIG,San Francisco,CA,4:05:34,Team Mike's Bikes pb Equator Coffees
 33,497517,Zane,JENSEN,Lakeport,CA,4:06:38,Main Street Elite pb Main Street Bicycles
@@ -1858,7 +1858,7 @@ Place,License #,First,Last,City,State,Time,Team
 37,275120,Cameron,WALKER,Sacramento,CA,4:12:59,Mikes Bikes pb Equator Development Team
 38,501065,Julien,SCHALLER,Los Altos,CA,4:17:15,SunPower Racing
 39,394845,Matt,CARVELL,Woodside,CA,4:26:13,SunPower Racing
-40,307192,Jake,YACKLE,Spokane ,WA,4:29:38,Yackle Brothers Racing
+40,307192,Jake,YACKLE,Spokane,WA,4:29:38,Yackle Brothers Racing
 41,126770,Seth,MCDONOUGH,Chico,CA,4:30:47,0
 42,415478,Chris,LEVINS,Redwood City,CA,4:33:25,Pen Velo Racing/Summit Bicycles
 43,220894,Alexander,YERMOLOVICH,Santa Clara,CA,4:33:25,Pen Velo Racing/Summit Bicycles
@@ -1869,7 +1869,7 @@ Place,License #,First,Last,City,State,Time,Team
 48,430072,Carlos,FuerteGaspar,Riverside,CA,4:49:16,Eliel Factory Team
 49,422186,Keith,SOLLERS,Davis,CA,4:51:46,Davis Bike Club Race Team
 50,358906,Nat,FUTTERMAN,Oakland,CA,4:52:12,TMB Development pb Equator
-51,266583,Douglas,SCHALLER,Belmont ,CA,5:04:07,Bloc Racing
+51,266583,Douglas,SCHALLER,Belmont,CA,5:04:07,Bloc Racing
 52,396434,Matthew,SWARTWOUT,Mountain View,CA,5:09:00,TMB Development pb Equator
 DNF,457573,Erik,CASTILLO,Duarte,CA,,NCCF / Team Specialized Juniors
 DNF,392893,Jeromy,LEE,San Francisco,CA,,AMain Cycling Team
@@ -1904,7 +1904,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,397013,Christopher,BEALL,Burlingame,CA,3:42:28,LOW//Factory Racing
 20,414898,Jackson,DUNCAN,Santa Rosa,CA,3:42:28,HEDRICK RACING
 21,268389,John,ECHEVESTE,Santa Barbara,CA,3:42:28,Fig Mtn Brew Racing
-22,269966,Chester,GILLMORE,Santa Barbara,CA,3:42:41,Dolce Vita Freewheel pb SL2
+22,269966,Chester,GILLMORE,San Francisco,CA,3:42:41,Dolce Vita Freewheel pb SL2
 23,258824,Ryan,OAKES,Chico,CA,3:43:57,AMain Cycling Team
 24,337774,Charlie,VELEZ,El Dorado Hills,CA,3:44:35,Data Driven Athlete
 25,380907,Zachary,GOTTESMAN,Greenbrae,CA,3:44:35,NCCF/SPECIALZED JUNIORS
@@ -1920,9 +1920,9 @@ Place,License #,First,Last,City,State,Time,Team
 35,420048,Greg,MCCULLOUGH,San Francisco,CA,3:55:33,Cycle Sport  Specialized
 36,413330,Aaron,MCDEVITT,Mountain View,CA,3:56:32,SquadraSF pb Terun
 37,318306,Samuel,HILL,Woodland,CA,4:00:25,Williams Cycling
-38,380700,Martin,SZWARC,San Francisco ,CA,4:07:55,Cycle Sport  Specialized
+38,380700,Martin,SZWARC,San Francisco,CA,4:07:55,Cycle Sport  Specialized
 39,408446,David,WAPLES,Spokane,WA,4:07:55,Kryki Sports pb Audi
-40,207547,Michael,CORDOVA,Chico,CA,4:07:55,Chico Masters Cycling Team
+40,524998,Michael,CORDOVA,Chico,CA,4:07:55,Chico Masters Cycling Team
 41,394110,Dakota,GRACEY,Tehachapi,CA,4:14:30,0
 42,404003,Christian,MOLINA,La Crescenta,CA,4:14:30,Endo Concept Team
 43,370448,Christian,LAM,San Francisco,CA,4:15:27,SquadraSF pb Terun
@@ -1943,9 +1943,9 @@ DNF,132921,Justin,THOMPSON,Portola Valley,CA,,SquadraSF pb Terun
 
 02/25/2017 Road Race Women Pro-1-2-3
 Place,License #,First,Last,City,State,Time,Team
-1,355078,Mandy,HEINTZ,Phoenix,AZ,4:14:58,Visit Dallas DNA Pro Cycling
-2,267768,Lindsay,BAYER,Reston,VA,4:14:58,Hagens Berman | Supermint
-3,343484,Summer,MOAK,Phoenix,AZ,4:15:07,Sho-Air TWENTY20
+1,355078,Mandy,HEINTZ,Scottsdale ,AZ,4:14:58,Visit Dallas DNA Pro Cycling
+2,267768,Lindsay,BAYER,Chantilly,VA,4:14:58,Hagens Berman | Supermint
+3,343484,Summer,MOAK,Scottsdale,AZ,4:15:07,Sho-Air TWENTY20
 4,457092,Rachel,LANGDON,Louisville,KY,4:15:07,Team Illuminate
 5,272063,Lindsay,MYERS,Paradise,CA,4:15:13,0
 6,170980,Samantha,SCHNEIDER,West Allis,WI,4:15:49,Team Illuminate
@@ -1959,7 +1959,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,0,Sofia,ARREOLA NAVARRO,,,4:15:49,Sho-Air TWENTY20
 15,366011,Krista,DOEBEL-HICKOK,Marina Del Rey,CA,4:15:49,Cylance Pro Cycling
 16,292211,Jennifer,TETRICK,Sausalito,CA,4:15:49,Team TIBCO-Silicon Valley Bank
-17,230397,Shayna,POWLESS,Roseville,CA,4:15:49,Sho-Air TWENTY20
+17,230397,Shayna,POWLESS,Jacksonville,FL,4:15:49,Sho-Air TWENTY20
 18,230062,Erica,ZAVETA,Brevard,NC,4:15:49,Cylance Pro Cycling
 19,401076,Clare,SAYLE,San Jose,CA,4:15:49,Jakroo presented by Chrome Industries
 20,458871,Megan,RUBLE,Modesto,CA,4:15:49,Cycle Sport-Specialized pb Muscle Milk
@@ -1968,13 +1968,13 @@ Place,License #,First,Last,City,State,Time,Team
 23,202033,Starla,TEDDERGREEN,Portland,OR,4:15:49,Hagens Berman | Supermint
 24,266806,Alison,TETRICK,Petaluma,CA,4:15:49,Cylance Pro Cycling
 25,293983,Jessica,CERRA,Encinitas,CA,4:15:49,Hagens Berman | Supermint
-26,263791,Breanne,NALDER,Murray,UT,4:15:49,Visit Dallas DNA Pro Cycling
+26,263791,Breanne,NALDER,Millcreek,UT,4:15:49,Visit Dallas DNA Pro Cycling
 27,362328,Beth Ann,ORTON,Bend,OR,4:15:49,Hagens Berman | Supermint
 28,266674,Kathryn,DONOVAN,Oxnard,CA,4:15:49,Visit Dallas DNA Pro Cycling
 29,300089,Skylar,SCHNEIDER,West Allis,WI,4:15:49,Team Illuminate
 30,280870,Jennifer,LUEBKE,Bend,OR,4:15:49,Visit Dallas DNA Pro Cycling
 31,359346,Jessica,BOBECK,Albuquerque,NM,4:15:56,Team Illuminate
-32,317802,Holly,BRECK,Santa Ynez,CA,4:16:00,Sho-Air TWENTY20
+32,317802,Holly,BRECK,San Dimas,CA,4:16:00,Sho-Air TWENTY20
 33,145511,Liza,RACHETTO,Boise,ID,4:16:00,Hagens Berman | Supermint
 34,424919,Ayesha,MCGOWAN,El Sobrante,CA,4:17:15,Jakroo presented by Chrome Industries
 35,387746,Amy,CAMERON,Oakland,CA,4:17:15,Folsom Bike/Trek
@@ -1997,19 +1997,19 @@ Place,License #,First,Last,City,State,Time,Team
 4,494210,Kortney,PARMAN,San Francisco,CA,2:10:21,JL Velo
 5,396175,Naomi,HESTER,Davis,CA,2:10:24,JLVelo Cycling Team pb The Freewheel
 6,425153,Ginger,BOYD,Los Angeles,CA,2:10:25,STINNER BLACK SHEEP RACING
-7,526214,Caroline,LEA,Mill Valley,CA,2:10:31,Olympic Club
-8,485936,Trish,PABLO,Sacramento ,CA,2:10:31,Team Mike's Bikes pb Equator Coffees
+7,440213,Caroline,LEA,Mill Valley,CA,2:10:31,Olympic Club
+8,485936,Trish,PABLO,Rodeo,CA,2:10:31,Team Mike's Bikes pb Equator Coffees
 9,17778,Lesley,JENSEN,Benicia,CA,2:11:30,JLVelo Cycling Team pb The Freewheel
 10,334726,Rachel,GEITER,Milwaukie,OR,2:11:33,Razzle Dazzle
 11,419981,Meisin,YAN,San Francisco,CA,2:12:31,Team Mike's Bikes pb Equator Coffees
 12,522553,Alison,KUBOTA,San Francisco,CA,2:12:33,JLVelo Cycling Team pb The Freewheel
 13,340330,Eleanor,VELEZ,El Dorado Hills,CA,2:12:34,0
-14,340844,Jennifer,WILSON,Cambridge,MA,2:12:37,RAZZLE DAZZLE
-15,455528,Shelby,TRAMEL,San Francisco,CA,2:13:58,RAZZLE DAZZLE
+14,340844,Jennifer,WILSON,Los Gatos,CA,2:12:37,RAZZLE DAZZLE
+15,455528,Shelby,TRAMEL,Oakkland,CA,2:13:58,RAZZLE DAZZLE
 16,459878,Trixie,BRADLEY,Pilot Hill,CA,2:14:07,Team Roseville Cyclery
 17,458805,Lindsay,BARLOW,Menlo Park,CA,2:14:07,JLVelo Cycling Team pb The Freewheel
 18,287914,Nicole,SLATON,Davis,CA,2:14:16,JLVelo Cycling Team pb The Freewheel
-19,306378,Kristen,HILL,Woodland,CA,2:15:37,Williams Cycling
+19,306378,Kristen,HILL,Sacramento,CA,2:15:37,Williams Cycling
 20,262057,Joy,FRANCO,Stanford,CA,2:16:49,RAZZLE DAZZLE
 21,457199,Erica,MENZE,Portland,OR,2:19:42,Team Oregon pb Laurelwood Brewing Company
 22,458352,Loran,VILAS,Chico,CA,2:19:42,Chico Cycling Team
@@ -2026,7 +2026,7 @@ DNF,485867,Wendy,THOMPSON,Pahrump,NV,,0
 
 02/24/2017 Circuit Race Men Pro-1
 Place,License #,First,Last,City,State,Time,Team
-1,342402,Kevin,GIRKINS,Austin,TX,1:27:17,Elbowz Racing
+1,342402,Kevin,GIRKINS,San Marcos,TX,1:27:17,Elbowz Racing
 2,192584,Shane,KLINE,Bally,PA,1:27:17,Rally Cycling
 3,219434,Justin,MAUCH,Sterling,VA,1:27:17,Herbalife pb Marc Pro - Nature's Bakery
 4,319002,Innokenty,ZAVYALOV,San Marcos,CA,1:27:17,Elevate-KHS Pro Cycling
@@ -2038,7 +2038,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,393803,Richard,HOLEC,Murrieta,CA,1:27:50,LUX/Stradling
 11,304797,Matt,CHATLAONG,Roseville,CA,1:27:50,Herbalife pb Marc Pro - Nature's Bakery
 12,218686,Jacob,RATHE,Portland,OR,1:27:50,Jelly Belly Cycling pb Maxxis
-13,381623,Owen,GILLOTT,Foster City ,CA,1:27:50,Storck-CCN
+13,381623,Owen,GILLOTT,Foster City,CA,1:27:50,Storck-CCN
 14,132539,Brad,HUFF,Springfield,MO,1:27:50,Rally Cycling
 15,442824,Rene,Corella,,,1:27:50,Start Vaxes Cycling Team
 16,279388,Connor,MCCUTCHEON,Bend,OR,1:27:50,Team Illuminate
@@ -2046,13 +2046,13 @@ Place,License #,First,Last,City,State,Time,Team
 18,197714,Joseph,SCHMALZ,Lawrence,KS,1:27:50,Elevate-KHS Pro Cycling
 19,280894,Alex,DARVILLE,Santa Barbara,CA,1:27:50,STINNER BLACK SHEEP RACING
 20,397835,Cole,DAVIS,Folsom,CA,1:27:50,NCCF Team Specialized Juniors
-21,222542,Emerson,ORONTE,Boulder,CO,1:27:50,Rally Cycling
+21,222542,Emerson,ORONTE,Louisville,CO,1:27:50,Rally Cycling
 22,154883,Jesse,ANTHONY,Newbury Park,CA,1:27:50,Rally Cycling
 23,343054,Cameron,PIPER,Morgan Hill,CA,1:27:50,Team Illuminate
 24,372580,Brad,NEAGOS,Grand Rapids,MI,1:27:50,Team Illuminate
 25,445034,Orlando,Garibay,,,1:27:50,Cylance Pro Cycling
 26,195652,Max,JENKINS,Davis,CA,1:27:50,Davis Bike Club Elite Team
-27,456576,Sam,BOARDMAN,Washington,CA,1:27:50,Herbalife pb Marc Pro - Nature's Bakery
+27,456576,Sam,BOARDMAN,Los Angeles,CA,1:27:50,Herbalife pb Marc Pro - Nature's Bakery
 28,153790,Roman,KILUN,Oakland,CA,1:27:50,Team Mike's Bikes pb Equator Coffees
 29,403731,Gavin,MURRAY,Sebastopol,CA,1:27:50,Storck-CCN
 30,329962,Cameron,BEARD,Bend,OR,1:27:50,UCI CT: CCB Velotooler
@@ -2063,11 +2063,11 @@ Place,License #,First,Last,City,State,Time,Team
 35,267361,Chris,RIEKERT,San Jose,CA,1:27:50,Team Mike's Bikes pb Equator Coffees
 36,0,Patrik,RYBARDT,,,1:27:50,CK Ringen
 37,366582,Jason,GANDZJUK,Salinas,CA,1:27:50,Cycle Sport  Specialized
-38,306325,William,MYERS,Orinda,CA,1:27:50,Herbalife pb Marc Pro - Nature's Bakery
+38,306325,William,MYERS,Davis,CA,1:27:50,Herbalife pb Marc Pro - Nature's Bakery
 39,0,Callum,GORDON,,,1:27:50,SoCalCycling.com
 40,244581,Cullen,EASTER,Grand Junction,CO,1:27:50,Team Illuminate
 41,220775,Thomas,SOLADAY,Minnetonka,MN,1:27:50,Rally Cycling
-42,211435,Zack,ALLISON,Fort Collins ,CO,1:27:50,Team Clif Bar Elite
+42,211435,Zack,ALLISON,Fort Collins,CO,1:27:50,Team Clif Bar Elite
 43,169774,Brian,MCCULLOCH,Yucaipa,CA,1:27:50,Elevate-KHS Pro Cycling
 44,309396,Stephan,HOFFMAN,Soquel,CA,1:27:50,Team Clif Bar
 45,332190,Chris,HARLAND-DUNAWAY,Berkeley,CA,1:27:50,Herbalife pb Marc Pro - Nature's Bakery
@@ -2080,7 +2080,7 @@ Place,License #,First,Last,City,State,Time,Team
 52,188997,Robert,SCHELL,Richmond,CA,1:29:05,Dolce Vita Freewheel pb SL2
 53,243374,Kai,APPLEQUIST,Boise,ID,1:29:05,Mercedes Benz pb Thrivent Financial
 54,459871,Brandon,BAKER,Santa Barbara,CA,1:29:05,STINNER BLACK SHEEP RACING
-55,207262,Andrew,GOESSLING,El Cerrito,CA,1:29:05,Team Mike's Bikes pb Equator Coffees
+55,207262,Andrew,GOESSLING,Oakland,CA,1:29:05,Team Mike's Bikes pb Equator Coffees
 56,295492,Jules,GILLIAM,Manhattan Beach,CA,1:29:05,Team Specialized Racing
 57,394826,Aria,KIANI,Santa Rosa,CA,1:29:05,Team Mike's Bikes pb Equator Coffees
 58,425803,Cameron,BRONSTEIN,Berkeley,CA,1:29:05,Team Mike's Bikes pb Equator Coffees
@@ -2093,7 +2093,7 @@ Place,License #,First,Last,City,State,Time,Team
 65,373958,Jules,GOGUELY,Palo Alto,CA,1:30:29,Storck-CCN
 66,127093,Adam,SWITTERS,Citrus Heights,CA,1:30:29,Team Mike's Bikes pb Equator Coffees
 67,263998,Reese,LEVINE,Orinda,CA,1:30:29,Team Mike's Bikes pb Equator Coffees
-68,522775,Leon,Gledhill,Santa Clara,CA,1:30:34,Team Mike's Bikes pb Equator Coffees
+68,494043,Leon,Gledhill,,,1:30:34,Team Mike's Bikes pb Equator Coffees
 69,354762,Bryan,LEWIS,Charlottesville,VA,1:30:34,Cylance Pro Cycling
 70,303659,Kyle,MURPHY,Townshend,VT,1:30:37,Cylance Pro Cycling
 71,218355,Samuel (Hunter),Snipe Grove,Pomona,CA,1:30:37,Cylance Pro Cycling
@@ -2122,9 +2122,9 @@ Place,License #,First,Last,City,State,Time,Team
 3,286823,Joseph,FOSTER,Alamo,CA,0:57:25,ThirstyBear pb Akamai
 4,192774,Kevin,WILLITTS,S Lake Tahoe,CA,0:57:29,3Ft - It's The Law
 5,39478,Hunter,ZIESING,Bel Tiburon,CA,0:57:29,Hammer Nutrition/53x11
-6,345270,Brian,MCANDREWS,Danville,CA,0:57:29,ThirstyBear pb Akamai
+6,345270,Brian,MCANDREWS,Spring,TX,0:57:29,ThirstyBear pb Akamai
 7,371699,John,MARENGO,Fair Oaks,CA,0:57:29,Team City Racing
-8,46151,Jim,SULLIVAN,Calistoga,CA,0:57:29,Unattached
+8,46151,Jim,SULLIVAN,Davis,CA,0:57:29,Unattached
 9,360492,Dean,ABT,Oakland,CA,0:57:29,Team Oakland Cycling
 10,33092,Darryl,SMITH,Pleasanton,CA,0:57:29,R4R-Make A Wish
 11,356162,Ryosei,KANEKO,El Sobrante,CA,0:57:29,ol republic/SERT
@@ -2168,7 +2168,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,30110,Phil,ROBERTS,Oakland,CA,0:57:37,Chico Cycling Team
 23,271095,Jay,NEWTON,Roseville,CA,0:57:37,ThirstyBear pb Akamai
 24,377473,Ron,AMOS,,,0:57:37,Hammer/53x11
-25,201585,Dan,QUIRK,Petaluma,CA,0:57:37,ThirstyBear pb Akamai
+25,201585,Dan,QUIRK,Sonoma,CA,0:57:37,ThirstyBear pb Akamai
 26,382234,Troy,DEIBERT,Truckee,CA,0:57:37,Paco's Northstar
 27,205616,Shawn,DALY,Santa Rosa,CA,0:57:37,ThirstyBear pb Akamai
 28,416562,Phil,MALASPINA,San Martin,CA,0:57:37,CoreTechs
@@ -2229,13 +2229,13 @@ Place,License #,First,Last,City,State,Time,Team
 10,486531,Aidan,MCNEIL,Cupertino,CA,0:44:38,NCCF Team Specialized
 11,519860,Richard,LOEWEN,Willows,CA,0:44:38,0
 12,406045,Henry,CAY,Spring Creeks,NV,0:44:38,0
-13,282259,Matthew,MARINELLI,Towson,MD,0:44:42,Team BBC pb Baltimore Bicycle Works
+13,282259,Matthew,MARINELLI,Baltimore,MD,0:44:42,Team BBC pb Baltimore Bicycle Works
 14,422972,Davin,ABRAHAMIAN,Chico,CA,0:44:46,Chico Masters cycling team
-15,307201,Nye,YACKLE,Spokane ,WA,0:44:47,Yackle Brothers Racing
+15,307201,Nye,YACKLE,Spokane,WA,0:44:47,Yackle Brothers Racing
 16,495184,Jeremy,POND,Rocklin,CA,0:49:10,Limitless Cycling
 17,277289,Joseph,MARINELLI,Brighton,MA,0:49:10,Blue Hills Cycling Club
 18,494260,Jeremy,KELLOGG,Redding,CA,0:49:10,0
-19,497173,Nathaniel,WARFIELD,Red Bluff ,CA,0:49:10,Chico Masters Cycling Team
+19,497173,Nathaniel,WARFIELD,Red Bluff,CA,0:49:10,Chico Masters Cycling Team
 20,495705,Seth,WARFIELD,Red Bluff,CA,0:49:10,Chico Cycling Team
 21,494509,Ryan,GONZALES,Granite Bay,CA,0:49:10,Limitless
 22,496898,James,STEVENS,Susanville,CA,0:49:10,Orange Pedal
@@ -2268,15 +2268,15 @@ Place,License #,First,Last,City,State,Time,Team
 21,391493,Stuart,WATSON,San Rafael,CA,0:58:02,Cycle Sport - Specialized pb Muscle Milk
 22,331894,Grover,ROZEK,Folsom,CA,0:58:02,Reliable/Taco Bell Racing pb Kinetic Cycles
 23,476831,Richie,VOS,Mountain View,CA,0:58:02,SunPower Racing
-24,442816,Matthew,PAEZ,Reno,NV,0:58:02,Orange Pedal Cycling
+24,442816,Matthew,PAEZ,Bend,OR,0:58:02,Orange Pedal Cycling
 25,275120,Cameron,WALKER,Sacramento,CA,0:58:02,Mikes Bikes pb Equator Development Team
 26,501065,Julien,SCHALLER,Los Altos,CA,0:58:02,SunPower Racing
 27,333136,Sean,BRANDT,Alameda,CA,0:58:02,Dolce Vita Freewheel pb SL2
 28,391142,Logan,NEWMAN,Salt Lake City,UT,0:58:02,Cicada Racing
-29,266583,Douglas,SCHALLER,Belmont ,CA,0:58:02,Bloc Racing
+29,266583,Douglas,SCHALLER,Belmont,CA,0:58:02,Bloc Racing
 30,378266,Yuriy,PLATOSHYN,San Jose,CA,0:58:02,Pen Velo Racing/Summit Bicycles
 31,381082,Tucker,FEYDER,Boise,ID,0:58:02,Team Bob's-Bicycles.com
-32,307192,Jake,YACKLE,Spokane ,WA,0:58:02,Yackle Brothers Racing
+32,307192,Jake,YACKLE,Spokane,WA,0:58:02,Yackle Brothers Racing
 33,358906,Nat,FUTTERMAN,Oakland,CA,0:58:02,TMB Development pb Equator
 34,395728,Leonard,SCHUMMER,San Francisco,CA,0:58:02,Tieni Duro Junior Cycling
 35,497152,Kevon,BJORNSON,Eagle,ID,0:58:02,Team Bob's-Bicycles.com
@@ -2294,7 +2294,7 @@ Place,License #,First,Last,City,State,Time,Team
 47,422186,Keith,SOLLERS,Davis,CA,0:59:54,Davis Bike Club Race Team
 48,376603,Ryan,MENZE,Portland,OR,0:59:56,Team Oregon Presented by Laurelwood
 49,457573,Erik,CASTILLO,Duarte,CA,0:58:02,NCCF / Team Specialized Juniors
-50,286323,James,YANG,Costa Mesa ,CA,1:00:05,0
+50,286323,James,YANG,Berkeley,CA,1:00:05,0
 51,458972,Theo,GOGUELY,Menlo Park,CA,1:00:43,TMB Development pb Equator
 52,334018,Micah,LERNER,Los Altos,CA,0:58:02,LOW// Factory Racing
 53,489166,Colin,PATTERSON,Palo Alto,CA,0:58:02,SquardaSF pb Terun
@@ -2325,7 +2325,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,398391,Kyle,Stoffan Thornton,Boise,ID,0:59:30,Mercedes Benz pb Thrivent Financial
 15,458488,Timmy,BAUER,Placerville,CA,0:59:30,Williams Cycling
 16,420048,Greg,MCCULLOUGH,San Francisco,CA,0:59:30,Cycle Sport  Specialized
-17,207547,Michael,CORDOVA,Chico,CA,0:59:30,Chico Masters Cycling Team
+17,524998,Michael,CORDOVA,Chico,CA,0:59:30,Chico Masters Cycling Team
 18,224269,Jonathon,LEVIE,Mountlake Terrace,WA,0:59:30,HEDRICK RACING
 19,378802,Ben,COOK,Greenbrae,CA,0:59:30,Team Swift
 20,318306,Samuel,HILL,Woodland,CA,0:59:30,Williams Cycling
@@ -2336,7 +2336,7 @@ Place,License #,First,Last,City,State,Time,Team
 25,370448,Christian,LAM,San Francisco,CA,0:59:30,SquadraSF pb Terun
 26,351580,Lewis,WHILEY,Olympia,WA,0:59:30,HEDRICK RACING
 27,356530,Robert,LANDER,Sacramento,CA,0:59:30,AMain Cycling Team
-28,269966,Chester,GILLMORE,Santa Barbara,CA,0:59:30,Dolce Vita Freewheel pb SL2
+28,269966,Chester,GILLMORE,San Francisco,CA,0:59:30,Dolce Vita Freewheel pb SL2
 29,408446,David,WAPLES,Spokane,WA,0:59:30,Kryki Sports pb Audi
 30,413330,Aaron,MCDEVITT,Mountain View,CA,0:59:30,SquadraSF pb Terun
 31,248976,Sean,Estes,Morgan Hill,CA,59:30,Like the Wheel
@@ -2360,7 +2360,7 @@ Place,License #,First,Last,City,State,Time,Team
 49,270844,Jason,PAEZ,Whittier,CA,0:59:30,SC Velo
 50,319366,John,MOREHOUSE,Eugene,OR,0:59:30,HosmerChiro-RPM Mortgage
 51,394110,Dakota,GRACEY,Tehachapi,CA,0:59:30,0
-52,380700,Martin,SZWARC,San Francisco ,CA,0:59:30,Cycle Sport  Specialized
+52,380700,Martin,SZWARC,San Francisco,CA,0:59:30,Cycle Sport  Specialized
 53,389741,Joseph,HOLT,Chico,CA,0:59:30,AMain Cycling Team
 54,414898,Jackson,DUNCAN,Santa Rosa,CA,0:59:30,HEDRICK RACING
 55,268389,John,ECHEVESTE,Santa Barbara,CA,0:59:30,Fig Mtn Brew Racing
@@ -2370,9 +2370,9 @@ Place,License #,First,Last,City,State,Time,Team
 02/24/2017 Circuit Race Women Pro-1-2-3
 Place,License #,First,Last,City,State,Time,Team
 1,202033,Starla,TEDDERGREEN,Portland,OR,1:00:07,Hagens Berman | Supermint
-2,317802,Holly,BRECK,Santa Ynez,CA,1:00:07,Sho-Air TWENTY20
+2,317802,Holly,BRECK,San Dimas,CA,1:00:07,Sho-Air TWENTY20
 3,287816,Ivy,AUDRAIN,Bellingham,WA,1:00:07,Hagens Berman | Supermint
-4,355078,Mandy,HEINTZ,Phoenix,AZ,1:00:07,Visit Dallas DNA Pro Cycling
+4,355078,Mandy,HEINTZ,Scottsdale ,AZ,1:00:07,Visit Dallas DNA Pro Cycling
 5,0,Claire,ROSE,,,1:00:07,Visit Dallas DNA Pro Cycling
 6,230062,Erica,ZAVETA,Brevard,NC,1:00:07,Cylance Pro Cycling
 7,470357,Illi,GARDNER,Palo Alto,CA,1:00:07,Folsom Bike/Trek
@@ -2380,10 +2380,10 @@ Place,License #,First,Last,City,State,Time,Team
 9,466528,Yussely,Soto,West Allis,WI,1:00:07,Team Illuminate
 10,300089,Skylar,SCHNEIDER,West Allis,WI,1:00:07,Team Illuminate
 11,0,Sofia,ARREOLA NAVARRO,,,1:00:07,Sho-Air TWENTY20
-12,267768,Lindsay,BAYER,Reston,VA,1:00:07,Hagens Berman | Supermint
+12,267768,Lindsay,BAYER,Chantilly,VA,1:00:07,Hagens Berman | Supermint
 13,170980,Samantha,SCHNEIDER,West Allis,WI,1:00:07,Team Illuminate
 14,399567,Lisa,CORDOVA,Chico,CA,1:00:07,Cycle Sport - Specialized pb Muscle Milk
-15,230397,Shayna,POWLESS,Roseville,CA,1:00:07,Sho-Air TWENTY20
+15,230397,Shayna,POWLESS,Jacksonville,FL,1:00:07,Sho-Air TWENTY20
 16,420158,Hanna,MUEGGE,Marina,CA,1:00:07,Visit Dallas DNA Pro Cycling
 17,401364,Leah,THOMAS,Boulder Creek,CA,1:00:07,Sho-Air TWENTY20
 18,401076,Clare,SAYLE,San Jose,CA,1:00:07,Jakroo presented by Chrome Industries
@@ -2403,12 +2403,12 @@ Place,License #,First,Last,City,State,Time,Team
 32,347126,Jo,CELSO,Vista,CA,1:00:07,Jakroo presented by Chrome Industries
 33,266806,Alison,TETRICK,Petaluma,CA,1:00:07,Cylance Pro Cycling
 34,458871,Megan,RUBLE,Modesto,CA,1:00:07,Cycle Sport-Specialized pb Muscle Milk
-35,343484,Summer,MOAK,Phoenix,AZ,1:00:07,Sho-Air TWENTY20
+35,343484,Summer,MOAK,Scottsdale,AZ,1:00:07,Sho-Air TWENTY20
 36,359346,Jessica,BOBECK,Albuquerque,NM,1:00:07,Team Illuminate
 37,362328,Beth Ann,ORTON,Bend,OR,1:00:07,Hagens Berman | Supermint
 38,367211,Julia,GIESCHEN,Solvang,CA,1:00:07,STINNER BLACK SHEEP RACING
 39,266674,Kathryn,DONOVAN,Oxnard,CA,1:00:07,Visit Dallas DNA Pro Cycling
-40,263791,Breanne,NALDER,Murray,UT,1:00:07,Visit Dallas DNA Pro Cycling
+40,263791,Breanne,NALDER,Millcreek,UT,1:00:07,Visit Dallas DNA Pro Cycling
 41,487470,Annick,CHALIER,Portland,OR,1:00:16,Fast Fun Nice RacingTeam pb Wattie Ink
 42,203755,Amanda,SEIGLE,Citrus Heights,CA,1:00:18,Jakroo presented by Chrome Industries
 43,376124,Amity,GREGG,Oakland,CA,1:03:19,JAKROO presented by Chrome Industries

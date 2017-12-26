@@ -19,7 +19,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,467580,Andrew,Evans,Rogers,AR,,Tyson Foods Cycling Team
 16,246945,Caleb,Hulsey,Austin,TX,,Team Giant Lakeside p/b MINI of Plano
 DNS,337506,Robby,Ketterhagen,Tucson,AZ,,Landis/Trek
-DNS,301474,Sam,LeBlanc,Kenner,LA,,4D Racing
+DNS,301474,Sam,LeBlanc,New Orleans,LA,,4D Racing
 DNS,147032,Allen,Abell,New Braunfels,TX,,Bicycle Heaven / PVA
 DNF,527909,Sam,Thorpe-Loversuch,Mckinny,TX,,Giant lakeside pb mini of plano
 DNF,377614,Davis,Dombrowski,Mesquite,TX,,Matrix/RBM
@@ -47,7 +47,7 @@ DNF,175556,Thomas,Linehan,Austin,TX,,Violet Crown
 Place,License #,First,Last,City,State,Time,Team
 1,442369,Logan,Jenkins,San Angelo,TX,,Bicycle Heaven / PVA
 2,523107,Corey,Koberg,The Hills,TX,,Steiner Ranch Cycling
-3,306774,Sam,LeFebre,Chicago,IL,,
+3,306774,Sam,LeFebre,Austin,TX,,
 4,512556,Joe,Self,Tyler,TX,,
 5,439022,Mateo,Hernandez,San Angelo,TX,,
 6,461033,David,Bettner,West Lake Hills,TX,,PHENOM p/b Phobio
@@ -69,7 +69,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,236454,Jamie,Wallace,Harker Heights,TX,,
 23,459014,Jermal,Trammel,Kempner,TX,,US Military Endurance Sports
 24,520753,M,Wiist,Belton,TX,,
-25,245552,Matthew,Donahue,Harrisonburg,VA,,
+25,245552,Matthew,Donahue,Fort Collins,CO,,
 26,292873,Mark,Spurlock,Abilene,TX,,Steamboat Cycling
 DNS,417213,Peter,Saulino,Missouri City,TX,,Blue Agave Racing
 DNS,524084,Sean,Hamilton,Victoria,TX,,
@@ -110,13 +110,13 @@ DNS,284038,David,Roberts,Houston,TX,,Northwest Cycling Club
 DNS,304576,Ryan,Coover,Austin,TX,,Coover Caramels p/b ENVE Sweetness
 DNS,500531,James,Jumonville,Hutto,TX,,Blur Racing p/b Austin Multi-Sport
 DNS,523308,Douglas,Moore,Sweetwater,TX,,
-DNF,467827,John,Nadolski,Austin,TX,,Steiner Ranch Cycling
+DNF,467827,John,Nadolski,Lake Elmo,MN,,Steiner Ranch Cycling
 DNF,244236,Paul,Konrad,Allen,TX,,Crest/RBM Racing
 DNF,446825,Offir,Schwartz,Austin,TX,,
 DNF,411458,waqid,janjua,Houston,TX,,Southwest Cycling Club Racing
 DNF,499706,Thomas,Lea,Austin,TX,,Steiner Ranch Cycling
 DNF,464409,Nate,Collamer,Austin,TX,,
-DNF,424457,Jarod,Petty,Austin,TX,,Blur Racing p/b Austin Multi-Sport
+DNF,424457,Jarod,Petty,Cedar Park,TX,,Blur Racing p/b Austin Multi-Sport
 DNF,531582,Cash,White,Pflugerville,TX,,Coover Caramels p/b ENVE Sweetness
 DNF,259961,Wayde,Klein,Tyler,TX,,
 DNF,446330,Bret,Roberts,Leander,TX,,
@@ -139,7 +139,7 @@ DNF,432176,Raul,Luzardo,Spring,TX,,Southern Elite/Sun & Ski Sports
 Place,License #,First,Last,City,State,Time,Team
 1,499334,Matthew,Kirtman,Kingsland,TX,,Violet Crown Sports Assoc
 2,498466,Jacob,Lundgren,Bullard,TX,,FRESH Racing
-3,497181,Christian,DesChamps,Cypressc,TX,,Northwest Cycling Club
+3,497181,Christian,DesChamps,Cypress,TX,,Northwest Cycling Club
 4,378494,Ryan,Terry,Dallas,TX,,RBM/Matrix Racing
 5,403098,Seth,Inurrigarro,Forney,TX,,Rockwall Racing
 6,432313,Jack,Makohon,Heath,TX,,Rockwall Racing
@@ -163,7 +163,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,272797,Oktay,Demirdal,Austin,TX,,Pure Austin BoneShaker
 16,20478,Antonio,Latto,Austin,TX,,ATC Racing
 17,237854,Jeffrey,Noon,Mansfield,TX,,Cadence Cyclery
-18,400785,Jeff,Makohon,Rockwall,TX,,Rockwall Racing
+18,400785,Jeff,Makohon,Heath,TX,,Rockwall Racing
 19,339140,Andrew,Smith,Austin,TX,,Pure Austin BoneShaker
 20,366242,Jonathan,Jennings,Keller,TX,,Windsor Door Racing
 21,193283,Douglas,Ray,Spicewood,TX,,Crest/RBM Racing
@@ -174,7 +174,7 @@ DNF,383985,Robert,McDonald,Austin,TX,,787 Racing
 DNF,213699,Ramon,Galindo,Dallas,TX,,Nick Lopez Tailoring Cycling Team
 DNF,237395,Brent,Moulder,Frisco,TX,,
 DNF,44048,Robert,Heatley,Austin,TX,,Crest/RBM Racing
-DNF,336628,Edvin,Ordonez,Carrollton,TX,,Crest/RBM Racing
+DNF,336628,Edvin,Ordonez,The Colony,TX,,Crest/RBM Racing
 DNF,354628,Willem,Van Der Gryp,Plano,TX,,Crest/RBM Racing
 
 04/30/2017 Road Race Men Cat 1/2/3/4 Masters 50-99
@@ -246,7 +246,7 @@ DNS,484649,Andrew,Callan,Austin,TX,,Violet Crown
 DNS,417213,Peter,Saulino,Missouri City,TX,,Blue Agave Racing
 DNF,419376,Alan,Barrows,Austin,TX,,787 Racing
 DNF,295514,Jose,Chan,Houston,TX,,
-DNF,138828,Ralph,Ramirez,Pearland ,TX,,
+DNF,138828,Ralph,Ramirez,Pearland,TX,,
 DNF,420185,Pat,Luciano,Katy,TX,,Northwest Cycling Club
 
 04/30/2017 Road Race Men Cat 3
@@ -263,7 +263,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,51987,Justin,Paschall,Austin,TX,,
 11,486972,Jose,Rivera,Austin,TX,,Violet Crown Sports Assoc
 12,473175,Logan,Mclain,Bossier City,LA,,Team LaS'port
-13,268349,Callum,Ingram,Boulder,CO,,
+13,268349,Callum,Ingram,Reno,NV,,
 14,113482,Stefan,Hardie,Austin,TX,,ATC Racing
 15,192481,Tom,Warren,Salado,TX,,A Bloc
 16,229748,John,Cascio,Houston,TX,,GS Tenzing
@@ -371,7 +371,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,311209,Lucy,Needham,Austin,TX,,Colavita Racing
 5,411149,Katherine,Hill,Austin,TX,,Athlete Architecture p/b Hyperthreads
 6,447603,Tamra,Roberts,Cedar Park,TX,,
-7,365139,Laurie,Poe,Spring,TX,,Northwest Cycling Club
+7,365139,Laurie,Poe,Bulverde,TX,,Northwest Cycling Club
 
 04/30/2017 Road Race Women Cat 5
 Place,License #,First,Last,City,State,Time,Team

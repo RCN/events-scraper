@@ -41,9 +41,9 @@ Place,License #,First,Last,City,State,Time,Team
 8,281178,Scott,MCGILL,Fallston,MD,49:53,Brevard College
 9,284764,Skyler,TRUJILLO,Fort Collins,CO,50:06,Fort Lewis College
 10,279043,Carson,BECKETT,Benton,KY,50:19,Brevard College
-11,309018,Keith,MULLALY,Belmont,NC,50:45,Belmont Abbey College
+11,309018,Keith,MULLALY,Wethersfield,CT,50:45,Belmont Abbey College
 12,285782,Walker,SHAW,Hendersonville,NC,51:00,Brevard College
-13,250355,Zach,BENDER,Glen Rock,NJ,51:18,Marian University
+13,250355,Zach,BENDER,Waldwick,NJ,51:18,Marian University
 14,370895,Tristan,GREATHOUSE,Portage,MI,51:33,Belmont Abbey College
 15,358808,Jonah,MEADVANCORT,Ithaca,NY,52:33,Lindenwood University
 16,514121,Harrison,BUCKLEY,Colorado Springs,CO,52:33,Fort Lewis College
@@ -52,9 +52,9 @@ Place,License #,First,Last,City,State,Time,Team
 19,388008,Hugo,SCALA JR,Dallas,TX,53:08,Marian University
 20,334610,Sam,WINTERS,Indianapolis,IN,53:27,Marian University
 21,235804,Samuel,DOBROZSI,Loveland,OH,53:37,Lees-McRae College
-22,278921,Vance,FLETCHER,Chariton,IA,53:57,Marian University
-23,387921,Alec,HOOVER,Kingston ,NY,54:19,Lees-McRae College
-24,407184,Sam,VICKERY,Littleton,CO,55:11,Fort Lewis College
+22,278921,Vance,FLETCHER,Indianapolis,IN,53:57,Marian University
+23,387921,Alec,HOOVER,Ripon,WI,54:19,Lees-McRae College
+24,407184,Sam,VICKERY,Durango,CO,55:11,Fort Lewis College
 25,297492,John,HOFFMAN  JR.,Indianapolis,IN,55:54,Marian University
 26,373246,Ray,DANGELMAIER,Brighton,MI,56:03,Brevard College
 27,367087,Jack,PERRY,Banner Elk,NC,56:18,Lees-McRae College
@@ -77,7 +77,7 @@ Place,License #,First,Last,City,State,Time,Team
 44,390751,Kyle,ELLIS,Cumming,GA,50:36,King University
 45,400189,Nathan,HAKE,Mount Wolf,PA,51:21,Mars Hill University
 46,377930,Nathaniel,SCHOONOVER,Wentzville,MO,51:50,Lindenwood University
-47,504799,Peter,FOERSTER,,,52:04,Savannah College of Art and Design - Atlanta
+47,504799,Peter,FOERSTER,Atlanta,GA,52:04,Savannah College of Art and Design - Atlanta
 48,417906,Zack,STANIAK,Milford,MI,52:10,Brevard College
 49,484523,William,HARDIN,Winston Salem,NC,52:53,Lees-McRae College
 50,311427,Cole,JOHNSON,Shawnee Mission,KS,53:57,Lindenwood University
@@ -85,7 +85,7 @@ Place,License #,First,Last,City,State,Time,Team
 52,410987,Matthew,OWEN,Brevard,NC,54:58,King University
 53,492633,Jason,COLESTOCK,Minneapolis,MN,56:29,Lindenwood University
 54,456529,Gregory,COOPER,Prescott,AZ,58:38,Prescott College
-55,308175,Wilman,VARGAS,Atlanta ,GA,1:01:12,Savannah College of Art and Design - Atlanta
+55,308175,Wilman,VARGAS,Atlanta,GA,1:01:12,Savannah College of Art and Design - Atlanta
 56,448515,Harris,WAGNER,Sunnyside,NY,1:01:42,Warren Wilson College
 57,387159,Silas,MOOREFIELD,Statesville,NC,52:07,Lees-McRae College
 DNS,427611,Samuel,WENTWORTH,Sugarcreek,OH,,Milligan College
@@ -111,8 +111,8 @@ Place,License #,First,Last,City,State,Time,Team
 14,369746,Nicholas,LANDO,Ringwood,NJ,52:07,University of Vermont
 15,340986,George,GARVICK,New Bern,NC,52:52,Appalachian State University
 16,416197,Andrew,NICHOLAS,Troy,NY,53:39,Rensselaer Polytechnic Institute
-17,263035,Andrew,GINIAT,Winnetka,IL,54:01,DePaul University
-18,455497,Tristan,MANDERFELD,Sauk Rapids,MN,54:03,US Military Academy
+17,263035,Andrew,GINIAT,Asheville,NC,54:01,DePaul University
+18,455497,Tristan,MANDERFELD,Colorado Springs ,CO,54:03,US Military Academy
 19,328148,Luke,WOODARD,Blacksburg,VA,55:01,Virginia Polytechnic University
 20,460877,Jonathan,CRIPE,Baton Rouge,LA,55:04,Louisiana State University
 21,350148,Matthew,OWENS,Richmond,VT,56:32,University of Vermont
@@ -135,7 +135,7 @@ Place,License #,First,Last,City,State,Time,Team
 38,429724,Benjamin,JANKOWSKI,Mansfield,MA,1:07:30,University of Massachusetts Amherst
 39,496524,Max,GRANAT,Tomball,TX,1:09:35,The University of Texas at Austin
 40,442937,Dan,MCMAHON,Cincinnati,OH,50:06,Colorado School of Mines
-41,262217,Ryan,MCGIBONEY,Roanoke,VA,50:12,Virginia Polytechnic University
+41,262217,Ryan,MCGIBONEY,Blacksburg,VA,50:12,Virginia Polytechnic University
 42,486030,Ammon,OKAZAKI,West Point,NY,50:16,US Military Academy
 43,443876,Tobias,EHRENBERGER,Boston,MA,50:22,Massachusetts Institute of Technology
 44,458066,Jonathan,WELLS,Downingtown,PA,50:51,Colorado School of Mines
@@ -155,7 +155,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,326470,Hannah,ARENSMAN,Rutherford College,NC,43:59:00,Brevard College
 5,302383,Katherine,SANTOS,Louisville,KY,44:37:00,Marian University
 6,515536,Mackenize,MYATT,Atlanta,GA,45:17:00,Savannah College of Art and Design - Atlanta
-7,358569,Janelle,COLE,Rockford,MI,47:52:00,Brevard College
+7,358569,Janelle,COLE,Newaygo,MI,47:52:00,Brevard College
 8,485918,Kelsay,LUNDBERG,Salida,CO,48:28:00,Fort Lewis College
 9,522747,Rebecca,BRAMLEY,Littleton,CO,48:51:00,Fort Lewis College
 10,432692,Gabriella,ARNOLD,Indianapolis,IN,49:11:00,Marian University
@@ -183,14 +183,14 @@ DNF,383001,Victoria,KANIZER,Owasso,OK,,Milligan College
 01/04/2017 Cyclocross Women Club Nationals ALL MTB/CX
 Place,License #,First,Last,City,State,Time,Team
 1,220875,Emily,SHIELDS,Advance,NC,42:01,University of North Carolina at Greensboro
-2,512762,Lily,WILLIAMS,Chicago,IL,43:07,Northwestern University
+2,512762,Lily,WILLIAMS,Asheville,NC,43:07,Northwestern University
 3,429486,Jennifer,MALIK,Columbus,OH,43:57,Ohio State University
 4,388174,Julie,VANDERHOOP,Woods Hole,MA,44:41,Massachusetts Institute of Technology
-5,496869,Heidi,FRANZ,Seattle,WA,45:02,Seattle University
+5,496869,Heidi,FRANZ,Kirkland,WA,45:02,Seattle University
 6,499797,Danielle,MORSHEAD,San Anselmo,CA,45:48,Brown University
 7,399327,Meghan,OWENS,Richmond,VT,46:36,University of Vermont
 8,340936,Leslie,LUPIEN,Enfield,NH,47:01,Dartmouth College
-9,220876,Katherine,SHIELDS,Advance,NC,47:49,Wake Forest University
+9,220876,Katherine,SHIELDS,Salt Lake City,UT,47:49,Wake Forest University
 10,392411,Alex,CHRISTOFALOS,Lake Bluff,IL,48:26,Appalachian State University
 11,457714,Sophie,RUSSENBERGER,Bend,OR,48:45,Bard College
 12,376695,Paige,WILLIAMS,North Bennington,VT,48:56,Massachusetts College of Liberal Arts
@@ -199,7 +199,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,492822,Laura,LEATON,Charlottesville,VA,40:21,University of Virginia
 16,307282,Joanna,MILLSTEIN,Washington,DC,41:47,Dartmouth College
 17,277407,Shane,FERRO,Bronx,NY,42:47,Columbia University-NYC
-18,516682,Mary,WINTZ,Columbus,OH,43:01,Ohio State University
+18,516682,Mary,WINTZ,Willoughby,OH,43:01,Ohio State University
 19,425056,Emily,DREYER,Columbus,OH,45:29,Ohio State University
 20,486111,Monte,HO,West Point,NY,46:20,US Military Academy
 21,365323,Valerie,CYR,Wakefield,RI,47:34,University of Vermont

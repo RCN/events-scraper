@@ -34,7 +34,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,325378,Andrew,Turner,Cottage Grove,MN,45:18.7,Loon State Cyclists
 12,0,Brian,Sprague,,,45:19.1,Big Ring Flyers
 13,378752,Dominic,Howes,Minneapolis,MN,45:19.5,Loon State Cyclists
-14,423359,Kevin,O'Connor,Des Moines,IA,45:19.5,Sakari Race Team
+14,423359,Kevin,O'Connor,Clive,IA,45:19.5,Sakari Race Team
 15,497823,Jordan,Konynenbelt,Minneapolis,MN,45:19.6,Apollo Velo
 16,71423,David,Redinger,Afton,MN,45:19.8,Chilkoot Velo
 17,474329,Dalton,Collins,Washburn,WI,45:20.0,Northstar Development
@@ -44,7 +44,7 @@ Place,License #,First,Last,City,State,Time,Team
 21,322612,Ethan,Furois,Falcon Heights,MN,45:20.9,Northstar Development
 22,401214,Benjamin,Juarez,Minneapolis,MN,45:21.3,Northstar Development
 23,434608,Michael,Schneider,Rosemount,MN,45:22.1,Loon State Cyclists
-24,391656,Jordan,Buth,St. Paul ,MN,45:22.6,Loon State Cyclists
+24,391656,Jordan,Buth,St. Paul,MN,45:22.6,Loon State Cyclists
 25,412707,Andrew,Marolt,Bloomington,MN,45:24.2,
 26,424359,Anthony,Corradi,Duluth,MN,45:25.0,Apollo Velo
 27,457670,Luke,Skov,Le Mars,IA,45:32.7,Central Junior Cycling Devo
@@ -70,7 +70,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,232232,Brandon,Krawczyk,Saint Paul,MN,07:07.1,Orion Racing
 2,430695,John,Heinlein III,Stillwater,MN,07:17.5,Loon State Cyclists
 3,243156,Levon,Kalemkiarian,Stillwater,MN,07:18.1,Donkey Label
-4,185493,Peter,Olejniczak,Roseville,MN,08:03.2,Orion Racing
+4,185493,Peter,Olejniczak,Minneapolis,MN,08:03.2,Orion Racing
 5,366326,Chris,Anderson,Minneapolis,MN,08:03.3,Orion Racing
 6,425275,Logan,Grace,Minneapolis,MN,08:03.4,Apollo Velo
 7,307328,Brenden,Hardy,Iowa City,IA,08:03.4,Above And Beyond Cancer P/b Scheels
@@ -84,7 +84,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,361699,Wyatt,Furois,Falcon Heights,MN,08:05.6,Northstar Development
 16,291669,Ken,Hum,Minneapolis,MN,08:05.8,Zubaz Racing
 17,417655,Andy,Keogh,Plymouth,MN,08:05.9,Donkey Label
-18,403588,Jack,Niewold,Madison,WI,08:06.2,Apollo Velo
+18,403588,Jack,Niewold,Minneapolis,MN,08:06.2,Apollo Velo
 19,377510,Josh,Bauer,Richfield,MN,08:06.6,
 20,390310,Jared,Ritz,Coralville,IA,08:06.7,Iowa City Cycling Club
 21,161188,Tristin,Bentzler,Chippewa Falls,WI,08:06.7,Donkey Label
@@ -103,7 +103,7 @@ Place,License #,First,Last,City,State,Time,Team
 34,287353,Peter,Oien,Siouxfalls,SD,08:10.2,Queen City Cycling/sanford Health
 35,229280,Jordan,Cullen,Hudson,WI,08:24.8,Orion Racing
 36,470998,Eli,Markworth,Minneapolis,MN,56:50.9,St Paul Bicycle Racing Club
-37,423359,Kevin,O'Connor,Des Moines,IA,54:16.6,Sakari Race Team
+37,423359,Kevin,O'Connor,Clive,IA,54:16.6,Sakari Race Team
 38,312472,Lincoln,Eppard,Hollywood,FL,54:16.6,Above And Beyond Cancer P/b Scheels
 39,430347,Alex,Turner,Minneapolis,MN,44:42.4,Hollywood Cycles
 40,492633,Jason,Colestock,Minneapolis,MN,43:28.2,Northstar Development
@@ -146,7 +146,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,537868,Jarad,Watts,Minneapolis,MN,21:55.8,
 4,0,Nathan,Li,,,21:56.1,
 5,438759,Anthony,Acklin,West Des Moines,IA,21:56.3,Sakari Race Team
-6,538025,Tanner,Olek,Chippewa Falls,WI,21:56.6,
+6,538025,Tanner,Olek,,,21:56.6,
 7,537210,Jeff,Damm,Northfield,MN,21:56.7,
 8,482193,Shan,Sharif,Saint Paul,MN,21:56.9,
 9,528634,Mark,Fowler,Custer,MT,21:57.2,
@@ -215,7 +215,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,361303,Ellis,Nordhougen,Minneapolis,MN,24:32.8,Bike City Juniors
 4,360805,Ethan,Peterson,Minneapolis,MN,24:53.1,Northstar Development
 5,507797,Joe,Burbach,Hudson,WI,24:54.5,
-6,494530,Hunter,Navarro,Shawnee Mission,KS,23:43.0,Kcoi U20
+6,494530,Hunter,Navarro,Shawnee ,KS,23:43.0,Kcoi U20
 7,418307,Scott,Ferguson,Le Mars,IA,23:44.7,Central Junior Cycling Devo
 
 07/23/2017 Criterium Men Juniors 17-18
@@ -236,7 +236,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,289827,Chad,Weisgram,Audubon ,MN,49:33.8,Vision Racing P/b Sanford Power
 5,214654,Daniel,Casper,Lauderdale,MN,49:34.5,Donkey Label
 6,481068,David,Carney,Coon Rapids,MN,49:34.9,
-7,62279,Dan,Barkeim,Plymouth,MN,49:34.5,Mbrac/flanders
+7,62279,Dan,Barkeim,Rockford,MN,49:34.5,Mbrac/flanders
 8,15779,Jay,Henderson,Minneapolis,MN,49:35.2,Hollywood Cycles
 9,42458,Michel,Dalal,Lakeville,MN,49:36.2,Loon State Cyclists
 10,379675,David,Alexander,Des Moines,IA,49:37.4,Sakari Race Team
@@ -316,7 +316,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,316598,Jeannie,Kuhajek,Crystal Lake,IL,45:45.5,Psimet Racing
 4,467180,Carlyn,Jackson,Minneapolis,MN,45:45.7,Orion Racing
 5,406389,Suzie,Goebel,Sioux Falls,SD,45:46.3,St Paul Bicycle Racing Club
-6,302412,Anya,Malarski,St. Paul,MN,45:46.7,Zubaz Racing
+6,302412,Anya,Malarski,Saint Paul,MN,45:46.7,Zubaz Racing
 7,261947,Corey,Coogan Cisek,Minneapolis,MN,45:46.9,The Fix Studio
 8,211756,Carol,Seipp,Eagan,MN,45:50.2,Orion Racing
 9,316384,Angie,Johnson,Alexandria,MN,45:49.8,Finish Strong
@@ -327,7 +327,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,431625,Jessica,Bellville,Saint Paul,MN,45:46.5,Birchwood/gis
 3,365847,Anna,Luckow,Minneapolis,MN,45:47.5,Kingfield
 4,137107,Bonnie,Donzella,Eagan,MN,45:48.1,Hollywood Cycles
-5,498352,Waverly,Johnston,Minneapolis,MN,38:39.8,Minesota Cycling Team
+5,498352,Waverly,Johnston,Bloomington,MN,38:39.8,Minesota Cycling Team
 6,430539,Margeaux,Claude,Minneapolis,MN,40:05.4,The Fix Studio
 
 07/23/2017 Criterium Women Juniors 13-14
@@ -441,7 +441,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,424359,Anthony,Corradi,Duluth,MN,45:57.8,Apollo Velo
 11,473246,Louis,Mueller,Minneapolis,MN,45:58.0,Apollo Velo
 12,485741,Satchell,Mische Richter,Bloomington,MN,45:58.1,
-13,423359,Kevin,O'Connor,Des Moines,IA,45:58.8,Sakari Race Team
+13,423359,Kevin,O'Connor,Clive,IA,45:58.8,Sakari Race Team
 14,474329,Dalton,Collins,Washburn,WI,46:01.0,Northstar Development
 15,437809,Ethan,Nelson,Minneapolis,MN,46:01.2,St Paul Bicycle Racing Club
 16,350184,Kevin,Sidwell,Minneapolis,MN,46:01.9,Loon State Cyclists
@@ -449,7 +449,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,434608,Michael,Schneider,Rosemount,MN,46:10.2,Loon State Cyclists
 19,367722,Noah,Wilson,Minneapolis,MN,46:24.9,Zubaz Racing
 20,311210,Brian,Sprague,Horace,ND,46:31.1,Big Ring Flyers
-21,391656,Jordan,Buth,St. Paul ,MN,46:39.3,Loon State Cyclists
+21,391656,Jordan,Buth,St. Paul,MN,46:39.3,Loon State Cyclists
 22,480880,Jim,Garrett,Rochester,MN,46:39.3,North Iowa Spin
 23,352930,Nick,Watts,St Paul,MN,46:40.6,Loon State Cyclists
 24,71423,David,Redinger,Afton,MN,46:46.9,Chilkoot Velo
@@ -474,7 +474,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,293536,Nicholas,Kimpton,Minneapolis,MN,11:54.6,Mbrac/flanders
 5,251907,Sean,Mailen,Minneapolis,MN,11:55.1,Orion Racing
 6,342680,Peter,Behm,Northfield,MN,12:08.5,St Paul Bicycle Racing Club
-7,185493,Peter,Olejniczak,Roseville,MN,11:51.8,Orion Racing
+7,185493,Peter,Olejniczak,Minneapolis,MN,11:51.8,Orion Racing
 8,428009,Sam,Fritz,Princeton,MN,11:51.9,Above And Beyond Cancer P/b Scheels
 9,307328,Brenden,Hardy,Iowa City,IA,11:52.9,Above And Beyond Cancer P/b Scheels
 10,430695,John,Heinlein III,Stillwater,MN,11:53.3,Loon State Cyclists
@@ -498,8 +498,8 @@ Place,License #,First,Last,City,State,Time,Team
 28,413596,Gordon,Hilleque,Edina,MN,25:32.4,Freewheel Bike
 DNF,227850,Michael,Woell,Minneapolis,MN,09:14.6,Mbrac/flanders
 DNF,292254,Benjamin,Hovland,Minneapolis,MN,54:06.7,Zubaz Racing
-DNF,403588,Jack,Niewold,Madison,WI,45:56.3,Apollo Velo
-DNF,423359,Kevin,O'Connor,Des Moines,IA,21:58.1,Sakari Race Team
+DNF,403588,Jack,Niewold,Minneapolis,MN,45:56.3,Apollo Velo
+DNF,423359,Kevin,O'Connor,Clive,IA,21:58.1,Sakari Race Team
 DNF,210611,Rick,Laliberte,Fargo,ND,19:53.9,Vision Racing P/b Sanford Power
 DNF,347128,Jacob,Okamoto,Minneapolis,MN,19:54.5,
 DNF,200426,Matt,Allen,Minneapolis,MN,14:55.9,Lgr/tonka
@@ -511,13 +511,13 @@ Place,License #,First,Last,City,State,Time,Team
 2,438759,Anthony,Acklin,West Des Moines,IA,22:55.1,Sakari Race Team
 3,537868,Jarad,Watts,Minneapolis,MN,22:56.5,
 4,538090,Ben,Sandberg,St. Paul,MI,22:56.6,
-5,538025,Tanner,Olek,Chippewa Falls,WI,22:59.9,
+5,538025,Tanner,Olek,,,22:59.9,
 6,482193,Shan,Sharif,Saint Paul,MN,23:00.3,
 7,513433,Chris,Shaffner,Minneapolis,MN,23:00.6,
 8,528749,Marc,Petersen,Osseo,MN,24:54.9,
 9,0,Pratish,Karmacharya,,,24:55.7,
 10,527106,Andrew,Brandt,Baxter,IA,24:56.1,Des Moines Cycle Club
-11,294501,Michael,Fransen,Minneapolis,MN,24:58.5,Birchwood/gis
+11,294501,Michael,Fransen,San Francisco,CA,24:58.5,Birchwood/gis
 12,162293,Mason,Owen,Shoreview,MN,24:10.0,
 13,512913,Dalton,Collins,Washburn,WI,23:13.8,Synergy
 DNF,522442,Clark,Koenigs,Saint Paul,MN,13:16.8,
@@ -541,7 +541,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,404210,Patrick,Welch,Northfield,MN,22:46.8,Minnesota Junior Cycling Inc.
 2,368806,Connor,Bernstein,Altoona,IA,23:01.0,Northstar Development
 3,507797,Joe,Burbach,Hudson,WI,23:01.4,
-4,494530,Hunter,Navarro,Shawnee Mission,KS,23:02.2,Kcoi U20
+4,494530,Hunter,Navarro,Shawnee ,KS,23:02.2,Kcoi U20
 5,531306,Oliver,Hicks,Saint Paul,MN,23:02.9,St Paul Bicycle Racing Club
 6,418307,Scott,Ferguson,Le Mars,IA,24:26.9,Central Junior Cycling Devo
 
@@ -556,7 +556,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,160576,Matt,Muyres,Minneapolis,MN,49:28.8,Donkey Label
 5,481068,David,Carney,Coon Rapids,MN,49:29.0,
 6,389733,Aaron,Wrabek,Ankeny,IA,49:30.0,Sakari Race Team
-7,62279,Dan,Barkeim,Plymouth,MN,49:30.7,Mbrac/flanders
+7,62279,Dan,Barkeim,Rockford,MN,49:30.7,Mbrac/flanders
 8,307715,Brady,Prenzlow,Brooklyn Park,MN,49:30.8,Northstar Development
 9,379675,David,Alexander,Des Moines,IA,49:31.4,Sakari Race Team
 10,245870,Kevin,Limpach,Omaha,NE,49:31.7,Harvest Racing P/b Midwest Cycling Trek
@@ -627,7 +627,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,316598,Jeannie,Kuhajek,Crystal Lake,IL,45:09.9,Psimet Whisper
 4,541527,Alijah,Beatty,Washington,IA,45:10.2,Northstar Development
 5,467180,Carlyn,Jackson,Minneapolis,MN,45:10.7,Orion Racing
-6,302412,Anya,Malarski,St. Paul,MN,45:11.1,Zubaz Racing
+6,302412,Anya,Malarski,Saint Paul,MN,45:11.1,Zubaz Racing
 7,261947,Corey,Coogan Cisek,Minneapolis,MN,45:12.5,The Fix Studio
 8,211756,Carol,Seipp,Eagan,MN,45:21.1,Orion Racing
 9,406389,Suzie,Goebel,Sioux Falls,SD,45:09.1,St Paul Bicycle Racing Club
@@ -655,7 +655,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 07/22/2017 Criterium Women Juniors 17-18
 Place,License #,First,Last,City,State,Time,Team
-1,302412,Anya,Malarski,St. Paul,MN,23:04.3,Zubaz Racing
+1,302412,Anya,Malarski,Saint Paul,MN,23:04.3,Zubaz Racing
 2,383322,Kate,Wass,Rochester,MN,23:45.2,Northstar Development
 
 07/22/2017 Criterium Women Juniors 9-12

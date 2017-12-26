@@ -20,7 +20,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,0,Chris,Uberti,,,,Palmetto State Medical Elite Cycling Team
 17,0,Eamon,Lucas,,,,Crit Life
 18,0,Roderyck,Asconeguy,,,,SOUTHERN CRESCENT CYCLING/EDA
-19,211435,Zack,Allison,Fort Collins ,CO,,Team Clif Bar
+19,211435,Zack,Allison,Fort Collins,CO,,Team Clif Bar
 20,180665,Justin,Meade,Greenville,SC,,Palmetto State Medical Elite Cycling Team
 21,0,Alec,Briggs,,,,Crit Life
 22,0,Kerry,Werner Jr.,,,,The Kermy Express
@@ -66,7 +66,7 @@ Place,License #,First,Last,City,State,Time,Team
 62,359399,Miles,Hubbard,Wilkesboro,NC,,HC Devo Elite p/b Monster Media
 63,301686,Sam,Rosenholtz,Brookline,MA,,CCB Velotooler
 64,0,Brais,Dacal Alvarez,,,,Team Novo Nordisk
-65,309018,Keith,Mullaly,Belmont,NC,,Levine Law Group p/b Huseby.com
+65,309018,Keith,Mullaly,Wethersfield,CT,,Levine Law Group p/b Huseby.com
 66,0,John,Butler,,,,Stradalli Cycle/ Safetti
 67,414951,Jacob,Henley,Chattanooga ,TN,,Pharmaco-Deep South p/b NGCA
 68,0,Michael,Grant,,,,CHEERBACKS of Fat Frogs Racing
@@ -137,19 +137,19 @@ Place,License #,First,Last,City,State,Time,Team
 21,0,eric,guest on,,,,
 22,274017,Andrew,Hodges,Suwanee,GA,,
 23,484523,William,Hardin,Winston Salem,NC,,Hearts Racing Club
-24,272071,Wheeler,Davis,Athens,GA,,Team Novo Nordisk Juniors
+24,272071,Wheeler,Davis,Raleigh,NC,,Team Novo Nordisk Juniors
 25,466366,Carlo,Quicho,Boston,MA,,Monster Media Racing p/b Butche
 26,424059,Steven,Ramirez,Cambridge,MA,,Monster Media Racing p/b Butche
 27,278167,Carlos,Norena,Greenville ,SC,,
 28,354786,Dylan,Lawson,Fayetteville,NC,,Cyclus Sports
 29,367471,Nat,Worcester,Belmont,NC,,Belmont Abbey College/ Levine L
-30,175537,Cliff,Kugler,Simpsonville ,SC,,Cycle Haus Racing
-31,217539,Nathan,Harris,Frisco,CO,,
+30,175537,Cliff,Kugler,Simpsonville,SC,,Cycle Haus Racing
+31,217539,Nathan,Harris,Spring,TX,,
 32,442929,Collin,Tellechea,Medford,NJ,,Tri State Velo
 33,495796,Thomas,Pierczynski,Greenville,SC,,Cycle haus racing
 34,433214,Sergejs,Bowers,Columbus,OH,,Kreitler Racing Team
 35,393287,Sam,Redden,Newport News,VA,,Blue Ridge Cyclery Racing p/b R
-DNF,309018,Keith,Mullaly,Belmont,NC,,Belmont Abbey College
+DNF,309018,Keith,Mullaly,Wethersfield,CT,,Belmont Abbey College
 DNF,445064,Hao,Sun,Raleigh,NC,,Cyclus Sports
 DNF,504322,Sebastian,Salinas,Miami,FL,,
 DNF,413113,Spencer,Moavenzadeh,Durham,NC,,Monster Media p/b ButcherBox
@@ -211,17 +211,17 @@ Place,License #,First,Last,City,State,Time,Team
 4,311472,Greg,Thompson,Harrisburg,NC,,Carolina Cycling
 5,65848,Michel,Mouly Jr,Rock Hill,SC,,
 6,425572,Andy,Hale,Neptune Beach,FL,,Velobrew-AV Homes
-7,175537,Cliff,Kugler,Simpsonville ,SC,,Cycle Haus Racing
+7,175537,Cliff,Kugler,Simpsonville,SC,,Cycle Haus Racing
 8,359091,brian,davis,Orlando,FL,,Compass Cycling Racing Team
-9,58176,Nathan,Rogut,Tampa,FL,,Velobrew--AV Homes
+9,58176,Nathan,Rogut,Rock Hill,SC,,Velobrew--AV Homes
 
 04/23/2017 Criterium Women Pro 1/2/3
 Place,License #,First,Last,City,State,Time,Team
 1,174914,Erica,Allar,Demorest,GA,,Hagens Berman Supermint
-2,509477,Peta,Mullens,Tulsa,OK,,LA Sweat
+2,509477,Peta,Mullens,Oceanside,CA,,LA Sweat
 3,394701,Kimberly,Lucie,Tucson,AZ,,The cyclery-4iiii
 4,0,Catherine,Ouellette,,,,Fearless Femme Racing
-5,267467,Christy,Keely,Greenville ,SC,,
+5,267467,Christy,Keely,Greenville,SC,,
 6,397657,Laura,Jorgensen,Asheville,NC,,LA Sweat
 7,395130,Melanie,Beale,Boulder,CO,,Velo Classic p/b Stan's NoTubes
 8,291446,Daphne,Karagianis,Chicago,IL,,Foxy Moxy
@@ -273,7 +273,7 @@ Place,License #,First,Last,City,State,Time,Team
 54,0,Cody,Harris,,,,OrthoCarolina Winston
 55,288099,Stephanie,Nave,Johnson City,TN,,OrthoCarolina Winston
 56,365519,Arden,Stelly,Ooltewah,TN,,OrthoCarolina Winston
-57,220876,Katherine,Shields,Advance,NC,,OrthoCarolina Winston
+57,220876,Katherine,Shields,Salt Lake City,UT,,OrthoCarolina Winston
 58,383001,Victoria,Kanizer,Owasso,OK,,OrthoCarolina Winston
 59,290669,Zoe,Mullins,Winter Garden,FL,,Sweet Spot Cycling
 60,272994,Sharon,Leary,Prince George,VA,,RTO National Women's Cycling
@@ -296,11 +296,11 @@ Place,License #,First,Last,City,State,Time,Team
 13,406195,Maggie,Barton,Richmond,VA,,Sweet Spot Cycling
 14,498598,Dixie,Newsome,Virginia Beach,VA,,Mermaid Winery p/b VA Asset Gro
 15,365107,Rebekah,Roberts,Knoxville,TN,,Nashville Local Cycling
-16,223163,Caroline,Gaynor,Austin,TX,,Athlete Architecture
+16,223163,Caroline,Gaynor,Charlotte,NC,,Athlete Architecture
 17,524015,Caleigh,Rasser,Buford,GA,,Frazier Cycling
 18,49227,Sharon,Monahan,Lutz,FL,,R & M
 DNS,529496,Jessica,Welles,Belmont,NC,,
-DNF,476619,Paige,Kostanecki,Charottesville,VA,,
+DNF,476619,Paige,Kostanecki,Charlottesville,VA,,
 DNF,426562,Madeline,Pearce,Atlanta,GA,,
 
 04/23/2017 Criterium Mixed Juniors 15-18

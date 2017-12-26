@@ -63,7 +63,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,438258,Giovanni,Mercado,Tampa,FL,2:10:10,
 19,419337,Vincent,Pukki,New Port Richey,FL,2:10:10,
 20,525187,Joshua,Stapleton,Tallahassee,FL,2:10:17,
-21,523864,Manuel,Montanez,Sunny Isles,FL,2:11:45,
+21,523864,Manuel,Montanez,Hallandale Beach,FL,2:11:45,
 22,278855,Erick,Camacho,Naples,FL,2:12:17,
 23,523303,Calvin,Falwell,Tampa,FL,2:34:56,
 24,472611,simon,reyes,Fort Lauderdale,FL,2:51:59,
@@ -81,7 +81,7 @@ DNF,489746,Robert,DeSantis,Sarasota,FL,0:51:27,
 DNF,528792,Owen,Poirier,Jacksonville,FL,0:54:20,
 DNF,459238,mario,melgar,Tampa,FL,1:35:33,
 DNF,498830,Tyler,Auger,Clearwater,FL,1:35:30,
-DNF,346280,Adam,Caruso,Nashville,TN,0:52:53,
+DNF,346280,Adam,Caruso,Tampa,FL,0:52:53,
 DNF,489427,Nick,Jackson,Winter Springs,FL,1:03:50,
 
 04/02/2017 Road Race Men Cat 4/5 Master 40+
@@ -114,7 +114,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,351352,Donald,Foster,Rye,NH,1:42:14,
 3,297191,Omelio,Rufin,Miami,FL,1:43:52,
 4,65608,Omar,Sassin,Tampa,FL,1:43:53,
-5,433485,Richard,Benson,Port Saint Lucie,FL,1:43:54,
+5,433485,Richard,Benson,Fort Pierce,FL,1:43:54,
 6,393844,James,Dure,Middleburg,FL,2:03:56,
 DNF,334858,Thomas,Montgomery,Cocoa Beach,FL,0:16:29,
 
@@ -209,7 +209,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,357886,Ian,Gonder,Naples,FL,2:03:14,
 10,396501,Derek,Birch,Tampa,FL,2:03:21,
 11,367371,Zachary,West,Longwood,FL,2:04:13,
-12,494503,JeanLuc,ContantGalitello,Pompano Beach,FL,2:07:42,
+12,494503,JeanLuc,ContantGalitello,Coconut Creek,FL,2:07:42,
 13,425572,Andy,Hale,Neptune Beach,FL,1:21:35,
 14,413176,Renato,Mu,Miami,FL,1:21:36,
 15,284757,Michael,Vasco,Apollo Beach,FL,1:21:36,
@@ -255,7 +255,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,69689,Sherri,Stedje,Lutz,FL,2:27:52,
 13,218675,Trish,Cohen,Tampa,FL,2:28:31,
 14,368303,Elizabeth,Schuster,St Pete,FL,2:29:19,
-15,495140,Carly,George,Dunedin,FL,2:29:20,
+15,495140,Carly,George,Tampa,FL,2:29:20,
 16,466411,Rachel,McKinnon,Charleston,SC,2:30:38,
 17,374637,Mackenzie,Koth,Dade City,FL,2:32:04,
 
@@ -270,7 +270,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,381855,Amanda,Zayas,Wesley Chapel,FL,1:48:37,
 8,460227,Leah,Hardin,Kissimmee,FL,1:48:51,
 9,500037,Zoe,Sutherlin,Winter Garden,FL,1:49:21,
-10,341538,Jennifer,Hilton,Aventura,FL,1:54:09,
+10,341538,Jennifer,Hilton,Davie,FL,1:54:09,
 11,434223,Lauren,Chen,Tequesta,FL,0:52:42,
 12,406203,Hillary,Ghani,Jacksonville,FL,1:36:14,
 
@@ -347,7 +347,7 @@ Place,License #,First,Last,City,State,Time,Team
 04/02/2017 Time Trial Men Cat 4/5 Master 50+
 Place,License #,First,Last,City,State,Time,Team
 1,334858,Thomas,Montgomery,Cocoa Beach,FL,0:20:28,
-2,433485,Richard,Benson,Port Saint Lucie,FL,0:20:39,
+2,433485,Richard,Benson,Fort Pierce,FL,0:20:39,
 3,305247,Scott,Lameier,Valrico,FL,0:20:43,
 4,297191,Omelio,Rufin,Miami,FL,0:20:48,
 5,65608,Omar,Sassin,Tampa,FL,0:21:11,
@@ -405,8 +405,8 @@ Place,License #,First,Last,City,State,Time,Team
 6,425572,Andy,Hale,Neptune Beach,FL,0:19:44,
 7,357886,Ian,Gonder,Naples,FL,0:19:45,
 8,416373,Shimran,Ali,Jacksonville,FL,0:20:32,
-9,494503,JeanLuc,ContantGalitello,Pompano Beach,FL,0:20:48,
-10,351492,Mark Anthony,Sanchez,Wesley Chapel,FL,0:21:51,
+9,494503,JeanLuc,ContantGalitello,Coconut Creek,FL,0:20:48,
+10,351492,Mark Anthony,Sanchez,Beaveton ,OR,0:21:51,
 
 04/02/2017 Time Trial Men Junior 13-14
 Place,License #,First,Last,City,State,Time,Team

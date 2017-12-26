@@ -3,7 +3,7 @@ Concord Criterium - New England Criterium Championships in Concord NH Results
 08/05/2017 Criterium Men Pro/Cat 1/2
 Place,License #,First,Last,City,State,Time,Team
 1,234564,Peter,Goguen,Hopedale,MA,1:12:18,Race C.F.
-2,231409,Lucas,Fortini,Fairfield,CT,1:12:18,Race CF
+2,231409,Lucas,Fortini,Arlington,MA,1:12:18,Race CF
 3,456318,Ethan,Call,Jefferson,NH,1:12:18,Cyclus Sports-New England
 4,408281,Thomas,Coleman,Athol,MA,1:12:18,Minuteman Road Club
 5,294313,Samuel,Evans-Brown,Gilmanton Ironworks,NH,1:12:18,Sunapee/Continental Paving/Buchikas
@@ -16,11 +16,11 @@ Place,License #,First,Last,City,State,Time,Team
 12,107000,Ernest,Tautkus,Uncasville,CT,1:12:18,CVC / Hartford Healthcare Sports Medicine
 13,311527,Kenneth,McNeill,Rutland,VT,1:12:18,Cyclus Sports-New England
 14,83498,Sean,Cahill,Burlington,CT,1:12:18,Team ERRACE p/b DSO Manufacturing
-15,382938,William,Crabtree,Cambridge,MA,1:12:18,Community Bicycle Racing
+15,382938,William,Crabtree,Lexington,MA,1:12:18,Community Bicycle Racing
 16,350750,Cory,Small,Boxborough,MA,1:12:18,CCB Velotooler
 17,274271,Chris,Goguen,Franklin,MA,1:12:18,RACE CF | racecf.org
 18,214122,Michael,Shinall,Cambridge,MA,1:12:18,GREEN LINE VELO driven by Zipcar
-19,375405,Daniel,Nuzzo-Mueller,Medford ,MA,1:12:25,Community Bicycle Racing
+19,375405,Daniel,Nuzzo-Mueller,Medford,MA,1:12:25,Community Bicycle Racing
 20,261665,Daniel,McCabe,Whitman,MA,1:12:27,Grinta! P/B Best Buddies Challenge
 21,394898,Emerson,Glassey,Cambridge,MA,1:12:39,GREEN LINE VELO driven by Zipcar
 DNF,120392,Peter,Bradshaw,Boston,MA,DNF,Mad Alchemy | Zanconato
@@ -116,7 +116,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,532273,Timothy,Perry,Cranston,RI,1 Lap,
 17,533581,Zacharya,Meszoely,Boston,MA,1 Lap,Fat Kid Cardio Club
 18,0,Cooper,Hurley,,,1 Lap,
-19,522902,Samuel,Robinson,Medford,MA,1 Lap,545 Velo
+19,522902,Samuel,Robinson,Brookline,MA,1 Lap,545 Velo
 20,0,Joseph,Boucher,,,2 Laps,
 21,529636,Henry,Finch,Waban,MA,2 Laps,545 Velo
 22,486786,Aiden,Simmons,Brunswick,ME,2 Laps,Portland Velo Club
@@ -129,8 +129,8 @@ DNF,534865,Jacob,Leblanc,Keene,NH,DNF,
 Place,License #,First,Last,City,State,Time,Team
 1,526105,Jack,Greene,Easton,NH,38:44,Dartmouth College
 2,518006,Christopher,Devine,Malden,MA,38:44,Team Lyfted
-3,428501,Torin,La Liberte,Colchester,VT,38:44,Sunapee Racing / Buchika's Ski and Bike
-4,471656,Matt,Davies,Williamstown,MA,38:44,Williams College
+3,428501,Torin,La Liberte,Madison,NH,38:44,Sunapee Racing / Buchika's Ski and Bike
+4,471656,Matt,Davies,Boston,MA,38:44,Williams College
 5,468175,Eric,Loehle,Georgetown,MA,38:44,Monster Media Racing p/b Butcher Box
 6,301790,Donald,Seib,Bryantpond,ME,38:44,BMB Racing
 7,501979,Arturo,Johnson,Norwich,VT,38:44,KMS Cycling-Killington Mountain School
@@ -146,15 +146,15 @@ Place,License #,First,Last,City,State,Time,Team
 17,194532,Liam,Somers,Scarborough,ME,40:36,Tall Socks Racing
 18,512911,Michael,Williams,West Hartford,CT,40:36,Greater Hartford Cycling Club
 19,430760,Julian,Sherr,Ashland,MA,41:03,New England Devo p/b Cadence Wealth Management
-20,391500,Derek,Skillings,Manchester ,NH,41:20,State 9 Racing p/b Vittoria
+20,391500,Derek,Skillings,Manchester,NH,41:20,State 9 Racing p/b Vittoria
 21,367457,Jimmy,Cabrera,Lawrence,MA,1 Lap,New England Devo p/b Cadence Wealth Management
 22,499435,Ryan,Singh,Boston,MA,1 Lap,Monster Media p/b Butcher Box
 23,321510,Patrick,Cochran,Beverly,MA,1 Lap,
 24,431039,Shannon,Purcell,Lebanon,NH,1 Lap,Drummond Cycles
-25,512380,Randy,Cogill,Hull,MA,1 Lap,
+25,512380,Randy,Cogill,Dedham,MA,1 Lap,
 26,524412,Richard,Pendleton,Peterborough,NH,1 Lap,State 9 Racing p/b Vittoria
 27,499536,Carlos,Syquia,Boston,MA,1 Lap,Boston University Club Cycling
-28,312160,Benjamin,Ho,Scarborough,ME,1 Lap,Tall Sock Racing
+28,312160,Benjamin,Ho,Saco,ME,1 Lap,Tall Sock Racing
 29,398045,John,Kasbohm,Dover,NH,2 Laps,Northhampton cycling
 DNF,408164,Elijah,Brazeal,Manchester,CT,DNF,CT Cycling Advancement Program
 DNF,236457,Nolan,Garon,Dunstable,MA,DNF,GREEN LINE VELO driven by Zipcar
@@ -162,9 +162,9 @@ DNF,523792,Alex,Scherzer,Cambridge,MA,DNF,GREEN LINE VELO driven by Zipcar
 
 08/05/2017 Criterium Men Cat 3
 Place,License #,First,Last,City,State,Time,Team
-1,282446,Dan,Fitzgibbons,Boston,MA,50:43,GREEN LINE VELO driven by Zipcar
+1,282446,Dan,Fitzgibbons,Dorchester,MA,50:43,GREEN LINE VELO driven by Zipcar
 2,293161,Andrew,Goodale,Maynard,MA,50:43,Race CF
-3,408284,Mark,Hewitt,South Deerfield,MA,50:43,Jam/NCC
+3,408284,Mark,Hewitt,Mattapan,MA,50:43,Jam/NCC
 4,262000,Mark,Miller,Marlborough,NH,50:43,Minuteman Road Club
 5,305134,Michael,Martin,Brooklyn,CT,50:43,B2C2/JRA Cycles
 6,466366,Carlo,Quicho,Boston,MA,50:43,Monster Media pb Butcher Box
@@ -172,9 +172,9 @@ Place,License #,First,Last,City,State,Time,Team
 8,355922,Jacob,Lipcon,Arlington,MA,50:43,Minuteman Road Club
 9,368089,Maximilian,Jentzsch,Cambridge,MA,52:25,B2C2 / JRA Cycles
 10,442889,Morgan,Rockett,Needham,MA,52:25,GREEN LINE VELO driven by Zipcar
-11,271529,Marshall,Johnson,North Stonington ,CT,52:25,CLR Racing
+11,271529,Marshall,Johnson,North Stonington,CT,52:25,CLR Racing
 12,205206,Nicholas,Tham Ming Qiang,Somerville,MA,52:25,MIT Cycling
-13,311452,Alec,Cunningham,Cheshire,CT,52:25,RACE CF | racecf.org @racecf
+13,311452,Alec,Cunningham,Cape Neddick,ME,52:25,RACE CF | racecf.org @racecf
 14,482019,Luis,Diaz,Dorchester,MA,52:25,
 15,274231,Gregory,Colby,Hyde Park,MA,52:28,B2C2/JRA Cycles
 16,293636,Benjamin,Kramer,Bow,NH,53:28,Sunapee/Continental Paving/Buchikas

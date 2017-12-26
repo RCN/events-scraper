@@ -22,7 +22,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,458926,PAUL,PAPIN,Oklahoma City,OK,,DNA Racing
 19,301213,JOHN,BAIN,Dallas,TX,,GS Tenzing
 20,358709,DYLAN,POSTIER,Stillwater,OK,,Tulsa Wheelmen
-21,272809,RICKY,RANDALL,Highland Village ,TX,,Arapahoe Resources / Garneau
+21,272809,RICKY,RANDALL,Highland Village,TX,,Arapahoe Resources / Garneau
 22,404765,PATTON,SIMS,Sterlington,LA,,Palmer/CSpire Fiber Cycling
 23,73970,JEFFREY,LABAUVE,Dallas,TX,,GS Tenzing
 24,321730,JOHN,MCKELVY,Dallas,TX,,Dawdy Performance Coaching-Racing Team
@@ -58,7 +58,7 @@ Place,License #,First,Last,City,State,Time,Team
 54,0,ULISES,LUEVANO VEGA,,,,Nick Lopez Tailoring Cycling Team
 55,320858,JAKE,LANOUX,Georgetown,TX,,Super Squadra p/b Eliel Cycling
 56,295711,JONATHAN,HUGHES,Austin,TX,,DasWow Racing
-57,157827,COREY,RAY,Mckinney,TX,,Team Giant Lakeside p/b MINI of Plano
+57,157827,COREY,RAY,Green River,WY,,Team Giant Lakeside p/b MINI of Plano
 58,237345,JORGE,ALVAREZ,Dallas,TX,,Nick Lopez Tailoring Cycling Team
 59,319236,MICHAEL,WERT,Flower Mound,TX,,GS Tenzing
 DNF,174122,ADAM,BIWAN,Denton,TX,,Bicycles Plus Racing
@@ -70,7 +70,7 @@ DNF,306525,ALI,SOBHANI,Austin,TX,,DasWow Racing
 DNF,323876,MICHAEL,SHEEHAN,Austin,TX,,UCI CT: Jelly Belly p/b Maxxis
 DNF,329968,FRED,VINCENT,Flower Mound,TX,,Elevate-KHS
 DNF,391787,SCOTT,ELLISON,Dallas,TX,,RBM/Matrix Racing
-DNF,466674,BRANDON,WOLD,Oklahoma City,OK,,DNA Racing
+DNF,466674,BRANDON,WOLD,Andover,MN,,DNA Racing
 DNF,473175,LOGAN,MCLAIN,Bossier City,LA,,Team LaS'port
 DNF,0,ERIK,LUEVANO VEGA,,,,Nick Lopez Tailoring Cycling Team
 
@@ -98,7 +98,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,378494,RYAN,TERRY,Dallas,TX,,RBM/Matrix Racing
 21,455787,TREY,ROZELLE,Lewisville,TX,,Grupetto Fiasco
 22,471916,VINCE,HESS,Chelsea,OK,,
-23,524707,ALEXIS,SERRANO,Dallas,TX,,Matrix Cycling Club
+23,524707,ALEXIS,SERRANO,Carrollton,TX,,Matrix Cycling Club
 24,422280,ZACH,CONOVER,Lewisville,TX,,Team Giant Lakeside p/b MINI of Plano
 25,481116,JONATHAN,BROWNING,Tyler,TX,,FRESH Racing
 26,482025,WILLIAM,BRIGGS,Broken Arrow,OK,,Bixby Bicycle Works/Cycling for Success
@@ -116,7 +116,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,391787,SCOTT,ELLISON,Dallas,TX,,RBM/Matrix Racing
 9,254112,BOBBY,ETHERIDGE,Mc Kinney,TX,,PACC Racing
 10,10804,JOE,ENGEL,Fort Smith,AR,,Walmart/GPP Cycling Team
-11,466674,BRANDON,WOLD,Oklahoma City,OK,,DNA Racing
+11,466674,BRANDON,WOLD,Andover,MN,,DNA Racing
 12,392351,COLT,CLEMENS,Rockwall,TX,,Rockwall Racing
 13,388796,GABRIEL,ORTIZ,Dallas,TX,,
 14,395052,THEODORE,MCLEAN,San Antonio,TX,,Bicycle Heaven / PVA
@@ -128,7 +128,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,55917,MICHAEL,HERRICK,Dallas,TX,,McKinney Velo Club
 21,305613,KYLE,SPRINGER,Plano,TX,,Team Cadence Cyclery p/b MINI of Plano
 22,236000,CHRIS,WILLIAMS,Dallas,TX,,Dallas Bike Works
-23,206241,JOHN,MCALLISTER,Fort Worth,TX,,Elevate-KHS
+23,206241,JOHN,MCALLISTER,Weatherford,TX,,Elevate-KHS
 24,498550,JUSTIN,MAXWELL,Austin,TX,,Violet Crown
 25,494806,CHRISTOPHER,BALDWIN,Denver,CO,,Team Cycleton
 26,498417,CHARLES,KROUSE,Hunlock Creek,PA,,Ride Away Cycling Club
@@ -157,7 +157,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,188342,JENNIFER,PARK,San Antonio,TX,,Bicycle Heaven / PVA
 4,362136,ALLISON,ATKINSON,Austin,TX,,ATX HitSquad
 5,191931,MICHELLE,MONTOYA,Dallas,TX,,October Three Racing
-6,308837,NATALIE,SMITH,San Antonio ,TX,,Bicycle Heaven / PVA
+6,308837,NATALIE,SMITH,San Antonio,TX,,Bicycle Heaven / PVA
 7,340314,ASHLEY,DUBAN,Austin,TX,,ATX HitSquad
 8,62507,KIMBERLY,PETTIT,Tulsa,OK,,Papa John's Racing p/b TREK
 9,368833,CHELSEA,REEDY,Denton,TX,,Matrix Cycling Club
@@ -207,7 +207,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,177629,BEN,SEWELL,Dallas,TX,,Team Bicycles Plus
 9,254112,BOBBY,ETHERIDGE,Mc Kinney,TX,,PACC Racing
 10,85353,CARTER,JOHNSTON,Oklahoma City,OK,,JE Dunn Elite Road Racing
-11,392104,DOUG,ZELL,Little Rock ,AR,,Intelligentsia Coffee
+11,392104,DOUG,ZELL,Lockhart,TX,,Intelligentsia Coffee
 12,193960,DAVID,MCGAFFIN,Heath,TX,,Rockwall Racing
 13,131183,CHRISTOPHER,HILL,Austin,TX,,DNA Cycling pb Onion Creek Volkswagen
 14,351130,NARD,MOSELEY,Dallas,TX,,KingRacingGroup

@@ -8,7 +8,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,405139,Dylan,YODER,Reading,PA,03:16.9,
 5,345500,Derek,MAIDEN,Bristol,VA,03:27.3,Billy Goat Bikes
 6,356936,Jon,Hanson,Glenwood,NJ,03:33.1,
-7,195365,Oliver,LEVICK,Troy,NH,03:34.3,
+7,195365,Oliver,LEVICK,Medford,MA,03:34.3,
 8,346658,Sam,COOKSON,Herndon,VA,03:39.9,
 9,277539,Andrew,SLOWEY,Martinsville,NJ,03:40.9,
 10,467323,Ian,BONGARD,Salem,VA,03:41.5,
@@ -42,10 +42,10 @@ Place,License #,First,Last,City,State,Time,Team
 2,530454,Eric,WILLETTS,Ephrata,PA,04:33.4,SAMMBA
 3,502133,Jack,SHARPLES,Cary,NC,04:37.3,
 4,456554,Hunter,BELL,Irwin,PA,04:47.1,
-5,503896,Josh,CARSON,Leechburg,PA,05:00.0,Phenom
+5,503896,Josh,CARSON,Greensburg,PA,05:00.0,Phenom
 6,531303,Ian,YUREK,Plum,PA,05:04.8,
 7,529637,Thomas,Cassada,Richmond,VA,05:49.4,
-8,481929,Colin,MULALLY,Reading,PA,06:02.1,Camp3
+8,481929,Colin,MULALLY,Toms River,NJ,06:02.1,Camp3
 9,531505,Cole,FORBES,Richmond,VA,06:08.7,Forbes Racing
 10,523408,Tyler,TROISI,Pittsburgh,PA,06:27.4,J.T. Racing Pittsburgh
 11,478545,Chris,LIEBIG,Havre De Grace,MD,07:09.7,Racers Edge
@@ -135,7 +135,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,433425,Ben,BREWER,Pittsburgh,PA,03:42.8,
 2,527030,Cole,KRAMER,Greensburg,PA,03:45.9,
-3,405912,Erik,FALK,Manassas ,VA,03:47.0,Filz Built Bicycles Racing
+3,405912,Erik,FALK,Manassas,VA,03:47.0,Filz Built Bicycles Racing
 4,282586,Taylor,ANGLEBERGER,Smithsburg,MD,03:47.3,
 5,496771,Angelo,WASH,Highland Springs,VA,03:56.6,A-1 Cycling Gravity Team
 6,473593,Andrew,STATON,Mechanicsville,VA,04:13.5,
@@ -144,7 +144,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,473215,Matthew,WRIGHT,Bristow,VA,04:37.5,A-1 Cycling Gravity Team
 DNF,432517,Jeff,LUCAS,Levittownl,PA,DNS,
 DNF,515529,Devin,CUTTER,Lakewood,OH,DNF,
-DNF,456186,Tim,REBOLD,Great Falls,VA,DNF,A-1 Cycling Gravity Team
+DNF,456186,Tim,REBOLD,Sterling,VA,DNF,A-1 Cycling Gravity Team
 
 04/30/2017 Downhill Men Cat 1 15-18
 Place,License #,First,Last,City,State,Time,Team
@@ -188,9 +188,9 @@ Place,License #,First,Last,City,State,Time,Team
 04/30/2017 Downhill Men Cat 1 40+
 Place,License #,First,Last,City,State,Time,Team
 1,111838,Kenneth (Chuck),Pitts,Mcdonough,GA,03:26.3,
-2,117593,Kevin,LIEBIG,Havre De Grace,MD,03:28.4,
+2,117593,Kevin,LIEBIG,Martinsville,VA,03:28.4,
 3,155198,Cecil,LINDER,Greenville,SC,03:50.5,
-4,20726,Kenneth,LEE,Roanoke,VA,03:56.7,
+4,20726,Kenneth,LEE,Blacksburg,VA,03:56.7,
 5,496631,Christopher,LANE,Valley Head,WV,04:04.3,
 6,133063,Andy,DEVAULT,Martinsville,VA,04:07.1,SEI Racing
 7,295494,Pete,ROMAN,Harrisburg,PA,04:08.7,

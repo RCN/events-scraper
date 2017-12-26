@@ -43,7 +43,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,251736,Josh,Rennie,Reno,NV,00:54:06.31,
 5,248052,Michael,Claudio,West Sacramento,CA,00:54:38.13,
 6,236024,Russell,White,Lafayette,CA,00:56:22.77,
-7,378563,Kurt,Brown,Minneapolis,CA,00:56:38.73,
+7,378563,Kurt,Brown,San Francisco,CA,00:56:38.73,
 
 06/11/2017 Time Trial Men Cat 1/2/3/4/5 Master 40-44
 Place,License #,First,Last,City,State,Time,Team
@@ -52,7 +52,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,281883,Jason,Grefrath,Sacramento,CA,00:56:00.90,
 4,303224,Erik,Camacho,San Jose,CA,00:57:36.70,
 5,198851,Brad,Cox,Sacramento,CA,00:57:59.33,
-6,380700,Martin,Szwarc,San Francisco ,CA,00:59:23.48,
+6,380700,Martin,Szwarc,San Francisco,CA,00:59:23.48,
 
 06/11/2017 Time Trial Men Cat 1/2/3/4/5 Master 45-49
 Place,License #,First,Last,City,State,Time,Team
@@ -162,7 +162,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,265260,Helen,Casabona,La Honda,CA,00:31:16.87,
 3,290262,Michelle,Nightengale,Modesto,CA,00:31:46.23,
 4,271750,Vanessa,Baumann,Alamo,CA,00:33:01.65,
-5,56226,Beth,Dawson,Austin,TX,00:34:47.77,
+5,56226,Beth,Dawson,Los Altos,CA,00:34:47.77,
 
 06/11/2017 Time Trial Women Cat 1/2/3/4 Master 60-64
 Place,License #,First,Last,City,State,Time,Team
@@ -183,7 +183,7 @@ Place,License #,First,Last,City,State,Time,Team
 06/11/2017 Time Trial Women Cat 1/2/3 Elite 17-99
 Place,License #,First,Last,City,State,Time,Team
 1,266806,Alison,Tetrick,Petaluma,CA,00:57:24.52,
-2,485936,Trish,Pablo,Sacramento ,CA,01:00:50.52,
+2,485936,Trish,Pablo,Rodeo,CA,01:00:50.52,
 3,458894,Sandra,Freeman,Morgan Hill,CA,01:02:57.63,
 4,219555,Mary Elizabeth,Maroon,Oakland,CA,01:04:47.36,
 
@@ -201,7 +201,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,49355,Mark,Slavonia,San Francisco,CA,00:55:36.05,
 1,392667,Jim,Whimpey,San Francisco,CA,00:55:36.05,
 1,419936,Mark,Smethers,San Francisco,CA,00:55:36.05,
-1,378563,Kurt,Brown,Minneapolis,CA,00:55:36.05,
+1,378563,Kurt,Brown,San Francisco,CA,00:55:36.05,
 
 06/11/2017 Team Time Trial Men Team Masters 35+
 Place,License #,First,Last,City,State,Time,Team
@@ -218,7 +218,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,366123,Ben,French,Merced,CA,00:57:42.40,
 1,494149,Aaron,Terrazas,El Dorado Hills,CA,00:57:42.40,
-1,465943,Jason,Orozco,El Dorado Hillsl ,CA,00:57:42.40,
+1,465943,Jason,Orozco,El Dorado Hillsl,CA,00:57:42.40,
 2,58416,Gregg,Roh,Sacramento,CA,01:02:06.00,
 2,418893,Roy,Hui,Sacramento,CA,01:02:06.00,
 2,303960,Patrick,Peters,Carmichael,CA,01:02:06.00,

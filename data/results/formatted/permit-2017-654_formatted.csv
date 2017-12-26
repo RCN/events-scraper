@@ -9,11 +9,11 @@ Place,License #,First,Last,City,State,Time,Team
 5,193086,Benjamin,Renkema,Greenville,SC,,SC Competitive Cyclist
 6,499109,Christopher,Winn,Lakewood,CO,,UCI CT: Canyon Bicycles
 7,191703,Thomas,Brown,Athens,GA,,
-8,185493,Peter,Olejniczak,Roseville,MN,,Borah Factory Racing
+8,185493,Peter,Olejniczak,Minneapolis,MN,,Borah Factory Racing
 9,428009,Sam,Fritz,Princeton,MN,,Above and Beyond Cancer p/b Scheels
 10,477870,Jake,Magee,Boulder ,CO,,Elbowz Racing
 11,270997,Robert,Sroka,North Royalton,OH,,First Internet Bank Cycling Team
-12,257134,Joshua,Johnson,Fort Wayne,IN,,Bissell-ABG-Giant
+12,257134,Joshua,Johnson,Indianapolis,IN,,Bissell-ABG-Giant
 13,298338,John,McCann,Cincinnati,OH,,First Internet Bank Cycling Team
 14,318896,Micah,Engle,Dillsburg,PA,,Gateway Harley-Davidson Trek U25 Development
 15,347328,John,Frey,Lincoln,NE,,Team Kaos/Joyride Bicycles
@@ -36,7 +36,7 @@ Place,License #,First,Last,City,State,Time,Team
 32,205802,Doug,Fagan,Indianapolis,IN,,Texas Roadhouse Cycling Team
 33,485837,Paul,Hartner,Naperville,IL,,Bicycle Heaven
 34,430954,Marco,Wajda,Brookfield,WI,,Project Echelon Racing
-35,263035,Andrew,Giniat,Winnetka,IL,,Project Echelon Racing
+35,263035,Andrew,Giniat,Asheville,NC,,Project Echelon Racing
 36,356962,Matt,Kleckner,Mason City,IA,,
 37,243476,Jameson,Ribbens,Minneapolis,MN,,Borah Factory Racing
 38,485039,Joseph,Goettl,Mankato,MN,,
@@ -79,15 +79,15 @@ Place,License #,First,Last,City,State,Time,Team
 75,364716,Benjamin,Anderson,Iowa City,IA,,University of Iowa Heart and Vascular Care-Specialized
 76,399422,Samuel,Kieffer,Dublin,OH,,Texas Roadhouse Cycling Team
 77,342680,Peter,Behm,Northfield,MN,,SPBRC-Grand Performance
-78,403588,Jack,Niewold,Madison,WI,,Apollo Velo U25
-79,2443,John,Balmer,Indianapolis ,IN,,Century Road Club Of America
+78,403588,Jack,Niewold,Minneapolis,MN,,Apollo Velo U25
+79,2443,John,Balmer,Indianapolis,IN,,Century Road Club Of America
 80,306442,Blake,Romine,Boulder,CO,,Team Cycleton
 81,480075,Juan,Gonzalez,Athens,GA,,
 82,219998,Benjamin,Stover,Lawrence,KS,,Olathe Subaru Trek Racing
 83,213434,Erik,Loberg,Minneapolis,MN,,MBRC/Flanders
 84,401755,Brice,Brookshire,Elkhart,IN,,Texas Roadhouse Cycling Team
 85,481597,Hamish,Beadle,Alpharetta,GA,,
-86,295785,Colin,Catlin,Arden Hills,MN,,NorthStar Development Cycling
+86,295785,Colin,Catlin,Saint Paul,MN,,NorthStar Development Cycling
 87,294085,Kyle,Mindick,Mchenry,IL,,Project Echelon Racing
 88,378085,Bryce,Nuiver,Jenison,MI,,EPS Security Cycling Team
 89,502775,Rasmus,Ulstrup Kunosson,Athens,GA,,
@@ -190,7 +190,7 @@ Place,License #,First,Last,City,State,Time,Team
 32,457574,Aaron,Banks,Westfield,IN,,Yokohama Racing p/b BikeLine/SingletonCoaching
 33,101166,John,Dilger,Garwin,IA,,Hammer Nutrition
 34,534090,David,Brodeur,,,,
-35,431206,Aaron,Van Gelder,Orange City,IA,,Ames Velo
+35,431206,Aaron,Van Gelder,Ames,IA,,Ames Velo
 36,255842,Jacob,Schilling,Racine,WI,,Team Mack Racing Assn
 37,435220,Shay,Wright,Rock Island,IL,,Velosport Iowa
 38,473515,Dakota,Olsen,Le Mars,IA,,Central Junior Cycling Devo
@@ -213,7 +213,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,325378,Andrew,Turner,Cottage Grove,MN,,Loon State Cyclists
 8,502382,Erik,Rogelstad,Minneapolis,MN,,Loon State Cyclists
 9,500138,Thomas,Olek,Roberts,WI,,Big Ring Flyers
-10,238604,Brian,Sullivan,Mishawaka ,IN,,Race Inc.
+10,238604,Brian,Sullivan,South Bend,IN,,Race Inc.
 11,401620,Nick,Zawadski,Saint Paul,MN,,Kingfield
 12,412563,Cole,Limpach,Omaha,NE,,Harvest Racing p/b Midwest Cycling Trek Stores
 13,361308,Nick,Carter,Minneapolis,MN,,NorthStar Development Cycling
@@ -235,21 +235,21 @@ Place,License #,First,Last,City,State,Time,Team
 29,368310,Robert,Newcomb,Minneapolis,MN,,Kingfield
 30,312772,Caleb,Smith,Cheswick,PA,,La Prima Espresso Co. Racing
 31,263796,Samuel,Cohen,Iowa City,IA,,Johnson County Flyers
-32,496527,Ryan,Chien,Reno,NV,,Kingfield
+32,496527,Ryan,Chien,Arlington,VA,,Kingfield
 33,311604,Zach,Deitch,Indianapolis,IN,,Team Upland Brewing
 34,410856,Tyler,Curtis,Clear Lake,IA,,Spin Devo
 35,392940,Nicholas,Pomella,Palatine,IL,,PSIMET Racing
 36,330900,Pavel,Kuznetsov,Coralville,IA,,University of Iowa Heart and Vascular Care-Specialized
 37,407691,Benjamin,Souders,Indianapolis,IN,,Team Upland Brewing
 38,245221,Jonathan,Ortony,Chicago,IL,,Half Acre Cycling
-39,391656,Jordan,Buth,St. Paul ,MN,,Loon State Cyclists
+39,391656,Jordan,Buth,St. Paul,MN,,Loon State Cyclists
 40,373419,Alex,Morton,Saint Clair,MI,,Andrie Junior Development Team
 41,469151,Jacob,Olwig,Saint Louis,MO,,Quantum Solutions Intelligentsia
 42,534066,Scott,English,,DC,,
 43,466664,Daniel,Blumberg,Highland Park,IL,,KS Energy Services / MOSH / Team Wisconsin
 44,474329,Dalton,Collins,Washburn,WI,,NorthStar Development Cycling
 45,294851,Jason,Beerends,Iowa City,IA,,New Pioneer Food Co-op
-46,296340,Yancy,Ribbens,Minneapolis,MN,,Kingfield
+46,296340,Yancy,Ribbens,Saint Louis Park,MN,,Kingfield
 47,474209,Robert,Rutscher,Stillwater,MN,,Aliment p/b Brown Box Cookies
 48,135605,Matt,Finnesgard,Saint Paul,MN,,Loon State Cyclists
 49,499710,Ean,Pugh,Rochester,IN,,Yokohama Racing p/b BikeLine/SingletonCoaching
@@ -269,7 +269,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/28/2017 Criterium Women Pro/Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
-1,512762,Lily,Williams,Chicago,IL,,Bonkers Cycling
+1,512762,Lily,Williams,Asheville,NC,,Bonkers Cycling
 2,207443,Vanessa,Curtis,Iowa City,IA,,Iowa City Cycling Club
 3,467180,Carlyn,Jackson,Minneapolis,MN,,Orion Racing p/b K'ul Chocolate
 4,375231,Amy,McClintock,St. Louis,MO,,Pastaria - Big Shark Racing Team
@@ -301,7 +301,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/28/2017 Criterium Women Cat 3/4
 Place,License #,First,Last,City,State,Time,Team
-0,530057,Sara,Browning,Chicago,IL,,
+0,439527,Sara,Browning,Chicago,IL,,
 1,418958,Erika,Peterson,Minneapolis,MN,,NorthStar Development Cycling
 1,376851,Morgan,McKey,Grandville,MI,,
 2,401265,Summer,Gilbert,Holland,MI,,Andrie Junior Development Team
@@ -348,7 +348,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,455636,Luke,Feuerhelm,Merrill,IA,,Central Junior Cycling Devo
 2,411953,Hayden,Fox,East Grand Rapids,MI,,Andrie Junior Development Team
 3,432978,Nigel,Vaught,Kansas City,KS,,Big D Cycling
-4,325072,Nicholas,Petrov,Mckinney,TX,,ProChain Junior Development
+4,325072,Nicholas,Petrov,Mason,OH,,ProChain Junior Development
 5,486546,Ethan,Carney,Champaign,IL,,
 6,413420,Jack,Carter,Minneapolis,MN,,NorthStar Development Cycling
 7,435220,Shay,Wright,Rock Island,IL,,Velosport Iowa

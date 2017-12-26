@@ -98,8 +98,8 @@ Place,License #,First,Last,City,State,Time,Team
 05/31/2017 Criterium Women Cat 1/2/3/4/5
 Place,License #,First,Last,City,State,Time,Team
 1,289166,Tracy,Jones-Martin,Houston,TX,,
-2,442592,Lindsey,Henley,Houston,TX,,
-3,418981,Stephanie,Cole,Houston ,TX,,
+2,442592,Lindsey,Henley,Cypress,TX,,
+3,418981,Stephanie,Cole,Houston,TX,,
 
 05/31/2017 Criterium Women Cat 3/4/5
 Place,License #,First,Last,City,State,Time,Team
@@ -108,7 +108,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,523820,Claudia,Behring,Houston,TX,,
 2,525065,Helen,Scott,Houston,TX,,
 3,426126,Irene,Benavides-Perez,College Station,TX,,
-4,418981,Stephanie,Cole,Houston ,TX,,
+4,418981,Stephanie,Cole,Houston,TX,,
 5,507727,Landi,Orza,Cypress,TX,,
 6,468532,Alison,Carey,Mandeville,LA,,
 7,518790,Irene,Pena,League City,TX,,
@@ -140,7 +140,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,353912,Said,Assali,Houston,TX,,
 17,411083,John,Donovan,Houston,TX,,
 18,305309,Rob,Gray,Fulshear,TX,,
-19,288729,Jennifer,Wagner,Houston ,TX,,
+19,288729,Jennifer,Wagner,Houston,TX,,
 20,459877,Matthew,MataAguilar,Houston,TX,,
 21,350678,Hunter,Hinton,Weatherford,TX,,
 22,324478,Samuel,Lear,Wimberley,TX,,
@@ -223,19 +223,19 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/24/2017 Criterium Women Cat 1/2/3/4/5
 Place,License #,First,Last,City,State,Time,Team
-1,288729,Jennifer,Wagner,Houston ,TX,,
+1,288729,Jennifer,Wagner,Houston,TX,,
 2,393180,Amber,Smolik,Stafford,TX,,
 3,289166,Tracy,Jones-Martin,Houston,TX,,
 4,237368,Tara,Kelly,Houston,TX,,
-5,418981,Stephanie,Cole,Houston ,TX,,
+5,418981,Stephanie,Cole,Houston,TX,,
 
 05/24/2017 Criterium Women Cat 3/4/5
 Place,License #,First,Last,City,State,Time,Team
 1,523820,Claudia,Behring,Houston,TX,,
 2,237368,Tara,Kelly,Houston,TX,,
 3,525065,Helen,Scott,Houston,TX,,
-4,442592,Lindsey,Henley,Houston,TX,,
-5,418981,Stephanie,Cole,Houston ,TX,,
+4,442592,Lindsey,Henley,Cypress,TX,,
+5,418981,Stephanie,Cole,Houston,TX,,
 6,480117,Tiffany,Johnson,Cypress,TX,,
 7,518790,Irene,Pena,League City,TX,,
 8,529190,Selina,Aubin,Houston,TX,,
@@ -291,7 +291,7 @@ DNP,429220,Chris,Schneider,Katy,TX,,
 DNP,411458,Waqid,Janjua,Houston,TX,,
 DNP,272376,Hao,Le,Houston,TX,,
 DNP,474459,Adrian,Campos,Pearland,TX,,
-DNP,348678,Michael,Tarabay,Lakeway ,TX,,
+DNP,348678,Michael,Tarabay,Lakeway,TX,,
 DNP,403978,Evan,Roberts,Houston,TX,,
 DNP,167570,Luke,Magilke,Houston,TX,,
 DNP,423490,Pieter,Verhoeven,League City,TX,,
@@ -307,7 +307,7 @@ DNP,328100,Eddie,Sanchez,Katy,TX,,
 DNP,458814,Paul,Whipp,Katy,TX,,
 DNP,529757,Aaron,Johnson,Cypress,TX,,
 DNP,510017,Chris,O'Brien,Houston,TX,,
-DNP,378945,Kevin,Duncan,Katy ,TX,,
+DNP,378945,Kevin,Duncan,Katy,TX,,
 DNP,227309,Miguel,Valle,Miami,FL,,
 DNP,356480,Spencer,Grasl,Brighton,MI,,
 DNP,0,Juras,Arthasarnprasit,,,,
@@ -338,11 +338,11 @@ Place,License #,First,Last,City,State,Time,Team
 20,439119,Norman,Wilhelm,Houston,TX,,
 21,328100,Eddie,Sanchez,Katy,TX,,
 22,223675,Jose,Hernandez,Houston,TX,,
-23,348678,Michael,Tarabay,Lakeway ,TX,,
+23,348678,Michael,Tarabay,Lakeway,TX,,
 
 05/17/2017 Criterium Women Cat 1/2/3/4/5
 Place,License #,First,Last,City,State,Time,Team
-1,288729,Jennifer,Wagner,Houston ,TX,,
+1,288729,Jennifer,Wagner,Houston,TX,,
 2,399743,Pamela,Ferguson,Houston,TX,,
 
 05/17/2017 Criterium Women Cat 3/4/5
@@ -351,9 +351,9 @@ Place,License #,First,Last,City,State,Time,Team
 2,288708,Angela,Man,Houston,TX,,
 3,525065,Helen,Scott,Houston,TX,,
 4,404148,Venny,Alub,New Waverly,TX,,
-5,365139,Laurie,Poe,Spring,TX,,
+5,365139,Laurie,Poe,Bulverde,TX,,
 6,507727,Landi,Orza,Cypress,TX,,
-7,418981,Stephanie,Cole,Houston ,TX,,
+7,418981,Stephanie,Cole,Houston,TX,,
 8,529190,Selina,Aubin,Houston,TX,,
 9,525581,Nicole,Berglund,Houston,TX,,
 
@@ -410,13 +410,13 @@ Place,License #,First,Last,City,State,Time,Team
 15,0,Phillip,Hayward,,,,
 16,328100,Eddie,Sanchez,Katy,TX,,
 17,433597,Lee,Ramos,Sugar Land,TX,,
-18,348678,Michael,Tarabay,Lakeway ,TX,,
+18,348678,Michael,Tarabay,Lakeway,TX,,
 19,497249,Joseph,Matta,Houston,TX,,
 20,314662,Chris,Tran,Houston,TX,,
 21,529757,Aaron,Johnson,Cypress,TX,,
 22,191662,Kevin,Lynch,Houston,TX,,
 23,309223,Mark,Prevot,Houston,TX,,
-24,505401,David,Henley,Houston,TX,,
+24,512470,David,Henley,Houston,TE,,
 25,509815,Sean,Hale,Katy,TX,,
 26,460232,Tobias,Read,Houston,TX,,
 27,447225,Devin,Royal,Alvin,TX,,
@@ -456,7 +456,7 @@ Place,License #,First,Last,City,State,Time,Team
 29,340952,Luke,Gentry,New Braunfels,TX,,
 30,523752,Craig,Cameron,Houston,TX,,
 31,394634,David,Moulton,Manvel,TX,,
-32,348678,Michael,Tarabay,Lakeway ,TX,,
+32,348678,Michael,Tarabay,Lakeway,TX,,
 33,423490,Dieter,Verhoeven,League City,TX,,
 34,524274,Michael,Anderson,Houston,TX,,
 35,289166,Tracy,Jones-Martin,Houston,TX,,
@@ -467,7 +467,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/10/2017 Criterium Women Cat 1/2/3/4/5
 Place,License #,First,Last,City,State,Time,Team
-1,288729,Jennifer,Wagner,Houston ,TX,,
+1,288729,Jennifer,Wagner,Houston,TX,,
 2,399743,Pamela,Ferguson,Houston,TX,,
 3,531068,ANABELEN,Garza,Garland,TX,,
 4,289166,Tracy,Jones-Martin,Houston,TX,,
@@ -480,11 +480,11 @@ Place,License #,First,Last,City,State,Time,Team
 2,523820,Claudia,Behring,Houston,TX,,
 3,525065,Helen,Scott,Houston,TX,,
 4,399743,Pamela,Ferguson,Houston,TX,,
-5,365139,Laurie,Poe,Spring,TX,,
+5,365139,Laurie,Poe,Bulverde,TX,,
 6,404148,Venny,Alub,New Waverly,TX,,
 7,529190,Selina,Aubin,Houston,TX,,
 8,423119,Paige,Zizka,Katy,TX,,
-9,418981,Stephanie,Cole,Houston ,TX,,
+9,418981,Stephanie,Cole,Houston,TX,,
 10,507727,Landi,Orza,Cypress,TX,,
 
 05/10/2017 Criterium Mixed Junior <19
@@ -532,7 +532,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,352414,Kevin,Franklin,The Woodlands,TX,,
 7,386355,Jaime,DePujadas,Houston,TX,,
 8,522819,Lars,Betancourt,Pearland,TX,,
-9,348678,Michael,Tarabay,Lakeway ,TX,,
+9,348678,Michael,Tarabay,Lakeway,TX,,
 10,403978,Evan,Roberts,Houston,TX,,
 11,484088,Tarillah ,Ikemi,Houston,TX,,
 12,474459,Adrian,Campos,Pearland,TX,,
@@ -560,7 +560,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/03/2017 Criterium Women Cat 1/2/3/4/5
 Place,License #,First,Last,City,State,Time,Team
-1,273884,Robyn,Poulson,Houston ,TX,,
+1,273884,Robyn,Poulson,Houston,TX,,
 2,404148,Venny,Alub,New Waverly,TX,,
 3,237368,Tara,Kelly,Houston,TX,,
 
@@ -588,7 +588,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,117,Edgar,Nunnelly,Houston,TX,,
 14,298416,John,Wilmeth,Newwaverly,TX,,
 15,264242,Greg,Binion,Houston,TX,,
-16,288729,Jennifer,Wagner,Houston ,TX,,
+16,288729,Jennifer,Wagner,Houston,TX,,
 17,495755,Franz,Elliott,Dickinson,TX,,
 18,422244,Christopher,Sims,Pasadena,TX,,
 19,417103,Stuart,Gardner,Houston,TX,,
@@ -607,7 +607,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,481979,Justin,Martin,Houston,TX,,
 2,459674,Travis,Crisman,Rosharon,TX,,
-3,348678,Michael,Tarabay,Lakeway ,TX,,
+3,348678,Michael,Tarabay,Lakeway,TX,,
 4,494351,Juan,Acosta,Houston,TX,,
 5,412475,Sean,Dolan,Houston,TX,,
 6,420698,Khalid,Alrashed,Katy,TX,,
@@ -652,7 +652,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 04/26/2017 Criterium Women Cat 1/2/3/4/5
 Place,License #,First,Last,City,State,Time,Team
-1,288729,Jennifer,Wagner,Houston ,TX,,
+1,288729,Jennifer,Wagner,Houston,TX,,
 2,237368,Tara,Kelly,Houston,TX,,
 3,523597,Laura,Sarkis,Houston,TX,,
 

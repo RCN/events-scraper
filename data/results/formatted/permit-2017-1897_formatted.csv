@@ -45,11 +45,11 @@ Place,License #,First,Last,City,State,Time,Team
 7,45870,Michael,ROSENHAUS,Morristown,NJ,00:00:00.00,Central Jersey Cycling Team
 8,240153,Glenn,FERREIRA,Manville,NJ,00:00:00.00,Team Metra / XRCEL / Cycles 54
 9,299967,Michael,BLACK,Whitehall,PA,00:00:00.00,QCW Breakawaybikes.com P/B JLV
-10,306560,Steven,WENTWORTH,Yardley ,PA,00:00:00.00,Amoroso's Racing Team
-11,411044,Wanya,CAVE,Collingdale,PA,00:00:00.00,Tri-State Velo / Amoroso's Rac
+10,306560,Steven,WENTWORTH,Yardley,PA,00:00:00.00,Amoroso's Racing Team
+11,411044,Wanya,CAVE,Philadelphia,PA,00:00:00.00,Tri-State Velo / Amoroso's Rac
 12,379369,Tom,REEB,Philadelphia,PA,00:00:00.00,Bicycle Therapy
 13,175547,Zebulon,NELESSEN,New York,NY,00:00:00.00,Van Dessel Factory Team
-14,523940,Brad,Thompson,Philadelphia,PA,00:00:00.00,Tri State Velo
+14,115826,Brad,Thompson,Philadelphia,PA,00:00:00.00,Tri State Velo
 15,398392,John,PIPER,Minotola,NJ,00:00:00.00,VR2209
 16,296889,Justin,DAVALA,Blackwood,NJ,00:00:00.00,VR2209
 17,291228,Brett,HOUSER,Philadelphia,PA,00:00:00.00,Amoroso's Racing Team
@@ -134,7 +134,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,164641,Ian,ANDERSON,Brick,NJ,00:00:00.00,Cycles 54
 15,362349,Chris,MCGINLEY,Sewell,NJ,00:00:00.00,PSRacing/BTB
 16,7235,Steve,COCHRANE,Princeton,NJ,00:00:00.00,MAMBO KINGS
-17,324134,Matthew,MORY,Philadelphia,PA,00:00:00.00,QCW Cycling p.b. Breakawaybike
+17,324134,Matthew,MORY,Mesa,AZ,00:00:00.00,QCW Cycling p.b. Breakawaybike
 18,88447,John,OLSEN,Staten Island,NY,00:00:00.00,CRCA/Dave Jordan Racing
 19,64894,Pascal,SAUVAYRE,New York,NY,00:00:00.00,CRCA/Rockstar Games
 DNP,164375,Brent,HINKLE,Wallingford,PA,00:00:00.00,Active Yards

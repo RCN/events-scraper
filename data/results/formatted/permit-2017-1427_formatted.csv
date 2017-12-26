@@ -7,7 +7,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,378825,Lance,Abshire,Baton Rouge,LA,0:59:53,Team LaS'port
 4,404765,Patton,Sims,Sterlington,LA,1:00:00,Palmer/CSpire Fiber Cycling
 5,227815,Joseph,Long,Kenner,LA,1:00:00,Team LaS'port
-6,239878,Ben,Hall,River Ridge,LA,1:00:00,4D Racing
+6,239878,Ben,Hall,Columbus,OH,1:00:00,4D Racing
 7,492579,Charles,Daniel,Saint Francisville,LA,1:00:00,4D Racing
 8,413655,Leopold,Marx,Baton Rouge,LA,1:00:00,4D Racing
 9,473175,Logan,Mclain,Bossier City,LA,1:00:00,Team LaS'port
@@ -32,7 +32,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,41597,Frank,Moak,Brookhaven,MS,0:47:48,CSpire Fiber Cycling
 4,77897,Kevin,Landry,Youngsville,LA,0:47:48,Acadiana Bicycle Company Racing
 5,238642,William,Jones,Baton Rouge,LA,0:47:48,4D Racing
-6,309874,Kenneth,Poole,Hattiesburg ,MS,0:47:48,CSpire Fiber Cycling
+6,309874,Kenneth,Poole,Hattiesburg,MS,0:47:48,CSpire Fiber Cycling
 7,167772,Eddie,Corcoran,New Orleans,LA,0:47:48,Peake Cycling
 8,258236,Trey,Pounds,Brookhaven,MS,0:47:48,CSpire Fiber Cycling
 9,475181,Steven,Wolfe,Winnfield,LA,0:47:48,Acadiana Bicycle Company Racing
@@ -124,7 +124,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,230433,Mathew,Davis,Shreveport,LA,4:17:40.0,Team LaS'port
 2,432532,Bryan,Mutell,Raleigh ,NC,4:18:31.0,4D Racing
 3,473175,Logan,Mclain,Bossier City,LA,4:20:42.9,Team LaS'port
-4,239878,Ben,Hall,River Ridge,LA,4:22:32.4,4D Racing
+4,239878,Ben,Hall,Columbus,OH,4:22:32.4,4D Racing
 5,378825,Lance,Abshire,Baton Rouge,LA,4:23:27.1,Team LaS'port
 6,227815,Joseph,Long,Kenner,LA,4:24:14.6,Team LaS'port
 7,278514,Michael,McBrien,Milton,FL,4:26:28.1,Palmer Cycling
@@ -142,7 +142,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,171264,Kyle,Boudreaux,Covington,LA,5:11:32.6,
 20,171261,Joshua,Rosby,Baton Rouge,LA,5:20:31.0,4D Racing
 DNF,388343,Stephanie,Smith,Metairie,LA,,
-DNF,301474,Sam,LeBlanc,Kenner,LA,,4D Racing
+DNF,301474,Sam,LeBlanc,New Orleans,LA,,4D Racing
 DNF,357289,Steve,Bertrand,Eglin Air Force Base,FL,,US Military Endurance Sports
 DNF,396973,Micheal,Boedigheimer,New Orleans,LA,,Urban South Racing p/b Rouler
 DNF,354792,Nicholas,Burton,Shreveport,LA,,Team LaS'port
@@ -151,7 +151,7 @@ DNF,466498,Thomas,Brown,Little Rock,AR,,Experience Fayetteville Cycling Team
 06/11/2017 Stage Race Men Cat 1/2/3/4/5 Masters 40+
 Place,License #,First,Last,City,State,Time,Team
 1,41597,Frank,Moak,Brookhaven,MS,3:57:44.2,CSpire Fiber Cycling
-2,309874,Kenneth,Poole,Hattiesburg ,MS,3:57:52.1,CSpire Fiber Cycling
+2,309874,Kenneth,Poole,Hattiesburg,MS,3:57:52.1,CSpire Fiber Cycling
 3,193992,Woody,Boudreaux,Westwego,LA,3:58:05.4,CSpire Fiber Cycling
 4,308797,Alex,Habbit,Youngsville,LA,3:58:09.7,Acadiana Bicycle Company Racing
 5,238642,William,Jones,Baton Rouge,LA,3:58:13.9,4D Racing
@@ -266,7 +266,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,230433,Mathew,Davis,Shreveport,LA,0:06:01.0,Team LaS'port
 3,473175,Logan,Mclain,Bossier City,LA,0:06:10.8,Team LaS'port
 4,378825,Lance,Abshire,Baton Rouge,LA,0:06:14.1,Team LaS'port
-5,239878,Ben,Hall,River Ridge,LA,0:06:17.3,4D Racing
+5,239878,Ben,Hall,Columbus,OH,0:06:17.3,4D Racing
 6,466498,Thomas,Brown,Little Rock,AR,0:06:18.9,Experience Fayetteville Cycling Team
 7,278514,Michael,McBrien,Milton,FL,0:06:19.6,Palmer Cycling
 8,227815,Joseph,Long,Kenner,LA,0:06:22.5,Team LaS'port
@@ -287,7 +287,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 06/10/2017 Individual Time Trial Men Cat 1/2/3/4/5 Masters 40+
 Place,License #,First,Last,City,State,Time,Team
-1,309874,Kenneth,Poole,Hattiesburg ,MS,0:06:03.1,CSpire Fiber Cycling
+1,309874,Kenneth,Poole,Hattiesburg,MS,0:06:03.1,CSpire Fiber Cycling
 2,41597,Frank,Moak,Brookhaven,MS,0:06:12.2,CSpire Fiber Cycling
 3,258236,Trey,Pounds,Brookhaven,MS,0:06:24.2,CSpire Fiber Cycling
 4,193992,Woody,Boudreaux,Westwego,LA,0:06:26.4,CSpire Fiber Cycling
@@ -391,7 +391,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,230433,Mathew,Davis,Shreveport,LA,3:13:52,Team LaS'port
 2,473175,Logan,Mclain,Bossier City,LA,3:14:40,Team LaS'port
 3,432532,Bryan,Mutell,Raleigh ,NC,3:14:40,4D Racing
-4,239878,Ben,Hall,River Ridge,LA,3:16:15,4D Racing
+4,239878,Ben,Hall,Columbus,OH,3:16:15,4D Racing
 5,378825,Lance,Abshire,Baton Rouge,LA,3:17:24,Team LaS'port
 6,227815,Joseph,Long,Kenner,LA,3:17:52,Team LaS'port
 7,278514,Michael,McBrien,Milton,FL,3:19:41,Palmer Cycling
@@ -411,7 +411,7 @@ Place,License #,First,Last,City,State,Time,Team
 21,171264,Kyle,Boudreaux,Covington,LA,4:02:58,
 22,171261,Joshua,Rosby,Baton Rouge,LA,4:02:58,4D Racing
 DNF,388343,Stephanie,Smith,Metairie,LA,,
-DNF,301474,Sam,LeBlanc,Kenner,LA,,4D Racing
+DNF,301474,Sam,LeBlanc,New Orleans,LA,,4D Racing
 DNF,357289,Steve,Bertrand,Eglin Air Force Base,FL,,US Military Endurance Sports
 DNF,396973,Micheal,Boedigheimer,New Orleans,LA,,Urban South Racing p/b Rouler
 
@@ -429,7 +429,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,32781,Butch,Sims,Hattiesburg,MS,3:04:07,CSpire Fiber Cycling
 11,69101,William,Hewitt,Mobile,AL,3:04:07,Pursuit Cycling
 12,167772,Eddie,Corcoran,New Orleans,LA,3:04:07,Peake Cycling
-13,309874,Kenneth,Poole,Hattiesburg ,MS,3:04:07,CSpire Fiber Cycling
+13,309874,Kenneth,Poole,Hattiesburg,MS,3:04:07,CSpire Fiber Cycling
 14,258236,Trey,Pounds,Brookhaven,MS,3:04:07,CSpire Fiber Cycling
 15,185198,Mike,Corcoran,Westwego,LA,3:04:07,Peake Cycling
 16,11747,Brett,Fitzgerald,Ponchatoula,LA,3:04:07,MidSouth Velo

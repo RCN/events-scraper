@@ -37,7 +37,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,470917,William,Sherman,Ellicott City,MD,3:56:80,University of Colorado Boulder
 17,540413,Tyler,Talbot,Colorado Springs,CO,3:58:56,University of Colorado Colorado Springs
 18,516994,Robert,Reid,Boulder,CO,4:00:95,University of Colorado Boulder
-19,494198,John,Smith,Shreveport ,LA,4:05:03,Western State Colorado University
+19,494198,John,Smith,Baton Rouge,LA,4:05:03,Western State Colorado University
 20,0,,Rider,,,4:08:23,
 21,540290,William,Richards,Boulder,CO,4:37:56,University of Colorado Boulder
 22,460263,Charles,Young,Duluth,MN,4:54:38,Colorado Mesa University
@@ -64,7 +64,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,443479,Matt,Nelson,Colorado Springs,CO,3:30:13,Fort Lewis College
 19,439251,Oliver,Stubbs,Fort Collins,CO,3:32:23,Colorado State University
 20,484887,Wyatt,Mellon,Canyon Lake,CA,3:31:88,Fort Lewis College
-21,341146,zachary,sedivy,Grand Junction,CO,3:33:70,Colorado Mesa University
+21,341146,zachary,sedivy,Kalispell,MT,3:33:70,Colorado Mesa University
 22,486699,Trent,Christner,Thornton,CO,3:37:48,Colorado State University
 23,413816,Banks,Kriz,Gunnison,CO,3:41:06,Western State Colorado University
 24,414843,Alex,Rosenberry,Lakewood,CO,3:43:63,University of Colorado Boulder
@@ -226,7 +226,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,0,Nathaniel,Britton,,,00:00:00,42
 19,516983,Zachary,Parrott,Golden,CO,00:00:00,Colorado School of Mines
 20,486855,Luke,Thomspon,Northglenn,CO,00:00:00,University of Wyoming
-21,516940,Samuel,Hoffmann,Grosse Pointe Park,MI,00:00:00,Colorado School of Mines
+21,516940,Samuel,Hoffmann,Golden,CO,00:00:00,Colorado School of Mines
 22,540684,Edward,Jacobs,Alamosa,CO,00:00:00,Adams State University
 DNF,348972,daryus,patel,Evanston,IL,00:00:00,Colorado School of Mines
 DNF,485837,Paul,Hartner,Naperville,IL,00:00:00,Colorado College
@@ -244,11 +244,11 @@ Place,License #,First,Last,City,State,Time,Team
 7,540686,Kyle,Smart,Boulder,CO,00:00:00,University of Colorado Boulder
 8,473271,Sam,Ghalayini,Fairfax Station,VA,00:00:00,Fort Lewis College
 9,499605,Chase,Whitman,Flagstaff,AZ,00:00:00,Adams State University
-10,457884,Jake,Marasco,Durango,CO,00:00:00,Fort Lewis College
+10,457884,Jake,Marasco,Claremont,CA,00:00:00,Fort Lewis College
 11,534791,Dylan,Wood,Evergreen,CO,00:00:00,Western State Colorado University
 12,301347,Sebastian,Sturges,Denver,CO,00:00:00,University of Denver
 13,496976,Adam,Jolly,Colorado Springs,CO,00:00:00,Colorado College
-14,494198,John,Smith,Shreveport ,LA,00:00:00,Western State Colorado University
+14,494198,John,Smith,Baton Rouge,LA,00:00:00,Western State Colorado University
 15,540777,Domenic,Policaro,Gunnison,CO,00:00:00,Western State Colorado University
 16,378802,Ben,Cook,Greenbrae,CA,00:00:00,University of Colorado Boulder
 17,540754,Ari,Tapper,Deephaven,MN,00:00:00,University of Colorado Boulder

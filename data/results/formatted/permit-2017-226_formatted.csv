@@ -64,7 +64,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,325834,Jeanie,Bell,Knoxville,TN,01:56:32.000,Nashville Local Cycling
 2,482247,Abby,Hill,Grand Rivers,KY,01:59:22.000,Wood -N- Wave
-3,379218,Jessica,Edens,Kingston Springs ,TN,02:01:53.000,Nashville Local Cycling
+3,379218,Jessica,Edens,Kingston Springs,TN,02:01:53.000,Nashville Local Cycling
 4,494089,Kayla,Hammel,Evansville,IN,02:03:08.000,Dan's Comp Factory Racing
 5,401990,Jena,Cook,Nashville,TN,02:03:49.000,Nashville Local Cycling
 6,410325,Christie,Brinker,Brookport,IL,02:10:19.000,Wood -N- Wave
@@ -104,7 +104,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,292782,joe,grubbs,White House,TN,01:45:07.000,Hattie B's Racing
 7,384784,James,Waller,Old Hickory,TN,01:50:58.000,Ride615 Development
 8,495254,Robert,Ledford,Henderson,TN,01:51:23.000,
-9,113615,James,Buckingham,Madison,TN,01:52:00.000,Hattie B's Racing
+9,113615,James,Buckingham,White House,TN,01:52:00.000,Hattie B's Racing
 10,105869,William,Morehead,Jackson,TN,01:53:15.000,Lift Center Racing
 11,455035,roger,brown,Nashville,TN,01:54:06.000,MOAB Racing
 12,148209,Chad,Lirette,Bartlett,TN,01:56:52.000,
@@ -118,7 +118,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,429681,Pat,Stacey,Nashville,TN,02:07:39.000,
 21,76393,Kevin,Hinson,Nashville,TN,02:13:59.000,MOAB Masters Racing
 22,461068,Justin,Allen,Spring Hill,TN,02:14:57.000,
-23,78670,Mark,Keranen,Smyrna,TN,02:16:28.000,I Am Racing
+23,78670,Mark,Keranen,Greenbrier,TN,02:16:28.000,I Am Racing
 24,427736,Mike,Long,Cerulean,KY,02:20:15.000,Clarksville Velo
 25,0,George,Khoury,,,02:33:00.000,
 26,395643,Greg,Dietz,Hillsborough,NC,02:38:22.000,
@@ -171,7 +171,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,505250,Benjamin,Brinton,Antioch,TN,01:59:37.000,
 23,523520,Sean,Barnes,Murfreesboro,TN,02:00:28.000,MOAB Racing
 24,385830,Edward,Elliott,Dickson,TN,02:00:31.000,Nashville Local Cycling
-25,497218,Sterling,McBride,Brea,CA,02:00:35.000,
+25,497218,Sterling,McBride,Eugene,OR,02:00:35.000,
 26,438310,Dustin,Brown,Benton,KY,02:01:34.000,Wood -N- Wave
 27,243287,Alexander,Stevens,Jacksonville,AR,02:03:05.000,US Military Endurance Sports
 28,399514,Robert,Carlyon,Spring Hill,TN,02:06:04.000,
@@ -214,7 +214,7 @@ DNF,498799,Kaden,Jameson,Benton,KY,,True Performance Junior Development/PB Eddie
 Place,License #,First,Last,City,State,Time,Team
 1,482247,Abby,Hill,Grand Rivers,KY,02:08:06.000,Wood -N- Wave
 2,206945,Sarah,Moore,Nashville,TN,02:08:29.000,Tennessee Women's Cycling Project
-3,379218,Jessica,Edens,Kingston Springs ,TN,02:08:56.000,Nashville Local Cycling
+3,379218,Jessica,Edens,Kingston Springs,TN,02:08:56.000,Nashville Local Cycling
 4,494089,Kayla,Hammel,Evansville,IN,02:10:49.000,Dan's Comp Factory Racing
 5,410325,Christie,Brinker,Brookport,IL,02:12:10.000,Wood -N- Wave
 6,430136,Lauren,Wrisley,Nashville,TN,02:15:45.000,Team Belladium p/b Lane Motor Museum
@@ -230,7 +230,7 @@ Place,License #,First,Last,City,State,Time,Team
 02/05/2017 Cross Country Women Cat 1/2/3 Juniors 15-18
 Place,License #,First,Last,City,State,Time,Team
 1,503362,Patience,Stoller,Dickson,TN,02:40:46.000,Nashville Local Cycling
-2,513327,Faith,Stoller,,,02:43:58.000,Nashville Local Cycling
+2,513327,Faith,Stoller,Dickson,TN,02:43:58.000,Nashville Local Cycling
 3,525820,Halen,McGregor,Nashville,TN,03:54:02.000,
 
 02/05/2017 Cross Country Women Cat 1/2/3 Juniors 9-14
@@ -253,7 +253,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,383965,Sanford,Webster,Lenoir City,TN,01:46:42.000,Harper Auto
 5,382591,Chris,Cooper,Castalian Springs,TN,01:46:59.000,I Am Racing
 6,105869,William,Morehead,Jackson,TN,01:49:17.000,Lift Center Racing
-7,113615,James,Buckingham,Madison,TN,01:49:20.000,Hattie B's Racing
+7,113615,James,Buckingham,White House,TN,01:49:20.000,Hattie B's Racing
 8,325202,Tim,Baker,Hendersonville,TN,01:49:29.000,Team Bikers Choice
 9,106928,Joseph,Burton,Paducah,KY,01:51:51.000,Wood -N- Wave
 10,522451,Jheremy,Zetans,Franklin,TN,01:52:27.000,Nashville Local Cycling
@@ -272,7 +272,7 @@ Place,License #,First,Last,City,State,Time,Team
 23,461068,Justin,Allen,Spring Hill,TN,02:27:25.000,
 24,443029,Chris,Korbey,Nashville,TN,02:27:26.000,
 25,427736,Mike,Long,Cerulean,KY,02:40:21.000,Clarksville Velo
-26,78670,Mark,Keranen,Smyrna,TN,04:37:01.000,I Am Racing
+26,78670,Mark,Keranen,Greenbrier,TN,04:37:01.000,I Am Racing
 DNF,295515,Mark,Horne,Franklin,TN,,I AM Racing p/b Escadrille
 DNF,429753,Daniel,Bir,Mount Juliet,TN,,Ride615 Development
 
@@ -335,7 +335,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,206945,Sarah,Moore,Nashville,TN,02:27:37.210,Tennessee Women's Cycling Project
 2,494089,Kayla,Hammel,Evansville,IN,02:31:54.390,Dan's Comp Factory Racing
-3,379218,Jessica,Edens,Kingston Springs ,TN,02:37:11.510,Nashville Local Cycling
+3,379218,Jessica,Edens,Kingston Springs,TN,02:37:11.510,Nashville Local Cycling
 4,401990,Jena,Cook,Nashville,TN,02:43:56.570,Nashville Local Cycling
 5,482247,Abby,Hill,Grand Rivers,KY,02:49:10.280,Wood -N- Wave
 6,457765,Lindsey,Yokley,Nashville,TN,02:57:56.460,Tennessee Women's Cycling Project
@@ -361,7 +361,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,166475,Scott,Turner,Nashville,TN,01:56:05.040,Trace Bikes
 5,292782,joe,grubbs,White House,TN,02:01:06.470,Hattie B's Racing
 6,325202,Tim,Baker,Hendersonville,TN,02:01:39.510,Team Bikers Choice
-7,113615,James,Buckingham,Madison,TN,02:03:07.690,Hattie B's Racing
+7,113615,James,Buckingham,White House,TN,02:03:07.690,Hattie B's Racing
 8,105869,William,Morehead,Jackson,TN,02:07:32.100,Lift Center Racing
 9,522451,Jheremy,Zetans,Franklin,TN,02:11:37.670,Nashville Local Cycling
 10,429753,Daniel,Bir,Mount Juliet,TN,02:16:08.820,Ride615 Development
@@ -371,7 +371,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,523574,Dustin,Mcgregor,Nashville,TN,02:38:29.250,
 15,76393,Kevin,Hinson,Nashville,TN,02:47:02.070,MOAB Masters Racing
 16,476935,Stanley,Fields,Hendersonville,TN,02:52:32.290,
-17,78670,Mark,Keranen,Smyrna,TN,02:54:43.380,I Am Racing
+17,78670,Mark,Keranen,Greenbrier,TN,02:54:43.380,I Am Racing
 18,427736,Mike,Long,Cerulean,KY,03:08:13.220,Clarksville Velo
 19,291458,Graham,Gerdeman,Nashville,TN,03:32:17.670,
 

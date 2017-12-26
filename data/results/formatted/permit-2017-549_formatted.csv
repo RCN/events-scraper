@@ -7,15 +7,15 @@ Place,License #,First,Last,City,State,Time,Team
 3,527248,Cesar,SERNA,Aguascalientes,AG,59:22,Oklahoma Bicycle Project
 4,272180,Jacob,WHITE,Pauls Valley,OK,59:22,Oklahoma Bicycle Project
 5,333154,Skyler,MACKEY,Tulsa,OK,59:23,Transitions Life Care
-6,342402,Kevin,GIRKINS,Austin,TX,59:24,ELBOWZ Racing p/b Synergy.O
-7,526732,Cullen,BROWNE,,,59:25,Oklahoma Bicycle Project
+6,342402,Kevin,GIRKINS,San Marcos,TX,59:24,ELBOWZ Racing p/b Synergy.O
+7,534570,Cullen,BROWNE,Tulsa,OK,59:25,Oklahoma Bicycle Project
 8,414951,Jacob,HENLEY,Chattanooga ,TN,59:25,Pharmaco-DeepSouth p/b NGCA
 9,329968,Fred,VINCENT,Flower Mound,TX,59:25,Elevate-KHS
 10,397914,Braxton,MUNDELL,Broken Arrow,OK,59:25,Oklahoma Bicycle Project
 11,425096,Kevin,SOLOMON,Little Rock,AR,59:25,Tyson Foods Cycling Team
 12,286105,Ryan,GABRIEL,Tulsa,OK,59:26,Tulsa Wheelmen
 13,412811,Kyle,SWANSON,Fort Worth,TX,59:26,Matrix/RBM
-14,227335,Ben,GABARDI,Madison,MS,59:27,The Meteor
+14,227335,Ben,GABARDI,Little Rock,AR,59:27,The Meteor
 15,532021,William,HODGES,,,59:27,GPM Stulz
 16,513513,Olivier,LAVIGUEUR,Little Rock,AR,59:28,thePACK
 17,395255,Tanner,WARD,Little Rock,AR,59:28,Oklahoma Bicycle Project
@@ -53,7 +53,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,427583,Michael,FRANZ,Lowell,AR,38:24,Walmart/GPP Cycling Team
 9,466021,Adam,BARNES,Fayetteville,AR,38:24,Tyson Foods Cycling Team
 10,181446,Joel,RAYMOND,Bentonville,AR,38:24,Bentonville Racing
-11,268618,Jaime,CANCEL,Fort Smith,AR,38:25,Walmart/GPP Cycling Team
+11,268618,Jaime,CANCEL,Queen Creek,AZ,38:25,Walmart/GPP Cycling Team
 12,309572,Kirk,GRYNWALD,Little Rock,AR,38:25,Pinnacle Velo
 13,36231,Ben,UPCHURCH,Fayetteville,AR,38:25,Tyson Foods Cycling Team
 14,405463,Lee,LAMUNYON,Towanda,KS,38:25,Team Colavita/ Parisi Coffee
@@ -78,7 +78,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,141654,Chad,CAGLE,Tulsa,OK,49:28,
 3,222021,Emile,ABRAHAM,Atlanta,GA,49:29,
 4,425922,Christopher,DAKIN,Bixby,OK,49:29,Air Assurance Devo P/b Spoke Ho
-5,530396,Jarrod,MORONI,,,49:30,Moronis Bikes
+5,530396,Jarrod,MORONI,Oceanside,CA,49:30,Moronis Bikes
 6,360075,Chris,ST. PETER,Little Rock,AR,49:30,Intelligensia Allied
 7,353046,Benjamin,CRAIG,Bentonville,AR,49:31,Tyson Racing
 8,140740,Norman,ZELLERS,Scott Air Force Base,IL,49:31,
@@ -90,7 +90,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,271607,B.J.,KEANE,Defiance,MO,49:33,
 15,15149,Chris,HARRE,Webster Groves,MO,49:33,
 16,167018,Jeremy,STITT,Tulsa,OK,49:34,DNA Racing
-17,392104,Doug,ZELL,Little Rock ,AR,49:34,Intelligensia Allied
+17,392104,Doug,ZELL,Lockhart,TX,49:34,Intelligensia Allied
 18,290408,Robbin,RAHMAN,Little Rock,AR,49:34,
 19,294228,Aaron,HIGHFILL,Choctaw,OK,49:34,DNA Racing
 20,112874,Eric,WARDEN,Flower Mound,TX,49:36,Team Giant Lakeside p/b MINI of
@@ -157,7 +157,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,496914,Martial,TRIGEAUD,Little Rock,AR,49:49,Central Arkansas Velo/CARVE
 3,396059,Adolfo,CORDOVA,Little Rock,AR,49:50,
 4,441131,Trevor,FINE,Duncan,OK,49:50,
-5,466674,Brandon,WOLD,Oklahoma City,OK,49:52,DNA Racing
+5,466674,Brandon,WOLD,Andover,MN,49:52,DNA Racing
 6,440912,Samuel,MEULLENET,Fayetteville,AR,49:54,Breakaway Cycling Club - NWA
 7,391064,Andrew,TOWNSEND,Little Rock,AR,49:54,Central Arkansas Velo/CARVE
 8,378105,Brad,SCHRAG,Springdale,AR,49:55,Experience Fayetteville Cycling
@@ -167,7 +167,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,482118,Timothy,PALYUKH,Lewisville,TX,49:55,Bicycles Plus Racing
 13,466647,Jesse,NABHOLZ,Conway,AR,49:55,The Ride
 14,353664,Shanely,MULLIKIN,Bella Vista,AR,49:56,Bentonville Racing
-15,369559,Frederick,WILD,Midwest City,OK,49:56,DNA Racing
+15,369559,Frederick,WILD,Okc,OK,49:56,DNA Racing
 16,474071,Max,TUCKER,Little Rock,AR,49:57,Experience Fayetteville Cycling
 17,423720,Joseph,PARDUE,Fayetteville,AR,49:57,Breakaway Cycling Club - NWA
 18,385951,Jimmy,HUMSTON,Little Rock,AR,49:57,Pinnacle Velo
@@ -183,7 +183,7 @@ DNF,405463,Lee,LAMUNYON,Towanda,KS,,Team Colavita/ Parisi Coffee
 
 07/09/2017 Criterium Women Cat Pro/1/2/3
 Place,License #,First,Last,City,State,Time,Team
-1,509477,Peta,MULLENS,Tulsa,OK,52:23,Hagens Bergen Supermint
+1,509477,Peta,MULLENS,Oceanside,CA,52:23,Hagens Bergen Supermint
 2,529694,Danielydelvalle,GARCIA,,TX,52:28,Dallas Racing
 3,36345,Laura,VAN GILDER,Cresco,PA,53:50,Mellow Mushroom p/b Psimet
 4,301155,Scotti,LECHUGA,Little Rock,AR,53:50,UCI WPT: Hagens Berman | Superm
@@ -214,7 +214,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,384153,Severine,TOURNADRE,Leawood,KS,36:31,Women's Free State Racing
 11,454572,Maddie,WILLIS,Oklahoma City,OK,36:31,Yoga Box Racing p/b Transitions
 12,420099,Lisa,DEMARNI CROMER,Jenks,OK,36:32,Team isocentric
-13,506931,Finn,TAYLOR,Tulsa,OK,36:32,Yoga Box Racing p/b Transitions
+13,506931,Finn,TAYLOR,Fayetteville,AR,36:32,Yoga Box Racing p/b Transitions
 14,411314,Sheree,BENAVIDES,Dallas,TX,36:34,Matrix/RBM
 15,522149,Jaime,TININENKO,Little Rock,AR,38:13,Pinnacle Velo
 16,537132,Katy,SIEBERT,Fayetteville,AR,38:19,
@@ -243,7 +243,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,333154,Skyler,MACKEY,Tulsa,OK,1:01:40,Transitions Life Care
 2,331782,Tony,BACA,Austin,TX,1:01:40,ELBOWZ Racing p/b Synergy.O
 3,319214,Grant,KOONTZ,Spring,TX,1:01:41,Arapahoe Resources / Garneau
-4,342402,Kevin,GIRKINS,Austin,TX,1:01:41,ELBOWZ Racing p/b Synergy.O
+4,342402,Kevin,GIRKINS,San Marcos,TX,1:01:41,ELBOWZ Racing p/b Synergy.O
 5,412811,Kyle,SWANSON,Fort Worth,TX,1:01:41,Matrix/RBM
 6,531888,Cameron,ROBERTS,,,1:01:42,GPM Stulz
 7,200977,John,PURVIS,Parthenon,AR,1:01:44,Oklahoma Bicycle Project
@@ -308,7 +308,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,427583,Michael,FRANZ,Lowell,AR,40:37,Walmart/GPP Cycling Team
 19,9673,Steven,DODGE,Rogers,AR,40:38,
 20,405463,Lee,LAMUNYON,Towanda,KS,40:38,Team Colavita/ Parisi Coffee
-21,268618,Jaime,CANCEL,Fort Smith,AR,40:38,Walmart/GPP Cycling Team
+21,268618,Jaime,CANCEL,Queen Creek,AZ,40:38,Walmart/GPP Cycling Team
 22,176607,Bill,SOWERS,Bentonville,AR,40:39,Walmart/GPP Cycling Team
 23,466021,Adam,BARNES,Fayetteville,AR,40:40,Tyson Foods Cycling Team
 24,332356,Justin,DAVIS,Tulsa,OK,40:53,Team Tom's Bicycles p/b Topeca
@@ -322,11 +322,11 @@ DNF,36231,Ben,UPCHURCH,Fayetteville,AR,,Tyson Foods Cycling Team
 Place,License #,First,Last,City,State,Time,Team
 1,199458,Janne,HAMALAINEN,Tulsa,OK,52:18,Tulsa Wheelmen
 2,141654,Chad,CAGLE,Tulsa,OK,52:30,
-3,530396,Jarrod,MORONI,,,52:30,Moronis Bikes
+3,530396,Jarrod,MORONI,Oceanside,CA,52:30,Moronis Bikes
 4,222021,Emile,ABRAHAM,Atlanta,GA,52:30,
 5,167018,Jeremy,STITT,Tulsa,OK,52:30,DNA Racing
 6,58478,Peter,ERDOES,Oklahoma City,OK,52:30,OKC Velo
-7,392104,Doug,ZELL,Little Rock ,AR,52:31,Intelligensia Allied
+7,392104,Doug,ZELL,Lockhart,TX,52:31,Intelligensia Allied
 8,394811,Adam,TINGLER,Tulsa,OK,52:31,Oklahoma Bicycle Project
 9,140740,Norman,ZELLERS,Scott Air Force Base,IL,52:31,
 10,405620,Eric,FRANKLIN,Tulsa,OK,52:31,Oklahoma Bicycle Project
@@ -353,7 +353,7 @@ DNF,175928,Chad,HODGES,Moore,OK,,DNA Racing
 07/08/2017 Criterium Men Cat 5
 Place,License #,First,Last,City,State,Time,Team
 1,514843,Craig,CHINCHILLA JR,Glen Ellyn,IL,32:42,Team Got Wind?
-2,500899,Tyler,KENYON,Oakland ,TN,32:54,901 Racing
+2,500899,Tyler,KENYON,Oakland,TN,32:54,901 Racing
 3,523199,Kyle,MILLER,Tulsa,OK,32:54,
 4,406962,Joshua,Reasor,Tulsa,OK,32:54,Phat Tire Road and Gravel
 5,519317,Todd,GILL,Fayetteville,AR,32:55,
@@ -415,7 +415,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,496914,Martial,TRIGEAUD,Little Rock,AR,49:10,Central Arkansas Velo/CARVE
 2,441131,Trevor,FINE,Duncan,OK,49:10,Tulsa Wheelmen
 3,489826,Will,PETERSON,Wichita,KS,49:11,GP Velotek
-4,466674,Brandon,WOLD,Oklahoma City,OK,49:12,DNA Racing
+4,466674,Brandon,WOLD,Andover,MN,49:12,DNA Racing
 5,353500,Kendall,WIEBE,Wichita,KS,49:13,GP Velotek
 6,485014,Bryce,FULTON,Tulsa,OK,49:13,SoundPony
 7,390503,Scott,HALL,Maumelle,AR,49:13,
@@ -430,7 +430,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,474071,Max,TUCKER,Little Rock,AR,49:15,Experience Fayetteville Cycling
 17,396059,Adolfo,CORDOVA,Little Rock,AR,49:16,
 18,396556,Barret,RICHARDSON,Little Rock,AR,49:16,Unattached
-19,369559,Frederick,WILD,Midwest City,OK,49:16,DNA Racing
+19,369559,Frederick,WILD,Okc,OK,49:16,DNA Racing
 20,473188,Neil,SIMMONS,Little Rock,AR,49:16,Pinnacle Velo
 21,318384,Viet,HOANG,Derby,KS,49:16,GP Velotek
 22,423720,Joseph,PARDUE,Fayetteville,AR,49:16,Breakaway Cycling Club - NWA
@@ -451,7 +451,7 @@ Place,License #,First,Last,City,State,Time,Team
 07/08/2017 Criterium Women Cat Pro/1/2/3
 Place,License #,First,Last,City,State,Time,Team
 1,301155,Scotti,LECHUGA,Little Rock,AR,49:24,UCI WPT: Hagens Berman | Superm
-2,509477,Peta,MULLENS,Tulsa,OK,49:53,Hagens Bergen Supermint
+2,509477,Peta,MULLENS,Oceanside,CA,49:53,Hagens Bergen Supermint
 3,36345,Laura,VAN GILDER,Cresco,PA,49:54,Mellow Mushroom p/b Psimet
 4,384315,Payten,MANESS,Flower Mound,TX,49:54,Papa John's P/D Trek
 5,409302,Laurel,ROBERTS,Tulsa,OK,49:55,Air Assurance/ABV Bank
@@ -475,13 +475,13 @@ Place,License #,First,Last,City,State,Time,Team
 3,484457,Jessica,BROOKS,Fayetteville,AR,31:58,
 4,515516,Lydia,CHINCHILLA,Glen Ellyn,IL,31:59,
 5,480100,Molly,BENTON,Olathe,KS,31:59,Midwest Cycling Trek Stores Wom
-6,506931,Finn,TAYLOR,Tulsa,OK,31:59,Yoga Box Racing p/b Transitions
+6,506931,Finn,TAYLOR,Fayetteville,AR,31:59,Yoga Box Racing p/b Transitions
 7,384153,Severine,TOURNADRE,Leawood,KS,31:59,Women's Free State Racing
 8,300761,Barbara,MARIANI,Littlerock,AR,32:00,Pinnacle Velo
 9,487857,April,MEYER,Tulsa,OK,32:00,Pandemonium Cycling p/b Hodges
 10,420099,Lisa,DEMARNI CROMER,Jenks,OK,32:01,Team isocentric
 11,334778,Esther,THAIS,Jenks,OK,32:01,Team isocentric
-12,410651,Sara,LITTLEMASTERSON,Bentonville,AR,32:01,
+12,410651,Sara,LITTLEMASTERSON,Virginia Beach ,VA,32:01,
 13,424982,Marianne,MELLING,Lawrence,KS,32:07,GP Velotek
 14,499581,Leigh Ann,FIELDS,Tulsa,OK,32:13,Pandemonium Cycling p/b Hodges
 15,454572,Maddie,WILLIS,Oklahoma City,OK,32:19,Yoga Box Racing p/b Transitions
@@ -502,7 +502,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,510772,Jonathan,CHINCHILLA,Glen Ellyn,IL,26:32,Team Got Wind?
 9,416297,William,VANDERHOFF,Centerton,AR,27:31,Bentonville Racing
 10,486790,Charlie,HUNTER,Fayetteville,AR,24:18,Breakaway Cycling Club - NWA
-11,388289,Tayton,PARKER,Jenks,OK,25:57,Air Assurance Devo P/b Spoke Ho
+11,388289,Tayton,PARKER,Tulsa,OK,25:57,Air Assurance Devo P/b Spoke Ho
 12,535264,Marie,BROWN,Fayetteville,AR,26:33,Breakaway Cycling Club - NWA
 13,536025,Sebastian,NICHOLS,Texarkana,TX,26:42,
 14,524095,Owen,DIXON,Fayetteville,AR,28:04,
@@ -515,7 +515,7 @@ DNF,525988,Jadden,MOOTY,Little Rock,AR,,Leborne
 
 07/07/2017 Criterium Men CAT PRO/1/2
 Place,License #,First,Last,City,State,Time,Team
-1,342402,Kevin,GIRKINS,Austin,TX,1:10:33,ELBOWZ Racing p/b Synergy.O
+1,342402,Kevin,GIRKINS,San Marcos,TX,1:10:33,ELBOWZ Racing p/b Synergy.O
 2,331782,Tony,BACA,Austin,TX,1:10:36,ELBOWZ Racing p/b Synergy.O
 3,222021,Emile,ABRAHAM,Atlanta,GA,1:10:36,Pharmaco-DeepSouth p/b NGCA
 4,527248,Cesar,SERNA,Aguascalientes,AG,1:10:36,Oklahoma Bicycle Project
@@ -532,7 +532,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,260604,Brandon,MELOTT,Warr Acres,OK,1:10:56,JE Dunn Elite Road Racing
 16,15149,Chris,HARRE,Webster Groves,MO,1:11:00,Pastaria - Big Shark Racing Tea
 17,532021,William,HODGES,,,1:11:09,GPM Stulz
-18,526732,Cullen,BROWNE,,,,Oklahoma Bicycle Project
+18,534570,Cullen,BROWNE,Tulsa,OK,,Oklahoma Bicycle Project
 19,414951,Jacob,HENLEY,Chattanooga ,TN,,Pharmaco-DeepSouth p/b NGCA
 20,240838,John,RYAN,North Richland Hills,TX,,Matrix/RBM
 21,412295,Darel,CHRISTOPHER,Forest Park,GA,,Pharmaco-DeepSouth p/b NGCA
@@ -581,10 +581,10 @@ Place,License #,First,Last,City,State,Time,Team
 24,430406,Victor,GUREL,Fayetteville,AR,35:15,Tyson Foods Cycling Team
 25,497853,Jeremy,DUCKWORTH,Rogers,AR,35:16,Team BMC
 26,523857,Eric,MONTE,Hot Springs,AR,35:18,
-27,500899,Tyler,KENYON,Oakland ,TN,35:27,901 Racing
+27,500899,Tyler,KENYON,Oakland,TN,35:27,901 Racing
 28,393186,Shawn,HAYDEN,Springfield,MO,35:28,Kuat Trek P/B A&B Cycle
 29,432045,Josh,TEAL,Maumelle,AR,36:03,
-30,537039,Sebastian,GOMILA,Bentonville,AR,36:04,
+30,537039,Sebastian,GOMILA,Centerton,AR,36:04,
 31,525743,Jacob,BOONE,Little Rock,AR,36:04,University of Arkansas Cycling
 32,172468,Robert,PEARCE,Farmington,AR,36:04,Experience Fayetteville Cycling
 33,0,Podden,MOODY,,,36:05,Leborne
@@ -611,7 +611,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,509559,Blake,BROWN,Jenks,OK,54:43,Experience Fayetteville Cycling
 8,474071,Max,TUCKER,Little Rock,AR,54:47,Experience Fayetteville Cycling
 9,489826,Will,PETERSON,Wichita,KS,54:48,GP Velotek
-10,466674,Brandon,WOLD,Oklahoma City,OK,54:48,DNA Racing
+10,466674,Brandon,WOLD,Andover,MN,54:48,DNA Racing
 11,482118,Timothy,PALYUKH,Lewisville,TX,54:48,Bicycles Plus Racing
 12,391064,Andrew,TOWNSEND,Little Rock,AR,54:48,Central Arkansas Velo/CARVE
 13,149137,Thomas,NADEN,Wichita,KS,,GP Velotek
@@ -639,7 +639,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,175928,Chad,HODGES,Moore,OK,38:49,DNA Racing
 4,290477,Andy,CHASTEEN,Oklahoma City,OK,38:50,DNA Racing
 5,47037,Peter,BELAND,Little Rock,AR,38:54,Walmart/GPP Cycling Team
-6,530396,Jarrod,MORONI,,,39:01,Moronis Bikes
+6,530396,Jarrod,MORONI,Oceanside,CA,39:01,Moronis Bikes
 7,112874,Eric,WARDEN,Flower Mound,TX,39:01,Team Giant Lakeside p/b MINI of
 8,161436,Jess,PARKER,Tulsa,OK,39:01,Air Assurance Devo
 9,10804,Joe,ENGEL,Fort Smith,AR,39:02,Walmart/GPP Cycling Team
@@ -648,7 +648,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,53972,Ernesto,Lechuga,Little Rock,AR,39:03,Leborne
 13,439073,Kurt,JAMBRETZ,Palm Beach,FL,39:04,Cyberdyne Systems
 14,294228,Aaron,HIGHFILL,Choctaw,OK,39:07,DNA Racing
-15,392104,Doug,Zell,Little Rock ,AR,39:12,Intelligentsia - Allied
+15,392104,Doug,Zell,Lockhart,TX,39:12,Intelligentsia - Allied
 16,425922,Christopher,DAKIN,Bixby,OK,,Air Assurance Devo P/b Spoke Ho
 17,405620,Eric,FRANKLIN,Tulsa,OK,,Oklahoma Bicycle Project
 18,218197,James,GILLUM,Little Rock,AR,,
@@ -663,7 +663,7 @@ DNF,199458,Janne,HAMALAINEN,Tulsa,OK,,Tulsa Wheelmen
 07/07/2017 Criterium Women CAT PRO/1/2/3
 Place,License #,First,Last,City,State,Time,Team
 1,301155,Scotti,LECHUGA,Little Rock,AR,48:23,UCI WPT: Hagens Berman | Superm
-2,509477,Peta,MULLENS,Tulsa,OK,48:50,Hagens Bergen Supermint
+2,509477,Peta,MULLENS,Oceanside,CA,48:50,Hagens Bergen Supermint
 3,529694,Danielydelvalle,GARCIA,,TX,48:52,Dallas Racing
 4,384315,Payton,MANESS,Flower Mound,TX,@1Lap,Papa Johns P/D Trek
 5,381993,Solymar,RIVERA,Dallas,TX,@1Lap,Sun & Ski Women's Racing

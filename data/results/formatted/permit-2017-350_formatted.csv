@@ -13,7 +13,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,0,Ali,Al-Ethway,,,,University of British Columbia
 10,524083,Teddy,Crane,Kirkland,WA,,University of Washington
 11,0,John,Park,,,,University of British Columbia
-12,455116,Kyle,Olson,Bozeman,MT,,Montana State University
+12,455116,Kyle,Olson,Mahtomedi,MN,,Montana State University
 13,526634,Wyatt,Smith,Missoula,MT,,University of Montana
 14,272280,Griffin,Wigert,Petaluma,CA,,Montana State University
 15,525821,Jacob,Goldsmith,Orinda,CA,,University of Oregon
@@ -58,12 +58,12 @@ Place,License #,First,Last,City,State,Time,Team
 12,525328,Jeevan,Philip,Seattle,WA,,University of Washington
 13,455091,Scott,Sturges,Moscow,ID,,University of Idaho
 14,356098,Ethan,Pearl,Franklin,MA,,Montana State University
-15,292267,Brian,Hannibal,Rathdrum,ID,,University of Idaho
+15,292267,Brian,Hannibal,Moscow,ID,,University of Idaho
 16,525009,Josh,Embury,Seattle,WA,,University of Washington
 17,411596,Adam,Choate,Arlington,VA,,University of Oregon
 18,487589,Nicholas,Rotter,Seattle,WA,,Washington State University
 19,525863,Ian,Morelan,Corvallis,OR,,Oregon State University
-20,525114,Jordan,Chapman,Moscow,ID,,University of Idaho
+20,525114,Jordan,Chapman,Lenore,ID,,University of Idaho
 21,499314,Jonathan,Lee,Bellingham,WA,,Western Washington University
 22,461090,Austin,Ellerbruch,Corvallis,OR,,Oregon State University
 23,498067,Ozzy,Tejeda,Bellevue,WA,,University of Washington
@@ -79,7 +79,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,253603,Ian,Haupt,Whitefish Bay,WI,,Western Washington University
 5,416480,Phillip,Kearns,Lake Oswego,OR,,University of Idaho
 6,0,Blair,Van Andel,,,,University of British Columbia
-7,416923,Scott,Miller,Kent,WA,,University of Washington
+7,416923,Scott,Miller,Layton,UT,,University of Washington
 8,507281,Jonathan,Popescu,Pullman,WA,,Washington State University
 9,458812,Timothy,Welsh,Seattle,WA,,University of Washington
 10,412456,Josiah,Poler,Spokane,WA,,Eastern Washington University
@@ -87,7 +87,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,471780,Scott,Allen,Otis Orchards,WA,,Eastern Washington University
 13,502243,Sean,Henry,,,,University of British Columbia
 14,397137,Charles,Forwood,Eugene,OR,,University of Oregon
-15,423956,James,Labayen,Bellingham,WA,,Western Washington University
+15,423956,James,Labayen,Lakewood,WA,,Western Washington University
 16,310504,Zander,Guzy-Sprague,Walla Walla,WA,,Whitman College
 17,422918,Alexander,Viray,Portland,OR,,Portland State University
 18,251353,David,OBrien,Olympia,WA,,WWU Cycling Team
@@ -108,13 +108,13 @@ Place,License #,First,Last,City,State,Time,Team
 3,494376,Rachel,Thody,Bellingham,WA,,Western Washington University
 4,503370,Margaux,McBirney,Sandpoint,ID,,Washington State University
 5,423948,Kory,Bisset,Bellingham,WA,,Western Washington University
-6,330648,Maddie,Ortenblad,Walla Walla ,WA,,Whitman College
+6,330648,Maddie,Ortenblad,Walla Walla,WA,,Whitman College
 7,526786,Katerine,McCahan,Bozeman,MT,,Montana State University
 8,524402,Katherine,Berreman,Bellingham,WA,,Western Washington University
 
 04/16/2017 Criterium Women A Collegiate
 Place,License #,First,Last,City,State,Time,Team
-1,298454,Fiona,Bennitt,Bellevue,WA,,Whitman College
+1,298454,Fiona,Bennitt,Walla Walla,WA,,Whitman College
 2,424669,Sophie,Andrews,Bend,OR,,University of Oregon
 3,285753,Shannon,Mallory,Bellingham,WA,,University of Washington
 4,496425,Jessica,Hild,Seattle,WA,,University of Washington
@@ -140,7 +140,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,522603,Collin,Faunt,Portland,OR,,Whitman College
 18,411157,Joseph,Flannery,San Francisco,CA,,Portland State University
 19,524529,Hayden,Ton,Corvallis,OR,,Oregon State University
-20,455116,Kyle,Olson,Bozeman,MT,,Montana State University
+20,455116,Kyle,Olson,Mahtomedi,MN,,Montana State University
 21,524962,Roman,Rositani,Corvallis,OR,,Oregon State University
 22,525821,Jacob,Goldsmith,Orinda,CA,,University of Oregon
 23,525874,Elliott,Sher,Moscow,ID,,University of Idaho
@@ -176,7 +176,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,525863,Ian,Morelan,Corvallis,OR,,Oregon State University
 11,455091,Scott,Sturges,Moscow,ID,,University of Idaho
 12,522631,Zackery,Weimer,Shelburne,VT,,Lewis & Clark College
-13,292267,Brian,Hannibal,Rathdrum,ID,,University of Idaho
+13,292267,Brian,Hannibal,Moscow,ID,,University of Idaho
 14,525009,Josh,Embury,Seattle,WA,,University of Washington
 15,397430,Michael,Tankus,Corvallis,OR,,Oregon State University
 16,499951,Brady,Schmitt,Bellingham,WA,,Western Washington University
@@ -202,7 +202,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,354994,Benjamin,Peterson,Seattle,WA,,Western Washington University
 9,507281,Jonathan,Popescu,Pullman,WA,,Washington State University
 10,467792,Theo,Floor,Bellingham,WA,,Western Washington University
-11,416923,Scott,Miller,Kent,WA,,University of Washington
+11,416923,Scott,Miller,Layton,UT,,University of Washington
 12,310504,Zander,Guzy-Sprague,Walla Walla,WA,,Whitman College
 13,422918,Xander,Viray,Portland,OR,,Portland State University
 DNF,0,UNKNOWN,,,,,
@@ -225,14 +225,14 @@ Place,License #,First,Last,City,State,Time,Team
 4,526003,Corinna,Lowe,Seattle,WA,,University of Washington
 5,469113,Jamie,Kenney,Spokane,WA,,Eastern Washington University
 6,524402,Katherine,Berreman,Bellingham,WA,,Western Washington University
-7,330648,Maddie,Ortenblad,Walla Walla ,WA,,Whitman College
+7,330648,Maddie,Ortenblad,Walla Walla,WA,,Whitman College
 8,423948,Kory,Bisset,Bellingham,WA,,Western Washington University
 9,526786,Katerine,McCahan,Bozeman,MT,,Montana State University
 
 04/15/2017 Road Race Women A Collegiate
 Place,License #,First,Last,City,State,Time,Team
 1,424669,Sophie,Andrews,Bend,OR,,University of Oregon
-2,298454,Fiona,Bennitt,Bellevue,WA,,Whitman College
+2,298454,Fiona,Bennitt,Walla Walla,WA,,Whitman College
 3,496425,Jessica,Hild,Seattle,WA,,University of Washington
 DNF,0,UNKNOWN,,,,,
 

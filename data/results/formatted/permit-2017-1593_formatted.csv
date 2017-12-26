@@ -14,7 +14,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,383138,Blane,Maddox,Blacksburg,VA,,Kelly Benefit Strategies Elite
 12,401536,Josh,Craig,Richmond,VA,,
 13,380149,Logan,Jones-Wilkins,Charlottesville,VA,,Kelly Benefit Strategies Elite
-14,392452,Jeremy,Burkhardt,Baltimore,MD,,C3-Twenty20cycling.com
+14,392452,Jeremy,Burkhardt,Washington,DC,,C3-Twenty20cycling.com
 15,240153,Glenn,Ferreira,Manville,NJ,,Team Metra / Xrcel / Cycles 54
 16,257603,Donald,Brew,Temple Hills,MD,,Team Beyer Auto
 17,30220,Stephen,Robinson,Arlington,VA,,Battley Harley-Davidson
@@ -26,7 +26,7 @@ Place,License #,First,Last,City,State,Time,Team
 23,301814,George,Schulz,Alexandria,VA,,Kelly Benefit Strategies/LSV
 24,392529,Brian,Sciba,Tallahassee,FL,,Kelly Benefit Strategies Elite
 25,201836,Marc,Klein,Arlington,VA,,NCVC/UnitedHealthcare
-26,341040,Eran,Preble,Philadelphia ,PA,,PTS Racing
+26,341040,Eran,Preble,Newark,DE,,PTS Racing
 27,13480,Tom,Godfrey,Arlington,VA,,NCVC/UnitedHealthcare
 28,354108,John,Dove,Springfield,VA,,DistrictTaco Racing
 29,385294,Ethan,Greenberg,Baltimore,MD,,Kelly Benefit Strategies/LSV
@@ -46,7 +46,7 @@ Place,License #,First,Last,City,State,Time,Team
 43,284009,Samuel,James,Blacksburg,VA,,Kelly Benefit Strategies Elite
 44,341396,Christopher M.,Jones,Greenbelt,MD,,Arrow Bicycle
 45,58598,Dave,Fuentes,Herndon,VA,,Evolution Cycling Club p/b Long & Foster
-46,299925,Chad,Capobianco,Watkinsville,GA,,
+46,299925,Chad,Capobianco,Aldie,VA,,
 47,498826,Anthony,Murfett,Arlington,VA,,District Velocity Racing p/b Bicycle Pro Shop
 48,497730,Andrew,Idell,Newark,DE,,
 49,429497,Christopher,Rothermel,Alexandria ,VA,,DistrictTaco Racing
@@ -62,7 +62,7 @@ DNP,344644,Matthew,Fischel,Hockessin,DE,,PTS Racing
 DNP,361815,Roscoe,Leslie,Laurel,DE,,Ocean Velo Club
 DNP,369115,Chris,Brennan,Alexandria,VA,,VeloWorks-Spokes Etc
 DNP,390975,Laraib,Laubach,Kensington,MD,,Rock Creek Velo
-DNP,392452,Jeremy,Burkhardt,Baltimore,MD,,C3-Twenty20cycling.com
+DNP,392452,Jeremy,Burkhardt,Washington,DC,,C3-Twenty20cycling.com
 DNP,394179,Gabriel,Morgan,Richmond,VA,,Liberty Cycle
 DNP,396300,Osiris,Hoil,Arlington,VA,,DistrictTaco Racing
 DNP,413162,Justin,Markunas,Washington,DC,,VeloWorks-Spokes Etc
@@ -83,7 +83,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,0,Tony,Leong,,,,
 3,293342,Nick,Cordaro,Arlington,VA,,DistrictTaco Racing
 4,472414,Torrence,Rogers,Virginia Beach,VA,,
-5,320586,Cameron,Quick,Gaithersburg ,MD,,Phase Cycling
+5,320586,Cameron,Quick,Gaithersburg,MD,,Phase Cycling
 6,459726,Andrew,McLaren,Alexandria,VA,,VeloWorks-Spokes Etc
 7,495778,Noel,Medrano,Richmond,VA,,
 8,499360,Michael,Waltman,Washington,DC,,DistrictTaco Racing
@@ -92,7 +92,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,484201,Krzysztof,Jedrzejewski,Springfield,VA,,Whole Wheel Velo Club
 12,414984,Samuel,Santos,Philadelphia,PA,,Fuji Bikes - TiC
 13,497860,Chris,MuLee,Gainesville,VA,,Whole Wheel Velo Club
-14,393654,Steve,Dorst,Arlington,VA,,Squadra Coppi
+14,393654,Steve,Dorst,Rancho Palos Verdes,CA,,Squadra Coppi
 15,498113,Nick,Taylor,Mt Rainier,MD,,DistrictTaco Racing
 16,484964,Anthony,Carter,Waldorf,MD,,Getting It In Cyclists Inc
 17,540106,Darren,David,Rockville,MD,,
@@ -104,13 +104,13 @@ Place,License #,First,Last,City,State,Time,Team
 23,489777,Usman,Zafar,Arlington,VA,,DistrictTaco Racing
 24,315322,Matthew,Bunting,Hedgesville,WV,,Team Integrity
 25,0,David,Lopez,,,,
-26,513067,Sjoert,van Velzen,Baltimore,MD,,Team BBC
+26,513067,Sjoert,van Velzen,New York,NY,,Team BBC
 27,64277,Scott,Coulter,Fairfax Sta,VA,,
 28,526975,John,Moore,Waldorf,MD,,Getting It In Cyclists
 29,527773,Miles,Dawkins,Richmond,VA,,
 30,265541,Terry,Fuller,Manassas,VA,,NCVC/UnitedHealthcare
 31,510887,Brendan,McConnaughay,Mclean,VA,,NCVC/UnitedHealthcare
-32,498679,IRVIN,GREEN,Gwynn Oak,MD,,
+32,498679,IRVIN,GREEN,Gwynn Oak Md,MD,,
 33,480090,Brian,Phipps,Jessup,MD,,Getting It In Cyclists
 34,433191,Juan,Constanza,Lanham,MD,,Phase Cycling
 35,300362,Mike,Hoffman,York,PA,,C3-Twenty20cycling.com
@@ -139,8 +139,8 @@ Place,License #,First,Last,City,State,Time,Team
 DNP,459835,Frankie,Timmons,Georgetown,DE,,
 DNP,466632,Owen,Wilson,Washington,DC,,Phase Cycling
 DNP,489738,Erik,Argueta,Arlington,VA,,DistrictTaco Racing
-DNP,523481,Christopher,Kallapodi,Alexandria,VA,,Whole Wheel Velo Club
-DNP,524824,Chad,Melton,Wytheville,VA,,
+DNP,523481,Christopher,Kallapodi,Chicago,IL,,Whole Wheel Velo Club
+DNP,524824,Chad,Melton,Warrenton,VA,,
 DNP,0,BRIAN,ADAMS,,,,
 DNP,0,Christopher,Brown,,,,
 DNP,489743,Noe,Cuadra,Arlington,VA,,Phoenix Bikes
@@ -153,10 +153,10 @@ Place,License #,First,Last,City,State,Time,Team
 3,459060,Aaron,Black,W Hartford,CT,,Greater Hartford Cycling Club
 4,510164,William,Longwell,Arlington,VA,,NCVC/UnitedHealthcare
 5,458338,Nicholas,Latham,Silver Springs,MD,,
-6,467284,Michael,Anderson,Clinton ,MD,,Phase Cycling
+6,467284,Michael,Anderson,Clinton,MD,,Phase Cycling
 7,511454,Chris,Weddington,Washington,DC,,
 8,368927,Darion,Jackson,Randallstown,MD,,BMoreHumane p/b GVC
-9,496381,Chris,Hill,Hollywood,MD,,Team Bike Doctor
+9,496381,Chris,Hill,Lexington Park,MD,,Team Bike Doctor
 10,466632,Owen,Wilson,Washington,DC,,Phase Cycling
 11,208386,Paul,De Santis,Freeland,MD,,BMoreHumane p/b GVC
 12,347764,Sean,Chisham,Falls Church,VA,,VeloWorks-Spokes Etc
@@ -188,8 +188,8 @@ Place,License #,First,Last,City,State,Time,Team
 38,472414,Torrence,Rogers,Virginia Beach,VA,,
 39,405659,William,Wisseman,Oakton,VA,,PTS Racing
 40,369115,Chris,Brennan,Alexandria,VA,,VeloWorks-Spokes Etc
-41,497498,Charles,Pistole,Gainesville ,VA,,
-42,320586,Cameron,Quick,Gaithersburg ,MD,,Phase Cycling
+41,497498,Charles,Pistole,Locust Grove,VA,,
+42,320586,Cameron,Quick,Gaithersburg,MD,,Phase Cycling
 43,304035,Michael,Kirby,Alexandria,VA,,VeloWorks-Spokes Etc
 44,375090,Evan,Goldberg,Bethesda,MD,,Rock Creek Velo
 45,458001,Lucas,Beirne,Alexandria,VA,,NCVC/UnitedHealthcare
@@ -207,8 +207,8 @@ Place,License #,First,Last,City,State,Time,Team
 DNP,340302,Aidan,Dixon,Silver Spring,MD,,Rock Creek Velo
 DNP,413162,Justin,Markunas,Washington,DC,,VeloWorks-Spokes Etc
 DNP,429497,Christopher,Rothermel,Alexandria ,VA,,DistrictTaco Racing
-DNP,468171,Tim,Vandish,Arlington,VA,,NCVC/UnitedHealthcare
-DNP,523481,Christopher,Kallapodi,Alexandria,VA,,Whole Wheel Velo Club
+DNP,468171,Tim,Vandish,Alexandria,VA,,NCVC/UnitedHealthcare
+DNP,523481,Christopher,Kallapodi,Chicago,IL,,Whole Wheel Velo Club
 
 05/21/2017 Criterium Men junior 11 - 12
 Place,License #,First,Last,City,State,Time,Team
@@ -312,13 +312,13 @@ Place,License #,First,Last,City,State,Time,Team
 7,354108,John,Dove,Springfield,VA,,DistrictTaco Racing
 8,59226,Harry,Fang,Chevy Chase,MD,,NCVC/UnitedHealthcare
 9,534093,Damjan,Novoselnik,Olney,MD,,All American Bicycle Center
-10,496381,Chris,Hill,Hollywood,MD,,Team Bike Doctor
+10,496381,Chris,Hill,Lexington Park,MD,,Team Bike Doctor
 11,361815,Roscoe,Leslie,Laurel,DE,,Ocean Velo Club
 12,222263,Ray,Plewacki,Fairfax,VA,,Evolution Cycling Club p/b Long & Foster
 13,177961,Craig,Snydal,Ellicott City,MD,,Kelly Benefit Strategies/LSV
 14,498826,Anthony,Murfett,Arlington,VA,,District Velocity Racing p/b Bicycle Pro Shop
 15,472414,Torrence,Rogers,Virginia Beach,VA,,
-16,467284,Michael,Anderson,Clinton ,MD,,Phase Cycling
+16,467284,Michael,Anderson,Clinton,MD,,Phase Cycling
 17,297638,Patrick,Hogan,Riva,MD,,Team Bike Doctor
 18,58598,Dave,Fuentes,Herndon,VA,,Evolution Cycling Club p/b Long & Foster
 19,103640,John,Whittington,Silver Spring,MD,,Raw Talent Ranch Racing
@@ -331,7 +331,7 @@ DNP,174904,Brian,Weightman,Washington,DC,,National Capital Velo Club/UnitedHealt
 DNP,198408,Sean,Barrie,Washington,DC,,BATTLEY H-D /Spokes Etc
 DNP,259800,Jose,Nunez,Dumfries,VA,,Kelly Benefit Strategies/LSV
 DNP,459835,Frankie,Timmons,Georgetown,DE,,
-DNP,524824,Chad,Melton,Wytheville,VA,,
+DNP,524824,Chad,Melton,Warrenton,VA,,
 
 05/21/2017 Criterium Men Masters 45+
 Place,License #,First,Last,City,State,Time,Team
@@ -359,7 +359,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,64699,Pedro,Hijar,Reston,VA,,Kelly Benefit Strategies/LSV
 23,193800,Eli,Hengst,Washington,DC,,BATTLEY H-D /Spokes Etc
 24,282922,Michael,Thaxton,Annapolis,MD,,ABRT (Annapolis Bicycle Racing Team)
-25,320586,Cameron,Quick,Gaithersburg ,MD,,Phase Cycling
+25,320586,Cameron,Quick,Gaithersburg,MD,,Phase Cycling
 26,54799,Darek,Bushnaq,Baltimore,MD,,Kelly Benefit Strategies/LSV
 27,466549,David,Hearn,Bethesda,MD,,American Velo Club
 28,171051,Robert,Helms,Baltimore,MD,,Kelly Benefit Strategies/LSV
@@ -417,7 +417,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,298855,Michele,Scherer,Stephens City,VA,,
 5,404266,Shequaya,Bailey,Pittsburgh,PA,,Conemaugh Women’s Racing
 6,392393,Kaitlyn,Mittan,Alexandria,VA,,VeloWorks-Spokes Etc
-7,476619,Paige,Kostanecki,Charottesville,VA,,Blue Ridge Cyclery Racing p/b Reynolds G
+7,476619,Paige,Kostanecki,Charlottesville,VA,,Blue Ridge Cyclery Racing p/b Reynolds G
 8,231948,Sue,McQuiston,Reisterstown,MD,,ABRT (Annapolis Bicycle Racing Team)
 9,15086,Marni,Harker,Washington,DC,,Colavita Midatlantic Women's Team
 10,61179,JENNIFER,MAXWELL,Silver Spring,MD,,Colavita Midatlantic Women's Team
@@ -434,9 +434,9 @@ Place,License #,First,Last,City,State,Time,Team
 8,0,Hall,Rachael,,,,
 9,413898,Cassie,Bopf,Bethesda,MD,,Rock Creek Velo
 10,480842,Amanda,Beirne,Alexandria,VA,,NCVC/UnitedHealthcare
-11,443460,Gina,Grinstead,Baltimore,MD,,Team BBC
+11,443460,Gina,Grinstead,Philadelphia,PA,,Team BBC
 12,489507,Sarah,Toth Johnson,Savage,MD,,Kelly Benefit Strategies/LSV
-13,290222,Jenna,Latour-Nichols,Mclean ,VA,,
+13,290222,Jenna,Latour-Nichols,Mclean,VA,,
 14,513175,Ashlee,Nelson,Chester,VA,,
 15,350202,Becca,Brown,New York,NY,,Team Veselka p/b Cafe Grumpy
 16,529628,Melissa,Pieragostini,Mont Clare,PA,,Sturdy Girl Cycling Club & Race Team
@@ -452,11 +452,11 @@ Place,License #,First,Last,City,State,Time,Team
 1,272062,Svetlana,Mack,Silver Spring,MD,,Rock Creek Velo
 2,309599,Renee,Roth,Germantown,MD,,Artemis Racing
 3,496727,Michelle,Ritondo,Philadelphia,PA,,Mathletes Racing
-4,252502,Marion,Palmieri,Yorktown ,VA,,Mermaid Winery
+4,252502,Marion,Palmieri,Yorktown,VA,,Mermaid Winery
 5,0,Josephine,VanLoozen,,,,
 6,455230,Chelsea,Richwine,Arlington,VA,,
 7,220922,Christine,Fuentes,Herndon,VA,,Evolution Cycling Club p/b Long & Foster
-8,307556,Lisa,Jancy,Arlington,VA,,Team Sticky Fingers
+8,307556,Lisa,Jancy,Alexandria,VA,,Team Sticky Fingers
 
 05/21/2017 Criterium Women Junior 11-12
 Place,License #,First,Last,City,State,Time,Team

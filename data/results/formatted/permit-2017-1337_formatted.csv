@@ -29,7 +29,7 @@ Place,License #,First,Last,City,State,Time,Team
 25,0,Ben,Renkema,,,,Palmetto State Medical Elite Cycling Team
 26,387697,Owen,Shott,Jacksonville Beach,FL,,Velobrew-AV Homes
 27,0,Roderyck,Asconeguy,,,,SOUTHERN CRESCENT CYCLING/EDA
-28,211435,zack,allison,Fort Collins ,CO,,Team Clif Bar
+28,211435,zack,allison,Fort Collins,CO,,Team Clif Bar
 29,295295,Ian,Baun,Pittsburgh,PA,,Cyclus Sports
 30,0,Jean-Simon,D'Anjou,,,,GARNEAU QUEBECOR
 31,0,Corey,Davis,,,,Support Clean Sport / SeaSucker / Guttenplan Coaching
@@ -81,9 +81,9 @@ Place,License #,First,Last,City,State,Time,Team
 77,296101,Frank,Cundiff,North Chesterfield,VA,,0
 78,255729,Charlie,Hough,Travelers Rest,SC,,Chainheart Cycling Development Team
 79,0,Simon,Jones,,,,Hot Tubes
-80,374617,Chad,Conley,Cartersville,GA,,Pharmaco-Deep South p/b NGCA
+80,374617,Chad,Conley,Atlanta,GA,,Pharmaco-Deep South p/b NGCA
 81,0,David,Dawson,,,,Team Skyline
-82,2443,John,Balmer,Indianapolis ,IN,,#N/A
+82,2443,John,Balmer,Indianapolis,IN,,#N/A
 83,191703,Thomas,Brown,Athens,GA,,Team Type 1 Foundation
 84,310312,Eric,Serantoni,Charlotte,NC,,Nine Lives Carbon Repair
 85,161263,Ryan,Knapp,Bloomington,IN,,First Internet Bank Cycling
@@ -92,7 +92,7 @@ Place,License #,First,Last,City,State,Time,Team
 88,237586,Kevin,Mullervy,Centennial,CO,,Team Clif Bar
 89,275823,Isaac,Strickland,Newnan,GA,,Ridley Masters Team p/b Reality bikes
 90,399650,Brock,Mason,Athens,GA,,Pharmaco-Deep South p/b NGCA
-91,231409,Lucas,Fortini,Fairfield,CT,,RACE CF
+91,231409,Lucas,Fortini,Arlington,MA,,RACE CF
 92,119871,Joshua,Friedman,Pittsburgh,PA,,GREEN LINE VELO driven by Zipcar
 93,0,sean,weddell,,,,Monster Media Racing
 94,188572,Andrew,Dahlheim,Greenville,SC,,Arapahoe Resources
@@ -114,7 +114,7 @@ Place,License #,First,Last,City,State,Time,Team
 110,214122,Michael,Shinall,Cambridge,MA,,GREEN LINE VELO driven by Zipcar
 111,413700,Kyle,Danner,Greenville,SC,,Cycle Haus Racing
 112,52491,Gen,Kogure,Asheville,NC,,Velosports Racing Asheville
-113,299251,Justin,McQuerry,Athens,GA,,Team Novo Nordisk Development
+113,299251,Justin,McQuerry,Austin,TX,,Team Novo Nordisk Development
 114,203014,chris,harrigan,Greer,SC,,Cycle Haus
 
 04/28/2017 Criterium Men Cat 4/5
@@ -173,7 +173,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,234564,Peter,Goguen,Hopedale,MA,,RACE CF
 11,211248,Steve,Cullen,Seattle,WA,,0
 12,352948,Colin,Cavaliere,Concord,NC,,Cyclus Sports
-13,175537,Cliff,Kugler,Simpsonville ,SC,,Cycle Haus Racing
+13,175537,Cliff,Kugler,Simpsonville,SC,,Cycle Haus Racing
 14,75614,Marcus,Morgan,Charlotte,NC,,Atlantic Velo
 15,424059,Steven,Ramirez,Cambridge,MA,,Monster Media Racing p/b Butche
 16,508242,Seth,Callahan,Monroe,GA,,Frazier Cycling
@@ -184,7 +184,7 @@ Place,License #,First,Last,City,State,Time,Team
 21,425178,Colin,Kalescky,Clinton,TN,,United States Military Enduranc
 22,393312,Cliff,Mueller,Cornelius,NC,,HC Devo Elite p/b Monster Media
 23,413726,nick,bruskewitz,Austin,TX,,Monster Media
-24,299925,Chad,Capobianco,Watkinsville,GA,,District Taco
+24,299925,Chad,Capobianco,Aldie,VA,,District Taco
 25,228233,Chad,Salla,Greenville,SC,,Team Greenville Health System
 26,361472,Cal,Ford,Spartanburg,SC,,Gibbs Cancer Center Cycling
 27,256997,Josh,West,Gainesville,FL,,0
@@ -235,7 +235,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 04/28/2017 Criterium Men Masters 45+
 Place,License #,First,Last,City,State,Time,Team
-1,46770,Brian,Teipen,Alpharetta,GA,,Ridley Masters
+1,46770,Brian,Teipen,Milton,GA,,Ridley Masters
 2,290271,Matthew,Tebbetts,Greenville,SC,,Crosstown Velo
 3,0,Tom,Godfrey,,,,NCVC/UnitedHealthcare
 4,368468,Ernie,Pena,Tampa,FL,,FloridaVelo
@@ -245,11 +245,11 @@ Place,License #,First,Last,City,State,Time,Team
 8,22206,Tony,Maisto,Lutz,FL,,FloridaVelo
 9,289531,didier,FRESNE,Lutz,FL,,florida velo
 10,196540,Pablo,Santa Cruz,Safety Harbor,FL,,FloridaVelo
-11,197646,Tim,Borsetti,Hendersonville,NC,,Cycles 54/XRCEL
+11,197646,Tim,Borsetti,Central,SC,,Cycles 54/XRCEL
 12,66736,John,James,Travelers Rest,SC,,Masters Cycling Systems LLC.
 13,0,Greg,Brown,,,,Giovanni's Tile Design p/b Rosw
 14,314822,Lino,Asiatico,Sharpsburg,GA,,Southern Crescent Cycling
-15,50781,Todd,Mion,Greenville ,SC,,RTO National Cycling
+15,50781,Todd,Mion,Greenville,SC,,RTO National Cycling
 16,422867,David,Tucker,Greenville,SC,,Cycle Haus Racing
 17,0,brian,davis,,,,Compass Cycling Racing Team
 18,361156,Charlie,Putnal,Flat Rock,NC,,Crosstown Velo
@@ -263,13 +263,13 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,535723,Rebecca,Wiasak,,,,Fearless Femme Racing
 2,41951,Tina,Pic,Bountiful,UT,,Papa John'sRacing p/b Trek
-3,509477,Peta,Mullens,Tulsa,OK,,Hagens Berman Supermint
+3,509477,Peta,Mullens,Oceanside,CA,,Hagens Berman Supermint
 4,36345,Laura,Van Gilder,Cresco,PA,,Mellow Mushroom Pizza Bakers p/
 5,509577,Rachel,Canning,,,,Fluevog's Crit Nasty
 6,397657,Laura,Jorgensen,Asheville,NC,,0
 7,475142,Sarah,Coney,,,,Fluevog Crit Nasty
 8,394701,Kimberly,Lucie,Tucson,AZ,,LA Sweat
-9,267467,Christy,Keely,Greenville ,SC,,Fearless Femme Racing
+9,267467,Christy,Keely,Greenville,SC,,Fearless Femme Racing
 10,89443,Tiffany,Pezzulo,Salt Lake City,UT,,LA Sweat
 11,417645,Kinley,Gibson,,,,The Cyclery p/b 4iiii
 12,424035,Cynthia,Frazier,Lexington,VA,,Velo Classic p/b Stan's NoTubes

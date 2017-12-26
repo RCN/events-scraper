@@ -13,10 +13,10 @@ Place,License #,First,Last,City,State,Time,Team
 9,107000,Ernest,Tautkus,Uncasville,CT,1:13:49,Capital Velo Club
 10,235572,Nate,Morse,Cohasset,MA,1:13:49,CCB - Velotooler
 11,273689,Cole,Archambault,Northampton ,MA,1:13:49,GREEN LINE VELO driven by Zipcar
-12,309018,Keith,Mullaly,Belmont,NC,1:13:49,Levine Law Group p/b Huseby
+12,309018,Keith,Mullaly,Wethersfield,CT,1:13:49,Levine Law Group p/b Huseby
 13,311527,Kenneth,McNeill,Rutland,VT,1:13:49,Cyclus Sports NY
 14,295708,Samuel,Morkal Williams,Briarcliff Manor,NY,1:13:49,Century Road Club Assoc
-15,231409,Lucas,Fortini,Fairfield,CT,1:13:49,RACE CF
+15,231409,Lucas,Fortini,Arlington,MA,1:13:49,RACE CF
 16,477589,Michael,Landry,New Haven,CT,1:13:49,CT Cycling Advancement Program
 17,302632,Joshua,Anderson,Topsfield,MA,1:13:49,CCB - Velotooler
 18,466366,Carlo,Quicho,Boston,MA,1:13:49,Monster Media Racing p/b ButcherBox
@@ -38,7 +38,7 @@ Place,License #,First,Last,City,State,Time,Team
 34,305134,Michael,Martin,Brooklyn,CT,1:13:49,B2C2/JRA Cycles
 35,214503,David,Maynard,Middletown,CT,1:13:49,Team ERRACE p/b DSO Manufacturing
 36,268843,Benjamin,Liang,Cambridge,MA,1:13:49,
-37,485904,Ken,Greim,Cambridge,MA,1:13:49,GREEN LINE VELO driven by Zipcar
+37,485904,Ken,Greim,Belmont,MA,1:13:49,GREEN LINE VELO driven by Zipcar
 38,438505,Kyle,Crowell,Prospect,CT,1:13:49,CT Cycling Advancement Program
 39,119871,Joshua,Friedman,Pittsburgh,PA,1:13:49,GREEN LINE VELO driven by Zipcar
 40,202213,Kyle,Smith,Acton,MA,1:13:49,Boston Racing Independent
@@ -62,7 +62,7 @@ Place,License #,First,Last,City,State,Time,Team
 58,164128,Aidan,Charles,Middletown,CT,1:13:49,CT Cycling Advancement Program
 59,5093,Joel,Brown,Saunderstown,RI,1:13:49,Clif Bar/Giordana
 60,314892,Ford,Murphy,Portsmouth,NH,1:13:49,Cyclus Sports
-61,387921,Alec,Hoover,Kingston ,NY,1:13:49,Team ERRACE p/b DSO Manufacturing
+61,387921,Alec,Hoover,Ripon,WI,1:13:49,Team ERRACE p/b DSO Manufacturing
 62,247838,Thomas,Barnett,Freehold,NJ,1:13:49,
 63,342082,Barry,Eyre,Saunderstown,RI,dnf,Scorpion Racing
 64,380239,Mark,Wendolowski,Hatfield,MA,dnf,Cyclonauts Racers
@@ -80,7 +80,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,416708,Max,Candidus,Weston,MA,14 points,Riverside Racing
 2,468175,Eric,Loehle,Georgetown,MA,11 points,
-3,511777,Logan,Williams,,,10 points,
+3,511777,Logan,Williams,Hopkinton,MA,10 points,
 4,431350,Leo,Candidus,Wayland,MA,10 points,Riverside Racing
 5,527971,Josh,Sollitto,Groton,CT,5 points,CLR Racing
 6,384352,Adam,Walton,Concord,MA,5 points,New England Devo p/b Cadence Wealth Management
@@ -111,7 +111,7 @@ Place,License #,First,Last,City,State,Time,Team
 31,509262,Jonathan,Falcetti,Indian Orchard,MA,,NCC
 32,523467,Ronan,Fay,Riverside,RI,,SVC/Bikeworks
 33,533581,Zacharya,Meszoely,Boston,MA,,Fat Kid Cardio Club
-34,522902,Samuel,Robinson,Medford,MA,,545 Velo
+34,522902,Samuel,Robinson,Brookline,MA,,545 Velo
 35,396294,Matthew,Rohr,Boston,MA,,Hup United
 36,264173,Thomas,Robert,Charlton,MA,,
 37,0,Vinny,Leonardo,,,,
@@ -123,7 +123,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,322222,Christopher,Cavallaro,Hamden,CT,0:41:27,
 4,456194,Travis,Wold,Berlin,MA,0:41:27,Spin Arts Cycling
 5,442889,Morgan,Rockett,Needham,MA,0:41:27,GREEN LINE VELO driven by Zipcar
-6,271529,Marshall,Johnson,North Stonington ,CT,0:41:27,CLR Racing
+6,271529,Marshall,Johnson,North Stonington,CT,0:41:27,CLR Racing
 7,368862,Maxwell,Nagel,Bedford,NH,0:41:27,GREEN LINE VELO driven by Zipcar
 8,6142,Eric J.,Carlson,Amherst,NH,0:41:27,Wheelworks Racing
 9,345510,Marc,Kingsley,Cooperstown,NY,0:41:27,CNYC/NYCM Insurance
@@ -155,23 +155,23 @@ Place,License #,First,Last,City,State,Time,Team
 35,168995,Ronald,Jacobs,Needham,MA,0:41:27,
 36,65025,Mike,Maloney,Chepachet,RI,0:41:27,Cyclonauts Racers
 37,305134,Michael,Martin,Brooklyn,CT,0:41:27,B2C2/JRA Cycles
-38,485904,Ken,Greim,Cambridge,MA,0:41:27,GREEN LINE VELO driven by Zipcar
+38,485904,Ken,Greim,Belmont,MA,0:41:27,GREEN LINE VELO driven by Zipcar
 39,142716,Mark,Thompson,Nashua,NH,0:41:27,
 40,113804,Damon,Lecompte,Lunenburg,MA,0:41:27,ncc
 41,403894,Kale,Wenczel,Leverett,MA,0:41:27,Joe's Garage
 42,355922,Jacob,Lipcon,Arlington,MA,0:41:27,Minuteman Road Club
 43,406156,Christian,Norvold,Berlin,MA,0:41:27,JAM / NCC
-44,147771,Colin,Reuter,Somerville,MA,0:41:27,B2C2 p/b JRA Cycles
+44,147771,Colin,Reuter,Leeds,MA,0:41:27,B2C2 p/b JRA Cycles
 45,255716,Chris,Cosgrove,East Greenwich,RI,0:41:27,SVC/Bikeworks
 46,316740,Danny,Saccoccio,Walpole,MA,0:41:27,SVC/Bikeworks
 47,443135,Ian,Stratton,Hudson,MA,,Optimum Performance
 48,466214,Brandon,Marshall,Boston,MA,,Rodeo Adventure Labs
 49,459060,Aaron,Black,W Hartford,CT,dnf,CENTRAL WHEEl/GHCC
 50,499823,Leland,Grigoli,Providence,RI,dnf,Brown University Cycling
-51,291216,Alexander,Duncan,Stonington,CT,dnf,Mystic Velo Club
+51,291216,Alexander,Duncan,Portage,MI,dnf,Mystic Velo Club
 52,311484,Samuel R,Hanford,Ivoryton,CT,dnf,CCAP
 53,391839,Brian,Haugli,Shrewsbury,MA,dnf,Minuteman Road Club
-54,408284,Mark,Hewitt,South Deerfield,MA,dnf,JAM / NCC
+54,408284,Mark,Hewitt,Mattapan,MA,dnf,JAM / NCC
 55,525181,Nicholas,Huber,Leopold,IN,dnf,GREEN LINE VELO driven by Zipcar
 56,438795,Dave,Mingori,Worcester,MA,dnf,Minuteman Road Club
 57,527971,Josh,Sollitto,Groton,CT,dnf,CLR Racing
@@ -184,9 +184,9 @@ Place,License #,First,Last,City,State,Time,Team
 2,214603,Loraine,Warner,Pelham,NH,0:54:29,
 3,345916,Melinda,Barnes,Waltham ,MA,0:54:29,Keep it Tight
 4,389391,Sara,Melikian,Watertown,MA,0:54:29,pedalpowertraining.com
-5,440531,Rebekka,Westrick,Fairfield,OH,0:54:29,
+5,440531,Rebekka,Westrick,Jamaica Plain,MA,0:54:29,
 6,378983,Whitney,Withington,Brookline,MA,0:54:29,GREEN LINE VELO driven by Zipcar
-7,429848,alex,carlson,Jamaica Plain,MA,0:54:29,b2c2
+7,429848,alex,carlson,Arlington,MA,0:54:29,b2c2
 8,295045,Amae,El Yacoubi,Natick,MA,0:54:29,545 Velo
 9,533143,Galen,Shaffer,Allston,MA,0:54:29,
 10,424985,Tanya,Boulanova,Beverly,MA,0:54:29,Monster Media Racing p/b Butcher Box

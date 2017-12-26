@@ -42,7 +42,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,483285,Davis,Green,Austin,TX,00:10:07.000,
 2,0,Seth,Greenlund,,,00:12:09.000,
 3,377294,Daniel,Griganavicius,Kyle,TX,00:12:35.000,Bayou City Cycles
-DNS,288726,Hunter,Dickerson,Spring,TX,DNS,Bayou City Cycles
+DNS,288726,Hunter,Dickerson,Houston,TX,DNS,Bayou City Cycles
 DNS,395856,Raul,Henao,Houston,TX,DNS,Angry Sloth Racing/Bicycle World of Hous
 
 09/03/2017 Super D Men Cat 1/2/3 40-99
@@ -177,7 +177,7 @@ DNS,96505,Mark,Logrbrinck,Hondo,TX,DNS,SpaceMonkeys from Space
 Place,License #,First,Last,City,State,Time,Team
 1,349134,Carson,Lange,Austin,TX,01:14:24.000,Summit
 2,481979,Justin,Martin,Houston,TX,01:24:56.000,Mafia Racing / West End Bikes
-3,422159,Cole,Weidenbach,Spicewood,TX,01:25:21.000,Summit/Competitive Cyclist
+3,422159,Cole,Weidenbach,Spicewood,TX,01:25:21.000,787 Racing
 4,338512,Colin,Bromley,Austin,TX,01:29:09.000,
 5,394847,Paul,Loesch,New Braunfels,TX,01:30:02.000,Prime Time Factory Racing
 6,388888,Adam,Pellerin,Austin,TX,01:30:59.000,Monkey Wrench Bicycles
@@ -317,7 +317,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,0,Michael,Williams,,,01:18:37.000,
 DNS,535828,Luis,Reyna,San Antonio,TX,DNS,
 DNS,394318,Todd,Stranahan,Austin,TX,DNS,Sun & Ski
-DNS,0,Bryan,Hearn,,,DNS,
+DNS,525034,Bryan,Hearn,Houston,TX,DNS,
 DNF,0,Jason,Frankhouser,,,DNF,
 DNF,0,Matthew,Angelino,,,DNF,RBM/Matrix
 DNF,0,Larry,Newman,,,DNF,Camino Real
@@ -366,7 +366,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,523906,John,Brooks,San Antonio,TX,01:53:01.000,Bicycle Company - El Paso TX
 3,0,Felipe,Longoria,,,02:04:06.000,
 4,0,Adam,Beckman,,,02:10:41.000,Bicycle World/The Woodlands
-DNS,288726,Hunter,Dickerson,Spring,TX,DNS,Bayou City Cycles
+DNS,288726,Hunter,Dickerson,Houston,TX,DNS,Bayou City Cycles
 DNS,483285,Davis,Green,Austin,TX,DNS,
 DNS,514503,Chris,Funk,Houston,TX,DNS,West End Cycles
 DNF,422216,Carlos,Vega,Houston,TX,DNF,HandleBar Cyclery
@@ -378,7 +378,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,238139,Sandy,Poulson,Houston,TX,01:39:06.000,Urban Bicycle Development
 3,493626,Rich,Thurston,Pflugerville,TX,01:40:15.000,Texas A/C and Heat
 4,419426,Erik,Hons,Austin,TX,01:40:21.00,Team Yeah!
-5,422391,Gabriel,Ayala,Canyon Lake,TX,01:49:39.000,The Hub
+5,391808,Gabriel,Ayala,Canyon Lake,TX,01:49:39.000,The Hub
 6,366348,Paul,Mathis,Lorena,TX,01:54:57.000,Bear Mountain
 7,304730,Timothy,Lawrence,Austin,TX,02:00:10.000,
 8,501362,Mark,Windham,Leander,TX,02:02:48.000,
@@ -400,7 +400,7 @@ DNF,0,Brady,Campbell,,,DNF,
 Place,License #,First,Last,City,State,Time,Team
 1,0,Richard,Wupperman,,,01:49:52.000,
 2,0,Allan,Maxwell,,,01:53:49.000,Bikemojo
-3,468263,Ross,LaJeunesse,San Antonio ,TX,01:57:55.000,
+3,468263,Ross,LaJeunesse,San Antonio,TX,01:57:55.000,
 4,0,Michael,Smith,,,02:02:43.000,LAME
 5,471816,Brad,Bain,League City,TX,02:03:29.000,NWCC
 6,475093,Ron,Miller,Georgetown,TX,02:11:53.000,Georgetown Cyclewerx
@@ -415,7 +415,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,470475,Calvin,Miller,Georgetown,TX,01:30:24.000,Summit/Competitive Cyclist
 3,498717,Logan,Howard,Austin,TX,01:34:15.000,Summit/Competitive Cyclist
 4,476299,Caden,Brown,Austin,TX,01:54:20.000,SWCC
-DNS,375437,Jayden,Hakala,San Antonio,TX,DNS,Ride Away Cycling Club
+DNS,375437,Jayden,Hakala,Colorado Springs,CO,DNS,Ride Away Cycling Club
 
 09/03/2017 Cross Country Men Cat1 19-39
 Place,License #,First,Last,City,State,Time,Team
@@ -430,9 +430,9 @@ Place,License #,First,Last,City,State,Time,Team
 9,282889,Tyler,Chidester,Corinth,TX,01:44:53.000,UNT Cycling
 10,393972,Tony,Barrera,San Antonio,TX,01:48:11.000,Speed Cartel
 11,422422,Justin,Stoker,Round Rock,TX,01:49:27.000,Weaver Technologies Racing
-16,178646,Brad,Wimberly,Austin,TX,DNS,BIkealot
+12,485664,Jeffrey,Stroh,Burnet,TX,02:24:17.000,Summit/Competitive Cyclist
+DNS,178646,Brad,Wimberly,Austin,TX,DNS,BIkealot
 DNF,349588,Thomas,Sebring,Hutto,TX,DNF,
-DNF,485664,Jeffrey,Stroh,Burnet,TX,DNF,Summit/Competitive Cyclist
 DNF,188094,Ramon,Barreto,Little Rock,AR,DNF,
 
 09/03/2017 Cross Country Men Cat1 40-49
@@ -440,7 +440,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,525131,Jaime,Quintero Cadena,Katy,TX,01:27:03.000,Handlebar Cyclery
 2,12115,Ramsey,Foster,Austin,TX,01:30:35.000,Yeah!
 3,457350,Zvonimir,Gluhak,San Antonio,TX,01:34:49.000,
-4,407308,Dave,Bellante,Bastrop ,TX,01:36:45.000,Yeah!
+4,407308,Dave,Bellante,Bastrop,TX,01:36:45.000,Yeah!
 5,348514,Paul,Burslem,Austin,TX,01:37:51.000,Crankhouse Cycles
 6,303829,Jamie,Bell,Arlington,TX,01:37:52.000,
 7,497981,Tommy,Burson,Waco,TX,01:39:06.000,The Highwaymen
@@ -506,7 +506,7 @@ DNS,330920,Charles,Platt,College Station,TX,DNS,A&M Cycling
 
 09/03/2017 Cross Country Women Pro/C1 19-99
 Place,License #,First,Last,City,State,Time,Team
-1,377033,Brittany,Parffrey,San Antonio ,TX,01:48:07.000,Bicycle Heaven/PVA
+1,377033,Brittany,Parffrey,San Antonio,TX,01:48:07.000,Bicycle Heaven/PVA
 2,368653,Alexis,Bobbitt,Austin,TX,02:06:17.000,ATX Bikes Racing Team
 
 09/03/2017 Cross Country Women Cat3 1-10
@@ -574,7 +574,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,505218,Ashley,Green,Austin,TX,01:44:33.000,
 2,440799,Maga,Sanchez,Houston,TX,01:56:21.000,NWCC
 3,396592,Emmaline,Baxter-Harwell,Austin,TX,02:16:43.000,Southern Elite/Sun & Ski Sports/PARD
-DNS,418981,Stephanie,Cole,Houston ,TX,DNS,
+DNS,418981,Stephanie,Cole,Houston,TX,DNS,
 
 09/03/2017 Cross Country Women Cat1 40-49
 Place,License #,First,Last,City,State,Time,Team
@@ -588,7 +588,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 09/03/2017 Cross Country Women C 19-99
 Place,License #,First,Last,City,State,Time,Team
-DNS,0,Megan,Dawkins,,,DNS,A&M Cycling
+DNS,487453,Megan,Dawkins,Austin,TX,DNS,A&M Cycling
 DNF,540516,Kate Lee,Rapport,Bryan,TX,DNF,TAMU Cycling
 
 09/03/2017 Cross Country Women B 19-99

@@ -31,7 +31,7 @@ Place,License #,First,Last,City,State,Time,Team
 27,484279,Zachary,NILES,Maple Heights,OH,0:32:20,Summit Freewheelers
 DNS,488329,Brian,BUDD,Olmsted Falls,OH,,Forest City Racing
 DNS,356863,Brian,LUTHER,Chardon,OH,,Ride On Wooster
-DNS,360734,Adam,McNeill,Emmaus,PA,,South Mountain Cycle & Cafe
+DNS,360734,Adam,McNeill,Northfield,OH,,South Mountain Cycle & Cafe
 DNF,79394,Scott,EVANS,Bay Village,OH,,Spin/Litzler Automation
 
 05/13/2017 Criterium Men Masters 50-99 Cat 2/3/4
@@ -120,7 +120,7 @@ Place,License #,First,Last,City,State,Time,Team
 26,499882,Michael,LUCAS,Seven Hills,OH,0:33:20,Summit Freewheelers
 27,531315,Michael,DENNIS,Canton,OH,0:30:49,
 28,518380,Shawn,GRANDON,Richfield,OH,0:30:51,
-29,360734,Adam,McNeill,Emmaus,PA,0:30:52,South Mountain Cycle & Cafe
+29,360734,Adam,McNeill,Northfield,OH,0:30:52,South Mountain Cycle & Cafe
 30,498786,Eamon,ODONNELL,Rocky River,OH,0:31:06,Snakebite Racing
 31,530869,Mark,HENDERSHOT,Marietta,OH,0:31:09,
 32,502451,Damian,PHILEN EDUARDOS,Cleveland,OH,0:31:15,
@@ -187,7 +187,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,532624,Aurora,BRNICEVIC,Cleveland Heights,OH,0:49:13,Snake Bite Racing
 2,412249,Korin,EVANS,Novelty,OH,0:50:43,
 3,517593,Elizabeth,MIS,Avon Lake,OH,0:51:25,Stelleri Performance Training
-4,514880,Sherlyn,PATERSON,Cleveland Heights,OH,0:49:05,Stelleri Performance Training
+4,514880,Sherlyn,PATERSON,Lakewood,OH,0:49:05,Stelleri Performance Training
 5,529182,Mary,BALLENGER,Parma Heights,OH,0:49:28,
 6,523222,Lyndse Rae,FABA,Ravenna,OH,0:51:38,Stelleri Performance Training
 
@@ -217,7 +217,7 @@ DNS,265160,David,STRYFFELER,Ashburn,VA,,PTS Racing
 DNS,356863,Brian,LUTHER,Chardon,OH,,Ride On Wooster
 DNS,468413,Walt,IMPELLICCEIRI,Pittsburgh,PA,,
 DNS,488329,Brian,BUDD,Olmsted Falls,OH,,Forest City Racing
-DNS,466154,Eamonn,SCHNELL,Brooklyn,NY,,Oberlin College
+DNS,466154,Eamonn,SCHNELL,Oberlin,OH,,Oberlin College
 DNS,504539,Grant,GILLILAN,Canton,OH,,Ohio Cycling Association
 DNF,498156,Jeanhyuk,PARK,Cleveland Heights,OH,,
 
@@ -275,7 +275,7 @@ DNS,359202,Keaton,ADAMS,Stow,OH,,Summit Freewheelers Juniors Team
 Place,License #,First,Last,City,State,Time,Team
 1,514538,Luke,CHRONISTER,Medina,OH,0:32:04,Snakebite Racing
 2,488329,Brian,BUDD,Olmsted Falls,OH,0:32:04,Forest City Racing
-3,466154,Eamonn,SCHNELL,Brooklyn,NY,0:32:04,Oberlin College
+3,466154,Eamonn,SCHNELL,Oberlin,OH,0:32:04,Oberlin College
 4,430034,Tate,COVERDALE,Chagrin Falls,OH,0:32:04,bike ohio
 5,515720,Matthew,RICKETTS,Hanna City,IL,0:32:05,Team Mack Racing Assn
 6,97948,Jason,HALL,Cuyahoga Falls,OH,0:32:06,Summit Freewheelers
@@ -401,7 +401,7 @@ Place,License #,First,Last,City,State,Time,Team
 27,530869,Mark,HENDERSHOT,Marietta,OH,0:33:42,
 28,524538,Bartek,WARDEGA,Brecksville,OH,0:33:48,
 29,468258,Paul,DIGIANDOMENICO,Columbus,OH,0:34:04,
-DNS,466154,Eamonn,SCHNELL,Brooklyn,NY,,Oberlin College
+DNS,466154,Eamonn,SCHNELL,Oberlin,OH,,Oberlin College
 DNS,394748,Kyle,ZANDER,Westerville,OH,,Audi
 DNS,521764,Nathaniel,DIRKS,Pittsburgh,PA,,Allegheny Cycling Association
 DNF,527352,Zac,PLETT,Rye,NY,,Century Road Club Development Foundation
@@ -433,7 +433,7 @@ DNS,311694,Michael,MINARD,Massillon,OH,,Stark Velo
 DNS,265160,David,STRYFFELER,Ashburn,VA,,PTS Racing
 DNS,395221,Florian,LUNGU,Pittsburgh,PA,,La Prima Espresso Co. Racing
 DNS,356863,Brian,LUTHER,Chardon,OH,,Ride On Wooster
-DNS,466154,Eamonn,SCHNELL,Brooklyn,NY,,Oberlin College
+DNS,466154,Eamonn,SCHNELL,Oberlin,OH,,Oberlin College
 DNS,394748,Kyle,ZANDER,Westerville,OH,,Audi
 DNS,504539,Grant,GILLILAN,Canton,OH,,
 DNF,475458,Jay,GANSER,Cleveland,OH,,bike ohio
@@ -515,7 +515,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,523222,Lyndse Rae,FABA,Ravenna,OH,0:33:26,Stelleri Performance Training
 5,504091,Rochelle,YODER,Orrville,OH,0:34:55,
 6,523119,Theresa,AUGUSTIN,Cleveland,OH,0:36:28,Stelleri Performance Training
-7,514880,Sherlyn,PATERSON,Cleveland Heights,OH,0:36:32,Stelleri Performance Training
+7,514880,Sherlyn,PATERSON,Lakewood,OH,0:36:32,Stelleri Performance Training
 8,518513,Krystol,CHANG,Elyria,OH,0:32:09,Stelleri Performance Training
 
 04/29/2017 Criterium Women Cat 1/2/3
@@ -523,7 +523,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,280898,Gray,PATTON,Pittsburgh,PA,0:29:56,Freddie Fu Cycling Team
 2,382288,Marie,ROTE,Copley,OH,0:32:16,bike ohio
 3,466135,Megan,SYBELDON,Pittsburgh,PA,0:32:42,Conemaugh Women’s Cycling
-4,466552,Colleen,GRYGIER,Gibsonia,PA,0:32:42,
+4,466552,Colleen,GRYGIER,Wexford,PA,0:32:42,
 5,306761,Marnie,ROGNLIEN PAUMIER,Wooster,OH,0:32:43,Ride On Wooster
 6,206620,Samantha,BRODE,Akron,OH,0:32:43,Freddie Fu Cycling Team
 7,494568,Megan,BAIR,Uniontown,OH,0:32:43,Stelleri Performance Training
@@ -608,7 +608,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,504539,Grant,GILLILAN,Canton,OH,0:38:03,
 15,501264,Michael,WOODE,Ashland,OH,0:38:06,Wooster Bikewerks/Wootown Bagels
 16,309300,Van,MORALES,Morgantown,WV,0:38:06,Cyclus Sports
-17,466154,Eamonn,SCHNELL,Brooklyn,NY,0:38:12,Oberlin College
+17,466154,Eamonn,SCHNELL,Oberlin,OH,0:38:12,Oberlin College
 18,27316,Richard,PARR,Canton,OH,0:39:17,Stark Velo
 19,478294,Dave,BRADSHAW,Hudson,OH,0:40:16,Summit Freewheelers
 20,356863,Brian,LUTHER,Chardon,OH,0:40:55,Ride On Wooster
@@ -632,7 +632,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,170068,David,FRIEDMAN,Pittsburgh,PA,0:55:44,
 9,345004,Daniel,LAUSIN,Willowick,OH,0:55:44,Palmer/CSpire Fiber Cycling
 10,353622,Thomas,BORNER,Presto,PA,0:55:44,Cyclus Sports
-11,149656,Ryan,GAMM,Bexley ,OH,0:55:44,Ride On Wooster
+11,149656,Ryan,GAMM,Bexley,OH,0:55:44,Ride On Wooster
 12,258844,Aaron,CRUIKSHANK,Akron,OH,0:55:44,Cyclus Sports
 13,380024,Nathan,CEBULA,Stow,OH,0:55:44,Ride On Wooster
 14,382522,Chris,NEAG,Medina,OH,0:55:45,Snake Bite Racing
@@ -726,14 +726,14 @@ Place,License #,First,Last,City,State,Time,Team
 3,517593,Elizabeth,MIS,Avon Lake,OH,0:46:45,Stelleri Performance Training
 4,529182,Mary,BALLENGER,Parma Heights,OH,0:46:45,
 5,529833,Lindsey,NEAG,Copley,OH,0:48:24,Stelleri Performance Training
-6,514880,Sherlyn,PATERSON,Cleveland Heights,OH,0:49:04,Stelleri Performance Training
+6,514880,Sherlyn,PATERSON,Lakewood,OH,0:49:04,Stelleri Performance Training
 7,531133,Emily,HENDERSHOT,Marietta,OH,0:46:27,
 8,310944,Bliss,DAVIS,Bedford Hts.,OH,0:45:25,
 
 04/22/2017 Criterium Women CRIT F Seniors Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
 1,310691,Kennedy,ADAMS,Stow,OH,0:45:41,Summit Freewheelers
-2,466552,Colleen,GRYGIER,Gibsonia,PA,0:45:41,
+2,466552,Colleen,GRYGIER,Wexford,PA,0:45:41,
 3,401997,Melissa,HILLER,Pittsburgh,PA,0:45:42,Conemaugh Women’s Cycling
 4,404266,Shequaya,BAILEY,Pittsburgh,PA,0:45:43,Conemaugh Women’s Cycling
 5,379521,Laura,WEBB,Lakewood,OH,0:45:43,VeloFemme p/b Litzler

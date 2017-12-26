@@ -21,7 +21,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,416390,Sam,ANDERSONMOXLEY,Oakland,CA,,Cycle Sport - Specialized p/b Muscle Milk
 6,297159,Anthony,FITCH,Glendora,CA,,Pacific Premier Bank Cycling Team
 7,459871,Brandon,BAKER,Santa Barbara,CA,,Stinner Black Sheep Men's Racing
-8,186350,Jonathan,BAKER,Chico,CA,,Chico Cycling Team
+8,186350,Jonathan,BAKER,Seattle,WA,,Chico Cycling Team
 9,316972,erick,SOBEY,Ventura,CA,,Centric Racing p/b Catella
 10,295492,Jules,GILLIAM,Manhattan Beach,CA,,NCCF Team Specialized Racing
 11,390013,Joseph,GAREY,Henderson,NV,,Pacific Premier Bank Cycling Team
@@ -30,7 +30,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,256520,Steven,DAVIS,Canyon Country,CA,,Centric Racing p/b Catella
 15,289282,Brian,FUNK,Menlo Park,CA,,Cycle Sport - Specialized p/b Muscle Milk
 16,287912,Todd,GOSSELAAR,Corona,CA,,
-DNS,456576,Samuel,BOARDMAN,Washington,CA,,Herbalife p/b Marc Pro - Nature's Bakery
+DNS,456576,Samuel,BOARDMAN,Los Angeles,CA,,Herbalife p/b Marc Pro - Nature's Bakery
 DNS,196417,Scott,GILES,Monterey,CA,,Schnur Racing
 DNS,400645,Cooper,SHANKS,Pleasant Hill,CA,,Dolce Vita Freewheel p/b SL2
 DNS,416940,Leo,YIP,Fremont,CA,,Storck-CCN
@@ -123,7 +123,7 @@ DNS,232665,David,ROSSOW,Los Gatos,CA,,SunPower Racing
 Place,License #,First,Last,City,State,Time,Team
 1,271933,Matt,MIKUL,Sunnyvale,CA,,SquadraSF p/b Terun
 2,248052,Michael,CLAUDIO,West Sacramento,CA,,ThirstyBear p/b Akamai
-3,459276,Mark,HOWARD,Cupertino ,CA,,SunPower Racing
+3,459276,Mark,HOWARD,Cupertino,CA,,SunPower Racing
 4,405412,Stefano,PROFUMO,Santa Cruz,CA,,KaiVelo Racing
 5,141844,Joshua,DAPICE,Berkeley,CA,,Team Specialized/Touchstone Racing
 6,125065,William,HO,Fremont,CA,,SunPower Racing
@@ -187,14 +187,14 @@ Place,License #,First,Last,City,State,Time,Team
 2,494786,Alexander,WINTER,Santa Clara,CA,,JAKROO presented by Chrome Industries
 3,212699,Haydn,MACKAY,Alameda,CA,,CA Technologies Racing
 4,496538,Cameron,HAWK,Folsom,CA,,Limitless Cycling
-5,266583,Douglas,SCHALLER,Belmont ,CA,,A Bloc Racing
+5,266583,Douglas,SCHALLER,Belmont,CA,,A Bloc Racing
 6,457573,Erik,CASTILLO,Duarte,CA,,NCCF/ Team Specialized Juniors
 7,424715,James,EVANS,Los Angeles,CA,,Stanford University
 8,391493,Stuart,WATSON,San Rafael,CA,,Cycle Sport - Specialized p/b Muscle Milk
 9,481875,Juan,DUARTE,Berkeley,CA,,
 10,484127,Derek,STEDMAN,Fremont,CA,,Team Fremont/FFBC p/b Chipotle
 11,476831,Richie,VOS,Mountain View,CA,,SunPower Racing
-12,493880,William,RAUS,Murrieta,CA,,S2C/BOSCH pb Pearl Izumi
+12,493880,William,RAUS,Oceanside,CA,,S2C/BOSCH pb Pearl Izumi
 13,264773,Daniel,HOEPPNER,Castro Valley,CA,,A Bloc Racing
 14,419121,Richard,GRAETZ,Mountain View,CA,,Pen Velo Racing/Summit Bicycles
 15,454927,Sam,QUINBY,Davis,CA,,Davis Bike Club Elite Team
@@ -240,7 +240,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,494658,Sergei,VOLKOV,San Jose,CA,,Dolce Vita Freewheel p/b SL2
 14,440626,Tim,MCBIRNEY,Menlo Park,CA,,Cycle Sport - Specialized p/b Muscle Milk
 15,307909,Adam,NAGUIB,San Carlos,CA,,Team Mikes Bikes p/b Equator Coffees
-16,283139,Naveen,MOLLOY,Sanfrancisco,CA,,LOW// Factory Racing
+16,283139,Naveen,MOLLOY,San Francisco,CA,,LOW// Factory Racing
 17,370448,Christian,LAM,San Francisco,CA,,SquadraSF p/b Terun
 18,273533,Arnaud,BORNER,Mountain View,CA,,Team Mikes Bikes p/b Equator Coffees
 DNS,378802,Ben,COOK,Greenbrae,CA,,Team Swift
@@ -254,7 +254,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,458871,Megan,RUBLE,Modesto,CA,,Cycle Sport - Specialized p/b Muscle Milk
 3,392651,Melanie,WONG,Oakland,CA,,Folsom Bike
 4,399567,Lisa,CORDOVA,Chico,CA,,Cycle Sport - Specialized p/b Muscle Milk
-5,422238,Sawyer,TAYLOR,Greenbrae,CA,,Team Swift
+5,422238,Sawyer,TAYLOR,San Rafael,CA,,Team Swift
 6,402944,Christina,BONNINGTON,Belmont,CA,,JLVelo Cycling Team p/b The Freewheel
 7,275441,Elle,ANDERSON,San Francisco,CA,,Elle Anderson Racing
 DNS,376124,Amity,GREGG,Oakland,CA,,
@@ -280,14 +280,14 @@ DNS,515020,Margaret,LUM,Los Altos,CA,,Pen Velo Racing/Summit Bicycles
 05/29/2017 Criterium Women Cat 3
 Place,License #,First,Last,City,State,Time,Team
 1,262057,Joy,FRANCO,Stanford,CA,,RAZZLE DAZZLE
-2,455528,Shelby,TRAMEL,San Francisco,CA,,RAZZLE DAZZLE
+2,455528,Shelby,TRAMEL,Oakkland,CA,,RAZZLE DAZZLE
 3,0,Valina,SINTAL,,,,RAZZLE DAZZLE
 4,387636,Rachelle,ORTEGA,Morgan Hill,CA,,JLVelo Cycling Team p/b The Freewheel
 5,334726,Rachel,GEITER,Milwaukie,OR,,RAZZLE DAZZLE
-6,485936,Trish,PABLO,Sacramento ,CA,,Team Mikes Bikes p/b Equator Coffees
+6,485936,Trish,PABLO,Rodeo,CA,,Team Mikes Bikes p/b Equator Coffees
 7,304925,Elena,JOROSKI,San Jose,CA,,SJBC
 8,408538,Catherine,CULKIN,Ann Arbor,MI,,3T/Q+M
-9,340844,Jennifer,WILSON,Cambridge,MA,,RAZZLE DAZZLE
+9,340844,Jennifer,WILSON,Los Gatos,CA,,RAZZLE DAZZLE
 10,383842,Johanna,FOGOLIN,San Jose,CA,,SJBC
 11,291804,Sandra,KING,Livermore,CA,,JLVelo Cycling Team p/b The Freewheel
 12,268263,Monica,NEVITT,Saratoga,CA,,CoreTechs Cycling Team
@@ -299,7 +299,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,499901,James,PICCOLI,,,,Pacific Premier Bank Cycling Team
 2,416390,Sam,ANDERSONMOXLEY,Oakland,CA,,Cycle Sport - Specialized p/b Muscle Milk
 3,403731,Gavin,MURRAY,Sebastopol,CA,,Storck-CCN
-4,186350,Jonathan,BAKER,Chico,CA,,Chico Cycling Team
+4,186350,Jonathan,BAKER,Seattle,WA,,Chico Cycling Team
 5,295492,Jules,GILLIAM,Manhattan Beach,CA,,NCCF Team Specialized Racing
 6,297159,Anthony,FITCH,Glendora,CA,,Pacific Premier Bank Cycling Team
 7,466256,Mario,ZAMORA,Alameda,CA,,Pacific Premier Bank Cycling Team
@@ -335,7 +335,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,484127,Derek,STEDMAN,Fremont,CA,,Team Fremont/FFBC p/b Chipotle
 3,454927,Sam,QUINBY,Davis,CA,,Davis Bike Club Elite Team
 4,476831,Richie,VOS,Mountain View,CA,,SunPower Racing
-5,493880,William,RAUS,Murrieta,CA,,S2C/BOSCH pb Pearl Izumi
+5,493880,William,RAUS,Oceanside,CA,,S2C/BOSCH pb Pearl Izumi
 6,419121,Richard,GRAETZ,Mountain View,CA,,Pen Velo Racing/Summit Bicycles
 7,424715,James,EVANS,Los Angeles,CA,,Stanford University
 8,494786,Alexander,WINTER,Santa Clara,CA,,JAKROO presented by Chrome Industries
@@ -346,7 +346,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,350058,Morgan,COLE,Portola Valley,CA,,SunPower Racing
 14,212699,Haydn,MACKAY,Alameda,CA,,CA Technologies Racing
 15,496538,Cameron,HAWK,Folsom,CA,,Limitless Cycling
-16,266583,Douglas,SCHALLER,Belmont ,CA,,A Bloc Racing
+16,266583,Douglas,SCHALLER,Belmont,CA,,A Bloc Racing
 17,494110,Andrew,CONLEY,Dublin,CA,,Team Fremont/FFBC p/b Chipotle
 18,457573,Erik,CASTILLO,Duarte,CA,,NCCF/ Team Specialized Juniors
 19,481875,Juan,DUARTE,Berkeley,CA,,
@@ -376,7 +376,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,403525,Jake,TAYLOR,Rancho Cordova,CA,,University of California-Davis
 16,411156,Justin,POULSON,San Jose,CA,,SJBC
 17,273533,Arnaud,BORNER,Mountain View,CA,,Team Mikes Bikes p/b Equator Coffees
-18,283139,Naveen,MOLLOY,Sanfrancisco,CA,,LOW// Factory Racing
+18,283139,Naveen,MOLLOY,San Francisco,CA,,LOW// Factory Racing
 
 05/29/2017 Stage Race Women Cat Pro/1/2/3
 Place,License #,First,Last,City,State,Time,Team
@@ -384,7 +384,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,470357,Illi,GARDNER,Palo Alto,CA,,Folsom Bike
 3,392651,Melanie,WONG,Oakland,CA,,Folsom Bike
 4,458871,Megan,RUBLE,Modesto,CA,,Cycle Sport - Specialized p/b Muscle Milk
-5,422238,Sawyer,TAYLOR,Greenbrae,CA,,Team Swift
+5,422238,Sawyer,TAYLOR,San Rafael,CA,,Team Swift
 6,399567,Lisa,CORDOVA,Chico,CA,,Cycle Sport - Specialized p/b Muscle Milk
 7,402944,Christina,BONNINGTON,Belmont,CA,,JLVelo Cycling Team p/b The Freewheel
 
@@ -406,7 +406,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,295492,Jules,GILLIAM,Manhattan Beach,CA,00:23:17.23,NCCF Team Specialized Racing
 4,416390,Sam,ANDERSONMOXLEY,Oakland,CA,00:23:19.74,Cycle Sport - Specialized p/b Muscle Milk
 5,197592,Rex,ROBERTS,Long Beach,CA,00:24:04.32,Pacific Premier Bank Cycling Team
-6,186350,Jonathan,BAKER,Chico,CA,00:24:22.79,Chico Cycling Team
+6,186350,Jonathan,BAKER,Seattle,WA,00:24:22.79,Chico Cycling Team
 7,459871,Brandon,BAKER,Santa Barbara,CA,00:24:29.38,Stinner Black Sheep Men's Racing
 8,301042,Christopher,WYMAN,Long Beach,CA,00:24:56.86,Pacific Premier Bank Cycling Team
 9,316972,erick,SOBEY,Ventura,CA,00:25:09.95,Centric Racing p/b Catella
@@ -416,7 +416,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,256520,Steven,DAVIS,Canyon Country,CA,00:29:03.20,Centric Racing p/b Catella
 14,466256,Mario,ZAMORA,Alameda,CA,00:30:04.63,Pacific Premier Bank Cycling Team
 15,390013,Joseph,GAREY,Henderson,NV,00:30:07.09,Pacific Premier Bank Cycling Team
-DNS,456576,Samuel,BOARDMAN,Washington,CA,,Herbalife p/b Marc Pro - Nature's Bakery
+DNS,456576,Samuel,BOARDMAN,Los Angeles,CA,,Herbalife p/b Marc Pro - Nature's Bakery
 DNS,196417,Scott,GILES,Monterey,CA,,Schnur Racing
 DNS,400645,Cooper,SHANKS,Pleasant Hill,CA,,Dolce Vita Freewheel p/b SL2
 DNS,416940,Leo,YIP,Fremont,CA,,Storck-CCN
@@ -494,7 +494,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,433279,Matthew,TRACEYCOOK,Oakland,CA,00:25:28.48,Bear Development Team
 6,419121,Richard,GRAETZ,Mountain View,CA,00:25:44.95,Pen Velo Racing/Summit Bicycles
 7,494786,Alexander,WINTER,Santa Clara,CA,00:25:50.47,JAKROO presented by Chrome Industries
-8,493880,William,RAUS,Murrieta,CA,00:25:59.69,S2C/BOSCH pb Pearl Izumi
+8,493880,William,RAUS,Oceanside,CA,00:25:59.69,S2C/BOSCH pb Pearl Izumi
 9,391493,Stuart,WATSON,San Rafael,CA,00:26:07.54,Cycle Sport - Specialized p/b Muscle Milk
 10,494110,Andrew,CONLEY,Dublin,CA,00:26:18.01,Team Fremont/FFBC p/b Chipotle
 11,401329,Jared,SCOTT,Boulder,CO,00:26:24.27,Boulder Junior Cycling
@@ -513,7 +513,7 @@ Place,License #,First,Last,City,State,Time,Team
 24,378822,Col,WILSON,Redlands,CA,00:29:17.60,GS Andiamo - Redlands Legends
 25,496538,Cameron,HAWK,Folsom,CA,00:30:05.85,Limitless Cycling
 26,415478,Chris,LEVINS,Redwood City,CA,00:30:44.01,Pen Velo Racing/Summit Bicycles
-27,266583,Douglas,SCHALLER,Belmont ,CA,00:31:42.89,A Bloc Racing
+27,266583,Douglas,SCHALLER,Belmont,CA,00:31:42.89,A Bloc Racing
 28,324534,Ross,KELLY,Davis,CA,00:32:28.99,Davis Bike Club Race Team
 DNS,257236,Eric,BRUINS,Culver City,CA,,Big Orange Cycling p/b Beachbody Performance
 DNS,320750,Isaiah,CHASS,Sebastopol,CA,,Team Swift
@@ -545,7 +545,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,273533,Arnaud,BORNER,Mountain View,CA,00:27:46.42,Team Mikes Bikes p/b Equator Coffees
 15,411156,Justin,POULSON,San Jose,CA,00:27:53.20,SJBC
 16,253153,Scott,COHEN,Davis,CA,00:28:25.99,Davis Bike Club Elite Team
-17,283139,Naveen,MOLLOY,Sanfrancisco,CA,00:28:26.88,LOW// Factory Racing
+17,283139,Naveen,MOLLOY,San Francisco,CA,00:28:26.88,LOW// Factory Racing
 18,418177,Eric,BRYAN,Los Angeles,CA,00:30:35.95,La Grange Development U21
 DNS,378802,Ben,COOK,Greenbrae,CA,,Team Swift
 DNS,365130,Dustin,DENTON,Stockton,CA,,Michael David Winery Cycling Team
@@ -559,7 +559,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,219719,MaryAnn,LEVENSON,Menlo Park,CA,00:29:29.33,SJBC
 4,17778,Lesley,JENSEN,Benicia,CA,00:30:13.86,JLVelo Cycling Team p/b The Freewheel
 5,219164,Yvonne,WALBROEHL,Mountain View,CA,00:30:55.99,Pen Velo Racing/Summit Bicycles
-DNS,58099,Jessie,HICKEL,Auburn,WA,,CA Technologies Racing
+DNS,58099,Jessie,HICKEL,Hayward,CA,,CA Technologies Racing
 DNS,290262,Michelle,NIGHTENGALE,Modesto,CA,,CA Technologies Racing
 
 05/29/2017 Individual Time Trial Women Cat Pro/1/2/3
@@ -568,7 +568,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,275441,Elle,ANDERSON,San Francisco,CA,00:28:22.75,Elle Anderson Racing
 3,470357,Illi,GARDNER,Palo Alto,CA,00:28:34.55,Folsom Bike
 4,458871,Megan,RUBLE,Modesto,CA,00:30:06.96,Cycle Sport - Specialized p/b Muscle Milk
-5,422238,Sawyer,TAYLOR,Greenbrae,CA,00:30:33.21,Team Swift
+5,422238,Sawyer,TAYLOR,San Rafael,CA,00:30:33.21,Team Swift
 6,402944,Christina,BONNINGTON,Belmont,CA,00:32:19.86,JLVelo Cycling Team p/b The Freewheel
 7,399567,Lisa,CORDOVA,Chico,CA,00:35:47.61,Cycle Sport - Specialized p/b Muscle Milk
 DNS,376124,Amity,GREGG,Oakland,CA,,
@@ -587,10 +587,10 @@ DNS,522886,Acacia,SHYR,Santa Monica,CA,,
 Place,License #,First,Last,City,State,Time,Team
 1,408538,Catherine,CULKIN,Ann Arbor,MI,00:29:10.08,3T/Q+M
 2,262057,Joy,FRANCO,Stanford,CA,00:29:34.32,RAZZLE DAZZLE
-3,485936,Trish,PABLO,Sacramento ,CA,00:29:37.41,Team Mikes Bikes p/b Equator Coffees
+3,485936,Trish,PABLO,Rodeo,CA,00:29:37.41,Team Mikes Bikes p/b Equator Coffees
 4,307890,Heather,MCDONALD,San Francisco,CA,00:30:10.68,JLVelo Cycling Team p/b The Freewheel
 5,304925,Elena,JOROSKI,San Jose,CA,00:30:38.75,SJBC
-6,340844,Jennifer,WILSON,Cambridge,MA,00:30:42.16,RAZZLE DAZZLE
+6,340844,Jennifer,WILSON,Los Gatos,CA,00:30:42.16,RAZZLE DAZZLE
 7,0,Valina,SINTAL,,,00:31:00.92,RAZZLE DAZZLE
 8,290262,Michelle,NIGHTENGALE,Modesto,CA,00:32:18.61,CA Technologies Racing
 9,291804,Sandra,KING,Livermore,CA,00:32:41.50,JLVelo Cycling Team p/b The Freewheel
@@ -652,7 +652,7 @@ Place,License #,First,Last,City,State,Time,Team
 24,460845,Robert,SHIRLEY,Modesto,CA,,Bell Real Estate Cycling
 25,466813,Nick,STIRITZ,Ross,CA,,Studio Velo
 26,512503,Krisztian,MARKELLA,Stockton,CA,,Michael David Winery Cycling Team
-27,378563,Kurt,BROWN,Minneapolis,CA,,Dolce Vita Freewheel p/b SL2
+27,378563,Kurt,BROWN,San Francisco,CA,,Dolce Vita Freewheel p/b SL2
 28,333136,Sean,BRANDT,Alameda,CA,,Dolce Vita Freewheel p/b SL2
 29,310254,Matthew,CARLSON,Paradise,CA,,Chico Cycling Team
 30,101309,Ryan,STROUP,San Jose,CA,,SquadraSF p/b Terun
@@ -747,7 +747,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,232508,David,MAI,Novato,CA,,ThirstyBear p/b Akamai
 8,20105,Bill,LADDISH,Castro Valley,CA,,KaiVelo Racing
 9,271933,Matt,MIKUL,Sunnyvale,CA,,SquadraSF p/b Terun
-10,459276,Mark,HOWARD,Cupertino ,CA,,SunPower Racing
+10,459276,Mark,HOWARD,Cupertino,CA,,SunPower Racing
 11,141844,Joshua,DAPICE,Berkeley,CA,,Team Specialized/Touchstone Racing
 12,125065,William,HO,Fremont,CA,,SunPower Racing
 13,30110,Philip,ROBERTS,Oakland,CA,,Chico Cycling Team
@@ -767,7 +767,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,51644,Bryan,HOADLEY,Danville,CA,,R4R-Make A Wish
 10,10382,Justin,EATINGER,Santa Cruz,CA,,Pen Velo Racing/Summit Bicycles
 11,356928,Jordan,GUDEBSKI,Piedmont,CA,,C510
-12,179386,Daniel,MARTIN,Pleasanton,CA,,Peet's Coffee Racing
+12,179386,Daniel,MARTIN,Loomis,CA,,Peet's Coffee Racing
 13,384208,Chris,FORTUNA,Morgan Hill,CA,,Morgan Stanley Cycling Team
 14,396818,Phil,TERCERO,Morgan Hill,CA,,CoreTechs Cycling TwT
 15,133838,Daryl,HEMENWAY,San Jose,CA,,CoreTechs Cycling TwT
@@ -817,16 +817,16 @@ Place,License #,First,Last,City,State,Time,Team
 05/29/2017 Omnium Women Cat 3
 Place,License #,First,Last,City,State,Time,Team
 1,408538,Catherine,CULKIN,Ann Arbor,MI,,3T/Q+M
-2,485936,Trish,PABLO,Sacramento ,CA,,Team Mikes Bikes p/b Equator Coffees
+2,485936,Trish,PABLO,Rodeo,CA,,Team Mikes Bikes p/b Equator Coffees
 3,0,Valina,SINTAL,,,,RAZZLE DAZZLE
 4,262057,Joy,FRANCO,Stanford,CA,,RAZZLE DAZZLE
 5,304925,Elena,JOROSKI,San Jose,CA,,SJBC
 6,307890,Heather,MCDONALD,San Francisco,CA,,JLVelo Cycling Team p/b The Freewheel
-7,340844,Jennifer,WILSON,Cambridge,MA,,RAZZLE DAZZLE
+7,340844,Jennifer,WILSON,Los Gatos,CA,,RAZZLE DAZZLE
 8,290262,Michelle,NIGHTENGALE,Modesto,CA,,CA Technologies Racing
 9,383842,Johanna,FOGOLIN,San Jose,CA,,SJBC
 10,385403,Diana,CEDENO,Novato,CA,,JLVelo Cycling Team p/b The Freewheel
-11,455528,Shelby,TRAMEL,San Francisco,CA,,RAZZLE DAZZLE
+11,455528,Shelby,TRAMEL,Oakkland,CA,,RAZZLE DAZZLE
 12,340330,Eleanor,VELEZ,El Dorado Hills,CA,,
 13,291804,Sandra,KING,Livermore,CA,,JLVelo Cycling Team p/b The Freewheel
 14,348688,Frances,DOHERTY,San Francisco,CA,,Team Roaring Mouse
@@ -837,7 +837,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/28/2017 Hill Climb Men Cat 5
 Place,License #,First,Last,City,State,Time,Team
-1,413239,Max,MOTSCHWILLER,Menlo Park,CA,01:11:20.00,
+1,413239,Max,MOTSCHWILLER,San Francisco,CA,01:11:20.00,
 2,370822,Bradley,LOVEGREN,Menlo Park,CA,01:11:32.00,
 3,525357,Josh,TAJIRI,Rocklin,CA,01:14:20.00,Cycling Development Scott USA
 4,0,Matt,STEWART,,,01:15:00.00,
@@ -862,13 +862,13 @@ Place,License #,First,Last,City,State,Time,Team
 23,410511,Alejandro,DE SIMONE,San Francisco,CA,01:24:25.00,
 24,0,Dennis,GREGOIR,,,01:24:42.00,
 25,522931,Zach,ROTBLATT,Palo Ato,CA,01:24:43.00,
-26,395297,Shinnosuke,HASEGAWA,Alameda,CA,01:25:16.00,Team Oakland Cycling
+26,395297,Shinnosuke,HASEGAWA,Cupertino,CA,01:25:16.00,Team Oakland Cycling
 27,392800,Dan,HARVEY,Danville,CA,01:25:54.00,CBRE Racing
 28,497902,Connor,WRIGHT,Reno,NV,01:26:26.00,
 29,533388,Jordan,RAMIREZ,Fair Oaks,CA,01:28:39.00,
 30,523585,Zeddy,HE,Austin,TX,01:28:50.00,
 31,534247,Francois Xavier,BUCHER,San Jose,CA,01:31:48.00,
-32,221286,John,WATKINS,Kentfield,CA,01:33:34.00,
+32,522831,John,WATKINS,Kentfield,CA,01:33:34.00,
 33,366549,Charles,RUSHER,Davis,CA,01:33:51.00,
 34,0,Jisi,GUO,,,01:33:52.00,
 35,518919,Finn,THOMSEN,Davis,CA,01:35:14.00,Davis Bike Club Race Team
@@ -880,7 +880,7 @@ Place,License #,First,Last,City,State,Time,Team
 41,0,Cooper,DOWLING,,,01:51:41.00,SJBC
 42,508430,Adrian,MIGACZ,San Jose,CA,01:51:56.00,
 43,0,Carlos,GONZALEZ,,,01:57:24.00,SJBC
-44,523908,Jonathan,MCKASKEY,Livermore,CA,02:00:23.00,VSRT/Livermore Cyclery
+44,523908,Jonathan,MCKASKEY,Tracy,CA,02:00:23.00,VSRT/Livermore Cyclery
 45,0,Brent,NATWICK,,,02:06:12.00,
 DNS,494609,Sharath,MADDIBANDE SRINIVASA,Santa Clara,CA,,
 DNS,525745,Glenn,SMITH,Palo Alto,CA,,
@@ -937,7 +937,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,499901,James,PICCOLI,,,,Pacific Premier Bank Cycling Team
 2,416390,Sam,ANDERSONMOXLEY,Oakland,CA,,Cycle Sport - Specialized p/b Muscle Milk
 3,403731,Gavin,MURRAY,Sebastopol,CA,,Storck-CCN
-4,186350,Jonathan,BAKER,Chico,CA,,Chico Cycling Team
+4,186350,Jonathan,BAKER,Seattle,WA,,Chico Cycling Team
 5,297159,Anthony,FITCH,Glendora,CA,,Pacific Premier Bank Cycling Team
 6,289282,Brian,FUNK,Menlo Park,CA,,Cycle Sport - Specialized p/b Muscle Milk
 7,466256,Mario,ZAMORA,Alameda,CA,,Pacific Premier Bank Cycling Team
@@ -949,7 +949,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,331752,Sean,MCELROY,Palmdale,CA,,NCCF/ Team Specialized Juniors
 14,256520,Steven,DAVIS,Canyon Country,CA,,Centric Racing p/b Catella
 15,197592,Rex,ROBERTS,Long Beach,CA,,Pacific Premier Bank Cycling Team
-16,456576,Samuel,BOARDMAN,Washington,CA,,Herbalife p/b Marc Pro - Nature's Bakery
+16,456576,Samuel,BOARDMAN,Los Angeles,CA,,Herbalife p/b Marc Pro - Nature's Bakery
 17,301042,Christopher,WYMAN,Long Beach,CA,,Pacific Premier Bank Cycling Team
 DNS,196417,Scott,GILES,Monterey,CA,,Schnur Racing
 DNP,400645,Cooper,SHANKS,Pleasant Hill,CA,,Dolce Vita Freewheel p/b SL2
@@ -972,7 +972,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,458870,Dan,RUGANI,Concord,CA,,CBRE Racing
 15,466813,Nick,STIRITZ,Ross,CA,,Studio Velo
 16,512503,Krisztian,MARKELLA,Stockton,CA,,Michael David Winery Cycling Team
-17,378563,Kurt,BROWN,Minneapolis,CA,,Dolce Vita Freewheel p/b SL2
+17,378563,Kurt,BROWN,San Francisco,CA,,Dolce Vita Freewheel p/b SL2
 18,333136,Sean,BRANDT,Alameda,CA,,Dolce Vita Freewheel p/b SL2
 19,310254,Matthew,CARLSON,Paradise,CA,,Chico Cycling Team
 20,101309,Ryan,STROUP,San Jose,CA,,SquadraSF p/b Terun
@@ -1014,7 +1014,7 @@ DNS,341756,Mel,ALVAREZ,Benicia,CA,,
 DNS,232665,David,ROSSOW,Los Gatos,CA,,SunPower Racing
 DNP,285465,Rolland,JURGENS,Walnut Creek,CA,,CA Technologies Racing
 DNP,333224,Christopher,METZ,Danville,CA,,CA Technologies Racing
-DNP,465943,Jason,OROZCO,El Dorado Hillsl ,CA,,
+DNP,465943,Jason,OROZCO,El Dorado Hillsl,CA,,
 DNP,35623,Ross,TINLINE,San Carlos,CA,,Pen Velo Racing/Summit Bicycles
 
 05/28/2017 Road Race Men Cat 1/2/3 Master 35+
@@ -1043,7 +1043,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,141309,Rick,LAWTON,Pleasanton,CA,,R4R-Make A Wish
 11,74023,Mark,WEIDEMAN,Santa Clarita,CA,,MADDOG Racing p/b Purequosa
 DNS,205616,Shawn,DALY,Santa Rosa,CA,,ThirstyBear p/b Akamai
-DNP,179386,Daniel,MARTIN,Pleasanton,CA,,Peet's Coffee Racing
+DNP,179386,Daniel,MARTIN,Loomis,CA,,Peet's Coffee Racing
 DNP,35297,Nick,THEOBALD,Burlingame,CA,,Peet's Coffee Racing
 DNP,498498,Keith,WHITWELL,Palo Alto,CA,,SquadraSF p/b Terun
 
@@ -1076,7 +1076,7 @@ DNP,494325,Andrew,MATHIESEN,Santa Rosa,CA,,Team Swift
 Place,License #,First,Last,City,State,Time,Team
 1,523764,Dillon,HOLLINGER,Santa Cruz,CA,,Cycle Sport - Specialized p/b Muscle Milk
 2,419121,Richard,GRAETZ,Mountain View,CA,,Pen Velo Racing/Summit Bicycles
-3,493880,William,RAUS,Murrieta,CA,,S2C/BOSCH pb Pearl Izumi
+3,493880,William,RAUS,Oceanside,CA,,S2C/BOSCH pb Pearl Izumi
 4,424715,James,EVANS,Los Angeles,CA,,Stanford University
 5,476831,Richie,VOS,Mountain View,CA,,SunPower Racing
 6,484127,Derek,STEDMAN,Fremont,CA,,Team Fremont/FFBC p/b Chipotle
@@ -1105,7 +1105,7 @@ Place,License #,First,Last,City,State,Time,Team
 29,406824,Creighton,GRUBER,Chico,CA,,Team Swift
 30,457573,Erik,CASTILLO,Duarte,CA,,NCCF/ Team Specialized Juniors
 31,433279,Matthew,TRACEYCOOK,Oakland,CA,,Bear Development Team
-32,266583,Douglas,SCHALLER,Belmont ,CA,,A Bloc Racing
+32,266583,Douglas,SCHALLER,Belmont,CA,,A Bloc Racing
 33,396434,Matthew,SWARTWOUT,Mountain View,CA,,Team Mikes Bikes p/b Equator Coffees
 34,415478,Chris,LEVINS,Redwood City,CA,,Pen Velo Racing/Summit Bicycles
 35,497208,Keith,STRONG,San Jose,CA,,Team Fremont/FFBC p/b Chipotle
@@ -1133,7 +1133,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,494658,Sergei,VOLKOV,San Jose,CA,,Dolce Vita Freewheel p/b SL2
 15,403525,Jake,TAYLOR,Rancho Cordova,CA,,University of California-Davis
 16,411156,Justin,POULSON,San Jose,CA,,SJBC
-17,283139,Naveen,MOLLOY,Sanfrancisco,CA,,LOW// Factory Racing
+17,283139,Naveen,MOLLOY,San Francisco,CA,,LOW// Factory Racing
 18,253153,Scott,COHEN,Davis,CA,,Davis Bike Club Elite Team
 19,273533,Arnaud,BORNER,Mountain View,CA,,Team Mikes Bikes p/b Equator Coffees
 DNS,365130,Dustin,DENTON,Stockton,CA,,Michael David Winery Cycling Team
@@ -1148,7 +1148,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,392651,Melanie,WONG,Oakland,CA,,Folsom Bike
 5,458871,Megan,RUBLE,Modesto,CA,,Cycle Sport - Specialized p/b Muscle Milk
 6,376124,Amity,GREGG,Oakland,CA,,
-7,422238,Sawyer,TAYLOR,Greenbrae,CA,,Team Swift
+7,422238,Sawyer,TAYLOR,San Rafael,CA,,Team Swift
 8,402944,Christina,BONNINGTON,Belmont,CA,,JLVelo Cycling Team p/b The Freewheel
 
 05/28/2017 Road Race Women Cat 3
@@ -1157,16 +1157,16 @@ Place,License #,First,Last,City,State,Time,Team
 2,385403,Diana,CEDENO,Novato,CA,,JLVelo Cycling Team p/b The Freewheel
 3,340330,Eleanor,VELEZ,El Dorado Hills,CA,,
 4,0,Valina,SINTAL,,,,RAZZLE DAZZLE
-5,485936,Trish,PABLO,Sacramento ,CA,,Team Mikes Bikes p/b Equator Coffees
+5,485936,Trish,PABLO,Rodeo,CA,,Team Mikes Bikes p/b Equator Coffees
 6,348688,Frances,DOHERTY,San Francisco,CA,,Team Roaring Mouse
-7,340844,Jennifer,WILSON,Cambridge,MA,,RAZZLE DAZZLE
+7,340844,Jennifer,WILSON,Los Gatos,CA,,RAZZLE DAZZLE
 8,304925,Elena,JOROSKI,San Jose,CA,,SJBC
 9,383842,Johanna,FOGOLIN,San Jose,CA,,SJBC
-10,455528,Shelby,TRAMEL,San Francisco,CA,,RAZZLE DAZZLE
+10,455528,Shelby,TRAMEL,Oakkland,CA,,RAZZLE DAZZLE
 11,262057,Joy,FRANCO,Stanford,CA,,RAZZLE DAZZLE
 12,307890,Heather,MCDONALD,San Francisco,CA,,JLVelo Cycling Team p/b The Freewheel
 13,290262,Michelle,NIGHTENGALE,Modesto,CA,,CA Technologies Racing
-DNS,460729,Jill,HUYETTE,Santa Rosa,CA,,JLVelo Cycling Team p/b The Freewheel
+DNS,460729,Jill,HUYETTE,Healdsburg,CA,,JLVelo Cycling Team p/b The Freewheel
 
 05/27/2017 Individual Time Trial Men Cat 1/2/3/4/5 Master 55+
 Place,License #,First,Last,City,State,Time,Team
@@ -1181,13 +1181,13 @@ DNS,26205,Lawrence,NOLAN,Fremont,CA,,NCCF/ Team Specialized Masters
 Place,License #,First,Last,City,State,Time,Team
 1,499901,James,PICCOLI,,,00:12:50.50,Pacific Premier Bank Cycling Team
 2,416390,Sam,ANDERSONMOXLEY,Oakland,CA,00:13:42.70,Cycle Sport - Specialized p/b Muscle Milk
-3,456576,Samuel,BOARDMAN,Washington,CA,00:14:04.60,Herbalife p/b Marc Pro - Nature's Bakery
+3,456576,Samuel,BOARDMAN,Los Angeles,CA,00:14:04.60,Herbalife p/b Marc Pro - Nature's Bakery
 4,403731,Gavin,MURRAY,Sebastopol,CA,00:14:13.60,Storck-CCN
 5,301042,Christopher,WYMAN,Long Beach,CA,00:14:16.00,Pacific Premier Bank Cycling Team
 6,196417,Scott,GILES,Monterey,CA,00:14:21.00,Schnur Racing
 7,390013,Joseph,GAREY,Henderson,NV,00:14:21.70,Pacific Premier Bank Cycling Team
 8,0,Jules,GILLIAM,,,00:14:21.80,NCCF Team Specialized Racing
-9,186350,Jonathan,BAKER,Chico,CA,00:14:23.80,Chico Cycling Team
+9,186350,Jonathan,BAKER,Seattle,WA,00:14:23.80,Chico Cycling Team
 10,400645,Cooper,SHANKS,Pleasant Hill,CA,00:14:33.00,Dolce Vita Freewheel p/b SL2
 11,459871,Brandon,BAKER,Santa Barbara,CA,00:14:43.50,Stinner Black Sheep Men's Racing
 12,316972,erick,SOBEY,Ventura,CA,00:14:49.20,Centric Racing p/b Catella
@@ -1234,7 +1234,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/27/2017 Individual Time Trial Men Cat 1/2/3 Master 45+
 Place,License #,First,Last,City,State,Time,Team
-1,179386,Daniel,MARTIN,Pleasanton,CA,00:15:48.90,Peet's Coffee Racing
+1,179386,Daniel,MARTIN,Loomis,CA,00:15:48.90,Peet's Coffee Racing
 2,74023,Mark,WEIDEMAN,Santa Clarita,CA,00:16:28.24,MADDOG Racing p/b Purequosa
 3,141309,Rick,LAWTON,Pleasanton,CA,00:16:43.50,R4R-Make A Wish
 4,26920,Chris,OTT,San Jose,CA,00:16:49.50,Peet's Coffee Racing
@@ -1272,7 +1272,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,495216,Gary,WARNER,Los Angeles,CA,00:14:27.80,
 6,433279,Matthew,TRACEYCOOK,Oakland,CA,00:14:28.70,Bear Development Team
 7,419121,Richard,GRAETZ,Mountain View,CA,00:14:34.80,Pen Velo Racing/Summit Bicycles
-8,493880,William,RAUS,Murrieta,CA,00:14:36.80,S2C/BOSCH pb Pearl Izumi
+8,493880,William,RAUS,Oceanside,CA,00:14:36.80,S2C/BOSCH pb Pearl Izumi
 9,367421,Phill,MAI,San Jose,CA,00:14:37.00,Team Fremont/FFBC p/b Chipotle
 10,494786,Alexander,WINTER,Santa Clara,CA,00:14:37.80,JAKROO presented by Chrome Industries
 11,350058,Morgan,COLE,Portola Valley,CA,00:14:38.30,SunPower Racing
@@ -1299,7 +1299,7 @@ Place,License #,First,Last,City,State,Time,Team
 32,324534,Ross,KELLY,Davis,CA,00:16:12.50,Davis Bike Club Race Team
 33,457573,Erik,CASTILLO,Duarte,CA,00:16:27.50,NCCF/ Team Specialized Juniors
 34,391493,Stuart,WATSON,San Rafael,CA,00:16:49.20,Cycle Sport - Specialized p/b Muscle Milk
-35,266583,Douglas,SCHALLER,Belmont ,CA,00:17:05.70,A Bloc Racing
+35,266583,Douglas,SCHALLER,Belmont,CA,00:17:05.70,A Bloc Racing
 36,415478,Chris,LEVINS,Redwood City,CA,00:18:01.10,Pen Velo Racing/Summit Bicycles
 37,523764,Dillon,HOLLINGER,Santa Cruz,CA,00:18:02.00,Cycle Sport - Specialized p/b Muscle Milk
 38,402531,Sholom,JAEGER,Los Angeles,CA,00:18:03.00,Bicycle.net Racing Team
@@ -1328,7 +1328,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,477280,Neil,LEONARD,San Francisco,CA,00:15:54.30,Dolce Vita Freewheel p/b SL2
 20,313364,Ethan,FRANKEL,Mill Valley,CA,00:15:58.30,La Grange Development U21
 21,273533,Arnaud,BORNER,Mountain View,CA,00:16:22.70,Team Mikes Bikes p/b Equator Coffees
-DNS,283139,Naveen,MOLLOY,Sanfrancisco,CA,,LOW// Factory Racing
+DNS,283139,Naveen,MOLLOY,San Francisco,CA,,LOW// Factory Racing
 
 05/27/2017 Individual Time Trial Women Cat 1/2/3/4/5 Master 55+
 Place,License #,First,Last,City,State,Time,Team
@@ -1344,7 +1344,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,470357,Illi,GARDNER,Palo Alto,CA,00:16:32.00,Folsom Bike
 4,458871,Megan,RUBLE,Modesto,CA,00:17:05.00,Cycle Sport - Specialized p/b Muscle Milk
 5,376124,Amity,GREGG,Oakland,CA,00:17:25.10,
-6,422238,Sawyer,TAYLOR,Greenbrae,CA,00:17:33.60,Team Swift
+6,422238,Sawyer,TAYLOR,San Rafael,CA,00:17:33.60,Team Swift
 7,402944,Christina,BONNINGTON,Belmont,CA,00:18:07.90,JLVelo Cycling Team p/b The Freewheel
 8,399567,Lisa,CORDOVA,Chico,CA,00:18:09.00,Cycle Sport - Specialized p/b Muscle Milk
 
@@ -1360,13 +1360,13 @@ DNS,515020,Margaret,LUM,Los Altos,CA,,Pen Velo Racing/Summit Bicycles
 05/27/2017 Individual Time Trial Women Cat 3
 Place,License #,First,Last,City,State,Time,Team
 1,408538,Catherine,CULKIN,Ann Arbor,MI,00:17:29.60,3T/Q+M
-2,485936,Trish,PABLO,Sacramento ,CA,00:18:01.90,Team Mikes Bikes p/b Equator Coffees
+2,485936,Trish,PABLO,Rodeo,CA,00:18:01.90,Team Mikes Bikes p/b Equator Coffees
 3,307890,Heather,MCDONALD,San Francisco,CA,00:18:23.70,JLVelo Cycling Team p/b The Freewheel
 4,262057,Joy,FRANCO,Stanford,CA,00:18:27.20,RAZZLE DAZZLE
 5,392370,Pamela,LEVINE,Menlo Park,CA,00:18:39.80,Team Mikes Bikes p/b Equator Coffees
 6,383842,Johanna,FOGOLIN,San Jose,CA,00:19:07.00,SJBC
 7,304925,Elena,JOROSKI,San Jose,CA,00:19:14.80,SJBC
 8,0,Valina,SINTAL,,,00:19:19.40,RAZZLE DAZZLE
-9,340844,Jennifer,WILSON,Cambridge,MA,00:19:20.90,RAZZLE DAZZLE
+9,340844,Jennifer,WILSON,Los Gatos,CA,00:19:20.90,RAZZLE DAZZLE
 10,290262,Michelle,NIGHTENGALE,Modesto,CA,00:20:43.90,CA Technologies Racing
 11,291804,Sandra,KING,Livermore,CA,00:21:58.50,JLVelo Cycling Team p/b The Freewheel

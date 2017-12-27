@@ -24,7 +24,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,402086,Parker,Smith,Sandy,UT,,
 9,210665,John,Rech,Salt Lake City,UT,,
 10,504454,Bart,Preston,Lindon,UT,,
-11,296168,Mike,May,Saltlakecity,UT,,
+11,296168,Mike,May,Holladay,UT,,
 12,483544,kelly,callister,Kaysville,ut,,
 13,0,Nick,Panlk,,,,
 14,500680,Andrew,Greco,Salt Lake City,UT,,
@@ -116,7 +116,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,494874,Steve,Holden,Salt Lake City,UT,,
 17,526718,Tyler,Deskins,Herriman,UT,,
 18,534535,Chris,Marden,American Fork,UT,,
-19,493619,Matt,Tennison,Highland ,UT,,
+19,493619,Matt,Tennison,Highland,UT,,
 20,402086,Parker,Smith,Sandy,UT,,
 21,0,Brain,Kieran,,,,
 22,430577,Ian,Frederick,Bluffdale,UT,,
@@ -169,8 +169,8 @@ Place,License #,First,Last,City,State,Time,Team
 10,0,Giffin,Park,,,,
 11,50257,Todd,Hageman,Park City,UT,,
 12,181440,Aaron,Olsen,Woodscross,UT,,
-13,15338,David,Harward,Salt Lake City,UT,,
-14,267821,joe,waters,Ogden,UT,,
+13,15338,David,Harward,Millcreek,UT,,
+14,267821,joe,waters,Salt Lake City,UT,,
 15,102388,Scott,Martin,Salt Lake Cty,UT,,
 16,172267,Gavin,Storie,Layton,UT,,
 17,230640,Stephen (Cody),Haroldsen,Salt Lake City,UT,,
@@ -179,7 +179,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,118908,John,Allison,Atlanta,GA,,
 21,51897,Guy,Roundy,West Jordan,UT,,
 22,376827,Daniel,Sellers,Salt Lake City,UT,,
-23,263791,Breanne,Nalder,Murray,UT,,
+23,263791,Breanne,Nalder,Millcreek,UT,,
 
 06/06/2017 Criterium Women Cat1/2/3/4 15-99
 Place,License #,First,Last,City,State,Time,Team
@@ -205,7 +205,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/09/2017 Criterium Men Cat 4/5 15-99
 Place,License #,First,Last,City,State,Time,Team
-1,457822,Andrew,Judkins,Centerville,UT,,
+1,457822,Andrew,Judkins,Washington,UT,,
 2,464987,Ryan,Fowers,Centerville,UT,,
 3,0,Kyle,Harris,,,,
 4,511384,Greg,Guest,Riverton,UT,,
@@ -240,7 +240,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,0,Mike,Pratt,,,,
 7,427721,Daxton,Kennington,Kaysville,UT,,
 8,197932,Sean,Hoover,Riverton,UT,,
-9,457822,Andrew,Judkins,Centerville,UT,,
+9,457822,Andrew,Judkins,Washington,UT,,
 10,426983,Taylor,Edwards,Saratoga Springs,UT,,
 11,223077,Alex,Whitney,Salt Lake City,UT,,
 12,26520,Mike,Oblad,Taylorsville,UT,,
@@ -254,7 +254,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,0,Stephen,Schimman,,,,
 21,46090,Eric,Yelsa,Taylorsville,UT,,
 22,589,Albert,Michini,Salt Lake City,UT,,
-23,393678,James,Lavelle,Salt Lake City,UT,,
+23,393678,James,Lavelle,Cottonwood Heights,UT,,
 24,354750,Connor,Barrett,Riverton,UT,,
 25,500700,Jacob,Santini,Centerville,UT,,
 26,96474,Scott,Stout,Salt Lake Cty,UT,,
@@ -272,7 +272,7 @@ Place,License #,First,Last,City,State,Time,Team
 05/09/2017 Criterium Men Cat 1/2/3 15-99
 Place,License #,First,Last,City,State,Time,Team
 1,212282,Michael,Booth,Salt Lake City,UT,,
-2,15338,David,Harward,Salt Lake City,UT,,
+2,15338,David,Harward,Millcreek,UT,,
 3,161560,jason,Castor,Salt Lake City,UT,,
 4,172267,Gavin,Storie,Layton,UT,,
 5,281812,Stephen,Rogers,Lehi,UT,,
@@ -284,7 +284,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,0,Vigen,Sakisian,,,,
 12,460893,Preston,Weeks,Provo,UT,,
 13,172603,Aaron,Olsen,Park City,UT,,
-14,267821,joe,waters,Ogden,UT,,
+14,267821,joe,waters,Salt Lake City,UT,,
 15,118908,John,Allison,Atlanta,GA,,
 16,277951,Cody,Rohovit,Slc,UT,,
 17,246841,Josh,Whitney,Salt Lake City,UT,,

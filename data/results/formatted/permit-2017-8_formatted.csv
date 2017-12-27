@@ -6,7 +6,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/20/2017 Road Race Men Cat 1 M Open
 Place,License #,First,Last,City,State,Time,Team
-8,317272,Jonathan,Wait,Crescent,IA,,
+8,317272,Jonathan,Wait,Council Bluffs,IA,,
 
 05/07/2017 Cross Country Marathon Men Single Speed Single Speed 17+
 Place,License #,First,Last,City,State,Time,Team
@@ -51,7 +51,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,211712,Keck,Baker,New Kent,VA,3:29:40,
 8,340550,Dylan,Johnson,Mclean,VA,3:31:02,
 9,268812,Alex,Meucci,Lithia,FL,3:37:26,
-10,392005,Josh,Allen,Wheat Ridge ,CO,3:40:35,
+10,392005,Josh,Allen,Wheat Ridge,CO,3:40:35,
 11,278675,Scotty,Albaugh,Waterford,MI,3:44:31,
 12,428220,Grant,Wilson,Gilbertsville,KY,3:47:11,
 13,333154,Skyler,MacKey,Tulsa,OK,3:48:07,
@@ -60,7 +60,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,171050,Joseph,Williams,Tucson,AZ,4:03:25,
 17,299369,William,Gray,Saint Francisville,LA,4:04:24,
 18,378597,Aaron,McDowell,Longview,TX,4:06:53,
-19,497218,Sterling,McBride,Brea,CA,4:19:02,
+19,497218,Sterling,McBride,Eugene,OR,4:19:02,
 20,191622,Brent,Findlay,Little Rock,AR,4:20:00,
 DNF,305958,Elliott,Baring,Dahlonega,GA,,
 DNF,285975,Alex,Wild,Los Gatos,CA,,
@@ -90,7 +90,7 @@ DNS,442718,Brendan,Harshman,Cedar Point,KS,DNS,
 DNF,428940,Frank,Musil,Houston,TX,DNF,
 DNF,386961,John,Whittington,Grapevine,TX,DNF,
 DNF,360809,Tyler,Cloutier,Dallas,TX,DNF,
-DNF,526332,Cameron,Buswell,Oklahoma City,OK,DNF,
+DNF,526332,Cameron,Buswell,Colorado Springs,CO,DNF,
 
 05/07/2017 Cross Country Marathon Men Age Group Master 30-34
 Place,License #,First,Last,City,State,Time,Team
@@ -206,7 +206,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,166132,Tracy,Martin,Alexandria,LA,3:51:37,
 5,416535,Rick,Moseley,Shawnee Mission,KS,3:53:25,
 6,309572,Kirk,Grynwald,Little Rock,AR,3:53:53,
-7,250101,Timothy,Zimmerman,Palm Beach Gardens ,FL,3:54:54,
+7,250101,Timothy,Zimmerman,Palm Beach Gardens,FL,3:54:54,
 8,309968,Jaques,Palin,Knoxville,TN,3:58:07,
 9,192707,William,Gault,Tulsa,OK,3:58:14,
 10,391508,Keith,Deluca,Fort Collins,CO,3:59:54,
@@ -219,7 +219,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,306947,Hugh,Dunagan,Jenks,OK,4:13:14,
 18,335904,Mark,Fiegel,Collinsville,OK,4:19:48,
 19,308953,John,Madden,Houston,TX,4:25:31,
-20,291508,Dathan,Atchison,Branson,MO,4:26:17,
+20,291508,Dathan,Atchison,Hollister,MO,4:26:17,
 21,532020,Chris,Peterson,Omaha,NE,4:26:23,
 22,215256,Karl,Hanson,Little Rock,AR,4:28:46,
 23,526659,Gregory,Moyer,Golden,CO,4:31:30,
@@ -279,7 +279,7 @@ Place,License #,First,Last,City,State,Time,Team
 24,259722,Jason,Pate,Arlington,TN,5:28:02,
 25,487478,Michael,Carman,Bella Vista,AR,5:33:02,
 26,316322,Mark,McGraw,Arkadelphia,AR,5:34:17,
-27,144572,Scott,Long,Keller,TX,5:42:25,
+27,144572,Scott,Long,Fort Worth,TX,5:42:25,
 28,185910,Dennis,Livingston,Waxahachie,TX,5:51:36,
 29,432765,Kris,Whitson,Memphis,TN,6:06:50,
 DNS,26709,Chris,Olson,Houston,TX,DNS,
@@ -296,7 +296,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,311194,Mark,Sullivan,Bellevue,NE,4:31:26,
 6,151023,Jordan,Chaney,Dallas,TX,4:34:29,
 7,215051,Paul,Hart,Bartlett,TN,4:39:53,
-8,218958,Patrick,Hampton,Cambria,CA,4:40:47,
+8,218958,Patrick,Hampton,Richmond,VA,4:40:47,
 9,532407,George,Lester,Medfield,MA,4:43:08,
 10,376760,Bill,Thornton,Fort Smith,AR,4:47:50,
 11,107920,Henry,Gertje,Olympia,WA,4:49:56,
@@ -373,7 +373,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/07/2017 Cross Country Marathon Women Pro/Open 17+
 Place,License #,First,Last,City,State,Time,Team
-1,332898,Rose,Grant,Columbia Falls ,MT,3:46:55,
+1,332898,Rose,Grant,Columbia Falls,MT,3:46:55,
 2,182117,Crystal,Anthony,Newbury Park,CA,3:46:55,
 3,321990,Amy,Beisel,Colorado Springs,CO,4:05:32,
 4,217750,Christina,Gokey-Smith,Denton,TX,4:11:52,
@@ -382,10 +382,10 @@ Place,License #,First,Last,City,State,Time,Team
 7,489675,Dawn,McDowell,Longview,TX,4:20:00,
 8,429486,Jennifer,Malik,Columbus,OH,4:20:54,
 9,209883,Bryna,Blanchard,East Greenbush,NY,4:22:56,
-10,362394,Beata,Wronska,Boynton Beach,FL,4:30:56,
+10,362394,Beata,Wronska,Boynton Beach,FL,4:28:09,
 11,522304,Jennifer,Toops,Waldo,OH,4:31:05,
-12,262371,Liza,Hartlaub,Berkeley ,CA,4:32:25,
-13,377033,Brittany,Parffrey,San Antonio ,TX,4:43:04,
+12,262371,Liza,Hartlaub,Berkeley,CA,4:32:25,
+13,377033,Brittany,Parffrey,San Antonio,TX,4:43:04,
 14,294743,Hannah,Caproon,Colorado Springs,CO,4:49:23,
 15,341494,Melissa,Cooper,Durham,NC,4:54:50,
 DNS,325178,Lisa,Uranga,Lewisville ,TX,DNS,
@@ -434,7 +434,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,168049,Roxzanne,Feagan,Omaha,NE,4:47:31,
 2,531273,Julie,Seymour,Greenwood,SC,4:47:36,
-3,305103,Donielle,Nyland,Flowermound,TX,4:51:57,
+3,305103,Donielle,Nyland,Lewisville,TX,4:51:57,
 4,278808,Karen,Holtmann,Grover,MO,5:00:32,
 5,309162,Julie,Higgins,Lees Summit,MO,5:14:07,
 6,309444,Heidi,Blackmon,Tulsa,OK,6:41:32,

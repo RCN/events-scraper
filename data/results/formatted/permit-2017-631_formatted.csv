@@ -9,8 +9,8 @@ Place,License #,First,Last,City,State,Time,Team
 5,456194,Travis,WOLD,Berlin,MA,45:41.4,Spin Arts Cycling/WPI
 6,385861,Anup,MENON,New Haven,CT,45:41.5,
 7,498808,Richard,NADEAU,Farmington,CT,45:41.7,
-8,515319,Shanta,KELLER,Boston,MA,45:41.8,
-9,523891,Kyle,KONOPNICKI,Gansevoort,NY,45:41.9,North American Velo
+8,515319,Shanta,KELLER,Newton,MA,45:41.8,
+9,523891,Kyle,KONOPNICKI,Norfolk,VA,45:41.9,North American Velo
 10,379967,David,Dzikiewicz,Worcester,MA,45:42.0,MINUTEMAN RC
 11,424649,Christopher,BURATI,New York,NY,45:42.1,CRCA/To Be Determined
 12,424308,Jonathan,MONSERRATE,St. Louis,MO,45:42.1,United States Courier Service/T
@@ -21,7 +21,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,487375,Nicholas,LEGER,Boston,MA,45:42.7,Minuteman Road Club
 18,458033,Erik,CARLSON,East Greenwich,RI,45:42.8,
 19,481144,Colby,JENKINS,Rumford,RI,45:42.8,SVC/Bikeworks
-20,283937,Steve,BRYANT,Oldorchardbeach,ME,45:42.9,Downeast Racing
+20,283937,Steve,BRYANT,Saco,ME,45:42.9,Downeast Racing
 21,497217,Carter,BOSCH,Norwalk,CT,45:43.1,Iron bridge/Tarmac
 22,459002,Antony,HAIVANIS,Boston,MA,45:43.2,Minuteman Road Club
 23,522554,Mark,POIRIER,Watertown,MA,45:43.2,545 Velo
@@ -48,7 +48,7 @@ Place,License #,First,Last,City,State,Time,Team
 44,499435,Ryan,SINGH,Boston,MA,PULLED,Monster Media p/b Butcher Box
 45,359642,Mikko,AHO,Worcester,MA,PULLED,AP Jr. Development/ Corner Cycl
 46,385840,Justin,CAMMARATA,Beverly,MA,PULLED,Comp Racing / GC Coaching
-47,522902,Samuel,ROBINSON,Medford,MA,PULLED,545 Velo
+47,522902,Samuel,ROBINSON,Brookline,MA,PULLED,545 Velo
 48,527173,Emmanuel,LOAIZA,Shrewsbury,MA,PULLED,Team Bose
 49,529412,Taylor,SPROUL,Ridley Park,PA,PULLED,NHBC
 50,306171,Dale,HOLLINGSWORTH,Randolph,MA,PULLED,Team Travis Cycle
@@ -67,7 +67,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,171830,Dean,DELIS,Longmeadow,MA,46:34.7,CYCLONAUTS racers
 11,518261,Andrew,TINE,Barrington,RI,46:34.9,SVC/Bikeworks
 12,498398,Miguel,RIVERA,Brockton,MA,46:35.0,TEAM TRAVIS CYCLE
-13,283937,Steve,BRYANT,Oldorchardbeach,ME,46:35.1,Downeast Racing
+13,283937,Steve,BRYANT,Saco,ME,46:35.1,Downeast Racing
 14,427982,John,DAUT,Fairfield,CT,46:35.1,
 15,298535,Stefano,ZIMEI,Leominster,MA,46:35.2,Optimum Performance
 16,428646,william,PAREDES,Quincy,MA,46:35.4,Blue Hills Cycling Club
@@ -99,7 +99,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,376904,Scott,SMITH,Westhampton,MA,42:55.6,JAM / NCC
 8,2266,David,BAILEY,Norwalk,CT,42:55.7,Iron Bridge / Tarmac
 9,223392,Josh,BURGEL,Concord,MA,42:55.8,Minuteman Road Club
-10,515319,Shanta,KELLER,Boston,MA,42:56.1,
+10,515319,Shanta,KELLER,Newton,MA,42:56.1,
 11,410413,Chris,MORRIS,New Hartford,CT,42:56.9,Team ERRACE p/b DSO Manufacturi
 12,391241,CHRIS,NIESEN,Easthampton,MA,42:57.2,JAM / NCC
 13,113804,Damon,LECOMPTE,Lunenburg,MA,42:57.4,ncc
@@ -118,12 +118,12 @@ Place,License #,First,Last,City,State,Time,Team
 26,261665,Daniel,MCCABE,Whitman,MA,43:00.1,Grinta! P/B Best Buddies Challe
 27,426114,Franklin,WU,Watertown,MA,43:00.2,BRC
 28,497217,Carter,BOSCH,Norwalk,CT,43:00.4,Iron bridge/Tarmac
-29,300882,Jeff,KRYWANCZYK,Rensselaer ,NY,43:00.4,Capital Bicycle Racing Club
+29,300882,Jeff,KRYWANCZYK,Rensselaer,NY,43:00.4,Capital Bicycle Racing Club
 30,412750,Matthew,AMPLEMAN,St. Louis,MO,43:00.5,Yale Cycling
 31,459002,Antony,HAIVANIS,Boston,MA,43:00.7,Minuteman Road Club
 32,383503,Brett,TREMAINE,Stormville,NY,43:00.9,Iron Bridge/Tarmac Cycling
 33,471718,ALEN,BURGESS,Middletown,CT,43:01.0,CHESHIRE CYCLE
-34,271529,Marshall,JOHNSON,North Stonington ,CT,43:01.0,CLR Racing
+34,271529,Marshall,JOHNSON,North Stonington,CT,43:01.0,CLR Racing
 35,337680,Mike,HYMAN,Norwalk,CT,43:01.1,Iron Bridge/Tarmac Cycling
 36,345510,Marc,KINGSLEY,Cooperstown,NY,43:01.1,CNYC/NYCM Insurance
 37,487375,Nicholas,LEGER,Boston,MA,43:01.2,Minuteman Road Club

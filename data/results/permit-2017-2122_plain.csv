@@ -115,7 +115,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 07/09/2017,Criterium,Cat 3/4,Men,Masters,40+,6,419333,Kendall,stanley,,HSR Racing p/b Birdworx
 07/09/2017,Criterium,Cat 3/4,Men,Masters,40+,7,364697,MICHAEL,PENTA,,Big Orange Cycling p/b Beachbody Performance
 07/09/2017,Criterium,Cat 3/4,Men,Masters,40+,8,256589,Michael,Reese,,Santa Barbara Bicycle Club/SBBC
-07/09/2017,Criterium,Cat 3/4,Men,Masters,40+,9,423364,Reyes,Hilario,,South Bay Wheelmen
+07/09/2017,Criterium,Cat 3/4,Men,Masters,40+,9,0,Reyes,Hilario,,South Bay Wheelmen
 07/09/2017,Criterium,Cat 3/4,Men,Masters,40+,10,422370,Lloyd,Bandonillo,,Hot Wheels Factory Team
 07/09/2017,Criterium,Cat 3/4,Men,Masters,40+,11,1841,Michael,Araluce,,R5 Ciclismo
 07/09/2017,Criterium,Cat 3/4,Men,Masters,40+,12,529118,james,barnwell,,
@@ -173,95 +173,95 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 07/09/2017,Criterium,Cat 1/2/3/4/5,Men,Junior,9-12,2,508028,Ethan,Ebizadeh,,La Grange Development U21
 07/09/2017,Criterium,Cat 1/2/3/4/5,Men,Junior,9-12,3,411518,Thomas,Anthony,,
 07/09/2017,Criterium,Cat 1/2/3/4/5,Men,Junior,9-12,DNS,460739,steve,cervantes,,GBS Racing
-07/09/2017,Criterium,Cat 1/2/3/4,Men,Masters,55+,1,30417,Thurlow,Rogers,,Davis Phinney Foundation Masters Cycling
-07/09/2017,Criterium,Cat 1/2/3/4,Men,Masters,55+,2,125834,William,Ralph,,Serious Cycling
-07/09/2017,Criterium,Cat 1/2/3/4,Men,Masters,55+,3,107274,Steven,Strickler,,G3Foundation / Trek
-07/09/2017,Criterium,Cat 1/2/3/4,Men,Masters,55+,4,395303,David,Mack,,Monster Media Elite Masters
-07/09/2017,Criterium,Cat 1/2/3/4,Men,Masters,55+,5,191929,John,Camilli,,Metalmtn Cycling
-07/09/2017,Criterium,Cat 1/2/3/4,Men,Masters,55+,6,156650,Malcolm,Hill,,Davis Phinney Foundation Masters Cycling
-07/09/2017,Criterium,Cat 1/2/3/4,Men,Masters,55+,7,6277,Dermot,Carroll,,Velo Pasadena Team
-07/09/2017,Criterium,Cat 1/2/3/4,Men,Masters,55+,8,396694,Steve,Souisa,,Radsport Cycling Team
-07/09/2017,Criterium,Cat 1/2/3/4,Men,Masters,55+,9,131956,Robert,Blaswich,,Pinnaclife Racing Team
-07/09/2017,Criterium,Cat 1/2/3/4,Men,Masters,55+,10,423159,Christopher,Jaggers,,Southern California Velo
-07/09/2017,Criterium,Cat 1/2/3/4,Men,Masters,55+,11,129138,Greg,Leibert,,Big Orange Cycling p/b Beachbody Performance
-07/09/2017,Criterium,Cat 1/2/3/4,Men,Masters,55+,12,12762,Jesus,Garavito,,Serious Cycling
-07/09/2017,Criterium,Cat 1/2/3/4,Men,Masters,55+,13,406082,Eric,Zook,,Serious Cycling
-07/09/2017,Criterium,Cat 1/2/3/4,Men,Masters,55+,14,272765,Mark,Palmer,,G3Foundation / Trek
-07/09/2017,Criterium,Cat 1/2/3/4,Men,Masters,55+,15,333364,Anthony,Reguero,,WIN TEAM RACING
-07/09/2017,Criterium,Cat 1/2/3/4,Men,Masters,55+,16,282806,Ralph,Rivas,,
-07/09/2017,Criterium,Cat 1/2/3/4,Men,Masters,55+,DNF,316434,Charles,Hicks,,Bahati Foundation
-07/09/2017,Criterium,Cat 1/2/3/4,Men,Masters,55+,DNF,177958,Kevin,Ryan,,Metalmtn Cycling
-07/09/2017,Criterium,Cat 1/2/3/4,Men,Masters,55+,DNF,140826,Robert,Mosier,,Bahati Foundation
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,35+,1,216760,Charon,Smith,,Team Surf City p/b Eliel/Pioneer
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,35+,2,396393,john,garbo,,Pacific Premier Bank Cycling Team
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,35+,3,287924,Marco,Arocha,,Davis Phinney Foundation Masters Cycling
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,35+,4,116625,Rahsaan,Bahati,,Bahati Foundation
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,35+,5,204541,Aaron,Boyleston,,Davis Phinney Foundation Masters Cycling
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,35+,6,207755,Brandon,Gritters,,Davis Phinney Foundation Masters Cycling
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,35+,7,155632,Karl,Holst,,Judgement Velo/ TBOV
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,35+,8,271862,John,Abate,,Team Surf City p/b Eliel/Pioneer
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,35+,9,395517,Eamon,OReilly,,Monster Media Racing
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,35+,10,216205,Seth,Davidson,,Big Orange Cycling p/b Beachbody Performance
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,35+,11,337994,Daniel,Caldera,,Impact Racing Team
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,35+,12,0,Meza,Ruben,,
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,35+,13,195580,Shane,Lawlor,,Monster Media Elite Masters
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,35+,14,333364,Anthony,Reguero,,WIN TEAM RACING
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,35+,15,114543,Jon,Davis,,Serious Cycling
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,35+,16,0,Julio,Cesar,,
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,35+,17,128496,Victor,Ayala,,Velo Club La Grange +21
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,35+,18,396622,Matthew,Easter,,HSR Racing p/b BIRDWORX
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,35+,DNS,364697,MICHAEL,PENTA,,Big Orange Cycling p/b Beachbody Performance
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,35+,DNF,60730,Shaun,Bagley,,CoreTechs Cycling TwT
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,35+,DNF,211927,Tony,Brady,,Davis Phinney Foundation Masters Cycling
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,35+,DNF,60482,Miguel,Meza,,S2C/BOSCH pb Pearl Izumi
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,35+,DNF,72715,Patrick,Bos,,HSR Racing p/b Birdworx
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,35+,DNF,389078,David,Holland,,Big Orange Cycling p/b Beachbody Performance
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,35+,DNF,356829,Francois,Jones,,Bahati Foundation
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,35+,DNF,132583,Levi,Olsen,,
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,1,6109,Matthew,Carinio,,Schnur Racing
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,2,114543,Jon,Davis,,Serious Cycling
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,3,389078,David,Holland,,Big Orange Cycling p/b Beachbody Performance
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,4,62483,Ruben,Meza,,S2C/BOSCH pb Pearl Izumi
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,5,69735,John,Slover,,Velo Pasadena Team
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,6,30417,Thurlow,Rogers,,Davis Phinney Foundation Masters Cycling
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,7,263807,Bart,Clifford,,HSR Racing p/b BIRDWORX
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,8,367751,Robert,Itoh,,Big Orange Cycling p/b Beachbody Performance
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,9,140521,Marco,Fantone,,Velo Club La Grange +21
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,10,155632,Karl,Holst,,Judgement Velo/ TBOV
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,11,49283,Michael,Stroud,,R5 Ciclismo
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,12,399103,SCOTT,TORRENCE,,Big Orange Cycling p/b Beachbody Performance
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,13,60730,Shaun,Bagley,,CoreTechs Cycling TwT
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,14,211927,Tony,Brady,,Davis Phinney Foundation Masters Cycling
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,15,364697,MICHAEL,PENTA,,Big Orange Cycling p/b Beachbody Performance
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,16,0,Julio,Cesar,,
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,17,3807,Martin,Bjel,,Serious Cycling
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,18,82789,Victor,Caraballo,,
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,19,374774,Attila,Fruttus,,Big Orange Cycling p/b Beachbody Performance
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,20,216205,Seth,Davidson,,Big Orange Cycling p/b Beachbody Performance
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,21,51418,Christopher,Hahn,,Velo Pasadena Team
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,22,278244,Kenneth,Korbel,,Serious Cycling
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,23,235946,Mario,Cortes,,Judgement Velo/ TBOV
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,24,333364,Anthony,Reguero,,WIN TEAM RACING
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,25,55635,Pedro,Ordaz,,S2C/BOSCH pb Pearl Izumi
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,26,115164,Gregory,Seyranian,,Big Orange Cycling p/b Beachbody Performance
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,27,272765,Mark,Palmer,,G3Foundation / Trek
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,28,6934,Richard,Cimadoro,,Davis Phinney Foundation Masters Cycling
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,29,52576,Michael,Onkels,,S2C/BOSCH pb Pearl Izumi
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,30,419333,Kendall,stanley,,HSR Racing p/b Birdworx
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,31,367182,Chad,Lucius,,Big Orange Cycling p/b Beachbody Performance
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,32,96655,Armin,Rahm,,HSR Racing p/b Birdworx
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,33,178453,Craig,Nunes,,Schnur Racing
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,34,72715,Patrick,Bos,,HSR Racing p/b Birdworx
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,35,0,RIDER,UNKNOWN,,
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,DNF,277394,Andrew,Duffy,,Serious Cycling
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,DNF,423159,Christopher,Jaggers,,Southern California Velo
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,DNF,148165,Erick,Rodas,,Velo Club La Grange +21
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,DNF,293648,Homero,Mejia,,S2C/BOSCH pb Pearl Izumi
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,DNF,365867,Jeff,Garcia,,HSR Racing p/b BIRDWORX
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,DNF,51230,Dennis,King,,Central Coast Tire CCT
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,DNF,271862,John,Abate,,Team Surf City p/b Eliel/Pioneer
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,DNF,9327,Earl,Detrick,,HSR Racing p/b BIRDWORX
-07/09/2017,Criterium,Cat 1/2/3,Men,Masters,45+,DNF,64908,Matias,Mendigochea,,Santa Monica BMW Helen's Cycles Racing
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,35+,1,216760,Charon,Smith,,Team Surf City p/b Eliel/Pioneer
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,35+,2,396393,john,garbo,,Pacific Premier Bank Cycling Team
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,35+,3,287924,Marco,Arocha,,Davis Phinney Foundation Masters Cycling
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,35+,4,116625,Rahsaan,Bahati,,Bahati Foundation
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,35+,5,204541,Aaron,Boyleston,,Davis Phinney Foundation Masters Cycling
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,35+,6,207755,Brandon,Gritters,,Davis Phinney Foundation Masters Cycling
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,35+,7,155632,Karl,Holst,,Judgement Velo/ TBOV
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,35+,8,271862,John,Abate,,Team Surf City p/b Eliel/Pioneer
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,35+,9,395517,Eamon,OReilly,,Monster Media Racing
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,35+,10,216205,Seth,Davidson,,Big Orange Cycling p/b Beachbody Performance
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,35+,11,337994,Daniel,Caldera,,Impact Racing Team
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,35+,12,0,Meza,Ruben,,
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,35+,13,195580,Shane,Lawlor,,Monster Media Elite Masters
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,35+,14,333364,Anthony,Reguero,,WIN TEAM RACING
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,35+,15,114543,Jon,Davis,,Serious Cycling
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,35+,16,0,Julio,Cesar,,
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,35+,17,128496,Victor,Ayala,,Velo Club La Grange +21
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,35+,18,396622,Matthew,Easter,,HSR Racing p/b BIRDWORX
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,35+,DNS,364697,MICHAEL,PENTA,,Big Orange Cycling p/b Beachbody Performance
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,35+,DNF,60730,Shaun,Bagley,,CoreTechs Cycling TwT
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,35+,DNF,211927,Tony,Brady,,Davis Phinney Foundation Masters Cycling
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,35+,DNF,60482,Miguel,Meza,,S2C/BOSCH pb Pearl Izumi
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,35+,DNF,72715,Patrick,Bos,,HSR Racing p/b Birdworx
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,35+,DNF,389078,David,Holland,,Big Orange Cycling p/b Beachbody Performance
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,35+,DNF,356829,Francois,Jones,,Bahati Foundation
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,35+,DNF,132583,Levi,Olsen,,
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,1,6109,Matthew,Carinio,,Schnur Racing
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,2,114543,Jon,Davis,,Serious Cycling
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,3,389078,David,Holland,,Big Orange Cycling p/b Beachbody Performance
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,4,62483,Ruben,Meza,,S2C/BOSCH pb Pearl Izumi
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,5,69735,John,Slover,,Velo Pasadena Team
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,6,30417,Thurlow,Rogers,,Davis Phinney Foundation Masters Cycling
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,7,263807,Bart,Clifford,,HSR Racing p/b BIRDWORX
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,8,367751,Robert,Itoh,,Big Orange Cycling p/b Beachbody Performance
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,9,140521,Marco,Fantone,,Velo Club La Grange +21
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,10,155632,Karl,Holst,,Judgement Velo/ TBOV
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,11,49283,Michael,Stroud,,R5 Ciclismo
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,12,399103,SCOTT,TORRENCE,,Big Orange Cycling p/b Beachbody Performance
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,13,60730,Shaun,Bagley,,CoreTechs Cycling TwT
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,14,211927,Tony,Brady,,Davis Phinney Foundation Masters Cycling
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,15,364697,MICHAEL,PENTA,,Big Orange Cycling p/b Beachbody Performance
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,16,0,Julio,Cesar,,
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,17,3807,Martin,Bjel,,Serious Cycling
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,18,82789,Victor,Caraballo,,
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,19,374774,Attila,Fruttus,,Big Orange Cycling p/b Beachbody Performance
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,20,216205,Seth,Davidson,,Big Orange Cycling p/b Beachbody Performance
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,21,51418,Christopher,Hahn,,Velo Pasadena Team
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,22,278244,Kenneth,Korbel,,Serious Cycling
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,23,235946,Mario,Cortes,,Judgement Velo/ TBOV
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,24,333364,Anthony,Reguero,,WIN TEAM RACING
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,25,55635,Pedro,Ordaz,,S2C/BOSCH pb Pearl Izumi
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,26,115164,Gregory,Seyranian,,Big Orange Cycling p/b Beachbody Performance
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,27,272765,Mark,Palmer,,G3Foundation / Trek
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,28,6934,Richard,Cimadoro,,Davis Phinney Foundation Masters Cycling
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,29,52576,Michael,Onkels,,S2C/BOSCH pb Pearl Izumi
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,30,419333,Kendall,stanley,,HSR Racing p/b Birdworx
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,31,367182,Chad,Lucius,,Big Orange Cycling p/b Beachbody Performance
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,32,96655,Armin,Rahm,,HSR Racing p/b Birdworx
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,33,178453,Craig,Nunes,,Schnur Racing
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,34,72715,Patrick,Bos,,HSR Racing p/b Birdworx
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,35,0,RIDER,UNKNOWN,,
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,DNF,277394,Andrew,Duffy,,Serious Cycling
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,DNF,423159,Christopher,Jaggers,,Southern California Velo
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,DNF,148165,Erick,Rodas,,Velo Club La Grange +21
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,DNF,293648,Homero,Mejia,,S2C/BOSCH pb Pearl Izumi
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,DNF,365867,Jeff,Garcia,,HSR Racing p/b BIRDWORX
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,DNF,51230,Dennis,King,,Central Coast Tire CCT
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,DNF,271862,John,Abate,,Team Surf City p/b Eliel/Pioneer
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,DNF,9327,Earl,Detrick,,HSR Racing p/b BIRDWORX
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,45+,DNF,64908,Matias,Mendigochea,,Santa Monica BMW Helen's Cycles Racing
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,55+,1,30417,Thurlow,Rogers,,Davis Phinney Foundation Masters Cycling
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,55+,2,125834,William,Ralph,,Serious Cycling
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,55+,3,107274,Steven,Strickler,,G3Foundation / Trek
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,55+,4,395303,David,Mack,,Monster Media Elite Masters
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,55+,5,191929,John,Camilli,,Metalmtn Cycling
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,55+,6,156650,Malcolm,Hill,,Davis Phinney Foundation Masters Cycling
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,55+,7,6277,Dermot,Carroll,,Velo Pasadena Team
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,55+,8,396694,Steve,Souisa,,Radsport Cycling Team
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,55+,9,131956,Robert,Blaswich,,Pinnaclife Racing Team
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,55+,10,423159,Christopher,Jaggers,,Southern California Velo
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,55+,11,129138,Greg,Leibert,,Big Orange Cycling p/b Beachbody Performance
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,55+,12,12762,Jesus,Garavito,,Serious Cycling
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,55+,13,406082,Eric,Zook,,Serious Cycling
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,55+,14,272765,Mark,Palmer,,G3Foundation / Trek
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,55+,15,333364,Anthony,Reguero,,WIN TEAM RACING
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,55+,16,282806,Ralph,Rivas,,
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,55+,DNF,316434,Charles,Hicks,,Bahati Foundation
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,55+,DNF,177958,Kevin,Ryan,,Metalmtn Cycling
+07/09/2017,Criterium,Cat 1/2/3,Men,Master,55+,DNF,140826,Robert,Mosier,,Bahati Foundation
 07/09/2017,Criterium,Cat 4,Men,Senior,Open,1,496690,nazaret,ruiz,,GBS Racing
 07/09/2017,Criterium,Cat 4,Men,Senior,Open,2,510155,Kevin,Escobar,,South Bay Wheelmen
 07/09/2017,Criterium,Cat 4,Men,Senior,Open,3,504067,Christian,Torres,,Monster Media Elite Development
@@ -308,7 +308,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 07/09/2017,Criterium,Cat 3,Men,Senior,Open,14,423452,Tyler,Johnson,,Go Fast -Incycle
 07/09/2017,Criterium,Cat 3,Men,Senior,Open,15,394680,Osvaldo,Mora,,Southern California Velo -  Main Street Garage Junior Development
 07/09/2017,Criterium,Cat 3,Men,Senior,Open,16,352014,Parker,Rous,,Team Swift
-07/09/2017,Criterium,Cat 3,Men,Senior,Open,17,423364,Reyes,Hilario,,South Bay Wheelmen
+07/09/2017,Criterium,Cat 3,Men,Senior,Open,17,0,Reyes,Hilario,,South Bay Wheelmen
 07/09/2017,Criterium,Cat 3,Men,Senior,Open,18,493502,Michael,Green,,SDBC/EMERALD TEXTILES p/b UC Cyclery
 07/09/2017,Criterium,Cat 3,Men,Senior,Open,19,412331,Ivan,Fernandez,,Big Orange Cycling p/b Beachbody Performance
 07/09/2017,Criterium,Cat 3,Men,Senior,Open,20,337994,Daniel,Caldera,,Impact Racing Team
@@ -321,22 +321,6 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 07/09/2017,Criterium,Cat 3,Men,Senior,Open,27,393676,Eddy,Huntsman,,GS Andiamo - West Side Wheelmen
 07/09/2017,Criterium,Cat 3,Men,Senior,Open,DNF,364697,MICHAEL,PENTA,,Big Orange Cycling p/b Beachbody Performance
 07/09/2017,Criterium,Cat 3,Men,Senior,Open,DNF,422362,Alexander,DeRoche,,La Grange Development U21
-07/09/2017,Criterium,P/1/2/3,Women,Senior,Open,1,419415,Megan,Jastrab,,Swami's Junior Development Team
-07/09/2017,Criterium,P/1/2/3,Women,Senior,Open,2,412046,Makayla,Macpherson,,Swami's Junior Development Team
-07/09/2017,Criterium,P/1/2/3,Women,Senior,Open,3,205934,Daniela,Garcia,,Velo Club La Grange +21
-07/09/2017,Criterium,P/1/2/3,Women,Senior,Open,4,390893,Esther,Meisels,,
-07/09/2017,Criterium,P/1/2/3,Women,Senior,Open,5,497041,Lizbeth,Urenos Armas,,Velo Club La Grange +21
-07/09/2017,Criterium,P/1/2/3,Women,Senior,Open,6,423633,Esther,Walker,,SDBC/EMERALD TEXTILES p/b UC Cyclery
-07/09/2017,Criterium,P/1/2/3,Women,Senior,Open,7,496675,Maddy,Ward,,Velo Club La Grange +21
-07/09/2017,Criterium,P/1/2/3,Women,Senior,Open,8,31886,Pamela,Schuster,,Skyflash Racing
-07/09/2017,Criterium,P/1/2/3,Women,Senior,Open,9,30385,Dara,Rogers,,Velo Club La Grange +21
-07/09/2017,Criterium,P/1/2/3,Women,Senior,Open,10,204896,Suzan,Given,,Skyflash Racing
-07/09/2017,Criterium,P/1/2/3,Women,Senior,Open,11,495801,Tori,Wuthrich,,Massachusetts Institute of Technology
-07/09/2017,Criterium,P/1/2/3,Women,Senior,Open,12,367211,Julia,Gieschen,,Stinner Black Sheep Women's Racing
-07/09/2017,Criterium,P/1/2/3,Women,Senior,Open,13,425153,Ginger,Boyd,,Stinner Black Sheep Women's Racing
-07/09/2017,Criterium,P/1/2/3,Women,Senior,Open,14,188007,Shelby,Reynolds,,Monster Media Elite Women
-07/09/2017,Criterium,P/1/2/3,Women,Senior,Open,DNS,277407,Shane,Ferro,,CityMD Racing
-07/09/2017,Criterium,P/1/2/3,Women,Senior,Open,DNF,422958,Jessica,Baumgardner,,Stinner Black Sheep Women's Racing
 07/09/2017,Criterium,Cat 4/5,Women,Senior,Open,1,522750,Katie,Mardayat,,Serious Cycling
 07/09/2017,Criterium,Cat 4/5,Women,Senior,Open,2,424243,Danielle,Cooper,,Velo Club La Grange +21
 07/09/2017,Criterium,Cat 4/5,Women,Senior,Open,3,147255,Tracy,Paaso,,Velo Club La Grange +21
@@ -349,6 +333,22 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 07/09/2017,Criterium,Cat 4/5,Women,Senior,Open,DNF,278111,Elena,Haro,,
 07/09/2017,Criterium,Cat 1/2/3/4/5,Women,Junior,15-18,1,536629,Anna,DeRoche,,Montrose Bike Shop
 07/09/2017,Criterium,Cat 1/2/3/4/5,Women,Junior,9-14,DNS,513418,Hannah,Mejia,,Southern California Velo -  Main Street Garage Junior Development
+07/09/2017,Criterium,Cat 1/2/3,Women,Senior,Open,1,419415,Megan,Jastrab,,Swami's Junior Development Team
+07/09/2017,Criterium,Cat 1/2/3,Women,Senior,Open,2,412046,Makayla,Macpherson,,Swami's Junior Development Team
+07/09/2017,Criterium,Cat 1/2/3,Women,Senior,Open,3,205934,Daniela,Garcia,,Velo Club La Grange +21
+07/09/2017,Criterium,Cat 1/2/3,Women,Senior,Open,4,390893,Esther,Meisels,,
+07/09/2017,Criterium,Cat 1/2/3,Women,Senior,Open,5,497041,Lizbeth,Urenos Armas,,Velo Club La Grange +21
+07/09/2017,Criterium,Cat 1/2/3,Women,Senior,Open,6,423633,Esther,Walker,,SDBC/EMERALD TEXTILES p/b UC Cyclery
+07/09/2017,Criterium,Cat 1/2/3,Women,Senior,Open,7,496675,Maddy,Ward,,Velo Club La Grange +21
+07/09/2017,Criterium,Cat 1/2/3,Women,Senior,Open,8,31886,Pamela,Schuster,,Skyflash Racing
+07/09/2017,Criterium,Cat 1/2/3,Women,Senior,Open,9,30385,Dara,Rogers,,Velo Club La Grange +21
+07/09/2017,Criterium,Cat 1/2/3,Women,Senior,Open,10,204896,Suzan,Given,,Skyflash Racing
+07/09/2017,Criterium,Cat 1/2/3,Women,Senior,Open,11,495801,Tori,Wuthrich,,Massachusetts Institute of Technology
+07/09/2017,Criterium,Cat 1/2/3,Women,Senior,Open,12,367211,Julia,Gieschen,,Stinner Black Sheep Women's Racing
+07/09/2017,Criterium,Cat 1/2/3,Women,Senior,Open,13,425153,Ginger,Boyd,,Stinner Black Sheep Women's Racing
+07/09/2017,Criterium,Cat 1/2/3,Women,Senior,Open,14,188007,Shelby,Reynolds,,Monster Media Elite Women
+07/09/2017,Criterium,Cat 1/2/3,Women,Senior,Open,DNS,277407,Shane,Ferro,,CityMD Racing
+07/09/2017,Criterium,Cat 1/2/3,Women,Senior,Open,DNF,422958,Jessica,Baumgardner,,Stinner Black Sheep Women's Racing
 07/09/2017,Criterium,Cat 3,Women,Senior,Open,1,425153,Ginger,Boyd,,Stinner Black Sheep Women's Racing
 07/09/2017,Criterium,Cat 3,Women,Senior,Open,2,237130,Linda,Stark,,Skyflash Racing
 07/09/2017,Criterium,Cat 3,Women,Senior,Open,3,226501,Nicole,Leroux,,Sisterhood of Cycling

@@ -5,7 +5,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,193992,Woody,Boudreaux,Westwego,LA,,C Spire Fiber Cycling
 2,308797,Alex,Habbit,Youngsville,LA,,Acadiana Bicycle Company Racing
 3,77897,Kevin,Landry,Youngsville,LA,,Acadiana Bicycle Company Racing
-4,309874,Kenneth,Poole,Hattiesburg ,MS,,C Spire Fiber Cycling
+4,309874,Kenneth,Poole,Hattiesburg,MS,,C Spire Fiber Cycling
 5,55950,Peter,Stephens,Gulfport,MS,,GEAUX Race
 6,475181,Steven,Wolfe,Winnfield,LA,,Acadiana Bicycle Company Racing
 7,477948,Troy,Alexander,Youngsville,LA,,Acadiana Bicycle Company Racing
@@ -35,7 +35,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,540385,Kendal,Droddy,Shreveport,LA,,
 2,527347,David,Blumenthal,Jackson,MS,,
 3,524567,Robert,Berry,Ridgeland,MS,,The Bike Crossing
-4,540377,Isaac,Hitt,Brandon,MS,,
+4,397335,Isaac,Hitt,Columbia,MS,,
 5,405441,Trace,Swartzfager,Ridgeland,MS,,C Spire Fiber Cycling
 6,537785,Brandon,McCullough,Madison,MS,,
 7,527579,Cody,McClelland,Killen,AL,,
@@ -66,7 +66,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,419065,RIchardC,Nevils,Winnfield,LA,,Urban South Racing p/b Rouler
 19,375473,Christian,Fontaine,Metairie,LA,,New Orleans Bicycle Club Inc
 20,468645,Travis,Berger,Slidell,LA,,New Orleans Bicycle Club Inc
-21,524417,Jerry,Cornell,New Orleans,LA,,Raising Cane's Racing
+21,524417,Jerry,Cornell,North Potomac,MD,,Raising Cane's Racing
 DNF,495734,Michael,MacGown,Madison,MS,,CSpire Fiber Cycling
 
 08/27/2017 Road Race Men Cat 3
@@ -96,6 +96,6 @@ Place,License #,First,Last,City,State,Time,Team
 08/27/2017 Road Race Mixed Cat 1/2/3/4/5 Juniors 9-14
 Place,License #,First,Last,City,State,Time,Team
 1,530203,Layne,Presley,Clinton,MS,,The Bike Crossing
-2,530206,Landen,Brookshire,Clinton,MS,,
+2,545455,Landen,Brookshire,Clinton,MS,,
 3,530262,Lawson,Presley,Clinton,MS,,
 4,530961,Madelyn,MacGown,Madison,MS,,Nunchuck Bunnies

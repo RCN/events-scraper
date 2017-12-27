@@ -83,7 +83,7 @@ Place,License #,First,Last,City,State,Time,Team
 44,47958,Bob,Reuther,West Chester,PA,,Active Yards - CCV
 45,57947,Michael,Miller,Morgantown,PA,,Delaware Valley Racing
 46,53940,David,Scharff,Baltimore,MD,,Kelly Benefit Strategies/LSV
-47,28984,John,Rachfal,Ardmore,PA,,CS Velo
+47,28984,John,Rachfal,Needham,MA,,CS Velo
 48,294831,Jim,Schutawie,Collegeville,PA,,Bikesport/Sly Fox Cycling Team
 49,68499,William,Marquis,Willow Grove,PA,,Guy's Racing Club
 DNS,254768,warren,holzman,Philadelphia,PA,,Team AJSfund.org
@@ -104,7 +104,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,54984,Paul,Pearson,Allentown,PA,43:52.4,Morgan Stanley
 2,59841,Slawomir,Podwojniak,Collingswood,NJ,,Summit Cycling Club
 3,68718,James,Joseph,Brooklyn,NY,,Ws united
-4,7782,Greg,Cordasco,Basking Ridge,NJ,,Liberty Cycle
+4,7782,Greg,Cordasco,Baskingridge,NJ,,Liberty Cycle
 5,52533,Rich,Ross,Cherry Hill,NJ,,Mambo Kings Racing/D&Q
 6,45388,aubrey,gordon,Reading,PA,,liberty cycle
 7,322760,Ed,Slaughter,Macungie,PA,,Morgan Stanley/Marketing Edge
@@ -150,14 +150,14 @@ Place,License #,First,Last,City,State,Time,Team
 4,234908,Colin,Fitzgerald,Orefield,PA,,CS Velo
 5,382095,Michael,Schweizer,Emmaus,PA,,Long Tail Creative
 6,481209,Henri,Simon,Bel Air,MD,,JAMSQUAD Cycling
-7,411044,Wanya,Cave,Collingdale,PA,,Tri-State Velo / Amoroso's Racing Team
+7,411044,Wanya,Cave,Philadelphia,PA,,Tri-State Velo / Amoroso's Racing Team
 8,400905,Eric,Thorek,Philadelphia,PA,,VR2209
 9,502131,Sean,Guydish,Easton,PA,,Young Medalists
 10,497895,Cobie,Arnold,Lebanon,PA,,Deluxx Bikes
 11,369505,Eli Curt,Fuld,Teaneck,NJ,,Blue Ribbon - Pennell Venture Partners
 12,113804,Damon,Lecompte,Lunenburg,MA,,ncc
 13,523817,William,Weigand,Brooklyn Ny,NY,,CRCA / Team Patch.com
-14,422919,Ryan,Mauser,South Jordan,UT,,Zone Five Racing
+14,422919,Ryan,Mauser,Cottonwood Heights,UT,,Zone Five Racing
 15,470835,Eric,Williams,Philadelphia,PA,,Bicycle Therapy
 16,380553,Gerard,Josulevicz,Allentown,PA,,Burner Fitness Development Team
 17,418915,Aaron,McNany,Clarks Summit,PA,,Lackawanna Valley Racing Team pb Electric City Roasting
@@ -183,16 +183,16 @@ Place,License #,First,Last,City,State,Time,Team
 37,376915,Dominic,Giannantonio,Kutztown,PA,,T-Town Elite
 38,393405,Marquand,Brown,Pottstown,PA,,Blue Bell Private Wealth Management p/b Cannondale
 39,403594,david,do,Landisville,PA,,young medalists
-40,283659,Philip Bennett,Daniels,Philadelphia ,PA,,
+40,283659,Philip Bennett,Daniels,Philadelphia,PA,,
 41,489777,Usman,Zafar,Arlington,VA,,DistrictTaco Racing
 42,340222,Rick,Dalton,Rochester,NY,,Bristol Mountain Road Racing
 43,495853,Jaime,Bou III,Philadelphia,PA,,Zen Masters Racing
 44,509249,John,Rais,Philadelphia,PA,,Team AJSfund.org
 45,378097,sonny,do,Landisville,PA,,thru it all body shop
-46,324134,Matthew,Mory,Philadelphia,PA,,QCW Cycling p.b. Breakawaybikes.com
+46,324134,Matthew,Mory,Mesa,AZ,,QCW Cycling p.b. Breakawaybikes.com
 47,258346,Max,Knee,Philadelphia,PA,,FUJI - TIC
 DNS,392481,Christopher,Calderon,Frederick,MD,,Integrated Sports Medicine p/b Browns Subaru
-DNS,380055,Manuel,Paniagua,Silver Spring ,MD,,
+DNS,380055,Manuel,Paniagua,Silver Spring,MD,,
 DNS,498113,Nick,Taylor,Mt Rainier,MD,,DistrictTaco Racing
 DNF,48189,Frank,Negri,New York,NY,,Colavita
 DNF,433369,David,Lamb,Media,PA,,Team FEC p/b Trek Bikes
@@ -210,7 +210,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,481012,Mauro,Agostini,,,,Team Argentina
 3,0,Joel,Yates,,,,Team Skoda Racing
 4,333986,Roger,Ainslie,Fallbrook,CA,,San Diego Bicycle Club
-5,277019,Jonathan,Marshall,Chambersburg,PA,,Integrated Sports Medicine p/b Brown's Subaru
+5,277019,Jonathan,Marshall,Shippensburg,PA,,Integrated Sports Medicine p/b Brown's Subaru
 6,186783,Colton,Valentine,Philadelphia,PA,,QCW Cycling p.b. Breakawaybikes.com/JL-Velo
 7,52336,Juan,Pineda,Sparkill ,NY,,Montclair Bikery Racing
 8,374834,Jesse,Stauffer,Selinsgrove,PA,,Kelly Benefit Strategies /LSV
@@ -223,7 +223,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,211155,Craig,Lebair,Pipersville,PA,,philadelphia ciclismo
 16,431533,Derrick,Butler,Nazareth,PA,,CS Velo
 17,291076,Clint,Dager,Newark,DE,,Integrated Sports Medicine p/b Brown's Subaru
-18,411044,Wanya,Cave,Collingdale,PA,,Tri State Velo
+18,411044,Wanya,Cave,Philadelphia,PA,,Tri State Velo
 19,310898,Alec,Ratzell,Blandon,PA,,CS Velo
 20,395334,Daniel,Mullen,Philadelphia,PA,,QCW Cycling p.b. Breakawaybikes.com
 21,313046,Ryan,Rapolas,Phoenixville,PA,,QCW Breakawaybikes.com p/b Felt Bicycles-JLVelo
@@ -243,14 +243,14 @@ Place,License #,First,Last,City,State,Time,Team
 35,274785,Ryan,Shebelsky,Elizabethtown,PA,,Team Wheelhouse
 36,257631,Jack,Drummond,Philadelphia,PA,,Arrow Racing
 37,442929,Collin,Tellechea,Medford,NJ,,Tri State Velo
-38,283659,Philip Bennett,Daniels,Philadelphia ,PA,,
+38,283659,Philip Bennett,Daniels,Philadelphia,PA,,
 39,102406,Erik,Mitchell,Phoenixville,PA,,
 40,203214,Jonathan,Glick,Lancaster,PA,,Shirk's
 DNS,284034,David,Ebling,Strafford,PA,,Team Skyline
 DNS,459283,Greg,MacCarty,Parkesburg,PA,,Team FEC p/b Trek Bikes
 DNS,425257,Connor,Thompson,Sinking Spring,PA,,T-Town Elite
 DNF,201783,RYAN,SMOLKO,Mifflinburg,PA,,SHIRK'S RACING
-DNF,324134,Matthew,Mory,Philadelphia,PA,,QCW Cycling
+DNF,324134,Matthew,Mory,Mesa,AZ,,QCW Cycling
 DNF,115826,Brad,Thompson,Philadelphia,PA,,Tri State Velo
 DNF,371226,David,Balli,Philadelphia,PA,,QCW Cycling p.b. Breakawaybikes.com
 DNF,299967,Michael,Black,Whitehall,PA,,QCW Breakawaybikes.com P/B JLVelo
@@ -266,7 +266,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,528599,Mike,Jones,Philadelphia,PA,,
 7,0,Zackary,Curran,,,,
 8,438243,Brandon,Brown,Macungie,PA,,
-9,505277,Brendan,Graham,Westchester,PA,,Cadence Racing
+9,505277,Brendan,Graham,Philadelphia,PA,,Cadence Racing
 10,470496,Sean,Smith,Pottstown,PA,,Stoudts Brewing Co. / JBs Bike Shop
 11,401237,Joe,Fultano,Clayton,NJ,,Caffeinated Cyclist
 12,391667,Robert,Diez,Dillsburg,PA,,

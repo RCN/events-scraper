@@ -10,7 +10,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,165514,Corey,White,Hobart,OK,1:15:36,
 2,401391,Chad,Sprague,Jenks,OK,1:18:01,
 3,346986,daniel,ammann,Broken Arrow,OK,1:38:25,
-DNF,200227,Jeremy,Collins,Edmond,OK,,
+DNF,200227,Jeremy,Collins,Okc,OK,,
 DNF,154327,Steven,Treaster,Oklahoma City,OK,,
 
 08/20/2017 Cross Country Men Cat 3 13-15
@@ -50,7 +50,7 @@ DNS,526010,Andrew,Koszarek,Norman,OK,,
 08/20/2017 Cross Country Men Cat 3 40-49
 Place,License #,First,Last,City,State,Time,Team
 1,498496,Brent,White,Seminole,OK,0:39:44,
-2,526538,Jeremy,Black,Shawnee,OK,0:39:47,
+2,526538,Jeremy,Black,Oklahoma City,OK,0:39:47,
 3,429711,sy,nola,Oklahoma City,OK,0:43:32,
 4,459881,Lewis,Lindenberg,Oklahoma City,OK,0:44:30,
 5,522517,Chris,Patterson,Oakland,CA,0:45:00,
@@ -66,7 +66,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,0,Mark,Engelberg,,,0:45:07,
 2,0,Joel,Farrow,,,0:45:33,
 3,348348,Frank,Boyer,Tulsa,OK,0:46:09,
-4,0,Michael,Zelenski,,,0:46:20,
+4,533125,Michael,Zelenski,Oklahoma City,OK,0:46:20,
 5,503261,Alton,Ellis,Broken Arrow,OK,0:49:52,
 6,375318,Ed,Melott,Oklahoman City,OK,0:50:33,
 7,519941,Darryl,Stillson,Broken Arrow,OK,0:51:00,
@@ -81,7 +81,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,487435,Andy,Heibult,Bella Vista,AR,0:45:53,
 2,524107,David,Nolting,Yukon,OK,0:46:48,
 3,391831,Patrick,McCracken,Tulsa,OK,0:51:24,
-4,297632,Ryan,Roggow,Meeker,OK,0:53:35,
+4,297632,Ryan,Roggow,Shwanee,OK,0:53:35,
 DNF,0,Johnny,Zachary,,,,
 
 08/20/2017 Cross Country Men Cat 2 16-18
@@ -116,7 +116,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,473709,Marco,Garofalo,Tulsa,OK,1:24:12,
 2,486713,David,Reynolds,Tulsa,OK,1:27:17,
 3,497490,Heath,Arning,Tulsa,OK,1:27:40,
-4,515563,Brad,Eaton,Broken Arrow,OK,1:29:26,
+4,515563,Brad,Eaton,Tulsa,OK,1:29:26,
 5,355484,Alfred,DelRosario,Oklahoma City,OK,1:38:17,
 6,356068,Scott,Moore,Tulsa,OK,1:39:32,
 DNS,500554,Jonathan,Clark,Tecumseh,OK,,

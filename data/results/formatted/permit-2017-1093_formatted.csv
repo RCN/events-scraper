@@ -35,8 +35,8 @@ Place,License #,First,Last,City,State,Time,Team
 31,179966,Heath,DEAL,Bentonville,AR,,Walmart/GPP Cycling Team
 32,295134,Christopher,BARNES,Owasso,OK,,Air Assurance
 33,212309,Pete,Lantz,Tulsa,OK,,
-34,268618,Jaime,CANCEL,Fort Smith,AR,,Walmart/GPP Cycling Team
-35,61219,Bruce,HAYES,Bella Vista,AR,,Walmart/GPP Cycling Team
+34,268618,Jaime,CANCEL,Queen Creek,AZ,,Walmart/GPP Cycling Team
+35,61219,Bruce,HAYES,Rogers,AR,,Walmart/GPP Cycling Team
 36,405463,Lee,LaMunyon,Towanda,KS,,
 37,48395,John,KELLY,Maumelle,AR,,CARVE
 38,401928,Randy,Jackson,Jenks,OK,,
@@ -223,7 +223,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,474469,Josiah,MORGAN,Owasso,OK,,
 3,406377,Brian,LEA,Bartlesville,OK,,Fayetteville Wheelmen
 4,213968,RAFAEL,SANTIAGO,Jenks,OK,,TULSA Wheelmen
-5,466674,Brandon,WOLD,Oklahoma City,OK,,DNA Racing
+5,466674,Brandon,WOLD,Andover,MN,,DNA Racing
 6,489826,Will,PETERSON,Wichita,KS,,GP Velotek
 7,474071,Max,TUCKER,Little Rock,AR,,
 8,425922,Chris,DAKIN,Bixby,OK,,Air Assurance Devo p/b Spokehouse
@@ -270,8 +270,8 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,499581,Leigh Ann,FIELDS,Tulsa,OK,,Pandemonium Cycling p/b Hodges Bend
 2,484457,Jessica,BROOKS,Fayetteville,AR,,Experience Fayetteville Cycling
-3,410651,Sara,LittleMasterson,Bentonville,AR,,Paceline Cyclery
-4,506931,Finn,TAYLOR,Tulsa,OK,,Yoga Box P/B Transitions Life Care
+3,410651,Sara,LittleMasterson,Virginia Beach ,VA,,Paceline Cyclery
+4,506931,Finn,TAYLOR,Fayetteville,AR,,Yoga Box P/B Transitions Life Care
 5,487857,April,MEYER,Tulsa,OK,,Pandemonium
 6,441079,Madison,GRAMLING,Prairie Grove,AR,,Experience Fayetteville Cycling Team
 7,440974,Krystal,MILLER,Tontitown,AR,,Experience Fayetteville Cycling
@@ -284,7 +284,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,504372,Ruth,SEAMAN,Oklahoma City,OK,,TNWCTeam
 15,497332,Chelsea,GORBET,Carnegie,OK,,Tulsa Wheelman
 16,476825,Dawn,VINCENT,Owasso,OK,,Pandemonium
-17,302765,Kari,BLOOM,Tulsa,OK,,Pandemonium Cycling
+17,302765,Kari,BLOOM,Tulsa ,OK,,Pandemonium Cycling
 18,522416,Kelli,MOYER,Broken Arrow,OK,,Pandemonium
 19,498315,Kimberly,CROSIER,Tulsa,OK,,Pandemonium
 20,530088,Esthela,CASALE,Muskogee,OK,,Live Love Cycle

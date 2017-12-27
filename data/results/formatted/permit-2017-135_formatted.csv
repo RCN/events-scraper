@@ -6,7 +6,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 08/23/2017 Individual Time Trial Men Cat 1/2/3/4/5 60-99
 Place,License #,First,Last,City,State,Time,Team
-1,253970,Gary,Gaddis,Saint Louis,MO,00:07:26.94,
+1,253970,Gary,Gaddis,University City,MO,00:07:26.94,
 2,380216,TJ,Kohler,Barnhart,MO,00:08:23.54,
 3,470700,Lonnie,Grosman,Chesterfield,MO,00:09:43.41,
 4,232064,Mark,Wiley,Saint Louis,MO,00:10:21.37,
@@ -54,7 +54,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,366690,Chris,Dougan,Saint Louis,MO,00:14:28.54,
 2,243393,Tom,Gutmann,Creve Coeur,MO,00:16:12.43,
 3,276458,Chris,Ramirez,St. Louis,MO,00:16:44.22,
-4,331992,Don,Heidenreich,Saint Peters ,MO,00:19:20.15,
+4,331992,Don,Heidenreich,Saint Peters,MO,00:19:20.15,
 
 08/09/2017 Individual Time Trial Men Cat 4/5
 Place,License #,First,Last,City,State,Time,Team
@@ -91,12 +91,12 @@ Place,License #,First,Last,City,State,Time,Team
 08/02/2017 Individual Time Trial Men Cat 1/2/3/4/5 Merckx
 Place,License #,First,Last,City,State,Time,Team
 1,432557,Michael,Coffman,Saint Louis,MO,00:13:44.51,
-2,307737,Evan-Kyle,Lardinois,St. Charles ,MO,00:14:06.44,
+2,307737,Evan-Kyle,Lardinois,St. Charles,MO,00:14:06.44,
 3,383973,Daniel,Herich,Overland,MO,00:16:32.18,
 
 08/02/2017 Individual Time Trial Men Cat 1/2/3/4/5 60-99
 Place,License #,First,Last,City,State,Time,Team
-1,253970,Gary,Gaddis,Saint Louis,MO,00:15:05.31,
+1,253970,Gary,Gaddis,University City,MO,00:15:05.31,
 2,470203,Stephen,Rafferty,Saint Louis,MO,00:15:46.12,
 3,366592,Robert,Schlumpberger,Ballwin,MO,00:15:56.79,
 4,380216,TJ,Kohler,Barnhart,MO,00:17:34.25,
@@ -108,10 +108,10 @@ Place,License #,First,Last,City,State,Time,Team
 1,366690,Chris,Dougan,Saint Louis,MO,00:14:26.26,
 1,467744,Vito,Biundo,Webster Groves,MO,00:16:00.84,
 2,243393,Tom,Gutmann,Creve Coeur,MO,00:16:12.76,
-3,253970,Gary,Gaddis,Saint Louis,MO,00:16:25.27,
+3,253970,Gary,Gaddis,University City,MO,00:16:25.27,
 4,276458,Chris,Ramirez,St. Louis,MO,00:16:33.04,
 5,419172,Dan,Hinkebein,Fenton,MO,00:18:18.11,
-6,331992,Don,Heidenreich,Saint Peters ,MO,00:19:10.94,
+6,331992,Don,Heidenreich,Saint Peters,MO,00:19:10.94,
 
 08/02/2017 Individual Time Trial Men Cat 4/5
 Place,License #,First,Last,City,State,Time,Team
@@ -150,7 +150,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 07/26/2017 Individual Time Trial Men Cat 1/2/3/4/5 Merckx
 Place,License #,First,Last,City,State,Time,Team
-1,331992,Don,Heidenreich,Saint Peters ,MO,00:18:37.51,
+1,331992,Don,Heidenreich,Saint Peters,MO,00:18:37.51,
 
 07/26/2017 Individual Time Trial Men Cat 1/2/3/4/5 60-99
 Place,License #,First,Last,City,State,Time,Team
@@ -160,7 +160,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 07/26/2017 Individual Time Trial Men Cat 1/2/3/4/5 40-99
 Place,License #,First,Last,City,State,Time,Team
-1,324966,Dana,Braet,Saint Louis,MO,00:13:29.80,
+1,324966,Dana,Braet,Clayton,MO,00:13:29.80,
 1,467744,Vito,Biundo,Webster Groves,MO,00:15:40.65,
 2,97351,Brian,Thieme,Saint Charles,MO,00:13:33.57,
 2,243393,Tom,Gutmann,Creve Coeur,MO,00:15:56.09,
@@ -181,7 +181,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,199884,Justin,Maciekowicz,Saint Louis,MO,00:12:13.94,
 2,97351,Brian,Thieme,Saint Charles,MO,00:13:09.37,
-3,324966,Dana,Braet,Saint Louis,MO,00:13:56.44,
+3,324966,Dana,Braet,Clayton,MO,00:13:56.44,
 4,275021,Erik,Seaver,St. Louis,MO,00:14:14.15,
 
 07/26/2017 Individual Time Trial Women Cat 1/2/3/4/5 Open
@@ -249,7 +249,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,497185,Raymond,Fezzi,Fenton,MO,00:15:10.70,
 2,243393,Tom,Gutmann,Creve Coeur,MO,00:16:33.77,
 3,276458,Chris,Ramirez,St. Louis,MO,00:16:41.12,
-4,331992,Don,Heidenreich,Saint Peters ,MO,00:19:18.99,
+4,331992,Don,Heidenreich,Saint Peters,MO,00:19:18.99,
 
 07/05/2017 Individual Time Trial Men Cat 4/5
 Place,License #,First,Last,City,State,Time,Team
@@ -284,13 +284,13 @@ Place,License #,First,Last,City,State,Time,Team
 
 06/28/2017 Individual Time Trial Men Cat 1/2/3/4/5 60-99 60-99
 Place,License #,First,Last,City,State,Time,Team
-1,253970,Gary,Gaddis,Saint Louis,MO,00:16:09.73,
+1,253970,Gary,Gaddis,University City,MO,00:16:09.73,
 2,232064,Mark,Wiley,Saint Louis,MO,00:23:55.84,
 
 06/28/2017 Individual Time Trial Men Cat 1/2/3/4/5 40-99 40-99
 Place,License #,First,Last,City,State,Time,Team
-1,324966,Dana,Braet,Saint Louis,MO,00:13:48.66,
-1,253970,Gary,Gaddis,Saint Louis,MO,00:16:24.76,
+1,324966,Dana,Braet,Clayton,MO,00:13:48.66,
+1,253970,Gary,Gaddis,University City,MO,00:16:24.76,
 2,366690,Chris,Dougan,Saint Louis,MO,00:14:20.34,
 2,243393,Tom,Gutmann,Creve Coeur,MO,00:16:51.61,
 3,266546,Jim,Alseth,Kirkwood,MO,00:15:56.81,
@@ -298,7 +298,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,264535,Scott,Schuyler,Godfrey,IL,00:16:21.44,
 4,276458,Chris,Ramirez,St. Louis,MO,00:17:36.94,
 5,530801,Jeffrey,Lagemann,Godfrey,IL,00:18:17.52,
-6,331992,Don,Heidenreich,Saint Peters ,MO,00:19:44.99,
+6,331992,Don,Heidenreich,Saint Peters,MO,00:19:44.99,
 
 06/28/2017 Individual Time Trial Men Cat 4/5
 Place,License #,First,Last,City,State,Time,Team
@@ -310,7 +310,7 @@ Place,License #,First,Last,City,State,Time,Team
 06/28/2017 Individual Time Trial Men Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
 1,29363,Lewis,Reece,Webster Groves,MO,00:13:43.69,
-2,324966,Dana,Braet,Saint Louis,MO,00:14:02.88,
+2,324966,Dana,Braet,Clayton,MO,00:14:02.88,
 
 06/28/2017 Individual Time Trial Women Cat 1/2/3/4/5 Merckx Merckx
 Place,License #,First,Last,City,State,Time,Team
@@ -332,7 +332,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 06/21/2017 Individual Time Trial Men Cat 1/2/3/4/5 60-99 60-99
 Place,License #,First,Last,City,State,Time,Team
-1,253970,Gary,Gaddis,Saint Louis,MO,00:16:30.90,
+1,253970,Gary,Gaddis,University City,MO,00:16:30.90,
 2,380216,TJ,Kohler,Barnhart,MO,00:17:26.96,
 3,232064,Mark,Wiley,Saint Louis,MO,00:23:56.15,
 
@@ -340,8 +340,8 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,29363,Lewis,Reece,Webster Groves,MO,00:13:46.68,
 1,56267,Chris,Kuseliauskas,Pacific,MO,00:15:45.36,
-2,324966,Dana,Braet,Saint Louis,MO,00:14:04.18,
-2,253970,Gary,Gaddis,Saint Louis,MO,00:16:06.39,
+2,324966,Dana,Braet,Clayton,MO,00:14:04.18,
+2,253970,Gary,Gaddis,University City,MO,00:16:06.39,
 3,225142,Dennis,Koscielski,Saint Louis,MO,00:14:07.62,
 3,467744,Vito,Biundo,Webster Groves,MO,00:16:09.25,
 4,366690,Chris,Dougan,Saint Louis,MO,00:14:12.64,
@@ -353,7 +353,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,266546,Jim,Alseth,Kirkwood,MO,00:15:59.68,
 7,530801,Jeffrey,Lagemann,Godfrey,IL,00:18:04.19,
 8,474849,Dave,Otto,Saint Charles,MO,00:16:29.93,
-8,331992,Don,Heidenreich,Saint Peters ,MO,00:19:26.17,
+8,331992,Don,Heidenreich,Saint Peters,MO,00:19:26.17,
 
 06/21/2017 Individual Time Trial Men Cat 4/5
 Place,License #,First,Last,City,State,Time,Team
@@ -363,7 +363,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 06/21/2017 Individual Time Trial Men Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
-1,324966,Dana,Braet,Saint Louis,MO,00:13:44.97,
+1,324966,Dana,Braet,Clayton,MO,00:13:44.97,
 2,275021,Erik,Seaver,St. Louis,MO,00:14:18.21,
 
 06/21/2017 Individual Time Trial Women Cat 1/2/3/4/5 Open Open
@@ -405,7 +405,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,264535,Scott,Schuyler,Godfrey,IL,00:14:53.59,
 2,276458,Chris,Ramirez,St. Louis,MO,00:17:04.63,
 3,530801,Jeffrey,Lagemann,Godfrey,IL,00:17:43.34,
-4,331992,Don,Heidenreich,Saint Peters ,MO,00:18:32.31,
+4,331992,Don,Heidenreich,Saint Peters,MO,00:18:32.31,
 
 06/14/2017 Individual Time Trial Men Cat 4/5
 Place,License #,First,Last,City,State,Time,Team
@@ -462,7 +462,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,276458,Chris,Ramirez,St. Louis,MO,00:16:40.04,
 7,474689,Marc,McLemore,Godfrey,IL,00:17:03.11,
 8,530801,Jeffrey,Lagemann,Godfrey,IL,00:17:46.33,
-9,331992,Don,Heidenreich,Saint Peters ,MO,00:18:52.82,
+9,331992,Don,Heidenreich,Saint Peters,MO,00:18:52.82,
 10,46315,Kevin,Pysz,Maryville,IL,00:19:09.80,
 11,419172,Dan,Hinkebein,Fenton,MO,00:19:12.65,
 
@@ -470,7 +470,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,365051,Randy,Murdick,Fenton,MO,00:13:43.60,
 2,437374,Jon,Mansfield,Webster Groves,MO,00:13:52.18,
-3,503760,Mitch,Reidt,Clayton,MO,00:14:26.35,
+3,503760,Mitch,Reidt,Denver,CO,00:14:26.35,
 4,276458,Chris,Ramirez,St. Louis,MO,00:15:07.90,
 
 06/07/2017 Individual Time Trial Men Cat 1/2/3
@@ -530,7 +530,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,276458,Chris,Ramirez,St. Louis,MO,00:16:39.28,
 3,173452,Richard,Linthicum,Winfield,MO,00:16:49.75,
 4,474689,Marc,McLemore,Godfrey,IL,00:16:56.65,
-5,331992,Don,Heidenreich,Saint Peters ,MO,00:18:29.63,
+5,331992,Don,Heidenreich,Saint Peters,MO,00:18:29.63,
 
 05/31/2017 Individual Time Trial Men Cat 4/5
 Place,License #,First,Last,City,State,Time,Team
@@ -574,7 +574,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,173452,Richard,Linthicum,Winfield,MO,00:17:03.34,
 4,276458,Chris,Ramirez,St. Louis,MO,00:17:45.10,
 5,530801,Jeffrey,Lagemann,Godfrey,IL,00:19:29.72,
-6,331992,Don,Heidenreich,Saint Peters ,MO,00:19:39.84,
+6,331992,Don,Heidenreich,Saint Peters,MO,00:19:39.84,
 7,419172,Dan,Hinkebein,Fenton,MO,00:21:06.63,
 
 04/19/2017 Individual Time Trial Men Cat 4/5
@@ -633,12 +633,12 @@ Place,License #,First,Last,City,State,Time,Team
 3,173452,Richard,Linthicum,Winfield,MO,00:17:22.72,
 4,276458,Chris,Ramirez,St. Louis,MO,00:17:29.97,
 5,474689,Marc,McLemore,Godfrey,IL,00:17:58.97,
-6,331992,Don,Heidenreich,Saint Peters ,MO,00:20:49.19,
+6,331992,Don,Heidenreich,Saint Peters,MO,00:20:49.19,
 
 04/12/2017 Individual Time Trial Men Cat 4/5
 Place,License #,First,Last,City,State,Time,Team
 1,437374,Jon,Mansfield,Webster Groves,MO,00:14:32.75,
-2,503760,Mitch,Reidt,Clayton,MO,00:15:12.41,
+2,503760,Mitch,Reidt,Denver,CO,00:15:12.41,
 3,276458,Chris,Ramirez,St. Louis,MO,00:15:51.80,
 4,497185,Raymond,Fezzi,Fenton,MO,00:16:19.22,
 5,392298,Nicholas,Gomes,Florissant,MO,00:18:30.40,

@@ -17,7 +17,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,133355,Joey,Mesa,Oklahoma City,OK,,Dna Racing
 14,394811,Adam,Tingler,Tulsa,OK,,Transitions Lifecare P/B Insync Rx
 15,119514,Micah,Newell,Edmond ,OK,,Schlegel Racing
-16,272809,Ricky,Randall,Highland Village ,TX,,Dna Racing
+16,272809,Ricky,Randall,Highland Village,TX,,Dna Racing
 17,164011,Benjamin,Silk,Broken Arrow,OK,,Air Assurance Devo P/B Spoke House
 18,397914,Braxton,Mundell,Broken Arrow,OK,,Transitions Lifecare P/B Insync Rx
 19,208841,Shane,Carter,Owasso,OK,,Snrg Racing
@@ -61,7 +61,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,526479,Andrew,Hood,Enterprise,AL,,
 2,461002,Gabriel,Lane,Sand Springs,OK,,Tulsa Wheelmen
 3,484684,Logan,Waugh,Oklahoma City,OK,,The Big Friendly Racing Team
-4,157785,Paul,McKay,Stillwater,OK,,Staplegun
+4,157785,Paul,McKay,Oklahoma City,OK,,Staplegun
 5,248037,Justin,Christofferson,Oklahoma City,OK,,Tad Hughes Custom Fit Studio
 6,493783,Austin,Boardman,Tulsa,OK,,Tulsa Wheelmen
 7,265243,Jim,Timberlake,Oklahoma City,OK,,Dna Racing
@@ -101,7 +101,7 @@ Place,License #,First,Last,City,State,Time,Team
 41,427605,Patrick,French,U S A F Academy,CO,,
 42,477438,Troy,Manicom,Edmond,OK,,Staplegun
 43,236842,Chase,Moxley,Oklahoma City,OK,,Dna Racing
-44,414448,Michael,Watkins,Harrah,OK,,Oklahoma City Velo Club
+44,414448,Michael,Watkins,Choctaw,OK,,Oklahoma City Velo Club
 45,513091,Eric,Silvestri,Oklahoma City,OK,,The Big Friendly Racing Team
 46,434779,Steve,Nave,Bixby,OK,,Bixby Bicycle Works/Cycling For Success
 47,523939,Bob,Rook,Edmond,OK,,Staplegun
@@ -209,7 +209,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,514584,Tricia,Cadenhead,Tulsa,OK,,Pandemonium Cycling P/B Hodges Bend
 3,511633,Jennifer,Carfang,Okc,OK,,
 4,524134,Chesney,Grantz,Tulsa,OK,,Pandemonium Cycling P/B Hodges Bend
-5,302765,Kari,Bloom,Tulsa,OK,,Pandemonium Cycling P/B Hodges Bend
+5,302765,Kari,Bloom,Tulsa ,OK,,Pandemonium Cycling P/B Hodges Bend
 6,527331,Raynee,Toles,Goldsby,OK,,
 7,494604,Pamela,Mitchell,Jenks,OK,,Pandemonium Cycling P/B Hodges Bend
 8,527079,Kelsie,Sullivan,Tulsa,OK,,Pandemonium Cycling P/B Hodges Bend
@@ -222,7 +222,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,497332,Chelsea,Gorbet,Carnegie,OK,,Tulsa Wheelmen
 4,265833,Donna,Garland,Oklahoma City,OK,,Transitions Lifecare P/B Insync Rx
 5,395593,Emily,West,Norman,OK,,Bike One Racing Team
-6,506931,Finn,Taylor,Tulsa,OK,,Transitions Lifecare P/B Insync Rx
+6,506931,Finn,Taylor,Fayetteville,AR,,Transitions Lifecare P/B Insync Rx
 7,476825,Dawn,Vincent,Owasso,OK,,Pandemonium Cycling P/B Hodges Bend
 8,487857,April,Meyer,Tulsa,OK,,Pandemonium Cycling P/B Hodges Bend
 9,397724,Casandra,Dickerson,Tulsa,OK,,Isocentric

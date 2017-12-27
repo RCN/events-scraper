@@ -3,12 +3,12 @@ Rouge Roubaix XIX in St. Francisville LA Results
 03/12/2017 Road Race Men Pro/Cat 1/2
 Place,License #,First,Last,City,State,Time,Team
 1,191703,Thomas,Brown,Athens,GA,4:27:12,
-2,342402,kevin,girkins,Austin,TX,4:27:12,ELBOWZ Racing p/b Synergy.O
+2,342402,kevin,girkins,San Marcos,TX,4:27:12,ELBOWZ Racing p/b Synergy.O
 3,334752,Matt,Moosa,Charlotte,NC,4:27:14,Palmetto State Medical Elite Cycling Team
 4,380332,Cormac,Mcgeough,Carbondale,CO,4:27:15,4D Racing*
 5,194743,Winston,David,Greenville,SC,4:27:17,Palmetto State Medical Elite Cycling Team
 6,133375,Michael,Olheiser,Huntsville,AL,4:27:40,4D Racing*
-7,301474,samuel,leblanc,Kenner,LA,4:31:20,4D Racing
+7,301474,samuel,leblanc,New Orleans,LA,4:31:20,4D Racing
 8,254929,Michael,Pincus,Pearland,TX,4:31:20,Team CCR Roofing
 9,238311,Christopher,Uberti,Cincinnati,OH,4:31:20,Palmetto State Medical Elite Cycling Team
 10,295295,Ian,Baun,Pittsburgh,PA,4:31:20,Cyclus Sports
@@ -23,7 +23,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,387450,Evan,Bausbacher,Richardson,TX,4:37:35,Matrix/RBM
 20,263324,Parker,Kyzer,Spartanburg,SC,4:37:42,Palmetto State Medical Elite Cycling Team
 21,278407,Brendan,Housler,Nashville,TN,4:38:20,I Am Racing
-22,299251,Justin,McQuerry,Athens,GA,4:38:58,Team Novo Nordisk Development
+22,299251,Justin,McQuerry,Austin,TX,4:38:58,Team Novo Nordisk Development
 23,331876,Joshua,Brown,New Bern,NC,4:40:00,Cyclus Sports
 24,392529,Brian,Sciba,Tallahassee,FL,4:40:00,Kelly Benefit Strategies Elite
 25,161552,Lucas,Livermon,Durham,NC,4:40:00,Cyclus Sports
@@ -67,7 +67,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,164952,Jason,Capley,Tuscaloosa,AL,5:01:35,Queen City Cycles
 8,300680,Matt,Corse,Atlanta,GA,5:02:38,Pave Cycling
 9,80049,Alex,Rodriguez,Round Rock,TX,5:02:45,ATC Racing
-10,309874,Kenneth,Poole,Hattiesburg ,MS,5:02:45,CSpire Fiber Cycling
+10,309874,Kenneth,Poole,Hattiesburg,MS,5:02:45,CSpire Fiber Cycling
 11,308797,Alex,Habbit,Youngsville,LA,5:02:55,Acadiana Bicycle Company Racing
 12,77897,Kevin,Landry,Youngsville,LA,5:14:40,Acadiana Bicycle Company Racing
 13,278700,Rhett,Hobgood,Madison,MS,5:18:35,The Bike Crossing
@@ -82,7 +82,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,70981,Joseph,Noack,Woodlands,TX,6:32:10,Southwest Cycling Club Racing*
 DNF,299447,Charles,Bell,New Orleans,LA,,Urban South Racing p/b Rouler
 DNF,161001,Jerry,Bueno,Austin,TX,,787 Racing
-DNF,392104,Doug,Zell,Little Rock ,AR,,Intelligentsia Coffee
+DNF,392104,Doug,Zell,Lockhart,TX,,Intelligentsia Coffee
 DNF,57055,Kirk,Corsello,Lilburn,GA,,Next Moto Champion Cycling p/b Roswell Bicycles
 DNF,331128,Brian,ODonnell,Houston,TX,,RAPHA CYCLING CLUB
 DNF,213439,Scott,Kuppersmith,Jackson,MS,,The Bike Crossing
@@ -140,7 +140,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,390719,Brandon,Lee,Oxford,MS,5:50:25,
 20,507715,Nader,Rezvani,Lafayette,LA,5:52:20,4D Racing
 21,488146,Darnell,Walton,Baton Rouge,LA,5:58:30,
-22,439289,Peter,Walton,New Orleans,LA,5:58:30,Semi-Tough Cycling Club
+22,439289,Peter,Walton,Houston,TX,5:58:30,Semi-Tough Cycling Club
 23,519726,R.,Love,Panama City,FL,5:59:24,Team Loblolly Cycling
 24,378436,Miles,Juneau,Oklahoma City ,OK,6:02:05,Indian Cycle Racing
 25,307433,Jason,Wheat,Jackson,MS,6:06:51,
@@ -240,14 +240,14 @@ DNF,185440,James,Tudor,Alpharetta,GA,,Peachtree Bikes
 
 03/12/2017 Road Race Women Cat 1/2/3/4/5
 Place,License #,First,Last,City,State,Time,Team
-1,267467,Christy,Keely,Greenville ,SC,5:20:52,Total Cyclist
+1,267467,Christy,Keely,Greenville,SC,5:20:52,Total Cyclist
 2,457648,Antje,Thamm,Gainesville,FL,5:29:57,DelaFina
 3,388343,Stephanie,Smith,Metairie,LA,5:30:13,
 4,497632,Emily,Gass,New Orleans,LA,5:30:54,Urban South p/b Rouler
 5,432936,Natalie,Pruitt,Houston,TX,5:51:16,Southwest Cycling Club Racing
 6,64143,Mary,Jimenez,Shreveport,LA,5:51:16,Team LaS'port
 7,286102,Louise,Smyth,Houston,TX,5:51:29,
-8,391020,Gigi,Carter,Madison,MS,6:27:11,Nunchuck Bunnies
+8,391020,Gigi,Carter,Eastsound,WA,6:27:11,Nunchuck Bunnies
 9,523143,Elizabeth,Reinhard,New Orleans,LA,6:30:31,Urban South Racing p/b Rouler
 10,280608,Elizabeth,So,New Orleans,LA,6:42:43,Jamasonic*
 11,468532,alison,carey,Mandeville,LA,6:44:50,Nunchuck Bunnies
@@ -260,7 +260,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,425356,Ruth,Thornhill,Baton Rouge,LA,7:45:00,GEAUX Race
 DNF,310650,Lauren,De Crescenzo,Boulder,CO,,UCI WPT: Visit Dallas DNA Pro Cycling
 DNF,456523,Kimberly,Wynn,Birmingham,AL,,Steel City She
-DNF,288729,Jennifer,Wagner,Houston ,TX,,Team Elevate Racing
+DNF,288729,Jennifer,Wagner,Houston,TX,,Team Elevate Racing
 DNF,526936,Merilee,Wilhelm,Baton Rouge,LA,,Geaux Race
 DNF,289166,Tracy,Jones-Martin,Houston,TX,,Team Elevate Racing
 DNF,526663,Natalia,Pribytkova,Metairie,LA,,GNO Tri*

@@ -29,7 +29,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,492510,Daniel,Thompson,Oklahoma City,OK,1:50:20,
 4,368860,Austin,Collins,Amarillo,TX,1:55:07,
 5,439387,Brian,Trumbly,Oklahoma City,OK,1:55:55,
-6,200227,Jeremy,Collins,Edmond,OK,1:58:15,
+6,200227,Jeremy,Collins,Okc,OK,1:58:15,
 7,134049,Will,Graf,Amarillo,TX,2:01:55,
 8,0,Harold,Brigance,,,2:07:48,
 9,154327,Steven,Treaster,Oklahoma City,OK,2:13:07,
@@ -106,7 +106,7 @@ Place,License #,First,Last,City,State,Time,Team
 02/26/2017 Cross Country Men Cat 2 19-29
 Place,License #,First,Last,City,State,Time,Team
 1,471763,Kye,Cordes,Lawton,OK,1:47:50,
-2,335248,Mathew,Sides,Magnolia,TX,2:00:01,
+2,335248,Mathew,Sides,Choctaw,OK,2:00:01,
 3,336544,Kyle,Murphy,Oklahoma City,OK,2:09:34,
 
 02/26/2017 Cross Country Men Cat 2 30-39
@@ -126,7 +126,7 @@ DNS,482690,Casey,Maier,Wichita ,KS,11:46:00,
 Place,License #,First,Last,City,State,Time,Team
 1,58375,John,Ehrhardt,Norman,OK,1:50:16,
 2,473709,Marco,Garofalo,Tulsa,OK,1:50:38,
-3,515563,Brad,Eaton,Broken Arrow,OK,1:51:49,
+3,515563,Brad,Eaton,Tulsa,OK,1:51:49,
 4,486713,David,Reynolds,Tulsa,OK,1:52:43,
 5,0,Jonathan,White,,,1:53:14,
 6,336636,Jarod,Cassada,Guthrie,OK,1:53:38,
@@ -165,7 +165,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,66580,Jacob,Lasley,Broken Arrow,OK,2:17:00,
 3,149104,Raymond,Hall,Tulsa,OK,2:17:54,
 4,233896,Corey,Denton,Newcastle,OK,2:22:39,
-5,169299,Elliot,McKinney,Amarillo,TX,2:30:00,
+5,169299,Elliot,McKinney,Bushland,TX,2:30:00,
 6,188366,Chad,Shanks,Tulsa,OK,2:32:19,
 7,260443,Alex,Sharp,Oklahoma City,OK,2:33:24,
 8,291926,Cameron,Buswell,Oklahoma City,OK,2:46:02,
@@ -219,7 +219,7 @@ DNS,507855,Cindy,Gerszke,Wichita,KS,11:38:00,
 
 02/26/2017 Cross Country Women Cat 1 19-99
 Place,License #,First,Last,City,State,Time,Team
-1,291250,Sarah,Shanks,Tulsa,OK,2:04:22,
+1,291250,Sarah,Shanks,Norman,OK,2:04:22,
 2,188364,Cleo,Berninger,Tulsa,OK,2:04:43,
 3,401264,Susan,Young,Tulsa,OK,2:10:22,
 4,214338,Karie,Mueller,Amarillo,TX,2:38:56,

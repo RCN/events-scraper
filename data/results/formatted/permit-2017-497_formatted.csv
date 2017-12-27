@@ -38,7 +38,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,509456,Frank,Perez,Chula Vista,CA,,Moment Bicycles
 23,502377,Paul,Mason,Murrieta,CA,,iSpeed Racing
 24,419293,Leighton,Rice,Murrieta,CA,,iSpeed Racing
-25,487334,Carlos,Camara,Los Angeles,CA,,
+25,487334,Carlos,Camara,Woodland Hills,CA,,
 26,526337,Tony,Medina,Norwalk,CA,,Team Pats 605
 27,201135,Andre,Nash,Cerritos,CA,,
 DNS,498098,Michael,Gould,San Clemente,CA,,HUNKR.com – PEDALindustries
@@ -50,10 +50,10 @@ Place,License #,First,Last,City,State,Time,Team
 2,432356,John,Lear,San Diego,CA,,
 3,495202,Didier,Sagan,San Diego,CA,,SDBC/EMERALD TEXTILES p/b UC Cyclery
 4,493549,Robb,Dorf,Irvine,CA,,
-5,31336,Mark,Satkiewicz,Pacific Palisades,CA,,Velo Club LaGrange
-6,458095,Monty,Zuniga,Los Angeles ,CA,,Velo Club La Grange +21
+5,31336,Mark,Satkiewicz,Los Angeles,CA,,Velo Club LaGrange
+6,458095,Monty,Zuniga,Los Angeles,CA,,Velo Club La Grange +21
 7,426691,Mel,Echual,Gardena,CA,,Team Velocity
-8,471808,Mark,Strohman,Aliso Viejo,CA,,R5 Ciclismo
+8,471808,Mark,Strohman,Irvine,CA,,R5 Ciclismo
 9,529133,Andrew,Rodriguez,Torrance,CA,,Big Orange Cycling p/b Beachbody Performance
 10,458958,Hiroshi,Suzuki,Irvine,CA,,R5 Ciclismo
 11,526062,Jimmy,Huizar,Torrance,CA,,Big Orange Cycling p/b Beachbody Performance
@@ -75,7 +75,7 @@ DNS,385753,Eric,Lubag,Moorpark,CA,,Serious Cycling
 DNF,533236,John,Barnes,Oceanside,CA,,
 DNF,496745,Anders,Gronberg,Aliso Viejo,CA,,RedMonkey Sports
 DNF,93533,Marc,Monette,Irvine,CA,,G3Foundation / Trek
-DNF,493619,Matt,Tennison,Highland ,UT,,PLAN7 DS Cycling Team
+DNF,493619,Matt,Tennison,Highland,UT,,PLAN7 DS Cycling Team
 
 05/13/2017 Road Race Men Cat 1/2/3/4 Master 55+
 Place,License #,First,Last,City,State,Time,Team
@@ -116,7 +116,7 @@ DNF,219616,Michael,Hall,Thousand Oaks,CA,,HSR Racing p/b BIRDWORX
 05/13/2017 Road Race Men Cat 1/2/3 Master 35+
 Place,License #,First,Last,City,State,Time,Team
 1,163315,Karl,Bordine,Encinitas,CA,,Monster Media Elite Masters
-2,266432,Matt,Cuttler,Venice,CA,,Santa Monica BMW Helen's Cycles Racing
+2,266432,Matt,Cuttler,Brooklyn,NY,,Santa Monica BMW Helen's Cycles Racing
 3,200063,Matthew,Wikstrom,Los Angeles,CA,,Santa Monica BMW Helen's Cycles Racing
 4,511731,Rob,Rigg,Carlsbad,CA,,Swami's Cycling Club
 5,286042,Dedrick,Kon,La Crescenta,CA,,Bike Effect
@@ -128,7 +128,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,193942,Espen,Kateraas,Aliso Viejo,CA,,
 12,86484,Nate,Freed,Carlsbad,CA,,Herbalife p/b Marc Pro - Nature's Bakery
 13,0,Armondo,Garcia,,,,
-14,182728,Max,Hernandez,Rancho Cucamonga ,CA,,Team Surf City p/b Eliel/Pioneer
+14,182728,Max,Hernandez,Rancho Cucamonga,CA,,Team Surf City p/b Eliel/Pioneer
 15,128496,Victor,Ayala,Los Angeles,CA,,Velo Club La Grange +21
 16,360114,Noah,Grassi,Las Vegas,NV,,Swami's Cycling Club
 17,303908,Greg,Kogut,San Diego,CA,,Swami's Cycling Club
@@ -145,7 +145,7 @@ DNF,9156,Chris,DeMarchi,Chino,CA,,Monster Media Elite Masters
 DNF,458669,steve,kim,Rancho Palos Verdes,CA,,Team Surf City p/b Eliel/Pioneer
 DNF,285225,giovanni,ortiz,Riverside,CA,,BestVIP - Mazda p/b Eibach
 DNF,216760,Charon,Smith,Signal Hill,CA,,Team Surf City p/b Eliel/Pioneer
-DNF,367806,Eric,Wright,Riverside,CA,,BestVIP - Mazda p/b Eibach
+DNF,367806,Eric,Wright,Aliso Viejo,CA,,BestVIP - Mazda p/b Eibach
 DNF,333364,Anthony,Reguero,Irvine,CA,,WIN TEAM RACING
 DNF,0,Juan,Vargas,,,,
 DNF,286824,Jose,Laureano Ramos,Winchester ,CA,,BestVIP - Mazda p/b Eibach
@@ -245,7 +245,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,325618,Leo,Bugtai,Thousand Oaks,CA,,SoCalCycling.com Team
 12,396137,Vincent,Gonzales,Santa Ana,CA,,Moment Bicycles
 13,197592,Rex,Roberts,Long Beach,CA,,Pacific Premier Bank Cycling Team
-14,279808,Brett,Beddow,Grossepointe,MI,,Wolverine Sports Club
+14,279808,Brett,Beddow,Grosse Pointe Park,MI,,Wolverine Sports Club
 15,425514,Chris,Edmunds,Long Beach,CA,,Team Velocity
 16,35628,Philip,Tinstman,San Marcos,CA,,Monster Media Racing
 17,313290,Drew,Kogon,Pacific Palisades,CA,,Velo Club LaGrange
@@ -261,7 +261,7 @@ Place,License #,First,Last,City,State,Time,Team
 27,215644,Quinten,Kirby,San Diego,CA,,SoCalCycling.com Team
 28,313364,Ethan,Frankel,Mill Valley,CA,,La Grange Development U21
 29,316972,erick,sobey,Ventura,CA,,Centric Racing p/b Catella
-30,441005,Angel,Munoz,Newhall,CA,,ENDO CONCEPT TEAM
+30,441005,Angel,Munoz,New Hall,CA,,ENDO CONCEPT TEAM
 31,269632,Terence,Traughber Jr,Los Angeles,CA,,Point S racing
 32,218099,Tyler,Locke,Canyon Country,CA,,
 33,169774,Brian,McCulloch,Yucaipa,CA,,UCI CT: Elevate-KHS Pro Cycling
@@ -349,7 +349,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,523916,George,Orloff,La Canada,CA,,
 14,127537,Maison,Chen,Del Mar,CA,,
 15,487368,Noah,Price,Aptos,CA,,SDBC/EMERALD TEXTILES p/b UC Cyclery
-16,422846,Jonathan,Perez,Ventura ,CA,,OTR Racing
+16,422846,Jonathan,Perez,Ventura,CA,,OTR Racing
 17,220004,Patrick,Sullivan,San Diego,CA,,SDBC/EMERALD TEXTILES p/b UC Cyclery
 18,522651,Chris,OConnell,Costa Mesa,CA,,
 19,498676,Michael,Muhney,Sherman Oaks,CA,,OTR Racing
@@ -375,7 +375,7 @@ Place,License #,First,Last,City,State,Time,Team
 39,467906,Eric,Otero,San Diego,CA,,SDBC/EMERALD TEXTILES p/b UC Cyclery
 40,411661,Houtan,BineshTarigh,Santa Clarita,CA,,Serious Cycling
 41,344612,Pablo,Lozano,Chula Vista,CA,,Hope Sports / Adrenaline
-42,391447,ANDREW,NUCKLES,Cerritos,CA,,Big Orange Cycling p/b Beachbody Performance
+42,391447,ANDREW,NUCKLES,Los Angeles,CA,,Big Orange Cycling p/b Beachbody Performance
 DNS,401693,Marcus,Lostracco,San Diego,CA,,Moment Bicycles
 DNS,496493,Lucas,Salazar,San Diego,CA,,
 DNF,474061,larry,hu,Hacienda Heights,CA,,
@@ -391,11 +391,11 @@ Place,License #,First,Last,City,State,Time,Team
 05/13/2017 Road Race Men Cat 3 Senior Open
 Place,License #,First,Last,City,State,Time,Team
 1,212515,Kevin,Bernotas,Irvine,CA,,PsyclePaths Cycling
-2,493880,William,Raus,Murrieta,CA,,S2C/BOSCH pb Pearl Izumi
+2,493880,William,Raus,Oceanside,CA,,S2C/BOSCH pb Pearl Izumi
 3,495216,Gary,Warner,Los Angeles,CA,,
 4,383998,Thomas,Rennier,Los Angeles,CA,,Velo Club La Grange +21
 5,419912,Cody,Jung,Poway,CA,,Team Roger C Peace
-6,457884,Jake,Marasco,Durango,CO,,Go Fast -Incycle
+6,457884,Jake,Marasco,Claremont,CA,,Go Fast -Incycle
 7,531187,Juan,Ferre,Chula Vista,CA,,
 8,367912,Eduardo,Cruz,San Diego,CA,,BMW Major Motion Development Team
 9,343216,Michael,Paine,Los Alamitos,CA,,Big Orange Cycling p/b Beachbody Performance
@@ -428,7 +428,7 @@ DNS,227888,Nicholas,Bishop,Costa Mesa,CA,,R5 Ciclismo
 DNS,208916,Robert,Hilton,Oceanside,CA,,Wolf Pack Cycling
 DNS,342684,Dylan,Nord,New York,NY,,
 DNS,296610,John,Snapp,Pomona,CA,,Southern California Velo
-DNF,1841,Michael,Araluce,Santa Ana,CA,,
+DNF,1841,Michael,Araluce,Tustin,CA,,
 DNF,234133,Patrick,Barrett,Los Angeles,CA,,Velo Club La Grange +21
 DNF,303983,daniel,cobley,Hermosabeach,CA,,Big Orange Cycling p/b Beachbody Performance
 DNF,412331,Ivan,Fernandez,Carson,CA,,Big Orange Cycling p/b Beachbody Performance

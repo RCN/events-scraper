@@ -7,8 +7,8 @@ Place,License #,First,Last,City,State,Time,Team
 2,51475,Darin,MARHANKA,Sellersburg,IN,13,Team Marhanka
 2,293467,Jordan,MARHANKA,Sellersburg,IN,13,Team Marhanka
 3,359006,Matt,GITTINGS,Indianapolis,IN,7,Connecticut Nor'easters
-3,313374,Kyle,STEWART,Indianapolis ,IN,7,Connecticut Nor'easters
-4,2443,John,BALMER,Indianapolis ,IN,-14,SRAM
+3,313374,Kyle,STEWART,Indianapolis,IN,7,Connecticut Nor'easters
+4,2443,John,BALMER,Indianapolis,IN,-14,SRAM
 4,41394,Scott,WHITEMAN,Indianapolis,IN,-14,SRAM
 5,184390,Nicole,BOREM SCHICKEL,Carmel,IN,-60,Igo Fasnow Racing
 5,303,Nathan,SCHICKEL,Carmel,IN,-60,Igo Fasnow Racing
@@ -29,7 +29,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,401567,Andrew,KRAHULIK,Indianapolis,IN,-20,Phoenix Fitness and Training
 13,30178,Doug,ROBINSON,Indianapolis,IN,-20,Phoenix Fitness and Training
 14,41394,Scott,WHITEMAN,Indianapolis,IN,-20,George Garner Cyclery Track Team
-15,2443,John,BALMER,Indianapolis ,IN,-40,Century Road Club Of America
+15,2443,John,BALMER,Indianapolis,IN,-40,Century Road Club Of America
 DNF,442987,Daniel,NESBITT,Indianapolis,IN,DNF,Marian University Cycling Team
 DNF,311035,Peter,BOCK,Muskego,WI,DNF,Marian University Cycling Team
 DNF,46006,Curtis,TOLSON,Louisville,KY,DNF,Texas Roadhouse Cycling Team
@@ -40,7 +40,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,403771,Luke,MANNING,Stoutsville,OH,16,Kreitler Racing Team
 3,411680,Bradley,GREEN,Schnecksville,PA,7,
 4,372502,Steven,TOBY,Somerset,KY,6,Somerset Cycling Club
-5,278921,Vance,FLETCHER,Chariton,IA,5,DASH RACING
+5,278921,Vance,FLETCHER,Indianapolis,IN,5,DASH RACING
 6,509626,Dakota,MITCHELL,Indianapolis,IN,1,Phoenix Fitness and Training
 7,441744,Dave,HARSTAD,Bloomington,IN,0,Bakehouse Cycling
 8,46950,Tom,Saccone,Bloomington,IN,0,Bakehouse Cycling
@@ -79,7 +79,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,41394,Scott,WHITEMAN,Indianapolis,IN,,George Garner Cyclery Track Team
 11,240005,Kyle,PERRY,Muncie,IN,,Texas Roadhouse Cycling Team
 13,401567,Andrew,KRAHULIK,Indianapolis,IN,,Phoenix Fitness and Training
-14,2443,John,BALMER,Indianapolis ,IN,,Century Road Club Of America
+14,2443,John,BALMER,Indianapolis,IN,,Century Road Club Of America
 DNS,293467,Jordan,MARHANKA,Sellersburg,IN,,Marian University Cycling Team
 DNP,257336,Ian,MCSHANE,Louisville,KY,,Marian University Cycling Team
 DNP,55674,Jon,LAZARD,Marion,IN,,Texas Roadhouse Cycling Team
@@ -126,7 +126,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,257336,Ian,MCSHANE,Louisville,KY,,Marian University Cycling Team
 5,388008,Hugo,SCALA JR,Dallas,TX,,Marian University Cycling Team
 6,240005,Kyle,PERRY,Muncie,IN,,Texas Roadhouse Cycling Team
-7,2443,John,BALMER,Indianapolis ,IN,,Century Road Club Of America
+7,2443,John,BALMER,Indianapolis,IN,,Century Road Club Of America
 8,454200,Eli,HOUSE,Indianapolis,IN,,Marian University Cycling Team
 9,55674,Jon,LAZARD,Marion,IN,,Texas Roadhouse Cycling Team
 10,359006,Matt,GITTINGS,Indianapolis,IN,,unattached
@@ -144,7 +144,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,403771,Luke,MANNING,Stoutsville,OH,,Kreitler Racing Team
 2,500848,Jonathan,HALE,Tampa,FL,,
 3,411680,Bradley,GREEN,Schnecksville,PA,,
-4,278921,Vance,FLETCHER,Chariton,IA,,DASH RACING
+4,278921,Vance,FLETCHER,Indianapolis,IN,,DASH RACING
 5,509626,Dakota,MITCHELL,Indianapolis,IN,,Phoenix Fitness and Training
 6,372502,Steven,TOBY,Somerset,KY,,Somerset Cycling Club
 7,441744,Dave,HARSTAD,Bloomington,IN,,Bakehouse Cycling
@@ -183,7 +183,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,454200,Eli,HOUSE,Indianapolis,IN,12.09,Marian University Cycling Team
 8,382967,Victor,POPOV,Plainfield,IN,12.49,Igo Fasnow Racing
 9,372502,Steven,TOBY,Somerset,KY,12.58,Somerset Cycling Club
-10,2443,John,BALMER,Indianapolis ,IN,12.77,Century Road Club Of America
+10,2443,John,BALMER,Indianapolis,IN,12.77,Century Road Club Of America
 11,441744,Dave,HARSTAD,Bloomington,IN,13.05,Bakehouse Cycling
 12,484944,Ethan,FRANKLIN,Indianapolis,IN,13.10,Marian University Cycling Team
 13,46950,Tom,SACCONE,Bloomington,IN,13.28,Bakehouse Cycling
@@ -220,7 +220,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,59282,John,BOTT,Carmel,IN,,Igo Fasnow Racing
 7,454200,Eli,HOUSE,Indianapolis,IN,,Marian University Cycling Team
 8,382967,Victor,POPOV,Plainfield,IN,,Igo Fasnow Racing
-9,2443,John,BALMER,Indianapolis ,IN,,Century Road Club Of America
+9,2443,John,BALMER,Indianapolis,IN,,Century Road Club Of America
 10,372502,Steven,TOBY,Somerset,KY,,Somerset Cycling Club
 11,484944,Ethan,FRANKLIN,Indianapolis,IN,,Marian University Cycling Team
 12,441744,Dave,HARSTAD,Bloomington,IN,,Bakehouse Cycling
@@ -257,7 +257,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,215016,David,MORSE,Indianapolis,IN,,Cycle Club
 6,311035,Peter,BOCK,Muskego,WI,,Marian University Cycling Team
 7,388008,Hugo,SCALA JR,Dallas,TX,,Marian University Cycling Team
-8,2443,John,BALMER,Indianapolis ,IN,,Century Road Club Of America
+8,2443,John,BALMER,Indianapolis,IN,,Century Road Club Of America
 9,46006,Curtis,TOLSON,Louisville,KY,,Texas Roadhouse Cycling Team
 10,334610,Sam,WINTERS,Indianapolis,IN,,Marian University Cycling Team
 11,30178,Doug,ROBINSON,Indianapolis,IN,,Phoenix Fitness and Training
@@ -274,7 +274,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,286308,Cade,BICKMORE,Longmont,CO,,Marian University Cycling Team
 2,403771,Luke,MANNING,Stoutsville,OH,,Kreitler Racing Team
 3,411680,Bradley,GREEN,Schnecksville,PA,,Marian University Cycling Team
-4,278921,Vance,FLETCHER,Chariton,IA,,DASH Racing
+4,278921,Vance,FLETCHER,Indianapolis,IN,,DASH Racing
 5,353428,Scott,BAUMER,Indianapolis,IN,,DASH Racing
 6,41402,Derek,WITTE,Indianapolis,IN,,Bissell/ABG Cycling Club
 7,46950,Tom,SACCONE,Bloomington,IN,,Bakehouse Cycling
@@ -321,7 +321,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,539161,Hayden,STRONG,Indianapolis,IN,,Marian University Cycling Team
 4,46006,Curtis,TOLSON,Louisville,KY,,Texas Roadhouse Cycling Team
 5,334610,Sam,WINTERS,Indianapolis,IN,,Marian University Cycling Team
-6,2443,John,BALMER,Indianapolis ,IN,,Century Road Club Of America
+6,2443,John,BALMER,Indianapolis,IN,,Century Road Club Of America
 7,442987,Daniel,NESBITT,Indianapolis,IN,,Marian University Cycling Team
 8,267850,Zachary,NEHR,Fox Point,WI,,Marian University Cycling Team
 9,215016,David,MORSE,Indianapolis,IN,,Cycle Club
@@ -346,7 +346,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,441744,Dave,HARSTAD,Bloomington,IN,,Bakehouse Cycling
 8,372502,Steven,TOBY,Somerset,KY,,Somerset Cycling Club
 9,509626,Dakota,MITCHELL,Indianapolis,IN,,
-10,278921,Vance,FLETCHER,Chariton,IA,,DASH Racing
+10,278921,Vance,FLETCHER,Indianapolis,IN,,DASH Racing
 11,395247,Nate,LAKE,Indianapolis,IN,,DASH Racing
 12,396958,Joe,BLOMMEL,Indianapolis,IN,,Pheonix Fitness and Training
 13,484944,Ethan,FRANKLIN,Indianapolis,IN,,Marian University Cycling Team
@@ -388,7 +388,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,293467,Jordan,MARHANKA,Sellersburg,IN,,Marian University Cycling Team
 5,311035,Peter,BOCK,Muskego,WI,,Marian University Cycling Team
 6,334610,Sam,WINTERS,Indianapolis,IN,,Marian University Cycling Team
-7,2443,John,BALMER,Indianapolis ,IN,,Century Road Club Of America
+7,2443,John,BALMER,Indianapolis,IN,,Century Road Club Of America
 8,46006,Curtis,TOLSON,Louisville,KY,,Texas Roadhouse Cycling Team
 9,442987,Daniel,NESBITT,Indianapolis,IN,,Marian University Cycling Team
 10,267850,Zachary,NEHR,Fox Point,WI,,Marian University Cycling Team
@@ -405,7 +405,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,286308,Cade,BICKMORE,Longmont,CO,,Marian University Cycling Team
 2,403771,Luke,MANNING,Stoutsville,OH,,Kreitler Racing Team
 3,411680,Bradley,GREEN,Schnecksville,PA,,Marian University Cycling Team
-4,278921,Vance,FLETCHER,Chariton,IA,,DASH Racing
+4,278921,Vance,FLETCHER,Indianapolis,IN,,DASH Racing
 5,41402,Derek,WITTE,Indianapolis,IN,,Bissell/ABG Cycling Club
 6,353428,Scott,BAUMER,Indianapolis,IN,,DASH Racing
 7,382967,Victor,POPOV,Plainfield,IN,,Igo Fasnow Racing
@@ -454,7 +454,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,293467,Jordan,MARHANKA,Sellersburg,IN,88,Marian University Cycling Team
 6,46006,Curtis,TOLSON,Louisville,KY,84,Texas Roadhouse Cycling Team
 7,388008,Hugo,SCALA JR,Dallas,TX,67,Marian University Cycling Team
-8,2443,John,BALMER,Indianapolis ,IN,64,Century Road Club Of America
+8,2443,John,BALMER,Indianapolis,IN,64,Century Road Club Of America
 9,267850,Zachary,NEHR,Fox Point,WI,64,Marian University Cycling Team
 10,454200,Eli,HOUSE,Indianapolis,IN,62,Marian University Cycling Team
 11,30178,Doug,ROBINSON,Indianapolis,IN,43,Phoenix Fitness and Training
@@ -473,7 +473,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,411680,Bradley,GREEN,Schnecksville,PA,114,Marian University Cycling Team
 4,41402,Derek,WITTE,Indianapolis,IN,96,Bissell/ABG Cycling Club
 5,353428,Scott,BAUMER,Indianapolis,IN,92,DASH Racing
-6,278921,Vance,FLETCHER,Chariton,IA,92,DASH Racing
+6,278921,Vance,FLETCHER,Indianapolis,IN,92,DASH Racing
 7,46950,Tom,SACCONE,Bloomington,IN,84,Bakehouse Cycling
 8,441744,Dave,HARSTAD,Bloomington,IN,76,Bakehouse Cycling
 9,372502,Steven,TOBY,Somerset,KY,70,Somerset Cycling Club
@@ -522,14 +522,14 @@ Place,License #,First,Last,City,State,Time,Team
 7,454200,Eli,HOUSE,Indianapolis,IN,,Marian University Cycling Team
 8,46006,Curtis,TOLSON,Louisville,KY,,Texas Roadhouse Cycling Team
 9,215016,David,MORSE,Indianapolis,IN,,Cycle Club
-10,2443,John,BALMER,Indianapolis ,IN,,Century Road Club Of America
+10,2443,John,BALMER,Indianapolis,IN,,Century Road Club Of America
 11,293467,Jordan,MARHANKA,Sellersburg,IN,,Marian University Cycling Team
 12,442987,Daniel,NESBITT,Indianapolis,IN,,Marian University Cycling Team
 13,30178,Doug,ROBINSON,Indianapolis,IN,,Phoenix Fitness and Training
 14,41394,Scott,WHITEMAN,Indianapolis,IN,,George Garner Cyclery Track Team
 15,311035,Peter,BOCK,Muskego,WI,,Marian University Cycling Team
 16,267850,Zachary,NEHR,Fox Point,WI,,Marian University Cycling Team
-17,313374,Kyle,STEWART,Indianapolis ,IN,,Marian University Cycling Team
+17,313374,Kyle,STEWART,Indianapolis,IN,,Marian University Cycling Team
 
 08/17/2017 Elimination Men Cat 3/4
 Place,License #,First,Last,City,State,Time,Team
@@ -537,7 +537,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,411680,Bradley,GREEN,Schnecksville,PA,,Marian University Cycling Team
 3,403771,Luke,MANNING,Stoutsville,OH,,Kreitler Racing Team
 4,500848,Jonathan,HALE,Tampa,FL,,
-5,278921,Vance,FLETCHER,Chariton,IA,,DASH Racing
+5,278921,Vance,FLETCHER,Indianapolis,IN,,DASH Racing
 6,58676,Patrick,MEYER,Carmel,IN,,OrthoIndy
 7,46950,Tom,SACCONE,Bloomington,IN,,Bakehouse Cycling
 8,353428,Scott,BAUMER,Indianapolis,IN,,DASH Racing
@@ -592,15 +592,15 @@ Place,License #,First,Last,City,State,Time,Team
 11,454200,Eli,HOUSE,Indianapolis,IN,1,Marian University Cycling Team
 12,51475,Darin,MARHANKA,Sellersburg,IN,1,Texas Roadhouse Cycling Team
 13,30178,Doug,ROBINSON,Indianapolis,IN,1,Phoenix Fitness and Training
-14,2443,John,BALMER,Indianapolis ,IN,0,Century Road Club Of America
-15,313374,Kyle,STEWART,Indianapolis ,IN,-20,Marian University Cycling Team - 2
+14,2443,John,BALMER,Indianapolis,IN,0,Century Road Club Of America
+15,313374,Kyle,STEWART,Indianapolis,IN,-20,Marian University Cycling Team - 2
 16,442987,Daniel,NESBITT,Indianapolis,IN,-40,Marian University Cycling Team
 
 08/17/2017 Points Race Men Cat 3/4
 Place,License #,First,Last,City,State,Time,Team
 1,286308,Cade,BICKMORE,Longmont,CO,20,Marian University Cycling Team
 2,500848,Jonathan,HALE,Tampa,FL,13,
-3,278921,Vance,FLETCHER,Chariton,IA,12,DASH Racing
+3,278921,Vance,FLETCHER,Indianapolis,IN,12,DASH Racing
 4,58676,Patrick,MEYER,Carmel,IN,8,OrthoIndy
 5,411680,Bradley,GREEN,Schnecksville,PA,5,Marian University Cycling Team
 6,403771,Luke,MANNING,Stoutsville,OH,4,Kreitler Racing Team
@@ -650,11 +650,11 @@ Place,License #,First,Last,City,State,Time,Team
 4,46006,Curtis,TOLSON,Louisville,KY,,Texas Roadhouse Cycling Team
 5,30178,Doug,ROBINSON,Indianapolis,IN,,Phoenix Fitness and Training
 6,293467,Jordan,MARHANKA,Sellersburg,IN,,Marian University Cycling Team
-7,2443,John,BALMER,Indianapolis ,IN,,Century Road Club Of America
+7,2443,John,BALMER,Indianapolis,IN,,Century Road Club Of America
 8,442987,Daniel,NESBITT,Indianapolis,IN,,Marian University Cycling Team
 9,215016,David,MORSE,Indianapolis,IN,,Cycle Club
 10,311035,Peter,BOCK,Muskego,WI,,Marian University Cycling Team
-11,313374,Kyle,STEWART,Indianapolis ,IN,,Marian University Cycling Team - 2
+11,313374,Kyle,STEWART,Indianapolis,IN,,Marian University Cycling Team - 2
 12,454200,Eli,HOUSE,Indianapolis,IN,,Marian University Cycling Team
 13,334610,Sam,WINTERS,Indianapolis,IN,,Marian University Cycling Team - 2
 14,51475,Darin,MARHANKA,Sellersburg,IN,,Texas Roadhouse Cycling Team
@@ -676,7 +676,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,484944,Ethan,FRANKLIN,Indianapolis,IN,,Marian University Cycling Team
 12,441744,Dave,HARSTAD,Bloomington,IN,,Bakehouse Cycling
 13,46950,Tom,SACCONE,Bloomington,IN,,Bakehouse Cycling
-14,278921,Vance,FLETCHER,Chariton,IA,,DASH Racing
+14,278921,Vance,FLETCHER,Indianapolis,IN,,DASH Racing
 15,4046,Bruce,BOCK,Muskego,WI,,VC Bikesport
 16,303,Nathan,SCHICKEL,Carmel,IN,,Igo Fasnow Racing
 
@@ -712,10 +712,10 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,59282,John,BOTT,Carmel,IN,11.63,Igo Fasnow Racing
 2,41394,Scott,WHITEMAN,Indianapolis,IN,11.70,George Garner Cyclery Track Team
-3,198135,Eric,KNACKMUHS,Bloomington,IN,11.96,Bakehouse Cycling
+3,198135,Eric,KNACKMUHS,Bowling Green,KY,11.96,Bakehouse Cycling
 4,372502,Steven,TOBY,Somerset,KY,12.34,Somerset Cycling Club
-5,2443,John,BALMER,Indianapolis ,IN,12.35,Century Road Club Of America
-6,313374,Kyle,STEWART,Indianapolis ,IN,12.45,Team Dayton
+5,2443,John,BALMER,Indianapolis,IN,12.35,Century Road Club Of America
+6,313374,Kyle,STEWART,Indianapolis,IN,12.45,Team Dayton
 7,500848,Jonathan,HALE,Tampa,FL,12.60,
 8,51981,Richard,PEARSON,New Albany,IN,12.83,Team Louisville
 9,438443,George,MORRISON IV,Indianapolis,IN,12.90,The Fitness Lab
@@ -754,8 +754,8 @@ Place,License #,First,Last,City,State,Time,Team
 1,41394,Scott,WHITEMAN,Indianapolis,IN,1:09.98,Marian University Cycling Team
 1,442987,Daniel,NESBITT,Indianapolis,IN,1:09.98,Marian University Cycling Team
 1,334610,Sam,WINTERS,Indianapolis,IN,1:09.98,Marian University Cycling Team
-2,198135,Eric,KNACKMUHS,Bloomington,IN,1:10.56,
-2,2443,John,BALMER,Indianapolis ,IN,1:10.56,
+2,198135,Eric,KNACKMUHS,Bowling Green,KY,1:10.56,
+2,2443,John,BALMER,Indianapolis,IN,1:10.56,
 2,59282,John,BOTT,Carmel,IN,1:10.56,
 3,533702,Cooper,FOX,Bloomington,IN,1:15.94,Bakehouse Cycling
 3,441744,Dave,HARSTAD,Bloomington,IN,1:15.94,Bakehouse Cycling
@@ -765,7 +765,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,530733,Mark,BUCHERL,Indianapolis,IN,1:19.35,
 5,274498,Brian,WIND,Greenwood,IN,1:14.98,
 5,51981,Richard,PEARSON,New Albany,IN,1:14.98,
-5,313374,Kyle,STEWART,Indianapolis ,IN,1:14.98,
+5,313374,Kyle,STEWART,Indianapolis,IN,1:14.98,
 
 08/10/2017 Team Sprint Men Juniors
 Place,License #,First,Last,City,State,Time,Team
@@ -789,13 +789,13 @@ Place,License #,First,Last,City,State,Time,Team
 08/10/2017 Time Trial Men 1km TT
 Place,License #,First,Last,City,State,Time,Team
 1,41394,Scott,WHITEMAN,Indianapolis,IN,1:12.06,George Garner Cyclery Track Team
-2,198135,Eric,KNACKMUHS,Bloomington,IN,1:12.12,Bakehouse Cycling
+2,198135,Eric,KNACKMUHS,Bowling Green,KY,1:12.12,Bakehouse Cycling
 3,442987,Daniel,NESBITT,Indianapolis,IN,1:13.41,Marian University Cycling Team
 4,59282,John,BOTT,Carmel,IN,1:13.87,Igo Fasnow Racing
 5,500848,Jonathan,HALE,Tampa,FL,1:14.70,
-6,313374,Kyle,STEWART,Indianapolis ,IN,1:15.19,Team Dayton
+6,313374,Kyle,STEWART,Indianapolis,IN,1:15.19,Team Dayton
 7,372502,Steven,TOBY,Somerset,KY,1:15.73,Somerset Cycling Club
-8,2443,John,BALMER,Indianapolis ,IN,1:16.08,Century Road Club Of America
+8,2443,John,BALMER,Indianapolis,IN,1:16.08,Century Road Club Of America
 9,441744,Dave,HARSTAD,Bloomington,IN,1:17.41,Bakehouse Cycling
 10,516073,Larry,CHEN,Indianapolis,IN,1:19.25,
 11,508376,Philip,PERRY,Indianapolis,IN,1:20.94,
@@ -806,7 +806,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 08/10/2017 Time Trial Men 500m TT
 Place,License #,First,Last,City,State,Time,Team
-1,2443,John,BALMER,Indianapolis ,IN,38.93,Century Road Club Of America
+1,2443,John,BALMER,Indianapolis,IN,38.93,Century Road Club Of America
 2,500848,Jonathan,HALE,Tampa,FL,39.59,
 3,274498,Brian,WIND,Greenwood,IN,39.60,Gray Goat Sports
 4,50723,Tony,WELCH,Indianapolis,IN,40.36,Pista Elite
@@ -836,14 +836,14 @@ Place,License #,First,Last,City,State,Time,Team
 08/03/2017 Individual Pursuit Men 2km IP
 Place,License #,First,Last,City,State,Time,Team
 1,27887,Dean,PETERSON,Indianapolis,IN,2:32.90,ZIPP Masters Team
-2,2443,John,BALMER,Indianapolis ,IN,2:36.45,Century Road Club Of America
+2,2443,John,BALMER,Indianapolis,IN,2:36.45,Century Road Club Of America
 3,508376,Philip,PERRY,Indianapolis,IN,2:49.09,
 4,46950,Tom,SACCONE,Bloomington,IN,2:51.17,Bakehouse Cycling
 5,530733,Mark,BUCHERL,Indianapolis,IN,3:04.49,
 
 08/03/2017 Individual Pursuit Men 3km IP
 Place,License #,First,Last,City,State,Time,Team
-1,198135,Eric,KNACKMUHS,Bloomington,IN,3:47.47,Bakehouse Cycling
+1,198135,Eric,KNACKMUHS,Bowling Green,KY,3:47.47,Bakehouse Cycling
 2,41394,Scott,WHITEMAN,Indianapolis,IN,3:58.41,George Garner Cyclery Track Team
 3,441744,Dave,HARSTAD,Bloomington,IN,4:10.10,Bakehouse Cycling
 4,46950,Tom,SACCONE,Bloomington,IN,4:40.37,Bakehouse Cycling
@@ -852,9 +852,9 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,359006,Matt,GITTINGS,Indianapolis,IN,4:57.06,unattached
 2,334610,Sam,WINTERS,Indianapolis,IN,5:10.35,Marian University Cycling Team
-3,198135,Eric,KNACKMUHS,Bloomington,IN,5:12.22,Bakehouse Cycling
-4,313374,Kyle,STEWART,Indianapolis ,IN,5:21.49,Team Dayton Bicycling
-5,2443,John,BALMER,Indianapolis ,IN,5:24.66,Century Road Club Of America
+3,198135,Eric,KNACKMUHS,Bowling Green,KY,5:12.22,Bakehouse Cycling
+4,313374,Kyle,STEWART,Indianapolis,IN,5:21.49,Team Dayton Bicycling
+5,2443,John,BALMER,Indianapolis,IN,5:24.66,Century Road Club Of America
 6,441744,Dave,HARSTAD,Bloomington,IN,5:47.03,Bakehouse Cycling
 
 08/03/2017 Individual Pursuit Women 3km IP
@@ -876,7 +876,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,359006,Matt,GITTINGS,Indianapolis,IN,4:55.81,Marian Composite
 1,27887,Dean,PETERSON,Indianapolis,IN,4:55.81,Marian Composite
-1,313374,Kyle,STEWART,Indianapolis ,IN,4:55.81,Marian Composite
+1,313374,Kyle,STEWART,Indianapolis,IN,4:55.81,Marian Composite
 1,334610,Sam,WINTERS,Indianapolis,IN,4:55.81,Marian Composite
 
 08/03/2017 Team Pursuit Women TP
@@ -920,7 +920,7 @@ Place,License #,First,Last,City,State,Time,Team
 07/20/2017 Elimination Men Cat 3
 Place,License #,First,Last,City,State,Time,Team
 1,372502,Steven,TOBY,Somerset,KY,,Somerset Cycling Club
-2,278921,Vance,FLETCHER,Chariton,IA,,Dash Racing
+2,278921,Vance,FLETCHER,Indianapolis,IN,,Dash Racing
 3,58676,Patrick,MEYER,Carmel,IN,,OrthoIndy
 6,51981,Richard,PEARSON,New Albany,IN,,Team Louisville
 7,46950,Tom,SACCONE,Bloomington,IN,,Bakehouse Cycling
@@ -939,12 +939,12 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,290397,Ryan,SHEAN,Indianapolis,IN,18,Texas Roadhouse Cycling Team
 1,240005,Kyle,PERRY,Muncie,IN,18,Texas Roadhouse Cycling Team
-2,313374,Kyle,STEWART,Indianapolis ,IN,12,Connecticut Nor'easters
+2,313374,Kyle,STEWART,Indianapolis,IN,12,Connecticut Nor'easters
 2,359006,Matt,GITTINGS,Indianapolis,IN,12,Connecticut Nor'easters
 3,41394,Scott,WHITEMAN,Indianapolis,IN,-10,Team SRAM
-3,2443,John,BALMER,Indianapolis ,IN,-10,Team SRAM
-4,250355,Zach,BENDER,Glen Rock,NJ,-38,DASH Racing
-4,278921,Vance,FLETCHER,Chariton,IA,-38,DASH Racing
+3,2443,John,BALMER,Indianapolis,IN,-10,Team SRAM
+4,250355,Zach,BENDER,Waldwick,NJ,-38,DASH Racing
+4,278921,Vance,FLETCHER,Indianapolis,IN,-38,DASH Racing
 
 07/20/2017 Points Race Men Pro/Cat 1/2
 Place,License #,First,Last,City,State,Time,Team
@@ -953,23 +953,23 @@ Place,License #,First,Last,City,State,Time,Team
 3,359006,Matt,GITTINGS,Indianapolis,IN,19,unattached
 4,334610,Sam,WINTERS,Indianapolis,IN,15,Marian University Cycling Team
 5,476610,Joseph,KRAHULIK,Indianapolis,IN,-15,
-6,198135,Eric,KNACKMUHS,Bloomington,IN,-38,Bakehouse Cycling
+6,198135,Eric,KNACKMUHS,Bowling Green,KY,-38,Bakehouse Cycling
 7,401567,Andrew,KRAHULIK,Indianapolis,IN,-58,Phoenix Fitness and Training
-DNF,313374,Kyle,STEWART,Indianapolis ,IN,DNF,Team Dayton Bicycling
+DNF,313374,Kyle,STEWART,Indianapolis,IN,DNF,Team Dayton Bicycling
 
 07/20/2017 Scratch Race Men Pro/Cat 1/2
 Place,License #,First,Last,City,State,Time,Team
 1,240005,Kyle,PERRY,Muncie,IN,,Texas Roadhouse Cycling Team
 2,334610,Sam,WINTERS,Indianapolis,IN,,Marian University Cycling Team
-3,2443,John,BALMER,Indianapolis ,IN,,Century Road Club Of America
+3,2443,John,BALMER,Indianapolis,IN,,Century Road Club Of America
 4,476610,Joseph,KRAHULIK,Indianapolis,IN,,
-5,198135,Eric,KNACKMUHS,Bloomington,IN,,Bakehouse Cycling
-6,250355,Zach,BENDER,Glen Rock,NJ,,Cycle-Smart Inc.
+5,198135,Eric,KNACKMUHS,Bowling Green,KY,,Bakehouse Cycling
+6,250355,Zach,BENDER,Waldwick,NJ,,Cycle-Smart Inc.
 7,359006,Matt,GITTINGS,Indianapolis,IN,,unattached
 8,290397,Ryan,SHEAN,Indianapolis,IN,,Texas Roadhouse Cycling Team
 9,401567,Andrew,KRAHULIK,Indianapolis,IN,,Phoenix Fitness and Training
 10,41394,Scott,WHITEMAN,Indianapolis,IN,,George Garner Cyclery Track Team
-11,313374,Kyle,STEWART,Indianapolis ,IN,,Team Dayton Bicycling
+11,313374,Kyle,STEWART,Indianapolis,IN,,Team Dayton Bicycling
 
 07/20/2017 Scratch Race Men Cat 4/5 B
 Place,License #,First,Last,City,State,Time,Team
@@ -993,7 +993,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 07/20/2017 Scratch Race Men Cat 3
 Place,License #,First,Last,City,State,Time,Team
-1,278921,Vance,FLETCHER,Chariton,IA,,Dash Racing
+1,278921,Vance,FLETCHER,Indianapolis,IN,,Dash Racing
 2,372502,Steven,TOBY,Somerset,KY,,Somerset Cycling Club
 3,46950,Tom,SACCONE,Bloomington,IN,,Bakehouse Cycling
 4,58676,Patrick,MEYER,Carmel,IN,,OrthoIndy
@@ -1035,7 +1035,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,58676,Patrick,MEYER,Carmel,IN,,OrthoIndy
 3,46950,Tom,SACCONE,Bloomington,IN,,Bakehouse Cycling
 4,51981,Richard,PEARSON,New Albany,IN,,Team Louisville
-DNS,278921,Vance,FLETCHER,Chariton,IA,,Dash Racing
+DNS,278921,Vance,FLETCHER,Indianapolis,IN,,Dash Racing
 
 07/20/2017 Super Tempo Women Pro/Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
@@ -1049,7 +1049,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 07/20/2017 Tempo Men Pro/Cat 1/2/3 Masters
 Place,License #,First,Last,City,State,Time,Team
-1,2443,John,BALMER,Indianapolis ,IN,7,Century Road Club Of America
+1,2443,John,BALMER,Indianapolis,IN,7,Century Road Club Of America
 2,41394,Scott,WHITEMAN,Indianapolis,IN,5,George Garner Cyclery Track Team
 3,58676,Patrick,MEYER,Carmel,IN,2,OrthoIndy
 4,46950,Tom,SACCONE,Bloomington,IN,0,Bakehouse Cycling
@@ -1061,11 +1061,11 @@ Place,License #,First,Last,City,State,Time,Team
 2,290397,Ryan,SHEAN,Indianapolis,IN,,Texas Roadhouse Cycling Team
 3,293467,Jordan,MARHANKA,Sellersburg,IN,,Texas Roadhouse Cycling Team
 4,311035,Peter,BOCK,Muskego,WI,,VC Bikesport
-5,2443,John,BALMER,Indianapolis ,IN,,Century Road Club Of America
+5,2443,John,BALMER,Indianapolis,IN,,Century Road Club Of America
 6,59282,John,BOTT,Carmel,IN,,Igo Fasnow Racing
 7,454200,Eli,HOUSE,Indianapolis,IN,,DASH RACING
 8,401567,Andrew,KRAHULIK,Indianapolis,IN,,Phoenix Fitness and Training
-9,313374,Kyle,STEWART,Indianapolis ,IN,,Team Dayton Bicycling
+9,313374,Kyle,STEWART,Indianapolis,IN,,Team Dayton Bicycling
 10,243473,Tyler,ROBERTS,Indianapolis,IN,,Christian Cycling
 11,334610,Sam,WINTERS,Indianapolis,IN,,Marian University Cycling Team
 
@@ -1116,7 +1116,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,359006,Matt,GITTINGS,Indianapolis,IN,5,unattached
 8,401567,Andrew,KRAHULIK,Indianapolis,IN,3,Phoenix Fitness and Training
 9,454200,Eli,HOUSE,Indianapolis,IN,1,DASH RACING
-10,313374,Kyle,STEWART,Indianapolis ,IN,0,Team Dayton Bicycling
+10,313374,Kyle,STEWART,Indianapolis,IN,0,Team Dayton Bicycling
 11,46006,Curtis,TOLSON,Louisville,KY,0,Texas Roadhouse Cycling Team
 12,243473,Tyler,ROBERTS,Indianapolis,IN,-20,Christian Cycling
 DNF,311035,Peter,BOCK,Muskego,WI,,VC Bikesport
@@ -1168,10 +1168,10 @@ Place,License #,First,Last,City,State,Time,Team
 7,311035,Peter,BOCK,Muskego,WI,,VC Bikesport
 8,401567,Andrew,KRAHULIK,Indianapolis,IN,,Phoenix Fitness and Training
 9,51475,Darin,MARHANKA,Sellersburg,IN,,Texas Roadhouse Cycling Team
-10,2443,John,BALMER,Indianapolis ,IN,,Century Road Club Of America
+10,2443,John,BALMER,Indianapolis,IN,,Century Road Club Of America
 11,243473,Tyler,ROBERTS,Indianapolis,IN,,Christian Cycling
 12,46006,Curtis,TOLSON,Louisville,KY,,Texas Roadhouse Cycling Team
-13,313374,Kyle,STEWART,Indianapolis ,IN,,Team Dayton Bicycling
+13,313374,Kyle,STEWART,Indianapolis,IN,,Team Dayton Bicycling
 DNF,59282,John,BOTT,Carmel,IN,,Igo Fasnow Racing
 
 07/06/2017 Scratch Race Men Cat 3/4
@@ -1218,10 +1218,10 @@ Place,License #,First,Last,City,State,Time,Team
 4,59282,John,BOTT,Carmel,IN,11.72,Igo Fasnow Racing
 5,351204,Matthew,HARRISON,Freeport,NY,11.77,Star Track Racing
 6,345484,Ian,BORELLA,Glendale,MO,11.90,Dogfish/Team Noah
-7,198135,Eric,KNACKMUHS,Bloomington,IN,11.95,Bakehouse Cycling
+7,198135,Eric,KNACKMUHS,Bowling Green,KY,11.95,Bakehouse Cycling
 8,393521,Chris,KIRKHAM,Champaign,IL,12.28,Wild Card Cycling
 9,382967,Victor,POPOV,Plainfield,IN,12.47,Igo Fasnow Racing
-10,2443,John,BALMER,Indianapolis ,IN,12.51,Century Road Club Of America
+10,2443,John,BALMER,Indianapolis,IN,12.51,Century Road Club Of America
 11,441744,Dave,HARSTAD,Bloomington,IN,12.66,Bakehouse Cycling
 12,274498,Brian,WIND,Greenwood,IN,12.661,Gray Goat Sports
 13,51981,Richard,PEARSON,New Albany,IN,12.71,Team Louisville
@@ -1254,9 +1254,9 @@ Place,License #,First,Last,City,State,Time,Team
 5,345484,Ian,BORELLA,Glendale,MO,,Dogfish/Team Noah
 6,351204,Matthew,HARRISON,Freeport,NY,,Star Track Racing
 7,393521,Chris,KIRKHAM,Champaign,IL,,Wild Card Cycling
-8,198135,Eric,KNACKMUHS,Bloomington,IN,,Bakehouse Cycling
+8,198135,Eric,KNACKMUHS,Bowling Green,KY,,Bakehouse Cycling
 9,382967,Victor,POPOV,Plainfield,IN,,Igo Fasnow Racing
-10,2443,John,BALMER,Indianapolis ,IN,,Century Road Club Of America
+10,2443,John,BALMER,Indianapolis,IN,,Century Road Club Of America
 11,274498,Brian,WIND,Greenwood,IN,,Gray Goat Sports
 12,441744,Dave,HARSTAD,Bloomington,IN,,Bakehouse Cycling
 13,51981,Richard,PEARSON,New Albany,IN,,Team Louisville
@@ -1284,29 +1284,29 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,240005,Kyle,PERRY,Muncie,IN,,Texas Roadhouse
 2,290397,Ryan,SHEAN,Indianapolis,IN,,Texas Roadhouse
-3,2443,John,BALMER,Indianapolis ,IN,,Century Road Club Of America
-4,198135,Eric,KNACKMUHS,Bloomington,IN,,Bakehouse Cycling
+3,2443,John,BALMER,Indianapolis,IN,,Century Road Club Of America
+4,198135,Eric,KNACKMUHS,Bowling Green,KY,,Bakehouse Cycling
 5,334610,Sam,WINTERS,Indianapolis,IN,,Marian University Cycling Team
 6,401567,Andrew,KRAHULIK,Indianapolis,IN,,Phoenix Fitness and Training
 7,309939,Sam,HARBISON,Bloomington,IN,,Cycle Club
-8,250355,Zach,BENDER,Glen Rock,NJ,,Cycle-Smart Inc.
+8,250355,Zach,BENDER,Waldwick,NJ,,Cycle-Smart Inc.
 9,55674,Jon,LAZARD,Marion,IN,,Texas Roadhouse
 10,41394,Scott,WHITEMAN,Indianapolis,IN,,George Garner Cyclery Track Team
 11,454200,Eli,HOUSE,Indianapolis,IN,,DASH RACING
 12,359006,Matt,GITTINGS,Indianapolis,IN,,unattached
-13,313374,Kyle,STEWART,Indianapolis ,IN,,Team Dayton Bicycling
+13,313374,Kyle,STEWART,Indianapolis,IN,,Team Dayton Bicycling
 14,303,Nathan,SCHICKEL,Carmel,IN,,Igo Fasnow Racing
 
 06/15/2017 Madison Mixed Pro/Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
 1,359006,Matt,GITTINGS,Indianapolis,IN,13,WCL Nor'easter
-1,313374,Kyle,STEWART,Indianapolis ,IN,13,WCL Nor'easter
+1,313374,Kyle,STEWART,Indianapolis,IN,13,WCL Nor'easter
 2,309939,Sam,HARBISON,Bloomington,IN,12,Texas Roadhouse
 2,240005,Kyle,PERRY,Muncie,IN,12,Texas Roadhouse
 3,41394,Scott,WHITEMAN,Indianapolis,IN,-7,Team SRAM
-3,2443,John,BALMER,Indianapolis ,IN,-7,Team SRAM
-4,250355,Zach,BENDER,Glen Rock,NJ,-17,Marian University Cycling Team Alumni
-4,278921,Vance,FLETCHER,Chariton,IA,-17,Marian University Cycling Team Alumni
+3,2443,John,BALMER,Indianapolis,IN,-7,Team SRAM
+4,250355,Zach,BENDER,Waldwick,NJ,-17,Marian University Cycling Team Alumni
+4,278921,Vance,FLETCHER,Indianapolis,IN,-17,Marian University Cycling Team Alumni
 5,303,Nathan,SCHICKEL,Carmel,IN,-58,Igo Fasnow Racing
 5,184390,Nicole,BOREM SCHICKEL,Carmel,IN,-58,Igo Fasnow Racing
 
@@ -1336,7 +1336,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,41402,Derek,WITTE,Indianapolis,IN,5,Bissell/ABG Cycling Club
 5,382967,Victor,POPOV,Plainfield,IN,3,Igo Fasnow Racing
 6,58676,Patrick,MEYER,Carmel,IN,1,OrthoIndy
-7,278921,Vance,FLETCHER,Chariton,IA,0,DASH Racing
+7,278921,Vance,FLETCHER,Indianapolis,IN,0,DASH Racing
 
 06/15/2017 Points Race Women Pro/Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
@@ -1346,7 +1346,7 @@ Place,License #,First,Last,City,State,Time,Team
 06/15/2017 Snowball Men Pro/Cat 1/2
 Place,License #,First,Last,City,State,Time,Team
 1,290397,Ryan,SHEAN,Indianapolis,IN,50,Texas Roadhouse
-2,198135,Eric,KNACKMUHS,Bloomington,IN,28,Bakehouse Cycling
+2,198135,Eric,KNACKMUHS,Bowling Green,KY,28,Bakehouse Cycling
 3,240005,Kyle,PERRY,Muncie,IN,0,Texas Roadhouse
 4,55674,Jon,LAZARD,Marion,IN,0,Texas Roadhouse
 5,41394,Scott,WHITEMAN,Indianapolis,IN,0,George Garner Cyclery Track Team
@@ -1354,11 +1354,11 @@ Place,License #,First,Last,City,State,Time,Team
 7,401567,Andrew,KRAHULIK,Indianapolis,IN,0,Phoenix Fitness and Training
 8,454200,Eli,HOUSE,Indianapolis,IN,0,DASH RACING
 9,359006,Matt,GITTINGS,Indianapolis,IN,0,unattached
-10,2443,John,BALMER,Indianapolis ,IN,0,Century Road Club Of America
-11,313374,Kyle,STEWART,Indianapolis ,IN,0,Team Dayton Bicycling
+10,2443,John,BALMER,Indianapolis,IN,0,Century Road Club Of America
+11,313374,Kyle,STEWART,Indianapolis,IN,0,Team Dayton Bicycling
 12,309939,Sam,HARBISON,Bloomington,IN,0,Cycle Club
 13,303,Nathan,SCHICKEL,Carmel,IN,0,Igo Fasnow Racing
-DNS,250355,Zach,BENDER,Glen Rock,NJ,0,Cycle-Smart Inc.
+DNS,250355,Zach,BENDER,Waldwick,NJ,0,Cycle-Smart Inc.
 DNF,41402,Derek,WITTE,Indianapolis,IN,0,Bissell/ABG Cycling Club
 
 06/15/2017 Snowball Men Cat 4/5
@@ -1386,7 +1386,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,315756,John,SCHMITZ,Speedway,IN,0,LoKe Bicycles Race Club
 4,58676,Patrick,MEYER,Carmel,IN,0,OrthoIndy
 5,382967,Victor,POPOV,Plainfield,IN,0,Igo Fasnow Racing
-7,278921,Vance,FLETCHER,Chariton,IA,0,DASH Racing
+7,278921,Vance,FLETCHER,Indianapolis,IN,0,DASH Racing
 
 06/15/2017 Snowball Women Pro/Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
@@ -1399,15 +1399,15 @@ Place,License #,First,Last,City,State,Time,Team
 1,359006,Matt,GITTINGS,Indianapolis,IN,,unattached
 2,240005,Kyle,PERRY,Muncie,IN,,Texas Roadhouse
 3,55674,Jon,LAZARD,Marion,IN,,Texas Roadhouse
-4,2443,John,BALMER,Indianapolis ,IN,,Century Road Club Of America
+4,2443,John,BALMER,Indianapolis,IN,,Century Road Club Of America
 5,334610,Sam,WINTERS,Indianapolis,IN,,Marian University Cycling Team
 6,41394,Scott,WHITEMAN,Indianapolis,IN,,George Garner Cyclery Track Team
-8,198135,Eric,KNACKMUHS,Bloomington,IN,,Bakehouse Cycling
+8,198135,Eric,KNACKMUHS,Bowling Green,KY,,Bakehouse Cycling
 9,454200,Eli,HOUSE,Indianapolis,IN,,DASH RACING
-10,313374,Kyle,STEWART,Indianapolis ,IN,,Team Dayton Bicycling
+10,313374,Kyle,STEWART,Indianapolis,IN,,Team Dayton Bicycling
 11,290397,Ryan,SHEAN,Indianapolis,IN,,Texas Roadhouse
 12,309939,Sam,HARBISON,Bloomington,IN,,Cycle Club
-13,250355,Zach,BENDER,Glen Rock,NJ,,Cycle-Smart Inc.
+13,250355,Zach,BENDER,Waldwick,NJ,,Cycle-Smart Inc.
 DNF,303,Nathan,SCHICKEL,Carmel,IN,,Igo Fasnow Racing
 DNF,41402,Derek,WITTE,Indianapolis,IN,,Bissell/ABG Cycling Club
 DNF,401567,Andrew,KRAHULIK,Indianapolis,IN,,Phoenix Fitness and Training
@@ -1435,7 +1435,7 @@ DNP,353804,Josiah,LONGENECKER,Angola,IN,,RACEINC
 Place,License #,First,Last,City,State,Time,Team
 1,476610,Joseph,KRAHULIK,Indianapolis,IN,,
 2,315756,John,SCHMITZ,Speedway,IN,,LoKe Bicycles Race Club
-3,278921,Vance,FLETCHER,Chariton,IA,,DASH Racing
+3,278921,Vance,FLETCHER,Indianapolis,IN,,DASH Racing
 4,382967,Victor,POPOV,Plainfield,IN,,Igo Fasnow Racing
 5,353428,Scott,BAUMER,Indianapolis,IN,,DASH Racing
 6,58676,Patrick,MEYER,Carmel,IN,,OrthoIndy
@@ -1451,8 +1451,8 @@ Place,License #,First,Last,City,State,Time,Team
 1,290397,Ryan,SHEAN,Indianapolis,IN,4:55.47,Texas Roadhouse Cycling Team
 2,359006,Matt,GITTINGS,Indianapolis,IN,4:56.81,unattached
 3,240005,Kyle,PERRY,Muncie,IN,4:58.85,Texas Roadhouse Cycling Team
-4,198135,Eric,KNACKMUHS,Bloomington,IN,5:09.03,Bakehouse Cycling
-5,313374,Kyle,STEWART,Indianapolis ,IN,5:20.87,Team Dayton Bicycling
+4,198135,Eric,KNACKMUHS,Bowling Green,KY,5:09.03,Bakehouse Cycling
+5,313374,Kyle,STEWART,Indianapolis,IN,5:20.87,Team Dayton Bicycling
 6,438443,George,MORRISON IV,Indianapolis,IN,5:28.31,The Fitness Lab
 7,372502,Steven,TOBY,Somerset,KY,5:33.03,Somerset Cycling Club
 8,441744,Dave,HARSTAD,Bloomington,IN,5:39.87,Bakehouse Cycling
@@ -1475,7 +1475,7 @@ Place,License #,First,Last,City,State,Time,Team
 06/08/2017 Individual Pursuit Men 3km IP Masters 30
 Place,License #,First,Last,City,State,Time,Team
 1,240005,Kyle,PERRY,Muncie,IN,3:37.71,Texas Roadhouse Cycling Team
-2,198135,Eric,KNACKMUHS,Bloomington,IN,3:49.35,Bakehouse Cycling
+2,198135,Eric,KNACKMUHS,Bowling Green,KY,3:49.35,Bakehouse Cycling
 3,41394,Scott,WHITEMAN,Indianapolis,IN,3:56.62,George Garner Cyclery Track Team
 4,372502,Steven,TOBY,Somerset,KY,4:01.59,Somerset Cycling Club
 5,441744,Dave,HARSTAD,Bloomington,IN,4:10.11,Bakehouse Cycling
@@ -1484,7 +1484,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 06/08/2017 Individual Pursuit Men 2km IP Masters 50
 Place,License #,First,Last,City,State,Time,Team
-1,2443,John,BALMER,Indianapolis ,IN,2:31.30,Century Road Club Of America
+1,2443,John,BALMER,Indianapolis,IN,2:31.30,Century Road Club Of America
 2,55674,Jon,LAZARD,Marion,IN,2:34.02,Texas Roadhouse Cycling Team
 3,49932,Gary,PAINTER,Ft Wayne,IN,2:37.93,Ft. Wayne Oufitters
 4,508376,Philip,PERRY,Indianapolis,IN,2:45.18,
@@ -1514,7 +1514,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,240005,Kyle,PERRY,Muncie,IN,4:47.31,Texas Roadhouse Cycling Team
 1,359006,Matt,GITTINGS,Indianapolis,IN,4:47.31,Texas Roadhouse Cycling Team
 1,290397,Ryan,SHEAN,Indianapolis,IN,4:47.31,Texas Roadhouse Cycling Team
-2,198135,Eric,KNACKMUHS,Bloomington,IN,5:21.91,Bakehouse Cycling
+2,198135,Eric,KNACKMUHS,Bowling Green,KY,5:21.91,Bakehouse Cycling
 2,46950,Tom,SACCONE,Bloomington,IN,5:21.91,Bakehouse Cycling
 2,441744,Dave,HARSTAD,Bloomington,IN,5:21.91,Bakehouse Cycling
 
@@ -1523,7 +1523,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,41394,Scott,WHITEMAN,Indianapolis,IN,11.63,George Garner Cyclery Track Team
 2,59282,John,BOTT,Carmel,IN,11.66,Igo Fasnow Racing
 3,382967,Victor,POPOV,Plainfield,IN,12.15,Igo Fasnow Racing
-4,2443,John,BALMER,Indianapolis ,IN,12.28,Century Road Club Of America
+4,2443,John,BALMER,Indianapolis,IN,12.28,Century Road Club Of America
 5,372502,Steven,TOBY,Somerset,KY,12.57,Somerset Cycling Club
 6,51981,Richard,PEARSON,New Albany,IN,12.66,Team Louisville
 7,441744,Dave,HARSTAD,Bloomington,IN,12.661,Bakehouse Cycling
@@ -1532,7 +1532,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,46950,Tom,SACCONE,Bloomington,IN,13.18,Bakehouse Cycling
 11,509626,Dakota,MITCHELL,Indianapolis,IN,13.42,
 12,50723,Tony,WELCH,Indianapolis,IN,13.67,Pista Elite
-13,227460,James,ABBOTT,St. Marys,OH,14.87,
+13,227460,James,ABBOTT,Saint Marys,OH,14.87,
 14,284011,David,HENRY,Lafayette,IN,15.11,FCA Endurance
 
 06/01/2017 Flying Time Trial Women 200m TT
@@ -1554,7 +1554,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,41394,Scott,WHITEMAN,Indianapolis,IN,,George Garner Cyclery Track Team
 2,59282,John,BOTT,Carmel,IN,,Igo Fasnow Racing
 3,382967,Victor,POPOV,Plainfield,IN,,Igo Fasnow Racing
-4,2443,John,BALMER,Indianapolis ,IN,,Century Road Club Of America
+4,2443,John,BALMER,Indianapolis,IN,,Century Road Club Of America
 5,438443,George,MORRISON IV,Indianapolis,IN,,The Fitness Lab
 6,372502,Steven,TOBY,Somerset,KY,,Somerset Cycling Club
 7,51981,Richard,PEARSON,New Albany,IN,,Team Louisville
@@ -1562,7 +1562,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,46950,Tom,SACCONE,Bloomington,IN,,Bakehouse Cycling
 10,533702,Cooper,FOX,Bloomington,IN,,
 11,509626,Dakota,MITCHELL,Indianapolis,IN,,
-12,227460,James,ABBOTT,St. Marys,OH,,
+12,227460,James,ABBOTT,Saint Marys,OH,,
 13,50723,Tony,WELCH,Indianapolis,IN,,Pista Elite
 14,284011,David,HENRY,Lafayette,IN,,FCA Endurance
 
@@ -1586,7 +1586,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,263833,Andrzej,BANASZKIEWICZ,Brownsburg,IN,,ZIPP Masters Team
 3,41394,Scott,WHITEMAN,Indianapolis,IN,,George Garner Cyclery Track Team
 4,334610,Sam,WINTERS,Indianapolis,IN,,Marian University Cycling Team
-5,2443,John,BALMER,Indianapolis ,IN,,Century Road Club Of America
+5,2443,John,BALMER,Indianapolis,IN,,Century Road Club Of America
 6,401567,Andrew,KRAHULIK,Indianapolis,IN,,
 7,442987,Daniel,Nesbitt,Indianapolis,IN,,Marian University Cycling Team
 8,30178,Doug,ROBINSON,Indianapolis,IN,,Phoenix Fitness & Training
@@ -1621,7 +1621,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,46950,Tom,SACCONE,Bloomington,IN,,Bakehouse Cycling
 3,58676,Patrick,MEYER,Carmel,IN,,OrthoIndy
 4,315756,John,SCHMITZ,Speedway,IN,,LoKe Bicycles Race Club
-5,313374,Kyle,STEWART,Indianapolis ,IN,,Team Dayton Bicycling
+5,313374,Kyle,STEWART,Indianapolis,IN,,Team Dayton Bicycling
 6,372502,Steven,TOBY,Somerset,KY,,Somerset Cycling Club
 
 05/25/2017 Miss & Out Women Pro/Cat 1/2/3
@@ -1647,7 +1647,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,401567,Andrew,KRAHULIK,Indianapolis,IN,,
 6,30178,Doug,ROBINSON,Indianapolis,IN,,Phoenix Fitness & Training
 7,41394,Scott,WHITEMAN,Indianapolis,IN,,George Garner Cyclery Track Team
-8,2443,John,BALMER,Indianapolis ,IN,,Century Road Club Of America
+8,2443,John,BALMER,Indianapolis,IN,,Century Road Club Of America
 9,303,Nathan,SCHICKEL,Carmel,IN,,Igo Fasnow Racing
 DNF,442987,Daniel,Nesbitt,Indianapolis,IN,,Marian University Cycling Team
 
@@ -1676,7 +1676,7 @@ Place,License #,First,Last,City,State,Time,Team
 05/25/2017 Scratch Race Men Cat 3
 Place,License #,First,Last,City,State,Time,Team
 1,454200,Eli,HOUSE,Indianapolis,IN,,Dash Racing
-2,313374,Kyle,STEWART,Indianapolis ,IN,,Team Dayton Bicycling
+2,313374,Kyle,STEWART,Indianapolis,IN,,Team Dayton Bicycling
 3,315756,John,SCHMITZ,Speedway,IN,,LoKe Bicycles Race Club
 5,58676,Patrick,MEYER,Carmel,IN,,OrthoIndy
 7,46950,Tom,SACCONE,Bloomington,IN,,Bakehouse Cycling
@@ -1705,7 +1705,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,401567,Andrew,KRAHULIK,Indianapolis,IN,,
 6,30178,Doug,ROBINSON,Indianapolis,IN,,Phoenix Fitness & Training
 7,55674,Jon,LAZARD,Marion,IN,,Texas Roadhouse Cycling Team
-8,2443,John,BALMER,Indianapolis ,IN,,Century Road Club Of America
+8,2443,John,BALMER,Indianapolis,IN,,Century Road Club Of America
 9,442987,Daniel,Nesbitt,Indianapolis,IN,,Marian University Cycling Team
 10,303,Nathan,SCHICKEL,Carmel,IN,,Igo Fasnow Racing
 
@@ -1734,7 +1734,7 @@ Place,License #,First,Last,City,State,Time,Team
 05/25/2017 Tempo Men Cat 3
 Place,License #,First,Last,City,State,Time,Team
 1,454200,Eli,HOUSE,Indianapolis,IN,,Dash Racing
-2,313374,Kyle,STEWART,Indianapolis ,IN,,Team Dayton Bicycling
+2,313374,Kyle,STEWART,Indianapolis,IN,,Team Dayton Bicycling
 3,58676,Patrick,MEYER,Carmel,IN,,OrthoIndy
 4,372502,Steven,TOBY,Somerset,KY,,Somerset Cycling Club
 5,315756,John,SCHMITZ,Speedway,IN,,LoKe Bicycles Race Club
@@ -1758,7 +1758,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,240005,Kyle,PERRY,Muncie,IN,,Texas Roadhouse Cycling Team
 2,334610,Sam,WINTERS,Indianapolis,IN,,Marian University Cycling Team
-3,2443,John,BALMER,Indianapolis ,IN,,Century Road Club Of America
+3,2443,John,BALMER,Indianapolis,IN,,Century Road Club Of America
 4,46006,Curtis,TOLSON,Louisville,KY,,Texas Roadhouse Cycling Team
 5,401567,Andrew,KRAHULIK,Indianapolis,IN,,
 6,41394,Scott,WHITEMAN,Indianapolis,IN,,George Garner Cyclery Track Team
@@ -1793,8 +1793,8 @@ Place,License #,First,Last,City,State,Time,Team
 05/18/2017 Elimination Men Cat 3
 Place,License #,First,Last,City,State,Time,Team
 1,454200,Eli,HOUSE,Indianapolis,IN,,DASH RACING
-2,198135,Eric,KNACKMUHS,Bloomington,IN,,Bakehouse Cycling
-3,313374,Kyle,STEWART,Indianapolis ,IN,,Team Dayton Bicycling
+2,198135,Eric,KNACKMUHS,Bowling Green,KY,,Bakehouse Cycling
+3,313374,Kyle,STEWART,Indianapolis,IN,,Team Dayton Bicycling
 4,46950,Tom,SACCONE,Bloomington,IN,,Bakehouse Cycling
 5,58676,Patrick,MEYER,Carmel,IN,,OrthoIndy
 6,372502,Steven,TOBY,Somerset,KY,,Somerset Cycling Club
@@ -1814,7 +1814,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,30178,Doug,ROBINSON,Indianapolis,IN,7,Phoenix Fitness & Training
 5,401567,Andrew,KRAHULIK,Indianapolis,IN,3,
 6,55674,Jon,LAZARD,Marion,IN,2,Texas Roadhouse Cycling Team
-7,2443,John,BALMER,Indianapolis ,IN,-20,Century Road Club Of America
+7,2443,John,BALMER,Indianapolis,IN,-20,Century Road Club Of America
 8,41394,Scott,WHITEMAN,Indianapolis,IN,-20,George Garner Cyclery Track Team
 DNS,59282,John,BOTT,Carmel,IN,DNS,Igo Fasnow Racing
 DNF,359006,Matt,GITTINGS,Indianapolis,IN,DNF,
@@ -1844,9 +1844,9 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/18/2017 Points Race Men Cat 3
 Place,License #,First,Last,City,State,Time,Team
-1,198135,Eric,KNACKMUHS,Bloomington,IN,,Bakehouse Cycling
+1,198135,Eric,KNACKMUHS,Bowling Green,KY,,Bakehouse Cycling
 2,454200,Eli,HOUSE,Indianapolis,IN,,DASH RACING
-3,313374,Kyle,STEWART,Indianapolis ,IN,,Team Dayton Bicycling
+3,313374,Kyle,STEWART,Indianapolis,IN,,Team Dayton Bicycling
 4,372502,Steven,TOBY,Somerset,KY,,Somerset Cycling Club
 5,58676,Patrick,MEYER,Carmel,IN,,OrthoIndy
 6,46950,Tom,SACCONE,Bloomington,IN,,Bakehouse Cycling
@@ -1867,7 +1867,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,46006,Curtis,TOLSON,Louisville,KY,,Texas Roadhouse Cycling Team
 6,30178,Doug,ROBINSON,Indianapolis,IN,,Phoenix Fitness & Training
 7,41394,Scott,WHITEMAN,Indianapolis,IN,,George Garner Cyclery Track Team
-8,2443,John,BALMER,Indianapolis ,IN,,Century Road Club Of America
+8,2443,John,BALMER,Indianapolis,IN,,Century Road Club Of America
 9,401567,Andrew,KRAHULIK,Indianapolis,IN,,
 10,303,Nathan,SCHICKEL,Carmel,IN,,Igo Fasnow Racing
 DNF,59282,John,BOTT,Carmel,IN,,Igo Fasnow Racing
@@ -1896,9 +1896,9 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/18/2017 Scratch Race Men Cat 3
 Place,License #,First,Last,City,State,Time,Team
-1,198135,Eric,KNACKMUHS,Bloomington,IN,,Bakehouse Cycling
+1,198135,Eric,KNACKMUHS,Bowling Green,KY,,Bakehouse Cycling
 2,454200,Eli,HOUSE,Indianapolis,IN,,DASH RACING
-3,313374,Kyle,STEWART,Indianapolis ,IN,,Team Dayton Bicycling
+3,313374,Kyle,STEWART,Indianapolis,IN,,Team Dayton Bicycling
 4,372502,Steven,TOBY,Somerset,KY,,Somerset Cycling Club
 5,46950,Tom,SACCONE,Bloomington,IN,,Bakehouse Cycling
 6,58676,Patrick,MEYER,Carmel,IN,,OrthoIndy

@@ -51,7 +51,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,353732,Vincent,CIRILO,Saginaw,MI,1:00:13,
 12,311031,Jim,BRAAM,Jenison,MI,1:01:06,Freewheeler
 13,262182,Andy,FEDEWA,Clarkston,MI,1:01:39,Flying Rhino Cycling Club
-14,530294,Don,Cameron,White Lake Charter Township,MI,1:01:41,Specalized
+14,94327,Don,Cameron,White Lake,MI,1:01:41,Specalized
 15,310167,Andrew,WISNIEWSKI,South Lyon,MI,1:01:41,
 16,252670,Mark,CAFFYN,Ortonville,MI,1:02:37,KLM/Cold Stone
 17,12237,Robert,FRANK,Redondo Beach,CA,1:02:53,RBS
@@ -72,7 +72,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,360326,Bryan,WALDMAN,Lansing,MI,48:29,Bike Law Cycling Club
 11,12237,Robert,FRANK,Redondo Beach,CA,48:46,RBS
 12,349988,Douglas,REED,Waterford,MI,49:00,
-13,528164,Jeff,Glynn,Ithaca,MI,49:13,
+13,80748,Jeff,Glynn,Ithaca,MI,49:13,
 14,369156,Todd,MEREDITH,Holland,MI,49:13,
 15,51205,William,GUILBERT,Troy,MI,49:24,Team Fraser
 16,245538,Pete,THOMPSON,Ortonville,MI,49:36,Specalized
@@ -100,7 +100,7 @@ DNF,346242,daniel,HOFFMAN,South Lyon,MI,,Ann Arbor Velo Club Inc.
 09/09/2017 Cyclo-cross Men Cat 4-5
 Place,License #,First,Last,City,State,Time,Team
 1,521501,Frederick,JUNGE,Ann Arbor,MI,33:34,
-2,428326,Nathan,SHARNAS,Davison,MI,33:36,Cadieux Bicycle Club
+2,428326,Nathan,SHARNAS,Detroit,MI,33:36,Cadieux Bicycle Club
 3,488814,Jordan,CAVERLY,Detroit,MI,34:30,
 4,411953,Hayden,FOX,East Grand Rapids,MI,35:14,
 5,399233,Nathan,KOSTER,Zeeland,MI,35:41,
@@ -113,7 +113,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,514026,Reed,HOYER,Oakland Charter Township,MI,37:58,KLM/Cold Stone
 13,516313,Michael,MIGLER,Royal Oak,MI,39:24,Cadieux Bicycle Club
 14,372825,Alexander,HILL,Romeo,MI,39:49,Flying Rhino Cycling Club
-15,486664,Lucas,HANSEN,Ann Arbor,MI,40:05,
+15,486664,Lucas,HANSEN,West Bloomfield,MI,40:05,
 16,371880,Joshua,DUGGAN,Grand Rapids,MI,40:44,
 DNF,517332,Robert,MELTON,Detroit,MI,,
 DNF,495130,Dakota,HEWLETT,Caledonia,MI,,Michigan State University
@@ -122,7 +122,7 @@ DNF,495130,Dakota,HEWLETT,Caledonia,MI,,Michigan State University
 Place,License #,First,Last,City,State,Time,Team
 1,476738,Ed,ALTWIES,Temperance,MI,35:21,Maumee Valley Wheelmen
 2,431146,Rusty,DARTER,Byron Center,MI,35:51,Speed Merchants
-3,541025,Matt,SAYRE,Manitou Beach-devils Lake,MI,35:53,
+3,541025,Matt,SAYRE,Manitou Beach,MI,35:53,
 4,433645,Brian,KLIPPEL,Plymouth,MI,36:01,
 5,490755,Chad,Cottom,Holt,MI,36:06,Team Spin Bicycle Shop
 6,0,Mike,RING,,,36:08,
@@ -158,7 +158,7 @@ Place,License #,First,Last,City,State,Time,Team
 36,362193,Rob,FALIK,Lansing,MI,34:44,Team Spin Bicycle Shop
 37,486934,Douglas,KNIEPER,Alma,MI,36:21,Rapid Wheelmen
 38,371496,David,Hendricks,Greenville,MI,36:23,
-39,515503,Scott,BOWERSOX,Haslett,MI,39:12,
+39,515503,Scott,BOWERSOX,Perry,MI,39:12,
 DNS,397799,Sky,FOSTER,Saint Johns,MI,,
 DNS,370019,John,KRAUSS,Ann Arbor,MI,,Ann Arbor Velo Club Inc.
 DNS,521545,Paul,THURMOND,Bellevue,MI,,
@@ -173,7 +173,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,391111,Kent,MCNEIL,Williamsburg,MI,46:25,
 5,299972,William,KANNENBERG,Battle Creek ,MI,46:41,
 6,398533,Jeffrey,JOHNSON,Lowell,MI,47:04,EPS Security Cycling Team
-7,428326,Nathan,SHARNAS,Davison,MI,47:09,Cadieux Bicycle Club
+7,428326,Nathan,SHARNAS,Detroit,MI,47:09,Cadieux Bicycle Club
 8,521501,Frederick,JUNGE,Ann Arbor,MI,47:11,
 9,163382,Todd,FREIDINGER,Saint Clair Shores,MI,47:14,
 10,389563,Jeremy,MEYERSIECK,Ferndale,MI,47:54,Cadieux Bicycle Club
@@ -239,14 +239,14 @@ Place,License #,First,Last,City,State,Time,Team
 13,413545,Garrett,WHITMORE,Alma,MI,33:18,
 14,487920,Greg,REED,Columbus,MI,33:23,Flying Rhino Cycling Club
 15,0,Adam,RAYCRAFT,,,34:42,
-16,515503,Scott,BOWERSOX,Haslett,MI,34:47,
+16,515503,Scott,BOWERSOX,Perry,MI,34:47,
 17,486934,Douglas,KNIEPER,Alma,MI,35:26,Rapid Wheelmen
 18,516313,Michael,MIGLER,Royal Oak,MI,35:34,Cadieux Bicycle Club
 19,528091,Scott,ELLIOTT,Adrian,MI,35:57,
 20,541048,Scott,HORNER,Williamston,MI,36:09,
 21,533806,Ryan,PETERSEN,Midland,MI,28:42,
 22,534739,Steve,BERG,Shelby Township,MI,31:58,
-DNF,541025,Matt,SAYRE,Manitou Beach-devils Lake,MI,,
+DNF,541025,Matt,SAYRE,Manitou Beach,MI,,
 
 09/09/2017 Cyclo-cross Women Singlespeed
 Place,License #,First,Last,City,State,Time,Team

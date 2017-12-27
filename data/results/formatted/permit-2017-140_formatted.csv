@@ -28,7 +28,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,221142,Richard,Pearson,Fremont,NE,,Team Kaos/Joyride Bicycles
 2,27258,Harold,Parker,Lenexa,KS,,360 Racing p/b Kline Van / Woody's Automotive Group
 3,331338,Steve,Schweiker,Overland Park,KS,,Ethos Racing
-4,384076,Reg,Robertson,Lenexa,KS,,Big D Cycling
+4,384076,Reg,Robertson,Shawnee,KS,,Big D Cycling
 5,541608,Larry,Warkentine,Olathe,KS,,Localcycling.com
 
 09/10/2017 Cyclo-cross Men Cat 4/5
@@ -37,7 +37,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,416539,dexter,pham,Wichita,KS,,Team Colavita/Parisi Coffee
 3,526352,Franklin,Segura,Overland Park,KS,,3 Feet Cycling p/b Foody's
 4,276720,Matthew,Bleckman,Lenexa,KS,,Team Velo Plus
-5,494530,Hunter,Navarro,Shawnee Mission,KS,,KCOI U20
+5,494530,Hunter,Navarro,Shawnee ,KS,,KCOI U20
 6,416734,Ian,Pepin,Lawrence,KS,,Work Together Cycling Solutions
 7,475083,Jeff,McCool,Olathe,KS,,Team Velo Plus
 8,0,Eric,Hoebing,,,,
@@ -95,7 +95,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,236301,Shea,Bergman,Roeland Park,KS,,Bikeable Communities
 6,135858,Eric,Burch,Kansas City,MO,,KCOI Boulevard
 7,75232,Jason,Gaikowski,Prairie Village,KS,,360 Racing p/b Kline Van / Woody's Automotive Group
-8,486982,Scott,King,Mission,KS,,Localcycling.com
+8,486982,Scott,King,Shawnee Mission,KS,,Localcycling.com
 
 09/10/2017 Cyclo-cross Men Cat 1/2/3/4 Masters 50-59
 Place,License #,First,Last,City,State,Time,Team
@@ -130,7 +130,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,244502,Britton,Kusiak,Prairie Village,KS,,Team Colavita/ Parisi Coffee
 7,437904,Nicholas,Comiskey,Fairway,KS,,Team Colavita/ Parisi Coffee
 8,123006,Joshua,Stevens,Lawrence,KS,,Tradewind Cycling Team
-9,455497,Tristan,Manderfeld,Sauk Rapids,MN,,Army Cycling Team
+9,455497,Tristan,Manderfeld,Colorado Springs ,CO,,Army Cycling Team
 10,428264,Ryan,Thompson,Lees Summit,MO,,SBC Cycling
 11,392043,Marc,Thierry,Lees Summit,MO,,
 12,53358,Bill,Marshall,Olathe,KS,,KCCX Elite Cyclocross Team p/b Clement
@@ -167,7 +167,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,539968,Jessica,Wilkerson,Kansas City,MO,,
 6,378768,Jana,Strait,Lenexa,KS,,Free State Racing
 7,384110,Erin,Shaffer,Olathe,KS,,Team Colavita/ Parisi Coffee
-8,320328,Robyn,Burky,Blue Springs,MO,,
+8,320328,Robyn,Burky,Kansas City,MO,,
 
 09/10/2017 Cyclo-cross Women Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
@@ -205,7 +205,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,487902,Liam,Ellis,Pleasanton,KS,,KCOI U20
 4,424881,Dane,Hooks,Lees Summit,MO,,KCOI U20
 5,437943,Dominic,Milam,Shawnee Mission,KS,,KCOI U20
-6,459485,Gabriel,Schmitz,Merriam,KS,,KCOI U20
+6,459485,Gabriel,Schmitz,Kansas City,KS,,KCOI U20
 
 09/09/2017 Cyclo-cross Men Cat 1/2/3/4/5 Junior 15-18
 Place,License #,First,Last,City,State,Time,Team
@@ -225,7 +225,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,27258,Harold,Parker,Lenexa,KS,,360 Racing p/b Kline Van / Woody's Automotive Group
 3,331338,Steve,Schweiker,Overland Park,KS,,Ethos Racing
 4,278375,Erik,Elving,Kansas City,MO,,Team Colavita/ Parisi Coffee
-5,384076,Reg,Robertson,Lenexa,KS,,Big D Cycling
+5,384076,Reg,Robertson,Shawnee,KS,,Big D Cycling
 
 09/09/2017 Cyclo-cross Men Cat 1/2/3/4/5 Junior 9-11
 Place,License #,First,Last,City,State,Time,Team
@@ -233,7 +233,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,519374,Maury,Navarro,Shawnee Mission,KS,,KCOI U20
 3,493630,Austin,Thompson,Lees Summit,MO,,KCOI U20
 4,494613,Benon,Kusiak,Prairie Village,KS,,Team Colavita/ Parisi Coffee
-5,541489,Emmet,Lynch,,,,
+5,541489,Emmet,Lynch,Fairway,KS,,
 6,493932,Parker,Chalupnik,Shawnee,KS,,KCOI U20
 7,539611,Benjamin,Lewis,Prairie Village,KS,,KCOI U20
 8,488221,Malachi,Schmitz,Shawnee Mission,KS,,KCOI U20
@@ -280,7 +280,7 @@ Place,License #,First,Last,City,State,Time,Team
 38,229968,Eric,O'Brien,Omaha,NE,,Midwest Cycling Trek Stores of Omaha
 39,308910,Dennis,Case,Overland Park,KS,,3 Feet Cycling p/b Foody's
 DNF,492970,Mike,Ivancic,Leawood,KS,,US Military Endurance Sports
-DNF,494530,Hunter,Navarro,Shawnee Mission,KS,,KCOI U20
+DNF,494530,Hunter,Navarro,Shawnee ,KS,,KCOI U20
 DNF,528304,Leeann,Reed,Lenexa,KS,,Grip N Rip
 DNF,425009,Jordan,Miller,Lenexa,KS,,Move Up Off-Road
 
@@ -310,7 +310,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,403130,Erik,Riker,Blue Springs,MO,,Prologue Racing
 23,400291,john,vansooy,Leawood,KS,,
 24,297479,Tim,Michael,Kansas City,MO,,KCOI Boulevard
-25,270785,Benjamin,Perkins,La Vista,NE,,
+25,270785,Benjamin,Perkins,Kansas City,MO,,
 
 09/09/2017 Cyclo-cross Men Cat 1/2/3/4 Masters 40-49
 Place,License #,First,Last,City,State,Time,Team
@@ -348,7 +348,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,60290,Bryan,Hayes,Olathe,KS,,
 9,142781,John,Jones,Bolivar,MO,,Kuat Team Racing
 10,119445,Tige,Lamb,Lenexa,KS,,Team Velo Plus
-11,455497,Tristan,Manderfeld,Sauk Rapids,MN,,Army Cycling Team
+11,455497,Tristan,Manderfeld,Colorado Springs ,CO,,Army Cycling Team
 12,428264,Ryan,Thompson,Lees Summit,MO,,SBC Cycling
 13,443112,Kenny,Carlson,Gardner,KS,,KCBC Racing
 14,221970,Aaron,Sims,Kansas City,MO,,Cycle City Racing

@@ -53,7 +53,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,522225,Aaron,EDMONDSON,Winnemucca,NV,,
 3,476479,Kevin,SALMON,Flagstaff,AZ,,
 4,494168,Avery,BALTUNIS,Hereford,AZ,,
-5,366670,David,PLATON,Avondale ,AZ,,
+5,366670,David,PLATON,Avondale,AZ,,
 6,459076,Sam,RIESS,Phoenix,AZ,,
 7,523573,Bud,LACOMBE,Scottsdale,AZ,,
 8,495682,Allyn,PARKER,Sierra Vista,AZ,,
@@ -117,7 +117,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 01/29/2017 Omnium Men Cat 1/2/3/4/5 Master 65-99
 Place,License #,First,Last,City,State,Time,Team
-1,245777,Steven,BORER,Show Low,AZ,,
+1,245777,Steven,BORER,Laguna Hills,CA,,
 2,428440,Kenneth,STARCKE,Tucson,AZ,,
 
 01/29/2017 Omnium Men Cat 1/2/3/4/5 Master 75-99
@@ -138,7 +138,7 @@ Place,License #,First,Last,City,State,Time,Team
 01/29/2017 Omnium Men Cat 1/2/3 Master 45-99
 Place,License #,First,Last,City,State,Time,Team
 1,65615,Brian,FORBES,Tucson,AZ,,
-2,87933,Paul,THOMAS,Gilbert ,AZ,,
+2,87933,Paul,THOMAS,Gilbert,AZ,,
 3,183486,James,SILVERMAN,Flagstaff,AZ,,
 4,49145,James,RICCITELLO,Tucson,AZ,,
 5,1806,Bryan,ANTOL,Flagstaff,AZ,,
@@ -217,7 +217,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 01/29/2017 Road Race Men Pro/Cat 1/2/3 81 Miles 15-99
 Place,License #,First,Last,City,State,Time,Team
-1,155190,Chad,BEYER,Scottsdale,AZ,3:33:45,
+1,155190,Chad,BEYER,Tempe,AZ,3:33:45,
 2,345802,Michael,BURLEIGH,Edgewater ,CO,3:34:32,
 3,448354,Kyle,TRUDEAU,Tucson,AZ,3:34:55,
 4,394102,Adam,BRYFOGLE,Tucson,AZ,3:34:59,
@@ -230,7 +230,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,394387,Weston,RASMUSSEN,Phoenix,AZ,3:41:29,
 12,359379,Daniel,PARKMAN,Tucson,AZ,3:41:29,
 13,216006,Miguel,FOLCH,Tucson,AZ,3:41:30,
-14,392666,Bill,KARRAS,Mesa ,AZ,3:41:32,
+14,392666,Bill,KARRAS,Mesa,AZ,3:41:32,
 15,301616,Steven,BEELER,Oro Valley,AZ,3:43:25,
 16,277670,Max,CRONYN,Tucson,AZ,3:44:12,
 17,366683,Kyle,VAN RENTERGHEM,Tucson,AZ,3:44:40,
@@ -262,7 +262,7 @@ DNF,309142,J.,CARNES,Flagstaff,AZ,0:00:00,
 
 01/29/2017 Road Race Men Pro/Cat 1/2/3 Masters 81 Miles 45-99
 Place,License #,First,Last,City,State,Time,Team
-1,87933,Paul,THOMAS,Gilbert ,AZ,3:49:32,
+1,87933,Paul,THOMAS,Gilbert,AZ,3:49:32,
 2,199458,Janne,HAMALAINEN,Tulsa,OK,3:49:38,
 3,65615,Brian,FORBES,Tucson,AZ,3:54:19,
 4,49145,James,RICCITELLO,Tucson,AZ,3:54:21,
@@ -296,7 +296,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,494168,Avery,BALTUNIS,Hereford,AZ,2:45:49,
 7,522225,Aaron,EDMONDSON,Winnemucca,NV,2:49:13,
 8,296802,Kevin,MIKKELSON,Tucson,AZ,2:49:20,
-9,366670,David,PLATON,Avondale ,AZ,2:49:23,
+9,366670,David,PLATON,Avondale,AZ,2:49:23,
 10,495682,Allyn,PARKER,Sierra Vista,AZ,2:49:51,
 11,354450,Joe,PAVLIK,Flagstaff,AZ,2:51:04,
 12,523573,Bud,LACOMBE,Scottsdale,AZ,2:56:53,
@@ -356,7 +356,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,422305,Michael,HAST,Tucson,AZ,2:31:48,
 10,393293,Eric,BORCHERS,Phoenix,AZ,2:31:48,
 11,418082,Erica,CLEVENGER,Tucson,AZ,2:31:49,
-12,71063,Matt,MCWHIRTER,Scottsdale ,AZ,2:31:50,
+12,71063,Matt,MCWHIRTER,Scottsdale,AZ,2:31:50,
 13,522242,Kyle,BERG,Phoenix,AZ,2:34:28,
 14,487434,Arthur,SCHOCKEN,Vancouver ,WA,2:36:03,
 15,411386,Brendan,BENGTSON,Anthem,AZ,2:36:06,
@@ -375,7 +375,7 @@ DNS,428380,Tony,MONTEFERRANTE,Scottsdale,AZ,0:00:00,
 DNS,341116,Daniel,YAKUSHEVICH,Tucson,AZ,0:00:00,
 DNS,494099,Samuel,DEVORE,Tucson,AZ,0:00:00,
 DNS,360035,Adam,LEEDY,Tucson,AZ,0:00:00,
-DNS,332886,Tim,SCOTT,Sahuarita ,AZ,0:00:00,
+DNS,332886,Tim,SCOTT,Sahuarita,AZ,0:00:00,
 DNF,458879,David,STOUT,Tucson,AZ,0:00:00,
 
 01/29/2017 Road Race Men Cat. 3/4 Juniors 54 Miles 15-18
@@ -420,7 +420,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,38636,Brad,WINGFIELD,Oro Valley,AZ,3:14:01,
 17,294799,Michel,LALONDE,Benson,AZ,3:22:38,
 DNS,57849,Rene,LUCAS,Phoenix,AZ,0:00:00,
-DNF,192230,Mark,COWIN,Frederica ,DE,0:00:00,
+DNF,192230,Mark,COWIN,Frederica,DE,0:00:00,
 DNF,45330,Alan,FISCHER,Tucson,AZ,0:00:00,
 DNF,15271,James,HART,Tempe,AZ,0:00:00,
 DNF,48867,Andrew,HOSTERMAN,Tucson,AZ,0:00:00,
@@ -432,7 +432,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,466441,Steven,LONG,Vail,AZ,2:47:02,
 3,427913,Roy,QUADE,,,2:54:02,
 4,272136,Richard,ELLWANGER,Tucson,AZ,2:54:44,
-5,245777,Steven,BORER,Show Low,AZ,2:56:00,
+5,245777,Steven,BORER,Laguna Hills,CA,2:56:00,
 6,428440,Kenneth,STARCKE,Tucson,AZ,3:08:28,
 7,47123,Jeffrey,PATTERSON,University Place,WA,3:14:30,
 
@@ -492,7 +492,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,340014,Douglas,TORRES,Albuquerque,NM,5:30:44,
 DNS,237283,Joseph,IULIANO,Tucson,AZ,0:00:00,
 DNF,394505,Castle,GAY,Tucson,AZ,0:00:00,
-DNF,422930,Scott,JONES,Tempe,AZ,0:00:00,
+DNF,422930,Scott,JONES,Scottsdale,AZ,0:00:00,
 DNF,449058,Zachary,MORRISON,Buckeye,AZ,0:00:00,
 DNF,305555,Marcello,CESARIO,Downingtown,PA,0:00:00,
 
@@ -574,7 +574,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,341410,Kat,SALTHOUSE,Tucson,AZ,2:44:50,
 3,489136,Tori,RIEMERSMA,Tempe,AZ,3:14:23,
 4,474089,Elisa,WOODY,Albuquerque,NM,3:21:49,
-5,459515,Alissa,ALBRECHT,Tempe,FL,3:49:38,
+5,459515,Alissa,ALBRECHT,Tempe,AZ,3:49:38,
 
 01/28/2017 Criterium Men Pro/Cat 1/2/3 60 Minutes 15-99
 Place,License #,First,Last,City,State,Time,Team
@@ -591,7 +591,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,396776,Wouter,ZWART,Tucson,AZ,0:00:00,
 12,236370,James,WOODBURNE,Phoenix,AZ,0:00:00,
 13,216006,Miguel,FOLCH,Tucson,AZ,0:00:00,
-14,87933,Paul,THOMAS,Gilbert ,AZ,0:00:00,
+14,87933,Paul,THOMAS,Gilbert,AZ,0:00:00,
 15,301616,Steven,BEELER,Oro Valley,AZ,0:00:00,
 16,342602,Ben,DUNCAN,Tucson,AZ,0:00:00,
 17,277670,Max,CRONYN,Tucson,AZ,0:00:00,
@@ -610,7 +610,7 @@ Place,License #,First,Last,City,State,Time,Team
 30,395984,Armon,HAGHIGHAT,Scottsdale,AZ,0:00:00,
 31,253918,David,UBINGER,El Paso,TX,0:00:00,
 32,393911,Trenton,BRYFOGLE,Tucson,AZ,0:00:00,
-DNS,366759,Adam,DUNN,Gilbert,AZ,0:00:00,
+DNS,366759,Adam,DUNN,Mesa,AZ,0:00:00,
 DNS,155571,Nardo,RODRIGUEZ,Phoenix,AZ,0:00:00,
 DNS,428380,Tony,MONTEFERRANTE,Scottsdale,AZ,0:00:00,
 DNS,310825,Aliya,TRAFICANTE,Chico,CA,0:00:00,
@@ -621,7 +621,7 @@ DNF,0,Juan,RIVERA,,,0:00:00,
 
 01/28/2017 Criterium Men Cat. 5 Juniors 30 Minutes 15-18
 Place,License #,First,Last,City,State,Time,Team
-1,499504,Evan,BOONE,Fort Huachuca,AZ,0:00:00,
+1,499504,Evan,BOONE,Sierra Vista,AZ,0:00:00,
 2,0,Alex,LAMBERT,,,0:00:00,
 3,0,Rogan,JAMES,,,0:00:00,
 4,499669,Collin,KISIEL,Tucson,AZ,0:00:00,
@@ -634,7 +634,7 @@ DNS,523843,Mostyn,TRUDINGER-SMITH,Tucson,AZ,0:00:00,
 
 01/28/2017 Criterium Men Cat. 4/5 30 Minutes -
 Place,License #,First,Last,City,State,Time,Team
-1,499504,Evan,BOONE,Fort Huachuca,AZ,0:00:00,
+1,499504,Evan,BOONE,Sierra Vista,AZ,0:00:00,
 2,404500,Stephen,BROWN,Phoenix,AZ,0:00:00,
 3,0,Scott,JOHNSON,,,0:00:00,
 4,522242,Kyle,BERG,Phoenix,AZ,0:00:00,
@@ -650,7 +650,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,273223,Andrew,RANKINE,Phoenix,AZ,0:00:00,
 15,0,David,CONGER,,,0:00:00,
 16,487304,Jack,SENESE,Tucson,AZ,0:00:00,
-17,366670,David,PLATON,Avondale ,AZ,0:00:00,
+17,366670,David,PLATON,Avondale,AZ,0:00:00,
 18,494168,Avery,BALTUNIS,Hereford,AZ,0:00:00,
 19,414733,Kajeme,MURRIETA,Tucson,AZ,0:00:00,
 20,360035,Adam,LEEDY,Tucson,AZ,0:00:00,
@@ -731,11 +731,11 @@ Place,License #,First,Last,City,State,Time,Team
 6,487434,Arthur,SCHOCKEN,Vancouver ,WA,0:00:00,
 7,411386,Brendan,BENGTSON,Anthem,AZ,0:00:00,
 8,395246,Ryan,BROWN,Tempe,AZ,0:00:00,
-9,422930,Scott,JONES,Tempe,AZ,0:00:00,
+9,422930,Scott,JONES,Scottsdale,AZ,0:00:00,
 10,419955,Bryan,LITTLE,Vail,AZ,0:00:00,
 11,522242,Kyle,BERG,Phoenix,AZ,0:00:00,
 12,431382,Brent,WESTWOOD,Tucson,AZ,0:00:00,
-13,366759,Adam,DUNN,Gilbert,AZ,0:00:00,
+13,366759,Adam,DUNN,Mesa,AZ,0:00:00,
 14,364702,Gilberto,MELENDEZ,Tucson,AZ,0:00:00,
 15,460039,Gabriel,PEREZ,Tempe,AZ,0:00:00,
 16,493861,Joshua,WATTS,Phoenix,AZ,0:00:00,
@@ -797,10 +797,10 @@ DNS,392098,Sarah,MUENCH,Phoenix,AZ,0:00:00,
 
 01/28/2017 Criterium Men Cat. 1/2/3/4/5 Masters 30 Minutes 65-99
 Place,License #,First,Last,City,State,Time,Team
-1,245777,Steven,BORER,Show Low,AZ,0:00:00,
+1,245777,Steven,BORER,Laguna Hills,CA,0:00:00,
 2,428440,Kenneth,STARCKE,Tucson,AZ,0:00:00,
 3,49587,Joe,PUCHI,Tubac,AZ,0:00:00,
-4,522248,William,Lyall,Tucson,AZ,0:00:00,
+4,522248,William,Lyall,Denver,CO,0:00:00,
 5,192527,Ted,FROHLING,Tucson,AZ,0:00:00,
 
 01/28/2017 Criterium Men Cat. 1/2/3/4/5 Masters 30 Minutes 75-99
@@ -828,7 +828,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,65615,Brian,FORBES,Tucson,AZ,0:00:00,
 2,1806,Bryan,ANTOL,Flagstaff,AZ,0:00:00,
 3,57369,Eugene,BORONOW,Tucson,AZ,0:00:00,
-4,87933,Paul,THOMAS,Gilbert ,AZ,0:00:00,
+4,87933,Paul,THOMAS,Gilbert,AZ,0:00:00,
 5,183486,James,SILVERMAN,Flagstaff,AZ,0:00:00,
 6,321592,Thomas,FIORILLO,Denver,CO,0:00:00,
 7,49145,James,RICCITELLO,Tucson,AZ,0:00:00,
@@ -879,7 +879,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,419955,Bryan,LITTLE,Vail,AZ,0:00:00,
 6,366496,Nikita,LINDGREN,Tucson,AZ,0:00:00,
 7,298724,Rhys,LOUIS,Tempe,AZ,0:00:00,
-8,422930,Scott,JONES,Tempe,AZ,0:00:00,
+8,422930,Scott,JONES,Scottsdale,AZ,0:00:00,
 9,306603,Nathan,FRANKLIN,Tucson,AZ,0:00:00,
 10,394505,Castle,GAY,Tucson,AZ,0:00:00,
 11,449058,Zachary,MORRISON,Buckeye,AZ,0:00:00,
@@ -979,5 +979,5 @@ Place,License #,First,Last,City,State,Time,Team
 3,395508,Shelby,HOGLUND,Tucson,AZ,0:00:00,
 4,489136,Tori,RIEMERSMA,Tempe,AZ,0:00:00,
 5,474089,Elisa,WOODY,Albuquerque,NM,0:00:00,
-6,459515,Alissa,ALBRECHT,Tempe,FL,0:00:00,
+6,459515,Alissa,ALBRECHT,Tempe,AZ,0:00:00,
 DNF,414481,Jennifer,QUIJADA,Flagstaff,AZ,0:00:00,

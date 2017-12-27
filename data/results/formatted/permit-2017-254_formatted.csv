@@ -26,7 +26,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,281614,Paul,Mesi,Winston-salem,NC,,
 23,215681,Marcus,Canady,Raleigh,NC,,North Carolina State University at Raleigh
 24,338866,Dariusz,Tyborowski,Zebulon,NC,,
-25,272071,Wheeler,Davis,Athens,GA,,
+25,272071,Wheeler,Davis,Raleigh,NC,,
 26,175041,Rich,Harper,Raleigh,NC,,Hearts Racing Club
 27,312154,Michael,Gearren II,New Bern,NC,,Steen Wear/The Chain Stay
 28,297348,Seth,Ray,Raleigh,NC,,Oak City Cycling Project Race Team
@@ -35,10 +35,10 @@ Place,License #,First,Last,City,State,Time,Team
 31,48697,Ted,Hopkins,Wake Forest,NC,,
 32,298994,Keith,Handlon,Apex,NC,,Jigawatt Cycling
 33,331876,Joshua,Brown,New Bern,NC,,Cyclus Sports
-34,309018,Keith,Mullaly,Belmont,NC,,
+34,309018,Keith,Mullaly,Wethersfield,CT,,
 35,274106,Noah,Kinney,Huntington,WV,,Team Dayton Bicycling
 36,442975,Matt,Sloyer,Raleigh,NC,,Boone Area Cyclists
-37,281804,William,Guillen,Youngsville,NC,,Finish Strong
+37,281804,William,Guillen,Wake Forest,NC,,Finish Strong
 38,460008,Tom,Rodarie,Charlotte,NC,,
 39,65848,Michel,Mouly Jr,Rock Hill,SC,,
 40,338692,Brandon,Knettel,Raleigh,NC,,The Electric Banana Cycling Project p/b FSC Racing
@@ -99,7 +99,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,524940,Wyatt,Kartvedt,Annapolis,MD,,US Naval Academy
 19,526060,Matthew,Asper,Haymarket,VA,,University of Virginia
 20,524983,Andrew,Payne,Annapolis,MD,,US Naval Academy
-21,486748,Matthew,Jones,South Dartmouth,MA,,Appalachian State University
+21,486748,Matthew,Jones,Boone,NC,,Appalachian State University
 22,480876,David,Burstein,Kernersville,NC,,Appalachian State University
 23,525149,Jeffrey,Kramer,Annapolis,MD,,US Naval Academy
 24,525249,Darius,Jonasch,Durham,NC,,Duke University
@@ -110,9 +110,9 @@ DNF,524923,Aaron,Dunn,Annapolis,MD,,US Naval Academy
 
 02/26/2017 Criterium Men Cat B COLLEGIATE
 Place,License #,First,Last,City,State,Time,Team
-1,493748,Benjamen,Shrewsberry,Shippensburg,PA,,Shippensburg University of Pennsylvania
+1,493748,Benjamen,Shrewsberry,Fredericksburg,VA,,Shippensburg University of Pennsylvania
 2,501936,Tyler,Wolfe,Baltimore,MD,,Johns Hopkins University
-3,466208,Darin,Alleman,Newville,PA,,Shippensburg University of Pennsylvania
+3,466208,Darin,Alleman,Fredericksburg,VA,,Shippensburg University of Pennsylvania
 4,460469,Evan,Schmit,Harrisonbrug,VA,,James Madison University
 5,496862,Taylor,Adams,Little Rock,AR,,US Naval Academy
 6,311143,Brian,Case,Pittsford,NY,,Virginia Polytechnic University
@@ -137,7 +137,7 @@ DNF,497107,Brian,Burlingame,Baldwinsville,NY,,US Naval Academy
 
 02/26/2017 Criterium Men Cat A COLLEGIATE
 Place,License #,First,Last,City,State,Time,Team
-1,309018,Keith,Mullaly,Belmont,NC,,Belmont Abbey College
+1,309018,Keith,Mullaly,Wethersfield,CT,,Belmont Abbey College
 2,304239,Luke,Vrouwenvelder,Chapelhill,NC,,University of North Carolina at Chapel Hill
 3,404229,Clayton,Travis,Hudson,OH,,Virginia Polytechnic University
 4,359308,Richard,OBriant,Fuquay Varina,NC,,North Carolina State University at Raleigh
@@ -156,7 +156,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,433833,Hassan,Beydoun,Pittsburgh,PA,,Carnegie Mellon University
 18,367471,Nathaniel,Worcester,Belmont,NC,,Belmont Abbey College
 19,379982,Joshua,Spokes,Baltimore,MD,,University of Maryland-College Park
-DNF,352088,Zach,Lyons,Morgantown,WV,,West Virginia University
+DNF,352088,Zach,Lyons,South Willamsport,PA,,West Virginia University
 DNF,460162,Hoel,Wiesner,Rensselaer,NY,,Duke University
 DNF,433833,Hassan,Beydoun,Pittsburgh,PA,,Carnegie Mellon University
 
@@ -205,7 +205,7 @@ Place,License #,First,Last,City,State,Time,Team
 DNS,514995,Francis,Longaker,Richmond,VA,,
 DNF,496369,William,Hart,Richmond,VA,,
 DNF,432788,Thomas,Howser,Vass,NC,,Southeast Velo Racing
-DNF,431253,Gustavo,Marin,Clayton,NC,,Constellation Cycling
+DNF,431253,Gustavo,Marin,Asheville,NC,,Constellation Cycling
 DNF,513185,Blaise,Schaeffer,Durham,NC,,
 DNF,499509,Robert,Schilling,Ashton,MD,,
 
@@ -241,7 +241,7 @@ Place,License #,First,Last,City,State,Time,Team
 DNS,289643,William,Marcheck,Durham,NC,,Triangle Velo
 DNS,152390,Mark,McClay,Whispering Pines,NC,,Southeast Velo Racing
 DNF,433214,Sergejs,Bowers,Columbus,OH,,Kreitler Racing Team
-DNF,418380,Ryan,Hayden,Wake Forest ,NC,,The Electric Banana Cycling Project p/b FSC Racing
+DNF,418380,Ryan,Hayden,Wake Forest,NC,,The Electric Banana Cycling Project p/b FSC Racing
 DNF,226556,Seth,Kemp,Campobello,SC,,Cyclus Sports
 DNF,264184,Kevin,SigRist,Raleigh,NC,,
 DNF,155616,Curtis,Staples,Apex,NC,,Jigawatt Cycling
@@ -251,7 +251,7 @@ DNF,476462,Javier,Zamarripa,Cary,NC,,Jigawatt Cycling
 Place,License #,First,Last,City,State,Time,Team
 1,434193,Sarah,Guilbert,Durham,NC,,RTO National Cycling
 2,395229,Danielle,Baker,Durham,NC,,SpokesWomen Syndicate Inc.
-3,220876,Katherine,Shields,Advance,NC,,Carolina Masters
+3,220876,Katherine,Shields,Salt Lake City,UT,,Carolina Masters
 4,523662,Austin,Thompson,Myrtle Beach,SC,,Duke University
 5,482120,Shannon,Goyda,Clemmons,NC,,Greensboro Velo Club
 6,459725,Robin,Millican,Alexandria,VA,,VeloWorks-Spokes Etc
@@ -291,7 +291,7 @@ Place,License #,First,Last,City,State,Time,Team
 02/26/2017 Criterium Women Cat A COLLEGIATE
 Place,License #,First,Last,City,State,Time,Team
 1,443128,Kathleen,O'Neil,Oak Ridge,TN,,Virginia Polytechnic University
-2,220876,Katherine,Shields,Advance,NC,,Wake Forest University
+2,220876,Katherine,Shields,Salt Lake City,UT,,Wake Forest University
 3,422664,Emma,Langley,Richmond ,VA,,College of William and Mary
 4,423846,Erin,Thamm,Annapolis,MD,,US Naval Academy
 5,409793,Annie,Pharr,Tuxedo,NC,,Appalachian State University

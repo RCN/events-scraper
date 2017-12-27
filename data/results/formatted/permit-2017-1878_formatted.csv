@@ -36,9 +36,9 @@ Place,License #,First,Last,City,State,Time,Team
 2,275900,Alexandra,McKay,Seattle,WA,,
 3,266416,Linsey,Hamilton,Minneapolis,MN,,
 4,0,Alexandra,Bovell,,,,
-5,357591,Erin,Glover,Albany,OR,,BriHOP Racing/Big Bottom Distilling
+5,357591,Erin,Glover,Portland,OR,,BriHOP Racing/Big Bottom Distilling
 6,297261,Hannah,McDade,Tigard,OR,,BRIHOP Cycling
-7,422238,Sawyer,Taylor,Greenbrae,CA,,JAKROO presented by Chrome Industries
+7,422238,Sawyer,Taylor,San Rafael,CA,,JAKROO presented by Chrome Industries
 8,439349,Alexandra,McLaughry,Portland,OR,,
 9,530903,Micaiah,Besler,,,,TaG Cycling Race Team
 10,532179,Holly,Simonson,,,,Trek Red Truck Racing
@@ -80,7 +80,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,184933,Tela,Crane,Sammamish,WA,,Lake Washington Velo
 2,0,Jenna,Nestman,,,,Alete
 3,215760,Jen,Featheringill,Portland,OR,,
-4,357591,Erin,Glover,Albany,OR,,BriHOP Racing/Big Bottom Distilling
+4,357591,Erin,Glover,Portland,OR,,BriHOP Racing/Big Bottom Distilling
 5,459420,Stephanie,Halamek,Seattle,WA,,Seattle Cancer Care Alliance Cycling Team
 6,266416,Linsey,Hamilton,Minneapolis,MN,,
 7,530903,Micaiah,Besler,,,,TaG Cycling Race Team
@@ -118,11 +118,11 @@ Place,License #,First,Last,City,State,Time,Team
 1,184933,Tela,Crane,Sammamish,WA,,Lake Washington Velo
 1,71338,Annette,Williams,Kenmore,WA,,Kenmore Velo
 2,170202,Amara,Edwards,Renton ,WA,,Puget Sound Cycling Club
-2,357591,Erin,Glover,Albany,OR,,BriHOP Racing/Big Bottom Distilling
+2,357591,Erin,Glover,Portland,OR,,BriHOP Racing/Big Bottom Distilling
 3,459420,Stephanie,Halamek,Seattle,WA,,Seattle Cancer Care Alliance Cycling Team
 3,406658,Joanne,Kiesanowski,Colorado Springs,CO,,
 4,203755,Amanda,Seigle,Citrus Heights,CA,,JAKROO presented by Chrome Industries
-4,422238,Sawyer,Taylor,Greenbrae,CA,,JAKROO presented by Chrome Industries
+4,422238,Sawyer,Taylor,San Rafael,CA,,JAKROO presented by Chrome Industries
 5,494507,Heather,Johnson,Portland,OR,,BRIHOP Cycling
 5,215760,Jen,Featheringill,Portland,OR,,
 6,208517,Andrea,Fisk,Portland,OR,,Bike Central
@@ -193,8 +193,8 @@ Place,License #,First,Last,City,State,Time,Team
 1,184933,Tela,Crane,Sammamish,WA,,Lake Washington Velo
 2,406658,Joanne,Kiesanowski,Colorado Springs,CO,,
 3,71338,Annette,Williams,Kenmore,WA,,Kenmore Velo
-4,357591,Erin,Glover,Albany,OR,,BriHOP Racing/Big Bottom Distilling
-5,422238,Sawyer,Taylor,Greenbrae,CA,,JAKROO presented by Chrome Industries
+4,357591,Erin,Glover,Portland,OR,,BriHOP Racing/Big Bottom Distilling
+5,422238,Sawyer,Taylor,San Rafael,CA,,JAKROO presented by Chrome Industries
 6,203755,Amanda,Seigle,Citrus Heights,CA,,JAKROO presented by Chrome Industries
 7,459420,Stephanie,Halamek,Seattle,WA,,Seattle Cancer Care Alliance Cycling Team
 8,532179,Holly,Simonson,,,,Trek Red Truck Racing
@@ -320,7 +320,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,49844,Norrene,Godfrey,Vancouver,WA,,
 10,170202,Amara,Edwards,Renton ,WA,,Puget Sound Cycling Club
 11,459409,Brynn,Ward,Mountlake Terrace,WA,,VELOBODY / Bikesale
-12,422238,Sawyer,Taylor,Greenbrae,CA,,JAKROO presented by Chrome Industries
+12,422238,Sawyer,Taylor,San Rafael,CA,,JAKROO presented by Chrome Industries
 13,523619,Allison,Indyk,Seattle,WA,,Seattle Cancer Care Alliance Cycling Team
 14,530903,Micaiah,Besler,,,,TaG Cycling Race Team
 15,489784,Lisa,Eriksson,Portland,OR,,Holtey Law p/b Peak Condition
@@ -380,7 +380,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,0,Jenna,Nestman,,,,Alete
 3,184933,Tela,Crane,Sammamish,WA,,Lake Washington Velo
 4,266416,Linsey,Hamilton,Minneapolis,MN,,
-5,357591,Erin,Glover,Albany,OR,,BriHOP Racing/Big Bottom Distilling
+5,357591,Erin,Glover,Portland,OR,,BriHOP Racing/Big Bottom Distilling
 6,439349,Alexandra,McLaughry,Portland,OR,,
 7,0,Alexandra,Bovell,,,,
 8,208517,Andrea,Fisk,Portland,OR,,Bike Central
@@ -477,10 +477,10 @@ Place,License #,First,Last,City,State,Time,Team
 4,459420,Stephanie,Halamek,Seattle,WA,,Seattle Cancer Care Alliance Cycling Team
 5,215760,Jen,Featheringill,Portland,OR,,
 6,203755,Amanda,Seigle,Citrus Heights,CA,,JAKROO presented by Chrome Industries
-7,357591,Erin,Glover,Albany,OR,,BriHOP Racing/Big Bottom Distilling
+7,357591,Erin,Glover,Portland,OR,,BriHOP Racing/Big Bottom Distilling
 8,266416,Linsey,Hamilton,Minneapolis,MN,,
 9,459212,Anne,Gustafson,Kirkland,WA,,VELOBODY / Bikesale
-10,422238,Sawyer,Taylor,Greenbrae,CA,,JAKROO presented by Chrome Industries
+10,422238,Sawyer,Taylor,San Rafael,CA,,JAKROO presented by Chrome Industries
 11,0,Alexandra,Bovell,,,,
 12,170202,Amara,Edwards,Renton ,WA,,Puget Sound Cycling Club
 13,523619,Allison,Indyk,Seattle,WA,,Seattle Cancer Care Alliance Cycling Team
@@ -525,7 +525,7 @@ Place,License #,First,Last,City,State,Time,Team
 07/22/2017 Team Pursuit Women 1/2/03 Elite Open
 Place,License #,First,Last,City,State,Time,Team
 1,203755,Amanda,Seigle,Citrus Heights,CA,,JAKROO presented by Chrome Industries
-1,422238,Sawyer,Taylor,Greenbrae,CA,,JAKROO presented by Chrome Industries
+1,422238,Sawyer,Taylor,San Rafael,CA,,JAKROO presented by Chrome Industries
 1,494507,Heather,Johnson,Portland,OR,,BRIHOP Cycling
 1,368373,Travis,Rabbit,Pittsburgh,PA,,Fluffy Bunny/Gunnar Track Star
 
@@ -559,7 +559,7 @@ Place,License #,First,Last,City,State,Time,Team
 07/22/2017 Tandem Sprint Women 1/2/03 Elite Open
 Place,License #,First,Last,City,State,Time,Team
 1,297261,Hannah,McDade,Tigard,OR,,BRIHOP Cycling
-1,357591,Erin,Glover,Albany,OR,,BriHOP Racing/Big Bottom Distilling
+1,357591,Erin,Glover,Portland,OR,,BriHOP Racing/Big Bottom Distilling
 2,0,Jenna,Nestman,,,,Alete
 2,439349,Alexandra,McLaughry,Portland,OR,,
 3,530903,Micaiah,Besler,,,,TaG Cycling Race Team

@@ -4,7 +4,7 @@
 Place,License #,First,Last,City,State,Time,Team
 1,293467,Jordan,Marhanka,Sellersburg,IN,,Marian University
 2,401755,Brice,Brookshire,Elkhart,IN,,Marian University
-3,271372,Jos,Chalmers,Indian Harbour Beach,FL,,Marian University
+3,271372,Jos,Chalmers,Melbourne,FL,,Marian University
 4,337040,Stephan,Hirsch,Oklahoma City,OK,,Marian University
 5,219225,Evan,Hartig,Dubuque,IA,,Lindenwood University
 6,311360,Anthony,Pratt,Niles,MI,,University of Notre Dame
@@ -22,7 +22,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,466664,Daniel,Blumberg,Highland Park,IL,,University of Wisconsin-Madison
 19,285795,Benjamin,King,Louisville,KY,,University of Louisville
 20,334610,Sam,Winters,Indianapolis,IN,,Marian University
-21,245670,Jim,Maddock,South Berwick,ME,,Northwestern University
+21,245670,Jim,Maddock,Chicago,IL,,Northwestern University
 22,400198,Ryan,hospelhorn,Normal,IL,,Lindenwood University
 23,247336,Konrad,Witt,Wood Dale,IL,,Lindenwood University
 24,398250,Ryan,McLoughlin,Powell,OH,,University of Michigan-Ann Arbor
@@ -52,14 +52,14 @@ Place,License #,First,Last,City,State,Time,Team
 11,408273,Stefan,Cerbin,Lansing,MI,,Michigan State University
 12,499966,Christopher,Anthony,West Lafayette,IN,,Purdue University
 13,439895,Kyle,Smith,Monona,WI,,University of Wisconsin-Madison
-14,468428,John,McGarry,Cleveland Heights,OH,,Case Western Reserve University
+14,468428,John,McGarry,San Diego,CA,,Case Western Reserve University
 15,335180,Kyle,Bohnsack,Brighton,MI,,Lindenwood University
 16,243473,Tyler,Roberts,Indianapolis,IN,,Marian University
 17,457085,Daniel,Eckerson,Madison,WI,,University of Wisconsin-Madison
 18,459412,Alex,Renny,East Lansing,MI,,Michigan State University
 19,499850,John,Caffarelli,Libertyville,IL,,University of Notre Dame
 20,429612,Adam,Johnston,Cleveland,OH,,Case Western Reserve University
-21,468397,Nicholas,Merchant Wells,Solana Beach,CA,,Case Western Reserve University
+21,468397,Nicholas,Merchant Wells,Cleveland,OH,,Case Western Reserve University
 22,455099,Jasper,Stallings,New York,NY,,Case Western Reserve University
 23,429561,Henry,Bermet,Seattle,WA,,Case Western Reserve University
 24,498715,Mitchell,Powers,Cincinnati,OH,,University of Cincinnati
@@ -81,12 +81,12 @@ Place,License #,First,Last,City,State,Time,Team
 6,501162,Mark,Zhao,West Lafayette,IN,,Purdue University
 7,498874,Nick,Vander Velden,Minnetonka,MN,,University of Wisconsin-Madison
 8,473028,Robert,Evert,Cross Plains,WI,,University of Wisconsin-Madison
-9,449356,Jacob,Holtgrewe,Louisville,KY,,University of Louisville
+9,449356,Jacob,Holtgrewe,Paducah,KY,,University of Louisville
 10,496786,Douglas,Simpson,Powell,OH,,Ohio State University
 11,485811,Javier,Perruca Munoz,St Charles,MO,,Lindenwood University
 12,512410,Daniel,Majors,Mccordsville,IN,,Indiana University-Bloomington
 13,460946,Andres,Urrego,West Lafayette,IN,,Purdue University
-14,472755,Tom,Madden,Elmhurst,IL,,Marquette University
+14,472755,Tom,Madden,Milwaukee,WI,,Marquette University
 15,411954,Eddie,Krillenberger,Hinsdale,IL,,Indiana University-Bloomington
 16,382399,Jason,Keena,Poplar Bluff,MO,,Lindenwood University
 17,466317,Connor,Williams,Salem,IN,,University of Notre Dame
@@ -103,7 +103,7 @@ DNF,495144,Adam,Opolka,Antioch,IL,,University of Wisconsin-Platteville
 
 04/02/2017 Criterium Men D
 Place,License #,First,Last,City,State,Time,Team
-1,527073,Peter,Dixon,Ann Arbor,MI,,University of Michigan-Ann Arbor
+1,527073,Peter,Dixon,Pasadena,CA,,University of Michigan-Ann Arbor
 2,470365,Johan,Konter,Chicago,IL,,Northwestern University
 3,424878,Juergen,Wilkes,Columbus,OH,,Ohio State University
 4,516579,Ricardo,Ramirez,Indianapolis,IN,,Marian University
@@ -114,7 +114,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,527137,Michael,Arwashan,Ann Arbor,MI,,University of Michigan-Ann Arbor
 10,529053,Lorenzo,Guio,Chicago,IL,,University of Chicago
 11,519652,Sam,O'Melveny,Notre Dame,IN,,University of Notre Dame
-12,501236,Kevin,Bodkin,Chicago,IL,,Northwestern University
+12,501236,Kevin,Bodkin,Evanston,IL,,Northwestern University
 13,526238,Brelon,May,Columbus,OH,,Ohio State University
 14,527209,Graham,Spicer,Evanston,IL,,Northwestern University
 15,496766,Ian,Breitlow,Winona,MN,,University of Wisconsin-Platteville
@@ -157,7 +157,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,273279,RACHEL,CROSS,Maineville,OH,,Marian University
 7,302383,Katherine,Santos,Louisville,KY,,Marian University
 8,523767,Annika,Teschke,Saint Charles,MO,,Lindenwood University
-9,433105,Brenna,Gibbons,Coon Valley ,WI,,University of Wisconsin-Madison
+9,433105,Brenna,Gibbons,Madison,WI,,University of Wisconsin-Madison
 10,487734,Caitlin,Neuman,Madison,WI,,University of Wisconsin-Madison
 11,315188,Marta,Morris,Grand Junction,CO,,Marian University
 12,432692,Gabriella,Arnold,Indianapolis,IN,,Marian University
@@ -182,7 +182,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,524791,Caroline,Lakeman,Ann Arbor,MI,,University of Michigan-Ann Arbor
 7,520859,Stephanie,Alcala,Hacienda Heights,CA,,University of Michigan-Ann Arbor
 8,472789,Kayla,Brahm,Ferdinand,IN,,Indiana University-Bloomington
-9,525838,Theresa,Smart,South Bend,IN,,University of Notre Dame
+9,525838,Theresa,Smart,Peoria,IL,,University of Notre Dame
 10,302230,Valerie,McGoldrick,Deephaven,MN,,University of Wisconsin-Platteville
 11,529222,Abby,Messenger,Lebanon,IN,,Indiana University-Bloomington
 12,529210,Grace,Skorin,Arlington Heights,IL,,Indiana University-Bloomington

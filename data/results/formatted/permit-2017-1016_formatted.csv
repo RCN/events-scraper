@@ -15,7 +15,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,334878,Eric,HILL,Waukesha,WI,,Project Echelon Racing
 12,220775,Thomas,SOLADAY,Minnetonka,MN,,Rally Cycling
 13,378085,Bryce,NUIVER,Jenison,MI,,EPS Security Cycling Team
-14,263035,Andrew,GINIAT,Winnetka,IL,,Project Echelon Racing
+14,263035,Andrew,GINIAT,Asheville,NC,,Project Echelon Racing
 15,226739,Trevor,ROLETTE,Tinley Park,IL,,Sammy's Racing
 16,299155,Ryan,O'BOYLE,Shorewood,IL,,xXx Racing
 17,402875,Matt,SALPIETRO,Indianapolis,IN,,Texas Roadhouse Cycling Team
@@ -42,7 +42,7 @@ Place,License #,First,Last,City,State,Time,Team
 38,395387,Sean,GARDNER,Richmond,VA,,Gateway Harley-Davidson Trek U2
 39,256839,Taylor,KRUSE,Columbus,OH,,Team Hungry
 40,330644,Chris,YOUNG,Chicago,IL,,xXx Racing
-41,477965,Kia,NAMIN,Milwaukee,WI,,Team Velocause
+41,477965,Kia,NAMIN,Shorewood,WI,,Team Velocause
 42,466664,Daniel,BLUMBERG,Highland Park,IL,,KS Energy Services  MOSH  Team
 43,174544,Shane,FEEHERY,Homewood,IL,,Bicycle Heaven
 44,287561,Nick,HAND,Clayton,MO,,Quantum Solutions Intelligentsi
@@ -59,8 +59,8 @@ DNF,393137,Daniel,TOKARCZYK,Amherst,OH,,Team Hungry
 Place,License #,First,Last,City,State,Time,Team
 1,417020,Stephanie,ROORDA,,,,Sho-Air TWENTY20
 2,291446,Daphne,KARAGIANIS,Chicago,IL,,Velo Classic pb Stan's NoTubes
-3,186919,Kendall,RYAN,Ventura,CA,,Team TIBCO-Silicon Valley Bank
-4,317802,Holly,BRECK,Santa Ynez,CA,,Sho-Air TWENTY20
+3,186919,Kendall,RYAN,Camarillo,CA,,Team TIBCO-Silicon Valley Bank
+4,317802,Holly,BRECK,San Dimas,CA,,Sho-Air TWENTY20
 5,89443,Tiffany,PEZZULO,Salt Lake City,UT,,LA Sweat
 6,36345,Laura,VAN GILDER,Cresco,PA,,Mellow Mushroom pb Psimet
 7,397217,Monica,VOLK,Kempton,PA,,Rally Cycling
@@ -79,7 +79,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,406712,Megan,HEATH,Alpharetta,GA,,Rally Cycling Devo
 21,316704,Rachel,WILLS,Wilmette,IL,,Chicago Womens Elite Cycling
 22,401145,Lauren,WISSMAN,Chicago,IL,,Chicago Womens Elite Cycling
-23,512762,Lily,WILLIAMS,Chicago,IL,,Bonkers Cycling
+23,512762,Lily,WILLIAMS,Asheville,NC,,Bonkers Cycling
 24,306811,Maria,LARKIN,Chicago,IL,,Chicago Womens Elite Cycling
 25,375164,Annie,BYRNE,Chicago,IL,,Chicago Womens Elite Cycling
 DNF,375627,Tess,OLIVER,Cambridge,OH,,
@@ -104,7 +104,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,507808,Jenna,KOVAL,Boulder,CO,,Naked Women's
 15,492400,Lisa,LIM,Chicago,IL,,BFF Bikes
 16,211195,Ramona,KUNA,Naperville,IL,,ABD Cycling Team
-17,424697,Kristine,DEIBLER,Chicago,IL,,Union Cycling Team
+17,424697,Kristine,DEIBLER,Seattle,WA,,Union Cycling Team
 18,529220,Megan,TSUPROS,Chicago,IL,,
 19,487042,Courtney,TANNER,Evanston,IL,,
 20,414408,MaryAnn,SEDOR,Warrenville,IL,,INTENT
@@ -137,7 +137,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,486336,Melroy (Will),HOLZHAUER,Geneva,IL,,ABD Cycling Team
 4,484631,Aidan,LETZEL,Mount Prospect,IL,,The Pony Shop
 5,412294,Henry,PRAZNOWSKI,Chicago,IL,,The Pony Shop
-6,493062,Nicholas,LABBE,Rolling Meadows  Il,IL,,The Pony Shop
+6,493062,Nicholas,LABBE,Rolling Meadows  ,IL,,The Pony Shop
 7,508143,Brooklyn,RADDIN,Springboro,OH,,TEAM LOGIK (LogikPower.com)
 8,517034,Henry,ELBERT,Chicago,IL,,
 9,443560,Eamon,MCINTYRE,Evanston,IL,,
@@ -205,12 +205,12 @@ Place,License #,First,Last,City,State,Time,Team
 1,433683,Thomas,TORBIK,Vernon Hills,IL,,ABD Cycling Team
 2,493491,Eli,KEYES,Shorewood,WI,,Team Velocause
 3,82335,Todd,WENDELL,Chicago,IL,,Burnham Racing
-4,470369,Dane,MURPHY,Naperville ,IL,,Chicago Cuttin Crew
+4,470369,Dane,MURPHY,Naperville,IL,,Chicago Cuttin Crew
 5,440645,Mark,AYALA,Oak Lawn,IL,,INTENT
 6,346648,Thomas,CARTER,Saint Charles,MO,,Team Mack Racing Assn
 7,500484,Bobby,ATKINS,Chicago,IL,,xXx Racing
 8,476984,Bryant,MCWHORTER,Deerfield,IL,,Burnham Racing
-9,238604,Brian,SULLIVAN,Mishawaka ,IN,,Race Inc.
+9,238604,Brian,SULLIVAN,South Bend,IN,,Race Inc.
 10,454627,Ryan,SCHMELING,Eagle,WI,,ISCorp Cycling pb SmartChoice M
 11,298137,Kevin,BAUMANN,Grand Rapids,MI,,EPS Cycling Team
 12,532168,Samuel,JANISCH,Wauwatosa,WI,,ISCorp Cycling
@@ -218,10 +218,10 @@ Place,License #,First,Last,City,State,Time,Team
 14,431122,Joseph,MATACALE,Evansville,IN,,Dan's Comp Factory Racing
 15,510228,John,BOWIE,Chicago,IL,,INTENT
 16,309422,Brian,KULAK,Bolingbrook,IL,,Wolfpack Bike Racing
-17,508091,Kevin,MANGEL,Valparaiso ,IN,,
+17,508091,Kevin,MANGEL,Valparaiso,IN,,
 18,426026,Matt,HOLT,Chicago,IL,,Vision Quest Coaching
-19,362289,Jason,HOLLY,Buffalo Grove ,IL,,PSIMET Racing
-20,484049,Jeff,THOMAS,Chicago,IL,,Burnham Racing
+19,362289,Jason,HOLLY,Buffalo Grove,IL,,PSIMET Racing
+20,484049,Jeff,THOMAS,Highland Park,IL,,Burnham Racing
 21,324348,Alex,GRANT,Chicago,IL,,Burnham Racing
 22,470365,Johan,KONTER,Chicago,IL,,Union Cycling Team
 23,254084,Ben,GRABOW,Madison,WI,,Brazen Dropouts Cycling Team
@@ -237,7 +237,7 @@ Place,License #,First,Last,City,State,Time,Team
 33,245221,Jonathan,ORTONY,Chicago,IL,,
 34,241376,Duncan,OLIVER,Cambridge,OH,,
 35,504645,Lee,PROUTY,Lodi,WI,,Brazen Dropouts Cycling Team
-36,273966,Michael,COOK,South Bend ,IN,,
+36,273966,Michael,COOK,South Bend,IN,,
 37,340880,Andres,ECHEVERRI,Evanston,IL,,Polish & Slavic FCU Internation
 38,376389,Joseph,PROSZOWSKI,Chicago,IL,,Bouledogue Tout Noir
 39,527209,Graham,SPICER,Evanston,IL,,Northwestern University
@@ -258,7 +258,7 @@ Place,License #,First,Last,City,State,Time,Team
 54,360071,Matthew,SCHMITZ,Chicago,IL,,
 55,402886,Eric,STUCK,Chicago,IL,,PSIMET Racing
 DNF,333500,Thomas,HAWLEY,Mount Vernon,IN,,Schellers Evansville Racing Tea
-DNF,361716,Freddy,BERNABE,Chicago ,IL,,
+DNF,361716,Freddy,BERNABE,Chicago,IL,,
 
 06/03/2017 Criterium Mixed Cat 2/3 OPEN
 Place,License #,First,Last,City,State,Time,Team
@@ -271,7 +271,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,287561,Nick,HAND,Clayton,MO,,Quantum Solutions Intelligentsi
 8,335978,Julian,TOUMEY,Madison,WI,,Great Dane Velo Club pb Capital
 9,478112,Patrick,JUNGENBLUT,Milwaukee,WI,,RSV Guethersloh
-10,470369,Dane,MURPHY,Naperville ,IL,,Chicago Cuttin Crew
+10,470369,Dane,MURPHY,Naperville,IL,,Chicago Cuttin Crew
 11,406924,Thomas,KEHRER,Chicago,IL,,Bicycle Heaven
 12,364762,Andy,HEUSER,Saint Charles,IL,,Bicycle Heaven
 13,397713,Aaron,BAKER,Chicago,IL,,xXx Racing
@@ -284,7 +284,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,454627,Ryan,SCHMELING,Eagle,WI,,ISCorp Cycling pb SmartChoice M
 21,431122,Joseph,MATACALE,Evansville,IN,,Dan's Comp Factory Racing
 22,313118,Tom,FERGUSON,Elmhurst,IL,,EMC2
-23,238604,Brian,SULLIVAN,Mishawaka ,IN,,Race Inc.
+23,238604,Brian,SULLIVAN,South Bend,IN,,Race Inc.
 24,298137,Kevin,BAUMANN,Grand Rapids,MI,,EPS Cycling Team
 25,440645,Mark,AYALA,Oak Lawn,IL,,INTENT
 26,500484,Bobby,ATKINS,Chicago,IL,,xXx Racing
@@ -305,7 +305,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,45758,Fabio,ORLANDI,Niles,IL,,
 9,64486,Michael,ZELLMANN,Crystal Lake,IL,,The Weather Channel
 10,349900,Scotty,MINER,Chicago,IL,,Rogue Racing - MOAB Bike Shop
-11,184183,Marc,ZIONTS,Highland Park,IL,,The Weather Channel
+11,184183,Marc,ZIONTS,Chapel Hill,NC,,The Weather Channel
 12,111453,Walid,ABU GHAZALEH,Chicago,IL,,The Pony Shop
 13,98888,Aaron,KATIN,Evanston,IL,,Rockstar Games
 14,380093,Hans,YEATES,Western Springs,IL,,
@@ -314,7 +314,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,0,John,LAFONTANT,,,,PYOC
 18,49432,James,RADDIN,Springboro,OH,,
 19,324348,Alex,GRANT,Chicago,IL,,Burnham Racing
-20,362289,Jason,HOLLY,Buffalo Grove ,IL,,PSIMET Racing
+20,362289,Jason,HOLLY,Buffalo Grove,IL,,PSIMET Racing
 21,333500,Thomas,HAWLEY,Mount Vernon,IN,,Schellers Evansville Racing Tea
 22,47240,Stanley,KELMAN,Las Vegas,NV,,Bike Palace
 DNF,189312,Dan,RUDRUD,Wilmette,IL,,Bahati Foundation
@@ -331,7 +331,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,162118,Brian,HAAS,Chicago,IL,,The Weather Channel
 9,266664,Nate,IDEN,Glencoe,IL,,Burnham Racing
 10,198389,Michael,LANYON,Chicago,IL,,Burnham Racing
-11,82244,Chris,RICHTER,Fishers,IN,,Team Heroes  First Internet Ban
+11,82244,Chris,RICHTER,Carmel,IN,,Team Heroes  First Internet Ban
 12,45986,Paul,SWINAND,Evanston,IL,,The Weather Channel
 13,40409,Timothy,DOELMAN,Glencoe,IL,,The Weather Channel
 14,145455,Jason,KNAUFF,Glencoe,IL,,Burnham Racing
@@ -339,7 +339,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,375656,Neal,MCNAMARA,Chicago,IL,,Burnham Racing
 17,107684,Benjamin,WEAVER,Columbus,IN,,ZIPP Masters Team
 18,215999,Julian,BAUMGARTNER,Lincolnwood,IL,,Burnham Racing
-19,290759,Kyle,SELPH,Aurora ,IL,,Sammy's Racing
+19,290759,Kyle,SELPH,Aurora,IL,,Sammy's Racing
 20,65323,Harry,CLARK,Carmel,IN,,Team Heroes  First Internet Ban
 21,172255,Michael,FROH,Milwaukee,WI,,INTELLIGENTSIA COFFEE
 22,142034,Tom,DRIVER,Chicago,IL,,Burnham Racing

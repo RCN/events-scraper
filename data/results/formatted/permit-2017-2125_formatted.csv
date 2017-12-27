@@ -18,7 +18,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,396025,Pj,BOTTOMS,Newton,NJ,1:00:22.68,Skylands cycling
 2,45870,Michael,ROSENHAUS,Morristown,NJ,1:00:58.08,Central Jersey Cycling Team
 3,400910,Jason,LINDEMUTH,Lancaster,PA,1:01:15.73,Divine Swine cycling
-4,192230,Mark,COWIN,Frederica ,DE,1:03:40.35,Pro Pedals Racing
+4,192230,Mark,COWIN,Frederica,DE,1:03:40.35,Pro Pedals Racing
 5,55905,Roberto,DELGADO,Galloway,NJ,1:04:05.38,
 6,122022,Bob,JAGGARD,Franklinville,NJ,1:09:28.48,Pro Pedals Racing Team
 
@@ -28,7 +28,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,132630,Patrick,WALTER,Philadelphia,PA,53:33.10,Guy's Racing Club
 3,286845,Calvin,HOOPS,Philadelphia,PA,56:48.18,Tri-State Velo / Amoroso's Raci
 4,342318,Jesse,O'DONNELL,Toms River,NJ,56:54.19,CRCA/ E2VALUE
-5,341040,Eran,PREBLE,Philadelphia ,PA,58:05.79,Integrated Sports Medicine p/b
+5,341040,Eran,PREBLE,Newark,DE,58:05.79,Integrated Sports Medicine p/b
 6,411594,Aidan,CARTER,Madison,NJ,59:12.60,Liberty Cycle
 7,361411,Fred,TANJUTCO,Cherry Hill,NJ,59:14.39,Pro Pedals Racing
 8,248847,Toby,HANNA,Stockton,NJ,59:29.96,Knapp's Cyclery Racing P/B Endu
@@ -69,7 +69,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,291945,John,SEDLAK,Chatham,NJ,58:12.97,Watts Up Cycling
 5,308257,Chris,DAWSON,Hillsborough,NJ,1:00:25.69,Redlined Racing
 6,495687,David,BLEAKLEY,Howell,NJ,1:00:51.87,Five Four Sports/Cycles 54
-7,523099,James,GRIFFIN,East Windsor,NJ,1:03:00.16,Team B3 Cycling
+7,377316,James,GRIFFIN,East Windsor,NJ,1:03:00.16,Team B3 Cycling
 8,0,Gabe,CARRYON,,,1:16:13.37,
 DNS,396025,Pj,BOTTOMS,Newton,NJ,,skylands cycling
 
@@ -82,7 +82,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,0,Eric,ONG,,,1:00:24.07,
 6,272666,Mark,CURRAN,Titusville,NJ,1:01:08.16,Knapps Cyclery Racing P/B Endur
 7,427533,Gavin,OAG,Bloomfield,NJ,1:01:22.57,Montclair Bikery Racing
-8,422489,Uber,URIBE,Montclair ,NJ,1:02:45.30,Montclair bikery racing
+8,422489,Uber,URIBE,Montclair,NJ,1:02:45.30,Montclair bikery racing
 9,257858,Jon,BOUB,Verona,NJ,1:07:02.61,Montclair Bikery Racing
 10,0,Daniel,BAUER,,,1:16:55.96,
 DNF,298136,Frank,ORTIZ,Philadelphia,PA,,Temple University Cycling Team
@@ -100,7 +100,7 @@ DNS,294981,Fred,RICA,Bridgewater,NJ,,High Gear/Trek/WW
 
 07/22/2017 Time Trial Men Masters 45-99
 Place,License #,First,Last,City,State,Time,Team
-1,189842,Andreas,RUNGGATSCHER,Monroe,NY,54:24.59,FinKraft Cycling Team
+1,189842,Andreas,RUNGGATSCHER,Chester,NY,54:24.59,FinKraft Cycling Team
 2,294981,Fred,RICA,Bridgewater,NJ,57:52.46,High Gear/Trek/WW
 3,337680,Mike,HYMAN,Norwalk,CT,58:18.47,Iron Bridge/Tarmac Cycling
 4,401766,Justin,GOSLING,Newtown,PA,59:55.73,Firehouse Cycles
@@ -139,7 +139,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,183557,John,GIORDANO,Philadelphia,PA,1:07:08.56,Pro Pedals Bike Shop
 12,60450,Walter C,KOWALSKI,Pittstown,NJ,1:07:51.66,Jaeger Wheelmen
 13,452582,Norman,VALORA,Williamstown,NJ,1:16:33.69,
-14,64565,Christopher,BYRNE,Boonton,NJ,1:24:42.82,BYRNE International LLC
+14,64565,Christopher,BYRNE,Boonton Township,NJ,1:24:42.82,BYRNE International LLC
 
 07/22/2017 Time Trial Men Masters 60-99
 Place,License #,First,Last,City,State,Time,Team
@@ -166,7 +166,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,494054,Frank,VILLANI,Long Valley,NJ,37:53.38,Team Somerset
 2,459426,Evan,DONAHUE,Bernardsville,NJ,42:03.00,Liberty Cycle
-3,504757,Thomas,BYRNE,Boonton Township ,NJ,52:08.81,BYRNE International LLC
+3,504757,Thomas,BYRNE,Boonton Township,NJ,52:08.81,BYRNE International LLC
 
 07/22/2017 Time Trial Men U23 U23
 Place,License #,First,Last,City,State,Time,Team
@@ -184,7 +184,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,482004,Doreen,BRIDGMAN,Manasquan,NJ,1:19:42.73,Team EPS/CCS p/b Shebell &Shebe
 8,501105,Rebecca,FELDMAN,Morristown,NJ,1:24:25.71,Team Martys
 9,537968,Lisa,CHRISTIANSEN,Egg Harbor Township,NJ,1:26:38.39,Pro Pedals
-10,507856,Ellen,HARDY,Boonton Township ,NJ,1:29:13.71,BYRNE International LLC
+10,507856,Ellen,HARDY,Boonton Township,NJ,1:29:13.71,BYRNE International LLC
 
 07/22/2017 Time Trial Women Cat1/2/3/4/5 Non TT
 Place,License #,First,Last,City,State,Time,Team

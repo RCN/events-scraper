@@ -56,7 +56,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,466262,Nate,Pitzer,Littleton,CO,0:50:27.31,
 3,394485,Michael,Nightingale,Boulder,CO,0:51:29.46,
 4,425311,Trevor,Rehm,Golden,CO,0:51:57.78,
-5,356593,Jonathan,Bocina,Boulder,CO,0:52:49.00,
+5,356593,Jonathan,Bocina,Boudler,CO,0:52:49.00,
 6,468063,Justin,Diamond,Boulder,CO,0:54:34.11,
 7,395443,Todd,Teren,Denver,CO,0:54:59.02,
 8,422529,David,McNeill,Denver,CO,0:55:35.69,
@@ -97,7 +97,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,408262,Monty,Bobo,Colorado Springs,CO,0:55:40.60,
 2,250465,Steven,Phillips,Boulder,CO,0:59:10.41,
-3,377290,Frank,Knuettel,Centennial,CO,0:59:25.16,
+3,377290,Frank,Knuettel,Denver,CO,0:59:25.16,
 4,363768,Chris,Deigert,Ft. Collins,CO,1:01:08.38,
 5,378897,Michael,Dodge,Superior,CO,1:02:05.98,
 6,362772,Jim,Mason,Centennial,CO,1:03:37.07,
@@ -119,13 +119,13 @@ Place,License #,First,Last,City,State,Time,Team
 22,395867,Mark,Culver,Lafayette,CO,1:13:20.12,
 23,55555,Jonathan,Day,Fort Collins,CO,1:13:56.04,
 24,407811,Tom,Hudson,Cheyenne,WY,1:14:52.24,
-25,502137,Patrick,Courson,Denver,CO,1:19:38.63,
+25,502137,Patrick,Courson,St Johns,FL,1:19:38.63,
 26,392108,CHRIS,MARCHINI,Breckenridge,CO,1:25:05.14,
 
 06/18/2017 Hill Climb Men MM 50+ 1-2-3
 Place,License #,First,Last,City,State,Time,Team
 1,66597,Michael,Carter,Littleton,CO,0:50:31.45,
-2,193888,Todd,Schuster,Golden,CO,0:53:49.76,
+2,193888,Todd,Schuster,Highlands Ranch,CO,0:53:49.76,
 3,69161,Byron,Nix,Centennial,CO,0:55:01.54,
 4,101274,Brendan,Hemp,Louisville,CO,0:56:22.04,
 5,359081,Eric,Long,Boulder,CO,0:57:45.55,
@@ -151,7 +151,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,422861,Eric,Welch,Brighton,CO,1:02:41.98,
 6,512340,Dustin,Gaspari,Denver,CO,1:02:43.54,
 7,343140,Sean,Hampton,Parker,CO,1:02:50.04,
-8,0,Tom,O&#039;Malley,,,1:03:33.58,
+8,363122,Tom,O'Malley,Denver,CO,1:03:33.58,
 9,339104,Mick,Occhiato,Fort Collins,CO,1:04:16.81,
 10,484564,Greg,Oboyle,Colorado Springs,CO,1:04:29.25,
 11,280690,Kyle,Pitman,Denver,CO,1:04:44.90,
@@ -179,7 +179,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,364256,Scott,Meadows,Erie,CO,1:00:55.62,
 11,349652,Jamy,Bacchus,Denver,CO,1:02:51.18,
 12,53211,Garrick,Mitchell,Denver,CO,1:03:11.74,
-13,408085,Lanny,Dunham,Castle Pines,CO,1:07:46.92,
+13,408085,Lanny,Dunham,Parker,CO,1:07:46.92,
 14,367356,Lloyd,Jones,Westminster,CO,1:08:08.52,
 15,477408,Damon,Brandt,Denver,CO,1:11:05.14,
 
@@ -243,7 +243,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,426069,Laura,Leonard,Arvada,CO,1:08:04.47,
 4,496377,Michelle,Main,Brighton,CO,1:11:17.29,
 5,403658,Hollis,Lyman,Columbus,OH,1:14:50.25,
-6,527854,Allison,Schroeder,Chicago,IL,1:15:45.76,
+6,527854,Allison,Schroeder,Champaign,IL,1:15:45.76,
 7,292641,Michelle,Mjoen,Berthoud,CO,1:16:24.92,
 
 06/18/2017 Hill Climb Women MW 60+

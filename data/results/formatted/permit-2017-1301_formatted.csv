@@ -38,7 +38,7 @@ Place,License #,First,Last,City,State,Time,Team
 34,401755,Brice,Brookshire,Elkhart,IN,32:46.1,Texas Roadhouse Cycling
 35,669,Matt,Bole,Loveland,OH,32:46.3,Team Dayton Cycling
 36,276289,David,Neis,Yellow Springs,OH,32:46.5,Team Dayton-Relevant Works Cycl
-37,149656,Ryan,Gamm,Bexley ,OH,32:46.7,Red Kite Coaching
+37,149656,Ryan,Gamm,Bexley,OH,32:46.7,Red Kite Coaching
 38,287386,Greg,Tombragel,Cincinnati,OH,32:46.8,OhioVelo
 39,275435,Corey,Knowles,Hamburg,NY,32:46.8,Buffalo Bicycling Club
 40,440072,Alex,Winnicki,Greensboro,NC,32:47.0,Cyclus Sports
@@ -91,7 +91,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,427744,Chuck,Ellinger,Lexington,KY,32:18.5,Audi
 10,468258,Paul,digiandomenico,Columbus,OH,32:21.5,129 studios
 11,510855,Ricky,Maynard,Columbus,OH,32:51.9,Red Bike
-12,500570,Derek,Walker,Cincinnati ,OH,32:55.7,ZWS pb Brilliant Advice
+12,500570,Derek,Walker,Cincinnati,OH,32:55.7,ZWS pb Brilliant Advice
 13,526438,Stephen,Maher,Columbus,OH,32:58.9,
 14,531606,Gregory,McCubbin,Nashville,TN,33:12.8,Cumberland Transit p/b 3 Bros C
 15,233064,Jerry,Hayes,Cincinnati,OH,33:21.4,Rogue Racing Project 513
@@ -121,7 +121,7 @@ Place,License #,First,Last,City,State,Time,Team
 39,509646,Buddy,Langdon,Huntington,WV,34:20.5,
 40,0,Michael,Garcia,,,34:20.5,
 41,511406,Brian,Wade,Cincinnati,OH,34:20.5,
-42,526957,Jonathan,Daugherty,Wyoming,OH,34:20.6,
+42,526957,Jonathan,Daugherty,Brooklyn,NY,34:20.6,
 43,393584,RODOLFO,Villalvir,Indianapolis,IN,34:20.6,
 44,0,Chad,Steider,,,34:20.6,Gray Goat Sports
 45,0,Anthony,Davis,,,34:20.6,
@@ -136,7 +136,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,230402,Brandon,ORear,Hixson,TN,38:37.3,Village Volkswagen Cycling Team
 6,529244,Bradley,Hoeweler,Cincinnati,OH,38:37.7,Element Cycles
 7,395247,Nate,Lake,Indianapolis,IN,38:38.3,Dash Racing
-8,405195,Adam,Goodale,Cincinnati,OH,38:38.5,
+8,405195,Adam,Goodale,Madeira,OH,38:38.5,
 9,365147,Aaron,Troxel,Burbank,OH,38:38.7,Wooster Bikewerks p/b Wootown B
 10,476541,Michael,Cauley,Westerville,OH,38:38.7,Headwind Cycling p/b Elevator B
 11,311842,Neal,Schmitt,Columbus,OH,38:38.8,Team SixOneFour
@@ -146,7 +146,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,458738,Jeff,Harper,Columbusc,OH,38:39.6,Paradise Garage
 16,290197,Todd,Beeby,Davis,CA,38:39.7,
 17,400633,Benjamin,Leichty,Cincinnati,OH,38:39.7,Team Hungry
-18,325072,Nicholas,Petrov,Mckinney,TX,38:39.9,ProChain Junior Development
+18,325072,Nicholas,Petrov,Mason,OH,38:39.9,ProChain Junior Development
 19,393061,Joseph,Lawhorn,Chillicothe,OH,38:40.3,Team Dayton
 20,468258,Paul,Digiandomenico,Columbus,OH,38:40.4,129 studios
 21,496571,Mark,Illingworth,Mason,OH,38:40.8,Queen City Wheels
@@ -173,10 +173,10 @@ Place,License #,First,Last,City,State,Time,Team
 42,396869,Christopher,Yanakos,Pittsburgh,PA,40:37.3,La Prima Racing
 43,145171,Lowell,Engelking,Columbus,IN,40:37.3,Team Heroes
 44,0,Carlos,Hernandez,,,40:37.3,K&G Bike Center
-45,526957,Jonathan,Daugherty,Wyoming,OH,40:37.3,
+45,526957,Jonathan,Daugherty,Brooklyn,NY,40:37.3,
 46,0,Jared,Schaaf,,,40:37.3,
 47,0,Carlos,Hernandez,,,40:24.5,K&G Bike Center
-48,526957,Jonathan,Daugherty,Wyoming,OH,40:25.5,
+48,526957,Jonathan,Daugherty,Brooklyn,NY,40:25.5,
 
 06/24/2017 Criterium Men CAT 3/4
 Place,License #,First,Last,City,State,Time,Team
@@ -199,7 +199,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,455735,Travis,Iles,New Albany,OH,45:44.4,Audi
 18,301180,Enzo,Allwein,Cincinnati,OH,45:44.8,Team Handmade
 19,235804,Samuel,Dobrozsi,Loveland,OH,45:45.4,
-20,514785,Christopher,Peltzer,Johnstown,PA,45:45.5,Indiana University of Pennsylva
+20,514785,Christopher,Peltzer,Indiana,PA,45:45.5,Indiana University of Pennsylva
 21,353428,Scott,Baumer,Indianapolis,IN,45:45.7,Shamrock Cycles
 22,396644,Robert,Hengel,North Tonawanda,NY,45:46.5,Buffalo Bicycling Club Race Tea
 23,318510,William,Bobrow,Louisville,KY,45:46.6,Papa John's Racing Team
@@ -236,7 +236,7 @@ Place,License #,First,Last,City,State,Time,Team
 54,488007,Carl,Potthoff,East China,MI,47:24.7,
 55,339070,Spencer,Ingels,Morgantown,WV,47:34.9,
 56,384989,Steve,Herman,Dayton,OH,47:35.2,Team Dayton
-57,231392,David,Rich,Galloway,OH,47:35.2,Team Dayton Cycling
+57,231392,David,Rich,Cedarville,OH,47:35.2,Team Dayton Cycling
 58,529244,Bradley,Hoeweler,Cincinnati,OH,47:35.2,Element Cycles
 59,359850,Owen,Gibby,Cincinnati,OH,47:35.2,Bishop's Bicycles
 60,501264,Michael,Woode,Ashland,OH,47:35.3,Wooster Bikewerks/Wootown Bagel
@@ -249,7 +249,7 @@ Place,License #,First,Last,City,State,Time,Team
 67,321344,Cameron T.,Schmidt,Wooster,OH,47:35.4,Ride On Wooster
 68,405233,Owen,Stone,Louisville,KY,47:35.4,
 69,473721,Troy,Stratford,Carmel,IN,47:35.4,Dash Racing
-70,461016,Jacob,Kastens,Cincinnati ,OH,47:35.4,University of Cincinnati
+70,461016,Jacob,Kastens,Cincinnati,OH,47:35.4,University of Cincinnati
 71,407237,George,Pompura,Pittsburgh,PA,47:35.4,Cyclus Sports Pittsburgh
 72,439746,Sean,O'Connor,Cincinnati,OH,47:35.4,Fat Cats Racing
 73,387255,Owen,Busch,Loveland,OH,47:35.4,Team Handmade
@@ -293,7 +293,7 @@ Place,License #,First,Last,City,State,Time,Team
 06/24/2017 Criterium Men CAT 1/2/3/4 MASTERS 40+
 Place,License #,First,Last,City,State,Time,Team
 1,221134,Shane,Brenner,Tipp City,OH,30:52.6,
-2,82244,chris,richter,Fishers,IN,30:54.6,Zone-6 Cycling
+2,82244,chris,richter,Carmel,IN,30:54.6,Zone-6 Cycling
 3,107684,Ben,Weaver,Columbus,IN,31:54.9,ZIPP MASTERS TEAM
 4,173976,matthew,hough,Loveland,OH,31:55.8,Audi
 5,177206,Felipe,Cardenas,Indianapolis,IN,31:56.0,Dash Cycling Team
@@ -346,7 +346,7 @@ Place,License #,First,Last,City,State,Time,Team
 24,134363,Derek,Wilford,Euclid,OH,32:37.2,Team Spin / Litzler Automation
 25,166902,David,Hart,Cincinnati,OH,32:37.3,ZWS / pb Brilliant Advice
 26,296822,alan,willey,Cincinnati,OH,32:37.3,ZWS / Popsicle
-27,101932,James,Dennedy,Dayton,OH,32:37.3,Team Ghisallo
+27,101932,James,Dennedy,Union Center,WI,32:37.3,Team Ghisallo
 28,281967,Robert,Brnilovich,Akron,OH,32:37.3,Snakebite Racing
 29,392077,David,Cox,Bellbrook,OH,32:37.3,Team Dayton - Morgan Stanley
 30,264780,Patrick,Bendel,Lebanon,OH,32:37.3,Ohio Velo
@@ -435,7 +435,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,0,Jared,Smith,,,32:14.6,Wooster Bikewerks
 7,468258,Paul,digiandomenico,Columbus,OH,32:21.5,129 studios
 8,510855,Ricky,Maynard,Columbus,OH,32:51.9,Red Bike
-9,500570,Derek,Walker,Cincinnati ,OH,32:55.7,ZWS pb Brilliant Advice
+9,500570,Derek,Walker,Cincinnati,OH,32:55.7,ZWS pb Brilliant Advice
 10,526438,Stephen,Maher,Columbus,OH,32:58.9,
 11,233064,Jerry,Hayes,Cincinnati,OH,33:21.4,Rogue Racing Project 513
 12,511809,Bryan,Ryder,Cincinnati,OH,33:37.2,ZWS / Brilliant Advice
@@ -459,7 +459,7 @@ Place,License #,First,Last,City,State,Time,Team
 30,510417,Nick,Bartelme,Cincinnati,OH,34:20.5,
 31,0,Michael,Garcia,,,34:20.5,
 32,511406,Brian,Wade,Cincinnati,OH,34:20.5,
-33,526957,Jonathan,Daugherty,Wyoming,OH,34:20.6,
+33,526957,Jonathan,Daugherty,Brooklyn,NY,34:20.6,
 34,0,Anthony,Davis,,,34:20.6,
 35,536472,Matthew,Edington,Cincinnati,OH,34:20.6,
 
@@ -468,13 +468,13 @@ Place,License #,First,Last,City,State,Time,Team
 1,338492,Danny,Alarcon,Westerville,OH,38:36.5,Audi
 2,478364,Tyler,Hardin,Grove City,OH,38:37.2,K&G Bike Center
 3,529244,Bradley,Hoeweler,Cincinnati,OH,38:37.7,Element Cycles
-4,405195,Adam,Goodale,Cincinnati,OH,38:38.5,
+4,405195,Adam,Goodale,Madeira,OH,38:38.5,
 5,365147,Aaron,Troxel,Burbank,OH,38:38.7,Wooster Bikewerks p/b Wootown B
 6,311842,Neal,Schmitt,Columbus,OH,38:38.8,Team SixOneFour
 7,377540,Jay,Salge,Lima,OH,38:39.4,
 8,458738,Jeff,Harper,Columbusc,OH,38:39.6,Paradise Garage
 9,400633,Benjamin,Leichty,Cincinnati,OH,38:39.7,Team Hungry
-10,325072,Nicholas,Petrov,Mckinney,TX,38:39.9,ProChain Junior Development
+10,325072,Nicholas,Petrov,Mason,OH,38:39.9,ProChain Junior Development
 11,393061,Joseph,Lawhorn,Chillicothe,OH,38:40.3,Team Dayton
 12,496571,Mark,Illingworth,Mason,OH,38:40.8,Queen City Wheels
 13,393193,Michael,Buckner,Lewis Center,OH,38:42.3,Headwind Cycling p/b Elevator B
@@ -510,7 +510,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,221994,matthew,Lester,Lebanon,OH,45:54.7,Team Dayton Cycling
 17,411173,John,Maguire,Findlay,OH,46:48.7,
 18,384989,Steve,Herman,Dayton,OH,47:35.2,Team Dayton
-19,231392,David,Rich,Galloway,OH,47:35.2,Team Dayton Cycling
+19,231392,David,Rich,Cedarville,OH,47:35.2,Team Dayton Cycling
 20,359850,Owen,Gibby,Cincinnati,OH,47:35.2,Bishop's Bicycles
 21,501264,Michael,Woode,Ashland,OH,47:35.3,Wooster Bikewerks/Wootown Bagel
 22,393692,Mark,Bischof,Strongsville,OH,47:35.3,
@@ -564,7 +564,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,134363,Derek,Wilford,Euclid,OH,32:37.2,Team Spin / Litzler Automation
 14,166902,David,Hart,Cincinnati,OH,32:37.3,ZWS / pb Brilliant Advice
 15,296822,alan,willey,Cincinnati,OH,32:37.3,ZWS / Popsicle
-16,101932,James,Dennedy,Dayton,OH,32:37.3,Team Ghisallo
+16,101932,James,Dennedy,Union Center,WI,32:37.3,Team Ghisallo
 17,281967,Robert,Brnilovich,Akron,OH,32:37.3,Snakebite Racing
 18,392077,David,Cox,Bellbrook,OH,32:37.3,Team Dayton - Morgan Stanley
 19,264780,Patrick,Bendel,Lebanon,OH,32:37.3,Ohio Velo
@@ -588,7 +588,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,345004,Daniel,Lausin,Willowick,OH,32:45.7,Palmer/cspire fiber
 14,669,Matt,Bole,Loveland,OH,32:46.3,Team Dayton Cycling
 15,276289,David,Neis,Yellow Springs,OH,32:46.5,Team Dayton-Relevant Works Cycl
-16,149656,Ryan,Gamm,Bexley ,OH,32:46.7,Red Kite Coaching
+16,149656,Ryan,Gamm,Bexley,OH,32:46.7,Red Kite Coaching
 17,287386,Greg,Tombragel,Cincinnati,OH,32:46.8,OhioVelo
 18,345876,Zachary,Lewis,Cincinnati,OH,34:03.9,11elevenCycling p/b INFINIT Nut
 19,277697,Christopher,Poptic,West Chester,OH,34:04.0,Team Dayton Cycling

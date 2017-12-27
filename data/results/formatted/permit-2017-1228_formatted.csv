@@ -32,9 +32,9 @@ Place,License #,First,Last,City,State,Time,Team
 05/27/2017 Road Race Mixed Pro/Cat 1/2/3 Elite
 Place,License #,First,Last,City,State,Time,Team
 1,205204,Revere,Greist,Madison,WI,,Great Dane Velo Club (GDVC)
-2,230509,Ben,LaForce,Chicago,IL,,xXx Racing
+2,230509,Ben,LaForce,Denver,CO,,xXx Racing
 3,478112,Patrick,Jungenblut,Milwaukee,WI,,RSV Gutersloh 1931
-4,259043,John,ShalekBriski,Spokane,WA,,Otterhaus Project Racing
+4,259043,John,ShalekBriski,Apo,AP,,Otterhaus Project Racing
 5,197058,Bryan,Fosler,Madison,WI,,801 W. Madison
 6,397713,Aaron,Baker,Chicago,IL,,xXx Racing
 7,257820,Brian,Rach,Shorewood,WI,,KS Energy Services / MOSH / Team Wiscons
@@ -75,7 +75,7 @@ Place,License #,First,Last,City,State,Time,Team
 05/27/2017 Road Race Mixed Category 5 Elite
 Place,License #,First,Last,City,State,Time,Team
 1,532204,Justin,Daulman,Oshkosh,WI,,
-2,480010,Daniel,Feuling,Milwaukee,WI,,
+2,480010,Daniel,Feuling,Milwaukee Wi,WI,,
 3,498669,Martin,tePoele,Aurora,IL,,EMC2 / Elmhurst Masters
 4,529902,Jaret,Hendrickson,Middleton,WI,,
 5,492925,Thomas,Leu,Wauwatosa,WI,,
@@ -140,7 +140,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,430758,Josh,Mesner,Whitewater,WI,,KS Energy Services / MOSH / Team Wiscons
 10,292309,Ethan,Wilson,Elgin,IL,,
 11,430656,Juan Esteban,Tapiero Bernal,Wauwatosa,WI,,BELGIANWERKX
-12,286320,Zachary,Zionts,Highland Park,IL,,Burnham Racing
+12,286320,Zachary,Zionts,Chapel Hill,NC,,Burnham Racing
 13,534359,Gabriel,Rojas,Kenosha,WI,,Global Force Team
 14,454627,Ryan,Schmeling,Eagle,WI,,ISCorp Cycling p/b SmartChoice MRI
 15,185507,Heather,Haviland,Waukesha,WI,,BFF Bikes
@@ -158,14 +158,14 @@ Place,License #,First,Last,City,State,Time,Team
 1,281989,Bevan,Brookfield,Evanston,IL,,Half Acre Cycling
 2,472808,Justin,Rivas,Milwaukee,WI,,Team Velocause
 3,344230,Russ,Kempka,Grafton,WI,,ISCorp Cycling
-4,362289,Jason,Holly,Buffalo Grove ,IL,,PSIMET Racing
+4,362289,Jason,Holly,Buffalo Grove,IL,,PSIMET Racing
 5,132116,David,Studner,Madison,WI,,Trek Midwest Team
 6,424928,Ross,Ford,Waukesha,WI,,BELGIANWERKX
 7,336264,Jose,Rodriguez,Highwood,IL,,INTENT
 8,142045,Jay,Johannsen,Bettendorf,IA,,Velosport Iowa
 9,52687,Jim,Mauck,Cedarburg,WI,,ISCorp Cycling p/b SmartChoice MRI
 10,305157,Jarred,Cassady,Lakemills,WI,,Trek Midwest Team
-11,312254,Benny,Smith,Wauwatosa ,WI,,Team Velocause
+11,312254,Benny,Smith,Wauwatosa,WI,,Team Velocause
 12,375978,Kurt,Bentsen,Crystal Lake,IL,,PSIMET Racing
 13,192305,Jeffrey,Lex,Milwaukee,WI,,BELGIANWERKX
 DNF,389076,Stuart,Nelsen,Oak Park,IL,,UPB Cycling
@@ -194,8 +194,8 @@ DNF,285578,John,Boudry,Waukesha,WI,,Team Velocause
 
 05/27/2017 Road Race Mixed Cat 1/2/3/4 Masters 50+
 Place,License #,First,Last,City,State,Time,Team
-1,83764,Gene,Tolli,Albany,WI,,
-2,184183,Marc,Zionts,Highland Park,IL,,The Weather Channel
+1,83764,Gene,Tolli,Peoria,AZ,,
+2,184183,Marc,Zionts,Chapel Hill,NC,,The Weather Channel
 3,321876,Michael,Meteyer,Madison,WI,,Trek Midwest Team
 4,9947,Robert,Downs,Belleville,WI,,
 5,208025,John,Van Susteren,Mukwonago,WI,,
@@ -206,5 +206,5 @@ Place,License #,First,Last,City,State,Time,Team
 10,103842,Dale,Humphrey,Verona,WI,,
 11,181930,Michael,Berzinski,Manitowoc,WI,,Heavy Pedal Velo Club
 DNF,210543,Barney,Sheafor,Middleton,WI,,Trek Midwest Team
-DNF,470334,Buran,Phillips,Knoxville,TN,,VELOSOPHY
+DNF,538161,Buran,Phillips,Knoxville,TN,,VELOSOPHY
 DNF,134612,John,Gamache,Waukesha,WI,,Lakes Area Physical Therapy

@@ -7,7 +7,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,429036,Vivien,Rindisbacher,Newton,MA,1:25:42,KMS Cycling-Killington Mountain School
 4,380705,Rafael,Meran,New York,NY,1:25:42,
 5,83498,Sean,Cahill,Burlington,CT,1:25:42,Team ERRACE p/b DSO Manufacturing
-6,387921,Alec,Hoover,Kingston ,NY,1:25:46,Team ERRACE p/b DSO Manufacturing
+6,387921,Alec,Hoover,Ripon,WI,1:25:46,Team ERRACE p/b DSO Manufacturing
 7,477589,Michael,Landry,New Haven,CT,1:25:48,CT Cycling Advancement Program
 8,247838,Thomas,Barnett,Freehold,NJ,1:26:39,Team ERRACE p/b DSO Manufacturing
 9,22537,Michael,Markowicz,Glastonbury,CT,1:26:39,CT Cycling Advancement Program
@@ -94,7 +94,7 @@ Place,License #,First,Last,City,State,Time,Team
 35,168995,Ron,Jacobs,Needham,MA,0:33:48,Wheelworks Racing
 36,60566,Wade,Summers,Southington,CT,0:33:48,Team Horst Sports
 37,173890,Chris,Crowell,Prospect,CT,0:33:48,CVC/Hartford Healthcare Sports Medicine
-38,103281,Massimiliano,Accaputo,Rocky Hill ,CT,0:33:48,CVC/Hartford Healthcare Sports Medicine
+38,103281,Massimiliano,Accaputo,South Glastonbury,CT,0:33:48,CVC/Hartford Healthcare Sports Medicine
 39,54549,Mark,Paggioli,Glastonbury,CT,0:33:48,CVC - Hartford Healthcare Sports Medicine
 DNF,379396,Kenley,Gonzalez,Bridgeport,CT,dnf,
 
@@ -162,13 +162,13 @@ Place,License #,First,Last,City,State,Time,Team
 1,518110,Ethan,DelGrosso,Waterford,CT,0:24:51,ciao velo
 2,429839,Patrick,Kiernan,Burlington,CT,0:25:19,RACE CF | racecf.org @racecf
 3,475235,Connor,Dainiak,W Hartford,CT,0:25:19,CCAP
-4,503987,William,Rueckert,W Hartford,CT,0:26:27,CCAP West Hartford ERRACERs
+4,503987,William,Rueckert,West Hartford,CT,0:26:27,CCAP West Hartford ERRACERs
 5,0,Felix,Absolonne,,,0:26:27,
 6,485984,Nathaniel,Summers,Southington,CT,0:26:27,CCAP ERRACERS
-7,474725,Sadie,Rueckert,W Hartford,CT,lap,CCAP West Hartford ERRACERs
+7,474725,Sadie,Rueckert,West Hartford,CT,lap,CCAP West Hartford ERRACERs
 8,532456,Thomas,Brown,Natick,MA,lap,New England Dev
 9,433081,Evelyn,Kornbluh,West Hartford,CT,lap,CCAP West Hartford ERRACERs
-10,507456,Colin,Hamilton,W Hartford,CT,lap,West Hartford ERRACERS / CCAP
+10,507456,Colin,Hamilton,West Hartford,CT,lap,West Hartford ERRACERS / CCAP
 11,500699,Audrey,Saksena,Newton Highlands,MA,lap,
 
 07/09/2017 Criterium Men Junior Junior 13-14
@@ -188,7 +188,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,411384,Aidan,Kiernan,Burlington,CT,,RACE CF | racecf.org @racecf
 5,337380,Kyle,Mullaly,Wethersfield,CT,,CT Cycling Advancement Program
 6,391679,Johnny,Meyerle,Monroe,CT,,CT Cycling Advancement
-7,505733,Luke,Sedor Protti,Shutesbury ,MA,,Northampton Cycling Club
+7,505733,Luke,Sedor Protti,Shutesbury,MA,,Northampton Cycling Club
 8,442986,George,piepgras,Swampscott,MA,,New England Devo p/b Cadence Wealth Management
 DNF,425297,Nathaniel,Ryan,Randolph,MA,dnf,New England Devo p/b Cadence Wealth Management
 
@@ -206,11 +206,11 @@ Place,License #,First,Last,City,State,Time,Team
 10,533245,Nathan,Uhlig,Glastonbury,CT,0:39:38,Cheshire Cycle Racing
 11,520780,Roderick,Eskew,Trumbull,CT,0:39:38,Boston University
 12,532273,Timothy,Perry,Cranston,RI,0:39:38,
-13,0,Edward,Martin,,,0:39:38,
+13,536946,Edward,Martin,Westport,CT,0:39:38,
 14,498757,Matthew,Reynolds,Suffield,CT,0:39:38,
 15,490622,Brian,Hax,Durham,CT,0:39:38,
 16,528494,Keith,Peterson,Belgrade,ME,0:39:38,
-17,522902,Samuel,Robinson,Medford,MA,0:39:38,545 Velo
+17,522902,Samuel,Robinson,Brookline,MA,0:39:38,545 Velo
 18,0,Leo,Heffernan,,,0:40:17,Riverside Racing
 19,306171,Dale,Hollingsworth,Randolph,MA,0:40:26,Team Travis Cycle
 20,0,Tom,Karz,,,0:40:32,
@@ -284,13 +284,13 @@ Place,License #,First,Last,City,State,Time,Team
 10,408236,Dan,Kurowski,East Longmeadow,MA,0:45:35,Cyclonauts Racers
 11,330868,Nicholas,Willette,Vernon,CT,0:45:35,Aetna- Expo Wheelmen
 12,337680,Mike,Hyman,Norwalk,CT,0:45:35,Iron Bridge/Tarmac Cycling
-13,408284,Mark,Hewitt,South Deerfield,MA,0:45:35,JAM / NCC
+13,408284,Mark,Hewitt,Mattapan,MA,0:45:35,JAM / NCC
 14,459060,Aaron,Black,W Hartford,CT,0:45:35,CENTRAL WHEEl/GHCC
 15,0,unknown,rider,,,0:45:35,
 16,278135,Kyle,Herlihy,Ridgefield,CT,0:45:35,C3 RACING
 17,429724,Ben,Jankowski,Mansfield,MA,0:45:35,JAM/NCC
 18,120949,Diego,Atehortua,Norwalk,CT,0:45:35,
-19,311452,Alec,Cunningham,Cheshire,CT,0:45:35,RACE CF | racecf.org @racecf
+19,311452,Alec,Cunningham,Cape Neddick,ME,0:45:35,RACE CF | racecf.org @racecf
 20,438970,Val,Petrov,New York,NY,0:45:35,Dave Jordan Racing
 21,489314,Jason,Tinkov,Sudbury,MA,0:45:35,Tinkov Racing p/b Frank's Spoke 'N Wheel
 22,304293,Jerry,De Zutter,Hudson,MA,0:45:35,545 Velo
@@ -323,7 +323,7 @@ Place,License #,First,Last,City,State,Time,Team
 DNF,526797,Laura,Doherty,Farmington,CT,dnf,
 DNF,415367,Judith,Imperatore,Tolland,CT,dnf,
 DNF,467502,Valerie,Tassinari,Somerville,MA,dnf,pedalpowertraining.com
-DNF,440531,Rebekka,Westrick,Fairfield,OH,dnf,pedalpowertraining.com
+DNF,440531,Rebekka,Westrick,Jamaica Plain,MA,dnf,pedalpowertraining.com
 
 07/09/2017 Criterium Women Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team

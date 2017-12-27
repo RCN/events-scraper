@@ -11,7 +11,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,427897,Rory,ONeill,Brooklyn,NY,1:19:21,CRCA/Maglia Rosa NYC
 8,425914,Adriano,Hauck,Philadelphia,PA,1:19:22,Rohan Cycling
 9,496367,Michael,Carbone,Haddonfield,NJ,1:19:23,CS Velo
-10,283659,Philip Bennett,Daniels,Philadelphia ,PA,1:19:23,Dangerous Creatures
+10,283659,Philip Bennett,Daniels,Philadelphia,PA,1:19:23,Dangerous Creatures
 11,434726,Greg,Armstrong,Philadelphia,PA,1:19:24,QCW Cycling p.b. Breakawaybikes.com
 12,481209,Henri,Simon,Bel Air,MD,1:19:27,JAMSQUAD Cycling
 13,495159,John,Beardsley,Brooklyn,NY,1:19:27,CRCA/NYCC Racing p/b BGC Partners
@@ -24,7 +24,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,485942,Lance,Dionne,Gladwyne,PA,1:19:37,CS Velo
 21,474322,Lamar,Zook,Ephrata,PA,1:19:37,QCW Cycling p.b. Breakawaybikes.com
 22,460634,Ed,Hammond,Brooklyn,NY,1:19:39,Team Village
-23,467177,Brendan,Offer,New York,NY,1:19:47,CRCA/Maglia Rosa NYC
+23,467177,Brendan,Offer,Oradell,NJ,1:19:47,CRCA/Maglia Rosa NYC
 24,400905,Eric,Thorek,Philadelphia,PA,1:20:07,VR2209
 25,448395,Kyle,Clifford,Philadelphia,PA,1:22:21,CS Velo
 26,379369,Tom,Reeb,Philadelphia,PA,1:25:56,Bicycle Therapy Racing
@@ -38,17 +38,17 @@ Place,License #,First,Last,City,State,Time,Team
 34,499474,Samuel,Rideout,Pittsburgh,PA,P&P,USA Pista Elite
 DNF,347764,Sean,Chisham,Falls Church,VA,DNF,VeloWorks-Spokes Etc
 DNF,381270,Joseph,Clay,Upper Darby,PA,DNF,Young Medalists
-DNF,428001,Cody,Corona,New York,NY,DNF,CRCA/Rockstar Games
+DNF,428001,Cody,Corona,Marina Del Rey,CA,DNF,CRCA/Rockstar Games
 DNF,434655,Russell,Douglas,Sterling,VA,DNF,Velocipede P/B Quadtec Solutions
 DNF,397521,Andrew,Perez,Madison,WI,DNF,Brazen Dropouts
-DNF,411044,Wanya,Cave,Collingdale,PA,DNF,Tri State Velo
+DNF,411044,Wanya,Cave,Philadelphia,PA,DNF,Tri State Velo
 
 03/18/2017 Circuit Race Men Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
 1,318896,Micah,Engle,Dillsburg,PA,1:32:27,Gateway Harley-Davidson Trek U25
 2,379489,William,Cooper,Pittsburgh,PA,1:32:27,CS Velo Elite
 3,433033,Robert,wasch,Wyoming,PA,1:32:28,CS Velo Elite
-4,305602,Craig,Nichols,Ephrata,PA,1:32:53,CS Velo Elite
+4,305602,Craig,Nichols,Lancaster,PA,1:32:53,CS Velo Elite
 5,395327,Sean,Burger,Philadelphia,PA,1:33:47,CS Velo Elite
 6,403696,Tim,Weigelt,Philadelphia,PA,1:33:49,CS Velo Elite
 7,353400,Jacob,Skrip,Breinigsville,PA,1:33:51,CS Velo
@@ -64,11 +64,11 @@ Place,License #,First,Last,City,State,Time,Team
 DNF,247838,Thomas,Barnett,Freehold,NJ,DNF,Team ERRACE Presented By DSO Manufacturing
 DNF,368709,Joseph,Hydrick,Mount Joy,PA,DNF,CS Velo Elite
 DNF,339480,Tomas,Ketcham,Philadelphia,PA,DNF,CRCA/Blue Ribbon-Pennell Venture Partners
-DNF,467177,Brendan,Offer,New York,NY,DNF,CRCA/Maglia Rosa NYC
+DNF,467177,Brendan,Offer,Oradell,NJ,DNF,CRCA/Maglia Rosa NYC
 DNF,427897,Rory,ONeill,Brooklyn,NY,DNF,CRCA/Maglia Rosa NYC
 DNF,119361,Colin,Sandberg,Philadelphia,PA,DNF,Team GPOA
 DNF,356922,Peter,Sotherland,Baltimore,MD,DNF,Kelly Benefit Strategies/LSV
-DNF,306560,Steven,Wentworth,Yardley ,PA,DNF,Tri-State Velo / Amoroso's Racing Team
+DNF,306560,Steven,Wentworth,Yardley,PA,DNF,Tri-State Velo / Amoroso's Racing Team
 DNF,423581,Christopher,Baccash,Doylestown,PA,DNF,Tri State Velo
 DNF,291228,Brett,Houser,Philadelphia,PA,DNF,Tri State Velo
 
@@ -81,7 +81,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,27456,Jacqueline,Paull,Hackettstown,NJ,1:16:31,
 6,498777,Clara,Wang,Philadelphia,PA,1:20:55,CRCA/NYCC Racing
 7,207716,Caitlin,Thompson,Philadelphia,PA,1:20:57,Arrow Racing
-8,512092,Holly,Neckermann,Philadelphia ,PA,1:23:38,Women Bike PHL
+8,512092,Holly,Neckermann,Philadelphia,PA,1:23:38,Women Bike PHL
 9,485439,Julie,Erhart,Philadelphia,PA,1:31:20,
 DNF,484861,Eve,Maxson,Philadelphia,PA,DNF,Laser Cats Feline All Stars
 DNF,499692,Erin,McKeon,Philadelphia,PA,DNF,WBPHL racing
@@ -106,7 +106,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,503395,Kathryn,Aman,Hanover,NH,0:37:39.85,Middlebury College
 2,498777,Clara,Wang,Philadelphia,PA,0:38:13.37,CRCA/NYCC Racing
-3,396612,Maureen,Gribb,Lansdale,PA,0:38:32.53,Action Wheels
+3,396612,Maureen,Gribb,Unit C,PA,0:38:32.53,Action Wheels
 4,523377,Chai,Hoang,Fairfax,VA,DNF,
 
 03/18/2017 Road Race Men Collegiate A
@@ -114,14 +114,14 @@ Place,License #,First,Last,City,State,Time,Team
 1,369746,Nicholas,Lando,Ringwood,NJ,1:32:56,University of Vermont
 2,416197,Andrew,Nicholas,Troy,NY,1:33:38,Rensselaer Polytechnic Institute
 3,0,Blake,Bogpen,,,1:33:47,Queen's University
-4,383744,Jason,Hammond,Stanford,CA,1:33:52,University of Delaware
-5,311452,Alec,Cunningham,Cheshire,CT,1:33:54,University of New Hampshire
+4,383744,Jason,Hammond,Palo Alto,CA,1:33:52,University of Delaware
+5,311452,Alec,Cunningham,Cape Neddick,ME,1:33:54,University of New Hampshire
 6,371518,Christopher,Welch,Barneveld,NY,1:33:56,KMS Cycling-Killington Mountain School
 7,310898,Alec,Ratzell,Blandon,PA,1:34:01,Pennsylvania State University
 8,0,Matthew,Sherav,,,1:34:09,Queen's University
 9,477589,Michael,Landry,New Haven,CT,1:34:10,Yale University
 10,431533,derrick,butler,Nazareth,PA,1:34:11,University of Pennsylvania
-11,0,Cameron,McPhaden,,,1:34:20,Queen's University
+11,502228,Cameron,McPhaden,,,1:34:20,Queen's University
 12,332188,Alex,Kellum,Philadelphia,PA,1:34:37,University of Pennsylvania
 13,311527,Kenneth,McNeill,Rutland,VT,1:34:43,Northeastern University
 14,467304,Scott,Coblentz,Frederick,MD,1:35:10,Shippensburg University of Pennsylvania
@@ -133,15 +133,15 @@ Place,License #,First,Last,City,State,Time,Team
 20,0,Patrick,Farrell,,,1:36:14,Queen's University
 21,383117,Spencer,Perry,Nassau,NY,1:37:43,Rochester Institute of Technology
 22,297235,Kenneth,Englert,Shawnee,KS,1:37:52,US Military Academy
-23,493748,Benjamen,Shrewsberry,Shippensburg,PA,1:37:52,Shippensburg University of Pennsylvania
+23,493748,Benjamen,Shrewsberry,Fredericksburg,VA,1:37:52,Shippensburg University of Pennsylvania
 24,328624,Ryan,Wei,Bethlehem,PA,1:38:20,Temple University
 25,314892,Ford,Murphy,Portsmouth,NH,P&P,Northeastern University
 26,272704,Julian,Georg,Syracuse,NY,P&P,Syracuse University
 27,460805,Justin,Bandoro,Medford,MA,P&P,Massachusetts Institute of Technology
 28,501936,Tyler,Wolfe,Baltimore,MD,P&P,Johns Hopkins University
 29,426129,Gustav,Ohrstrom,Midlothian,VA,P&P,Bates College
-DNF,514785,Christopher,Peltzer,Johnstown,PA,DNF,Indiana University-PA
-DNF,448552,Andrew,Scott,Morristown,NJ,DNF,Princeton University
+DNF,514785,Christopher,Peltzer,Indiana,PA,DNF,Indiana University-PA
+DNF,448552,Andrew,Scott,Seal Harbor ,NJ,DNF,Princeton University
 DNF,401772,Daniel,Kaltman,Livingston,NJ,DNF,Tufts University
 DNF,0,Marc-Antonie,Beaudoin,,,DNF,University of Toronto
 DNF,350148,Matthew,Owens,Richmond,VT,DNF,University of Vermont
@@ -172,11 +172,11 @@ Place,License #,First,Last,City,State,Time,Team
 20,404558,Sam,Veggeberg,Boston,MA,1:20:16,University of Massachusetts Amherst
 21,428309,Leo,Kirkpatrick Baird,Bernardsville,NJ,1:20:20,KMS Cycling-Killington Mountain School
 22,0,Jose Antonio,Jijon,,,1:20:39,McGill University
-23,502050,Brian,Vermilyea,Montreal,QC,1:20:39,McGill University
+23,502050,Brian,Vermilyea,Niskayuna,NY,1:20:39,McGill University
 24,388568,Billy,Taylor,New York,NY,1:20:54,The Fusion Academy
 25,468175,Eric,Loehle,Georgetown,MA,1:22:33,Boston University
 26,0,Kevin,Keresztes,,,1:24:25,Queen's University
-27,301490,Breton,Minnehan,Rochester,NY,1:25:50,Rochester Institute of Technology
+27,301490,Breton,Minnehan,Hopkinton,NH,1:25:50,Rochester Institute of Technology
 28,402310,Matthew,Park,Irvine,CA,1:26:52,New York University
 29,345678,Luke,Osborn,Baltimore,MD,P&P,Johns Hopkins University
 30,331320,Landon,vomSteeg,Westminster,MD,P&P,Johns Hopkins University
@@ -204,7 +204,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,526492,Nate,Ricketts,Pittsburgh,PA,1:04:49,Juniata College
 5,496826,Jack,Vogel,Franklin Lakes,NJ,1:04:49,New York University
 6,498903,Daniel,Cole,New York,NY,1:04:49,New York University
-7,0,William,Mazurek,,,1:04:49,McGill University
+7,470128,William,Mazurek,,,1:04:49,McGill University
 8,499110,Gilles,Merckx,Pennington,NJ,1:04:50,Lehigh University
 9,466637,Xavier,Nogueira,Washington,DC,1:04:51,Temple University
 10,526626,Berk,Ozturk,Cambridge,MA,1:04:51,Massachusetts Institute of Technology
@@ -213,7 +213,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,469134,Nelson,Beimfohr,Oxford,PA,1:04:52,Shippensburg University of Pennsylvania
 14,499878,Patrick,White,Somerville,MA,1:05:33,Massachusetts Institute of Technology
 15,516833,William,Vickerman,Zelienople,PA,1:05:42,Pennsylvania State University
-16,488521,Przemyslaw,Krol,Cambridge,MA,1:05:59,Massachusetts Institute of Technology
+16,488521,Przemyslaw,Krol,Milwaukee,WI,1:05:59,Massachusetts Institute of Technology
 17,0,Jordan,Miller,,,1:07:00,McGill University
 18,428336,Benjamin,Egan,Chestnut Hill,MA,1:09:27,Boston College
 19,524899,Andrew,Schlicht,Arlington,VA,1:09:32,Bucknell University
@@ -270,7 +270,7 @@ Place,License #,First,Last,City,State,Time,Team
 23,524513,Steven,Lee,West Point,NY,0:56:21,US Military Academy
 24,517798,Xavier,Koontzmiller,Burlington,VT,0:56:50,University of Vermont
 25,0,Eric,Deare,,,0:56:54,University of Toronto
-26,499532,Wesley,Low,Los Altos,CA,0:56:54,Boston University
+26,499532,Wesley,Low,Boston,MA,0:56:54,Boston University
 27,497758,Toby,Hyde,New York,NY,0:56:55,Columbia University-NYC
 28,487101,Matthew,Graca,Berkley,MA,0:56:56,University of New Hampshire
 29,0,Adethya,Lakshminarayanan,,,0:56:58,McGill University
@@ -311,13 +311,13 @@ Place,License #,First,Last,City,State,Time,Team
 3,495274,Tyler,Huntington,Swarthmore,PA,0:51:55,Swarthmore College
 4,513053,Jake,Allison,Philadelphia,PA,0:51:55,
 5,0,Ye,Chen,,,0:52:00,Brown University
-6,0,Pierce,Conlon,,,0:52:03,0
+6,530282,Pierce,Conlon,Philadelphia,PA,0:52:03,0
 7,514664,Jared,Seaman,Troy,NY,0:52:08,
 8,526382,Tom,Wetmore,New York,NY,0:52:15,Columbia University-NYC
 9,524041,Mikhail,Malamud,New York,NY,0:52:32,CRCA/NYCC Racing p/b BGC Partners
 10,525939,Lucas,Valdes,Churchville,MD,0:54:08,Dartmouth College
 11,448669,Alex,Laifer,New Preston Marble Dale,CT,0:54:10,
-12,505277,Brendan,Graham,Westchester,PA,0:55:26,
+12,505277,Brendan,Graham,Philadelphia,PA,0:55:26,
 13,527259,Ho Chuen,Kan,Philadelphia,PA,0:57:02,Temple University
 14,525864,Brandon,Kase,Voorhees,NJ,0:58:52,Drexel University
 15,526027,Christian,D'Andrea,Philadelphia,PA,0:58:59,Drexel University
@@ -338,19 +338,19 @@ Place,License #,First,Last,City,State,Time,Team
 DNF,527685,Jason,Zhang,New York,NY,DNF,Syracuse University
 DNF,527954,Wesley,Hood,Pittsburgh,PA,DNF,University of Pittsburgh
 DNF,527650,sam,nguyen,Philadelphia,PA,DNF,Temple University
-DNF,0,Jason,Rinde,,,DNF,
+DNF,540649,Jason,Rinde,Philadelphia,PA,DNF,
 
 03/18/2017 Road Race Women Collegiate A
 Place,License #,First,Last,City,State,Time,Team
 1,499797,Danielle,Morshead,San Anselmo,CA,1:27:14,Brown University
 2,433301,Samantha,Fox,Philadelphia,PA,1:27:15,Drexel University
 3,497964,Heidi,Miller,Princeton,NJ,1:32:04,Princeton University
-4,0,Dominique,Danco,,,1:32:04,McGill University
+4,381475,Dominique,Danco,Burlington,VT,1:32:04,McGill University
 5,495801,Tori,Wuthrich,Cambridge,MA,1:32:05,Massachusetts Institute of Technology
-6,0,Valina,Sintal,,,1:34:30,University of Toronto
+6,453786,Valina,Sintal,Montreal,QC,1:34:30,University of Toronto
 7,500046,Megan,Galinat,Boise,ID,1:34:30,Northeastern University
-8,429837,Kathryn,Olesnavage,Somerville,MA,1:34:32,Massachusetts Institute of Technology
-9,0,Amanda,Schevers,,,,Queen's University
+8,429837,Kathryn,Olesnavage,Redondo Beach,CA,1:34:32,Massachusetts Institute of Technology
+9,404620,Amanda,Schevers,,,,Queen's University
 10,241489,Anne,Raymond,Cambridge,MA,1:36:10,Massachusetts Institute of Technology
 11,0,Rachel,Blair,,,1:38:16,Queen's University
 12,428620,Ariana,Adler,W Hartford,CT,1:41:38,University of Connecticut
@@ -372,9 +372,9 @@ Place,License #,First,Last,City,State,Time,Team
 3,0,Hannah,Simms,,,1:18:28,Queen's University
 4,499115,Emily,Mailhot,Blairstown,NJ,1:18:36,Lehigh University
 5,460370,Octavia,Mulhern,New York,NY,1:18:52,New York University
-6,497037,Ellie,Perry,Pittsford,NY,1:22:33,Bucknell University
+6,497037,Ellie,Perry,Los Angeles,CA,1:22:33,Bucknell University
 7,500093,Christina,Strachoff,Raynham,MA,1:22:53,Rhode Island School of Design
-8,0,Mary,Weston,,,1:25:51,Brown University
+8,499917,Mary,Weston,Philadelphia,PA,1:25:51,Brown University
 9,497533,Katie,Fogel,Allentown,PA,1:26:11,Penn State-Lehigh Valley
 10,424985,Tanya,Boulanova,Beverly,MA,1:26:17,Boston University
 11,497195,Rachel,Pedersen,Providence,RI,1:30:30,Brown University
@@ -383,12 +383,12 @@ Place,License #,First,Last,City,State,Time,Team
 
 03/18/2017 Road Race Women Collegiate D
 Place,License #,First,Last,City,State,Time,Team
-1,0,Phobe,Hill,,,0:57:55,Vaughan Road Academy
+1,486738,Phoebe,Hill,,,0:57:55,Vaughan Road Academy
 2,505798,McKensie,Walker,Grenloch,NJ,0:58:57,WBPHL Racing
 3,497597,Amber,Collett,New Haven,CT,0:58:57,Yale University
 4,526889,Sanelma,Heinonen,Ann Arbor,MI,0:59:06,Yale University
 5,527663,Vivienne,Ho,Philadelphia,PA,0:59:31,Women Bike PHL Racing
-6,399391,Madolyn,Chiu,Amherst,MA,0:59:37,University of Massachusetts Amherst
+6,399391,Madolyn,Chiu,Alexandria,VA,0:59:37,University of Massachusetts Amherst
 7,489796,Amy,Luebbering,Alexandria,VA,0:59:50,
 8,0,Donna,Vakalis,,,1:01:55,University of Toronto
 9,162937,Lisa,Stefanelli,Erdenheim,PA,1:02:32,Sturdy Girl Cycling
@@ -412,7 +412,7 @@ Place,License #,First,Last,City,State,Time,Team
 27,527545,Laura,Reinhold,Philadelphia,PA,1:06:49,Women Bike PHL Racing
 28,0,Jacqueline,Toole,,,1:06:50,Queen's University
 29,517266,Sarah,Morrow,West Point,NY,1:09:52,US Military Academy
-30,527523,Amanda,Chen,Cambridge,MA,1:11:12,Massachusetts Institute of Technology
+30,527523,Amanda,Chen,Danville,CA,1:11:12,Massachusetts Institute of Technology
 31,0,Nicole,Horton,,,,
 32,527548,Aster,Murphy,Philadelphia,PA,P&P,Women Bike PHL Racing
 33,527729,Sarah,Kaufman,Lansdowne,PA,P&P,Women Bike PHL Racing
@@ -491,7 +491,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,392930,Roz,Patterson,Philadelphia,PA,0:36:33.64,Team Laser Cats
 2,311759,Elisabeth,Reinkordt,Philadelphia,PA,0:36:33.64,Team Laser Cats
 3,527110,Jane,Dmochowski,Philadelphia,PA,0:38:12.92,Women Bike PHL Racing NeckWalkDmo
-3,512092,Holly,Neckermann,Philadelphia ,PA,0:38:12.92,Women Bike PHL Racing NeckWalkDmo
+3,512092,Holly,Neckermann,Philadelphia,PA,0:38:12.92,Women Bike PHL Racing NeckWalkDmo
 3,505798,McKensie,Walker,Grenloch,NJ,0:38:12.92,Women Bike PHL Racing NeckWalkDmo
 4,527221,Mariana,Bernui,Horsham,PA,0:40:11.45,Women Bike PHL Racing 3
 4,0,Michelle,Enos,,,0:40:11.45,Women Bike PHL Racing 3
@@ -530,4 +530,4 @@ Place,License #,First,Last,City,State,Time,Team
 1,61162,Kevin,Greene,Philadelphia,PA,0:34:13.91,Team Greene Flash
 1,499547,Veronica,Jones,Philadelphia,PA,0:34:13.91,Team Greene Flash
 1,306648,Julia,Lonchar,Philadelphia,PA,0:34:13.91,Team Greene Flash
-1,324134,Matthew,Mory,Philadelphia,PA,0:34:13.91,Team Greene Flash
+1,324134,Matthew,Mory,Mesa,AZ,0:34:13.91,Team Greene Flash

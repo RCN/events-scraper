@@ -40,7 +40,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,290653,Samson,McHugh,Edgewood,PA,,CAT Racing
 14,274419,Keith,Hower,Wyomissing ,PA,,Freddie Fu Cycling Team
 15,276811,Aaron,Shelmire,Pittsburgh,PA,,J Mac Cycling LLC
-16,245927,Michael,Mihalik,Sewickley,PA,,J Mac Cycling LLC
+16,245927,Michael,Mihalik,Aliquippa,PA,,J Mac Cycling LLC
 17,312772,Caleb,Smith,Cheswick,PA,,La Prima Espresso Co. Racing
 18,369112,Hayley,Wickstrom,Swissvale,PA,,Conemaugh Womens Cycling
 
@@ -48,7 +48,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,369112,Hayley,Wickstrom,Swissvale,PA,,Conemaugh Womens Cycling
 2,466135,Megan,Sybeldon,Pittsburgh,PA,,Conemaugh Womens Cycling
-3,466552,Colleen,Grygier,Gibsonia,PA,,Conemaugh Womens Cycling
+3,466552,Colleen,Grygier,Wexford,PA,,Conemaugh Womens Cycling
 4,534841,Stephanie,Ritter,Indiana,PA,,OPUS ONE VELO
 5,404266,Shequaya,Bailey,Pittsburgh,PA,,Conemaugh Womens Cycling
 6,456906,Elise,Rowe,Pittsburgh,PA,,La Prima Espresso Co. Racing
@@ -94,7 +94,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,335024,Kyle,Mihalik,Aliquippa,PA,,NovaCare
 17,174945,Jason,Mount,Mcdonald,PA,,Freddie Fu Cycling Team
 18,351576,Jason,Bair,Dormont ,PA,,Allegheny Cycling Association
-19,245927,Michael,Mihalik,Sewickley,PA,,J Mac Cycling LLC
+19,245927,Michael,Mihalik,Aliquippa,PA,,J Mac Cycling LLC
 20,179015,John,Minturn,State College,PA,,Delaware Valley Racing
 
 08/09/2017 Criterium Men Cat 3/4
@@ -135,7 +135,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,466135,Megan,Sybeldon,Pittsburgh,PA,,Conemaugh Womens Cycling
 2,534841,Stephanie,Ritter,Indiana,PA,,OPUS ONE VELO
-3,466552,Colleen,Grygier,Gibsonia,PA,,Conemaugh Womens Cycling
+3,466552,Colleen,Grygier,Wexford,PA,,Conemaugh Womens Cycling
 4,466607,Kara,McClain,Indiana,PA,,Indiana University-PA
 5,456906,Elise,Rowe,Pittsburgh,PA,,La Prima Espresso Co. Racing
 
@@ -169,8 +169,8 @@ Place,License #,First,Last,City,State,Time,Team
 6,236600,Ryan,Nye,Fairmont ,WV,,Unattached
 7,230493,Matthew,Dolfi,Pittsburgh,PA,,NovaCare
 8,412373,David,Galati,Pittsburgh,PA,,La Prima Espresso Co. Racing
-9,245927,Michael,Mihalik,Sewickley,PA,,J Mac Cycling LLC
-10,514785,Christopher,Peltzer,Johnstown,PA,,La Prima Espresso Co. Racing
+9,245927,Michael,Mihalik,Aliquippa,PA,,J Mac Cycling LLC
+10,514785,Christopher,Peltzer,Indiana,PA,,La Prima Espresso Co. Racing
 11,68448,Robert,Vogt,Salem,OH,,Stark Velo
 
 07/26/2017 Criterium Men Cat 3/4
@@ -201,7 +201,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,277281,Jacob,Yundt,Pittsburgh,PA,,Fort Pitt Velo
 8,331910,Mike,Janeiro,Greensburg,PA,,La Prima Espresso Co. Racing
 9,230493,Matthew,Dolfi,Pittsburgh,PA,,NovaCare
-10,245927,Michael,Mihalik,Sewickley,PA,,J Mac Cycling LLC
+10,245927,Michael,Mihalik,Aliquippa,PA,,J Mac Cycling LLC
 11,288219,Nathan,Clair,Sewickley,PA,,Appalachian Bicycle Racing Association
 12,349276,Daniel,Wilson,Pittsburgh,PA,,Freddie Fu Cycling Team
 13,290653,Samson,McHugh,Edgewood,PA,,CAT Racing
@@ -213,12 +213,12 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,369112,Hayley,Wickstrom,Swissvale,PA,,Conemaugh Womens Cycling
 2,404266,Shequaya,Bailey,Pittsburgh,PA,,Conemaugh Womens Cycling
-3,466552,Colleen,Grygier,Gibsonia,PA,,Conemaugh Womens Cycling
+3,466552,Colleen,Grygier,Wexford,PA,,Conemaugh Womens Cycling
 4,534841,Stephanie,Ritter,Indiana,PA,,OPUS ONE
 
 07/19/2017 Criterium Men Cat 3/4
 Place,License #,First,Last,City,State,Time,Team
-1,514785,Christopher,Peltzer,Johnstown,PA,,La Prima Espresso Co. Racing
+1,514785,Christopher,Peltzer,Indiana,PA,,La Prima Espresso Co. Racing
 2,516833,William,Vickerman,Zelienople,PA,,Pennsylvania State University
 3,434992,Gary,Prunty,Indiana,PA,,OPUS ONE VELO
 4,401842,Joshua,Lewis,Pittsburgh,PA,,Rivet 5 Racing
@@ -233,7 +233,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,385247,Al,Meder,Pittsburgh,PA,,Rivet 5 Racing
 14,511345,David,Koski,Murrysville,PA,,Allegheny Cycling Association
 15,527955,Sean,Crandell,Pittsburgh,PA,,Unattached
-16,466552,Colleen,Grygier,Gibsonia,PA,,Conemaugh Womens Cycling
+16,466552,Colleen,Grygier,Wexford,PA,,Conemaugh Womens Cycling
 17,241389,Devin,Corboy,Mckeesport,PA,,Verge Sport
 18,433862,Isaac,Samay,Indiana,PA,,OPUS ONE VELO
 
@@ -248,7 +248,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,43355,Jake,Lifson,Pittsburgh,PA,,Team GPOA
 8,412373,David,Galati,Pittsburgh,PA,,La Prima Espresso Co. Racing
 9,46469,Robert,Gottlieb,Pittsburgh,PA,,PMVC
-10,245927,Michael,Mihalik,Sewickley,PA,,J Mac Cycling LLC
+10,245927,Michael,Mihalik,Aliquippa,PA,,J Mac Cycling LLC
 11,349276,Daniel,Wilson,Pittsburgh,PA,,Freddie Fu Cycling Team
 12,276811,Aaron,Shelmire,Pittsburgh,PA,,J Mac Cycling LLC
 13,353622,Thomas,Borner,Presto,PA,,Cyclus Sports
@@ -271,7 +271,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,257030,John,McLaughlin,Butler,PA,,J Mac Cycling LLC
 11,434992,Gary,Prunty,Indiana,PA,,OPUS ONE VELO
 12,375642,Marko,Milojevic,Pittsburgh,PA,,NovaCare
-13,514785,Christopher,Peltzer,Johnstown,PA,,La Prima Espresso Co. Racing
+13,514785,Christopher,Peltzer,Indiana,PA,,La Prima Espresso Co. Racing
 14,194054,Donald,Splitstone,Gibsonia,PA,,Koeles Cycling Club
 15,499474,Samuel,Rideout,Pittsburgh,PA,,Pista Elite
 16,41549,Michael,Sanders,Pittsburgh,PA,,OPUS ONE VELO
@@ -313,7 +313,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,401842,Joshua,Lewis,Pittsburgh,PA,,Rivet 5 Racing
 7,395221,Florian,Lungu,Pittsburgh,PA,,La Prima Espresso Co. Racing
 8,503634,John,Jameson,Pittsburgh,PA,,Unattached
-9,514785,Christopher,Peltzer,Johnstown,PA,,La Prima Espresso Co. Racing
+9,514785,Christopher,Peltzer,Indiana,PA,,La Prima Espresso Co. Racing
 10,288219,Nathan,Clair,Sewickley,PA,,Appalachian Bicycle Racing Association
 11,212715,Todd,Schoeni,Pittsburgh,PA,,NovaCare
 12,385247,Al,Meder,Pittsburgh,PA,,Rivet 5 Racing
@@ -344,7 +344,7 @@ Place,License #,First,Last,City,State,Time,Team
 07/05/2017 Criterium Women Cat 1/2/3/4/5
 Place,License #,First,Last,City,State,Time,Team
 1,369112,Hayley,Wickstrom,Swissvale,PA,,Conemaugh Womens Cycling
-2,466552,Colleen,Grygier,Gibsonia,PA,,Conemaugh Womens Cycling
+2,466552,Colleen,Grygier,Wexford,PA,,Conemaugh Womens Cycling
 3,404266,Shequaya,Bailey,Pittsburgh,PA,,Conemaugh Womens Cycling
 4,466135,Megan,Sybeldon,Pittsburgh,PA,,Conemaugh Womens Cycling
 5,466607,Kara,McClain,Indiana,PA,,Indiana University-PA
@@ -360,7 +360,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,402798,Jacques,Day,Pittsburgh,PA,,Unattached
 8,503545,Edward,Leonard,Pittsburgh,PA,,Unattached
 9,470124,Trevor,Hyland,Richmond,VA,,Aero Tech Designs Factory Team
-10,529494,Michael,Martys,Pittsburgh,PA,,Unattached
+10,529494,Michael,Martys,Murrysville,PA,,Unattached
 11,536632,Luke,Badaczewski,Gibsonia,PA,,Unattached
 12,0,Drew,Shutte,,,,Unattached
 13,481513,Dan,Pellechio,Verona,PA,,East End Cycling Club
@@ -433,7 +433,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,516833,William,Vickerman,Zelienople,PA,,Pennsylvania State University
 5,383242,Joshua,Sayre,Pittsburgh,PA,,Koeles Cycling Club
 6,511345,David,Koski,Murrysville,PA,,Allegheny Cycling Association
-7,514785,Christopher,Peltzer,Johnstown,PA,,La Prima Espresso Co. Racing
+7,514785,Christopher,Peltzer,Indiana,PA,,La Prima Espresso Co. Racing
 8,395221,Florian,Lungu,Pittsburgh,PA,,La Prima Espresso Co. Racing
 9,526492,Nate,Ricketts,Pittsburgh,PA,,Aero Tech Designs Factory Team
 10,117641,Zachary,Wills,Pittsburgh,PA,,Koeles Cycling Club
@@ -519,7 +519,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,470252,Robert,Wierzbowski,Pittsburgh,PA,,OPUS ONE VELO
 13,288219,Nathan,Clair,Sewickley,PA,,Appalachian Bicycle Racing Association
 14,427985,Daniel,Rabe,Sewickley,PA,,Koeles Cycling Club
-15,514785,Christopher,Peltzer,Johnstown,PA,,La Prima Espresso Co. Racing
+15,514785,Christopher,Peltzer,Indiana,PA,,La Prima Espresso Co. Racing
 16,527955,Sean,Crandell,Pittsburgh,PA,,Unattached
 
 06/07/2017 Criterium Men Cat 1/2/3
@@ -537,7 +537,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,412373,David,Galati,Pittsburgh,PA,,La Prima Espresso Co. Racing
 12,293469,Jordan,Snyder,Rochester,PA,,NovaCare
 13,274419,Keith,Hower,Wyomissing ,PA,,Freddie Fu Cycling Team
-14,245927,Michael,Mihalik,Sewickley,PA,,J Mac Cycling LLC
+14,245927,Michael,Mihalik,Aliquippa,PA,,J Mac Cycling LLC
 15,151701,Jeffrey,Griffin,Pittsburgh,PA,,Freddie Fu Cycling Team
 16,237434,Jeremy,Kirchin,Seven Fields,PA,,Freddie Fu Cycling Team
 17,175925,John,Rowley,Pittsburgh,PA,,Team GPOA
@@ -548,7 +548,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,280898,Gray,Patton,Pittsburgh,PA,,Freddie Fu Cycling Team
 2,497964,Heidi,Miller,Princeton,NJ,,Unattached
 3,369112,Hayley,Wickstrom,Swissvale,PA,,Conemaugh Womens Cycling
-4,466552,Colleen,Grygier,Gibsonia,PA,,Conemaugh Womens Cycling
+4,466552,Colleen,Grygier,Wexford,PA,,Conemaugh Womens Cycling
 5,466135,Megan,Sybeldon,Pittsburgh,PA,,Conemaugh Womens Cycling
 6,404266,Shequaya,Bailey,Pittsburgh,PA,,Conemaugh Womens Cycling
 7,466607,Kara,McClain,Indiana,PA,,Indiana University-PA
@@ -565,7 +565,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,511345,David,Koski,Murrysville,PA,,Allegheny Cycling Association
 9,212715,Todd,Schoeni,Pittsburgh,PA,,NovaCare
 10,257030,John,McLaughlin,Butler,PA,,J Mac Cycling LLC
-12,466552,Colleen,Grygier,Gibsonia,PA,,Conemaugh Womens Cycling
+12,466552,Colleen,Grygier,Wexford,PA,,Conemaugh Womens Cycling
 13,468413,Walt,Impellicceiri,Pittsburgh,PA,,Unattached
 14,491621,Marcus,McGuire,Pittsburgh,PA,,Allegheny Cycling Association
 15,466135,Megan,Sybeldon,Pittsburgh,PA,,Conemaugh Womens Cycling
@@ -575,7 +575,7 @@ Place,License #,First,Last,City,State,Time,Team
 05/31/2017 Criterium Men Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
 1,261703,John,Heffner,Pittsburgh,PA,,Fort Pitt Velo
-2,245927,Michael,Mihalik,Sewickley,PA,,J Mac Cycling LLC
+2,245927,Michael,Mihalik,Aliquippa,PA,,J Mac Cycling LLC
 3,43355,Jake,Lifson,Pittsburgh,PA,,Team GPOA
 4,300661,Jordan,Villella,Pittsburgh,PA,,Cyclus Sports
 5,501157,Mathew,Mackay,Pittsburgh,PA,,J Mac Cycling LLC
@@ -633,7 +633,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,261703,John,Heffner,Pittsburgh,PA,,Fort Pitt Velo
 12,343238,Willem,deBoer,Pittsburgh,PA,,Cyclus Sports
 13,174945,Jason,Mount,Mcdonald,PA,,Freddie Fu Cycling Team
-14,245927,Michael,Mihalik,Sewickley,PA,,J Mac Cycling LLC
+14,245927,Michael,Mihalik,Aliquippa,PA,,J Mac Cycling LLC
 15,175925,John,Rowley,Pittsburgh,PA,,Team GPOA
 16,201402,Stephen,Cummings,Pittsburgh,PA,,Team GPOA
 
@@ -668,7 +668,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,412373,David,Galati,Pittsburgh,PA,,La Prima Espresso Co. Racing
 8,353622,Thomas,Borner,Presto,PA,,Cyclus Sports
 9,277281,Jacob,Yundt,Pittsburgh,PA,,Fort Pitt Velo
-10,245927,Michael,Mihalik,Sewickley,PA,,J Mac Cycling LLC
+10,245927,Michael,Mihalik,Aliquippa,PA,,J Mac Cycling LLC
 11,201402,Stephen,Cummings,Pittsburgh,PA,,Team GPOA
 12,293469,Jordan,Snyder,Rochester,PA,,NovaCare
 
@@ -795,7 +795,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,466135,Megan,Sybeldon,Pittsburgh,PA,,Conemaugh Womens Cycling
 2,404266,Shequaya,Bailey,Pittsburgh,PA,,Conemaugh Womens Cycling
-3,466552,Colleen,Grygier,Gibsonia,PA,,Conemaugh Womens Cycling
+3,466552,Colleen,Grygier,Wexford,PA,,Conemaugh Womens Cycling
 4,456906,Elise,Rowe,Pittsburgh,PA,,La Prima Espresso Co. Racing
 5,401997,melissa,hiller,Pittsburgh,PA,,Conemaugh Womens Cycling
 
@@ -814,7 +814,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,383242,Joshua,Sayre,Pittsburgh,PA,,Koeles Cycling Club
 12,379199,Michael,Coumos,Pittsburgh,PA,,AlleghenyVELO
 13,470252,Robert,Wierzbowski,Pittsburgh,PA,,OPUS ONE VELO
-14,466552,Colleen,Grygier,Gibsonia,PA,,Conemaugh Womens Cycling
+14,466552,Colleen,Grygier,Wexford,PA,,Conemaugh Womens Cycling
 15,468413,Walt,Impellicceiri,Pittsburgh,PA,,Unattached
 16,407654,Matt,Morehead,Pittsburgh,PA,,Unattached
 17,128340,Charles,Chulack,Pittsburgh,PA,,Unattached
@@ -860,7 +860,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,433833,Hassan,Beydoun,Pittsburgh,PA,,La Prima Espresso Co. Racing
 16,395221,Florian,Lungu,Pittsburgh,PA,,La Prima Espresso Co. Racing
 17,379199,Michael,Coumos,Pittsburgh,PA,,AlleghenyVELO
-18,466552,Colleen,Grygier,Gibsonia,PA,,Conemaugh Womens Cycling
+18,466552,Colleen,Grygier,Wexford,PA,,Conemaugh Womens Cycling
 
 04/12/2017 Criterium Men Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team

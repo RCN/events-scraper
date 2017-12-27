@@ -44,7 +44,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,338492,Danny,Alarcon,Westerville,OH,,Audi
 3,395256,Randy,liu,Gahanna,OH,,Healthy and Happy Racing
 4,272389,Ron,Moody,Mount Gilead,OH,,Audi
-5,301490,Breton,Minnehan,Rochester,NY,,RIT cycling
+5,301490,Breton,Minnehan,Hopkinton,NH,,RIT cycling
 6,478364,Tyler,Hardin,Grove City,OH,,K&G Bike Center
 7,488329,Brian,Budd,Olmsted Falls,OH,,Forest City Racing
 8,258850,Steve,Quelette,Westerville,OH,,Headwind Cycling p/b Elevator Brewing
@@ -75,7 +75,7 @@ Place,License #,First,Last,City,State,Time,Team
 34,437388,James,Welch,Terre Haute,IN,,
 35,397975,Dan,Rapp,Westerville,OH,,Headwind Cycling p/b Elevator Brewing
 36,510855,Ricky,Maynard,Columbus,OH,,Red Bike
-37,500570,Derek,Walker,Cincinnati ,OH,,ZWS / Brilliant Advice
+37,500570,Derek,Walker,Cincinnati,OH,,ZWS / Brilliant Advice
 38,496786,Doug,Simpson,Powell,OH,,The Ohio State University
 39,497926,Carlos,Hernandez,Dayton,OH,,K&G Bike Center
 40,530001,Bryan,Arko,Cincinnati,OH,,Queen City Wheels
@@ -121,11 +121,11 @@ Place,License #,First,Last,City,State,Time,Team
 28,393061,Joseph,Lawhorn,Chillicothe,OH,,Team Dayton
 29,103743,Aaron,Mowery,Dublin,OH,,Headwind Cycling p/b Elevator Brewing
 30,296822,alan,willey,Cincinnati,OH,,ZWS / Brilliant Advice
-31,231392,David,Rich,Galloway,OH,,Team Dayton Cycling
+31,231392,David,Rich,Cedarville,OH,,Team Dayton Cycling
 32,340938,Mike,Chandler,Bowling Green,OH,,Team Redbike
 33,474785,Ean,Hammond,Reynoldsburg,OH,,Headwind Cycling p/b Elevator Brewing
 34,377540,Jay,Salge,Lima,OH,,
-35,301490,Breton,Minnehan,Rochester,NY,,RIT Cycling
+35,301490,Breton,Minnehan,Hopkinton,NH,,RIT Cycling
 DNF,268295,Mark,D'Anniballe,Dublin,OH,,Trek Stores of Columbus
 DNF,52865,chris,grisvard,Dublin,OH,,Kryki Sports/ Audi
 DNF,397975,Dan,Rapp,Westerville,OH,,Headwind Cycling p/b Elevator Brewing
@@ -145,7 +145,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,365925,Scott,Miller,Dayton,OH,,Team Dayton Cycling
 8,378089,Troy,Chipka,Ashland,OH,,Kreitler Racing Team
 9,404229,Clayton,Travis,Hudson,OH,,Kreitler Racing Team
-10,149656,Ryan,Gamm,Bexley ,OH,,Ride On Wooster
+10,149656,Ryan,Gamm,Bexley,OH,,Ride On Wooster
 11,454200,Eli,House,Indianapolis,IN,,DASH RACING
 12,354944,Shawn,Aker,Columbus,OH,,VeloScience Bike Works Cycling Team
 13,298109,Aaron,Daniels,Columbus,OH,,Paradise Garage Racing
@@ -178,7 +178,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,511608,Mirto,Monroy,Columbus,OH,,Roll
 6,480203,Adam,Wintz,Columbus,OH,,Team Six One Four
 7,477519,mitchell,steindler,Deerfield,IL,,0
-8,500570,Derek,Walker,Cincinnati ,OH,,ZWS / Brilliant Advice
+8,500570,Derek,Walker,Cincinnati,OH,,ZWS / Brilliant Advice
 9,497926,Carlos,Hernandez,Dayton,OH,,K&G Bike Center
 10,499759,derek,fischer,Beavercreek,OH,,Team Dayton Bicycling
 11,466808,Yaser,Helal,Columbus,OH,,
@@ -205,7 +205,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,388089,Rosalyn,Willey,Cincinnati,OH,,Prochain Junior Cycling
 6,524697,Linda,Wallenthin,Cleveland,OH,,Case Western Reserve University Cycling
 7,475220,Meagan,Gehrke,Columbus,OH,,Lady Gnar Shredders
-8,369286,Kim,Cory,Dublin ,OH,,Kryki Sports Audi
+8,369286,Kim,Cory,Dublin,OH,,Kryki Sports Audi
 9,473898,Wendy,Gilmore,Centerville,OH,,Queen City Wheels
 10,454759,Heather,Lawhorn,Chillicothe,OH,,Team Dayton Cycling
 11,498193,Elizabeth,Molnar,Cleveland Heights,OH,,Team VeloFemme
@@ -220,13 +220,13 @@ Place,License #,First,Last,City,State,Time,Team
 5,361061,Elli,Sigmond,Dayton,OH,,Ghisallo Cycling Team
 6,499635,Tess,Cunningham,Columbus,OH,,Paradise Garage Racing
 7,190874,Elizabeth,Engwis,Indianapolis,IN,,Scarlet Fire Racing
-8,196566,Julie,Sanchez,Finchville ,KY,,0
+8,196566,Julie,Sanchez,Finchville,KY,,0
 9,354912,Kathleen,Neff,Cincinnati,OH,,Team Dayton
 10,354744,Lauren,Bair,West Chester,OH,,Women's Racing Project (WRP)
 11,412346,Catherine,Thompson,The Plains,OH,,Eliel Factory Team
 12,379521,laura,webb,Lakewood,OH,,VeloFemme p/b Litzler
 13,494568,Megan,Bair,Uniontown,OH,,Stelleri Performance Training
-14,359857,Erin,Clemons,Mason,OH,,Women's Racing Project--Element Cycles
+14,359857,Erin,Clemons,Cincinnati,OH,,Women's Racing Project--Element Cycles
 15,388089,Rosalyn,Willey,Cincinnati,OH,,Prochain Junior Cycling
 DNS,382288,Marie,Rote,Copley,OH,,bike Ohio
 DNS,63119,Jane,Vanni-Noone,Indianapolis,IN,,Women's Racing Project

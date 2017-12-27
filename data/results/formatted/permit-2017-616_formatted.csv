@@ -10,7 +10,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,527883,Logan,Miller,Goshen,IN,,None
 7,430930,Shelby,Gibbs,Indianapolis,IN,,Dash Racing
 8,511798,joshua,richards,Bloomington,IN,,
-9,386461,Marek,Hayes,Brazil,IN,,J's Bikes Racing
+9,386461,Marek,Hayes,Rockville,IN,,J's Bikes Racing
 10,455657,Adam,Lock,Warsaw,IN,,Trailhouse Village Bicycles/ KCV
 11,478364,Tyler,Hardin,Grove City,OH,,K&G Bike Center
 12,261606,Kyle,Goris,Westfield ,IN,,Nebo Ridge
@@ -29,7 +29,7 @@ Place,License #,First,Last,City,State,Time,Team
 25,526039,Noah,Reckers,Columbus,IN,,None
 26,457574,Aaron,Banks,Westfield,IN,,Yokohama Racing p/b BikeLine/Singleton Coaching
 27,498390,Mike,Fowler,Avon,IN,,None
-28,433604,Jake,Hreha,Berne ,IN,,Yokohama Racing p/b BikeLine/Singleton Coaching
+28,433604,Jake,Hreha,Berne,IN,,Yokohama Racing p/b BikeLine/Singleton Coaching
 29,393584,Rodolfo,Villalvir,Indianapolis,IN,,None
 30,403732,Bryan,Downs,Indianapolis,IN,,World Bicycle Relief
 31,518880,Stephan,Gregoire,Zionsville,IN,,None
@@ -44,7 +44,7 @@ Place,License #,First,Last,City,State,Time,Team
 40,0,Unknown,Rider,,,,
 DNF,484668,Zach,Berend,Indianapolis,IN,,Team Neighborlink
 DNF,396958,Joseph,Blommel,Indianapolis,IN,,Phoenix
-DNF,504812,Justin,Floyd,Carmel,IN,,None
+DNF,504812,Justin,Floyd,Indianapolis,IN,,None
 DNF,293410,Nicholas,Hagemeyer,Sanford,FL,,Middletown Cycling
 DNF,0,Jack,Harbaugh,,,,None
 DNF,512410,Daniel,Majors,Mccordsville,IN,,Four2One Coaching
@@ -91,7 +91,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,82542,Allen,Galloway,Indianapolis,IN,,Team Bicycle Outfitters Indy
 5,14970,Brian,Hansen,Indianapolis,IN,,Phoenix Training and Fitness
 6,430440,Carl,Ring,Fort Wayne,IN,,No Limit Cycling
-7,251397,Kenneth,Misch,Thornton,CO,,None
+7,251397,Kenneth,Misch,Erie,CO,,None
 8,345524,Tom,Elliott,Carmel,IN,,Team Matthews Racing
 9,125512,Greg,Youngen,Terre Haute,IN,,J's Bikes/IHOP
 10,0,Elwin,Green,,,,
@@ -115,16 +115,16 @@ Place,License #,First,Last,City,State,Time,Team
 11,376337,Terry,McDonald,Indianapolis,IN,,Dash Racing
 12,474032,Abel,Barrera Duran,Kokomo,IN,,Phoenix
 13,371391,Jordan,Fleming,Carmel,IN,,Bike Line
-14,198135,Eric,Knackmuhs,Bloomington,IN,,Scholars Inn Bakehouse
+14,198135,Eric,Knackmuhs,Bowling Green,KY,,Scholars Inn Bakehouse
 15,407691,Ben,Souders,Indianapolis,IN,,Team Upland Brewing
 16,457574,Aaron,Banks,Westfield,IN,,Yokohama Racing p/b BikeLine/Singleton Coaching
 17,254527,Brendan,Canty,Lexington,KY,,Commonwealth Eye Surgery / Crankworks
 18,405141,Nathaniel,Ganger,Goshen,IN,,No limit racing
 19,430930,Shelby,Gibbs,Indianapolis,IN,,Dash Racing
 20,389918,john,Conant,Indianapolis,IN,,Dash Racing
-21,238604,Brian,Sullivan,Mishawaka ,IN,,RACE INC.
+21,238604,Brian,Sullivan,South Bend,IN,,RACE INC.
 22,306825,Adam,Downs,New Lebanon,OH,,K&G Bike Center
-23,386461,Marek,Hayes,Brazil,IN,,J's Bikes Racing
+23,386461,Marek,Hayes,Rockville,IN,,J's Bikes Racing
 24,411954,Eddie,Krillenberger,Hinsdale,IL,,Indiana University - Bloomington
 25,138584,Rhys,Edwards,Noblesville,IN,,Team Upland Brewing
 26,292309,ethan,wilson,Elgin,IL,,
@@ -144,7 +144,7 @@ Place,License #,First,Last,City,State,Time,Team
 40,242744,Andrew,Truemper,Indianapolis,IN,,Team Upland Brewing
 41,213542,Aaron,Crawn,Terre Haute,IN,,J's Bikes
 42,495179,Hassan,Najfi,Schaumburg,IL,,Intent
-43,433604,Jake,Hreha,Berne ,IN,,Yokohama Racing p/b BikeLine/Singleton Coaching
+43,433604,Jake,Hreha,Berne,IN,,Yokohama Racing p/b BikeLine/Singleton Coaching
 DNF,333804,Bradley,Hayes,Brazil,IN,,J's Bikes / Popeye's
 DNF,396958,Joseph,Blommel,Indianapolis,IN,,Phoenix
 DNF,478364,Tyler,Hardin,Grove City,OH,,K&G Bike Center
@@ -164,7 +164,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,256120,John,Woods,Indianapolis,IN,,Cycle Club
 11,290397,Ryan,Shean,Indianapolis,IN,,Texas Roadhouse
 12,433683,Thomas,Torbik,Vernon Hills,IL,,ABD Cycling Club
-13,82244,Chris,Richter,Fishers,IN,,Heroes
+13,82244,Chris,Richter,Carmel,IN,,Heroes
 14,375280,Chris,Carr,Fishers,IN,,First Internet Bank Cycling Team
 15,394358,Seth,Worthington,Westfield,IN,,Yokohama Racing p/b BikeLine/Singleton Coaching
 16,425028,Benjamin,Richardson,Indianapolis,IN,,Dan's Comp Factory Racing
@@ -174,7 +174,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,233714,Andrew,Beckman,Louisville,KY,,Clarksville Schwinn powered by Whayne
 21,289340,Andrew,Boyd,Louisville,KY,,Clarksville Schwinn powered by Whayne
 22,433214,Sergejs,Bowers,Columbus,OH,,Kreitler Racing Team
-23,278921,Vance,Fletcher,Chariton,IA,,Dash Racing
+23,278921,Vance,Fletcher,Indianapolis,IN,,Dash Racing
 24,355256,Todd,Lewis,Louisville,KY,,Clarksville Schwinn powered by Whayne
 25,407691,Ben,Souders,Indianapolis,IN,,Team Upland Brewing
 26,399512,Craig,Baker,Greenwood,IN,,Dash Racing
@@ -185,7 +185,7 @@ Place,License #,First,Last,City,State,Time,Team
 31,454200,eli,house,Indianapolis,IN,,dash racing
 32,194993,Charles,Crouse,Carmel,IN,,Indie Bike
 33,254527,Brendan,Canty,Lexington,KY,,Commonwealth Eye Surgery / Crankworks
-34,238604,Brian,Sullivan,Mishawaka ,IN,,RACE INC.
+34,238604,Brian,Sullivan,South Bend,IN,,RACE INC.
 35,107684,Ben,Weaver,Columbus,IN,,Zipp masters team
 36,3164,james,beers,Lexington,KY,,Commonwealth Eye Surgery / Crankworks
 37,49526,William,Dolan,Prospect,KY,,Schellers Racing
@@ -205,7 +205,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,107684,Ben,Weaver,Columbus,IN,,Zipp masters team
 3,46006,Curtis,Tolson,Louisville,KY,,Texas Roadhouse Cycling Pb Stradalli cycles
 4,263833,Andrzej,Banaszkiewicz,Brownsburg,IN,,Zipp Masters Team
-5,82244,Chris,Richter,Fishers,IN,,Heroes
+5,82244,Chris,Richter,Carmel,IN,,Heroes
 6,499298,Kevin,Gambill,Anchorage,KY,,Schellers Racing
 7,41398,Karim,Abdelkader,Bloomington,IN,,Velocity Racing
 8,410406,Justin,Kirk,Carmel,IN,,Phoenix Fitness & Training
@@ -250,7 +250,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,93184,Jeffrey,Chambers,Louisville,KY,,schellers racing
 19,296044,Bryan,Boggs,Zionsville,IN,,Zipp Masters Team
 DNF,82542,Allen,Galloway,Indianapolis,IN,,Team Bicycle Outfitters Indy
-DNF,251397,Kenneth,Misch,Thornton,CO,,None
+DNF,251397,Kenneth,Misch,Erie,CO,,None
 
 04/08/2017 Criterium Women Cat 3/4/5 Senior 0-99
 Place,License #,First,Last,City,State,Time,Team

@@ -12,9 +12,9 @@ Place,License #,First,Last,City,State,Time,Team
 8,523817,William,WEIGAND,Brooklyn Ny,NY,,CRCA / Team Patch.com
 9,524310,Kit,MCKEOWN,Brooklyn,NY,,CRCA/Patch
 10,380115,Tom,LENNON,Ridgewood,NJ,,
-11,428501,Torin,LA LIBERTE,Colchester,VT,,Sunapee Racing / Buchika's Ski and Bike
+11,428501,Torin,LA LIBERTE,Madison,NH,,Sunapee Racing / Buchika's Ski and Bike
 12,490946,Dan,MONTGOMERY,Flanders,NJ,,Skylands Cycling
-13,460312,Allan,GANLY,Astoria,NY,,CRCA/NYCC Racing p/b BGC Partners
+13,460312,Allan,GANLY,Weehawken,NJ,,CRCA/NYCC Racing p/b BGC Partners
 14,508092,Dieter,EGLI,New York,NY,,CRCA/NYCC Racing p/b BGC Partners
 15,476740,Henry,BOSTIAN,Short Hills,NJ,,Montclair Bikery Development Team
 16,473073,David,PHIMSIPASOM,North Plainfield,NJ,,Westwood Velo
@@ -49,7 +49,7 @@ Place,License #,First,Last,City,State,Time,Team
 35,501757,Jonathan,TREVETT,Brooklyn,NY,,CRCA/PATCH NYC VELO
 35,509841,Jon,TZE,Ridgewood,NJ,,Montclair Bikery Development Team
 35,524917,Jerry,RODRIGUEZ,Fresh Meadows,NY,,cuevas cycling development
-35,505712,Leonardo,LOPEZ,Edison ,NJ,,Liberty cycles
+35,505712,Leonardo,LOPEZ,Edison,NJ,,Liberty cycles
 35,525497,Howard,RINCON,Fresh Meadows,NY,,CUEVAS CYCLING DEVELOPMENT/ROADRUNNERS BICYCLES
 35,438008,Jim,MURPHY,Amhesrt,NH,,Cowbell Racing p/b World Bicycle Relief
 35,524918,Miguel,GOMEZ,Fresh Meadows,NY,,CUEVAS CYCLING DEVELOPMENT/ROADRUNNERS BICYCLES
@@ -74,7 +74,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,412071,Michael,PODZALINE,North Stonington,CT,,Scorpion Racing
 3,461097,Alex,SMITH,East Petersburg,PA,,
 4,438055,Andrew,PETTI,Englewood Cliffs,NJ,,CRCA Development Foundation
-5,271529,Marshall,JOHNSON,North Stonington ,CT,,CLR Racing
+5,271529,Marshall,JOHNSON,North Stonington,CT,,CLR Racing
 6,342102,Paul,YEATES,Brooklyn,NY,,CRCA/Rockstar Games
 7,340722,Samuel,TORRES,Corona,NY,,Triangle cyclists
 8,234908,Colin,FITZGERALD,Orefield,PA,,
@@ -111,8 +111,8 @@ Place,License #,First,Last,City,State,Time,Team
 37,155749,Christian,MAMBELLI,Matawan,NJ,,Direct Contract Packaging Cycling Team
 37,250648,Jared,MAZUR,Flemington,NJ,,Direct Contract Packaging-BiciSport
 37,38727,Andrew,WITTEN,New York,NY,,Zephyr RDJ Racing
-37,356954,Eduado,LUNA,Woodside,NY,,Cuevas cycling
-37,466154,Eamonn,SCHNELL,Brooklyn,NY,,CRCA Development Foundation
+37,356954,Eduado,LUNA,Elmhurst Ny,NY,,Cuevas cycling
+37,466154,Eamonn,SCHNELL,Oberlin,OH,,CRCA Development Foundation
 44,380574,Carl,ROBINSON,Garwood,NJ,,DeathRow Velo
 44,0,Bill,WAHL III,,,,PSRacing/BTB
 
@@ -120,7 +120,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,21953,Robert,LYONS,Cos Cob,CT,,FinKraft Cycling Team
 2,1620,Rick,ANDERSON,Bridgewater,NJ,,Team Somerset
-3,189842,Andreas,RUNGGATSCHER,Monroe,NY,,FinKraft Cycling Team
+3,189842,Andreas,RUNGGATSCHER,Chester,NY,,FinKraft Cycling Team
 4,242851,Glenn,BABIKIAN,Sugar Loaf,NY,,FinKraft Cycling Team
 5,401726,Neil,ISOLA,Merrick,NY,,Mineola Bicycle Racing Team
 6,264285,Dave,HUSSEY,Ocean,NJ,,Team Metra / XRCEL / Cycles 54
@@ -157,7 +157,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,413052,Baris,AYTAN,Brooklyn,NY,,CRCA/e2Value
 6,293199,Phillip,TRUPPELLI,Ringoes,NJ,,Van Dessel Factory Team
 7,200872,David,FREIFELDER,Glenwood,NJ,,Westwood Velo
-8,375405,Daniel,NUZZO-MUELLER,Medford ,MA,,Community Bicycle Racing
+8,375405,Daniel,NUZZO-MUELLER,Medford,MA,,Community Bicycle Racing
 8,53502,John,DURSO,Morris Plains,NJ,,High Gear/Trek/WW
 10,312550,Wyatt,GORAL,Andover,NJ,,CCB VeloTooler
 11,354200,Allen,CARR,Brooklyn,NY,,CRCA/e2Value
@@ -171,7 +171,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,482074,John,JANTZ,Arlington,MA,,Community Bicycle Racing
 20,216570,Shane,MORAN,Brooklyn,NY,,ZENBERRYMIX.COM
 21,290822,Preston,BUEHRER,Dorchester,MA,,Cyclus Sports
-22,382938,William,CRABTREE,Cambridge,MA,,Community Bicycle Racing
+22,382938,William,CRABTREE,Lexington,MA,,Community Bicycle Racing
 23,278103,Gerald,ADASAVAGE,Brooklyn,NY,,CRCA/The Weather Channel
 23,273826,Nick,IACOVELLI,Bloomfield,NJ,,High Gear/Trek
 25,342318,Jesse,O'DONNELL,Toms River,NJ,,CRCA/ E2VALUE
@@ -194,7 +194,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,525434,Gabrielle,WARSHAWER,New York,NY,,NYCC Racing p/b BGC Partners
 6,498777,Clara,WANG,Philadelphia,PA,,CRCA/NYCC Racing
 7,513885,Christina,WOOLSTON,Brooklyn,NY,,Kissena
-8,512092,Holly,NECKERMANN,Philadelphia ,PA,,Cadence Racing
+8,512092,Holly,NECKERMANN,Philadelphia,PA,,Cadence Racing
 9,350202,Becca,BROWN,New York,NY,,CRCA / Team VESELKA p/b Cafe Grumpy
 10,405112,Briana,DENNEY,Astoria,NY,,CRCA/Houlihan Lokey
 11,466295,Danielle,FERLAND,Rockaway,NJ,,Team EPS/CSS p/b Shebell & Shebell
@@ -252,7 +252,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 07/09/2017 Road Race Men Cat4/5 Open
 Place,License #,First,Last,City,State,Time,Team
-1,528365,Quintin,CHIAPPERINO,Whitestone,NY,31:38.1,
+1,528365,Quintin,CHIAPPERINO,Austin,TX,31:38.1,
 2,433737,William,GERBOTH,Sparta,NJ,s.t.,Skylands Cycling
 3,468462,Stefan,TESSOUN,Randolph,NJ,s.t.,Team Marty's
 4,239267,John,ARIAS,Freeport,NY,s.t.,Cuevas Cycling Development
@@ -263,7 +263,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,526444,Mario Irvin,CRESPO,Bloomfield,NJ,s.t.,Montclair Bikery Racing
 10,524310,Kit,MCKEOWN,Brooklyn,NY,s.t.,CRCA/PATCH NYC VELO
 11,532387,Max,Robins,Huntington,NY,s.t.,Cuevas Cycling Development
-12,460312,Allan,GANLY,Astoria,NY,s.t.,CRCA/NYCC Racing p/b BGC Partne
+12,460312,Allan,GANLY,Weehawken,NJ,s.t.,CRCA/NYCC Racing p/b BGC Partne
 13,490946,Dan,MONTGOMERY,Flanders,NJ,s.t.,Skylands Cycling
 14,527443,Greg,WHITMAN,Hackensack,NJ,s.t.,Team Marty's
 15,422254,Mario,SEPULVEDA,New York,NY,s.t.,
@@ -274,7 +274,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,501757,Jonathan,TREVETT,Brooklyn,NY,s.t.,CRCA/PAtch
 21,380115,Tom,LENNON,Ridgewood,NJ,s.t.,
 22,527971,Josh,SOLLITTO,Groton,CT,s.t.,CLR Racing
-23,428501,Torin,LA LIBERTE,Colchester,VT,s.t.,Sunapee/Buchikas/Continental Pa
+23,428501,Torin,LA LIBERTE,Madison,NH,s.t.,Sunapee/Buchikas/Continental Pa
 24,522000,Voltaire,ARRADAZA,Carteret,NJ,s.t.,Team BLG/GBC
 25,502785,Chris,BEDDOWS,New York,NY,s.t.,EVEPC
 26,526001,Austin,KING,Brooklyn,NY,s.t.,CRCA/PATCH NYC VELO
@@ -302,7 +302,7 @@ Place,License #,First,Last,City,State,Time,Team
 48,523221,Max,SIBUM,East Stroudsburg,PA,s.t.,
 49,494938,Alexander,RAIMO,Wyckoff,NJ,s.t.,Montclair Bikery Development Te
 50,493740,Daniel,IACHETTA,Toms River,NJ,14.8,Beachwood Bicycles
-51,505712,Leonardo,LOPEZ,Edison ,NJ,s.t.,Liberty cycles
+51,505712,Leonardo,LOPEZ,Edison,NJ,s.t.,Liberty cycles
 52,352676,Johnny,HSU,Brooklyn,NY,s.t.,The 5th Floor NYC
 53,524918,Miguel,GOMEZ,Fresh Meadows,NY,17.7,Cuevas Cycling Development
 54,424211,Juan,CRUZ,Yonkers,NY,s.t.,CRCA/Dave Jordan Racing
@@ -315,7 +315,7 @@ Place,License #,First,Last,City,State,Time,Team
 61,410521,Christopher,CONNELLY,Mineola,NY,11:27.5,Mineola Bicycle Racing Team
 62,527352,Zachary,PLETT,Rye,NY,11:37.0,
 63,514365,Eli,GOLDMAN,Astoria,NY,11:49.3,CRCA/Team Patch NYC Velo
-64,512608,Jeffrey,McIntyre,Millington ,NJ,1,Liberty Cycle
+64,512608,Jeffrey,McIntyre,Millington,NJ,1,Liberty Cycle
 
 07/09/2017 Road Race Men Cat3 Open
 Place,License #,First,Last,City,State,Time,Team
@@ -324,7 +324,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,234908,Colin,FITZGERALD,Orefield,PA,s.t.,
 4,468381,Luiz,LANFREDI,New York,NY,s.t.,CRCA/Foundation
 5,340722,Samuel,TORRES,Corona,NY,s.t.,Triangle cyclists
-6,271529,Marshall,JOHNSON,North Stonington ,CT,s.t.,CLR Racing
+6,271529,Marshall,JOHNSON,North Stonington,CT,s.t.,CLR Racing
 7,438055,Andrew,PETTI,Englewood Cliffs,NJ,s.t.,CRCA Development Foundation
 8,384072,Angelo,CALILAP,Brooklyn,NY,s.t.,The 5th Floor NYC
 9,299366,Nilsson,RUIZ,Perth Amboy,NJ,s.t.,Karma Racing Team
@@ -343,7 +343,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,397088,Dennis,RUTHERFORD,Warwick,NY,s.t.,DeathRow Velo
 23,438702,William,LAUNDER,West Orange,NJ,s.t.,Montclair Bikery Racing
 24,7166,Tom,CLISBY,Upper Montclair,NJ,s.t.,Montclair Bikery Racing
-25,422489,Uber,URIBE,Montclair ,NJ,s.t.,Montclair Bikery Racing
+25,422489,Uber,URIBE,Montclair,NJ,s.t.,Montclair Bikery Racing
 26,342102,Paul,YEATES,Brooklyn,NY,s.t.,CRCA/Rockstar Games
 27,299923,David,LEIBOWITZ,Bronxville,NY,s.t.,Tarmac Cycling/Iron Bridge Cons
 28,411680,Brad,GREEN,Schnecksville,PA,s.t.,CS Velo
@@ -359,7 +359,7 @@ Place,License #,First,Last,City,State,Time,Team
 38,344080,Robert,CONSTANTINO,New York,NY,13.4,CRCA/To Be Determined
 39,362349,Chris,MCGINLEY,Sewell,NJ,15,PSRacing/BTB
 40,166619,Jeffrey,OLIVER,High Bridge,NJ,s.t.,KickCharge Creative
-41,466154,Eamonn,SCHNELL,Brooklyn,NY,s.t.,CRCA Development Foundation
+41,466154,Eamonn,SCHNELL,Oberlin,OH,s.t.,CRCA Development Foundation
 42,509500,Stephen,BRUSH,Scranton,PA,18,Lackawanna Valley Race Team5095
 43,439904,Daniel,DIAZ,East Elmhurt,NY,s.t.,Cuevas Cycling Development
 44,301534,Michael,MALAVARCA,Boonton,NJ,23.4,Team ProPower Coaching
@@ -369,7 +369,7 @@ Place,License #,First,Last,City,State,Time,Team
 48,472996,Kim,GRANLUND,Brooklyn,NY,s.t.,CRCA/Rockstar Games
 49,129453,James,READ,Montclair,NJ,02:42.6,Montclair Bikery Racing
 50,396025,Pj,BOTTOMS,Newton,NJ,04:24.9,Skylands Cycling
-51,383816,Hernan,LUCERO,Hicksville ,NY,06:34.7,Mineola Bicycle Racing Team
+51,383816,Hernan,LUCERO,Hicksville,NY,06:34.7,Mineola Bicycle Racing Team
 
 07/09/2017 Road Race Men Cat1/2/3/4 Masters 45-99
 Place,License #,First,Last,City,State,Time,Team
@@ -378,12 +378,12 @@ Place,License #,First,Last,City,State,Time,Team
 3,401726,Neil,ISOLA,Merrick,NY,18.6,Mineola Bicycle Racing Team
 4,411391,Alex,FEDERMAN,New York,NY,02:07.7,
 5,264285,Dave,HUSSEY,Ocean,NJ,03:20.0,Team Metra / XRCEL / Cycles 54
-6,158787,Wasyel,DANYSH,New Providence ,NJ,03:21.8,US Military Endurance Sports
+6,158787,Wasyel,DANYSH,New Providence,NJ,03:21.8,US Military Endurance Sports
 7,59874,Marc,CESARE,Brooklyn,NY,05:46.6,CRCA/Deno's Wonder Wheel
 8,157023,Mikael,HANSON,New York,NY,05:48.2,CRCA Development Foundation
 9,63934,Bruce,DIEHL,Jackson,NH,05:50.6,Sunapee/Buchikas/Continental Pa
 10,291225,Andrew,SCHMIDT,New York,NY,05:52.3,Westwood Velo
-11,189842,Andreas,RUNGGATSCHER,Monroe,NY,06:04.4,FinKraft Cycling Team
+11,189842,Andreas,RUNGGATSCHER,Chester,NY,06:04.4,FinKraft Cycling Team
 12,136195,Roger,ASPHOLM,Haworth,NJ,s.t.,FinKraft Cycling Team
 13,169549,Haluk,SARCI,Cresskill,NJ,06:09.0,CRCA/Deno's Wonder Wheel
 14,304788,Javier,MERELES,Montclair,NJ,s.t.,Montclair Bikery Racing
@@ -443,7 +443,7 @@ Place,License #,First,Last,City,State,Time,Team
 23,342318,Jesse,O'DONNELL,Toms River,NJ,s.t.,CRCA/e2Value
 24,240153,Glenn,FERREIRA,Manville,NJ,s.t.,Team Metra / XRCEL / Cycles 54
 25,311527,Kenneth,MCNEILL,Rutland,VT,s.t.,Cyclus Sports
-26,375405,Daniel,NUZZO-MUELLER,Medford ,MA,03:29.4,Community Bicycle Racing
+26,375405,Daniel,NUZZO-MUELLER,Medford,MA,03:29.4,Community Bicycle Racing
 27,278103,Gerald,ADASAVAGE,Brooklyn,NY,03:38.2,CRCA/The Weather Channel Specia
 28,51140,Jason,URBANCZYK,Millstone Twp,NJ,03:52.0,
 29,321566,Daniel,LEHMANN,Long Valley,NJ,04:22.6,High Gear/Trek/WW
@@ -458,7 +458,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,528250,Merissa,MOLINAR,New York,NY,s.t.,CRCA/NYCC Racing p/b BGC Partne
 7,350202,Becca,BROWN,New York,NY,s.t.,CRCA / Team VESELKA p/b Cafe Gr
 8,397656,Elana,IACIOFANO,New York,NJ,s.t.,Team Marty's
-9,512092,Holly,NECKERMANN,Philadelphia ,PA,s.t.,Cadence Racing
+9,512092,Holly,NECKERMANN,Philadelphia,PA,s.t.,Cadence Racing
 10,525434,Gabrielle,WARSHAWER,New York,NY,s.t.,CRCA/NYCC Racing p/b BGC Partne
 11,513885,Christina,WOOLSTON,Brooklyn,NY,s.t.,Kissena Cycling Club
 12,439822,Alexandra,TORY,Bellmore,NY,s.t.,Mineola Bicycle Racing Team
@@ -530,7 +530,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,524310,Kit,MCKEOWN,Brooklyn,NY,s.t.,CRCA/PATCH NYC VELO
 8,410528,Julius Erwin,QUITO,Astoria,NY,s.t.,CRCA/Dave Jordan Racing
 9,422254,Mario,SEPULVEDA,New York,NY,s.t.,
-10,460312,Allan,GANLY,Astoria,NY,s.t.,CRCA/NYCC Racing p/b BGC Partne
+10,460312,Allan,GANLY,Weehawken,NJ,s.t.,CRCA/NYCC Racing p/b BGC Partne
 11,466136,Miles,WHITFORD,Rutherford,NJ,s.t.,Montclair Bikery Development Te
 12,374874,Brandy,BOYLE,Whippany,NJ,s.t.,Liberty Cycle
 13,366029,Julian,BANKS,Englewood,NJ,s.t.,CRCA/RBNY Racing - Verge Sport
@@ -545,7 +545,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,532387,Max,Robins,Huntington,NY,s.t.,Cuevas Cycling Development
 23,527187,Alvaro,SOLTERO,Brooklyn,NY,s.t.,Team Patch.com
 24,425180,Stephen,KOHR,West Lebanon,NH,s.t.,Cowbell Racing p/b World Bicycl
-25,505712,Leonardo,LOPEZ,Edison ,NJ,s.t.,Liberty cycles
+25,505712,Leonardo,LOPEZ,Edison,NJ,s.t.,Liberty cycles
 26,527443,Greg,WHITMAN,Hackensack,NJ,s.t.,Team Marty's
 27,318156,James,YOO,Closter,NJ,s.t.,CRCA/RBNY Racing - Verge Sport
 28,468462,Stefan,TESSOUN,Randolph,NJ,s.t.,Team Marty's
@@ -553,14 +553,14 @@ Place,License #,First,Last,City,State,Time,Team
 30,524918,Miguel,GOMEZ,Fresh Meadows,NY,s.t.,Cuevas Cycling Development
 31,442678,Andrew,LEONE,New York,NY,s.t.,CRCA/NYCC Racing p/b BGC Partne
 32,526444,Mario Irvin,CRESPO,Bloomfield,NJ,s.t.,Montclair Bikery Racing
-33,428501,Torin,LA LIBERTE,Colchester,VT,s.t.,Sunapee/Buchikas/Continental Pa
+33,428501,Torin,LA LIBERTE,Madison,NH,s.t.,Sunapee/Buchikas/Continental Pa
 34,347216,Scott,RASCHKE,Basking Ridge,NJ,s.t.,Liberty Cycle
 35,459658,Ramon,BENCOSME,Brooklyn,NY,s.t.,
 36,380115,Tom,LENNON,Ridgewood,NJ,s.t.,
 37,476740,Henry,BOSTIAN,Short Hills,NJ,s.t.,Montclair Bikery Development Te
 38,527971,Josh,SOLLITTO,Groton,CT,s.t.,CLR Racing
 39,430533,Mark,ROGALSKI,Maplewood,NJ,s.t.,Direct Contract Packaging-BiciS
-40,530282,Pierce,CONLON,Wilmington,DE,s.t.,
+40,530282,Pierce,CONLON,Philadelphia,PA,s.t.,
 41,466207,Juan,HENRIQUEZ,Haverstraw,NY,s.t.,CRCA/Dave Jordan Racing
 42,525497,Howard,RINCON,Fresh Meadows,NY,9,Cuevas Cycling Development
 43,311934,Jonathan,CAPOZZI,Buffalo,NY,s.t.,Local Openers p/b Tenspeed Hero
@@ -601,7 +601,7 @@ Place,License #,First,Last,City,State,Time,Team
 07/08/2017 Criterium Men Cat3 Open
 Place,License #,First,Last,City,State,Time,Team
 1,412071,Michael,PODZALINE,North Stonington,CT,50:08.7,Scorpion Racing
-2,271529,Marshall,JOHNSON,North Stonington ,CT,s.t.,CLR Racing
+2,271529,Marshall,JOHNSON,North Stonington,CT,s.t.,CLR Racing
 3,485678,Rich,SPENCER,Brooklyn,NY,s.t.,CRCA/To Be Determined
 4,500778,William,HOER,Andover,NJ,s.t.,Skylands Cycling
 5,384072,Angelo,CALILAP,Brooklyn,NY,s.t.,The 5th Floor NYC
@@ -615,7 +615,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,234908,Colin,FITZGERALD,Orefield,PA,s.t.,
 14,397088,Dennis,RUTHERFORD,Warwick,NY,s.t.,DeathRow Velo
 15,481209,Henri,SIMON,Bel Air,MD,s.t.,JAMSQUAD Cycling
-16,422489,Uber,URIBE,Montclair ,NJ,s.t.,Montclair Bikery Racing
+16,422489,Uber,URIBE,Montclair,NJ,s.t.,Montclair Bikery Racing
 17,411680,Brad,GREEN,Schnecksville,PA,s.t.,CS Velo
 18,461097,Alex,SMITH,East Petersburg,PA,s.t.,
 19,140630,John Michael,HACKETT,West Rutland,VT,s.t.,Peaks Coaching Group Racing Tea
@@ -650,7 +650,7 @@ Place,License #,First,Last,City,State,Time,Team
 48,250649,Eric,MIKOS,Old Bridge,NJ,13.6,Direct Contract Packaging-BiciS
 49,362349,Chris,MCGINLEY,Sewell,NJ,18.2,PSRacing/BTB
 50,308579,Andrew,DA SILVA,Highland Mills,NY,30.5,Bicycle Habitat-Verge Sport
-51,356954,Eduado,LUNA,Woodside,NY,35.9,Cuevas Cycling Development
+51,356954,Eduado,LUNA,Elmhurst Ny,NY,35.9,Cuevas Cycling Development
 52,228586,Andrew,LOGIUDICE,Augusta,NJ,01:28.7,Skylands Cycling
 
 07/08/2017 Criterium Men Cat1/2/3/4 Masters 45-99
@@ -666,13 +666,13 @@ Place,License #,First,Last,City,State,Time,Team
 9,35249,Shawn,TESKE,Marlton,NJ,s.t.,Pro Pedals Racing
 10,401726,Neil,ISOLA,Merrick,NY,s.t.,Mineola Bicycle Racing Team
 11,433025,Don,SCHATZ,Summit,NJ,s.t.,High Gear/Trek/WW
-12,189842,Andreas,RUNGGATSCHER,Monroe,NY,s.t.,FinKraft Cycling Team
+12,189842,Andreas,RUNGGATSCHER,Chester,NY,s.t.,FinKraft Cycling Team
 13,157023,Mikael,HANSON,New York,NY,s.t.,CRCA Development Foundation
 14,66269,Paul,COLUCCIO,Huntington Station,NY,s.t.,CRCA/Houlihan Lokey
 15,6142,Eric J.,CARLSON,Amherst,NH,s.t.,Wheelworks Racing
 16,45557,Ron,KOLLER,Palmerton,PA,s.t.,Team Somerset
 17,264285,Dave,HUSSEY,Ocean,NJ,s.t.,Team Metra / XRCEL / Cycles 54
-18,158787,Wasyel,DANYSH,New Providence ,NJ,s.t.,US Military Endurance Sports
+18,158787,Wasyel,DANYSH,New Providence,NJ,s.t.,US Military Endurance Sports
 19,136195,Roger,ASPHOLM,Haworth,NJ,s.t.,FinKraft Cycling Team
 20,248803,Andrew,BUCHANAN,Stanhope,NJ,s.t.,Team Cycle Solutions
 21,468888,Peter,FOWLER,Sussex,NJ,5.2,Skylands Cycling
@@ -716,9 +716,9 @@ Place,License #,First,Last,City,State,Time,Team
 21,208207,Field,FAILING,New York,NY,s.t.,CRCA/GF Capital/H&E Ent
 22,216570,Shane,MORAN,Brooklyn,NY,s.t.,ZENBERRYMIX.COM
 23,367642,John,SCHWARTZ,Rosendale,NY,s.t.,Bicycle Depot
-24,382938,William,CRABTREE,Cambridge,MA,s.t.,Community Bicycle Racing
+24,382938,William,CRABTREE,Lexington,MA,s.t.,Community Bicycle Racing
 25,375995,Andres,JIMENEZ,Dover,NJ,s.t.,High Gear/Trek/WW
-26,375405,Daniel,NUZZO-MUELLER,Medford ,MA,s.t.,Community Bicycle Racing
+26,375405,Daniel,NUZZO-MUELLER,Medford,MA,s.t.,Community Bicycle Racing
 27,342318,Jesse,O'DONNELL,Toms River,NJ,20.9,CRCA/e2Value
 28,273826,Nick,IACOVELLI,Bloomfield,NJ,26.9,High Gear/Trek/WW
 29,321566,Daniel,LEHMANN,Long Valley,NJ,s.t.,High Gear/Trek/WW
@@ -746,7 +746,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,466295,Danielle,FERLAND,Rockaway,NJ,s.t.,Team EPS/CSS p/b Shebell & Sheb
 15,393863,Lisa,BERGER,Boston,MA,s.t.,Team BFSC
 16,498777,Clara,WANG,Philadelphia,PA,10.6,CRCA/NYCC Racing p/b BGC Partne
-17,512092,Holly,NECKERMANN,Philadelphia ,PA,13.3,Cadence Racing
+17,512092,Holly,NECKERMANN,Philadelphia,PA,13.3,Cadence Racing
 18,499917,Mary,WESTON,Philadelphia,PA,s.t.,Team Laser Cats
 19,523220,Shuo,LI,New York,NY,s.t.,CRCA/NYCC Racing p/b BGC Partne
 20,459029,Robin,WAHL,Sicklerville,NJ,s.t.,PSRacing/BTB
@@ -802,7 +802,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,433737,William,GERBOTH,Sparta,NJ,30:12.9,Skylands Cycling
 2,425180,Stephen,KOHR,West Lebanon,NH,31:26.4,Cowbell Racing p/b World Bicycl
 3,380115,Tom,LENNON,Ridgewood,NJ,31:40.1,
-4,428501,Torin,LA LIBERTE,Colchester,VT,31:46.0,Sunapee/Buchikas/Continental Pa
+4,428501,Torin,LA LIBERTE,Madison,NH,31:46.0,Sunapee/Buchikas/Continental Pa
 5,508092,Dieter,EGLI,New York,NY,31:57.1,CRCA/NYCC Racing p/b BGC Partne
 6,490946,Dan,MONTGOMERY,Flanders,NJ,32:16.8,
 7,473073,David,PHIMSIPASOM,North Plainfield,NJ,32:20.2,Westwood Velo
@@ -830,7 +830,7 @@ Place,License #,First,Last,City,State,Time,Team
 29,482099,Andrew,MUIR,Boston,MA,34:30.0,Community Bicycle Racing
 30,370713,Brian,BARRINGER,Jersey City,NJ,34:40.2,
 31,459031,William,WAHL,Sicklerville,NJ,34:40.5,PSRacing/BTB
-32,460312,Allan,GANLY,Astoria,NY,34:47.7,CRCA/NYCC Racing p/b BGC Partne
+32,460312,Allan,GANLY,Weehawken,NJ,34:47.7,CRCA/NYCC Racing p/b BGC Partne
 33,527187,Alvaro,SOLTERO,Brooklyn,NY,34:48.4,Team Patch.com
 34,458358,Simon,VELEZ,Brooklyn,NY,34:48.9,@deluxecycles
 35,526001,Austin,KING,Brooklyn,NY,34:56.7,CRCA/PATCH NYC VELO
@@ -844,12 +844,12 @@ Place,License #,First,Last,City,State,Time,Team
 43,468462,Stefan,TESSOUN,Randolph,NJ,35:13.5,Team Marty's
 44,477027,Nelson,ODREMAN,North Plainfield ,NJ,35:25.3,Kim's Bike Shop Racing Team
 45,0,Michael,ANELLO,,,35:47.3,
-46,530282,Pierce,CONLON,Wilmington,DE,35:55.8,
+46,530282,Pierce,CONLON,Philadelphia,PA,35:55.8,
 47,527443,Greg,WHITMAN,Hackensack,NJ,35:58.5,Team Marty's
 48,509841,Jon,TZE,Ridgewood,NJ,35:58.6,Montclair Bikery Development Te
 49,524917,Jerry,RODRIGUEZ,Fresh Meadows,NY,36:00.0,Cuevas Cycling Development
 50,499631,Simon,MILLER,Stamford,CT,36:23.7,
-51,505712,Leonardo,LOPEZ,Edison ,NJ,36:25.0,Liberty cycles
+51,505712,Leonardo,LOPEZ,Edison,NJ,36:25.0,Liberty cycles
 52,0,John,CAMPIO,,,36:26.1,Arias Sportswear
 53,455433,Victor,CENTENO,Sussex,NJ,36:33.2,Skylands Cycling
 54,525497,Howard,RINCON,Fresh Meadows,NY,36:38.3,Cuevas Cycling Development
@@ -894,7 +894,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,498106,Masaharu,ITO,Elmhurst,NY,32:11.8,CRCA / Team VESELKA p/b Cafe Gr
 14,411680,Brad,GREEN,Schnecksville,PA,32:15.4,CS Velo
 15,331982,Patrick,DARKEN,Doylestown,PA,32:18.1,Zen Masters Racing
-16,271529,Marshall,JOHNSON,North Stonington ,CT,32:23.3,CLR Racing
+16,271529,Marshall,JOHNSON,North Stonington,CT,32:23.3,CLR Racing
 17,472996,Kim,GRANLUND,Brooklyn,NY,32:28.2,CRCA/Rockstar Games
 18,420216,Elliot,OLSEN,Eatontown,NJ,32:29.2,Direct Contract Packaging-BiciS
 19,396025,Pj,BOTTOMS,Newton,NJ,32:31.3,Skylands Cycling
@@ -919,17 +919,17 @@ Place,License #,First,Last,City,State,Time,Team
 38,198056,Joshua,PETRI,Jersey City,NJ,34:47.1,
 39,155749,Christian,MAMBELLI,Matawan,NJ,34:49.0,Direct Contract Packaging-BiciS
 40,250648,Jared,MAZUR,Flemington,NJ,35:02.6,Direct Contract Packaging-BiciS
-41,466154,Eamonn,SCHNELL,Brooklyn,NY,35:52.9,CRCA Development Foundation
+41,466154,Eamonn,SCHNELL,Oberlin,OH,35:52.9,CRCA Development Foundation
 42,38727,Andrew,WITTEN,New York,NY,35:56.2,Zephyr RDJ Racing
 43,439904,Daniel,DIAZ,East Elmhurt,NY,36:12.9,Cuevas Cycling Development
 44,380574,Carl,ROBINSON,Garwood,NJ,38:55.8,DeathRow Velo
 45,0,Bill,WAHL III,,,38:58.3,PSRacing/BTB
-46,356954,Eduado,LUNA,Woodside,NY,39:19.2,Cuevas Cycling Development
+46,356954,Eduado,LUNA,Elmhurst Ny,NY,39:19.2,Cuevas Cycling Development
 DNS,7166,Tom,CLISBY,Upper Montclair,NJ,,Montclair Bikery Racing
 
 07/08/2017 Time Trial Men Cat1/2/3/4 Masters 45-99
 Place,License #,First,Last,City,State,Time,Team
-1,189842,Andreas,RUNGGATSCHER,Monroe,NY,29:40.9,FinKraft Cycling Team
+1,189842,Andreas,RUNGGATSCHER,Chester,NY,29:40.9,FinKraft Cycling Team
 2,242851,Glenn,BABIKIAN,Sugar Loaf,NY,30:53.5,FinKraft Cycling Team
 3,136195,Roger,ASPHOLM,Haworth,NJ,30:56.4,FinKraft Cycling Team
 4,21953,Robert,LYONS,Cos Cob,CT,31:15.8,FinKraft Cycling Team
@@ -967,7 +967,7 @@ DNS,122420,Robert,MAXTED,Middletown,NJ,,Team Metra / XRCEL / Cycles 54
 Place,License #,First,Last,City,State,Time,Team
 1,211807,Michael,MARGARITE,New York,NY,28:40.9,CRCA/The Weather Channel Specia
 2,132630,Patrick,WALTER,Philadelphia,PA,28:54.7,Guy's Racing Club
-3,375405,Daniel,NUZZO-MUELLER,Medford ,MA,28:58.1,Community Bicycle Racing
+3,375405,Daniel,NUZZO-MUELLER,Medford,MA,28:58.1,Community Bicycle Racing
 4,211744,Joshua,LIPKA,Cheshire,MA,29:00.8,
 5,354200,Allen,CARR,Brooklyn,NY,29:12.9,CRCA/e2Value
 6,413052,Baris,AYTAN,Brooklyn,NY,29:24.5,CRCA/e2Value
@@ -977,7 +977,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,200872,David,FREIFELDER,Glenwood,NJ,29:54.0,Westwood Velo
 11,482074,John,JANTZ,Arlington,MA,30:17.6,Community Bicycle Racing
 12,52604,Steven,WARD,Rockaway,NJ,30:35.2,High Gear/Trek/WW
-13,382938,William,CRABTREE,Cambridge,MA,30:36.9,Community Bicycle Racing
+13,382938,William,CRABTREE,Lexington,MA,30:36.9,Community Bicycle Racing
 14,278103,Gerald,ADASAVAGE,Brooklyn,NY,30:37.6,CRCA/The Weather Channel Specia
 15,342318,Jesse,O'DONNELL,Toms River,NJ,30:41.1,CRCA/e2Value
 16,439902,Ralph,PAHLMEYER,Brooklyn,NY,30:41.2,CRCA/e2Value
@@ -1013,7 +1013,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,525434,Gabrielle,WARSHAWER,New York,NY,37:28.3,CRCA/NYCC Racing p/b BGC Partne
 6,499862,Kate,TORMEY,Pearl River,NY,38:04.3,FinKraft Cycling Team
 7,498777,Clara,WANG,Philadelphia,PA,38:04.4,CRCA/NYCC Racing p/b BGC Partne
-8,512092,Holly,NECKERMANN,Philadelphia ,PA,38:37.3,Cadence Racing
+8,512092,Holly,NECKERMANN,Philadelphia,PA,38:37.3,Cadence Racing
 9,522851,Morgan,STYER,Lambertville,NJ,38:38.2,Foxy Moxy Racing
 10,434868,Carla,CLIFFORD,Brooklyn,NY,38:59.4,CRCA/Houlihan Lokey
 11,466295,Danielle,FERLAND,Rockaway,NJ,39:26.2,Team EPS/CSS p/b Shebell & Sheb

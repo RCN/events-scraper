@@ -8,7 +8,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,179843,Jason,Chatham,Goodlettsville,TN,00:58:32.700,I Am Racing
 5,385171,Ross,Martin,Knoxville,TN,00:58:32.800,VELOSOPHY
 6,296568,David,Rose,Lexington,KY,00:58:33.200,Commonwealth Eye Surgery / Crankworks
-7,272407,Timothy,Killelea,Chattanooga ,TN,00:58:33.800,Nashville Local Cycling
+7,272407,Timothy,Killelea,Chattanooga,TN,00:58:33.800,Nashville Local Cycling
 8,177637,Andrew,Reardon,Franklin,TN,00:58:34.400,
 9,307593,Joshua,Lewis,Nashville,TN,00:58:34.500,Red Kite Bicycle Studio
 10,385573,Fausto,Crapiz,Dandridge,TN,00:58:38.400,Village VW Chattanooga Cycling Team
@@ -86,7 +86,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,422849,Yukio,Mariner,Murfreesboro,TN,00:40:20.900,MOAB Racing
 9,337610,Stewart,Miller,Homewood,AL,00:40:20.900,Six26 Cycling
 10,391064,Andrew,Townsend,Little Rock,AR,00:40:20.900,Central Arkansas Velo/CARVE
-11,113615,James,Buckingham,Madison,TN,00:40:21.000,Hattie B's Racing
+11,113615,James,Buckingham,White House,TN,00:40:21.000,Hattie B's Racing
 12,435038,David,Zopf,Brentwood,TN,00:40:21.000,I Am Racing
 13,475202,Tyler,Porter,Trenton,TN,00:40:21.100,Lift Center Racing
 14,50441,Timothy,Taylor,Lexington,TN,00:40:21.100,Lift Center Racing
@@ -132,7 +132,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,365519,Arden,Stelly,Ooltewah,TN,00:42:42.600,OrthoCarolina Winston Womens Cycling
 4,480443,Kaitlyn,Benavides,Nashville,TN,00:42:42.600,Team Belladium p/b Red Kite
 5,503526,Ann,Mallin,Knoxville,TN,00:42:42.700,Nashville Local Cycling
-6,379218,Jessica,Edens,Kingston Springs ,TN,00:42:42.700,Nashville Local Cycling
+6,379218,Jessica,Edens,Kingston Springs,TN,00:42:42.700,Nashville Local Cycling
 7,330172,Catherine,Dewberry,Franklin,TN,00:42:42.800,Team Belladium p/b Red Kite
 8,493908,Abby,Winther,Birmingham,AL,00:42:46.100,
 9,288099,Stephanie,Nave,Johnson City,TN,00:42:46.500,OrthoCarolina Winston Womens Cycling
@@ -161,11 +161,11 @@ Place,License #,First,Last,City,State,Time,Team
 1,493814,Jeremiah,Stoller,Dickson,TN,,Nashville Local Cycling
 2,385573,Fausto,Crapiz,Dandridge,TN,,Village VW Chattanooga Cycling Team
 3,165544,John,Carr,Nashville,TN,,Hattie B's Racing
-4,113615,James,Buckingham,Madison,TN,,Hattie B's Racing
+4,113615,James,Buckingham,White House,TN,,Hattie B's Racing
 5,475202,Tyler,Porter,Trenton,TN,,Lift Center Racing
 6,292782,joe,grubbs,White House,TN,,Hattie B's Racing
 7,411316,Jacob,Kuper,Gallatin,TN,,I Am Racing
-8,78670,Mark,Keranen,Smyrna,TN,,I Am Racing
+8,78670,Mark,Keranen,Greenbrier,TN,,I Am Racing
 
 08/05/2017 Criterium Mixed Cat 1/2/3/4/5 Masters 50-59
 Place,License #,First,Last,City,State,Time,Team

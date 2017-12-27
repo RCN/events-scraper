@@ -28,7 +28,7 @@ Place,License #,First,Last,City,State,Time,Team
 24,298725,Grant,ELLWOOD,Boulder,CO,1:14:00,Boulder Cycle Sport
 25,254433,Daniel,WILLETT,San Clemente,CA,1:14:00,LUX/Stradling p/b Specialized
 26,367909,Imeh,NSEK,Ontario,CA,1:14:00,LUX/Stradling p/b Specialized
-27,299251,Justin,MCQUERRY,Athens,GA,1:14:00,Team Novo Nordisk Development
+27,299251,Justin,MCQUERRY,Austin,TX,1:14:00,Team Novo Nordisk Development
 28,329968,Fred,VINCENT,Flower Mound,TX,1:14:00,Elevate-KHS
 29,320000,Derek,COTE,Burlington,CT,1:14:01,Greater Hartford Cycling Club
 30,365258,Brannan,FIX,Fort Collins,CO,1:14:01,The Phoenix Cyclery - Orbea
@@ -38,7 +38,7 @@ Place,License #,First,Last,City,State,Time,Team
 34,320912,Andres,ALAYON,Miami,FL,1:14:01,Bicicletas Strongman
 35,351580,Lewis,WHILEY,Olympia,WA,1:14:01,Hedrick Racing
 36,335050,Ben,SCHMUTTE,Noblesville,IN,1:14:02,First Internet Bank Cycling Tea
-37,456576,Samuel,BOARDMAN,Washington,CA,1:14:02,Herbalife p/b Marc Pro - Nature
+37,456576,Samuel,BOARDMAN,Los Angeles,CA,1:14:02,Herbalife p/b Marc Pro - Nature
 38,321238,Griffin,PARK,Springville,UT,1:14:03,Canyon Bicycles
 39,329962,Cameron,BEARD,Bend,OR,1:14:03,UCI CT: CCB Velotooler
 40,379658,Chaz,HOGENAUER,Boise,ID,1:14:03,Mercedes Benz/Georges
@@ -116,7 +116,7 @@ Place,License #,First,Last,City,State,Time,Team
 27,306276,Daniel,EATON,Boulder,CO,,UCI PCT: UnitedHealthcare
 28,320582,Matthew,ZIMMER,Dewitt ,IA,,Gateway Harley-Davidson Trek U2
 29,338924,Nicholas,TORRACA,Grapevine,TX,,UCI CT: Elevate-KHS Pro Cycling
-30,344034,Brett,WACHTENDORF,Winooski,VT,,Gateway Harley-Davidson Trek U2
+30,344034,Brett,WACHTENDORF,Boulder,CO,,Gateway Harley-Davidson Trek U2
 31,255580,Jason,SALTZMAN,Menlo Park,CA,,UCI CT: Aevolo Cycling Inc.
 DNF,301686,Sam,ROSENHOLTZ,Brookline,MA,,UCI CT: CCB Velotooler
 DNF,395387,Sean,GARDNER,Richmond,VA,,Gateway Harley-Davidson Trek U2
@@ -166,9 +166,9 @@ Place,License #,First,Last,City,State,Time,Team
 30,393634,Alexander Wulfgang,LOCHMILLER,San Diego,CA,44:51,Team Velosport Junior & U23 Dev
 31,422849,Yukio,MARINER,Murfreesboro,TN,44:51,MOAB Racing
 32,440044,Juan David,BUITRAGO,Homestead,FL,44:51,~
-33,494503,Jeanluc,CONTANT-GALITELLO,Pompano Beach,FL,44:51,Interactive Metronome p/b Mega
+33,494503,Jeanluc,CONTANT-GALITELLO,Coconut Creek,FL,44:51,Interactive Metronome p/b Mega
 34,367160,William,GOODSON,Nashville,TN,44:51,Frazier Cycling Juniors
-35,381826,Ryan,STOWERS,Denver,CO,44:52,Boulder Junior Cycling
+35,381826,Ryan,STOWERS,Boulder,CO,44:52,Boulder Junior Cycling
 36,496645,Aidan,COATSBALLASEUX,Denver,CO,44:52,Prestige Imports/Porsche/Audi R
 37,434141,Ian,OELRICH,San Diego,CA,44:52,Team Velosport Junior & U23 Dev
 38,361308,Nicholas,CARTER,Minneapolis,MN,44:53,NorthStar Development Cycling
@@ -205,7 +205,7 @@ DNF,368806,Connor,BERNSTEIN,Altoona,IA,,NorthStar Development Cycling
 Place,License #,First,Last,City,State,Time,Team
 1,327650,Colby,LANGE,Edwards,CO,57:49,LUX/Stradling p/b Specialized
 2,362468,Riley,SHEEHAN,Boulder,CO,57:50,LUX/Stradling p/b Specialized
-3,331144,Denzel,STEPHENSON,Boulder ,CO,57:50,Boulder Junior Cycling
+3,331144,Denzel,STEPHENSON,Boulder,CO,57:50,Boulder Junior Cycling
 4,266037,Matteo,JORGENSON,Boise,ID,57:51,Hot Tubes Cycling Team
 5,419414,Ryan,JASTRAB,Apple Valley,CA,57:51,Swami's Junior Development Team
 6,295492,Jules,GILLIAM,Manhattan Beach,CA,57:52,NCCF/ Team Specialized Juniors
@@ -229,7 +229,7 @@ Place,License #,First,Last,City,State,Time,Team
 24,383566,James,STUART,Atlanta,GA,58:01,Keenz Racing p/b Mission Source
 25,439303,Gaelen,KILBURN,Burlington,VT,58:01,Hot Tubes Development Cycling
 26,348068,Reilly,CARLTON,Irvine,CA,58:01,Team Velosport Junior & U23 Dev
-27,272071,Wheeler,DAVIS,Athens,GA,58:01,Team Novo Nordisk Juniors
+27,272071,Wheeler,DAVIS,Raleigh,NC,58:01,Team Novo Nordisk Juniors
 28,404765,Patton,SIMS,Sterlington,LA,58:02,Palmer/CSpire Fiber Cycling
 29,301315,Jackson,MCNEAR,Louisville,KY,58:02,SBR Quantum Racing
 30,320750,Isaiah,CHASS,Sebastopol,CA,58:02,Team Swift
@@ -293,7 +293,7 @@ Place,License #,First,Last,City,State,Time,Team
 88,431346,Scott,BRIDGES,Battle Creek,MI,,~
 89,499710,Ean,PUGH,Rochester,IN,,Yokohama Racing p/b BikeLine/Si
 90,493939,Jacob,INGWERSEN,Carlsbad,CA,,Swami's Junior Development Team
-91,382897,Garrett,LUCAS,Nunda ,NY,,Once Again Nut Butter Multi-Spo
+91,382897,Garrett,LUCAS,Nunda,NY,,Once Again Nut Butter Multi-Spo
 92,387255,Owen,BUSCH,Loveland,OH,,Team Handmade
 93,424729,Ian,DICKSON,Oakland,CA,,Tieni Duro Junior Cycling Team
 94,405185,Thomas,CROSS,Atlanta,GA,,Team Mission Source / NGCA
@@ -307,7 +307,7 @@ Place,License #,First,Last,City,State,Time,Team
 102,494909,Ethan,FULLER,Phoenix,AZ,,Team Winded Development
 103,323824,Maxwell,SAVAGE,Loveland,OH,,Ohio Cycling Association
 104,423720,Joseph,PARDUE,Fayetteville,AR,,Breakaway Cycling Club - NWA
-105,433604,Jake,HREHA,Berne ,IN,,Yokohama Racing p/b BikeLine/Si
+105,433604,Jake,HREHA,Berne,IN,,Yokohama Racing p/b BikeLine/Si
 106,440912,Samuel,MEULLENET,Fayetteville,AR,,Breakaway Cycling Club - NWA
 DNS,363665,Kendrick,BOOTS,Centennial,CO,,Groove Subaru Excel Sports
 DNS,407748,Maxwell,HUDDLESTON,Colorado Springs,CO,,Prestige Imports/Porsche/Audi R
@@ -332,7 +332,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,509433,Asa,CHILD,Ashland,MO,20:50,Velo Childeric
 12,484334,Nicholas,BUDDEN,Grand Rapids,MI,21:05,Andrie Junior Development Team
 13,458677,DJ,TOBACK,Merrick,NY,21:48,CUEVAS JR DEVELOPMENT pb ROADRU
-14,439021,William,CUCCO,Federal Way,WA,21:48,Seattle Cancer Care Alliance Cy
+14,439021,William,CUCCO,University Place,WA,21:48,Seattle Cancer Care Alliance Cy
 15,460806,Levi,DYKES,Tullahoma,TN,21:49,MOAB Racing
 16,407146,CJ,BURFORD,Walkertown,NC,21:52,Evolution Jr. Devo Team
 17,494054,Frankie,VILLANI,Long Valley,NJ,@3Lap,Somerset Wheelmen
@@ -382,7 +382,7 @@ Place,License #,First,Last,City,State,Time,Team
 31,383316,Paul,PORTERFIELD,Bertram,TX,32:03,Driveway Series Racing
 32,427047,Nicholas,ROBERTS,Whitehall,PA,33:34,T Town Elite
 33,524993,Grant,CARTER,Macungie,PA,33:34,T Town Elite
-34,325072,Nicholas,PETROV,Mckinney,TX,33:35,ProChain Junior Development
+34,325072,Nicholas,PETROV,Mason,OH,33:35,ProChain Junior Development
 35,473515,Dakota,OLSEN,Le Mars,IA,33:35,Central Junior Cycling Devo
 36,509431,Orion,CHILD,Ashland,MO,33:35,Velo Childeric
 37,435220,Shay,WRIGHT,Rock Island,IL,33:36,Central Junior Cycling Devo
@@ -402,7 +402,7 @@ Place,License #,First,Last,City,State,Time,Team
 51,391868,Brody,BURNHAM,Altoona,IA,@3Lap,DMOS Racing Team
 52,484279,Zachary,NILES,Maple Heights,OH,@5Lap,Summit Freewheelers
 53,423878,Divik,VERMA,Breinigsville,PA,@6Lap,T Town Elite
-54,414448,Michael,WATKINS,Harrah,OK,@6Lap,Oklahoma City Velo Club
+54,414448,Michael,WATKINS,Choctaw,OK,@6Lap,Oklahoma City Velo Club
 55,459602,James,PAINE,Macon,GA,@6Lap,The Bike Store
 56,467116,Luke,GERDEMAN,Allentown,PA,@8Lap,Young Medalists
 57,393269,Taylor,MURPHY,Jackson,TN,@9Lap,Lift Center Racing
@@ -421,11 +421,11 @@ Place,License #,First,Last,City,State,Time,Team
 6,424384,Dennis,RAMIREZ,Barnhart,MO,1:14:09,Gateway Harley-Davidson Trek U2
 7,267361,Chris,RIEKERT,San Jose,CA,1:14:10,Team Mikes Bikes p/b Equator Co
 8,210129,Connor,SALLEE,Dallas,TX,1:14:10,Bicycles Plus Racing
-9,263035,Andrew,GINIAT,Winnetka,IL,1:14:10,Project Echelon Racing
+9,263035,Andrew,GINIAT,Asheville,NC,1:14:10,Project Echelon Racing
 10,188572,Andrew,DAHLHEIM,Greenville,SC,1:14:10,Arapahoe Resources / Garneau
 11,349134,Carson,LANGE,Austin,TX,1:14:10,Strike Cycling Elite Team
-12,342402,Kevin,GIRKINS,Austin,TX,1:14:10,ELBOWZ Racing p/b Synergy.O
-13,207262,Andrew,GOESSLING,El Cerrito,CA,1:14:11,Team Mikes Bikes p/b Equator Co
+12,342402,Kevin,GIRKINS,San Marcos,TX,1:14:10,ELBOWZ Racing p/b Synergy.O
+13,207262,Andrew,GOESSLING,Oakland,CA,1:14:11,Team Mikes Bikes p/b Equator Co
 14,200977,John,PURVIS,Parthenon,AR,1:14:11,Oklahoma Bicycle Project
 15,307228,Oliver,FLAUTT,Norcross,CO,1:14:11,303 Project
 16,306291,Johnny,MITCHELL,Johnson City,TN,1:14:11,SC Competitive Cyclist
@@ -447,7 +447,7 @@ Place,License #,First,Last,City,State,Time,Team
 32,394826,Aria,KIANI,Santa Rosa,CA,1:14:18,Team Mikes Bikes p/b Equator Co
 33,287780,Taylor,WARREN,San Diego,CA,1:14:20,303 Project
 34,386430,Michaelee,BOWES,Dickson,TN,1:14:20,Nashville Local Cycling
-35,383915,Tom,SALVESEN,Charleston,SC,1:14:21,~
+35,383915,Tom,SALVESEN,Lakewood,CO,1:14:21,~
 36,240838,John,RYAN,North Richland Hills,TX,1:14:22,Matrix/RBM
 37,272180,Jacob,WHITE,Pauls Valley,OK,1:14:23,Oklahoma Bicycle Project
 38,177637,Andrew,REARDON,Franklin,TN,1:14:24,Tennessee Bicycle Racing Associ
@@ -488,7 +488,7 @@ Place,License #,First,Last,City,State,Time,Team
 73,366682,Scott,WILLIAMSON,Lawrence ,KS,,Olathe Subaru Trek Racing
 74,239925,Ryan,DUPREE,Tulsa,OK,,Soundpony Triad Bank
 75,138402,Shadd,SMITH,Overland Park,KS,,Olathe Subaru Trek Racing
-76,301474,Sam,LEBLANC,Kenner,LA,,4D Racing
+76,301474,Sam,LEBLANC,New Orleans,LA,,4D Racing
 77,174544,Shane,FEEHERY,Homewood,IL,,Bicycle Heaven
 78,278514,Michael,MCBRIEN,Milton,FL,,Palmer Cycling
 79,333296,Jake,BUESCHER,Evanston,IL,,xXx Racing
@@ -496,7 +496,7 @@ Place,License #,First,Last,City,State,Time,Team
 81,265398,Logan,PHIPPEN,Athens,GA,,Team Novo Nordisk Development
 82,119871,Joshua,FRIEDMAN,Pittsburgh,PA,,Green Line Velo driven by Zipca
 83,225120,Erin,ELLIOTT,Oklahoma City,OK,,Oklahoma Bicycle Project
-84,2443,John,BALMER,Indianapolis ,IN,,Century Road Club Of America
+84,2443,John,BALMER,Indianapolis,IN,,Century Road Club Of America
 
 07/02/2017 Criterium Women Pro-Cat 1-2
 Place,License #,First,Last,City,State,Time,Team
@@ -504,21 +504,21 @@ Place,License #,First,Last,City,State,Time,Team
 2,288678,Lauren,STEPHENS,Dallas,TX,1:16:14,UCI WPT: Team TIBCO-Silicon Val
 3,392698,Irena,OSSOLA,Santa Fe,NM,1:16:19,SAS-MACOGEP
 4,300089,Skylar,SCHNEIDER *,West Allis,WI,1:16:36,ISCorp Powered By Progress
-5,186919,Kendall,RYAN,Ventura,CA,1:16:36,UCI WPT: Team TIBCO-Silicon Val
+5,186919,Kendall,RYAN,Camarillo,CA,1:16:36,UCI WPT: Team TIBCO-Silicon Val
 6,275988,Emma,WHITE *,Delanson,NY,1:16:36,UCI WPT: Rally Cycling
 7,41951,Tina,PIC,Bountiful,UT,1:16:37,Papa John's Racing p/b TREK
 8,36345,Laura,VAN GILDER,Cresco,PA,1:16:38,Mellow Mushroom p/b Psimet
 9,485074,Hannah,SHELL,Saint Louis,MO,1:16:38,Pastaria - Big Shark Racing Tea
-10,308334,Heather,FISCHER,Del Rio,TX,1:16:38,UCI WPT: Team TIBCO-Silicon Val
+10,308334,Heather,FISCHER,Boulder,CO,1:16:38,UCI WPT: Team TIBCO-Silicon Val
 11,487207,Kat,SWEATT,Birmingham,AL,1:16:39,Mellow Mushroom Racing
-12,512762,Lily,WILLIAMS,Chicago,IL,1:16:39,Chicago Womens Elite Cycling
+12,512762,Lily,WILLIAMS,Asheville,NC,1:16:39,Chicago Womens Elite Cycling
 13,397657,Laura,JORGENSEN,Asheville,NC,1:16:39,~
 14,384315,Payten,MANESS *,Flower Mound,TX,1:16:39,Papa John's Racing p/b TREK
 15,424035,Cynthia,FRAZIER,Lexington,VA,1:16:39,Velo Classic p/b Stan's NoTubes
 16,404315,Tabitha,SHERWOOD,Culver,IN,1:16:40,Pastaria - Big Shark Racing Tea
 17,499797,Danielle,MORSHEAD *,San Anselmo,CA,1:16:40,Amy D. Foundation
 18,419415,Megan,JASTRAB *,Apple Valley,CA,1:16:40,Swami's Junior Development Team
-19,267467,Christy,KEELY,Greenville ,SC,1:16:40,TotalCyclist
+19,267467,Christy,KEELY,Greenville,SC,1:16:40,TotalCyclist
 20,340314,Ashley,DUBAN,Austin,TX,1:16:41,ATX HitSquad
 21,460027,Madison,KELLY,Naples,FL,1:16:41,Papa John's Racing p/b TREK
 22,367685,Nicole,MERTZ,Columbia Heights,MN,1:16:42,Velo Classic p/b Stan's NoTubes
@@ -593,7 +593,7 @@ DNF,493828,Katy,COHEN,Highland,CA,,GS Andiamo - Redlands Legends
 07/02/2017 Criterium Women Junior 15-16
 Place,License #,First,Last,City,State,Time,Team
 1,419415,Megan,JASTRAB,Apple Valley,CA,31:00,Swami's Junior Development Team
-2,332072,Katie,CLOUSE,Littleton ,CO,31:01,Visit Dallas DNA Cycling
+2,332072,Katie,CLOUSE,Park City,UT,31:01,Visit Dallas DNA Cycling
 3,389569,Emma,WORKOWSKI,Kutztown,PA,31:01,Maloja Pushbiker Future Stars
 4,368361,Jane,TULLIS,Rome,GA,31:01,Frazier Cycling Juniors
 5,401265,Summer,GILBERT,Holland,MI,31:01,Andrie Junior Development Team
@@ -639,14 +639,14 @@ Place,License #,First,Last,City,State,Time,Team
 6,283548,Isabella,BROOKSHIRE,Hendersonville,NC,29:03,Sho-Air TWENTY20 Development
 7,355510,Megan,DOHERTY,Bellevue,WA,29:04,Seattle Cancer Care Alliance Cy
 8,433550,Jasmine,SOH,Olympia,WA,29:05,V.C. Cascade/Slocum
-9,343484,Summer,MOAK,Phoenix,AZ,29:06,Sho-Air TWENTY20 Development
+9,343484,Summer,MOAK,Scottsdale,AZ,29:06,Sho-Air TWENTY20 Development
 10,402178,Zahra,GILL,Hayward,CA,29:06,Sho-Air TWENTY20 Development
-11,422238,Sawyer,TAYLOR,Greenbrae,CA,29:07,Team Swift
-12,302412,Anya,MALARSKI,St. Paul,MN,29:07,Zubaz Racing
+11,422238,Sawyer,TAYLOR,San Rafael,CA,29:07,Team Swift
+12,302412,Anya,MALARSKI,Saint Paul,MN,29:07,Zubaz Racing
 13,381950,Turner,RAMSAY,Rutland,VT,29:07,KMS Cycling-Killington Mountain
 14,356410,Abigail,YOUNGWERTH,Boise,ID,29:08,Sho-Air TWENTY20 Development
 15,480257,Kira,PAYER,Housatonic,MA,29:11,KMS Cycling-Killington Mountain
-16,473111,Cedella,JANCZAK,Greendale,WI,29:12,ISCorp Cycling p/b SmartChoice
+16,473111,Cedella,JANCZAK,Hales Corners,WI,29:12,ISCorp Cycling p/b SmartChoice
 17,343190,Riley,GALLAGHER,Huntersville,NC,29:16,Evolution Jr. Devo Team
 18,376192,Isabella,NGUY,Suwanee,GA,30:55,Frazier Cycling
 19,350064,Claire,REEVES,Grand Rapids,MI,31:34,Speed Merchants
@@ -663,7 +663,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,443016,Nathaniel,MOSER,Barto,PA,2:52:56,Young Medalists
 7,380149,Logan,JONES-WILKINS,Charlottesville,VA,2:54:46,Kelly Benefit Strategies Elite
 8,331752,Sean,MCELROY,Palmdale,CA,2:55:06,NCCF/ Team Specialized Juniors
-9,331144,Denzel,STEPHENSON,Boulder ,CO,2:55:06,Boulder Junior Cycling
+9,331144,Denzel,STEPHENSON,Boulder,CO,2:55:06,Boulder Junior Cycling
 10,362468,Riley,SHEEHAN,Boulder,CO,2:55:06,LUX/Stradling p/b Specialized
 11,380907,Zachary,GOTTESMAN,Greenbrae,CA,2:55:06,NCCF/ Team Specialized Juniors
 12,419414,Ryan,JASTRAB,Apple Valley,CA,2:55:06,Swami's Junior Development Team
@@ -709,7 +709,7 @@ Place,License #,First,Last,City,State,Time,Team
 52,433432,Cesar,REYES,Bell,CA,@6Laps,Team Velosport Junior & U23 Dev
 53,494479,Ethan,OVERSON,Tucson,AZ,@6Laps,~
 54,393312,Cliff,MUELLER,Cornelius,NC,@6Laps,Monster Media Racing
-55,272071,Wheeler,DAVIS,Athens,GA,@6Laps,Team Novo Nordisk Juniors
+55,272071,Wheeler,DAVIS,Raleigh,NC,@6Laps,Team Novo Nordisk Juniors
 56,433455,Anton,SMIRNOV,Fort Collins,CO,@6Laps,The Phoenix Cyclery - Orbea
 57,417132,Thomas,MCDONAGH,Boise,ID,@7Laps,BYRDS (Boise Young Rider Dev Sq
 58,292245,Edward,FRITZINGER,Georgetown,IN,@7Laps,Papa John's Racing Team
@@ -743,14 +743,14 @@ Place,License #,First,Last,City,State,Time,Team
 86,352014,Parker,ROUS,Bakersfield,CA,@10Laps,Team Swift
 87,496538,Cameron,HAWK,Folsom,CA,@10Laps,Limitless Cycling
 88,362582,Simon,CASTAGNERI,Littleton,CO,@10Laps,Prestige Imports/Porsche/Audi R
-89,382897,Garrett,LUCAS,Nunda ,NY,@10Laps,Once Again Nut Butter Multi-Spo
+89,382897,Garrett,LUCAS,Nunda,NY,@10Laps,Once Again Nut Butter Multi-Spo
 90,396041,Hans,POULSEN,Hayward,CA,@10Laps,Tieni Duro Junior Cycling Team
 91,400799,Jacob,SLOSAR,Edwardsville,IL,@10Laps,Quantum Solutions Intelligentsi
 92,381270,Joseph,CLAY,Upper Darby,PA,@10Laps,Young Medalists
 93,423720,Joseph,PARDUE,Fayetteville,AR,@11Laps,Breakaway Cycling Club - NWA
 94,419242,Finn,CUNNINGHAM,Lafayette,CA,@11Laps,Tieni Duro Junior Cycling Team
 95,375090,Evan,GOLDBERG,Bethesda,MD,@11Laps,Rock Creek Velo
-96,433604,Jake,HREHA,Berne ,IN,@12Laps,Yokohama Racing p/b BikeLine/Si
+96,433604,Jake,HREHA,Berne,IN,@12Laps,Yokohama Racing p/b BikeLine/Si
 97,513439,Zane,DAVIS,Rossville,GA,@12Laps,Village VW Chattanooga Cycling
 98,387255,Owen,BUSCH,Loveland,OH,@12Laps,Team Handmade
 99,395728,Leonard,SCHUMMER,San Francisco,CA,@12Laps,Tieni Duro Junior Cycling Team
@@ -775,7 +775,7 @@ DNF,423085,Jackson,GRIFFIN,Tallahassee,FL,,RedEye Velo
 Place,License #,First,Last,City,State,Time,Team
 1,424063,Walter,ROZEK,Folsom,CA,42:46,Reliable/Taco Bell Racing p/b K
 2,365567,Wesley,HAGGSTROM,Clemmons,NC,42:46,Hearts Racing Club
-3,439021,William,CUCCO,Federal Way,WA,42:47,Seattle Cancer Care Alliance Cy
+3,439021,William,CUCCO,University Place,WA,42:47,Seattle Cancer Care Alliance Cy
 4,497056,Johnny Rhodes,DELBRIDGE,East Point,GA,42:47,Team Mission Source / NGCA
 5,495127,Brighton,JOHNSON,Cave Creek,AZ,42:48,Team Winded Development
 6,432313,Jack,MAKOHON,Heath,TX,42:48,Rockwall Racing
@@ -824,7 +824,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,427047,Nicholas,ROBERTS,Whitehall,PA,50:49,T Town Elite
 20,476699,Viggo,MOORE,Herriman,UT,50:59,Zone Five Racing
 21,362708,Riley,COTTON,Longmont,CO,51:23,Boulder Junior Cycling
-22,325072,Nicholas,PETROV,Mckinney,TX,51:24,ProChain Junior Development
+22,325072,Nicholas,PETROV,Mason,OH,51:24,ProChain Junior Development
 23,423117,Tyler,GRIFFIN,Tallahassee,FL,51:24,RedEye Velo
 24,408539,Luke,ANTHONY,East Lyme,CT,51:24,CT Cycling Advancement Program
 25,432136,Beckett,TOOLEY,Frisco,TX,51:27,Dallas Racing
@@ -859,7 +859,7 @@ Place,License #,First,Last,City,State,Time,Team
 54,439697,Ahmir,AYALA,Columbus,OH,59:39,Healthy and Happy Racing
 55,422723,Liam,MCCARY,Schnecksville,PA,59:39,T Town Elite
 56,392298,Nicholas,GOMES,Florissant,MO,59:40,Quantum Solutions Intelligentsi
-57,414448,Michael,WATKINS,Harrah,OK,59:46,Oklahoma City Velo Club
+57,414448,Michael,WATKINS,Choctaw,OK,59:46,Oklahoma City Velo Club
 58,517039,Logan,MORRIS,Hudson,OH,@1Lap,Summit Freewheelers Juniors Tea
 59,467116,Luke,GERDEMAN,Allentown,PA,@2Lap,Young Medalists
 60,393269,Taylor,MURPHY,Jackson,TN,@2Lap,Lift Center Racing
@@ -909,7 +909,7 @@ DNF,523254,Emma,ROBERTSON,Santa Barbara,CA,,Echelon Santa Barbara
 07/01/2017 Road Race Women Junior 15-16
 Place,License #,First,Last,City,State,Time,Team
 1,419415,Megan,JASTRAB,Apple Valley,CA,1:36:20,Swami's Junior Development Team
-2,332072,Katie,CLOUSE,Littleton ,CO,1:36:20,Visit Dallas DNA Cycling
+2,332072,Katie,CLOUSE,Park City,UT,1:36:20,Visit Dallas DNA Cycling
 3,368361,Jane,TULLIS,Rome,GA,1:36:21,Frazier Cycling Juniors
 4,370071,Emma,CAVENDISH,Jupiter,FL,1:36:21,Frazier Cycling Juniors
 5,392569,Gabrielle,LEHNERT,Eugene,OR,1:36:21,V.C. Cascade/Slocum
@@ -942,28 +942,28 @@ Place,License #,First,Last,City,State,Time,Team
 32,397821,Cara,KING,Mertztown,PA,50:26,Young Medalists
 33,460227,Leah,HARDIN,Kissimmee,FL,52:50,Orlando Road Club
 34,481449,Willow,OLSEN,Le Mars,IA,35:56,Central Junior Cycling Devo
-DNS,476971,Renee,MILLER,San Jose,CA,,SJBC
+DNS,476971,Renee,MILLER,Rockville,MD,,SJBC
 
 07/01/2017 Road Race Women Junior 17-18
 Place,License #,First,Last,City,State,Time,Team
 1,541527,Alijah,BEATTY,Washington,IA,2:45:20,NorthStar Development Cycling
 2,406712,Megan,HEATH,Alpharetta,GA,2:45:20,Rally Cycling Devo
-3,343484,Summer,MOAK,Phoenix,AZ,2:45:20,Sho-Air TWENTY20 Development
+3,343484,Summer,MOAK,Scottsdale,AZ,2:45:20,Sho-Air TWENTY20 Development
 4,433550,Jasmine,SOH,Olympia,WA,2:45:21,V.C. Cascade/Slocum
 5,384168,Paige,SHUMSKAS,Pipersville,PA,2:45:21,Fearless Femme Racing
 6,355510,Megan,DOHERTY,Bellevue,WA,2:45:21,Seattle Cancer Care Alliance Cy
 7,356410,Abigail,YOUNGWERTH,Boise,ID,2:45:22,Sho-Air TWENTY20 Development
 8,402178,Zahra,GILL,Hayward,CA,2:45:22,Sho-Air TWENTY20 Development
 9,283548,Isabella,BROOKSHIRE,Hendersonville,NC,2:45:22,Sho-Air TWENTY20 Development
-10,422238,Sawyer,TAYLOR,Greenbrae,CA,2:45:22,Team Swift
+10,422238,Sawyer,TAYLOR,San Rafael,CA,2:45:22,Team Swift
 11,480257,Kira,PAYER,Housatonic,MA,2:45:23,KMS Cycling-Killington Mountain
 12,365513,Mckenzie,STEINER,Del Mar,CA,2:45:24,Swami's Junior Development Team
 13,381950,Turner,RAMSAY,Rutland,VT,2:45:24,KMS Cycling-Killington Mountain
 14,525687,Rebecca,KEFER,Kernersville,NC,2:45:24,E3 Endurance
 15,310691,Kennedy,ADAMS,Stow,OH,2:45:25,Summit Freewheelers
 16,457222,Eliza,GREGOIRE,Zionsville,IN,2:46:16,~
-17,473111,Cedella,JANCZAK,Greendale,WI,2:46:30,ISCorp Cycling p/b SmartChoice
-18,302412,Anya,MALARSKI,St. Paul,MN,2:47:09,Zubaz Racing
+17,473111,Cedella,JANCZAK,Hales Corners,WI,2:46:30,ISCorp Cycling p/b SmartChoice
+18,302412,Anya,MALARSKI,Saint Paul,MN,2:47:09,Zubaz Racing
 19,376192,Isabella,NGUY,Suwanee,GA,2:47:09,Frazier Cycling
 20,343190,Riley,GALLAGHER,Huntersville,NC,2:47:10,Evolution Jr. Devo Team
 21,468558,Hannah,BAUER,Morganton,NC,2:51:18,Evolution Jr. Devo Team
@@ -983,7 +983,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,330472,Lance,HAIDET,San Luis Obispo,CA,4:25:14,UCI CT: Aevolo Cycling Inc.
 11,329962,Cameron,BEARD,Bend,OR,4:25:14,UCI CT: CCB Velotooler
 12,275694,Brandon,MCNULTY,Phoenix,AZ,4:27:02,UCI CT: Rally Cycling
-13,456576,Samuel,BOARDMAN,Washington,CA,4:27:02,Herbalife p/b Marc Pro - Nature
+13,456576,Samuel,BOARDMAN,Los Angeles,CA,4:27:02,Herbalife p/b Marc Pro - Nature
 14,387450,Evan,BAUSBACHER,Richardson,TX,4:27:04,Matrix/RBM
 15,255493,Christopher,BLEVINS,Durango,CO,4:27:43,UCI CT: Axeon Hagens Berman
 16,399422,Samuel,KIEFFER,Dublin,OH,@3Laps,Texas Roadhouse Cycling Team
@@ -1032,7 +1032,7 @@ Place,License #,First,Last,City,State,Time,Team
 59,363561,Kevin,CALLAHAN,Woody Creek,CO,@11Laps,Limelight Hotel - Aspen
 60,267850,Zachary,NEHR,Fox Point,WI,@11Laps,Storck-CCN
 61,255729,Charlie,HOUGH,Travelers Rest,SC,@11Laps,Chainheart Cycling Development
-62,342900,Thomas,WAVRIN,Belle Plaine,MN,@11Laps,NorthStar Development Cycling
+62,342900,Thomas,WAVRIN,Medford,OR,@11Laps,NorthStar Development Cycling
 63,309291,Jack,TANNER,Boulder,CO,@11Laps,Groove Subaru Excel Sports
 64,485837,Paul,HARTNER,Naperville,IL,@11Laps,Bicycle Heaven
 65,363338,Zackary,JENSEN,Fort Collins,CO,@11Laps,The Phoenix Cyclery - Orbea
@@ -1060,7 +1060,7 @@ Place,License #,First,Last,City,State,Time,Team
 87,235572,Nathaniel,MORSE,Cohasset,MA,@19Laps,UCI CT: CCB Velotooler
 88,442929,Collin,TELLECHEA,Medford,NJ,@20Laps,Amoroso's Racing Team
 89,294085,Kyle,MINDICK,Mchenry,IL,@20Laps,Project Echelon Racing
-90,299251,Justin,MCQUERRY,Athens,GA,@20Laps,Team Novo Nordisk Development
+90,299251,Justin,MCQUERRY,Austin,TX,@20Laps,Team Novo Nordisk Development
 DNF,419926,Caleb,SMITH,Marion,NC,DNF,Boone Area Cyclists
 DNF,364346,Andrew,CASTAGNERI,Littleton,CO,DNF,Prestige Imports/Porsche/Audi R
 DNF,293467,Jordan,MARHANKA,Sellersburg,IN,DNF,Indiana/Kentucky Cycling Associ
@@ -1104,7 +1104,7 @@ Place,License #,First,Last,City,State,Time,Team
 28,440044,Juan David,BUITRAGO,Homestead,FL,2:03:22,
 29,355670,Nolan,JENKINS,Colorado Springs,CO,2:03:22,COS Racing
 30,380553,Gerard,JOSULEVICZ,Allentown,PA,2:03:22,Maloja Pushbiker Future Stars
-31,494503,Jeanluc,CONTANT-GALITELLO,Pompano Beach,FL,2:03:22,Interactive Metronome p/b Mega
+31,494503,Jeanluc,CONTANT-GALITELLO,Coconut Creek,FL,2:03:22,Interactive Metronome p/b Mega
 32,303079,Alastair,POUNDER,Cary,NC,2:03:22,Dornier Racing
 33,486531,Aidan,MCNEIL,Cupertino,CA,2:03:22,NCCF/ Team Specialized Juniors
 34,359561,Lucas,STIERWALT,Maineville,OH,2:03:23,ProChain Junior Development
@@ -1114,7 +1114,7 @@ Place,License #,First,Last,City,State,Time,Team
 38,367160,William,GOODSON,Nashville,TN,2:03:25,Frazier Cycling Juniors
 39,383705,David,HEATH,Alpharetta,GA,2:03:31,Frazier Cycling Juniors
 40,496645,Aidan,COATSBALLASEUX,Denver,CO,2:05:05,Prestige Imports/Porsche/Audi R
-41,381826,Ryan,STOWERS,Denver,CO,2:05:27,Boulder Junior Cycling
+41,381826,Ryan,STOWERS,Boulder,CO,2:05:27,Boulder Junior Cycling
 42,478214,Jack,LYNCH,Lyme,NH,2:09:30,
 43,414021,Graham,OUTLAW,Boulder,CO,2:09:30,Boulder Junior Cycling
 44,485608,Carlos,DELGADO,Fort Lauderdale,FL,2:09:33,
@@ -1146,7 +1146,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,181725,Daniel,HOLLOWAY,Boulder,CO,4:13:58,Texas Roadhouse Cycling Team
 2,346994,Thomas,GIBBONS,Linwood,NJ,4:13:58,Baguet-MIBA-Indulek-Derito CT
 3,267361,Chris,RIEKERT,San Jose,CA,4:13:59,Team Mikes Bikes p/b Equator Co
-4,257134,Joshua,JOHNSON,Fort Wayne,IN,4:13:59,Bissell-ABG-Giant
+4,257134,Joshua,JOHNSON,Indianapolis,IN,4:13:59,Bissell-ABG-Giant
 5,188572,Andrew,DAHLHEIM,Greenville,SC,4:13:59,Arapahoe Resources / Garneau
 6,306291,Johnny,MITCHELL,Johnson City,TN,4:13:59,SC Competitive Cyclist
 7,371826,Timothy,SAVRE,Glencoe,MN,4:13:59,Project Echelon Racing
@@ -1160,13 +1160,13 @@ Place,License #,First,Last,City,State,Time,Team
 15,399388,George,SIMPSON,Fort Collins,CO,4:14:00,Gateway Harley-Davidson Trek U2
 16,202401,Brett,RINDT,Fort Collins,CO,4:14:00,Team Rio Grande
 17,349134,Carson,LANGE,Austin,TX,4:14:01,Strike Cycling Elite Team
-18,342402,Kevin,GIRKINS,Austin,TX,4:14:01,ELBOWZ Racing p/b Synergy.O
+18,342402,Kevin,GIRKINS,San Marcos,TX,4:14:01,ELBOWZ Racing p/b Synergy.O
 19,320582,Matthew,ZIMMER,Dewitt ,IA,4:14:01,Gateway Harley-Davidson Trek U2
 20,189118,Morgan,SCHMITT,Seattle,WA,4:14:02,Arapahoe Resources / Garneau
 21,425803,Cameron,BRONSTEIN,Berkeley,CA,4:14:04,Team Mikes Bikes p/b Equator Co
 22,428009,Sam,FRITZ,Princeton,MN,4:14:05,Above and Beyond Cancer p/b Sch
 23,178970,Mat,STEPHENS,Dallas,TX,4:14:06,Arapahoe Resources / Garneau
-24,344034,Brett,WACHTENDORF,Winooski,VT,4:14:10,Gateway Harley-Davidson Trek U2
+24,344034,Brett,WACHTENDORF,Boulder,CO,4:14:10,Gateway Harley-Davidson Trek U2
 25,307228,Oliver,FLAUTT,Norcross,CO,4:14:30,303 Project
 26,341776,Patrick,WALLE,Nashville,TN,4:15:40,I Am Racing
 27,226733,Jonathan,JACOB,Indianapolis,IN,4:16:05,Bissell-ABG-Giant
@@ -1187,7 +1187,7 @@ Place,License #,First,Last,City,State,Time,Team
 42,210225,Garrick,VALVERDE,Lawrence,KS,4:18:24,Olathe Subaru Trek Racing
 43,402875,Matt,SALPIETRO,Indianapolis,IN,4:18:24,Texas Roadhouse Cycling Team
 44,200977,John,PURVIS,Parthenon,AR,4:18:24,Oklahoma Bicycle Project
-45,383915,Tom,SALVESEN,Charleston,SC,4:18:29,
+45,383915,Tom,SALVESEN,Lakewood,CO,4:18:29,
 46,395387,Sean,GARDNER,Richmond,VA,4:18:39,Gateway Harley-Davidson Trek U2
 47,368618,Jacob,HENNINGSEN,Cincinnati,OH,@3Lap,Team Hungry
 48,179843,Jason,CHATHAM,Goodlettsville,TN,@3Lap,I Am Racing
@@ -1237,14 +1237,14 @@ Place,License #,First,Last,City,State,Time,Team
 92,278514,Michael,MCBRIEN,Milton,FL,@18Lap,Palmer Cycling
 93,141477,John,HART,Murfreesboro,TN,@19Lap,Friends Great Smokies (FGS Cycl
 94,387057,Brady,REED,Magnolia,TX,@20Lap,Strike Cycling Elite Team
-DNS,272809,Ricky,RANDALL,Highland Village ,TX,,Arapahoe Resources / Garneau
+DNS,272809,Ricky,RANDALL,Highland Village,TX,,Arapahoe Resources / Garneau
 DNS,311386,Maxwell,ACKERMANN,Madison,WI,,Gateway Harley-Davidson Trek U2
 DNS,223221,Mattison,BRADY,Washington,DC,,District Velocity Racing p/b Bi
 DNS,227547,Devin,CARROLL,Austin,TX,,Super Squadra p/b Eliel Cycling
 DNS,96873,Christopher,MURRAY,Plano,TX,,Equip Sports Racing
-DNS,230716,John,NOONAN,Evergreen,CO,,Primal - Audi Denver
+DNS,230716,John,NOONAN,Tucson,AZ,,Primal - Audi Denver
 DNS,299155,Ryan,O'BOYLE,Shorewood,IL,,xXx Racing
-DNS,310983,Tice,PORTERFIELD,Bertram,TX,,Strike Cycling Elite Team
+DNS,310983,Tice,PORTERFIELD,Austin,TX,,Strike Cycling Elite Team
 DNS,349270,Mitchell,SIDES,Magnolia,TX,,Strike Cycling Elite Team
 DNS,219998,Benjamin,STOVER,Lawrence,KS,,Olathe Subaru Trek Racing
 DNS,238311,Christopher,UBERTI,Cincinnati,OH,,
@@ -1253,12 +1253,12 @@ DNF,205802,Doug,FAGAN,Indianapolis,IN,,Texas Roadhouse Cycling Team
 DNF,336388,Corey,DAVIS,Danville,VA,,SC Competitive Cyclist
 DNF,240005,Kyle,PERRY,Muncie,IN,,Texas Roadhouse Cycling Team
 DNF,280746,Rolly,WEAVER,Ormond Beach,FL,,Royal Velo Club Ottignies
-DNF,305602,Craig,NICHOLS,Ephrata,PA,,CS Velo Elite
+DNF,305602,Craig,NICHOLS,Lancaster,PA,,CS Velo Elite
 DNF,386430,Michaelee,BOWES,Dickson,TN,,Nashville Local Cycling
 DNF,424384,Dennis,RAMIREZ,Barnhart,MO,,Gateway Harley-Davidson Trek U2
 DNF,297555,Christopher,MEACHAM,Mooresville,NC,,SC Competitive Cyclist
 DNF,272180,Jacob,WHITE,Pauls Valley,OK,,Oklahoma Bicycle Project
-DNF,207262,Andrew,GOESSLING,El Cerrito,CA,,Team Mikes Bikes p/b Equator Co
+DNF,207262,Andrew,GOESSLING,Oakland,CA,,Team Mikes Bikes p/b Equator Co
 DNF,394826,Aria,KIANI,Santa Rosa,CA,,Team Mikes Bikes p/b Equator Co
 DNF,189245,Kevin,FISH,Austin,TX,,Super Squadra p/b Eliel Cycling
 DNF,395771,Taylor,PEARMAN,Burke,VA,,Haymarket/Starlight Custom Appa
@@ -1293,7 +1293,7 @@ Place,License #,First,Last,City,State,Time,Team
 23,399422,Samuel,KIEFFER,Dublin,OH,45:57.10,Texas Roadhouse Cycl
 24,316234,Daniel,JESKE,Marcellus,NY,46:23.30,
 25,267850,Zachary,NEHR,Fox Point,WI,46:23.51,Storck-CCN
-26,456576,Samuel,Boardman,Washington,CA,46:31.50,Herbalife p/b Marc P
+26,456576,Samuel,Boardman,Los Angeles,CA,46:31.50,Herbalife p/b Marc P
 27,352236,Ian,CLARKE,Killington,VT,46:49.30,
 28,422853,Eric,VOIGT,Vienna,VA,46:50.34,Mid Atlantic Bicycle
 29,330472,Lance,HAIDET,San Luis Obispo,CA,46:54.56,Aevolo Cycling Inc.
@@ -1310,12 +1310,12 @@ Place,License #,First,Last,City,State,Time,Team
 40,301623,Frankie,GONZALEZ,Pembroke Pines,FL,48:55.27,Interactive Metronom
 41,363561,Kevin,CALLAHAN,Woody Creek,CO,49:02.26,Limelight Hotel - As
 42,379658,Chaz,HOGENAUER,Boise,ID,49:09.48,Mercedes Benz/George
-43,342900,Thomas,WAVRIN,Belle Plaine,MN,49:21.10,NorthStar Devo Cycli
+43,342900,Thomas,WAVRIN,Medford,OR,49:21.10,NorthStar Devo Cycli
 44,351580,Lewis,WHILEY,Olympia,WA,49:47.73,
 45,398391,Kyle,STOFFAN THORNTON,Boise,ID,50:07.47,Mercedes Benz/George
 46,406377,Brian,LEA,Bartlesville,OK,53:49.59,Experience Fayettevi
 47,277433,Zachary,CARLSON,Indianapolis,IN,,Texas Roadhouse Cycl
-48,295785,Colin,CATLIN,Arden Hills,MN,,NorthStar Devo Cycli
+48,295785,Colin,CATLIN,Saint Paul,MN,,NorthStar Devo Cycli
 49,394358,Seth,WORTHINGTON,Westfield,IN,,
 50,347112,Austin,GOMES,Florissant,MO,,
 51,255580,Jason,SALTZMAN,Menlo Park,CA,,Aevolo Cycling Inc.
@@ -1338,7 +1338,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,335474,Dillon,CALDWELL,Bend,OR,44:35.14,Audi
 14,319214,Grant,KOONTZ,Spring,TX,44:37.28,Arapahoe Resources /
 15,318896,Micah,ENGLE,Dillsburg,PA,45:03.83,Gateway Harley-David
-16,344034,Brett,WACHTENDORF,Winooski,VT,45:13.16,Gateway Harley-David
+16,344034,Brett,WACHTENDORF,Boulder,CO,45:13.16,Gateway Harley-David
 17,153790,Roman,KILUN,Oakland,CA,45:23.20,Team Mikes Bikes p/b
 18,375247,Cyrus,PEARO,Denver,CO,45:25.39,
 19,395771,Taylor,PEARMAN,Burke,VA,45:29.69,Haymarket/Starlight
@@ -1377,8 +1377,8 @@ Place,License #,First,Last,City,State,Time,Team
 52,510281,Greg,HUNT,Hurdland,MO,01:38.28,
 53,237748,Jacob,Tremblay,Chesterfield,VA,,Nissan RVA
 54,10984,Jorge,Espinoza,Boulder,CO,,
-55,58176,Nathan,ROGUT,Tampa,FL,,
-56,272809,Ricky,RANDALL,Highland Village ,TX,,Arapahoe Resources /
+55,58176,Nathan,ROGUT,Rock Hill,SC,,
+56,272809,Ricky,RANDALL,Highland Village,TX,,Arapahoe Resources /
 57,472954,Steven,DECKER,Tampa,FL,,
 58,228581,Dan,Netzer,Norfolk,VA,,Haymarket/Starlight
 
@@ -1440,7 +1440,7 @@ Place,License #,First,Last,City,State,Time,Team
 28,473515,Dakota,OLSEN,Le Mars,IA,17:41.14,Central Junior Cycli
 29,425029,Ian,WITKOWSKI,Elizabethtown,PA,17:41.37,Young Medalists
 30,434472,Xander,JONES,Willimantic,CT,17:42.07,
-31,325072,Nicholas,PETROV,Mckinney,TX,17:48.08,ProChain Junior Devo
+31,325072,Nicholas,PETROV,Mason,OH,17:48.08,ProChain Junior Devo
 32,470693,Brian,LUCIANO,Katy,TX,17:49.79,
 33,384819,Anthony,HILLIGOSS,Eden Prairie,MN,17:50.02,MNJRC
 34,423654,Mckay,KINSEY,Fresno,CA,17:52.91,
@@ -1472,7 +1472,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,412563,Cole,LIMPACH,Omaha,NE,29:57.55,Harvest Racing p/b M
 4,355670,Nolan,Jenkins,Colorado Springs,CO,29:58.99,COS Racing
 5,508242,Seth,CALLAHAN,Monroe,GA,30:17.70,
-6,494503,Jeanluc,CONTANT-GALITELLO,Pompano Beach,FL,30:21.62,Interactive Metronom
+6,494503,Jeanluc,CONTANT-GALITELLO,Coconut Creek,FL,30:21.62,Interactive Metronom
 7,322530,Harrison,WHITE,Delanson,NY,30:28.85,Hot Tubes Devo Cycli
 8,318510,William,BOBROW,Louisville,KY,30:37.10,Papa John's Racing T
 9,403557,Eric,MOORE,Greenville,SC,30:42.64,Upstate Junior Cycli
@@ -1600,7 +1600,7 @@ Place,License #,First,Last,City,State,Time,Team
 66,404392,Bogdan,RYLSKI,Saint Paul,MN,33:30.59,NorthStar Devo Cycli
 67,433432,Cesar,REYES,Bell,CA,33:36.97,Team Velosport Junio
 68,292988,Mark,YAROSHEVSKY,San Diego,CA,33:43.98,Swami's Junior Devo
-69,272071,Wheeler,DAVIS,Athens,GA,33:47.02,Team Novo Nordisk Ju
+69,272071,Wheeler,DAVIS,Raleigh,NC,33:47.02,Team Novo Nordisk Ju
 70,474329,Dalton,COLLINS,Washburn,WI,33:51.04,NorthStar Devo Cycli
 71,431346,Scott,BRIDGES,Battle Creek,MI,34:44.37,
 72,494909,Ethan,FULLER,Phoenix,AZ,34:56.07,
@@ -1656,7 +1656,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,419415,Megan,JASTRAB,Apple Valley,CA,31:48.09,Swami's Junior Devo
 2,470324,Zoe,TA-PEREZ,Orange,CA,31:54.59,Sho-Air TWENTY20 Dev
 3,370071,Emma,CAVENDISH,Jupiter,FL,33:07.34,Frazier Cycling Juni
-4,332072,Katie,CLOUSE,Littleton ,CO,34:34.97,Visit Dallas DNA Cyc
+4,332072,Katie,CLOUSE,Park City,UT,34:34.97,Visit Dallas DNA Cyc
 5,423019,Bridget,TOOLEY,Frisco,TX,34:43.53,Sun & Ski Women's Ra
 6,368361,Jane,TULLIS,Rome,GA,35:03.77,Frazier Cycling Juni
 7,392569,Gabrielle,LEHNERT,Eugene,OR,35:08.82,
@@ -1681,7 +1681,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 06/29/2017 Time Trial Women Junior 17-18
 Place,License #,First,Last,City,State,Time,Team
-1,343484,Summer,MOAK,Phoenix,AZ,30:21.62,Sho-Air TWENTY20 Dev
+1,343484,Summer,MOAK,Scottsdale,AZ,30:21.62,Sho-Air TWENTY20 Dev
 2,356410,Abigail,YOUNGWERTH,Boise,ID,30:42.39,Sho-Air TWENTY20 Dev
 3,355510,Megan,DOHERTY,Bellevue,WA,31:23.84,Seattle Cancer Care
 4,541527,Alijah,BEATTY,Washington,IA,31:49.93,NorthStar Devo Cycli
@@ -1695,7 +1695,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,343190,Riley,GALLAGHER,Huntersville,NC,35:34.72,
 13,376192,Isabella,NGUY,Suwanee,GA,38:49.34,Frazier Cycling
 14,384168,Paige,SHUMSKAS,Pipersville,PA,,
-15,422238,Sawyer,TAYLOR,Greenbrae,CA,,
+15,422238,Sawyer,TAYLOR,San Rafael,CA,,
 
 06/29/2017 Team Time Trial Men Pro
 Place,License #,First,Last,City,State,Time,Team
@@ -1769,8 +1769,8 @@ Place,License #,First,Last,City,State,Time,Team
 1,470579,Sara,Poidevin,,,46:15.17,
 1,275988,Emma,White,Delanson,NY,46:15.17,
 2,440050,Nicolle,Bruderer,Boulder,CO,46:39.14,
-2,308334,Heather,Fischer,Del Rio,TX,46:39.14,
-2,186919,Kendall,Ryan,Ventura,CA,46:39.14,
+2,308334,Heather,Fischer,Boulder,CO,46:39.14,
+2,186919,Kendall,Ryan,Camarillo,CA,46:39.14,
 2,288678,Lauren,Stephens,Dallas,TX,46:39.14,
 2,292211,Jennifer,Tetrick,Sausalito,CA,46:39.14,
 2,353542,Brianna,Walle,Beaverton,OR,46:39.14,

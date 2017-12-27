@@ -47,7 +47,7 @@ DNP,398392,John,PIPER,Minotola,NJ,00:00:00.00,VR2209
 Place,License #,First,Last,City,State,Time,Team
 1,526055,Felipe,SCHAUN MACHADO,Weehawken,NJ,00:00:00.00,
 2,514698,Justin,WHEELER,Wynnewood,PA,00:00:00.00,West Chester Cycling Club
-3,390025,Dylan,STAGNER,Washington ,DC,00:00:00.00,Great Eskape
+3,390025,Dylan,STAGNER,Washington,DC,00:00:00.00,Great Eskape
 4,506402,Tom,Mcconnell,Hasbrouck Heights,NJ,00:00:00.00,Redwood Realty Advisors
 5,496834,Daniel,Same,Wynnewood,PA,00:00:00.00,CS Velo
 6,531818,Gary,GARDELLA,Jackson,NJ,00:00:00.00,
@@ -64,7 +64,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,530279,James,JOSWICK,Millington,MD,00:00:00.00,
 18,448669,Alex,LAIFER,New Preston Marble Dale,CT,00:00:00.00,
 19,493740,Daniel,IACHETTA,Toms River,NJ,00:00:00.00,Beachwood Bicycles
-20,524824,Chad,MELTON,Wytheville,VA,00:00:00.00,
+20,524824,Chad,MELTON,Warrenton,VA,00:00:00.00,
 21,0,Ryan,FREY,,,00:00:00.00,
 22,526185,Cliff,BARANOWSKI,Phoenix,MD,00:00:00.00,
 23,525864,Brandon,KASE,Voorhees,NJ,00:00:00.00,
@@ -72,9 +72,9 @@ Place,License #,First,Last,City,State,Time,Team
 25,298278,Alfred,HOWARD,Philadelphia,PA,00:00:00.00,Major Taylor  Cycling Club - P
 DNS,535555,Robert,CYMBOR,Reading,PA,00:00:00.00,South Mountain Cycle
 DNS,522309,Joe,DEANGELIS,Mantua,NJ,00:00:00.00,
-DNS,505712,Leonardo,LOPEZ,Edison ,NJ,00:00:00.00,Liberty cycles
+DNS,505712,Leonardo,LOPEZ,Edison,NJ,00:00:00.00,Liberty cycles
 DNP,522558,Gavin,CHOW,New York,NY,00:00:00.00,CRCA/GFNY Racing
-DNP,505277,Brendan,GRAHAM,Westchester,PA,00:00:00.00,Cadence Racing
+DNP,505277,Brendan,GRAHAM,Philadelphia,PA,00:00:00.00,Cadence Racing
 DNP,0,George,HAINES,,,00:00:00.00,
 DNP,514752,Cory,KESTNER,Skillman,NJ,00:00:00.00,Century Road Club of America
 DNP,528551,William,WEISSER,Lancaster,PA,00:00:00.00,
@@ -82,7 +82,7 @@ DNP,528551,William,WEISSER,Lancaster,PA,00:00:00.00,
 07/30/2017 Road Race Men Cat 4 Open
 Place,License #,First,Last,City,State,Time,Team
 1,526444,Mario Irvin,CRESPO,Bloomfield,NJ,00:00:00.00,Montclair Bikery Racing
-2,528365,Quintin,CHIAPPERINO,Whitestone,NY,00:00:00.00,Mineola Bicycle Racing Team
+2,528365,Quintin,CHIAPPERINO,Austin,TX,00:00:00.00,Mineola Bicycle Racing Team
 3,523719,Diego,RODRIGUEZ,Mays Landing,NJ,00:00:00.00,VR2209
 4,477027,Nelson,ODREMAN,North Plainfield ,NJ,00:00:00.00,Kim's Bike Shop Racing Team
 5,391477,Carlos,WALTON,Mineola,NY,00:00:00.00,MIneola Bicycle Racing Team
@@ -123,7 +123,7 @@ Place,License #,First,Last,City,State,Time,Team
 41,241299,Mike,PORTER,Linfield,PA,00:00:00.00,Zen Masters Racing
 42,457935,Hee,SONG,Vienna,VA,00:00:00.00,Evolution Cycling Club p/b Lon
 DNS,242974,Matthew,FINLAY,Far Hills,NJ,00:00:00.00,Liberty Cycle
-DNS,380055,Manuel,PANIAGUA,Silver Spring ,MD,00:00:00.00,
+DNS,380055,Manuel,PANIAGUA,Silver Spring,MD,00:00:00.00,
 DNS,473073,David,PHIMSIPASOM,North Plainfield,NJ,00:00:00.00,Westwood Velo
 DNP,478034,Arnaud,DEMONCHEAUX,Lambertville,NJ,00:00:00.00,Pure Energy Racing
 DNP,484927,Shea,DEVINE,Philadelphia,PA,00:00:00.00,Team FEC p/b Trek Bikes
@@ -139,9 +139,9 @@ Place,License #,First,Last,City,State,Time,Team
 2,499890,William,Wahl,Sicklerville,NJ,00:00:00.00,PSRacing/BTB
 3,473253,Lwichy,JIMENEZ,New Brunswick,NJ,00:00:00.00,Karma Racing Team
 4,317156,Josh,WOODSON,Fallschurch,VA,00:00:00.00,WWVC Racing
-5,283659,Philip,DANIELS,Philadelphia ,PA,00:00:00.00,Dangerous Creatures
+5,283659,Philip,DANIELS,Philadelphia,PA,00:00:00.00,Dangerous Creatures
 6,473124,Brent,VOLLRATH,Blue Bell,PA,00:00:00.00,Blue Bell Private Wealth Manag
-7,411044,Wanya,CAVE,Collingdale,PA,00:00:00.00,Amoroso's Racing Team
+7,411044,Wanya,CAVE,Philadelphia,PA,00:00:00.00,Amoroso's Racing Team
 8,392303,Louisgie,SHOY,Roslyn,NY,00:00:00.00,Mineola Bicyle Racing Team
 9,425914,Adriano,HAUCK,Philadelphia,PA,00:00:00.00,Rohan Cycling
 10,311002,Matthew,JOGODNIK,Chatham,NJ,00:00:00.00,Montclair Bikery Development T
@@ -188,7 +188,7 @@ Place,License #,First,Last,City,State,Time,Team
 51,53227,Joseph,MANACCHIO,Philadelphia,PA,00:00:00.00,Guy's Racing Club
 52,197138,Michael,HENASEY,Haddonfield,NJ,00:00:00.00,PSRacing/BTB
 DNS,61909,Ted,BERTUCIO,Millstone Township,NJ,00:00:00.00,Mambo Kings Racing
-DNS,192230,Mark,COWIN,Frederica ,DE,00:00:00.00,Pro Pedals Racing
+DNS,192230,Mark,COWIN,Frederica,DE,00:00:00.00,Pro Pedals Racing
 DNS,283856,Steven R.,GARCIA,Willingboro,NJ,00:00:00.00,CS Velo
 DNP,430977,David,BENNETT,Metuchen,NJ,00:00:00.00,Karma Racing Team
 DNP,381400,Anwar,GORHAM,Baltimore,MD,00:00:00.00,Kelly Benefit Strategies / LSV

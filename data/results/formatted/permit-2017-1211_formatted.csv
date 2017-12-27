@@ -5,9 +5,9 @@ Place,License #,First,Last,City,State,Time,Team
 1,160295,Frank,Travieso,Athens,GA,0:56:59,Southern Crescent Cycling
 2,193035,Brandon,Feehery,Knoxville,TN,0:56:04,Crit Life
 3,202082,Alder,Martz,Charlotte,NC,0:56:04,
-4,374617,Chad,Conley,Cartersville,GA,0:56:05,Pharmaco-DeepSouth p/b NGCA
+4,374617,Chad,Conley,Atlanta,GA,0:56:05,Pharmaco-DeepSouth p/b NGCA
 5,399650,Brock,Mason,Athens,GA,0:56:09,Team Mission Source / NGCA
-6,46770,Brian,Teipen,Alpharetta,GA,0:56:39,Ridley Masters p/b Reality Bikes
+6,46770,Brian,Teipen,Milton,GA,0:56:39,Ridley Masters p/b Reality Bikes
 7,467842,Clay,Murfet,Knoxville,TN,0:56:41,Crit Life
 8,222021,Emile,Abraham,Atlanta,GA,0:56:41,Pharmaco-DeepSouth p/b NGCA
 9,178109,Andrew,Scarano,Athens,GA,0:56:41,Stradalli Cycle/Safetti
@@ -15,7 +15,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,400727,Dillon,Swaim,Lilburn,GA,0:56:56,Prima Tappa Cycling p/b Mansfield Oil
 12,425551,Dylan,Cantrell,Mount Airy,GA,0:56:56,Piedmont College
 13,274017,Andrew,Hodges,Suwanee,GA,0:56:58,Prima Tappa Cycling p/b Mansfield Oil
-14,272407,Timothy,Killelea,Chattanooga ,TN,0:56:58,Village VW Chattanooga Cycling Team
+14,272407,Timothy,Killelea,Chattanooga,TN,0:56:58,Village VW Chattanooga Cycling Team
 15,31617,Carter,Schmeck,Peachtree City,GA,0:56:59,Portable Rock Climbing/Ortho Atlanta
 16,412295,Darel,Christopher,Forest Park,GA,0:56:59,Southern Crescent Cycling
 17,367996,John,Butler,Watkinsville,GA,0:57:02,Stradalli Cycle/Safetti
@@ -42,7 +42,7 @@ DNF,142548,Daudi,Cobb,Decatur,GA,0:23:42,Peachtree Masters Elite Team
 03/25/2017 Criterium Men Collegiate D
 Place,License #,First,Last,City,State,Time,Team
 1,528423,Dylan,Munn,Athens,GA,0:27:27,
-2,501755,Coleman,Camp,Naperville,IL,0:28:18,Savannah College of Art & Design - Savannah
+2,501755,Coleman,Camp,Savannah,GA,0:28:18,Savannah College of Art & Design - Savannah
 3,0,cullen,Quamina,,,0:28:20,
 4,456371,Brian,John,Ringgold,GA,0:28:50,
 5,526317,Nick,Senador,Cornelia,GA,0:28:17,
@@ -54,7 +54,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,410987,Matthew,Owen,Brevard,NC,0:27:27,Transylvania County Schools
 2,520776,William,Wilhelm,Thomasville,GA,0:27:27,Piedmont College
 3,498182,Aaron,Highsmith,Cumming,GA,0:27:28,
-4,497150,David Michael,Sweet,Wedowee,AL,0:27:29,Auburn University
+4,497150,David Michael,Sweet,Palo Alto,CA,0:27:29,Auburn University
 5,524062,Jacob,Varner,Auburn,AL,0:27:30,
 6,524937,Tanner,Batson,Clarkesville,GA,0:27:32,
 7,525766,Dylan,Ogle,Athens,GA,0:27:32,
@@ -75,13 +75,13 @@ Place,License #,First,Last,City,State,Time,Team
 2,396501,Derek,Birch,Tampa,FL,0:43:33,USF Cycling
 3,395493,Jonathan,Cooper,Conyers,GA,0:43:34,
 4,308241,Jason,McArthur,Tallahassee,FL,0:43:32,Florida State University
-5,503564,Dillon,Hickey,Pleasantville,NY,0:43:33,
+5,547018,Dillon,Hickey,Pleasantville,NY,0:43:33,
 6,428522,Bergen,West,Lancaster,PA,0:43:33,
 7,501128,Robert,Swift,Tampa,FL,0:43:33,
 8,524758,Nicolas,Ramirez,Savannah,GA,0:43:34,Savannah College of Art & Design - Savannah
 9,466013,Hayden,Cox,Johns Creek,GA,0:43:34,
 10,494857,Christian,Acker,Clemson,SC,0:43:34,Clemson University
-11,496992,Robert,Lyew,Snellville,GA,0:43:34,
+11,496992,Robert,Lyew,Hartsville,SC,0:43:34,
 12,347008,Reuben,Dupre,Mobile,AL,0:43:34,
 13,467462,Clay,Wilderman,Acworth,GA,0:43:34,
 14,486343,Andrew,Brookins,Columbus,GA,0:43:35,
@@ -95,12 +95,12 @@ DNF,428144,William,Castrillon,Athens,GA,0:33:01,
 Place,License #,First,Last,City,State,Time,Team
 1,255729,Charlie,Hough,Travelers Rest,SC,1:02:22,Furman University
 2,385573,Fausto,Crapiz,Dandridge,TN,1:02:22,Village VW Chattanooga Cycling Team
-3,504799,Peter,Foerster,,,1:02:22,
+3,504799,Peter,Foerster,Atlanta,GA,1:02:22,
 4,258439,Grayson,Brookshire,Hendersonville,NC,1:02:22,Chainheart Cycling Development Team
 5,283705,Cooper,Willsey,Hinesburg,VT,1:02:24,UCI CT: CCB Velotooler
 6,276390,J. Colton,Brookshire,Hendersonville,NC,1:02:28,Chainheart Cycling Development Team
 7,387328,andrew,GUELZO,Grand Rapids,MI,1:02:28,Team Athletic Mentors / GREENWAREUSA
-8,308175,Wilman,Vargas,Atlanta ,GA,1:02:30,Snyder Factory Racing
+8,308175,Wilman,Vargas,Atlanta,GA,1:02:30,Snyder Factory Racing
 9,178109,Andrew,Scarano,Athens,GA,1:02:30,Stradalli Cycle/Safetti
 10,392529,Brian,Sciba,Tallahassee,FL,1:02:30,Kelly Benefit Strategies Elite
 11,295708,Samuel,Morkal Williams,Briarcliff Manor,NY,1:02:31,Foundation
@@ -109,14 +109,14 @@ Place,License #,First,Last,City,State,Time,Team
 14,425551,Dylan,Cantrell,Mount Airy,GA,1:02:36,Piedmont College
 15,295504,Kenneth,Hall,Columbia,KY,1:02:41,
 16,516674,Paul,Wright,Hawea Flat,OT,1:03:05,
-17,374617,Chad,Conley,Cartersville,GA,1:03:09,Pharmaco-DeepSouth p/b NGCA
+17,374617,Chad,Conley,Atlanta,GA,1:03:09,Pharmaco-DeepSouth p/b NGCA
 18,454615,Ryan,Hopkins,Brandenburg,KY,1:03:36,Cycle Haus Racing
 19,352888,Wyatt,Myers,Victorville,CA,1:03:36,
 20,431247,Taylor,Davis,Seale,AL,1:03:51,
 21,207381,Artur,Sagat,Roswell,GA,1:02:30,Pioneer Mortgage pb Yourkey.com
 22,457120,Zachary,Lee,Anniston,AL,1:03:09,Mellow Mushroom Racing
 23,298437,Nolan,Tankersley,Erwin ,TN,1:03:11,UCI CT: Lupus Racing Team
-24,478099,Paul,Gue,Louisville,KY,1:02:41,AlaCOMP Race Team
+24,478099,Paul,Gue,Auburn,AL,1:02:41,AlaCOMP Race Team
 25,443547,Josiah,Peterson,Columbia,KY,1:03:35,Southern Performance
 DNF,390751,Kyle,Ellis,Cumming,GA,0:36:39,Cycle Youth
 DNF,393692,Mark,Bischof,Strongsville,OH,0:54:37,Spin/Litzler Automation
@@ -135,11 +135,11 @@ DNF,428099,Thomas,Morrison,Cartersville,GA,0:47:13,North Georgia Cycling Associa
 03/25/2017 Criterium Men Cat 4-5
 Place,License #,First,Last,City,State,Time,Team
 1,510080,Michael,Zinkann,Newnan,GA,0:44:49,Portable Rock Climbing/Ortho Atlanta
-2,217539,Nathan,Harris,Frisco,CO,0:44:49,
+2,217539,Nathan,Harris,Spring,TX,0:44:49,
 3,528195,Joshua,Marshall,College Park,GA,0:44:49,
 4,460895,Kumpol,Sriprapa,Marietta,GA,0:44:50,GIovanni's Tile Design Racing p/b Roswell Bicycles
 5,519539,Rob,Reynolds,Hahira,GA,0:44:50,PCP Race Team
-6,503110,yelsin,cruz,Norcross,GA,0:44:50,
+6,500697,yelsin,cruz,Norcross,GA,0:44:50,
 7,478579,Artem,Shmidt,Cumming,GA,0:44:50,Keenz Racing p/b Mission Source/NGCA
 8,484937,Drew,Rosedale,Atlanta,GA,0:44:50,L5Flyers Cycling Team
 9,352454,Gareth,Miller,Charleston,TN,0:44:50,Village VW Chattanooga Cycling Team
@@ -150,7 +150,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,412426,Jared,Thornhill,Atlanta,GA,0:44:51,Team Mission Source / NGCA
 15,385752,Keith,Werle,Atlanta,GA,0:44:53,
 16,425169,Kim,Cantrell,Mount Airy,GA,0:44:59,
-17,494731,Drew,Chaplain,Atlanta,GA,0:45:00,Team Mission Source / NGCA
+17,494731,Drew,Chaplain,Athens,GA,0:45:00,Team Mission Source / NGCA
 18,468360,Jeffery,Cahill,Roswell,GA,0:45:13,US Military Endurance Sports
 19,159216,Matthew,O'Connell,Atlanta,GA,0:43:23,L5Flyers Cycling Team
 20,516640,Jorge,Cabral,Tucker,GA,0:45:07,Prima Tappa Cycling p/b Mansfield Oil
@@ -175,7 +175,7 @@ DNF,428356,Daniel,Podratsky,Tucker,GA,0:39:59,Prima Tappa Cycling p/b Mansfield 
 
 03/25/2017 Criterium Men Master 35+
 Place,License #,First,Last,City,State,Time,Team
-1,46770,Brian,Teipen,Alpharetta,GA,0:46:47,Ridley Masters p/b Reality Bikes
+1,46770,Brian,Teipen,Milton,GA,0:46:47,Ridley Masters p/b Reality Bikes
 2,376163,David,Koonce,Murfreesboro,TN,0:43:47,MOAB Masters Racing
 3,336742,Sean,Philyaw,Buford,GA,0:44:43,Ridley Masters p/b Reality Bikes
 4,429391,Joshua,Walliser,Nashville,TN,0:44:44,I Am Racing
@@ -191,7 +191,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,52903,Josh_Paul,Barrett,Savannah,GA,0:44:50,Hilton Head Cycling/Robson Forensic - Su
 15,191735,Michael,Livingston,Atlanta,GA,0:44:50,Wolverine Sports Club
 16,401512,Vladimir,Flores,Bufordsugar Hill,GA,0:44:50,Southern Crescent Cycling
-17,173111,Charles,Rossignol,Atlanta,GA,0:45:26,Litespeed-BMW
+17,173111,Charles,Rossignol,Flagstaff,AZ,0:45:26,Litespeed-BMW
 18,211145,Benjamin,Bryant,Decatur,GA,0:45:36,Team Mission Source / NGCA
 19,222021,Emile,Abraham,Atlanta,GA,0:43:29,Pharmaco-DeepSouth p/b NGCA
 
@@ -222,12 +222,12 @@ Place,License #,First,Last,City,State,Time,Team
 2,477048,Abby,Hobbs,Athens,GA,0:29:49,
 3,515537,Elia,Valles Gamundi,Atlanta,GA,0:30:05,
 4,497075,Erin,Nalley,Brandon,MS,0:30:06,
-5,519139,Sophie,Allen,Asheville,NO,0:30:06,
+5,519139,Sophie,Allen,Asheville,NC,0:30:06,
 6,419163,Marie,Tutterow,Johnson City,TN,0:30:06,Team Heroes
 7,466276,Kathryn,Maeder,Powder Springs,GA,0:30:06,
 8,524762,Amalia,Restrepo,Savannah,GA,0:30:07,
 9,524893,Chrissy,Glover,Savannah,GA,0:30:56,Savannah College of Art & Design - Savannah
-10,497036,Elizabeth,Keefer,Jacksonville,AL,0:31:34,
+10,497036,Elizabeth,Keefer,Auburn,AL,0:31:34,
 11,524655,Hayley,Guy,Tallahassee,FL,0:30:18,
 12,522154,Leah,Silverman,Brattleboro,VT,0:30:18,
 13,525194,Xaviera,Coral,Atlanta,GA,0:30:57,
@@ -295,11 +295,11 @@ DNF,151968,Eric,Anderson,Alpharetta,GA,1:36:17,Ridley Masters p/b Reality Bikes
 Place,License #,First,Last,City,State,Time,Team
 1,497314,Ross,Dungan,Savannah,GA,1:22:59,Savannah College of Art & Design - Savannah
 2,475309,John,Graves III,Ranger,GA,1:23:01,
-3,501755,Coleman,Camp,Naperville,IL,1:23:03,Savannah College of Art & Design - Savannah
+3,501755,Coleman,Camp,Savannah,GA,1:23:03,Savannah College of Art & Design - Savannah
 4,528423,Dylan,Munn,Athens,GA,1:28:52,
 5,528669,Spencer,Jones,Overland Park,KS,1:29:01,
 6,527579,Cody,McClelland,Killen,AL,1:29:04,
-7,482633,Billy,Barnes,Johnson City,TN,1:31:26,King University
+7,482633,Billy,Barnes,Gray,TN,1:31:26,King University
 8,526317,Nick,Senador,Cornelia,GA,1:39:45,
 9,527621,Michael,Boerman,Mohnton,PA,1:39:50,
 DNF,456371,Brian,John,Ringgold,GA,0:59:35,
@@ -315,7 +315,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,526824,Benjamin,Engwall,St. Petersburg,FL,1:23:03,
 6,524062,Jacob,Varner,Auburn,AL,1:23:03,
 7,498182,Aaron,Highsmith,Cumming,GA,1:23:10,
-8,497150,David Michael,Sweet,Wedowee,AL,1:23:11,Auburn University
+8,497150,David Michael,Sweet,Palo Alto,CA,1:23:11,Auburn University
 9,524937,Tanner,Batson,Clarkesville,GA,1:28:53,
 10,524176,Matthew,Bartholomew,Savannah,GA,1:28:57,
 11,525237,William,Rojas,Orlando,FL,1:29:03,
@@ -343,9 +343,9 @@ Place,License #,First,Last,City,State,Time,Team
 11,524758,Nicolas,Ramirez,Savannah,GA,1:25:43,Savannah College of Art & Design - Savannah
 12,425391,Padraic,Elliott,Tallahassee,FL,1:25:45,Florida State University
 13,448477,Andrew,Baldwin,Franklin,NC,1:25:53,
-14,496992,Robert,Lyew,Snellville,GA,1:25:57,
-15,503564,Dillon,Hickey,Pleasantville,NY,1:26:05,
-16,412146,Eric,Hubbs,Piney Flats,TN,1:27:05,King University
+14,496992,Robert,Lyew,Hartsville,SC,1:25:57,
+15,547018,Dillon,Hickey,Pleasantville,NY,1:26:05,
+16,412146,Eric,Hubbs,Bristol,TN,1:27:05,King University
 17,471804,JeanBrice,Duhamel,Wesley Chapel,FL,1:30:31,USF Cycling
 18,428144,William,Castrillon,Athens,GA,1:31:17,
 19,428522,Bergen,West,Lancaster,PA,1:34:21,
@@ -354,13 +354,13 @@ DNF,525291,Mark,Burnley,Orlando,FL,0:43:34,University of Central Florida
 
 03/25/2017 Road Race Men Collegiate A
 Place,License #,First,Last,City,State,Time,Team
-1,504799,Peter,Foerster,,,2:40:20,
+1,504799,Peter,Foerster,Atlanta,GA,2:40:20,
 2,392529,Brian,Sciba,Tallahassee,FL,2:40:30,Kelly Benefit Strategies Elite
 3,258439,Grayson,Brookshire,Hendersonville,NC,2:45:29,Chainheart Cycling Development Team
 4,431247,Taylor,Davis,Seale,AL,2:45:29,
 5,425551,Dylan,Cantrell,Mount Airy,GA,2:45:29,Piedmont College
 6,387328,andrew,GUELZO,Grand Rapids,MI,2:45:29,Team Athletic Mentors / GREENWAREUSA
-7,308175,Wilman,Vargas,Atlanta ,GA,2:45:30,Snyder Factory Racing
+7,308175,Wilman,Vargas,Atlanta,GA,2:45:30,Snyder Factory Racing
 8,178109,Andrew,Scarano,Athens,GA,2:45:30,Stradalli Cycle/Safetti
 9,352888,Wyatt,Myers,Victorville,CA,2:45:30,
 10,207381,Artur,Sagat,Roswell,GA,2:45:31,Pioneer Mortgage pb Yourkey.com
@@ -371,7 +371,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,330752,Clayton,Stone,Anthem,AZ,2:45:31,Superissimo
 16,454615,Ryan,Hopkins,Brandenburg,KY,2:45:32,Cycle Haus Racing
 17,276390,J. Colton,Brookshire,Hendersonville,NC,2:45:33,Chainheart Cycling Development Team
-18,478099,Paul,Gue,Louisville,KY,2:45:35,AlaCOMP Race Team
+18,478099,Paul,Gue,Auburn,AL,2:45:35,AlaCOMP Race Team
 19,295504,Kenneth,Hall,Columbia,KY,2:45:37,
 20,457120,Zachary,Lee,Anniston,AL,2:45:37,Mellow Mushroom Racing
 21,428099,Thomas,Morrison,Cartersville,GA,2:45:39,North Georgia Cycling Association Inc.
@@ -387,7 +387,7 @@ Place,License #,First,Last,City,State,Time,Team
 31,324900,David,Duquette,Gastonia,NC,2:46:23,
 32,390751,Kyle,Ellis,Cumming,GA,2:48:57,Cycle Youth
 33,298437,Nolan,Tankersley,Erwin ,TN,2:48:57,UCI CT: Lupus Racing Team
-34,353190,Alan,Edwards,Jacksonville,FL,2:48:58,VeloBrew Cycling Club
+34,353190,Alan,Edwards,Johnson City,TN,2:48:58,VeloBrew Cycling Club
 DNF,425753,Jacob,Schwyn,Oxford,AL,2:04:06,Mellow Mushroom Racing
 DNF,393692,Mark,Bischof,Strongsville,OH,0:51:13,Spin/Litzler Automation
 DNF,344528,lavelle,hatcher,Dayton,OH,0:51:42,Kreitler Racing Team
@@ -424,7 +424,7 @@ Place,License #,First,Last,City,State,Time,Team
 28,412426,Jared,Thornhill,Atlanta,GA,1:04:00,Team Mission Source / NGCA
 29,441068,David,Mcbeath,Mount Pleasant,SC,1:04:01,
 30,401512,Vladimir,Flores,Bufordsugar Hill,GA,1:04:02,Southern Crescent Cycling
-31,494731,Drew,Chaplain,Atlanta,GA,1:10:56,Team Mission Source / NGCA
+31,494731,Drew,Chaplain,Athens,GA,1:10:56,Team Mission Source / NGCA
 32,497705,Raymond,Little,Dacula,GA,1:11:08,
 33,528301,Richard,Grove,Dunwoody,GA,1:11:09,
 34,214734,John,Marshall,Ooltewah,TN,1:11:29,
@@ -439,7 +439,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,428356,Daniel,Podratsky,Tucker,GA,2:02:13,Prima Tappa Cycling p/b Mansfield Oil
 2,412885,Luis,Berrios,Roswell ,GA,2:02:13,
 3,361156,Charlie,Putnal,Flat Rock,NC,2:02:16,Crosstown Velo
-4,378432,Scott,Slusher,Atlanta ,GA,2:02:18,Arrow Bicycle
+4,378432,Scott,Slusher,Atlanta,GA,2:02:18,Arrow Bicycle
 5,442929,Collin,Tellechea,Medford,NJ,2:02:59,Amoroso's Racing Team
 6,405185,Thomas,Cross,Atlanta,GA,2:06:24,Team Mission Source / NGCA
 7,264605,George,Ciordas,Decatur,GA,2:24:13,Audi
@@ -449,12 +449,12 @@ DNF,367386,Trey,Griffin,Poulan,GA,1:36:17,PCP Race Team
 
 03/25/2017 Road Race Men Master 35+
 Place,License #,First,Last,City,State,Time,Team
-1,45167,James,Carney,Demorest ,GA,2:02:43,Piedmont Cycling
+1,45167,James,Carney,Demorest,GA,2:02:43,Piedmont Cycling
 2,376163,David,Koonce,Murfreesboro,TN,2:02:44,MOAB Masters Racing
 3,31617,Carter,Schmeck,Peachtree City,GA,2:02:44,Portable Rock Climbing/Ortho Atlanta
 4,385659,Tom,Golden,Apison,TN,2:02:45,Village VW Chattanooga Cycling Team
 5,264713,Michael,Carter,Atlanta,GA,2:02:46,Wahoo Fitness Masters Team
-6,528611,Ian,Fillinger,,,2:02:47,
+6,528611,Ian,Fillinger,,GA,2:02:47,
 7,428206,Daniel,Baccino,Lawrenceville,GA,2:02:47,Southern Crescent Cycling
 8,241069,Adam,Sitz,Atlanta,GA,2:02:54,Wahoo Fitness Masters Team
 9,395473,Conor,McNally,Decatur,GA,2:03:24,L5Flyers Cycling Team
@@ -467,7 +467,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,73313,George (rick),Richardson,Atlanta,GA,2:03:33,Wahoo Fitness Masters Team
 17,512689,Chris,Gutierez,Canton,GA,2:03:33,Free Flite Masters
 18,56716,Clay,Parks,Decatur,GA,2:03:35,
-19,173111,Charles,Rossignol,Atlanta,GA,2:03:38,Litespeed-BMW
+19,173111,Charles,Rossignol,Flagstaff,AZ,2:03:38,Litespeed-BMW
 20,459244,Paul,lawler,Alpharetta,GA,2:03:55,Reality Bikes Ambassador
 21,105218,Erik,VanName,Atlanta,GA,2:03:56,Wahoo Fitness Masters Team
 22,342494,Mark,Thompson,Albany,GA,2:04:56,
@@ -490,7 +490,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,59628,Terry,O'Toole,Atlanta,GA,2:02:54,Peachtree Bikes
 6,58089,Barry,Carswell,Columbus,GA,2:03:25,
 7,240265,Nello,Teer,Alpharetta,GA,2:03:25,Reality Bikes Ambassador
-8,256450,Timothy,Goodin,Chattanooga ,TN,2:03:25,Village VW Chattanooga Cycling Team
+8,256450,Timothy,Goodin,Chattanooga,TN,2:03:25,Village VW Chattanooga Cycling Team
 9,218219,Joe,Greenfeld,Roswell,GA,2:03:26,Wahoo Fitness Masters Team
 10,256353,Robert,Conatser,Cumming,GA,2:03:31,Reality Bikes Ambassador
 11,177493,John,Fillyaw,Atlanta,GA,2:03:31,Velo Voodoo
@@ -523,10 +523,10 @@ Place,License #,First,Last,City,State,Time,Team
 1,466276,Kathryn,Maeder,Powder Springs,GA,1:38:34,
 2,497075,Erin,Nalley,Brandon,MS,1:38:34,
 3,477048,Abby,Hobbs,Athens,GA,1:38:34,
-4,497036,Elizabeth,Keefer,Jacksonville,AL,1:39:04,
+4,497036,Elizabeth,Keefer,Auburn,AL,1:39:04,
 5,524655,Hayley,Guy,Tallahassee,FL,1:39:10,
 6,376192,Isabella,Nguy,Suwanee,GA,1:39:44,Frazier Cycling
-7,519139,Sophie,Allen,Asheville,NO,1:39:50,
+7,519139,Sophie,Allen,Asheville,NC,1:39:50,
 8,497252,Alison,Sunderhaft,Houston,TX,1:41:09,
 9,419163,Marie,Tutterow,Johnson City,TN,1:43:36,Team Heroes
 10,522154,Leah,Silverman,Brattleboro,VT,1:55:10,
@@ -569,7 +569,7 @@ Place,License #,First,Last,City,State,Time,Team
 03/25/2017 Time Trial Men Collegiate D
 Place,License #,First,Last,City,State,Time,Team
 1,528423,Dylan,Munn,Athens,GA,0:16:55,
-2,501755,Coleman,Camp,Naperville,IL,0:17:32,Savannah College of Art & Design - Savannah
+2,501755,Coleman,Camp,Savannah,GA,0:17:32,Savannah College of Art & Design - Savannah
 3,456371,Brian,John,Ringgold,GA,0:18:43,
 4,497314,Ross,Dungan,Savannah,GA,0:48:55,Savannah College of Art & Design - Savannah
 
@@ -577,7 +577,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,524062,Jacob,Varner,Auburn,AL,0:15:45,
 2,524938,Brady,Whicker,Auburn,AL,0:16:45,Auburn University
-3,497150,David Michael,Sweet,Wedowee,AL,0:16:53,Auburn University
+3,497150,David Michael,Sweet,Palo Alto,CA,0:16:53,Auburn University
 4,516679,Joseph,Werble,Barnesville,MD,0:17:36,
 5,525766,Dylan,Ogle,Athens,GA,0:23:40,
 
@@ -586,7 +586,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,396501,Derek,Birch,Tampa,FL,0:15:41,USF Cycling
 2,494857,Christian,Acker,Clemson,SC,0:15:58,Clemson University
 3,471804,JeanBrice,Duhamel,Wesley Chapel,FL,0:16:20,USF Cycling
-4,503564,Dillon,Hickey,Pleasantville,NY,0:16:24,
+4,547018,Dillon,Hickey,Pleasantville,NY,0:16:24,
 5,448477,Andrew,Baldwin,Franklin,NC,0:16:37,
 6,466013,Hayden,Cox,Johns Creek,GA,0:16:38,
 7,308241,Jason,McArthur,Tallahassee,FL,0:16:40,Florida State University
@@ -597,8 +597,8 @@ Place,License #,First,Last,City,State,Time,Team
 03/25/2017 Time Trial Men Collegiate A
 Place,License #,First,Last,City,State,Time,Team
 1,178109,Andrew,Scarano,Athens,GA,0:14:08,Stradalli Cycle/Safetti
-2,308175,Wilman,Vargas,Atlanta ,GA,0:14:29,Snyder Factory Racing
-3,504799,Peter,Foerster,,,0:14:39,
+2,308175,Wilman,Vargas,Atlanta,GA,0:14:29,Snyder Factory Racing
+3,504799,Peter,Foerster,Atlanta,GA,0:14:39,
 4,477021,Alec,Harp,Lilburn,GA,0:15:00,
 5,207381,Artur,Sagat,Roswell,GA,0:15:21,Pioneer Mortgage pb Yourkey.com
 6,424393,Spencer,Crowe,Greer,SC,0:15:47,C360R Cycling Team
@@ -612,7 +612,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,528745,Paulo,Barros,Mableton,GA,0:17:14,
 3,214734,John,Marshall,Ooltewah,TN,0:17:53,
 4,383588,Shaune,Huysamen,Canton,GA,0:17:58,Team Whitetail Bicycles p/b Pure Taqueria/Blueprint
-5,494731,Drew,Chaplain,Atlanta,GA,0:18:42,Team Mission Source / NGCA
+5,494731,Drew,Chaplain,Athens,GA,0:18:42,Team Mission Source / NGCA
 
 03/25/2017 Time Trial Men Cat 3
 Place,License #,First,Last,City,State,Time,Team
@@ -644,7 +644,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,524762,Amalia,Restrepo,Savannah,GA,0:19:19,
 7,419163,Marie,Tutterow,Johnson City,TN,0:19:37,Team Heroes
 8,497252,Alison,Sunderhaft,Houston,TX,0:20:25,
-9,497036,Elizabeth,Keefer,Jacksonville,AL,0:20:49,
+9,497036,Elizabeth,Keefer,Auburn,AL,0:20:49,
 10,525194,Xaviera,Coral,Atlanta,GA,0:21:41,
 11,525192,Daniela,Flores Arias,Atlanta,GA,0:21:56,
 

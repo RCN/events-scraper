@@ -12,7 +12,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,307228,Oliver,FLAUTT,Norcross,CO,0:57:10,303 Project
 9,459871,Brandon,BAKER,Santa Barbara,CA,0:57:10,Men of steel
 10,200766,Michael,DUTCZAK,Crete,IL,0:57:10,
-11,263035,Andrew,GINIAT,Winnetka,IL,0:57:10,Project Echelon Racing
+11,263035,Andrew,GINIAT,Asheville,NC,0:57:10,Project Echelon Racing
 12,224173,Cory,WILLIAMS,Los Angeles,CA,0:57:10,Elevate-KHS Pro Cycling
 13,320582,Matt,ZIMMER,Dewitt ,IA,0:57:10,Gateway Harley-Davidson Trek U25
 14,287780,Taylor,WARREN,San Diego,CA,0:57:10,303 Project
@@ -50,7 +50,7 @@ Place,License #,First,Last,City,State,Time,Team
 46,236923,Conner,BROWN,Grandview,MO,0:57:31,Elevate-KHS Pro Cycling
 47,409776,Alex,HOEHN,Lenexa,KS,0:57:31,Elevate-KHS Pro Cycling
 48,115698,Martin,ADAMCZYK,San Diego,CA,0:57:41,SDBC/EMERALD TEXTILES p/b UC Cyclery
-49,2443,John,BALMER,Indianapolis ,IN,0:57:41,Century Road Club of America
+49,2443,John,BALMER,Indianapolis,IN,0:57:41,Century Road Club of America
 50,426188,Cory,LOCKWOOD,Tehachapi,CA,0:57:41,Elevate-KHS Pro Cycling
 51,0,Alan,DE LA CRUZ,,,0:57:44,Joyerias Meza
 52,484046,Juan Jose,GARCIA,,,0:57:44,Joyerias Meza
@@ -64,7 +64,7 @@ Place,License #,First,Last,City,State,Time,Team
 02/19/2017 Criterium Men Masters 35+
 Place,License #,First,Last,City,State,Time,Team
 1,65615,Brian,FORBES,Tucson,AZ,0:28:50,Stone House Group p/b Monster Media Racing
-2,58176,Nathan,ROGUT,Tampa,FL,0:28:54,Velobrew-AV Homes
+2,58176,Nathan,ROGUT,Rock Hill,SC,0:28:54,Velobrew-AV Homes
 3,165840,Danny,KAM,Las Vegas,NV,0:28:56,Monster Media Elite Masters
 4,298554,Lee,HODGIN,Escondido,CA,0:29:00,Swami's Cycling
 5,28056,Kevin,PHILLIPS,Redondo Beach,CA,0:29:00,ironfly internet llc
@@ -78,7 +78,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,360114,Noah,GRASSI,Las Vegas,NV,0:29:00,Swami's Cycling
 14,189872,David,ROUS,Bakersfield,CA,0:29:00,VBZ Cycling Team
 15,377487,Brendon,ZINKE,Coronado,CA,0:29:00,Swami's Cycling
-16,87933,Paul,THOMAS,Gilbert ,AZ,0:29:00,Stone House Group p/b Monster Media Racing
+16,87933,Paul,THOMAS,Gilbert,AZ,0:29:00,Stone House Group p/b Monster Media Racing
 17,237159,Scott,WALL,Scottsdale,AZ,0:29:00,Carlos O'Briens Racing
 18,238313,Troy,HUERTA,Carlsbad,CA,0:29:00,Swamis Cycling
 19,396315,Daniel,FERNANDEZ,Boulder,CO,0:29:00,Sonic Boom Racing p/b Lucky Pie
@@ -152,7 +152,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,45045,Tom,BAIN,San Antonio,TX,0:28:45,Geri Atrix
 3,428440,Kenneth,STARCKE,Tucson,AZ,0:28:47,Cyclefit Solutions Racing
 4,179491,Ken,LOUDER,Salt Lake City,UT,0:28:57,FFKR Architects Racing
-5,245777,Steve,BORER,Show Low,AZ,0:29:02,Fleming Wealth Strategies
+5,245777,Steve,BORER,Laguna Hills,CA,0:29:02,Fleming Wealth Strategies
 
 02/19/2017 Criterium Men Juniors 13-14
 Place,License #,First,Last,City,State,Time,Team
@@ -196,7 +196,7 @@ Place,License #,First,Last,City,State,Time,Team
 21,440044,Juan David Buitrago,BUITRAGO,Homestead,FL,0:28:23,Buitrago Team
 22,461044,Victor,AGUILAR,San Diego,CA,0:28:23,Team Velosport
 23,381215,Lance,ARAIZA,Lakewood,CA,0:28:23,Celo Pacific
-24,494503,Jean-Luc,CONTANT-GALITELLO,Pompano Beach,FL,0:28:23,Interactive Metronome
+24,494503,Jean-Luc,CONTANT-GALITELLO,Coconut Creek,FL,0:28:23,Interactive Metronome
 25,361294,Brennan,HODGINS,Mercer Island,WA,0:28:23,Apex Racing
 26,458901,Andres,ALVAREZ,Camarillo,CA,0:28:23,KLTS Junior Development Team
 27,475263,Gabriel,SHIPLEY,Polson,MT,0:28:23,
@@ -325,7 +325,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,273223,Andrew,RANKINE,Phoenix,AZ,0:27:29,Mullet Mountaineering
 4,390828,Timothy,SHANNON,Waddell,AZ,0:27:33,Team Santini USA
 5,395731,Buzz,WRIGHT,Tucson,AZ,0:27:33,Christian Cycling - Tucson
-6,503760,Mitchell,REIDT,Clayton,MO,0:27:33,
+6,503760,Mitchell,REIDT,Denver,CO,0:27:33,
 7,455199,Derek,SHIPLEY,Denver,CO,0:27:33,Thump Cycling
 8,406945,Ryan,CHRISTIANSON,Grand Junction,CO,0:27:33,Natural Grocers Cycling Team
 9,412331,Ivan,FERNANDEZ,Carson,CA,0:27:33,Big Orange Cycling
@@ -346,7 +346,7 @@ Place,License #,First,Last,City,State,Time,Team
 24,250783,Mark,TERRIQUEZ,Lake Havasu City,AZ,0:27:37,Team Winded
 25,493545,Paul,IMLER,Irvine,CA,0:27:44,Team Velosport
 26,351286,Charles,BOCH,Scottsdale,AZ,0:27:44,Team Santini USA
-27,366670,David,PLATON,Avondale ,AZ,0:27:53,Team Santini USA
+27,366670,David,PLATON,Avondale,AZ,0:27:53,Team Santini USA
 28,382232,Cody,JUTOVSKY,Palm Desert,CA,0:28:13,Jessup Auto Plaza
 
 02/19/2017 Criterium Men Cat 3
@@ -386,7 +386,7 @@ Place,License #,First,Last,City,State,Time,Team
 33,440999,Edgar,RIVAS,Las Vegas,NV,0:35:45,Pacific Premier Bank cycling Team
 34,460291,Nicholas,WIRSKI,Scottsdale,AZ,0:35:45,Athlete Octane Racing
 35,422196,Peter,EPSTEEN,Westlake Village,CA,0:35:45,Team Velosport
-36,107784,Kevin,HARSLEY,Pasadena,CA,0:35:45,Stone House Group p/b Monster Media Racing
+36,107784,Kevin,HARSLEY,Chandler,AZ,0:35:45,Stone House Group p/b Monster Media Racing
 37,335860,Clint,BLUESTEIN,Phoenix,AZ,0:35:45,San Tan Racing
 38,428380,Tony,MONTEFERRANTE,Scottsdale,AZ,0:35:45,The Velo Ambassador Team
 39,292369,David,GARCIA,San Diego,CA,0:35:45,San Diego Bicycle Club
@@ -395,7 +395,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 02/19/2017 Criterium Men Cat 2
 Place,License #,First,Last,City,State,Time,Team
-1,364772,Luke,OLLETT,Simi Valley,CA,0:40:56,OC Armada
+1,364772,Luke,OLLETT,Los Angeles,CA,0:40:56,OC Armada
 2,270354,Spencer,DOWNING,Boulder,CO,0:40:56,Panache Houndstooth Racing
 3,414050,Dante,YOUNG,Pacoima,CA,0:40:56,Endo Concept Team
 4,291935,James,HILYER,Durango,CO,0:40:56,
@@ -455,16 +455,16 @@ Place,License #,First,Last,City,State,Time,Team
 
 02/19/2017 Criterium Women Pro/Cat 1/2
 Place,License #,First,Last,City,State,Time,Team
-1,186919,Kendall,RYAN,Ventura,CA,0:36:40,Team TIBCO - Silicon Valley Bank
+1,186919,Kendall,RYAN,Camarillo,CA,0:36:40,Team TIBCO - Silicon Valley Bank
 2,419415,Megan,JASTRAB,Apple Valley,CA,0:36:44,Swami's Junior Development Team
-3,308334,Heather,FISCHER,Del Rio,TX,0:36:46,Team TIBCO - Silicon Valley Bank
+3,308334,Heather,FISCHER,Boulder,CO,0:36:46,Team TIBCO - Silicon Valley Bank
 4,288678,Lauren,STEPHENS,Dallas,TX,0:36:50,Team TIBCO - Silicon Valley Bank
 5,420158,Hanna,MUEGGE,Marina,CA,0:36:50,Visit Dallas DNA Pro Cycling
 6,294884,Holly,MATHEWS,Madison,WI,0:36:50,IS Corp Cycling
-7,317802,Holly,BRECK,Santa Ynez,CA,0:36:50,Sho-Air TWENTY20
+7,317802,Holly,BRECK,San Dimas,CA,0:36:50,Sho-Air TWENTY20
 8,394701,Kimberly,LUCIE,Tucson,AZ,0:36:50,Stone House Group p/b Monster Media Racing
 9,89443,Tiffany,PEZZULO,Salt Lake City,UT,0:36:50,LA Sweat
-10,332072,Kaitlin,CLOUSE,Littleton ,CO,0:36:50,Visit Dallas DNA Pro Cycling
+10,332072,Kaitlin,CLOUSE,Park City,UT,0:36:50,Visit Dallas DNA Pro Cycling
 11,418082,Erica,CLEVENGER,Tucson,AZ,0:36:50,Landis/Trek
 12,230062,Erica,ZAVETA,Brevard,NC,0:36:50,Cylance Womens Pro Cycling
 13,395130,Melanie,BEALE,Boulder,CO,0:36:50,LA Sweat
@@ -473,7 +473,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,353542,Brianna,WALLE,Beaverton,OR,0:36:50,Team TIBCO - Silicon Valley Bank
 17,423633,Esther,WALKER,San Diego,CA,0:36:50,SDBC/EMERALD TEXTILES p/b UC Cyclery
 18,481054,Julyn,AGUILA,El Paso,TX,0:36:50,SDBC
-19,230397,Shayna,POWLESS,Roseville,CA,0:36:50,Sho-Air TWENTY20
+19,230397,Shayna,POWLESS,Jacksonville,FL,0:36:50,Sho-Air TWENTY20
 20,401364,Leah,THOMAS,Boulder Creek,CA,0:36:50,Sho-Air TWENTY20
 21,280870,Jennifer,LUEBKE,Bend,OR,0:36:50,Visit Dallas DNA Pro Cycling
 22,310825,Aliya,TRAFICANTE,Chico,CA,0:36:50,Folsom Bike/Trek
@@ -482,7 +482,7 @@ Place,License #,First,Last,City,State,Time,Team
 25,0,Andrea,FREGROSA,,,0:36:50,CRAZY CAT/SPECIALIZED U23
 26,380330,Lex,ALBRECHT,,,0:36:50,Team TIBCO - Silicon Valley Bank
 27,404315,Tabitha,SHERWOOD,Culver,IN,0:36:50,Pastaria-Big Shark Racing
-28,343484,Summer,MOAK,Phoenix,AZ,0:36:50,Sho-Air TWENTY20
+28,343484,Summer,MOAK,Scottsdale,AZ,0:36:50,Sho-Air TWENTY20
 29,516158,Marie-Soleil,BLAIS,,,0:36:50,Independent
 30,279796,Anna,Sparks,Phoenix,AZ,0:36:50,Visit Dallas DNA Pro Cycling
 31,292211,Jennifer,TETRICK,Sausalito,CA,0:36:50,Team TIBCO - Silicon Valley Bank
@@ -493,7 +493,7 @@ Place,License #,First,Last,City,State,Time,Team
 36,266674,Kathryn,DONOVAN,Oxnard,CA,0:36:50,Visit Dallas DNA Pro Cycling
 37,408322,Emily,NEWSOM,Fort Worth,TX,0:36:50,Team Elevate Racing
 38,0,Ingrid,DREXEL CLOUTHIER,,,0:36:50,Team TIBCO - Silicon Valley Bank
-39,263791,Breanne,NALDER,Murray,UT,0:37:00,Visit Dallas DNA Pro Cycling
+39,263791,Breanne,NALDER,Millcreek,UT,0:37:00,Visit Dallas DNA Pro Cycling
 40,485546,Emily,JORDAN,Denver,CO,0:37:02,Palmares Racing
 41,272063,Lindsay,MYERS,Paradise,CA,0:37:08,Team TIBCO - Silicon Valley Bank
 42,355510,Megan,DOHERTY,Bellevue,WA,0:37:08,SCCA/Starbucks Cycling
@@ -554,7 +554,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 02/19/2017 Criterium Women Cat 3
 Place,License #,First,Last,City,State,Time,Team
-1,492481,Emily,RODGER,,,0:29:35,The Velo Ambassador Team
+1,492481,Emily,RODGER,Scottsdale,AZ,0:29:35,The Velo Ambassador Team
 2,45109,Sheri,BALDWIN,Cambria,CA,0:29:39,Foothill Cycles
 3,481033,Lucia,CARRENO,El Paso,TX,0:29:41,CRAZY CAT/SPECIALIZED U23
 4,364652,Ava,SYKES,Athens,GA,0:29:45,Sho-Air TWENTY20
@@ -566,7 +566,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,458894,Sandra,FREEMAN,Morgan Hill,CA,0:29:45,JLVelo Cycling Team p/b The Freewheel
 11,489718,Alexandra,REICH,La Jolla,CA,0:29:45,SDBC/EMERALD TEXTILES p/b UC Cyclery
 12,459115,Melanie,QUINONES,Kissimmee,FL,0:29:45,Orlando Road Club
-13,422238,Sawyer,TAYLOR,Greenbrae,CA,0:29:45,Team Swift
+13,422238,Sawyer,TAYLOR,San Rafael,CA,0:29:45,Team Swift
 14,522301,Ellie,WOOD,Tucson,AZ,0:29:45,Tolero Racing
 15,418443,Patricia,MURRAY,San Diego,CA,0:29:45,SDBC/EMERALD TEXTILES p/b UC Cyclery
 16,297265,Cheyenne,COMER,San Marcos,CA,0:29:45,CRAZY CAT/SPECIALIZED U23
@@ -620,7 +620,7 @@ Place,License #,First,Last,City,State,Time,Team
 37,264204,Richard,ARNOPOL,Boulder,CO,5:20:03,Primal/Audi-Denver
 38,316972,Erick,SOBEY,Ventura,CA,5:20:36,UA
 39,200766,Michael,DUTCZAK,Crete,IL,5:20:56,
-40,263035,Andrew,GINIAT,Winnetka,IL,5:21:09,Project Echelon Racing
+40,263035,Andrew,GINIAT,Asheville,NC,5:21:09,Project Echelon Racing
 41,169774,Brian,MCCULLOCH,Yucaipa,CA,5:21:31,Elevate-KHS Pro Cycling
 42,484046,Juan Jose,GARCIA,,,5:21:38,Joyerias Meza
 43,394404,Darin,MORGAN,Sacramento,CA,5:22:20,Dolce Vita Freewheel p/b SL2
@@ -631,7 +631,7 @@ Place,License #,First,Last,City,State,Time,Team
 48,359379,Daniel,PARKMAN,Tucson,AZ,5:30:32,Stone House Group p/b Monster Media Racing
 49,330938,Joseph,BACALA,Albuquerque,NM,5:34:20,4D Racing
 50,311386,Maxwell,Ackermann,Madison,WI,5:38:20,Gateway Harley-Davidson Trek U25
-51,2443,John,BALMER,Indianapolis ,IN,5:40:32,Century Road Club of America
+51,2443,John,BALMER,Indianapolis,IN,5:40:32,Century Road Club of America
 52,243267,Marcus,CANNON,Redlands,CA,5:41:51,Cyclery USA
 53,377954,Willem,KAISER,Atlanta,GA,5:44:15,Gateway Harley-Davidson Trek U25
 54,0,Alan,DE LA CRUZ,,,5:46:57,Joyerias Meza
@@ -641,7 +641,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 02/19/2017 Stage Race Men Masters 35+
 Place,License #,First,Last,City,State,Time,Team
-1,87933,Paul,THOMAS,Gilbert ,AZ,3:36:05,Stone House Group p/b Monster Media Racing
+1,87933,Paul,THOMAS,Gilbert,AZ,3:36:05,Stone House Group p/b Monster Media Racing
 2,170964,Rob,ALVAREZ,Tucson,AZ,3:37:12,Stone House Group p/b Monster Media Racing
 3,200063,Matthew,WIKSTROM,Los Angeles,CA,3:37:14,Santa Monica BMW Helen's Cycles Racing
 4,303908,Greg,KOGUT,San Diego,CA,3:37:45,Swami's Cycling
@@ -663,7 +663,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,298554,Lee,HODGIN,Escondido,CA,4:03:38,Swami's Cycling
 21,165840,Danny,KAM,Las Vegas,NV,4:06:53,Monster Media Elite Masters
 22,357164,Terry,STEEVES,Henderson,NV,4:09:14,Monster Media Elite Masters
-23,58176,Nathan,ROGUT,Tampa,FL,4:15:54,Velobrew-AV Homes
+23,58176,Nathan,ROGUT,Rock Hill,SC,4:15:54,Velobrew-AV Homes
 
 02/19/2017 Stage Race Men Masters 45+
 Place,License #,First,Last,City,State,Time,Team
@@ -728,7 +728,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,45045,Tom,BAIN,San Antonio,TX,3:07:37,Geri Atrix
 2,466441,Steven,LONG,Vail,AZ,3:07:55,Cyclefit Solutions Racing
-3,245777,Steve,BORER,Show Low,AZ,3:12:08,Fleming Wealth Strategies
+3,245777,Steve,BORER,Laguna Hills,CA,3:12:08,Fleming Wealth Strategies
 4,428440,Kenneth,STARCKE,Tucson,AZ,3:14:02,Cyclefit Solutions Racing
 5,179491,Ken,LOUDER,Salt Lake City,UT,3:20:26,FFKR Architects Racing
 
@@ -760,7 +760,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,331894,Grover,ROZEK,Folsom,CA,3:14:58,Reliable/Taco Bell Racing p/b Kinetic Cycles
 8,423649,Roberto,PEREZ,Fullerton,CA,3:15:22,Team Velocity
 9,458901,Andres,ALVAREZ,Camarillo,CA,3:15:23,KLTS Junior Development Team
-10,494503,Jean-Luc,CONTANT-GALITELLO,Pompano Beach,FL,3:15:24,Interactive Metronome
+10,494503,Jean-Luc,CONTANT-GALITELLO,Coconut Creek,FL,3:15:24,Interactive Metronome
 11,406824,Creighton,GRUBER,Chico,CA,3:15:50,Team Swift
 12,457573,Erik,CASTILLO,Duarte,CA,3:15:58,NCCF Team Specialized Racing Juniors
 13,361294,Brennan,HODGINS,Mercer Island,WA,3:16:00,Apex Racing
@@ -909,9 +909,9 @@ Place,License #,First,Last,City,State,Time,Team
 10,353262,Ryan,HENTZ,Durango,CO,3:04:39,Bikeman.com
 11,406945,Ryan,CHRISTIANSON,Grand Junction,CO,3:04:48,Natural Grocers Cycling Team
 12,493545,Paul,IMLER,Irvine,CA,3:04:51,Team Velosport
-13,366670,David,PLATON,Avondale ,AZ,3:04:52,Team Santini USA
+13,366670,David,PLATON,Avondale,AZ,3:04:52,Team Santini USA
 14,395731,Buzz,WRIGHT,Tucson,AZ,3:05:07,Christian Cycling - Tucson
-15,503760,Mitchell,REIDT,Clayton,MO,3:05:26,
+15,503760,Mitchell,REIDT,Denver,CO,3:05:26,
 16,522242,Kyle,BERG,Phoenix,AZ,3:05:49,Athlete Octane Racing
 17,455199,Derek,SHIPLEY,Denver,CO,3:05:58,Thump Cycling
 18,156549,Ed,VASQUEZ,Mesa,AZ,3:06:32,Athlete Octane Racing
@@ -949,7 +949,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,309142,J,CARNES,Flagstaff,AZ,4:41:20,Pay 'N Take
 20,458981,Malik,MARIANO,Kamuela,HI,4:41:29,Bikeworks Hawaii
 21,0,Rolando,TRILLO,,,4:41:41,EP Cyclists
-22,107784,Kevin,HARSLEY,Pasadena,CA,4:42:23,Stone House Group p/b Monster Media Racing
+22,107784,Kevin,HARSLEY,Chandler,AZ,4:42:23,Stone House Group p/b Monster Media Racing
 23,425254,Fredd,CORPUZ,Denver,CO,4:42:34,Palmares Racing
 24,381244,Zach,ELZI,Golden,CO,4:42:38,Prestige Imports/Porsche/Audi Race Team
 25,467758,Nigel,DE SOTA,Long Beach,CA,4:43:00,Southbay Wheelmen
@@ -1006,7 +1006,7 @@ Place,License #,First,Last,City,State,Time,Team
 33,393590,Leigh,THURGOOD,Seattle,WA,5:16:54,TenSpeedHero
 34,258824,Ryan,OAKES,Chico,CA,5:16:55,AMain Cycling Team
 35,394191,Michael,BARKER,Placentia,CA,5:16:57,SoCalCycling.com Team
-36,364772,Luke,OLLETT,Simi Valley,CA,5:16:59,OC Armada
+36,364772,Luke,OLLETT,Los Angeles,CA,5:16:59,OC Armada
 37,367364,Zack,SHONE,Phoenix,AZ,5:17:01,Athlete Octane Racing
 38,425514,Chris,EDMUNDS,Long Beach,CA,5:18:35,Team Velocity
 39,403794,Cody,HOGGATT,Colorado Springs,CO,5:19:43,COS Racing
@@ -1046,24 +1046,24 @@ Place,License #,First,Last,City,State,Time,Team
 13,279796,Anna,Sparks,Phoenix,AZ,4:02:40,Visit Dallas DNA Pro Cycling
 14,292211,Jennifer,TETRICK,Sausalito,CA,4:02:43,Team TIBCO - Silicon Valley Bank
 15,380330,Lex,ALBRECHT,,,4:02:47,Team TIBCO - Silicon Valley Bank
-16,263791,Breanne,NALDER,Murray,UT,4:02:48,Visit Dallas DNA Pro Cycling
+16,263791,Breanne,NALDER,Millcreek,UT,4:02:48,Visit Dallas DNA Pro Cycling
 17,420158,Hanna,MUEGGE,Marina,CA,4:02:53,Visit Dallas DNA Pro Cycling
 18,266674,Kathryn,DONOVAN,Oxnard,CA,4:03:01,Visit Dallas DNA Pro Cycling
 19,423633,Esther,WALKER,San Diego,CA,4:03:17,SDBC/EMERALD TEXTILES p/b UC Cyclery
 20,499855,Jessica,BONILLA,El Paso,TX,4:03:23,CRAZY CAT/SPECIALIZED U23
 21,256409,Amy,CHANDOS,Flagstaff,AZ,4:03:34,Bicycle Haus Racing
-22,308334,Heather,FISCHER,Del Rio,TX,4:03:42,Team TIBCO - Silicon Valley Bank
+22,308334,Heather,FISCHER,Boulder,CO,4:03:42,Team TIBCO - Silicon Valley Bank
 23,0,Andrea,FREGROSA,,,4:03:53,CRAZY CAT/SPECIALIZED U23
 24,394701,Kimberly,LUCIE,Tucson,AZ,4:04:00,Stone House Group p/b Monster Media Racing
-25,186919,Kendall,RYAN,Ventura,CA,4:04:14,Team TIBCO - Silicon Valley Bank
-26,230397,Shayna,POWLESS,Roseville,CA,4:04:22,Sho-Air TWENTY20
+25,186919,Kendall,RYAN,Camarillo,CA,4:04:14,Team TIBCO - Silicon Valley Bank
+26,230397,Shayna,POWLESS,Jacksonville,FL,4:04:22,Sho-Air TWENTY20
 27,419415,Megan,JASTRAB,Apple Valley,CA,4:04:33,Swami's Junior Development Team
-28,343484,Summer,MOAK,Phoenix,AZ,4:04:45,Sho-Air TWENTY20
+28,343484,Summer,MOAK,Scottsdale,AZ,4:04:45,Sho-Air TWENTY20
 29,272063,Lindsay,MYERS,Paradise,CA,4:05:19,Team TIBCO - Silicon Valley Bank
 30,395130,Melanie,BEALE,Boulder,CO,4:05:19,LA Sweat
-31,317802,Holly,BRECK,Santa Ynez,CA,4:05:28,Sho-Air TWENTY20
+31,317802,Holly,BRECK,San Dimas,CA,4:05:28,Sho-Air TWENTY20
 32,485546,Emily,JORDAN,Denver,CO,4:05:29,Palmares Racing
-33,332072,Kaitlin,CLOUSE,Littleton ,CO,4:05:35,Visit Dallas DNA Pro Cycling
+33,332072,Kaitlin,CLOUSE,Park City,UT,4:05:35,Visit Dallas DNA Pro Cycling
 34,481054,Julyn,AGUILA,El Paso,TX,4:05:55,SDBC
 35,89443,Tiffany,PEZZULO,Salt Lake City,UT,4:06:12,LA Sweat
 36,310825,Aliya,TRAFICANTE,Chico,CA,4:06:45,Folsom Bike/Trek
@@ -1131,7 +1131,7 @@ Place,License #,First,Last,City,State,Time,Team
 02/19/2017 Stage Race Women Cat 3
 Place,License #,First,Last,City,State,Time,Team
 1,489718,Alexandra,REICH,La Jolla,CA,4:22:49,SDBC/EMERALD TEXTILES p/b UC Cyclery
-2,492481,Emily,RODGER,,,4:25:00,The Velo Ambassador Team
+2,492481,Emily,RODGER,Scottsdale,AZ,4:25:00,The Velo Ambassador Team
 3,458894,Sandra,FREEMAN,Morgan Hill,CA,4:25:36,JLVelo Cycling Team p/b The Freewheel
 4,356858,Shannon,WRIGHT,Grand Rapids,MI,4:26:27,Speed Merchants Racing Team
 5,45109,Sheri,BALDWIN,Cambria,CA,4:26:28,Foothill Cycles
@@ -1149,7 +1149,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,110307,Renee,ROBINSON,Carlsbad,CA,4:29:01,SDBC/EMERALD TEXTILES p/b UC Cyclery
 18,423755,Jocelyn,BONHAM,Tucson,AZ,4:29:54,Team Broadway Bicycles
 19,428718,Melody,MCLEOD,Brooksville,FL,4:30:03,Sho-Air TWENTY20
-20,422238,Sawyer,TAYLOR,Greenbrae,CA,4:30:32,Team Swift
+20,422238,Sawyer,TAYLOR,San Rafael,CA,4:30:32,Team Swift
 21,312388,Elizabeth,KORINEK,Scottsdale,AZ,4:31:03,The Velo Ambassador Team
 22,457672,Sarah,POSNER,Sedona,AZ,4:33:39,Landis/Trek
 23,297265,Cheyenne,COMER,San Marcos,CA,4:50:32,CRAZY CAT/SPECIALIZED U23
@@ -1204,7 +1204,7 @@ Place,License #,First,Last,City,State,Time,Team
 45,394102,Adam,BRYFOGLE,Tucson,AZ,3:51:15,Landis/Trek
 46,334878,Eric,HILL,Waukesha,WI,3:51:23,Project Echelon Racing
 47,253798,Michael,DZIEDZIC,Tempe,AZ,3:51:33,Landis/Trek
-48,263035,Andrew,GINIAT,Winnetka,IL,3:51:36,Project Echelon Racing
+48,263035,Andrew,GINIAT,Asheville,NC,3:51:36,Project Echelon Racing
 49,382065,David,GREIF,Tucson,AZ,3:52:32,Sabino Cycles Racing
 50,359379,Daniel,PARKMAN,Tucson,AZ,3:54:37,Stone House Group p/b Monster Media Racing
 51,394404,Darin,MORGAN,Sacramento,CA,3:54:37,Dolce Vita Freewheel p/b SL2
@@ -1212,7 +1212,7 @@ Place,License #,First,Last,City,State,Time,Team
 53,311386,Maxwell,Ackermann,Madison,WI,4:06:46,Gateway Harley-Davidson Trek U25
 54,330938,Joseph,BACALA,Albuquerque,NM,4:06:46,4D Racing
 55,243091,Thomas,JONDALL,Tucson,AZ,4:08:55,Landis/Trek
-56,2443,John,BALMER,Indianapolis ,IN,4:09:48,Century Road Club of America
+56,2443,John,BALMER,Indianapolis,IN,4:09:48,Century Road Club of America
 57,243267,Marcus,CANNON,Redlands,CA,4:12:39,Cyclery USA
 58,377954,Willem,KAISER,Atlanta,GA,4:13:47,Gateway Harley-Davidson Trek U25
 59,0,Alan,DE LA CRUZ,,,4:14:45,Joyerias Meza
@@ -1228,7 +1228,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,511731,Rob,RIGG,Carlsbad,CA,2:36:24,Swami's Cycling
 4,28056,Kevin,PHILLIPS,Redondo Beach,CA,2:37:23,ironfly internet llc
 5,360114,Noah,GRASSI,Las Vegas,NV,2:37:29,Swami's Cycling
-6,87933,Paul,THOMAS,Gilbert ,AZ,2:37:29,Stone House Group p/b Monster Media Racing
+6,87933,Paul,THOMAS,Gilbert,AZ,2:37:29,Stone House Group p/b Monster Media Racing
 7,282099,Jonathan,CAVNER,Colorado Springs,CO,2:37:38,Sonic Boom Racing p/b Lucky Pie
 8,303908,Greg,KOGUT,San Diego,CA,2:37:39,Swami's Cycling
 9,65615,Brian,FORBES,Tucson,AZ,2:37:53,Stone House Group p/b Monster Media Racing
@@ -1245,7 +1245,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,52923,Klayton,SPROLES,Corona,CA,2:56:19,Raceklean
 21,165840,Danny,KAM,Las Vegas,NV,2:58:55,Monster Media Elite Masters
 22,298554,Lee,HODGIN,Escondido,CA,3:02:14,Swami's Cycling
-23,58176,Nathan,ROGUT,Tampa,FL,3:07:28,Velobrew-AV Homes
+23,58176,Nathan,ROGUT,Rock Hill,SC,3:07:28,Velobrew-AV Homes
 24,357164,Terry,STEEVES,Henderson,NV,3:07:28,Monster Media Elite Masters
 
 02/18/2017 Road Race Men Masters 45+
@@ -1279,7 +1279,7 @@ Place,License #,First,Last,City,State,Time,Team
 27,363531,Dane,EMDE,Fort Collins,CO,2:48:02,GR Capital
 28,523573,Bud,LACOMBE,Scottsdale,AZ,2:48:04,Bicycle Haus Racing
 29,362518,Scott,KURBAN,Lone Tree,CO,2:48:04,Groove Subaru Excel Sports
-30,119446,Allyn,SMITH,Saint Joseph,MO,2:48:15,Team Winded
+30,119446,Allyn,SMITH,St Joseph,MO,2:48:15,Team Winded
 31,360237,Terry,JOHNES,San Diego,CA,2:48:42,Sun Coast Velo - UCC/JW Flooring
 32,94207,Jim,PAPPE,Bakersfield,CA,2:48:42,Cannondale Capo Masters pb GQ-6
 33,76192,Kevin,COLLINS,Grand Rapids,MI,2:49:02,Speed Merchants Racing Team
@@ -1326,7 +1326,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,466441,Steven,LONG,Vail,AZ,2:04:52,Cyclefit Solutions Racing
 2,45045,Tom,BAIN,San Antonio,TX,2:04:58,Geri Atrix
 3,58212,Philip,HOLMAN,Tucson,AZ,2:05:19,Tucson Masters Cycling
-4,245777,Steve,BORER,Show Low,AZ,2:07:20,Fleming Wealth Strategies
+4,245777,Steve,BORER,Laguna Hills,CA,2:07:20,Fleming Wealth Strategies
 5,428440,Kenneth,STARCKE,Tucson,AZ,2:07:20,Cyclefit Solutions Racing
 6,179491,Ken,LOUDER,Salt Lake City,UT,2:17:41,FFKR Architects Racing
 
@@ -1363,7 +1363,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,376116,Nikolas,LOVEGREN,Lakewood,CA,2:11:50,KLTS Junior Development Team
 13,361385,Tyler,REYNOLDS,Pella,IA,2:11:50,Andrie Junior Development Team
 14,393676,Eddy,HUNTSMAN,Newport Coast,CA,2:11:50,GS Andiamo-West Side Wheelmen
-15,494503,Jean-Luc,CONTANT-GALITELLO,Pompano Beach,FL,2:11:50,Interactive Metronome
+15,494503,Jean-Luc,CONTANT-GALITELLO,Coconut Creek,FL,2:11:50,Interactive Metronome
 16,475263,Gabriel,SHIPLEY,Polson,MT,2:11:50,
 17,369359,Iain,MACKEITH,Mc Lean,VA,2:11:50,NCVC/UnitedHealthcare
 18,440044,Juan David Buitrago,BUITRAGO,Homestead,FL,2:11:50,Buitrago Team
@@ -1495,12 +1495,12 @@ Place,License #,First,Last,City,State,Time,Team
 6,354450,Joe,PAVLIK,Flagstaff,AZ,2:02:15,Pay 'N Take
 7,353262,Ryan,HENTZ,Durango,CO,2:02:17,Bikeman.com
 8,418532,Philip,BROWN,Rio Rico,AZ,2:02:17,Team Aggress
-9,503760,Mitchell,REIDT,Clayton,MO,2:02:17,
+9,503760,Mitchell,REIDT,Denver,CO,2:02:17,
 10,362012,Gabriele,CANZI,Los Angeles,CA,2:02:17,Eliel Factory Team
 11,455199,Derek,SHIPLEY,Denver,CO,2:02:22,Thump Cycling
 12,406945,Ryan,CHRISTIANSON,Grand Junction,CO,2:02:23,Natural Grocers Cycling Team
 13,522242,Kyle,BERG,Phoenix,AZ,2:02:35,Athlete Octane Racing
-14,366670,David,PLATON,Avondale ,AZ,2:02:35,Team Santini USA
+14,366670,David,PLATON,Avondale,AZ,2:02:35,Team Santini USA
 15,156549,Ed,VASQUEZ,Mesa,AZ,2:02:35,Athlete Octane Racing
 16,433900,Thom,ALGER,San Tan Valley,AZ,2:02:35,Athlete Octane Racing
 17,493545,Paul,IMLER,Irvine,CA,2:02:35,Team Velosport
@@ -1548,9 +1548,9 @@ Place,License #,First,Last,City,State,Time,Team
 22,469122,Alex,BARNES,Redondo Beach,CA,3:31:46,Santa Monica BMW Helen's Cycles Racing
 23,80429,Kevin,QUATTLEBAUM,High Rolls,NM,3:31:46,Zia Velo Cycling
 24,309142,J,CARNES,Flagstaff,AZ,3:31:50,Pay 'N Take
-25,332886,Timothy,SCOTT,Sahuarita ,AZ,3:31:51,Team Aggress
+25,332886,Timothy,SCOTT,Sahuarita,AZ,3:31:51,Team Aggress
 26,353942,Levi,KRAMER,Scottsdale,AZ,3:31:51,FASTER Performance Center
-27,71063,Matt,MCWHIRTER,Scottsdale ,AZ,3:31:51,Jetset Racing
+27,71063,Matt,MCWHIRTER,Scottsdale,AZ,3:31:51,Jetset Racing
 28,422510,Dean,SHREINER,Scottsdale,AZ,3:31:54,The MORE Foundation Cycling team
 29,466185,Zachery,SESTAK,La Mesa,CA,3:31:54,Swamis Cycling
 30,321238,Griffin,PARK,Springville,UT,3:31:56,Mad Dog Cycles
@@ -1559,7 +1559,7 @@ Place,License #,First,Last,City,State,Time,Team
 33,396264,Gregory,SHERRICK,Royersford,PA,3:32:28,Blue Bell Private Wealth Management p/b Cannondale
 34,297079,Adam,SKLAR,Tucson,AZ,3:32:35,TeRacing
 35,457030,Rob,DOLLAR,Gilbert,AZ,3:32:35,Big Orange Cycling
-36,107784,Kevin,HARSLEY,Pasadena,CA,3:33:09,Stone House Group p/b Monster Media Racing
+36,107784,Kevin,HARSLEY,Chandler,AZ,3:33:09,Stone House Group p/b Monster Media Racing
 37,487389,Simon,LYNN,Usaf Academy,CO,3:34:03,USAF Academy Cycling
 38,392952,Matvey,BRANTVEYN,Poway,CA,3:36:28,SDBC/EMERALD TEXTILES p/b UC Cyclery
 39,335860,Clint,BLUESTEIN,Phoenix,AZ,3:36:33,San Tan Racing
@@ -1607,7 +1607,7 @@ Place,License #,First,Last,City,State,Time,Team
 32,472975,Bader,AQIL,Hawthorne,CA,4:02:08,Big Orange Cycling
 33,396393,John,GARBO,Ontario,CA,4:02:10,Pacific Premier Bank Cycling Team
 34,304118,Thomas,KEATING,Tempe,AZ,4:02:10,Bicycle Haus Racing
-35,364772,Luke,OLLETT,Simi Valley,CA,4:02:07,OC Armada
+35,364772,Luke,OLLETT,Los Angeles,CA,4:02:07,OC Armada
 36,269632,Terence,TRAUGHBER JR,Los Angeles,CA,4:02:11,Portland Bicycle Studio
 37,215808,Juan,CISNEROS,Chula Vista,CA,4:02:15,
 38,258824,Ryan,OAKES,Chico,CA,4:02:22,AMain Cycling Team
@@ -1653,29 +1653,29 @@ Place,License #,First,Last,City,State,Time,Team
 14,0,Claire,ROSE,,,2:51:33,Visit Dallas DNA Pro Cycling
 15,401364,Leah,THOMAS,Boulder Creek,CA,2:51:33,Sho-Air TWENTY20
 16,380330,Lex,ALBRECHT,,,2:51:33,Team TIBCO - Silicon Valley Bank
-17,332072,Kaitlin,CLOUSE,Littleton ,CO,2:51:42,Visit Dallas DNA Pro Cycling
+17,332072,Kaitlin,CLOUSE,Park City,UT,2:51:42,Visit Dallas DNA Pro Cycling
 18,256409,Amy,CHANDOS,Flagstaff,AZ,2:51:43,Bicycle Haus Racing
-19,355078,Mandy,HEINTZ,Phoenix,AZ,2:51:43,Visit Dallas DNA Pro Cycling
+19,355078,Mandy,HEINTZ,Scottsdale ,AZ,2:51:43,Visit Dallas DNA Pro Cycling
 20,423633,Esther,WALKER,San Diego,CA,2:51:43,SDBC/EMERALD TEXTILES p/b UC Cyclery
 21,0,Andrea,FREGROSA,,,2:51:43,CRAZY CAT/SPECIALIZED U23
 22,420158,Hanna,MUEGGE,Marina,CA,2:51:47,Visit Dallas DNA Pro Cycling
 23,279796,Anna,Sparks,Phoenix,AZ,2:51:47,Visit Dallas DNA Pro Cycling
 24,230062,Erica,ZAVETA,Brevard,NC,2:51:58,Cylance Womens Pro Cycling
 25,499855,Jessica,Bonilla,El Paso,TX,2:52:02,CRAZY CAT/SPECIALIZED U23
-26,263791,Breanne,NALDER,Murray,UT,2:52:10,Visit Dallas DNA Pro Cycling
+26,263791,Breanne,NALDER,Millcreek,UT,2:52:10,Visit Dallas DNA Pro Cycling
 27,395130,Melanie,BEALE,Boulder,CO,2:52:10,LA Sweat
 28,89443,Tiffany,PEZZULO,Salt Lake City,UT,2:52:10,LA Sweat
 29,266674,Kathryn,DONOVAN,Oxnard,CA,2:52:10,Visit Dallas DNA Pro Cycling
-30,230397,Shayna,POWLESS,Roseville,CA,2:52:10,Sho-Air TWENTY20
-31,186919,Kendall,RYAN,Ventura,CA,2:52:15,Team TIBCO - Silicon Valley Bank
-32,308334,Heather,FISCHER,Del Rio,TX,2:52:15,Team TIBCO - Silicon Valley Bank
+30,230397,Shayna,POWLESS,Jacksonville,FL,2:52:10,Sho-Air TWENTY20
+31,186919,Kendall,RYAN,Camarillo,CA,2:52:15,Team TIBCO - Silicon Valley Bank
+32,308334,Heather,FISCHER,Boulder,CO,2:52:15,Team TIBCO - Silicon Valley Bank
 33,485546,Emily,JORDAN,Denver,CO,2:52:21,Palmares Racing
 34,481054,Julyn,AGUILA,El Paso,TX,2:52:36,SDBC
-35,317802,Holly,BRECK,Santa Ynez,CA,2:52:39,Sho-Air TWENTY20
+35,317802,Holly,BRECK,San Dimas,CA,2:52:39,Sho-Air TWENTY20
 36,394701,Kimberly,LUCIE,Tucson,AZ,2:52:39,Stone House Group p/b Monster Media Racing
 37,272063,Lindsay,MYERS,Paradise,CA,2:52:39,Team TIBCO - Silicon Valley Bank
 38,310825,Aliya,TRAFICANTE,Chico,CA,2:52:39,Folsom Bike/Trek
-39,343484,Summer,MOAK,Phoenix,AZ,2:53:33,Sho-Air TWENTY20
+39,343484,Summer,MOAK,Scottsdale,AZ,2:53:33,Sho-Air TWENTY20
 40,201051,Molly,VAN HOUWELING,Berkeley,CA,3:00:42,JLVelo Cycling Team p/b The Freewheel
 41,485074,Hannah,SHELL,Saint Louis,MO,3:03:03,Pastaria-Big Shark Racing
 42,389218,Christie,TRACY,Austin,TX,3:03:09,ATC Racing
@@ -1737,9 +1737,9 @@ Place,License #,First,Last,City,State,Time,Team
 02/18/2017 Road Race Women Cat 3
 Place,License #,First,Last,City,State,Time,Team
 1,489718,Alexandra,REICH,La Jolla,CA,3:14:44,SDBC/EMERALD TEXTILES p/b UC Cyclery
-2,492481,Emily,RODGER,,,3:19:26,The Velo Ambassador Team
+2,492481,Emily,RODGER,Scottsdale,AZ,3:19:26,The Velo Ambassador Team
 3,458894,Sandra,FREEMAN,Morgan Hill,CA,3:19:31,JLVelo Cycling Team p/b The Freewheel
-4,422238,Sawyer,TAYLOR,Greenbrae,CA,3:19:33,Team Swift
+4,422238,Sawyer,TAYLOR,San Rafael,CA,3:19:33,Team Swift
 5,365513,Mckenzie,STEINER,Del Mar,CA,3:19:37,Swami's Junior Development Team
 6,494683,Katherine,NADLER,San Diego,CA,3:19:41,SDBC/EMERALD TEXTILES p/b UC Cyclery
 7,459115,Melanie,QUINONES,Kissimmee,FL,3:19:41,Orlando Road Club
@@ -1835,13 +1835,13 @@ Place,License #,First,Last,City,State,Time,Team
 48,224173,Cory,WILLIAMS,Los Angeles,CA,0:32:04,Elevate-KHS Pro Cycling
 49,346580,David,PRIEST,Santa Ynez,CA,0:32:07,Stinner Black Sheep Racing
 50,169774,Brian,MCCULLOCH,Yucaipa,CA,0:32:08,Elevate-KHS Pro Cycling
-51,263035,Andrew,GINIAT,Winnetka,IL,0:32:23,Project Echelon Racing
+51,263035,Andrew,GINIAT,Asheville,NC,0:32:23,Project Echelon Racing
 52,285879,Zach,STELLING,Scottsdale,AZ,0:32:34,Carlos O'Briens Racing
 53,377954,Willem,KAISER,Atlanta,GA,0:32:38,Gateway Harley-Davidson Trek U25
 54,458029,Julien,BOURDEVAIRE,Torrance,CA,0:32:41,Moment Bicycles
 55,57369,Eugene,BORONOW,Tucson,AZ,0:32:52,Superissimo
 56,119427,Jason,CIANFROCCA,La Mirada,CA,0:32:55,Velocity
-57,2443,John,BALMER,Indianapolis ,IN,0:33:03,Century Road Club of America
+57,2443,John,BALMER,Indianapolis,IN,0:33:03,Century Road Club of America
 58,316972,Erick,SOBEY,Ventura,CA,0:33:17,UA
 59,484046,Juan Jose,GARCIA,,,0:33:25,Joyerias Meza
 60,200766,Michael,DUTCZAK,Crete,IL,0:33:27,
@@ -1859,7 +1859,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 02/17/2017 Time Trial Men Masters 35+
 Place,License #,First,Last,City,State,Time,Team
-1,87933,Paul,THOMAS,Gilbert ,AZ,0:29:36,Stone House Group p/b Monster Media Racing
+1,87933,Paul,THOMAS,Gilbert,AZ,0:29:36,Stone House Group p/b Monster Media Racing
 2,303908,Greg,KOGUT,San Diego,CA,0:31:06,Swami's Cycling
 3,282099,Jonathan,CAVNER,Colorado Springs,CO,0:31:10,Sonic Boom Racing p/b Lucky Pie
 4,294312,Michael,RADCLIFF,Tucson,AZ,0:31:24,GST Racing
@@ -1884,7 +1884,7 @@ Place,License #,First,Last,City,State,Time,Team
 23,238167,Daniel,PEREZ,Orange,CA,0:37:25,Bear Valley Bikes
 24,362495,James,DUNKLEBERGER,Highlands Ranch,CO,0:37:26,Groove Subaru Excel Sports
 25,165840,Danny,KAM,Las Vegas,NV,0:39:02,Monster Media Elite Masters
-26,58176,Nathan,ROGUT,Tampa,FL,0:39:32,Velobrew-AV Homes
+26,58176,Nathan,ROGUT,Rock Hill,SC,0:39:32,Velobrew-AV Homes
 27,28056,Kevin,PHILLIPS,Redondo Beach,CA,0:42:31,ironfly internet llc
 
 02/17/2017 Time Trial Men Masters 45+
@@ -1898,7 +1898,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,299873,Nivio,DIAZ,Davie,FL,0:31:24,
 8,236370,Jim,WOODBURNE,Phoenix,AZ,0:31:29,Athlete Octane Racing
 9,504553,Scott,JOHNSON,Cave Creek,AZ,0:31:46,Team Winded
-10,119446,Allyn,SMITH,Saint Joseph,MO,0:32:05,Team Winded
+10,119446,Allyn,SMITH,St Joseph,MO,0:32:05,Team Winded
 11,313774,Gregg,NESS,Huntington,IN,0:32:15,Ft Wayne Outfitters
 12,55308,Todd,PARKS,Palm Springs,CA,0:32:17,Hammer Nutrition Racing
 13,140879,Scott,BIAGGI,Tucson,AZ,0:32:19,GST Racing
@@ -1938,7 +1938,7 @@ Place,License #,First,Last,City,State,Time,Team
 47,54748,James,KRAMER,Scottsdale,AZ,0:41:26,FASTER Performance Center
 48,421186,Tony,RAGO,Las Vegas,NV,0:41:26,Carefast | Storck Cycling Team
 49,405604,Karl,BAUMGART,Scottsdale,AZ,0:41:26,Velo Track Cycling p/b GQ6
-50,112263,Paul,HUNT,Scottsdale ,AZ,1:25:19,Walmart/GPP Cycling Team
+50,112263,Paul,HUNT,Scottsdale,AZ,1:25:19,Walmart/GPP Cycling Team
 
 02/17/2017 Time Trial Men Masters 55+
 Place,License #,First,Last,City,State,Time,Team
@@ -1979,10 +1979,10 @@ Place,License #,First,Last,City,State,Time,Team
 2,45045,Tom,BAIN,San Antonio,TX,0:33:54,Geri Atrix
 3,58212,Philip,HOLMAN,Tucson,AZ,0:34:08,Tucson Masters Cycling
 4,466441,Steven,LONG,Vail,AZ,0:34:22,Cyclefit Solutions Racing
-5,245777,Steve,BORER,Show Low,AZ,0:35:46,Fleming Wealth Strategies
+5,245777,Steve,BORER,Laguna Hills,CA,0:35:46,Fleming Wealth Strategies
 6,427913,Roy,QUADE,,,0:35:57,Unattached
 7,428440,Kenneth,STARCKE,Tucson,AZ,0:37:55,Cyclefit Solutions Racing
-8,205150,Frank,Pabian,Los Alamos,NM,0:41:09,Team Rio
+8,205150,Frank,Pabian,Albuquerque,NM,0:41:09,Team Rio
 
 02/17/2017 Time Trial Men Juniors 13-14
 Place,License #,First,Last,City,State,Time,Team
@@ -2013,7 +2013,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,355260,Gianni,LAMPERTI,Sebastopol,CA,0:34:45,Team Swift
 9,423649,Roberto,PEREZ,Fullerton,CA,0:35:09,Team Velocity
 10,458901,Andres,ALVAREZ,Camarillo,CA,0:35:10,KLTS Junior Development Team
-11,494503,Jean-Luc,CONTANT-GALITELLO,Pompano Beach,FL,0:35:11,Interactive Metronome
+11,494503,Jean-Luc,CONTANT-GALITELLO,Coconut Creek,FL,0:35:11,Interactive Metronome
 12,406824,Creighton,GRUBER,Chico,CA,0:35:37,Team Swift
 13,381215,Lance,ARAIZA,Lakewood,CA,0:35:45,Celo Pacific
 14,381481,Ryder,PHILLIPS,Redondo Beach,CA,0:35:46,ironfly internet llc
@@ -2181,7 +2181,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,382232,Cody,JUTOVSKY,Palm Desert,CA,0:33:44,Jessup Auto Plaza
 7,396295,Eric,COLLINS,Alamogordo,NM,0:33:45,Zia Velo Cycling
 8,298303,Mark,RYAN,Phoenix,AZ,0:33:57,Bicycle Haus Racing
-9,366670,David,PLATON,Avondale ,AZ,0:34:24,Team Santini USA
+9,366670,David,PLATON,Avondale,AZ,0:34:24,Team Santini USA
 10,493545,Paul,IMLER,Irvine,CA,0:34:32,Team Velosport
 11,384568,Tony,RICE,Phoenix,AZ,0:34:37,Bicycle Haus Racing
 12,412331,Ivan,FERNANDEZ,Carson,CA,0:34:38,Big Orange Cycling
@@ -2190,7 +2190,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,273223,Andrew,RANKINE,Phoenix,AZ,0:34:53,Mullet Mountaineering
 16,395731,Buzz,WRIGHT,Tucson,AZ,0:34:54,Christian Cycling - Tucson
 17,433900,Thom,ALGER,San Tan Valley,AZ,0:35:19,Athlete Octane Racing
-18,503760,Mitchell,REIDT,Clayton,MO,0:35:36,
+18,503760,Mitchell,REIDT,Denver,CO,0:35:36,
 19,125774,Steve,GARCIA,Tempe,AZ,0:35:42,Team Winded
 20,303641,Jeffrey,PERRY,Lake Mathews,CA,0:35:43,Team Cycling
 21,522242,Kyle,BERG,Phoenix,AZ,0:35:51,Athlete Octane Racing
@@ -2230,7 +2230,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,393650,Jace,KUYPER,Phoenix,AZ,0:32:38,Bicycle Accident Attorneys Racing Team
 13,473124,Brent,VOLLRATH,Blue Bell,PA,0:32:39,Blue Bell Private Wealth Management p/b Cannondale
 14,335860,Clint,BLUESTEIN,Phoenix,AZ,0:32:45,San Tan Racing
-15,332886,Timothy,SCOTT,Sahuarita ,AZ,0:32:49,Team Aggress
+15,332886,Timothy,SCOTT,Sahuarita,AZ,0:32:49,Team Aggress
 16,80429,Kevin,QUATTLEBAUM,High Rolls,NM,0:32:53,Zia Velo Cycling
 17,255142,Gary,BELL,Las Cruces,NM,0:32:54,Zia Velo Cycling
 18,353942,Levi,KRAMER,Scottsdale,AZ,0:32:55,FASTER Performance Center
@@ -2241,15 +2241,15 @@ Place,License #,First,Last,City,State,Time,Team
 23,466185,Zachery,SESTAK,La Mesa,CA,0:33:19,Swamis Cycling
 24,393543,Drew,CECCATO,La Jolla,CA,0:33:22,SDBC/EMERALD TEXTILES p/b UC Cyclery
 25,347622,Landry,BOBO,Colorado Springs,CO,0:33:26,COS Racing
-26,107784,Kevin,HARSLEY,Pasadena,CA,0:33:29,Stone House Group p/b Monster Media Racing
+26,107784,Kevin,HARSLEY,Chandler,AZ,0:33:29,Stone House Group p/b Monster Media Racing
 27,398126,Davis,ROBINSON,Littleton,CO,0:33:32,Prestige Imports Porsche/Audi Race Team
 28,309142,J,CARNES,Flagstaff,AZ,0:33:45,Pay 'N Take
 29,389526,Ben,ARENA,San Diego,CA,0:33:46,SDBC/EMERALD TEXTILES p/b UC Cyclery
 30,60106,Tory,GILLETT,Oxnard,CA,0:33:49,Monster Media Racing
 31,323506,Tyler,CHAIRSELL,Henderson,NV,0:33:50,Carefast | Storck Cycling Team
-32,71063,Matt,MCWHIRTER,Scottsdale ,AZ,0:34:01,Jetset Racing
+32,71063,Matt,MCWHIRTER,Scottsdale,AZ,0:34:01,Jetset Racing
 33,458981,Malik,MARIANO,Kamuela,HI,0:34:01,Bikeworks Hawaii
-34,266583,Douglas,SCHALLER,Belmont ,CA,0:34:04,A Bloc Racing
+34,266583,Douglas,SCHALLER,Belmont,CA,0:34:04,A Bloc Racing
 35,253918,David,UBINGER,El Paso,TX,0:34:23,Crazy Cat Cyclery/ FSA Fitness & Coaching
 36,428240,Zach,MERTZ,Phoenix,AZ,0:34:24,Team Winded
 37,0,Rolando,TRILLO,,,0:34:25,EP Cyclists
@@ -2321,7 +2321,7 @@ Place,License #,First,Last,City,State,Time,Team
 48,430954,Marco,WAJDA,Brookfield,WI,0:33:34,Project Echelon Racing
 49,270354,Spencer,DOWNING,Boulder,CO,0:33:41,Panache Houndstooth Racing
 50,342680,Peter,BEHM,Northfield,MN,0:33:47,SPBRC
-51,364772,Luke,OLLETT,Simi Valley,CA,0:33:56,OC Armada
+51,364772,Luke,OLLETT,Los Angeles,CA,0:33:56,OC Armada
 52,394182,Robert,JENSEN,Draper,UT,0:33:58,Elite Endurance
 53,1957,Scott,ARNOLD,Phoenix,AZ,0:34:00,Athlete Octane Racing
 54,393590,Leigh,THURGOOD,Seattle,WA,0:34:07,TenSpeedHero
@@ -2355,7 +2355,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,297862,Kate,BUSS,Blacksburg,VA,0:32:57,Team TIBCO - Silicon Valley Bank
 9,254509,Melinda,MCCUTCHEON,Salt Lake City,UT,0:33:00,Visit Dallas DNA Pro Cycling
 10,280870,Jennifer,LUEBKE,Bend,OR,0:33:15,Visit Dallas DNA Pro Cycling
-11,263791,Breanne,NALDER,Murray,UT,0:33:38,Visit Dallas DNA Pro Cycling
+11,263791,Breanne,NALDER,Millcreek,UT,0:33:38,Visit Dallas DNA Pro Cycling
 12,294884,Holly,MATHEWS,Madison,WI,0:33:51,IS Corp Cycling
 13,266674,Kathryn,DONOVAN,Oxnard,CA,0:34:01,Visit Dallas DNA Pro Cycling
 14,279796,Anna,Sparks,Phoenix,AZ,0:34:03,Visit Dallas DNA Pro Cycling
@@ -2363,25 +2363,25 @@ Place,License #,First,Last,City,State,Time,Team
 16,516158,Marie-Soleil,Blais,,,0:34:11,Independent
 17,420158,Hanna,MUEGGE,Marina,CA,0:34:16,Visit Dallas DNA Pro Cycling
 18,496560,Sofía,Arreola,,,0:34:21,Sho-Air TWENTY20
-19,343484,Summer,MOAK,Phoenix,AZ,0:34:22,Sho-Air TWENTY20
+19,343484,Summer,MOAK,Scottsdale,AZ,0:34:22,Sho-Air TWENTY20
 20,380330,Lex,ALBRECHT,,,0:34:24,Team TIBCO - Silicon Valley Bank
 21,0,Ingrid,DREXEL CLOUTHIER,,,0:34:26,Team TIBCO - Silicon Valley Bank
 22,394701,Kimberly,LUCIE,Tucson,AZ,0:34:31,Stone House Group p/b Monster Media Racing
 23,499855,Jessica,BONILLA,El Paso,TX,0:34:31,CRAZY CAT/SPECIALIZED U23
 24,292211,Jennifer,TETRICK,Sausalito,CA,0:34:32,Team TIBCO - Silicon Valley Bank
-25,308334,Heather,FISCHER,Del Rio,TX,0:34:41,Team TIBCO - Silicon Valley Bank
+25,308334,Heather,FISCHER,Boulder,CO,0:34:41,Team TIBCO - Silicon Valley Bank
 26,423633,Esther,WALKER,San Diego,CA,0:34:44,SDBC/EMERALD TEXTILES p/b UC Cyclery
-27,355078,Mandy,HEINTZ,Phoenix,AZ,0:34:46,Visit Dallas DNA Pro Cycling
+27,355078,Mandy,HEINTZ,Scottsdale ,AZ,0:34:46,Visit Dallas DNA Pro Cycling
 28,256409,Amy,CHANDOS,Flagstaff,AZ,0:35:01,Bicycle Haus Racing
 29,389218,Christie,TRACY,Austin,TX,0:35:18,ATC Racing
-30,186919,Kendall,RYAN,Ventura,CA,0:35:19,Team TIBCO - Silicon Valley Bank
+30,186919,Kendall,RYAN,Camarillo,CA,0:35:19,Team TIBCO - Silicon Valley Bank
 31,0,Andrea,FREGROSA,,,0:35:20,CRAZY CAT/SPECIALIZED U23
-32,230397,Shayna,POWLESS,Roseville,CA,0:35:22,Sho-Air TWENTY20
+32,230397,Shayna,POWLESS,Jacksonville,FL,0:35:22,Sho-Air TWENTY20
 33,485074,Hannah,SHELL,Saint Louis,MO,0:35:28,Pastaria-Big Shark Racing
 34,272063,Lindsay,MYERS,Paradise,CA,0:35:32,Team TIBCO - Silicon Valley Bank
 35,404315,Tabitha,SHERWOOD,Culver,IN,0:35:50,Pastaria-Big Shark Racing
 36,402944,Christina,BONNINGTON,Belmont,CA,0:35:58,JLVelo Cycling Team p/b The Freewheel
-37,317802,Holly,BRECK,Santa Ynez,CA,0:35:59,Sho-Air TWENTY20
+37,317802,Holly,BRECK,San Dimas,CA,0:35:59,Sho-Air TWENTY20
 38,386415,Sally,ASTON,Phoenix,AZ,0:36:02,The Velo Ambassador Team
 39,485546,Emily,JORDAN,Denver,CO,0:36:06,Palmares Racing
 40,419415,Megan,JASTRAB,Apple Valley,CA,0:36:16,Swami's Junior Development Team
@@ -2390,7 +2390,7 @@ Place,License #,First,Last,City,State,Time,Team
 43,402574,Charlotte,BACKUS,Larkspur,CO,0:36:38,Prestige Imports Porsche/Audi Race Team
 44,312668,Maureen,MCAULIFFE,Tucson,AZ,0:36:46,Landis/Trek
 45,375231,Amy,MCCLINTOCK,St. Louis,MO,0:37:02,Pastaria-Big Shark Racing
-46,332072,Kaitlin,CLOUSE,Littleton ,CO,0:37:03,Visit Dallas DNA Pro Cycling
+46,332072,Kaitlin,CLOUSE,Park City,UT,0:37:03,Visit Dallas DNA Pro Cycling
 47,89443,Tiffany,PEZZULO,Salt Lake City,UT,0:37:12,LA Sweat
 48,310825,Aliya,TRAFICANTE,Chico,CA,0:37:16,Folsom Bike/Trek
 49,355510,Megan,DOHERTY,Bellevue,WA,0:37:43,SCCA/Starbucks Cycling
@@ -2455,7 +2455,7 @@ Place,License #,First,Last,City,State,Time,Team
 02/17/2017 Time Trial Women Cat 3
 Place,License #,First,Last,City,State,Time,Team
 1,337862,Terry,CASEY,Albuquerque,NM,0:35:56,Zia Velo Cycling
-2,492481,Emily,RODGER,,,0:35:59,The Velo Ambassador Team
+2,492481,Emily,RODGER,Scottsdale,AZ,0:35:59,The Velo Ambassador Team
 3,470324,Zoe,TA-PEREZ,Orange,CA,0:36:03,Sho-Air TWENTY20
 4,458894,Sandra,FREEMAN,Morgan Hill,CA,0:36:20,JLVelo Cycling Team p/b The Freewheel
 5,468393,Tamatha,RISNER,Las Cruces,NM,0:36:48,Zia Velo Cycling
@@ -2479,7 +2479,7 @@ Place,License #,First,Last,City,State,Time,Team
 23,110307,Renee,ROBINSON,Carlsbad,CA,0:39:33,SDBC/EMERALD TEXTILES p/b UC Cyclery
 24,428718,Melody,MCLEOD,Brooksville,FL,0:39:47,Sho-Air TWENTY20
 25,457672,Sarah,POSNER,Sedona,AZ,0:41:07,Landis/Trek
-26,422238,Sawyer,TAYLOR,Greenbrae,CA,0:41:14,Team Swift
+26,422238,Sawyer,TAYLOR,San Rafael,CA,0:41:14,Team Swift
 27,312388,Elizabeth,KORINEK,Scottsdale,AZ,0:41:26,The Velo Ambassador Team
 28,481033,Lucia,CARRENO,El Paso,TX,0:42:06,CRAZY CAT/SPECIALIZED U23
 29,297265,Cheyenne,COMER,San Marcos,CA,0:42:14,CRAZY CAT/SPECIALIZED U23

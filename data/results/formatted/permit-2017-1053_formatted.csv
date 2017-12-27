@@ -19,7 +19,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,225120,Erin,Elliott,Oklahoma City,OK,,Oklahoma Bicycle Project
 16,366682,Scott,Williamson,Lawrence ,KS,,Olathe Subaru Trek Racing
 18,397914,Braxton,Mundell,Broken Arrow,OK,,Oklahoma Bicycle Project
-19,272809,Ricky,Randall,Highland Village ,TX,,Arapahoe Resources / Garneau
+19,272809,Ricky,Randall,Highland Village,TX,,Arapahoe Resources / Garneau
 20,269465,Chris,Drummond,Tulsa,OK,,Soundpony Triad Bank
 21,427682,Ben,Gramling,Springdale,AR,,Dickson Street Cycling Club
 22,331558,Grant,Najera,Tulsa,OK,,Soundpony Triad Bank
@@ -110,7 +110,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,258588,Tanner,Culbreath,Tulsa,OK,,Air Assurance Devo P/b Spoke House
 10,341818,Shane,McElravy,Tulsa,OK,,Team Tom's Bicycles p/b Topeca
 11,431380,Greg,Reilly,Tulsa,OK,,Team Young Life Tulsa
-12,466674,Brandon,Wold,Oklahoma City,OK,,DNA Racing
+12,466674,Brandon,Wold,Andover,MN,,DNA Racing
 13,304107,Christopher,Siemens,Tulsa,OK,,Air Assurance Devo P/b Spoke House
 14,425922,Christopher,Dakin,Bixby,OK,,Air Assurance Devo P/b Spoke House
 15,378105,Brad,Schrag,Springdale,AR,,Experience Fayetteville Cycling Team
@@ -160,7 +160,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,504902,Chris,Cooper,Oklahoma City,OK,,Bike Lab Racing Team
 13,461040,Brett,Olson,Okc,OK,,DNA Racing
 14,482025,William,Briggs,Broken Arrow,OK,,Bixby Bicycle Works/Cycling for Success
-15,524163,Kristopher,Clark,Tulsa,OK,,
+15,524163,Kristopher,Clark,Jenks,OK,,
 16,529155,Kyle,Kusik,Tulsa,OK,,
 17,458194,Brian,Bolton,Tulsa,OK,,Soundpony Triad Bank
 18,487430,Steven,Isaacs,Tulsa,OK,,Bixby Bicycle Works/Cycling for Success
@@ -200,7 +200,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,226469,Evan,Bybee,Oklahoma City,OK,,Arapahoe Resources / Garneau
 2,358709,Dylan,Postier,Stillwater,OK,,Tulsa Wheelmen
 3,337040,Stephan,Hirsch,Oklahoma City,OK,,Arapahoe Resources / Garneau
-4,259043,John,ShalekBriski,Spokane,WA,,Otterhaus Project Racing
+4,259043,John,ShalekBriski,Apo,AP,,Otterhaus Project Racing
 5,467580,Andrew,Evans,Rogers,AR,,Tyson Foods Cycling Team
 6,441131,Trevor,Fine,Duncan,OK,,Tulsa Wheelmen
 7,317222,Andrew,Farmer,Edmond,OK,,DNA Racing
@@ -303,8 +303,8 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/21/2017 Criterium Men 9-14
 Place,License #,First,Last,City,State,Time,Team
-1,414448,Michael,Watkins,Harrah,OK,,Oklahoma City Velo Club
-2,388289,Tayton,Parker,Jenks,OK,,Air Assurance Devo P/b Spoke House
+1,414448,Michael,Watkins,Choctaw,OK,,Oklahoma City Velo Club
+2,388289,Tayton,Parker,Tulsa,OK,,Air Assurance Devo P/b Spoke House
 3,448616,Ryan,Drummond,Oklahoma City,OK,,Soundpony Triad Bank
 4,405844,Seth,Lasley,Broken Arrow,OK,,Soundpony Triad Bank
 5,418572,Luke,Reilly,Tulsa,OK,,Oklahoma Flyers
@@ -338,7 +338,7 @@ Place,License #,First,Last,City,State,Time,Team
 05/21/2017 Criterium Women Cat 4/5
 Place,License #,First,Last,City,State,Time,Team
 1,265833,Donna,Garland,Oklahoma City,OK,,Yoga Box Racing p/b Transitions LifeCare
-2,506931,Finn,Taylor,Tulsa,OK,,Yoga Box Racing p/b Transitions LifeCare
+2,506931,Finn,Taylor,Fayetteville,AR,,Yoga Box Racing p/b Transitions LifeCare
 3,474997,Hannah,Jordan,Tulsa,OK,,Tulsa Wheelmen
 4,504372,Ruth,Seaman,Oklahoma City,OK,,Trans National Womens Cycling Team
 5,499581,Leigh Ann,Fields,Tulsa,OK,,Pandemonium Cycling p/b Hodges Bend
@@ -348,7 +348,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,487857,April,Meyer,Tulsa,OK,,Pandemonium Cycling p/b Hodges Bend
 10,420099,Lisa,DeMarni Cromer,Jenks,OK,,Team isocentric
 11,526954,Marci,Hamburger,Tulsa,OK,,Pandemonium Cycling p/b Hodges Bend
-12,410651,Sara,LittleMasterson,Bentonville,AR,,Festlig Norsk CC
+12,410651,Sara,LittleMasterson,Virginia Beach ,VA,,Festlig Norsk CC
 13,476825,Dawn,Vincent,Owasso,OK,,Pandemonium Cycling p/b Hodges Bend
 14,421211,teresa,colmenero,Broken Arrow ,OK,,Team isocentric
 15,441079,Madison,Gramling,Prairie Grove,AR,,Experience Fayetteville Cycling Team
@@ -374,10 +374,10 @@ Place,License #,First,Last,City,State,Time,Team
 05/21/2017 Criterium Women 30-39
 Place,License #,First,Last,City,State,Time,Team
 1,477952,Elise,Donovan,Oklahoma City,OK,,DNA Racing
-2,506931,Finn,Taylor,Tulsa,OK,,Yoga Box Racing p/b Transitions LifeCare
+2,506931,Finn,Taylor,Fayetteville,AR,,Yoga Box Racing p/b Transitions LifeCare
 3,334778,Esther,Thais,Jenks,OK,,Team isocentric
 4,499581,Leigh Ann,Fields,Tulsa,OK,,Pandemonium Cycling p/b Hodges Bend
-5,410651,Sara,LittleMasterson,Bentonville,AR,,Festlig Norsk CC
+5,410651,Sara,LittleMasterson,Virginia Beach ,VA,,Festlig Norsk CC
 6,482184,Livia,Gosnell,Tulsa,OK,,Soundpony Triad Bank
 7,487857,April,Meyer,Tulsa,OK,,Pandemonium Cycling p/b Hodges Bend
 8,421211,teresa,colmenero,Broken Arrow ,OK,,Team isocentric

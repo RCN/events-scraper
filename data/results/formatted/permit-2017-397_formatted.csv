@@ -39,17 +39,17 @@ Place,License #,First,Last,City,State,Time,Team
 7,243823,Bernd,Faust,O&#39;fallon,MO,,
 8,70014,Mark,Tank,Bloomington,IL,,Bloomington Cycle Racing Team
 9,228080,Darin,Marlow,Ballwin,MO,,Pastaria - Big Shark Racing Team
-10,253970,Gary,Gaddis,Saint Louis,MO,,Pastaria - Big Shark Racing Team
+10,253970,Gary,Gaddis,University City,MO,,Pastaria - Big Shark Racing Team
 11,70729,Louis,Stiffelman,Saint Louis,MO,,Velo Force
 12,175256,Chuck,Pass,Saint Louis,MO,,Velo Force
 13,72572,James,Klages,Saint Louis,MO,,Pastaria - Big Shark Racing
-14,482205,Dennis,Lilly,Saint Louis,MO,,
-15,179908,Vince,DeBlasi,Ballwin ,MO,,Pastaria - Big Shark Racing Team
+14,482205,Dennis,Lilly,St Louis,MO,,
+15,179908,Vince,DeBlasi,Ballwin,MO,,Pastaria - Big Shark Racing Team
 16,258516,Donald,Hinkebein,Jackson,MO,,Cape Bicycle and Fitness
 17,280630,Peter,Stevens,St. Louis,MO,,Velo Force
 18,278854,Joe,Switzer,Highland,IL,,Korte Hammer Down Racing
 19,186529,Mike,Vonnahmen,Sanibel,FL,,Midwest Masters Cycling Team
-20,324966,Dana,Braet,Saint Louis,MO,,Velo Force
+20,324966,Dana,Braet,Clayton,MO,,Velo Force
 21,195007,Daniel,Stutts,Rolla,MO,,Velo Force
 22,45535,Lonnie,Kennedy,Florissant,MO,,
 23,417359,Barry,Bean,Gideon,MO,,Cape Bicycle and Fitness
@@ -76,11 +76,11 @@ Place,License #,First,Last,City,State,Time,Team
 16,290270,Robin,Zuend,St Louis,MO,,SBR Quantum Racing
 17,148168,Andrew,Lister,Springfield,IL,,The Cyclery Racing Team
 18,176998,Scott,Ogilvie,St. Louis,MO,,Dogfish/Team Noah
-19,157753,Trevor,Lister,Springfield ,IL,,The Cyclery Racing Team
+19,157753,Trevor,Lister,Springfield,IL,,The Cyclery Racing Team
 20,255040,Kyle,Cress,Hillsboro,IL,,Korte Hammer Down Racing
 21,394358,Seth,Worthington,Westfield,IN,,
 22,393328,Leo,Smith,Saint Louis,MO,,The Cannonball-Hub Racing Team
-23,307737,Evan,Lardinois,St. Charles ,MO,,Korte Hammer Down Racing
+23,307737,Evan,Lardinois,St. Charles,MO,,Korte Hammer Down Racing
 24,386458,Evan,Blankenship,University City,MO,,Korte Hammer Down Racing
 25,469206,Hugh,Gill,Washington,IL,,Dogfish/Team Noah
 26,412037,Phillip,Smith,Quincy,IL,,Momentum Racing LLC
@@ -101,10 +101,10 @@ Place,License #,First,Last,City,State,Time,Team
 3,486247,Samuel,Hancock,Sparta,IL,,Quantum Solutions Intelligentsia
 4,454688,Atticus,Jones,Saint Louis,MO,,
 5,392298,Nicholas,Gomes,Florissant,MO,,Quantum Solutions Intelligentsia
-6,440523,Samuel,Dennison,Carpentersville,IL,,International Christian Cycling
+6,440523,Samuel,Dennison,West Dundee,IL,,International Christian Cycling
 7,460486,Nick,McClellan,Saint Louis,MO,,SBR Quantum Racing
 8,367894,Melissa,Gomes,Florissant,MO,,Quantum Solutions Intelligentsia
-9,476977,Rafi,Dennison,Carpentersvile,IL,,International Christian Cycling
+9,476977,Rafi,Dennison,West Dundee,IL,,International Christian Cycling
 10,0,Carter,Young,,,,
 
 08/20/2017 Criterium Mixed Cat 4/5
@@ -149,7 +149,7 @@ Place,License #,First,Last,City,State,Time,Team
 38,513855,Charles,Givens,Springfield,MO,,
 39,0,Jason,Johnson,,,,
 40,417832,Ryan,Oldani,Saint Louis,MO,,Mike's Bikes STL
-41,440523,Samuel,Dennison,Carpentersville,IL,,International Christian Cycling
+41,440523,Samuel,Dennison,West Dundee,IL,,International Christian Cycling
 42,0,Logan,Ponche,,,,
 43,0,Nick,Ammann,,,,
 44,534043,Damien,Johnson,Saint Louis,MO,,
@@ -165,7 +165,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,459766,bill,schultz,Springfield,IL,,
 8,278854,Joe,Switzer,Highland,IL,,Korte Hammer Down Racing
 9,459265,THOMAS,GNIEWEK,Saint Louis,MO,,
-10,482205,Dennis,Lilly,Saint Louis,MO,,
+10,482205,Dennis,Lilly,St Louis,MO,,
 11,473508,thomas,linhares,Florissant,MO,,
 12,366690,Chris,Dougan,Saint Louis,MO,,The Cyclery Racing Team
 13,258516,Donald,Hinkebein,Jackson,MO,,Cape Bicycle and Fitness
@@ -211,7 +211,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,188069,Chris,Kroll,Montgomery,IN,,Texas Roadhouse Cycling Team
 17,173579,T David,Cummings,St Louis,MO,,Gateway Cycling Club
 DNF,182683,Scott,Shaw,Edwardsville,IL,,The Cyclery Racing Team
-DNF,324966,Dana,Braet,Saint Louis,MO,,Velo Force
+DNF,324966,Dana,Braet,Clayton,MO,,Velo Force
 DNF,331440,Guillermo,Garsed,Chesterfield,MO,,Dogfish/Team Noah
 
 08/20/2017 Criterium Mixed Cat 4
@@ -241,7 +241,7 @@ Place,License #,First,Last,City,State,Time,Team
 23,330582,David,Carron,Chatham,IL,,
 24,258516,Donald,Hinkebein,Jackson,MO,,Cape Bicycle and Fitness
 25,207735,Marc,Monjauze,University City,MO,,The Cannonball-Hub Racing Team
-26,482205,Dennis,Lilly,Saint Louis,MO,,
+26,482205,Dennis,Lilly,St Louis,MO,,
 DNS,514683,Brian,Barks,Staunton,IL,,The Cyclery Racing Team
 
 08/20/2017 Criterium Mixed Cat 3
@@ -258,7 +258,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,275021,K Erik,Seaver,St. Louis,MO,,The Cannonball-Hub Racing Team
 11,251923,Damien,Garrels,Saint Louis,MO,,Pastaria - Big Shark Racing
 12,183765,Theodore,Araneta,Kirkwood,MO,,Pastaria - Big Shark Racing Team
-13,503760,Mitch,Reidt,Clayton,MO,,
+13,503760,Mitch,Reidt,Denver,CO,,
 14,420080,Chris,Cook,O Fallon,MO,,Momentum Racing LLC - MO
 15,343158,Adam,Lang,Weldon Spring,MO,,Pastaria - Big Shark Racing Team
 16,380622,Jason,Cogan,Saint Louis,MO,,The Cannonball-Hub Racing Team

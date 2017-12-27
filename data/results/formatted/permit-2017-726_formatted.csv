@@ -83,8 +83,8 @@ Place,License #,First,Last,City,State,Time,Team
 20,288667,Lucas,McCollum,Frederick,MD,,Bayside Velo/Bike Doctor/Team Bike Doctor
 21,103632,Michael,King,Woodbridge,VA,,National Capital Velo Club/UnitedHealthcare
 22,176100,Stokely,Samuel,Bowie,MD,,Artemis Racing
-23,292461,Daniel,Burns,Columbia ,MD,,Unattached
-24,496381,Chris,Hill,Hollywood,MD,,Bayside Velo/Bike Doctor/Team Bike Doctor
+23,292461,Daniel,Burns,Columbia,MD,,Unattached
+24,496381,Chris,Hill,Lexington Park,MD,,Bayside Velo/Bike Doctor/Team Bike Doctor
 25,351524,Damon,Wyatt,Baltimore,MD,,Baltimore Bicycle Club/Team BBC
 26,361815,Roscoe,Leslie,Laurel,DE,,Ocean Velo Club
 27,185280,Victor,Siegfried,Reston,VA,,Evolution Cycling Club p/b Long & Foster
@@ -136,7 +136,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,3304,Ramon,Benitez,Glenwood,MD,,Catoctin Cycling Club/HydroMonkies NSMI Cycling Team
 6,50293,Erik,Engle,Walkersville,MD,,Catoctin Cycling Club/HydroMonkies NSMI Cycling Team
 7,103632,Michael,King,Woodbridge,VA,,National Capital Velo Club/UnitedHealthcare
-8,52480,Joel,Vowell,Fairfax,VA,,CoreTechs Cycling Team/CoreTechs Cycling TwT
+8,52480,Joel,Vowell,Fort Myer,VA,,CoreTechs Cycling Team/CoreTechs Cycling TwT
 9,83935,Charles,Biro,Washington,DC,,DC Velo Limited/Team Beyer Auto
 10,227006,Matthew,Albanese,Annapolis,MD,,Bayside Velo/Bike Doctor/Team Bike Doctor
 11,46760,Dean,Pierson,Salisbury,MD,,Ocean Velo Club
@@ -150,7 +150,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,201836,Marc,Klein,Arlington,VA,,National Capital Velo Club/UnitedHealthcare/NCVC/UnitedHealthcare
 20,405385,mario,zometa,Hyattsville,MD,,Lateral Stress Velo Inc./Kelly Benefit Strategies/LSV
 21,458996,Mauricio,Daza,Gaithersburg,MD,,American Velo Club/All American Bicycle Center
-22,292461,Daniel,Burns,Columbia ,MD,,Unattached
+22,292461,Daniel,Burns,Columbia,MD,,Unattached
 23,51675,Kevin,Gallo,Vienna,VA,,Squadra Coppi
 24,527356,Paul,Livelli,Baltimore,MD,,Unattached
 25,176100,Stokely,Samuel,Bowie,MD,,Artemis Racing
@@ -163,7 +163,7 @@ Place,License #,First,Last,City,State,Time,Team
 32,65012,Chris,Hardee,Washington,DC,,Rock Creek Velo
 33,138642,George,Romonoyske,Port Jefferson,NY,,East End Cycling Team/Green Arm Bandits/greenarmbandits.com
 34,56371,Robb,Lee,Washington,DC,,DC Velo Limited/Team Beyer Auto
-35,320586,Cameron,Quick,Gaithersburg ,MD,,Unattached
+35,320586,Cameron,Quick,Gaithersburg,MD,,Unattached
 36,111782,Brian,Rist,Crownsville,MD,,Bayside Velo/Bike Doctor/Team Bike Doctor
 37,303990,James,Stroud,Oakton,VA,,Evolution Cycling Club p/b Long & Foster
 38,291749,Neil,Markus,Bethesda,MD,,Unattached
@@ -171,7 +171,7 @@ Place,License #,First,Last,City,State,Time,Team
 40,192247,Philip,Falconer,Lovettsville,VA,,Evolution Cycling Club p/b Long & Foster
 41,60012,Joseph,Baremore,Silver Spring,MD,,DC Velo Limited/Team Beyer Auto
 42,287217,Peter,Warner,Alexandria,VA,,Bayside Velo/Bike Doctor/Team Bike Doctor
-43,95195,Francis P,Lindo,Springfield ,VA,,Unattached
+43,95195,Francis P,Lindo,Springfield,VA,,Unattached
 44,60105,Joseph,Jefferson,Hagerstown,MD,,Antietam Velo Club
 45,192245,Aziz,Elhallou,Bethesda,MD,,DC Velo Limited/Team Beyer Auto
 46,71885,Harry,Coldren,Boston,VA,,Properties on the Potomac Cycling Team
@@ -236,14 +236,14 @@ Place,License #,First,Last,City,State,Time,Team
 16,297638,Patrick,Hogan,Riva,MD,,Bayside Velo/Bike Doctor/Team Bike Doctor
 17,274737,Gregory,Leach,Washington,DC,,Five Four Sports/Team Metra / Xrcel / Cycles 54
 18,291076,Clint,Dager,Newark,DE,,PTS Racing
-19,52480,Joel,Vowell,Fairfax,VA,,CoreTechs Cycling Team/CoreTechs Cycling TwT
+19,52480,Joel,Vowell,Fort Myer,VA,,CoreTechs Cycling Team/CoreTechs Cycling TwT
 20,501157,Mathew,Mackay,Pittsburgh,PA,,J Mac Cycling LLC
 21,329364,Elias,Guerra,Annandale,VA,,DistrictTaco Racing
 22,459984,August,Myers,Princeton,NJ,,Monticello Velo Club/Miller School of Albemarle p/b CBC
 23,43989,Daniel,Greenfield,Chevy Chase,MD,,DC Velo Limited/Team Beyer Auto
-24,299925,Chad,Capobianco,Watkinsville,GA,,Unattached
+24,299925,Chad,Capobianco,Aldie,VA,,Unattached
 25,380188,Matt,McLoone,Washington,DC,,Battley Harley-Davidson/BATTLEY H-D /Spokes Etc
-26,341040,Eran,Preble,Philadelphia ,PA,,PTS Racing
+26,341040,Eran,Preble,Newark,DE,,PTS Racing
 27,298636,Mykel,Nahorniak,Silver Spring,MD,,District Velocity Racing/District Velocity Racing p/b Bicycle Pro Shop
 28,149858,Mark,Sommers,Washington,DC,,DC Velo Limited/Team Beyer Auto
 29,284009,Samuel,James,Blacksburg,VA,,Lateral Stress Velo Inc./Kelly Benefit Strategies Elite
@@ -259,7 +259,7 @@ Place,License #,First,Last,City,State,Time,Team
 39,304035,Michael,Kirby,Alexandria,VA,,VeloWorks-Spokes Etc
 40,78597,Brian,Marchionini,Silver Spring,MD,,DC Velo Limited/Team Beyer Auto
 41,135709,Joshua,Frick,Park City,UT,,Ski City Cycling/Ski City Cycling Team
-42,359191,Mark,Hyatt,Arlington,VA,,DC Velo Limited/Team Beyer Auto
+42,359191,Mark,Hyatt,Potomac,MD,,DC Velo Limited/Team Beyer Auto
 43,381400,Anwar,Gorham,Baltimore,MD,,Lateral Stress Velo Inc./Kelly Benefit Strategies/LSV
 44,216293,Paul,Lengermann,Washington,DC,,DistrictTaco Racing
 45,140914,Jeffrey,Sanders,Crownsville,MD,,Antietam Velo Club Inc/AVC/Team Hagerstown-Washington Co
@@ -278,7 +278,7 @@ Place,License #,First,Last,City,State,Time,Team
 58,53090,Darren,Jiron,Vienna,VA,,DC Velo Limited/Team Beyer Auto
 59,108105,Michael,Kingery,Reston,VA,,DC Velo Limited/Team Beyer Auto
 60,361461,Michael,Russo,Arlington,VA,,Battley Harley-Davidson/BATTLEY H-D /Spokes Etc
-61,264157,Daniel,Villaflor-Drumwright,Alexandria ,VA,,DC Velo Limited/Team Beyer Auto
+61,264157,Daniel,Villaflor-Drumwright,Alexandria,VA,,DC Velo Limited/Team Beyer Auto
 62,228581,Dan,Netzer,Norfolk,VA,,Celerity Cycling/Haymarket/Starlight Custom Apparel
 
 04/09/2017 Circuit Race Men Cat 5 Beginner
@@ -293,11 +293,11 @@ Place,License #,First,Last,City,State,Time,Team
 8,473271,Sam,Ghalayini,Fairfax Station,VA,,National Capital Velo Club/UnitedHealthcare/NCVC/UnitedHealthcare
 9,516995,Curtis,Alia,Jessup,MD,,Unattached
 10,504493,Ryan,Warfield,Laurel,MD,,Unattached
-11,524824,Chad,Melton,Wytheville,VA,,Unattached
+11,524824,Chad,Melton,Warrenton,VA,,Unattached
 12,64277,Scott,Coulter,Fairfax Sta,VA,,Unattached
 13,527511,Arthur,Deegan,Arlington,VA,,Whole Wheel Velo Club
 14,513760,Pedro,Maya,Arlington,VA,,Unattached
-15,238342,Leo,Singer,College Park,MD,,The Bike Rack/Bike Rack Racing
+15,238342,Leo,Singer,Washington,DC,,The Bike Rack/Bike Rack Racing
 16,0,Ian,Clark,,,,Unattached
 17,524509,Michael,Perry,Washington,DC,,Unattached
 18,524377,Ryan,Eshelman,Washington,DC,,The Bike Rack
@@ -309,14 +309,14 @@ Place,License #,First,Last,City,State,Time,Team
 24,344984,Arthur,Beckman,Arlington,VA,,Squadra Coppi
 25,514512,Seth,Wall,Jefferson,MD,,Frederick Velo/Bike Doctor Frederick/Bike Doctor/Visit Frederick
 26,0,Paul,Blake,,,,Unatached
-27,529422,Glyn,Phillips,Lusby,MD,,Unattached
+27,529422,Glyn,Phillips,Solomons,MD,,Unattached
 28,498017,Carl,Pinkney,Cpinkney Phyattsville,MD,,Getting It In Cyclists Inc/Getting It In Cyclists
 29,485139,Toney,Rogers,Brandywine,MD,,Getting It In Cyclists Inc/Getting It In Cyclists
 30,523344,Simon,Thrush,Great Falls,VA,,Evolution Cycling Club p/b Long & Foster
 31,540106,Darren,David,Rockville,MD,,Unattached
 32,358246,lance,byrd,Catonsville,MD,,Adventures for the Cure
 33,485510,Franz,Loyola,Arlington,VA,,Unattached
-34,523481,Christopher,Kallapodi,Alexandria,VA,,Whole Wheel Velo Club
+34,523481,Christopher,Kallapodi,Chicago,IL,,Whole Wheel Velo Club
 35,480090,Brian,Phipps,Jessup,MD,,Getting It In Cyclists Inc/Getting It In Cyclists
 36,498287,Wes,Evasick,Newark,DE,,Unattached
 37,406948,Ryan,Smith,Arnold,MD,,Annapolis Bicycle Racing Team/ABRT (Annapolis Bicycle Racing Team)
@@ -328,7 +328,7 @@ Place,License #,First,Last,City,State,Time,Team
 43,497450,Dash,Luo,Silver Spring,MD,,Unattached
 44,529443,Thomas,Nelson,Arlington,VA,,Unattached
 45,522653,Connor,Stemple,Arlington,VA,,Unattached
-46,498679,IRVIN,GREEN,Gwynn Oak,MD,,Unattached
+46,498679,IRVIN,GREEN,Gwynn Oak Md,MD,,Unattached
 47,449405,Addison,Larrow,Washington,DC,,Unattached
 48,0,Austin,Toskov,,,,Unattached
 
@@ -336,8 +336,8 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,507839,Tony,Leong,Crownsville,MD,,S'Ville Bikes/Lee & Associates Race Team
 2,516995,Curtis,Alia,Jessup,MD,,Unattached
-3,524824,Chad,Melton,Wytheville,VA,,Unattached
-4,523481,Christopher,Kallapodi,Alexandria,VA,,Whole Wheel Velo Club
+3,524824,Chad,Melton,Warrenton,VA,,Unattached
+4,523481,Christopher,Kallapodi,Chicago,IL,,Whole Wheel Velo Club
 5,497860,Chris,MuLee,Gainesville,VA,,Whole Wheel Velo Club
 6,511958,Darrin,Arbaugh,Bethesda,MD,,Artemis Racing
 7,291308,Mark,Kavanagh,Arlington,VA,,Whole Wheel Velo Club
@@ -403,12 +403,12 @@ Place,License #,First,Last,City,State,Time,Team
 5,429497,Christopher,Rothermel,Alexandria ,VA,,DistrictTaco Racing
 6,511454,Chris,Weddington,Washington,DC,,Unattached
 7,401778,Amilcar,Samudio,Reisterstown,MD,,Artemis Racing
-8,467284,Michael,Anderson,Clinton ,MD,,Phase Cycling
+8,467284,Michael,Anderson,Clinton,MD,,Phase Cycling
 9,78329,Mike,Simon,Derwood,MD,,Unattached
 10,454244,Carlos,Brooks,Bethesda,MD,,Rock Creek Velo
 11,458996,Mauricio,Daza,Gaithersburg,MD,,American Velo Club/All American Bicycle Center
 12,374445,An,Ha,College Park,MD,,Unattached
-13,320586,Cameron,Quick,Gaithersburg ,MD,,Unattached
+13,320586,Cameron,Quick,Gaithersburg,MD,,Unattached
 14,404632,ron,perel,Laurel,MD,,Unattached
 15,523455,James,Sharp,Arlington,VA,,National Capital Velo Club/UnitedHealthcare/NCVC/UnitedHealthcare
 16,475122,Terry,Thomas,Hyattsville,MD,,Phase Cycling
@@ -449,7 +449,7 @@ Place,License #,First,Last,City,State,Time,Team
 04/09/2017 Circuit Race Men Cat 3 Men Category 3
 Place,License #,First,Last,City,State,Time,Team
 1,481209,Henri,Simon,Bel Air,MD,,JAMSQUAD Cycling
-2,496381,Chris,Hill,Hollywood,MD,,Bayside Velo/Bike Doctor/Team Bike Doctor
+2,496381,Chris,Hill,Lexington Park,MD,,Bayside Velo/Bike Doctor/Team Bike Doctor
 3,353016,Paul,Lewis,Livingston,NJ,,Artemis Racing
 4,494213,Timothy,Meyers,Fredericksburg,VA,,National Capital Velo Club/UnitedHealthcare/NCVC/UnitedHealthcare
 5,370862,Joseph,Bank,Ellicott City,MD,,Adventures for the Cure
@@ -493,7 +493,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,285595,Jamie,Morton,Falls Church,VA,,VeloWorks-Spokes Etc
 5,509554,Hannah,Ye,Leesburg,VA,,Unattached
 6,509376,Meike,Marshall,Alexandria,VA,,Phase Cycling
-7,443460,Gina,Grinstead,Baltimore,MD,,Baltimore Bicycle Club/Team BBC
+7,443460,Gina,Grinstead,Philadelphia,PA,,Baltimore Bicycle Club/Team BBC
 8,503935,Melissa,Kellstrom,Arlington,VA,,National Capital Velo Club/UnitedHealthcare/NCVC/UnitedHealthcare
 9,497570,Sarah,Sladen,Washington,DC,,The Bike Rack/Bike Rack Racing
 10,529599,Barbara,Hagerty,Washington,DC,,Unattached
@@ -508,7 +508,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,467381,Chandra,Little,Upper Marlboro,MD,,Phase Cycling
 20,299198,Deirdre,Mullaly,Arlington,VA,,Team Sticky Fingers
 21,367544,Annamaria,McHugh,Washington,DC,,Rock Creek Velo
-22,392039,Kristy,Noesges,Gambrills,MD,,Artemis Racing
+22,392039,Kristy,Noesges,Fort Meade,MD,,Artemis Racing
 23,501756,Mary Lauran,Hall,Washington,DC,,The Bike Rack/Bike Rack Racing
 24,0,Stephanie,Dempsey,,,,Unattached
 25,529421,Kacey,LLoyd,Lusby,MD,,Unattached
@@ -553,7 +553,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,392393,Kaitlyn,Mittan,Alexandria,VA,,VeloWorks-Spokes Etc
 6,406195,Maggie,Barton,Richmond,VA,,Sweet Spot Cycling
 7,382827,Erin,Bougie,Arlington,VA,,National Capital Velo Club/UnitedHealthcare/NCVC/UnitedHealthcare
-8,525708,Jill,Patterson,Alexandria,VA,,Artemis Racing
+8,525708,Jill,Patterson,Wilmington,DE,,Artemis Racing
 9,298855,Michele,Scherer,Stephens City,VA,,Unattached
 10,15086,Marni,Harker,Washington,DC,,Colavita Racing Inc./Colavita Midatlantic Women's Team
 11,272062,Svetlana,Mack,Silver Spring,MD,,Rock Creek Velo

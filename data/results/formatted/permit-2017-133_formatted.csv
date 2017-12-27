@@ -5,7 +5,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,374595,Macen,Van Allen,Nevada,IA,,Above and Beyond Cancer p/b Scheels
 2,366326,Chris,Anderson,Minneapolis,MN,,Borah Factory Racing
 3,138402,Shadd,Smith,Overland Park,KS,,Olathe Subaru Trek Racing
-4,185493,Peter,Olejniczak,Roseville,MN,,Borah Factory Racing
+4,185493,Peter,Olejniczak,Minneapolis,MN,,Borah Factory Racing
 5,485039,Joseph,Goettl,Mankato,MN,,
 6,310330,Michael,Allison,Shawnee,KS,,Olathe Subaru Trek Racing
 7,210225,Garrick,Valverde,Lawrence,KS,,Olathe Subaru Trek Racing
@@ -50,7 +50,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 06/25/2017 Criterium Men Cat 1/2/3/4/5 Junior 15-16
 Place,License #,First,Last,City,State,Time,Team
-1,494530,Hunter,Navarro,Shawnee Mission,KS,,KCOI U20
+1,494530,Hunter,Navarro,Shawnee ,KS,,KCOI U20
 2,418307,Scott,Ferguson,Le Mars,IA,,Central Junior Cycling Devo
 3,535221,William,Henkhaus,Olathe,KS,,3 Feet Cycling p/b Foody's
 4,528310,Ethan,Sandhu,Wildwood,MO,,
@@ -88,7 +88,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,475016,Hayden,Patterson,Clive,IA,,RDMB Junior Racing Team
 9,424881,Dane,Hooks,Lees Summit,MO,,KCOI U20
 10,519374,Maury,Navarro,Shawnee Mission,KS,,KCOI U20
-11,459485,Gabriel,Schmitz,Merriam,KS,,KCOI U20
+11,459485,Gabriel,Schmitz,Kansas City,KS,,KCOI U20
 12,521345,Logan,Waldorf,Shawnee Mission,KS,,
 13,488221,Malachi,Schmitz,Shawnee Mission,KS,,KCOI U20
 
@@ -118,7 +118,7 @@ Place,License #,First,Last,City,State,Time,Team
 21,173579,T David,Cummings,St Louis,MO,,Gateway Cycling Club
 22,250834,Jaime,Galvan,Olathe,KS,,
 23,301646,Mark,Horn,Mission,KS,,KCBC Racing
-24,120099,Brian,Rybarik,Madison,WI,,Sakari Race Team
+24,120099,Brian,Rybarik,Des Moines,IA,,Sakari Race Team
 25,47037,Peter,Beland,Little Rock,AR,,Walmart/GPP Cycling Team
 26,276726,Robert,Cummings,Rose Hill,KS,,Panaracer/Stan's NoTubes p/b Bicycle X-Change
 27,112498,Cale,McAninch,Ozark,MO,,Kuat Trek P/B A&B Cycle
@@ -192,7 +192,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,416734,Ian,Pepin,Lawrence,KS,,Move Up Development
 11,492970,Mike,Ivancic,Leawood,KS,,US Military Endurance Sports
 12,420049,derek,tidd,Olathe,KS,,
-13,422425,Po Hung,Yang,Kansas City,KS,,GP Velotek
+13,422425,Po Hung,Yang,Chino Hills,CA,,GP Velotek
 14,260282,Benjamin,Bockting,Fayette,MO,,Walt's Bike Shop/Logboat Brewing Co.
 15,512826,Dominic,Sherman,Windsor Heights,IA,,Sakari Race Team
 16,257088,Caleb,Rector,Harrisonville,MO,,Bicycle Shack Racing
@@ -224,7 +224,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,482135,John,Fratinardo,Saint Louis,MO,,Dogfish/Team Noah
 11,501823,Max,Bien,Burlington,NC,,Quantum Solutions Intelligentsia
 12,437904,Nicholas,Comiskey,Fairway,KS,,Team Colavita/ Parisi Coffee
-13,503760,Mitch,Reidt,Clayton,MO,,
+13,503760,Mitch,Reidt,Denver,CO,,
 14,305864,Kevin,Patterson,Clive,IA,,Zealous Racing
 15,226805,Brett,Coppage,Kansas City,MO,,MidwestVelo
 16,251482,darren,heck,Lees Summit,MO,,Jacomo Racing p/b Minsky's Pizza
@@ -315,7 +315,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,310867,Britta,Siegel,Saint Louis,MO,,
 2,55494,Anne,Meyer,La Crosse,WI,,University of Iowa Heart and Vascular Care-Specialized
 3,458501,Amy,Cottrell,Overland Park,KS,,Women's Free State Racing
-4,424446,Renee,Ehrlich,Florissant,MO,,Balanced: Bike Fitting & Coaching Cycling Team
+4,424446,Renee,Ehrlich,St. Paul,MO,,Balanced: Bike Fitting & Coaching Cycling Team
 5,432081,Lisa,Doane,Olathe,KS,,Big D Cycling
 
 06/25/2017 Criterium Women Cat 1/2/3/4/5 Masters 60+
@@ -360,7 +360,7 @@ Place,License #,First,Last,City,State,Time,Team
 06/25/2017 Omnium Men Pro/Cat 1/2
 Place,License #,First,Last,City,State,Time,Team
 1,366326,Chris,Anderson,Minneapolis,MN,,Borah Factory Racing
-2,185493,Peter,Olejniczak,Roseville,MN,,Borah Factory Racing
+2,185493,Peter,Olejniczak,Minneapolis,MN,,Borah Factory Racing
 3,428009,Sam,Fritz,Princeton,MN,,Above and Beyond Cancer p/b Scheels
 4,485039,Joseph,Goettl,Mankato,MN,,
 5,310330,Michael,Allison,Shawnee,KS,,Olathe Subaru Trek Racing
@@ -412,7 +412,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 06/25/2017 Omnium Men Cat 1/2/3/4/5 Junior 15-16
 Place,License #,First,Last,City,State,Time,Team
-1,494530,Hunter,Navarro,Shawnee Mission,KS,,KCOI U20
+1,494530,Hunter,Navarro,Shawnee ,KS,,KCOI U20
 2,535221,William,Henkhaus,Olathe,KS,,3 Feet Cycling p/b Foody's
 3,418307,Scott,Ferguson,Le Mars,IA,,Central Junior Cycling Devo
 4,528310,Ethan,Sandhu,Wildwood,MO,,
@@ -453,7 +453,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,481550,Jude,Borchers,Topeka,KS,,Capps Bike Shop
 9,475016,Hayden,Patterson,Clive,IA,,RDMB Junior Racing Team
 10,424881,Dane,Hooks,Lees Summit,MO,,KCOI U20
-11,459485,Gabriel,Schmitz,Merriam,KS,,KCOI U20
+11,459485,Gabriel,Schmitz,Kansas City,KS,,KCOI U20
 12,488221,Malachi,Schmitz,Shawnee Mission,KS,,KCOI U20
 13,486641,Cooper,Bernstein,Altoona,IA,,NorthStar Development Cycling
 13,521345,Logan,Waldorf,Shawnee Mission,KS,,
@@ -480,7 +480,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,47037,Peter,Beland,Little Rock,AR,,Walmart/GPP Cycling Team
 19,267923,William,Smith,Olathe,KS,,KCBC Racing
 20,196516,Jack,Mason,Topeka,KS,,360 Racing
-21,120099,Brian,Rybarik,Madison,WI,,Sakari Race Team
+21,120099,Brian,Rybarik,Des Moines,IA,,Sakari Race Team
 22,339912,Kevin,Fitzgerald,Overland Park,KS,,KCOI Boulevard
 23,237287,Reed,Rinderknecht,Clive,IA,,Sakari Race Team
 24,333590,Kurt,Wilson,Kansas City,MO,,KCBC Racing
@@ -578,7 +578,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,500160,john,newman,Kansas City,MO,,KCBC Racing
 18,383182,Trevor,Waggoner,Overland Park,KS,,GP Velotek
 19,529973,Sam,Anderson,Boulder,CO,,
-20,422425,Po Hung,Yang,Kansas City,KS,,GP Velotek
+20,422425,Po Hung,Yang,Chino Hills,CA,,GP Velotek
 21,260282,Benjamin,Bockting,Fayette,MO,,Walt's Bike Shop/Logboat Brewing Co.
 22,438977,Asa,Black,Leawood,KS,,
 23,516799,Jeremy,Grigg,Harrison,AR,,SBC Cycling
@@ -625,7 +625,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,376858,Dillon,McNeill,Bellevue,NE,,Harvest Racing p/b Midwest Cycling Trek Stores
 20,356617,Tim,Jansen,Lenexa,KS,,GP Velotek
 21,328658,Rocky,Remy,Prairie Village,KS,,MidwestVelo
-22,503760,Mitch,Reidt,Clayton,MO,,
+22,503760,Mitch,Reidt,Denver,CO,,
 23,443189,Alan,Lowe,Cape Girardeau,MO,,Walt's Bike Shop/Logboat Brewing Co.
 24,412707,Andrew,Marolt,Bloomington,MN,,
 25,380622,Jason,Cogan,Saint Louis,MO,,The Cannonball-Hub Racing Team
@@ -703,7 +703,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,55494,Anne,Meyer,La Crosse,WI,,University of Iowa Heart and Vascular Care-Specialized
 2,458501,Amy,Cottrell,Overland Park,KS,,Women's Free State Racing
-3,424446,Renee,Ehrlich,Florissant,MO,,Balanced: Bike Fitting & Coaching Cycling Team
+3,424446,Renee,Ehrlich,St. Paul,MO,,Balanced: Bike Fitting & Coaching Cycling Team
 4,432081,Lisa,Doane,Olathe,KS,,Big D Cycling
 5,310867,Britta,Siegel,Saint Louis,MO,,
 
@@ -755,7 +755,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,428009,Sam,Fritz,Princeton,MN,,Above and Beyond Cancer p/b Scheels
 2,371675,Cooper,Rombold,Bellingham,WA,,Metier Racing & Coffee
-3,185493,Peter,Olejniczak,Roseville,MN,,Borah Factory Racing
+3,185493,Peter,Olejniczak,Minneapolis,MN,,Borah Factory Racing
 4,310330,Michael,Allison,Shawnee,KS,,Olathe Subaru Trek Racing
 5,485039,Joseph,Goettl,Mankato,MN,,
 6,400258,Matthew,Moehn,Pleasant Hill,IA,,Above and Beyond Cancer p/b Scheels
@@ -808,7 +808,7 @@ Place,License #,First,Last,City,State,Time,Team
 06/24/2017 Circuit Race Men Cat 1/2/3/4/5 Junior 15-16
 Place,License #,First,Last,City,State,Time,Team
 1,368806,Connor,Bernstein,Altoona,IA,,NorthStar Development Cycling
-2,494530,Hunter,Navarro,Shawnee Mission,KS,,KCOI U20
+2,494530,Hunter,Navarro,Shawnee ,KS,,KCOI U20
 3,418307,Scott,Ferguson,Le Mars,IA,,Central Junior Cycling Devo
 4,528310,Ethan,Sandhu,Wildwood,MO,,
 5,535221,William,Henkhaus,Olathe,KS,,3 Feet Cycling p/b Foody's
@@ -840,7 +840,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,424881,Dane,Hooks,Lees Summit,MO,,KCOI U20
 9,475016,Hayden,Patterson,Clive,IA,,RDMB Junior Racing Team
 10,519374,Maury,Navarro,Shawnee Mission,KS,,KCOI U20
-11,459485,Gabriel,Schmitz,Merriam,KS,,KCOI U20
+11,459485,Gabriel,Schmitz,Kansas City,KS,,KCOI U20
 12,486641,Cooper,Bernstein,Altoona,IA,,NorthStar Development Cycling
 13,488221,Malachi,Schmitz,Shawnee Mission,KS,,KCOI U20
 
@@ -870,7 +870,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,339912,Kevin,Fitzgerald,Overland Park,KS,,KCOI Boulevard
 23,267923,William,Smith,Olathe,KS,,KCBC Racing
 24,160576,Matt,Muyres,Minneapolis,MN,,Donkey Label
-25,120099,Brian,Rybarik,Madison,WI,,Sakari Race Team
+25,120099,Brian,Rybarik,Des Moines,IA,,Sakari Race Team
 26,301646,Mark,Horn,Mission,KS,,KCBC Racing
 27,332930,Jason,Engle,Sioux Falls,SD,,Two Wheeler/Specialized
 28,229624,Dan,Heck,Oak Grove,MO,,Bicycle Shack Racing
@@ -959,7 +959,7 @@ Place,License #,First,Last,City,State,Time,Team
 25,298125,Mark,Turner,Manhattan,KS,,3 Feet Cycling p/b Foody's
 26,278677,Noah,Burke,Lincoln,NE,,
 27,380060,Thomas,Lewin,Overland Park,KS,,Grip N Rip
-28,422425,Po Hung,Yang,Kansas City,KS,,GP Velotek
+28,422425,Po Hung,Yang,Chino Hills,CA,,GP Velotek
 29,470624,john,conrad,Seward,NE,,Team Kaos/Joyride Bicycles
 30,393186,Shawn,Hayden,Springfield,MO,,Kuat Trek P/B A&B Cycle
 31,358120,Chris,Plooster,Mcpherson,KS,,3 Feet Cycling p/b Foody's
@@ -1013,9 +1013,9 @@ Place,License #,First,Last,City,State,Time,Team
 34,350074,John,Slosar,Edwardsville,IL,,The Cyclery Racing Team
 35,425160,Austin,Hess,Springfield,MO,,SBS-PDG
 DNF,233745,Chris,Miller,St. Louis,MO,,The Cannonball-Hub Racing Team
-DNF,503760,Mitch,Reidt,Clayton,MO,,
+DNF,503760,Mitch,Reidt,Denver,CO,,
 DNF,368806,Connor,Bernstein,Altoona,IA,,NorthStar Development Cycling
-DNF,378427,Ross,Given,Grain Valley,MO,,Jacomo Racing p/b Minsky's Pizza
+DNF,378427,Ross,Given,Blue Springs,MO,,Jacomo Racing p/b Minsky's Pizza
 DNF,437429,Caleb,Teague,Lees Summit,MO,,Jacomo Racing p/b Minsky's Pizza
 
 06/24/2017 Circuit Race Women Pro/Cat 1/2/3
@@ -1065,7 +1065,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,55494,Anne,Meyer,La Crosse,WI,,University of Iowa Heart and Vascular Care-Specialized
 2,458501,Amy,Cottrell,Overland Park,KS,,Women's Free State Racing
 3,432081,Lisa,Doane,Olathe,KS,,Big D Cycling
-4,424446,Renee,Ehrlich,Florissant,MO,,Balanced: Bike Fitting & Coaching Cycling Team
+4,424446,Renee,Ehrlich,St. Paul,MO,,Balanced: Bike Fitting & Coaching Cycling Team
 
 06/24/2017 Circuit Race Women Cat 1/2/3/4/5 Masters 60+
 Place,License #,First,Last,City,State,Time,Team
@@ -1107,7 +1107,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 06/24/2017 Individual Time Trial Men Pro/Cat 1/2
 Place,License #,First,Last,City,State,Time,Team
-1,185493,Peter,Olejniczak,Roseville,MN,05:40.73,Borah Factory Racing
+1,185493,Peter,Olejniczak,Minneapolis,MN,05:40.73,Borah Factory Racing
 2,428009,Sam,Fritz,Princeton,MN,05:47.35,Above and Beyond Cancer p/b Scheels
 3,366326,Chris,Anderson,Minneapolis,MN,05:48.68,Borah Factory Racing
 4,485039,Joseph,Goettl,Mankato,MN,05:48.73,
@@ -1149,7 +1149,7 @@ Place,License #,First,Last,City,State,Time,Team
 06/24/2017 Individual Time Trial Men Cat 1/2/3/4/5 Junior 15-16
 Place,License #,First,Last,City,State,Time,Team
 1,535221,William,Henkhaus,Olathe,KS,07:05.47,3 Feet Cycling p/b Foody's
-2,494530,Hunter,Navarro,Shawnee Mission,KS,07:16.11,KCOI U20
+2,494530,Hunter,Navarro,Shawnee ,KS,07:16.11,KCOI U20
 3,528310,Ethan,Sandhu,Wildwood,MO,07:22.62,
 4,418307,Scott,Ferguson,Le Mars,IA,07:23.54,Central Junior Cycling Devo
 
@@ -1193,7 +1193,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,218197,James,Gillum,Little Rock,AR,06:33.01,Oklahoma City Velo Club
 17,47037,Peter,Beland,Little Rock,AR,06:33.35,Walmart/GPP Cycling Team
 18,118551,Christopher,Johnson,Lees Summit,MO,06:35.54,Bicycle Shack Racing
-19,120099,Brian,Rybarik,Madison,WI,06:37.15,Sakari Race Team
+19,120099,Brian,Rybarik,Des Moines,IA,06:37.15,Sakari Race Team
 20,245870,Kevin,Limpach,Omaha,NE,06:39.70,Harvest Racing p/b Midwest Cycling Trek Stores
 21,237287,Reed,Rinderknecht,Clive,IA,06:40.47,Sakari Race Team
 22,332930,Jason,Engle,Sioux Falls,SD,06:53.14,Two Wheeler/Specialized
@@ -1246,7 +1246,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,500512,William,Zoughaib,Sainte Genevieve,MO,06:59.00,
 20,432978,Nigel,Vaught,Kansas City,KS,07:01.28,Big D Cycling
 21,432078,Sam,Paul,Saint Louis,MO,06:38.19,
-22,422425,Po Hung,Yang,Kansas City,KS,07:21.29,GP Velotek
+22,422425,Po Hung,Yang,Chino Hills,CA,07:21.29,GP Velotek
 23,428195,Donald,Morgan,Tulsa,OK,07:22.76,TEAM PENTABIKE
 
 06/24/2017 Individual Time Trial Men Cat 3
@@ -1265,7 +1265,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,501823,Max,Bien,Burlington,NC,06:24.07,Quantum Solutions Intelligentsia
 13,380622,Jason,Cogan,Saint Louis,MO,06:24.41,The Cannonball-Hub Racing Team
 14,466571,Kyle,Sabatini,Lawrence,KS,06:24.55,GP Velotek
-15,503760,Mitch,Reidt,Clayton,MO,06:29.15,
+15,503760,Mitch,Reidt,Denver,CO,06:29.15,
 16,443189,Alan,Lowe,Cape Girardeau,MO,06:30.14,Walt's Bike Shop/Logboat Brewing Co.
 17,437904,Nicholas,Comiskey,Fairway,KS,06:30.23,Team Colavita/ Parisi Coffee
 18,376858,Dillon,McNeill,Bellevue,NE,06:30.24,Harvest Racing p/b Midwest Cycling Trek Stores
@@ -1321,7 +1321,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,55494,Anne,Meyer,La Crosse,WI,07:08.28,University of Iowa Heart and Vascular Care-Specialized
 2,458501,Amy,Cottrell,Overland Park,KS,07:14.44,Women's Free State Racing
-3,424446,Renee,Ehrlich,Florissant,MO,08:41.12,Balanced: Bike Fitting & Coaching Cycling Team
+3,424446,Renee,Ehrlich,St. Paul,MO,08:41.12,Balanced: Bike Fitting & Coaching Cycling Team
 
 06/24/2017 Individual Time Trial Women Cat 1/2/3/4/5 Masters 60+
 Place,License #,First,Last,City,State,Time,Team

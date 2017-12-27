@@ -10,7 +10,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,211847,Patrick,Casey,Park City,UT,02:42.6,
 7,230640,Cody,HAROLDSEN,Salt Lake City,UT,02:46.3,Ski City Cycling
 8,458047,Darrin,TUCKETT,Farmington,UT,02:47.1,Team Endurance360
-9,376935,Shaun,JOHNSON,Taylorsville,UT,02:47.4,Cicada racing
+9,376935,Shaun,JOHNSON,Slc,UT,02:47.4,Cicada racing
 10,458291,Erik,BROCKHOFF,West Jordan,UT,02:48.3,Cicada Racing Inc.
 11,119450,kyle,BROWN,Farmington,UT,02:48.3,PLAN7 DS cycling team
 12,181440,Aaron,OLSEN,Woodscross,UT,02:50.1,Ski City Cycling
@@ -21,7 +21,7 @@ DNF,350648,Scott,BUCCAMBUSO,Salt Lake City,UT,,Plan 7 DS
 
 04/29/2017 Road Race Men Cat4/5
 Place,License #,First,Last,City,State,Time,Team
-1,376676,Nic,Porter,Sandy,UT,01:26.0,
+1,376676,Nic,Porter,Smithfield,UT,01:26.0,
 2,502573,James,ROBINSON,Jackson,WY,01:26.0,JH Cycling/Fitzgeralds
 3,476699,Viggo,MOORE,Herriman,UT,01:26.0,Zone Five Racing
 4,278400,Daniel,WENDT,Idaho Falls,ID,01:26.0,
@@ -34,7 +34,7 @@ Place,License #,First,Last,City,State,Time,Team
 04/29/2017 Road Race Men Cat4/5 Master 35-99
 Place,License #,First,Last,City,State,Time,Team
 1,256369,Andrew,Robinson,Salt Lake City,UT,01:27.3,
-2,457822,Andrew,JUDKINS,Centerville,UT,01:27.3,Team Endurance360
+2,457822,Andrew,JUDKINS,Washington,UT,01:27.3,Team Endurance360
 3,464037,Marshall,STANCLIFT,Lehi,UT,01:27.3,Zone Five Racing
 4,289796,Bryan,GEE,Pocatello,ID,01:27.3,Idaho Cycling Enthusiasts (ICE)
 5,348276,Curtis,MADSEN,Layton,UT,01:27.3,America First Credit Union
@@ -42,7 +42,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,459171,Alan,MADSEN,Syracuse,UT,01:27.3,America First Credit Union Cycling Team
 8,276069,Kelly,DUSTIN,Rexburg,ID,01:27.3,
 9,378767,Troy,HUEBNER,Orem,UT,01:27.3,Zone Five Racing
-10,433654,Kevin,GIBSON,Pocatello ,ID,01:27.3,ICE
+10,433654,Kevin,GIBSON,Pocatello,ID,01:27.3,ICE
 11,25113,Joseph,Morrell,Pocatello,ID,01:31.1,
 12,463510,JR,STANCLIFT,Ivins,UT,01:31.1,Zone Five Racing
 13,531600,William,STINGER,Pocatello,ID,01:32.2,ICE / Barrie's
@@ -54,7 +54,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,303536,Ben,COOK,Sandy,UT,02:05.4,Cicada Racing
 3,495761,John,HUGHES,Spring Creek,NV,02:05.4,Life Behind Bars Racing
 4,431279,Ben,STEVENSON,Salt Lake City,UT,02:05.6,Team Endurance360
-5,393678,James,LAVELLE,Salt Lake City,UT,02:05.6,Cicada Racing Inc.
+5,393678,James,LAVELLE,Cottonwood Heights,UT,02:05.6,Cicada Racing Inc.
 6,376424,Ernesto,JIMENEZ,Salt Lake City,UT,02:06.2,Plan7 DS
 7,402166,Bruce,DEPPE,Salt Lake City,UT,02:06.2,Cicada Racing
 8,256369,Andrew,ROBINSON,Salt Lake City,UT,02:06.2,Zone Five Racing
@@ -63,8 +63,8 @@ Place,License #,First,Last,City,State,Time,Team
 11,495759,Paul,HUGHES,Spring Creek,NV,02:08.3,Elko Velo
 12,51897,Guy,ROUNDY,West Jordan,UT,02:11.2,S2C/Bosch p/b Pearl Izumi
 13,380299,nathan,CURTIS,Provo ,UT,02:11.3,Caliber-SBR Cycling p/b LHM Lexus Lindon
-14,457822,Andrew,JUDKINS,Centerville,UT,02:14.2,Team Endurance360
-DNF,383775,Nick,CALI,Pocatello ,ID,,
+14,457822,Andrew,JUDKINS,Washington,UT,02:14.2,Team Endurance360
+DNF,383775,Nick,CALI,Santa Rosa,CA,,
 DNF,357519,Edward,KILBOURN,Salt Lake City,UT,,Cicada Racing inc
 
 04/29/2017 Road Race Men Cat1/2/3/4/5 Master 55-99
@@ -72,7 +72,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,66592,Mark,SCHAEFER,Ogden,UT,01:32.0,MaddogRacing/HammerNutrition
 2,388576,Andres,MARICQ,Salt Lake City,UT,01:32.0,
 3,2172,Gary,AZEVEDO,Idaho Falls,ID,01:32.0,ICE
-4,142960,Jerald,HUNSAKER,Midvale,UT,01:32.0,Bountiful Mazda Cycling Team
+4,142960,Jerald,HUNSAKER,South Ogden,UT,01:32.0,Bountiful Mazda Cycling Team
 5,7974,Dirk,Cowley,Salt Lake City,UT,01:32.0,
 6,260377,Norman,FRYE,Salt Lake City,UT,01:32.1,Ski Utah
 7,34623,Steve,SULLIVAN,Pocatello,ID,01:32.1,Idaho Cycling Enthusiasts

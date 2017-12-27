@@ -10,7 +10,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,425759,Jamie,Babcock,Aiken,SC,2:04:27.2,
 7,91202,Ben,Brown,Wilmington,NC,2:04:33.6,J. A. King Racing
 8,397044,Roddy,Burgess,Charlotte,NC,2:06:13.8,
-9,387888,Patrick,Smith,North Augusta,SC,2:11:41.0,Team Greenville Health System
+9,387888,Patrick,Smith,Roebuck,SC,2:11:41.0,Team Greenville Health System
 10,260582,Drew,Hogg,College Park,MD,2:21:20.1,
 11,0,Carolos,Norena,,,2:32:07.2,
 DNF,228233,Chad,Salla,Greenville,SC,DNF,Team Greenville Health System
@@ -61,7 +61,7 @@ DNS,535715,Andrew,Large,Raleigh,NC,DNS,
 Place,License #,First,Last,City,State,Time,Team
 1,514115,Jason,Willette,Jamestown,NC,35:00.9,
 2,200137,Jason,Eaton,Cary,NC,35:45.3,
-3,484980,Tom,Lazzaro,Belmont,NC,36:56.4,
+3,484980,Tom,Lazzaro,Crouse,NC,36:56.4,
 4,509622,Joshua,McKay,Lillington,NC,37:24.5,
 5,391550,Jason,Tucker,Muncie,IN,37:53.8,
 6,460819,David,Neri,Greenville,SC,38:02.5,
@@ -76,7 +76,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,528770,Bradley,Howe,Belmont,NC,36:06.2,Velo 16 BSG
 2,467036,Chris,Huggins,Thomasville,NC,36:30.5,
-3,522388,Robert,Beasley,Monroe,NC,36:49.6,
+3,522388,Robert,Beasley,Chapel Hill,NC,36:49.6,
 4,526631,Rob,Hrubala,Spartanburg,SC,39:24.3,
 5,343928,Christopher,Hill,Linwood,NC,40:38.9,
 6,534528,Daniel,Nagro,Spartanburg,SC,40:53.6,
@@ -96,7 +96,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,0,Easton,Brannan,,,39:38.4,
 2,499329,Davis,Breedlove,Monroe,NC,42:41.3,Slippery Sasquatch
-3,535479,Parks,Harrison,Hickory,NC,43:53.1,
+3,535477,Parks,Harrison,Hickory,NC,43:53.1,
 4,530698,Ely,Clark,Weaverville,NC,44:16.6,
 5,475282,Brayden,Phillips,Pisgah Forest,NC,46:19.9,
 6,525933,Mario,Quivera,Granite Falls,NC,48:46.7,
@@ -136,7 +136,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,32470,Randy,Shields,Winston Salem,NC,2:19:37.5,Hearts Racing Club
 8,17045,Cary,Hughes,Anderson,SC,2:21:32.3,
 9,36874,Alan,Wages,Charlotte,NC,2:29:15.7,Slippery Sasquatch
-DNS,403359,Craig,Campbell,Lyman ,SC,DNS,
+DNS,403359,Craig,Campbell,Lyman,SC,DNS,
 DNF,19183,Mike,King,Fort Mill,SC,DNF,
 DNF,536471,Jay,Smith,Cary,NC,DNF,
 DNF,285685,Rob,Rogers,Elgin,SC,DNF,

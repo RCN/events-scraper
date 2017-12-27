@@ -32,7 +32,9 @@
     "eslint:fix": "eslint lib/ --ext .js --fix || true",
     "reinstall": "rimraf node_modules && npm i"
   },
-  "moduleRoots": [ "./lib" ],
+  "moduleRoots": [
+    "./lib"
+  ],
   "devDependencies": {
     "babel-core": "^6.9.0",
     "babel-plugin-add-module-exports": "^0.2.1",
@@ -59,7 +61,7 @@
     "colors": "^1.0.3",
     "date": "^1.0.2",
     "dotenv": "^4.0.0",
-    "little-scraper": "^1.6.0",
+    "little-scraper": "^2.2.1",
     "lodash": "^4.12.0",
     "moment": "^2.10.6",
     "query-string": "^4.1.0",

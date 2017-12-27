@@ -12,7 +12,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,23836,Michael,McShane,Louisville,KY,,Texas Roadhouse Cycling Team
 9,223370,Nathan,Moorhouse,Owensboro,KY,,Polish & Slavic FCU International Cycling Team
 10,233714,Andrew,Beckman,Louisville,KY,,Clarksville Schwinn powered by Whayne
-10,2443,John,Balmer,Indianapolis ,IN,,CENTURY ROAD CLUB
+10,2443,John,Balmer,Indianapolis,IN,,CENTURY ROAD CLUB
 11,411181,Larry,Donald,Evansville,IN,,Dan's Comp Factory Racing
 12,400799,Jacob,Slosar,Edwardsville,IL,,
 13,285795,Benjamin,King,Louisville,KY,,Clarksville Schwinn powered by Whayne
@@ -93,7 +93,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,405427,Gregory,Nemeth,Greenwood,IN,,Monster Media Racing
 11,473196,Jacob,Cohen,Chesterfield,MO,,None
 12,375956,Corey,Kimball,Evansville,IN,,Schellers Evansville Racing Team
-13,533001,Andy,Tipton,Greenup,IL,,None
+13,533001,Andy,Tipton,Effingham ,IL,,None
 14,493745,Ricardo,Zacarias,Evansville,IN,,Schellers Evansville Racing Team
 15,527392,Jack,Spencer,Evansville,IN,,None
 16,310097,Frank,Martin,Evansville,IN,,DANS COMP
@@ -158,7 +158,7 @@ DNF,532682,Brendan,Devlin,Evansville,IN,,3RT
 06/17/2017 Criterium Men Cat 5
 Place,License #,First,Last,City,State,Time,Team
 1,535535,Justin,Thomas,Evansville,IN,,None
-2,533001,Andy,Tipton,Greenup,IL,,None
+2,533001,Andy,Tipton,Effingham ,IL,,None
 3,530242,Ben,Herbertz,Indianapolis,IN,,None
 4,493745,Ricardo,Zacarias,Evansville,IN,,Schellers Evansville Racing Team
 5,0,RYAN,HARTLADGE,,,,
@@ -212,7 +212,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,200504,Briana,Clark,Carmel,IN,,First Internet Bank Cycling Team
 4,427800,Stacy,Bragg,Saint Louis,MO,,PASTARIA = BIG SHARK
 5,350064,Claire,Reeves,Grand Rapids,MI,,Speed Merchants
-6,196566,Julie,Sanchez,Finchville ,KY,,UNATTACHED
+6,196566,Julie,Sanchez,Finchville,KY,,UNATTACHED
 7,343350,Amy,Kruger,Mount Vernon,IN,,Dan's Comp Factory Racing
 8,482735,Sarah,Schuetter,Evansville,IN,,Dan's Comp Factory Racing
 9,367876,Caron,Leader,Evansville,IN,,DANS COMP

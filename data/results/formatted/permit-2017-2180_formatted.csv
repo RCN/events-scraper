@@ -6,8 +6,8 @@ Place,License #,First,Last,City,State,Time,Team
 2,0,Bryce,Meade,,,52:01:34,Meade's Bike Shop
 3,299155,Ryan,O'Boyle,Shorewood,IL,53:09:88,xXx Athletico
 4,255040,Kyle,Cress,Hillsboro,IL,55:02:01,Korte Hammer Down
-5,157753,Trevor,Lister,Springfield ,IL,55:24:54,The Cyclery
-6,102472,Robert,Burke,Mt Prospect,IL,56:17:30,
+5,157753,Trevor,Lister,Springfield,IL,55:24:54,The Cyclery
+6,189847,Robert,Burke,Antioch,IL,56:17:30,
 7,0,Austin,Zahm,,,1:00:01:01,Fighting Illini Tri
 8,539880,Wayne,Brown,Mount Vernon,IL,1:02:53:25,
 9,0,Alexey,Kochin,,,1:15:34:78,
@@ -41,7 +41,7 @@ DNS,500726,Dominic,Lopez,Naperville,IL,DNS,Grassloop
 08/12/2017 Time Trial Men 9-14 Junior 9-14
 Place,License #,First,Last,City,State,Time,Team
 1,514405,David,Kosela,Downers Grove,IL,34:07:02,PLUS Cycling
-2,493062,Nicholas,Labbe,Rolling Meadows  Il,IL,38:10:52,Pony Shop
+2,493062,Nicholas,Labbe,Rolling Meadows  ,IL,38:10:52,Pony Shop
 
 08/12/2017 Time Trial Men 65+ Master 65+
 Place,License #,First,Last,City,State,Time,Team
@@ -105,5 +105,5 @@ Place,License #,First,Last,City,State,Time,Team
 
 08/12/2017 Time Trial Women 40-49 Master 40-49
 Place,License #,First,Last,City,State,Time,Team
-1,0,Susana,Calderone,,,1:15:01:25,Balance
+1,392024,Susana,Calderon,Decatur,IL,1:15:01:25,Balance
 2,0,Debbie,Russell,,,1:19:17:17,

@@ -6,13 +6,13 @@ Place,License #,First,Last,City,State,Time,Team
 2,366360,Sam,Waples,Spokane,WA,,Audi
 3,460834,Justin,Wagner,Spokane,WA,,Mountain View
 4,404681,Chris,Hogan,Spokane,WA,,Bandit Elite Racing
-5,307192,Jake,Yackle,Spokane ,WA,,Yakle Brothers Racing
+5,307192,Jake,Yackle,Spokane,WA,,Yakle Brothers Racing
 6,368185,Matt,Cusack,Spokane,WA,,Bandit Elite Racing
 7,367866,Andy,Anderson,Spokane,WA,,Bandit Elite Racing
 8,190844,Shawn,Howard,Colbert,WA,,Vertical Earth
 9,23720,Terry,McLeod,Sagle,ID,,Vertical Earth
 10,471780,Scott,Allen,Otis Orchards,WA,,Emde Sports
-DNP,360719,Nigel,Davies,Spokane ,WA,,Bandit Elite Racing
+DNP,360719,Nigel,Davies,Spokane,WA,,Bandit Elite Racing
 DNP,133739,Bill,Knudsen,Spokane,WA,,Bandit Elite Racing
 DNP,408446,David,Waples,Spokane,WA,,Audi
 
@@ -21,7 +21,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,102339,Thomas,Leach,Spokane Valley,WA,,Spidermonkey Cycling
 2,342954,Steve,Ridley,Spokane,WA,,River City Red
 3,442701,Jonathan,Raffaeli,Liberty Lake,WA,,Baddlands
-4,307201,Nye,Yackle,Spokane ,WA,,
+4,307201,Nye,Yackle,Spokane,WA,,
 5,94190,Tim,Crum,Spokane,WA,,Bicycle Butler
 6,278470,Joel K,Armstrong,Spokane,WA,,River City Red
 7,236429,Jim,Stefanoff,Spokane,WA,,Two Wheeler Dealer
@@ -38,7 +38,7 @@ DNP,524766,Peter,Adams,Gilroy,CA,,
 Place,License #,First,Last,City,State,Time,Team
 1,411097,Ben,Richardson,Spokane,WA,,Emde
 2,276419,Joey,Reagan,Spokane,WA,,Baddlands
-3,456264,Bleck,Bradley,Spokane,WA,,Baddlands
+3,59564,Bleck,Bradley,Spokane,WA,,Baddlands
 4,238468,Peter,Niday,Loon Lake,WA,,Baddlands
 5,60016,Alex,Renner,Spokane,WA,,Baddlands
 
@@ -55,12 +55,12 @@ Place,License #,First,Last,City,State,Time,Team
 9,368185,Matt,Cusack,Spokane,WA,,Bandit Elite Racing
 10,438975,Jared,Schmautz,Spokane Valley,WA,,River City Red
 DNP,23720,Terry,McLeod,Sagle,ID,,Vertical Earth
-DNP,360719,Nigel,Davies,Spokane ,WA,,Bandit Elite Racing
+DNP,360719,Nigel,Davies,Spokane,WA,,Bandit Elite Racing
 DNP,367866,Andy,Anderson,Spokane,WA,,Bandit Elite Racing
 DNP,367641,Ryan,Pursley,Spokane,WA,,River City Red
 DNP,471780,Scott,Allen,Otis Orchards,WA,,Emde Sports
 DNP,502637,JJ,Anderson,Spokane,WA,,River City Red
-DNP,292267,Brian,Hannibal,Rathdrum,ID,,
+DNP,292267,Brian,Hannibal,Moscow,ID,,
 
 05/23/2017 Circuit Race Men Cat 1/2/3/4/5 B Pack
 Place,License #,First,Last,City,State,Time,Team
@@ -84,7 +84,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,276419,Joey,Reagan,Spokane,WA,,Baddlands
 3,305672,Jim,Bower,Coeur D Alene,ID,,Baddlands
 4,238468,Peter,Niday,Loon Lake,WA,,Baddlands
-5,456264,Bleck,Bradley,Spokane,WA,,Baddlands
+5,59564,Bleck,Bradley,Spokane,WA,,Baddlands
 6,60016,Alex,Renner,Spokane,WA,,Baddlands
 7,351790,Kirk,Herring,Spokane Valley,WA,,
 8,68736,Larry,Adams,Spokane,WA,,Emde
@@ -124,7 +124,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,383352,Richie,Frahm,Spokane,WA,,River City Red
 5,23720,Terry,McLeod,Sagle,ID,,Vertical Earth
 6,471780,Scott,Allen,Otis Orchards,WA,,Emde Sports
-7,360719,Nigel,Davies,Spokane ,WA,,Bandit Elite Racing
+7,360719,Nigel,Davies,Spokane,WA,,Bandit Elite Racing
 8,408446,David,Waples,Spokane,WA,,Audi
 9,366360,Sam,Waples,Spokane,WA,,Audi
 10,367866,Andy,Anderson,Spokane,WA,,Bandit Elite Racing
@@ -159,7 +159,7 @@ DNP,488773,Cory,Newton,Spokane,WA,,US Mil Cycling
 05/02/2017 Circuit Race Men Cat 1/2/3/4/5 C Pack
 Place,License #,First,Last,City,State,Time,Team
 1,99282,Jerred,Gildehaus,Spokane Valley,WA,,
-2,456264,Bleck,Bradley,Spokane,WA,,Baddlands
+2,59564,Bleck,Bradley,Spokane,WA,,Baddlands
 3,143576,Brian,Houser,Cheney,WA,,Baddlands
 4,60016,Alex,Renner,Spokane,WA,,Baddlands
 5,238468,Peter,Niday,Loon Lake,WA,,Baddlands
@@ -177,7 +177,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,383352,Richie,Frahm,Spokane,WA,,River City Red
 9,380657,Alec,Pasqualina,Alamo,CA,,A Bloc Racing
 10,23720,Terry,McLeod,Sagle,ID,,Vertical Earth
-DNP,360719,Nigel,Davies,Spokane ,WA,,Bandit Elite Racing
+DNP,360719,Nigel,Davies,Spokane,WA,,Bandit Elite Racing
 DNP,366360,Sam,Waples,Spokane,WA,,Audi
 DNP,260091,Dave,Holden,Mead,WA,,Vertical Earth
 DNP,408446,David,Waples,Spokane,WA,,Audi
@@ -218,7 +218,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,99282,Jerred,Gildehaus,Spokane Valley,WA,,
 4,276419,Joey,Reagan,Spokane,WA,,Baddlands
 5,238468,Peter,Niday,Loon Lake,WA,,Baddlands
-6,456264,Bleck,Bradley,Spokane,WA,,Baddlands
+6,59564,Bleck,Bradley,Spokane,WA,,Baddlands
 DNP,212107,Gage,Stromberg,Spokane,WA,,River City Red
 
 04/18/2017 Circuit Race Men Cat 1/2/3/4/5 A Pack
@@ -227,18 +227,18 @@ Place,License #,First,Last,City,State,Time,Team
 2,460834,Justin,Wagner,Spokane,WA,,Mountain View
 3,120506,Bruce,Johnson,Liberty Lake,WA,,Two Wheeler Dealer
 4,383352,Richie,Frahm,Spokane,WA,,River City Red
-5,360719,Nigel,Davies,Spokane ,WA,,Bandit Elite Racing
+5,360719,Nigel,Davies,Spokane,WA,,Bandit Elite Racing
 6,412456,Josiah,Poler,Spokane,WA,,Bandit Elite Racing
 7,23720,Terry,McLeod,Sagle,ID,,Vertical Earth
 8,367641,Ryan,Pursley,Spokane,WA,,River City Red
-9,470764,Alec,Burks,Cheney,WA,,River City Red
+9,470764,Alec,Burks,Spokane,WA,,River City Red
 
 04/11/2017 Circuit Race Men A
 Place,License #,First,Last,City,State,Time,Team
 1,460834,Justin,Wagner,Spokane,WA,,Mountain View
 2,404681,Chris,Hogan,Spokane,WA,,Bandit Elite Racing
-3,259043,Jay,Shalekbriski,Spokane,WA,,US Mil Cycling
-4,360719,Nigel,Davies,Spokane ,WA,,Bandit Elite Racing
+3,259043,Jay,Shalekbriski,Apo,AP,,US Mil Cycling
+4,360719,Nigel,Davies,Spokane,WA,,Bandit Elite Racing
 5,383352,Richie,Frahm,Spokane,WA,,River City Red
 6,61814,Pat,O'Neil,Spokane,WA,,Bandit Elite Racing
 7,120506,Bruce,Johnson,Liberty Lake,WA,,Two Wheeler Dealer
@@ -257,7 +257,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,276419,Joey,Reagan,Spokane,WA,,Baddlands
 6,469113,Jaimie,Kenney,Spokane,WA,,River City Red
 7,143576,Brian,Houser,Cheney,WA,,Baddlands
-8,456264,Bleck,Bradley,Spokane,WA,,Baddlands
+8,59564,Bleck,Bradley,Spokane,WA,,Baddlands
 9,238468,Peter,Niday,Loon Lake,WA,,Baddlands
 DNP,70667,Sam,Joseph,Spokane,WA,,River City Red
 
@@ -287,7 +287,7 @@ DNP,377981,Jerry,Hitchcock,Post Falls,ID,,Vertical Earth
 DNP,396538,Abdean,Smith,Spokane,WA,,Baddlands
 DNP,425493,Brian,Comstock,Colbert,WA,,River City Red
 DNP,471700,Brian,ODonnell,Spokane,WA,,River City Red
-DNP,470764,Alec,Burks,Cheney,WA,,River City Red
+DNP,470764,Alec,Burks,Spokane,WA,,River City Red
 DNP,460912,Scott,Starbuck,Spokane,WA,,Baddlands
 DNP,0,Brian,Litzenberger,,,,Vertical Earth
 DNP,0,Andrew,Rizzi,,,,

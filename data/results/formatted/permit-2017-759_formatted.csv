@@ -17,15 +17,15 @@ Place,License #,First,Last,City,State,Time,Team
 13,527207,Jordan,GILMORE,,,,
 14,232232,Brandon,KRAWCZYK,Saint Paul,MN,,Borah Factory Racing
 15,215644,Quinten,KIRBY,San Diego,CA,,Support Clean Sport/SeaSucker/Guttenplan Coaching
-16,263035,Andrew,GINIAT,Winnetka,IL,,Project Echelon Racing
+16,263035,Andrew,GINIAT,Asheville,NC,,Project Echelon Racing
 17,218099,Tyler,LOCKE,Canyon Country,CA,,
 18,399927,Matt,GREEN,Delafield,WI,,First Internet Bank Cycling Team
 19,389699,Philip,SHORT,Greensboro,NC,,Nine Lives Carbon Repair
 20,333300,Lane,MAHER,Harwinton,CT,,Hot Tubes Development Cycling Team Inc.
 21,200766,Michael,DUTCZAK,Crete,IL,,Bicycle Heaven
 22,445034,Orlando,GARIBAY,,,,
-23,456576,Samuel,BOARDMAN,Washington,CA,,Herbalife p/b Marc Pro - Nature's Bakery
-24,306325,William,MYERS,Orinda,CA,,Herbalife p/b Marc Pro - Nature's Bakery
+23,456576,Samuel,BOARDMAN,Los Angeles,CA,,Herbalife p/b Marc Pro - Nature's Bakery
+24,306325,William,MYERS,Davis,CA,,Herbalife p/b Marc Pro - Nature's Bakery
 25,311313,Alec,GUGGEMOS,Saint Paul,MN,,SPBRC-Grand Performance
 26,502802,Ayden,TOOVEY,,,,
 27,503207,Joshua,TAYLOR,,,,
@@ -33,7 +33,7 @@ Place,License #,First,Last,City,State,Time,Team
 29,406669,Jesse,KOOISTRA,Paw Paw,MI,,Levine Law Group Elite Cycling Team
 30,376024,Charkie,HUEGEL,Greensboro,NC,,Nine Lives Carbon Repair
 31,165840,Danny,KAM,Las Vegas,NV,,Monster Media Elite Masters
-32,504799,Peter,FOERSTER,,,,
+32,504799,Peter,FOERSTER,Atlanta,GA,,
 33,309409,Aldo Ino,ILESIC,Charlotte,NC,,Crit Life
 34,532021,William,HODGES,,,,
 35,195204,Bryan,LARSEN,Santa Rosa,CA,,Storck-CCN
@@ -53,7 +53,7 @@ Place,License #,First,Last,City,State,Time,Team
 49,432674,Jarret,OLDHAM,Chicago,IL,,First Internet Bank Cycling Team
 50,507570,Harrison,BAILEY,,,,
 51,197316,Justin,WILLIAMS,Los Angeles,CA,,UCI CT: Cylance
-52,374617,Chad,CONLEY,Cartersville,GA,,Pharmaco-DeepSouth p/b NGCA
+52,374617,Chad,CONLEY,Atlanta,GA,,Pharmaco-DeepSouth p/b NGCA
 53,535796,Francesco,CHICCHI,Knoxville,TN,,Crit Life
 54,359308,Richard,OBRIANT,Fuquay Varina,NC,,Jigawatt Cycling
 55,368147,Alex,MCLAUGHLIN,Louisville,KY,,Texas Roadhouse Cycling Team
@@ -73,11 +73,11 @@ Place,License #,First,Last,City,State,Time,Team
 5,429283,Carlo,ROCHE,Pembroke Pines,FL,,Interactive Metronome p/b Mega Cycle
 6,530517,Ryley,NORTHROP,Wauwatosa,WI,,Velocause Centraal Cycling
 7,268180,Patrick,BROCK,West Bend,WI,,BELGIANWERKX
-8,472755,Tom,MADDEN,Elmhurst,IL,,Marquette University
+8,472755,Tom,MADDEN,Milwaukee,WI,,Marquette University
 9,413109,Craig,BILLINGS,Madison,WI,,Brazen Dropouts
 10,451548,Joe,GARNI,Milwaukee,WI,,Lakes Area Physical Therapy
 11,532011,JUANFELIPE,PEREZ,,,,
-12,480010,Daniel,FEULING,Milwaukee,WI,,BSB Cycling
+12,480010,Daniel,FEULING,Milwaukee Wi,WI,,BSB Cycling
 13,310880,Theodore,PYZYK,Milwaukee,WI,,BELGIANWERKX
 14,176164,Ryan,LIPSKI,Hubertus,WI,,KS Energy Services / MOSH / Team Wisconsin
 15,532168,samuel,JANISCH,Wauwatosa,WI,,ISCorp Cycling
@@ -124,7 +124,7 @@ Place,License #,First,Last,City,State,Time,Team
 56,0,Rich,NEUMAN,,,,
 57,424987,Brad,GILDERS,Wauwatosa,WI,,
 58,468473,Adam,BOGSTAD,Madison,WI,,University of Wisconsin-Whitewater
-59,530353,Max,WIEGERS,Milwaukee,WI,,Lakes Area Physical Therapy
+59,530353,Max,WIEGERS,Mcpherson,KS,,Lakes Area Physical Therapy
 60,524102,Travis,SWANSON,New Berlin,WI,,Colorado State University
 61,527362,Joseph,PICHOTTA,Fox Point,WI,,
 62,456129,William,FINN,Milwaukee,WI,,Ben's Cycle/Milwaukee Bicycle Co.
@@ -135,7 +135,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,410406,Justin,KIRK,Carmel,IN,,Phoenix Fitness and Training
 2,178088,Jeff,ELAM,Madison,WI,,Team Velocause
 3,203399,Eric,GOODWIN,Chicago,IL,,Burnham Racing
-4,362289,Jason,HOLLY,Buffalo Grove ,IL,,PSIMET Racing
+4,362289,Jason,HOLLY,Buffalo Grove,IL,,PSIMET Racing
 5,185666,Rick,SCHOPP,Warrenville,IL,,INTENT
 6,82335,Todd,WENDELL,Chicago,IL,,Burnham Racing
 7,115204,Brian,LEATHERMAN,Waunakee,WI,,Team Velocause
@@ -160,7 +160,7 @@ Place,License #,First,Last,City,State,Time,Team
 26,377648,Lee,PIER,Madison,WI,,Brazen Dropouts Cycling Team
 27,375978,Kurt,BENTSEN,Crystal Lake,IL,,PSIMET Racing
 28,349616,Scott,RICE,Hartland,WI,,
-29,312254,Benny,SMITH,Wauwatosa ,WI,,Team Velocause
+29,312254,Benny,SMITH,Wauwatosa,WI,,Team Velocause
 30,301908,Matthew,HAWKESWORTH,La Verne,CA,,Impact Racing Team
 31,69191,Andrew,ROSSA,Milwaukee,WI,,KS Energy Services / MOSH / Team Wisconsin
 32,134612,John,GAMACHE,Waukesha,WI,,Lakes Area Physical Therapy
@@ -171,11 +171,11 @@ Place,License #,First,Last,City,State,Time,Team
 1,367909,Imeh,NSEK,Ontario,CA,,LUX/Stradling p/b Specialized
 2,417606,Samuel,BARNAGAUD,Boca Raton,FL,,Interactive Metronome p/b Mega Cycle
 3,257291,Taylor,SCHMIDT,Littleton,CO,,COGA Elite Cycling Team
-4,530396,Jarrod,MORONI,,,,
+4,530396,Jarrod,MORONI,Oceanside,CA,,
 5,531978,Alexander,CASTAO,,,,
 6,385995,Brent,WILLIAMS,Appleton,WI,,Diablo Cycling
 7,504322,Sebastian,SALINAS,Miami,FL,,
-8,312724,Andrew,WEBB,Appleton,WI,,Diablo Cycling
+8,312724,Andrew,WEBB,Hortonville,WI,,Diablo Cycling
 9,364831,Alex,MCCORMACK,Leicester,MA,,Hot Tubes Development Cycling Team Inc.
 10,532012,ALEJANDRO,VILLADA,,,,
 11,291669,Ken,HUM,Minneapolis,MN,,Zubaz Racing
@@ -187,11 +187,11 @@ Place,License #,First,Last,City,State,Time,Team
 17,531988,John,CUERVO,,,,
 18,484971,Michael,LAMBERT,Tuscaloosa,AL,,SH!FT Racing p/b St. Vincent's Orthopedics
 19,430347,Alex,TURNER,Minneapolis,MN,,Hollywood Cycles
-20,494503,JeanLuc,CONTANT-GALITELLO,Pompano Beach,FL,,Interactive Metronome p/b Mega Cycle
+20,494503,JeanLuc,CONTANT-GALITELLO,Coconut Creek,FL,,Interactive Metronome p/b Mega Cycle
 21,410856,Tyler,CURTIS,Clear Lake,IA,,NorthStar Development Cycling
 22,208217,Alex,EDWARDS,Streamwood,IL,,PSIMET Racing
 23,400309,Anthony,VICINO,Hinsdale,IL,,INTENT
-24,470369,Dane,MURPHY,Naperville ,IL,,Chicago Cuttin Crew
+24,470369,Dane,MURPHY,Naperville,IL,,Chicago Cuttin Crew
 25,500484,Bobby,ATKINS,Chicago,IL,,xXx Racing
 26,458981,Malik,MARIANO,Kamuela,HI,,Ka Makani O Waikoloa Cycling Club
 27,359308,Richard,OBRIANT,Fuquay Varina,NC,,Jigawatt Cycling
@@ -221,7 +221,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,220881,Timothy,STRELECKI,Naperville,IL,,EMC2 / Elmhurst Masters
 4,222021,Emile,ABRAHAM,Atlanta,GA,,Pharmaco-DeepSouth p/b NGCA
 5,185666,Rick,SCHOPP,Warrenville,IL,,INTENT
-6,201290,Ryan,WHITE,Milwaukee ,WI,,
+6,201290,Ryan,WHITE,Milwaukee,WI,,
 7,24653,Steven,MLUJEAK,Hollywood,FL,,Interactive Metronome p/b Mega Cycle
 8,15584,Michael,HEAGNEY,Libertyville,IL,,Intelligentsia-Allied
 9,172255,Michael,FROH,Milwaukee,WI,,Intelligentsia Coffee
@@ -235,7 +235,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,49386,Matt,DUNCAN,Louisville,CO,,GS Panache
 18,162381,Erik,TOMLINSON,Genoa,IL,,Polish & Slavic FCU International Cycling Team
 19,246297,Clayton,CHASE,Mequon,WI,,
-20,406399,Simon,PHUAH,Downers Grove,IL,,INTENT
+20,406399,Simon,PHUAH,Littleton,CO,,INTENT
 21,68766,Michael,MARTENS,Grafton,WI,,
 22,196540,Pablo,SANTA CRUZ,Safety Harbor,FL,,FloridaVelo
 23,389934,Derek,MORAN,Eden,WI,,Gryphon Velo Racing
@@ -263,7 +263,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,484160,Josie,TALBOT,,,,ISCorp Powered By Progress
 2,0,Gracie,ELVIN,,,,
-3,509477,Peta,MULLENS,Tulsa,OK,,
+3,509477,Peta,MULLENS,Oceanside,CA,,
 4,202033,Starla,TEDDERGREEN,Portland,OR,,UCI WPT: Hagens Berman | Supermint
 5,535723,Rebecca,WIASAK,,,,
 6,55820,Katherine,COMPTON,Colorado Springs,CO,,
@@ -280,7 +280,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,384315,Payten,MANESS,Flower Mound,TX,,Papa John's Racing p/b TREK
 18,414313,Clio,DINAN,Falls Church,VA,,Velo Classic p/b Stan's NoTubes
 19,508146,Kendelle,HODGES,Lambertville,NJ,,
-20,512762,Lily,WILLIAMS,Chicago,IL,,Bonkers Cycling
+20,512762,Lily,WILLIAMS,Asheville,NC,,Bonkers Cycling
 21,475142,Sarah,CONEY,,,,
 22,313982,Kate,KIRKPATRICK,Washington,DC,,Mellow Mushroom p/b Psimet
 23,217750,Christina,GOKEY-SMITH,Denton,TX,,Papa John's Racing p/b TREK
@@ -343,10 +343,10 @@ Place,License #,First,Last,City,State,Time,Team
 12,481324,Jodie,PRESTINE,Brookfield,WI,,ISCorp Cycling p/b SmartChoice MRI
 13,332976,Mollie,BREWER,Boulder,CO,,ALP Cycles Racing
 14,440261,Donna,GALLARDO,Milwaukee,WI,,Team Velocause
-15,473111,Cedella,JANCZAK,Greendale,WI,,ISCorp Cycling p/b SmartChoice MRI
+15,473111,Cedella,JANCZAK,Hales Corners,WI,,ISCorp Cycling p/b SmartChoice MRI
 16,318302,Andrea,CYR,Milwaukee,WI,,Team Velocause
 17,534385,Iona,HALLIDAY,,,,
-18,433105,Brenna,GIBBONS,Coon Valley ,WI,,
+18,433105,Brenna,GIBBONS,Madison,WI,,
 19,485931,Erin,NINMER,Milwaukee,WI,,Hollander Benelux Racing
 20,476607,Traci,ELLIOTT,Wauwatosa,WI,,ISCorp Cycling p/b SmartChoice MRI
 21,532009,Camila,SANTAMARIA,,,,
@@ -373,11 +373,11 @@ Place,License #,First,Last,City,State,Time,Team
 9,368147,Alex,MCLAUGHLIN,Louisville,KY,,Texas Roadhouse Cycling Team
 10,344420,Jadon,JAEGER,Bayside,WI,,Intelligentsia Coffee
 11,503207,Joshua,TAYLOR,,,,
-12,456576,Samuel,BOARDMAN,Washington,CA,,Herbalife p/b Marc Pro - Nature's Bakery
+12,456576,Samuel,BOARDMAN,Los Angeles,CA,,Herbalife p/b Marc Pro - Nature's Bakery
 13,218099,Tyler,LOCKE,Canyon Country,CA,,
-14,263035,Andrew,GINIAT,Winnetka,IL,,Project Echelon Racing
+14,263035,Andrew,GINIAT,Asheville,NC,,Project Echelon Racing
 15,215644,Quinten,KIRBY,San Diego,CA,,Support Clean Sport/SeaSucker/Guttenplan Coaching
-16,306325,William,MYERS,Orinda,CA,,Herbalife p/b Marc Pro - Nature's Bakery
+16,306325,William,MYERS,Davis,CA,,Herbalife p/b Marc Pro - Nature's Bakery
 17,389699,Philip,SHORT,Greensboro,NC,,Nine Lives Carbon Repair
 18,535665,wilmer,ULLOA,Milwaukee,WI,,
 19,502802,Ayden,TOOVEY,,,,
@@ -385,7 +385,7 @@ Place,License #,First,Last,City,State,Time,Team
 21,424332,Jose Frank,RODRIGUEZ,Miami,FL,,
 22,165840,Danny,KAM,Las Vegas,NV,,Monster Media Elite Masters
 23,211512,David,REYES,Chicago,IL,,Tenspeed Hero
-24,504799,Peter,FOERSTER,,,,
+24,504799,Peter,FOERSTER,Atlanta,GA,,
 25,298963,Eric,BRUNNER,Boulder,CO,,
 26,376024,Charkie,HUEGEL,Greensboro,NC,,Nine Lives Carbon Repair
 27,232232,Brandon,KRAWCZYK,Saint Paul,MN,,Borah Factory Racing
@@ -394,7 +394,7 @@ Place,License #,First,Last,City,State,Time,Team
 30,174544,Shane,FEEHERY,Homewood,IL,,Bicycle Heaven
 31,476737,Andrew,DEWAR,Libertyville,IL,,Sonic Boom Racing Team
 32,195204,Bryan,LARSEN,Santa Rosa,CA,,Storck-CCN
-33,381623,Owen,GILLOTT,Foster City ,CA,,Storck-CCN
+33,381623,Owen,GILLOTT,Foster City,CA,,Storck-CCN
 34,192686,Blake,ANTON,Arroyo Grande,CA,,Herbalife p/b MarcPro-Strava
 35,364346,Andrew,CASTAGNERI,Littleton,CO,,Prestige Imports/Porsche/Audi Race Team
 36,226739,Trevor,ROLETTE,Tinley Park,IL,,Sammy's Racing
@@ -521,14 +521,14 @@ Place,License #,First,Last,City,State,Time,Team
 14,532011,JUANFELIPE,PEREZ,,,,
 15,473554,Thomas,ZIOLKOWSKI,Whitewater,WI,,
 16,496645,Aidan,COATSBALLASEUX,Denver,CO,,Prestige Imports/Porsche/Audi Race Team
-17,381826,Ryan,STOWERS,Denver,CO,,Boulder Junior Cycling
+17,381826,Ryan,STOWERS,Boulder,CO,,Boulder Junior Cycling
 18,530517,Ryley,NORTHROP,Wauwatosa,WI,,Velocause Centraal Cycling
 19,478065,Andrew,SMITS,Appleton,WI,,Diablo Cycling
 20,413109,Craig,BILLINGS,Madison,WI,,Brazen Dropouts
 21,498349,Riley,COCKERILL,Lakeville,MN,,Brazen Dropouts Cycling Team
 22,429816,Derek,LANDWEHR,Cottage Grove,WI,,Brazen Dropouts Cycling Team
 23,414021,Graham,OUTLAW,Boulder,CO,,Boulder Junior Cycling
-24,480010,Daniel,FEULING,Milwaukee,WI,,BSB Cycling
+24,480010,Daniel,FEULING,Milwaukee Wi,WI,,BSB Cycling
 25,502130,Eric,SHUMAKER,Saint Paul,MN,,Wisconsin Cycling at UW-Madison
 26,480746,Shawn,NELSON,Fond Du Lac,WI,,Diablo Cycling
 27,390102,Jakub,CYCHOWSKI,Milwaukee,WI,,
@@ -590,7 +590,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,526619,David,SANTOS,Waukesha,WI,,KS Energy Services / MOSH / Team Wisconsin
 6,82335,Todd,WENDELL,Chicago,IL,,Burnham Racing
 7,185666,Rick,SCHOPP,Warrenville,IL,,INTENT
-8,362289,Jason,HOLLY,Buffalo Grove ,IL,,PSIMET Racing
+8,362289,Jason,HOLLY,Buffalo Grove,IL,,PSIMET Racing
 9,52133,Andreas,FISCHER,Chicago,IL,,PSIMET Racing
 10,357134,Dave,LENTING,Wyoming,MI,,Leadout Racing
 11,274295,James,BROENNIMANN,Fox Point,WI,,Hollander Benelux Racing
@@ -604,7 +604,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,375978,Kurt,BENTSEN,Crystal Lake,IL,,PSIMET Racing
 20,359848,Peter,CAVOTO,Chicago,IL,,PSIMET Racing
 21,172959,Eric,SCHRAM,Manitowoc,WI,,Fiets Club Flahute
-22,312254,Benny,SMITH,Wauwatosa ,WI,,Team Velocause
+22,312254,Benny,SMITH,Wauwatosa,WI,,Team Velocause
 23,282943,Bryan,WIERZCHUCKI,Chino Hills,CA,,Impact Racing Team
 24,69191,Andrew,ROSSA,Milwaukee,WI,,KS Energy Services / MOSH / Team Wisconsin
 25,310737,Christian,MEEKMA,Chicago,IL,,
@@ -621,16 +621,16 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,504322,Sebastian,SALINAS,Miami,FL,,
 2,478112,Patrick,JUNGENBLUT,Milwaukee,WI,,
-3,312724,Andrew,WEBB,Appleton,WI,,Diablo Cycling
+3,312724,Andrew,WEBB,Hortonville,WI,,Diablo Cycling
 4,531978,Alexander,CASTAO,,,,
 5,312130,Trey,HEDGECOCK,Ankeny,IA,,Above and Beyond Cancer p/b Scheels
 6,367909,Imeh,NSEK,Ontario,CA,,LUX/Stradling p/b Specialized
-7,530396,Jarrod,MORONI,,,,
+7,530396,Jarrod,MORONI,Oceanside,CA,,
 8,385995,Brent,WILLIAMS,Appleton,WI,,Diablo Cycling
 9,492820,Wesley,PHIPSON,St Charles,MO,,Project Echelon Racing
-10,477965,Kia,NAMIN,Milwaukee,WI,,Team Velocause
+10,477965,Kia,NAMIN,Shorewood,WI,,Team Velocause
 11,381603,Stephen,JETTE,Weston,MA,,New England Devo
-12,470369,Dane,MURPHY,Naperville ,IL,,Chicago Cuttin Crew
+12,470369,Dane,MURPHY,Naperville,IL,,Chicago Cuttin Crew
 13,257291,Taylor,SCHMIDT,Littleton,CO,,COGA Elite Cycling Team
 14,484971,Michael,LAMBERT,Tuscaloosa,AL,,SH!FT Racing p/b St. Vincent's Orthopedics
 15,417606,Samuel,BARNAGAUD,Boca Raton,FL,,Interactive Metronome p/b Mega Cycle
@@ -666,7 +666,7 @@ Place,License #,First,Last,City,State,Time,Team
 06/24/2017 Criterium Men Cat 1/2/3 Juniors 15-18
 Place,License #,First,Last,City,State,Time,Team
 1,391693,Ama,NSEK,Ontario,CA,,LUX/Stradling p/b Specialized
-2,331144,Denzel,STEPHENSON,Boulder ,CO,,Boulder Junior Cycling
+2,331144,Denzel,STEPHENSON,Boulder,CO,,Boulder Junior Cycling
 3,318434,Kyle,KIRBY,San Diego,CA,,NCCF/ Team Specialized Juniors
 4,333300,Lane,MAHER,Harwinton,CT,,Hot Tubes Development Cycling Team Inc.
 5,394749,Noah,SCHLOSSER,Stevenson Ranch,CA,,LUX/Stradling p/b Specialized
@@ -681,9 +681,9 @@ Place,License #,First,Last,City,State,Time,Team
 14,303079,Alastair,POUNDER,Cary,NC,,Dornier Racing
 15,410856,Tyler,CURTIS,Clear Lake,IA,,NorthStar Development Cycling
 16,291893,Simon,JONES,Milwaukee,WI,,
-17,494503,JeanLuc,CONTANT-GALITELLO,Pompano Beach,FL,,Interactive Metronome p/b Mega Cycle
+17,494503,JeanLuc,CONTANT-GALITELLO,Coconut Creek,FL,,Interactive Metronome p/b Mega Cycle
 18,352044,Josh,CHU,Norwich,VT,,KMS Cycling-Killington Mountain School
-19,272071,Wheeler,DAVIS,Athens,GA,,Team Novo Nordisk Juniors
+19,272071,Wheeler,DAVIS,Raleigh,NC,,Team Novo Nordisk Juniors
 20,428309,Leo,KIRKPATRICK BAIRD,Bernardsville,NJ,,KMS Cycling-Killington Mountain School
 21,361699,Wyatt,FUROIS,Falcon Heights,MN,,NorthStar Development Cycling
 22,393354,Trevor,GOODMAN,Los Angeles,CA,,Team Velosport Junior & U23 Development - Ridebiker Alliance
@@ -694,7 +694,7 @@ Place,License #,First,Last,City,State,Time,Team
 27,439303,Gaelen,KILBURN,Burlington,VT,,Hot Tubes Development Cycling
 28,419197,Andrew,VOLLMER,Trabuco Canyon,CA,,LUX/Stradling p/b Specialized
 29,448836,Andrei,CISMAS,Elmhurst,IL,,xXx Racing
-30,286320,Zachary,ZIONTS,Highland Park,IL,,Burnham Racing
+30,286320,Zachary,ZIONTS,Chapel Hill,NC,,Burnham Racing
 31,266037,Matteo,JORGENSON,Boise,ID,,
 32,364831,Alex,MCCORMACK,Leicester,MA,,Hot Tubes Development Cycling Team Inc.
 33,373419,Alex,MORTON,Saint Clair,MI,,Andrie Junior Development Team
@@ -708,8 +708,8 @@ Place,License #,First,Last,City,State,Time,Team
 1,197162,Robert,WHITE,Cedarburg,WI,,
 2,222021,Emile,ABRAHAM,Atlanta,GA,,Pharmaco-DeepSouth p/b NGCA
 3,48059,Jason,HESS,Commerce Township,MI,,Kinetic Fitness Coaching p/b Jack's Bicycles
-4,406399,Simon,PHUAH,Downers Grove,IL,,INTENT
-5,201290,Ryan,WHITE,Milwaukee ,WI,,
+4,406399,Simon,PHUAH,Littleton,CO,,INTENT
+5,201290,Ryan,WHITE,Milwaukee,WI,,
 6,15584,Michael,HEAGNEY,Libertyville,IL,,Intelligentsia-Allied
 7,172255,Michael,FROH,Milwaukee,WI,,Intelligentsia Coffee
 8,48064,Andrew,OHLSSON,Hartland,WI,,
@@ -732,7 +732,7 @@ Place,License #,First,Last,City,State,Time,Team
 25,389934,Derek,MORAN,Eden,WI,,Gryphon Velo Racing
 26,24653,Steven,MLUJEAK,Hollywood,FL,,Interactive Metronome p/b Mega Cycle
 27,246297,Clayton,CHASE,Mequon,WI,,
-28,392104,Doug,ZELL,Little Rock ,AR,,Intelligentsia Coffee
+28,392104,Doug,ZELL,Lockhart,TX,,Intelligentsia Coffee
 29,70519,Alfonso,REYES,Normal,IL,,The Weather Channel
 30,88669,Adam,BASKIN,Montverde,FL,,GearLink Racing INC.
 31,81296,Hans,HIGDON,Milwaukee,WI,,Hampshire Cycle Club
@@ -754,7 +754,7 @@ Place,License #,First,Last,City,State,Time,Team
 47,208025,John,VAN SUSTEREN,Mukwonago,WI,,Lakes Area Physical Therapy
 48,8003,Thomas,COX,Bloomington,IN,,Team Heroes / First Internet Bank Masters Team
 49,347808,James,BROWN,Evanston,IL,,Intelligentsia Coffee
-50,83764,Gene,TOLLI,Albany,WI,,
+50,83764,Gene,TOLLI,Peoria,AZ,,
 51,84066,Howard,SMITH,Batavia,IL,,The Pony Shop
 52,64334,John,DAPKUS,Westville,IN,,Team Bicycle Heaven
 53,196540,Pablo,SANTA CRUZ,Safety Harbor,FL,,FloridaVelo
@@ -769,7 +769,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,535723,Rebecca,WIASAK,,,,
 2,533030,Marlies,MEJIASGARCIA,,PA,,
-3,509477,Peta,MULLENS,Tulsa,OK,,
+3,509477,Peta,MULLENS,Oceanside,CA,,
 4,202033,Starla,TEDDERGREEN,Portland,OR,,UCI WPT: Hagens Berman | Supermint
 5,484160,Josie,TALBOT,,,,ISCorp Powered By Progress
 6,271181,Kyrstin,BLUHM,Nashville,TN,,Fearless Femme Racing
@@ -781,10 +781,10 @@ Place,License #,First,Last,City,State,Time,Team
 12,41951,Tina,PIC,Bountiful,UT,,Papa John's Racing p/b TREK
 13,291446,Daphne,KARAGIANIS,Chicago,IL,,Velo Classic p/b Stan's NoTubes
 14,217750,Christina,GOKEY-SMITH,Denton,TX,,Papa John's Racing p/b TREK
-15,512762,Lily,WILLIAMS,Chicago,IL,,Bonkers Cycling
+15,512762,Lily,WILLIAMS,Asheville,NC,,Bonkers Cycling
 16,531867,Nicola,MACDONALD,,,,
 17,397657,Laura,JORGENSEN,Asheville,NC,,
-18,332072,Katie,CLOUSE,Littleton ,CO,,Visit Dallas DNA Cycling
+18,332072,Katie,CLOUSE,Park City,UT,,Visit Dallas DNA Cycling
 19,424919,Ayesha,MCGOWAN,El Sobrante,CA,,JAKROO pb Chrome Industries
 20,145511,Liza,RACHETTO,Boise,ID,,UCI WPT: Hagens Berman | Supermint
 21,532028,Carolina,UPEGUI QUEBEDO,,,,
@@ -839,7 +839,7 @@ Place,License #,First,Last,City,State,Time,Team
 70,375627,Tess,OLIVER,Cambridge,OH,,Hollander Cycling p/b ISCorp
 71,464167,Amelia,KIRBY,Richmond,VA,,Sweet Spot Cutaway
 72,448311,Jennifer,KOSATKA,Libertyville,IL,,Chicago Womens Elite Cycling
-73,220876,Katherine,SHIELDS,Advance,NC,,OrthoCarolina Winston Women’s Cycling
+73,220876,Katherine,SHIELDS,Salt Lake City,UT,,OrthoCarolina Winston Women’s Cycling
 74,286023,Ashley,ZOERNER,Highlandsranch,CO,,Rocky Mountain Road Club
 75,467180,Carlyn,JACKSON,Minneapolis,MN,,Orion Racing p/b K'ul Chocolate
 
@@ -856,14 +856,14 @@ Place,License #,First,Last,City,State,Time,Team
 9,354150,Luci,OLEWINSKI,Madison,WI,,
 10,318302,Andrea,CYR,Milwaukee,WI,,Team Velocause
 11,481324,Jodie,PRESTINE,Brookfield,WI,,ISCorp Cycling p/b SmartChoice MRI
-12,433105,Brenna,GIBBONS,Coon Valley ,WI,,
+12,433105,Brenna,GIBBONS,Madison,WI,,
 13,457881,Laura,FISHER,Waterford,WI,,Team Velocause
 14,485931,Erin,NINMER,Milwaukee,WI,,Hollander Benelux Racing
 15,401296,Gabriella,DIXON,Riverview,FL,,Interactive Metronome p/b Mega Cycle
 16,503008,Lori,KAZAKS,Elm Grove,WI,,Hollander Benelux Racing
 17,470904,Erin,OBRADOVICH,Chicago,IL,,BFF Bikes
 18,489784,Lisa,ERIKSSON,Portland,OR,,Holtey Law p/b Peak Condition
-19,473111,Cedella,JANCZAK,Greendale,WI,,ISCorp Cycling p/b SmartChoice MRI
+19,473111,Cedella,JANCZAK,Hales Corners,WI,,ISCorp Cycling p/b SmartChoice MRI
 20,440261,Donna,GALLARDO,Milwaukee,WI,,Team Velocause
 21,439081,Annicka,CAMPBELL-DOLLAGHAN,Chicago,IL,,BFF Bikes
 22,443034,Kelsey,CAMPBELL DOLLAGHAN,Chicago,IL,,BFF Bikes
@@ -898,7 +898,7 @@ Place,License #,First,Last,City,State,Time,Team
 51,475074,Stephanie,COPELAND,Milwaukee,WI,,Hollander Benelux Racing
 52,0,Melinda,SMITH,,,,
 53,0,Lucy,HUENINK,,,,
-54,467715,Marlena,JANCZAK,Greendale,WI,,ISCorp Cycling p/b SmartChoice MRI
+54,467715,Marlena,JANCZAK,Whitewater,WI,,ISCorp Cycling p/b SmartChoice MRI
 55,472856,Isabella,FELDBRUEGGE,Grafton,WI,,ISCorp Cycling p/b SmartChoice MRI
 
 06/24/2017 Criterium Mixed Cat 1/2/3/4/5 Fixed Gear
@@ -909,7 +909,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,531978,Alexander,CASTAO,,,,
 5,504322,Sebastian,SALINAS,Miami,FL,,
 6,291893,Simon,JONES,Milwaukee,WI,,
-7,374617,Chad,CONLEY,Cartersville,GA,,Pharmaco-DeepSouth p/b NGCA
+7,374617,Chad,CONLEY,Atlanta,GA,,Pharmaco-DeepSouth p/b NGCA
 8,412295,Darel,CHRISTOPHER,Forest Park,GA,,Pharmaco-DeepSouth p/b NGCA
 9,0,Richard,BERGERON,,,,
 10,0,Antoine,FABRY,,,,
@@ -922,7 +922,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,512975,Bruno,LABELLE,,,,
 18,459261,James,THURMOND,Tempe,AZ,,
 19,513513,Olivier,LAVIGUEUR,Little Rock,AR,,
-20,480010,Daniel,FEULING,Milwaukee,WI,,BSB Cycling
+20,480010,Daniel,FEULING,Milwaukee Wi,WI,,BSB Cycling
 21,512292,Jason,MCDOWELL,Milwaukee,WI,,
 22,481760,Anthony,HOAK,Milwaukee,WI,,
 23,530713,Colin,RUBBERT,Winneconne,WI,,
@@ -956,7 +956,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,535665,Wilmer,ULLOA,Milwaukee,WI,,
 15,507570,Harrison,BAILEY,,,,
 16,432674,Jarret,OLDHAM,Chicago,IL,,First Internet Bank Cycling Team
-17,306325,William,MYERS,Orinda,CA,,Herbalife p/b Marc Pro - Nature's Bakery
+17,306325,William,MYERS,Davis,CA,,Herbalife p/b Marc Pro - Nature's Bakery
 18,218099,Tyler,LOCKE,Canyon Country,CA,,
 19,504248,Todd,SATCHELL,,,,
 20,528230,Alberto,COVARRUBIAS,Springdale,AR,,
@@ -973,14 +973,14 @@ Place,License #,First,Last,City,State,Time,Team
 31,291935,James,HILYER,Durango,CO,,
 32,338708,Colin,STRICKLAND,Austin,TX,,Intelligentsia-Allied
 33,368147,Alex,MCLAUGHLIN,Louisville,KY,,Texas Roadhouse Cycling Team
-34,504799,Peter,FOERSTER,,,,
+34,504799,Peter,FOERSTER,Atlanta,GA,,
 35,407169,Alexander,CHRYSTALL,Wellesley,MA,,New England Devo
 36,326166,Stephen,WAGSTAFF,Racine,WI,,Project Echelon Racing
 37,371826,Timothy,SAVRE,Glencoe,MN,,Project Echelon Racing
 38,342206,Ryan,JOYCE,Charlotte,NC,,Hearts Racing Club
 39,485837,Paul,HARTNER,Naperville,IL,,Bicycle Heaven
 40,416940,Leo,YIP,Fremont,CA,,Storck-CCN
-41,456576,Samuel,BOARDMAN,Washington,CA,,Herbalife p/b Marc Pro - Nature's Bakery
+41,456576,Samuel,BOARDMAN,Los Angeles,CA,,Herbalife p/b Marc Pro - Nature's Bakery
 42,318434,Kyle,KIRBY,San Diego,CA,,NCCF/ Team Specialized Juniors
 43,379841,Spencer,KRUSE,Racine,WI,,KS Energy Services / MOSH / Team Wisconsin
 44,202401,Brett,RINDT,Fort Collins,CO,,Team Rio Grande
@@ -1028,7 +1028,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,473554,Thomas,ZIOLKOWSKI,Whitewater,WI,,
 14,413109,Craig,BILLINGS,Madison,WI,,Brazen Dropouts
 15,513185,Blaise,SCHAEFFER,Durham,NC,,Constellation Cycling
-16,381826,Ryan,STOWERS,Denver,CO,,Boulder Junior Cycling
+16,381826,Ryan,STOWERS,Boulder,CO,,Boulder Junior Cycling
 17,532011,JUANFELIPE,PEREZ,,,,
 18,430656,Juan Esteban,TAPIERO BERNAL,Wauwatosa,WI,,BELGIANWERKX
 19,502367,Akash,LUCHT,Arden Hills,MN,,NorthStar Development Cycling
@@ -1042,7 +1042,7 @@ Place,License #,First,Last,City,State,Time,Team
 27,480746,Shawn,NELSON,Fond Du Lac,WI,,Diablo Cycling
 28,402802,Michael,RAASCH,Greenfield,WI,,Lakes Area Physical Therapy
 29,501340,Simon,FALLAI,Middleton,WI,,BSB Cycling
-30,480010,Daniel,FEULING,Milwaukee,WI,,BSB Cycling
+30,480010,Daniel,FEULING,Milwaukee Wi,WI,,BSB Cycling
 31,526355,Brian,MITCHELL,Chicago,IL,,INTENT
 32,430821,Timothy,REINHARDT,Middleton,WI,,BSB Cycling
 33,488277,Adam,RAYCHEL,Milwaukee,WI,,
@@ -1091,7 +1091,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,82335,Todd,WENDELL,Chicago,IL,,Burnham Racing
 6,336264,Jose,RODRIGUEZ,Highwood,IL,,INTENT
 7,406945,Ryan,CHRISTIANSON,Grand Junction,CO,,Natural Grocers Cycling Team
-8,362289,Jason,HOLLY,Buffalo Grove ,IL,,PSIMET Racing
+8,362289,Jason,HOLLY,Buffalo Grove,IL,,PSIMET Racing
 9,52923,Klayton,SPROLES,Corona,CA,,Raceklean Cycling Team
 10,168222,Greg,HAYES,Corona,CA,,Impact Racing Team
 11,185666,Rick,SCHOPP,Warrenville,IL,,INTENT
@@ -1120,12 +1120,12 @@ Place,License #,First,Last,City,State,Time,Team
 2,417606,Samuel,BARNAGAUD,Boca Raton,FL,,Interactive Metronome p/b Mega Cycle
 3,357496,Steven,TREBATOSKI,Shorewood,WI,,Team Velocause
 4,532012,Alejandro,VILLADA,,,,
-5,530396,Jarrod,MORONI,,,,
+5,530396,Jarrod,MORONI,Oceanside,CA,,
 6,478112,Patrick,JUNGENBLUT,Milwaukee,WI,,
 7,531978,Alexander,CASTAO,,,,
-8,470369,Dane,MURPHY,Naperville ,IL,,Chicago Cuttin Crew
+8,470369,Dane,MURPHY,Naperville,IL,,Chicago Cuttin Crew
 9,385995,Brent,WILLIAMS,Appleton,WI,,Diablo Cycling
-10,312724,Andrew,WEBB,Appleton,WI,,Diablo Cycling
+10,312724,Andrew,WEBB,Hortonville,WI,,Diablo Cycling
 11,531988,John,CUERVO,,,,
 12,312130,Trey,HEDGECOCK,Ankeny,IA,,Above and Beyond Cancer p/b Scheels
 13,355424,Robert,BERRY,Milwaukee,WI,,BELGIANWERKX
@@ -1136,9 +1136,9 @@ Place,License #,First,Last,City,State,Time,Team
 18,484971,Michael,LAMBERT,Tuscaloosa,AL,,SH!FT Racing p/b St. Vincent's Orthopedics
 19,296101,Frank,CUNDIFF,North Chesterfield,VA,,
 20,359308,Richard,OBRIANT,Fuquay Varina,NC,,Jigawatt Cycling
-21,477965,Kia,NAMIN,Milwaukee,WI,,Team Velocause
+21,477965,Kia,NAMIN,Shorewood,WI,,Team Velocause
 22,437809,Ethan,NELSON,Minneapolis,MN,,SPBRC-Grand Performance
-23,245670,Jim,MADDOCK,South Berwick,ME,,Bonkers Cycling
+23,245670,Jim,MADDOCK,Chicago,IL,,Bonkers Cycling
 24,412295,Darel,CHRISTOPHER,Forest Park,GA,,Pharmaco-DeepSouth p/b NGCA
 25,458981,Malik,MARIANO,Kamuela,HI,,Ka Makani O Waikoloa Cycling Club
 26,287561,Nick,HAND,Clayton,MO,,Quantum Solutions Intelligentsia
@@ -1168,7 +1168,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,266037,Matteo,JORGENSON,Boise,ID,,
 2,391693,Ama,NSEK,Ontario,CA,,LUX/Stradling p/b Specialized
 3,333300,Lane,MAHER,Harwinton,CT,,Hot Tubes Development Cycling Team Inc.
-4,331144,Denzel,STEPHENSON,Boulder ,CO,,Boulder Junior Cycling
+4,331144,Denzel,STEPHENSON,Boulder,CO,,Boulder Junior Cycling
 5,378825,Lance,ABSHIRE,Baton Rouge,LA,,Team LaS'port
 6,439303,Gaelen,KILBURN,Burlington,VT,,Hot Tubes Development Cycling
 7,361385,Tyler,REYNOLDS,Pella,IA,,Andrie Junior Development Team
@@ -1189,10 +1189,10 @@ Place,License #,First,Last,City,State,Time,Team
 22,291893,Simon,JONES,Milwaukee,WI,,
 23,466526,Eli,HUSTED,Austin,TX,,Hot Tubes Development Cycling
 24,303079,Alastair,POUNDER,Cary,NC,,Dornier Racing
-25,494503,JeanLuc,CONTANT-GALITELLO,Pompano Beach,FL,,Interactive Metronome p/b Mega Cycle
+25,494503,JeanLuc,CONTANT-GALITELLO,Coconut Creek,FL,,Interactive Metronome p/b Mega Cycle
 26,419197,Andrew,VOLLMER,Trabuco Canyon,CA,,LUX/Stradling p/b Specialized
 27,361699,Wyatt,FUROIS,Falcon Heights,MN,,NorthStar Development Cycling
-28,272071,Wheeler,DAVIS,Athens,GA,,Team Novo Nordisk Juniors
+28,272071,Wheeler,DAVIS,Raleigh,NC,,Team Novo Nordisk Juniors
 29,393354,Trevor,GOODMAN,Los Angeles,CA,,Team Velosport Junior & U23 Development - Ridebiker Alliance
 30,364831,Alex,MCCORMACK,Leicester,MA,,Hot Tubes Development Cycling Team Inc.
 31,403163,Oliver,HOWSON,Boulder,CO,,Boulder Junior Cycling
@@ -1201,7 +1201,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 06/23/2017 Criterium Men Cat 1/2/3 Masters 40+
 Place,License #,First,Last,City,State,Time,Team
-1,201290,Ryan,WHITE,Milwaukee ,WI,,
+1,201290,Ryan,WHITE,Milwaukee,WI,,
 2,216719,Carlos,CASALI,Verona,WI,,Intelligentsia Coffee
 3,47935,Vance,JAMES,Lakeland,FL,,FloridaVelo
 4,197162,Robert,WHITE,Cedarburg,WI,,
@@ -1212,11 +1212,11 @@ Place,License #,First,Last,City,State,Time,Team
 9,48064,Andrew,OHLSSON,Hartland,WI,,
 10,266664,Nate,IDEN,Glencoe,IL,,Burnham Racing
 11,0,Jonathan,ATKINS,,,,
-12,406399,Simon,PHUAH,Downers Grove,IL,,INTENT
+12,406399,Simon,PHUAH,Littleton,CO,,INTENT
 13,266027,Brian,DAVIS,Appleton,WI,,Diablo Cycling
 14,29802,Mike,RICKEY,Columbia,IL,,Intelligentsia Coffee
 15,274937,Mike,BUDD,Wrightstown,WI,,Team Wheel & Sprocket
-16,392104,Doug,ZELL,Little Rock ,AR,,Intelligentsia Coffee
+16,392104,Doug,ZELL,Lockhart,TX,,Intelligentsia Coffee
 17,63195,Christopher,POWERS,Flower Mound,TX,,
 18,48059,Jason,HESS,Commerce Township,MI,,Kinetic Fitness Coaching p/b Jack's Bicycles
 19,60087,Jason,HEIN,Boulder,CO,,NINOX Racing Team
@@ -1254,7 +1254,7 @@ Place,License #,First,Last,City,State,Time,Team
 06/23/2017 Criterium Women Pro/Cat 1/2 Elite
 Place,License #,First,Last,City,State,Time,Team
 1,533030,Marlies,MEJIASGARCIA,,PA,,
-2,509477,Peta,MULLENS,Tulsa,OK,,
+2,509477,Peta,MULLENS,Oceanside,CA,,
 3,41951,Tina,PIC,Bountiful,UT,,Papa John's Racing p/b TREK
 4,484160,Josie,TALBOT,,,,ISCorp Powered By Progress
 5,535969,Carla,NAFRIA,,,,
@@ -1273,7 +1273,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,291446,Daphne,KARAGIANIS,Chicago,IL,,Velo Classic p/b Stan's NoTubes
 19,327486,Christa,GHENT,Boulder,CO,,LA Sweat
 20,457092,Rachel,LANGDON,Louisville,KY,,ISCorp Powered By Progress
-21,332072,Katie,CLOUSE,Littleton ,CO,,Visit Dallas DNA Cycling
+21,332072,Katie,CLOUSE,Park City,UT,,Visit Dallas DNA Cycling
 22,509577,Rachel,CANNING,,,,
 23,384315,Payten,MANESS,Flower Mound,TX,,Papa John's Racing p/b TREK
 24,460027,Madison,KELLY,Naples,FL,,Papa John's Racing p/b TREK
@@ -1285,7 +1285,7 @@ Place,License #,First,Last,City,State,Time,Team
 30,534612,Jessica,MUNDY,Louisville,CO,,
 31,84776,Debbie,MILNE,Greenville,SC,,Papa John's Racing p/b TREK
 32,399567,Lisa,CORDOVA,Chico,CA,,Cycle Sport - Specialized p/b Muscle Milk
-33,512762,Lily,WILLIAMS,Chicago,IL,,Bonkers Cycling
+33,512762,Lily,WILLIAMS,Asheville,NC,,Bonkers Cycling
 34,263476,Kelley,HESS,,,,
 35,533053,Rocio,PARRADO,,PA,,
 36,375540,Kristen,ARNOLD,Columbus,OH,,Velo Classic p/b Stan's NoTubes
@@ -1307,7 +1307,7 @@ Place,License #,First,Last,City,State,Time,Team
 52,219367,Jennifer,SHARP,Boulder,CO,,Stages Cycling
 53,413998,Jennifer,YOUNGWERTH,Neenah,WI,,Team Wheel & Sprocket
 54,533051,Maria,FADIGA,,PA,,
-55,220876,Katherine,SHIELDS,Advance,NC,,OrthoCarolina Winston Women’s Cycling
+55,220876,Katherine,SHIELDS,Salt Lake City,UT,,OrthoCarolina Winston Women’s Cycling
 56,464167,Amelia,KIRBY,Richmond,VA,,Sweet Spot Cutaway
 57,203755,Amanda,SEIGLE,Citrus Heights,CA,,JAKROO presented by Chrome Industries
 58,367685,Nicole,MERTZ,Columbia Heights,MN,,Velo Classic p/b Stan's NoTubes
@@ -1332,11 +1332,11 @@ Place,License #,First,Last,City,State,Time,Team
 12,457881,Laura,FISHER,Waterford,WI,,Team Velocause
 13,481324,Jodie,PRESTINE,Brookfield,WI,,ISCorp Cycling p/b SmartChoice MRI
 14,332976,Mollie,BREWER,Boulder,CO,,ALP Cycles Racing
-15,473111,Cedella,JANCZAK,Greendale,WI,,ISCorp Cycling p/b SmartChoice MRI
+15,473111,Cedella,JANCZAK,Hales Corners,WI,,ISCorp Cycling p/b SmartChoice MRI
 16,503008,Lori,KAZAKS,Elm Grove,WI,,Hollander Benelux Racing
 17,485931,Erin,NINMER,Milwaukee,WI,,Hollander Benelux Racing
 18,401296,Gabriella,DIXON,Riverview,FL,,Interactive Metronome p/b Mega Cycle
-19,433105,Brenna,GIBBONS,Coon Valley ,WI,,
+19,433105,Brenna,GIBBONS,Madison,WI,,
 20,428718,Melody,MCLEOD,Brooksville,FL,,R & M
 21,489784,Lisa,ERIKSSON,Portland,OR,,Holtey Law p/b Peak Condition
 22,534385,Iona,HALLIDAY,,,,
@@ -1382,7 +1382,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,412295,Darel,CHRISTOPHER,Forest Park,GA,,Pharmaco-DeepSouth p/b NGCA
 16,215681,Marcus,CANADY,Raleigh,NC,,Jigawatt Cycling
 17,512975,Bruno,LABELLE,,,,
-18,480010,Daniel,FEULING,Milwaukee,WI,,BSB Cycling
+18,480010,Daniel,FEULING,Milwaukee Wi,WI,,BSB Cycling
 19,481760,Anthony,HOAK,Milwaukee,WI,,
 20,530517,Ryley,NORTHROP,Wauwatosa,WI,,Velocause Centraal Cycling
 21,0,Justin,SHOUBRIDGE,,,,
@@ -1452,7 +1452,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,498925,Liam,WHITE,,,,
 14,535665,Wilmer,ULLOA,Milwaukee,WI,,
 15,504248,Todd,SATCHELL,,,,
-16,263035,Andrew,GINIAT,Winnetka,IL,,Project Echelon Racing
+16,263035,Andrew,GINIAT,Asheville,NC,,Project Echelon Racing
 17,371826,Timothy,SAVRE,Glencoe,MN,,Project Echelon Racing
 18,407169,Alexander,CHRYSTALL,Wellesley,MA,,New England Devo
 19,200766,Michael,DUTCZAK,Crete,IL,,Bicycle Heaven
@@ -1460,7 +1460,7 @@ Place,License #,First,Last,City,State,Time,Team
 21,311313,Alec,GUGGEMOS,Saint Paul,MN,,SPBRC-Grand Performance
 22,532021,William,HODGES,,,,
 23,291935,James,HILYER,Durango,CO,,
-24,504799,Peter,FOERSTER,,,,
+24,504799,Peter,FOERSTER,Atlanta,GA,,
 25,299287,Thorsten,ASKERVOLD,Mill Creek,WA,,Storck-CCN
 26,527207,Jordan,GILMORE,,,,
 27,309409,Aldo Ino,ILESIC,Charlotte,NC,,Crit Life
@@ -1479,7 +1479,7 @@ Place,License #,First,Last,City,State,Time,Team
 40,406669,Jesse,KOOISTRA,Paw Paw,MI,,Levine Law Group Elite Cycling Team
 41,187522,John,BERGMANN,Albany,CA,,TEAM CLIF BAR Cycling
 42,414951,Jacob,HENLEY,Chattanooga ,TN,,Pharmaco-DeepSouth p/b NGCA
-43,306325,William,MYERS,Orinda,CA,,Herbalife p/b Marc Pro - Nature's Bakery
+43,306325,William,MYERS,Davis,CA,,Herbalife p/b Marc Pro - Nature's Bakery
 44,502771,Bob,GOEDBLOED,Athens,GA,,
 45,265398,Logan,PHIPPEN,Athens,GA,,Team Novo Nordisk Development
 46,286608,Eamon,FRANCK,Pacific Grove,CA,,Crit Life
@@ -1506,7 +1506,7 @@ Place,License #,First,Last,City,State,Time,Team
 06/22/2017 Criterium Men Cat 2/3 Elite
 Place,License #,First,Last,City,State,Time,Team
 1,532012,Alejandro,VILLADA,,,,
-2,470369,Dane,MURPHY,Naperville ,IL,,Chicago Cuttin Crew
+2,470369,Dane,MURPHY,Naperville,IL,,Chicago Cuttin Crew
 3,531978,Alexander,CASTAO,,,,
 4,385995,Brent,WILLIAMS,Appleton,WI,,Diablo Cycling
 5,478112,Patrick,JUNGENBLUT,Milwaukee,WI,,
@@ -1516,7 +1516,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,312130,Trey,HEDGECOCK,Ankeny,IA,,Above and Beyond Cancer p/b Scheels
 10,359308,Richard,OBRIANT,Fuquay Varina,NC,,Jigawatt Cycling
 11,417606,Samuel,BARNAGAUD,Boca Raton,FL,,Interactive Metronome p/b Mega Cycle
-12,312724,Andrew,WEBB,Appleton,WI,,Diablo Cycling
+12,312724,Andrew,WEBB,Hortonville,WI,,Diablo Cycling
 13,458981,Malik,MARIANO,Kamuela,HI,,Ka Makani O Waikoloa Cycling Club
 14,476737,Andrew,DEWAR,Libertyville,IL,,Sonic Boom Racing Team
 15,257291,Taylor,SCHMIDT,Littleton,CO,,COGA Elite Cycling Team
@@ -1528,7 +1528,7 @@ Place,License #,First,Last,City,State,Time,Team
 21,215681,Marcus,CANADY,Raleigh,NC,,Jigawatt Cycling
 22,484971,Michael,LAMBERT,Tuscaloosa,AL,,SH!FT Racing p/b St. Vincent's Orthopedics
 23,241376,Duncan,OLIVER,Cambridge,OH,,
-24,530396,Jarrod,MORONI,,,,
+24,530396,Jarrod,MORONI,Oceanside,CA,,
 25,439068,Graham,LOCK,,,,
 26,430609,James,ANDERS,Milwaukee,WI,,Marquette University
 27,287561,Nick,HAND,Clayton,MO,,Quantum Solutions Intelligentsia
@@ -1564,10 +1564,10 @@ Place,License #,First,Last,City,State,Time,Team
 5,187522,John,BERGMANN,Albany,CA,,TEAM CLIF BAR Cycling
 6,197162,Robert,WHITE,Cedarburg,WI,,
 7,57709,Jim,FLORA,Beecher,IL,,Burnham Racing
-8,406399,Simon,PHUAH,Downers Grove,IL,,INTENT
+8,406399,Simon,PHUAH,Littleton,CO,,INTENT
 9,15584,Michael,HEAGNEY,Libertyville,IL,,Intelligentsia-Allied
 10,0,Jonathan,ATKINS,,,,
-11,201290,Ryan,WHITE,Milwaukee ,WI,,
+11,201290,Ryan,WHITE,Milwaukee,WI,,
 12,116581,Samuel,GUZMAN,Ashburn,VA,,PTS Racing
 13,2499,Jeffrey,BANNINK,Shorewood,WI,,Type One United
 14,63195,Christopher,POWERS,Flower Mound,TX,,
@@ -1673,7 +1673,7 @@ Place,License #,First,Last,City,State,Time,Team
 54,305338,Caroline,MOAKLEY,Cary,NC,,Jigawatt Cycling
 55,375540,Kristen,ARNOLD,Columbus,OH,,Velo Classic p/b Stan's NoTubes
 56,531867,Nicola,MACDONALD,,,,
-57,220876,Katherine,SHIELDS,Advance,NC,,OrthoCarolina Winston Women’s Cycling
+57,220876,Katherine,SHIELDS,Salt Lake City,UT,,OrthoCarolina Winston Women’s Cycling
 58,434092,Jennifer,GERTH,,,,
 59,464167,Amelia,KIRBY,Richmond,VA,,Sweet Spot Cutaway
 60,36345,Laura,VAN GILDER,Cresco,PA,,Mellow Mushroom p/b Psimet
@@ -1700,12 +1700,12 @@ Place,License #,First,Last,City,State,Time,Team
 15,485931,Erin,NINMER,Milwaukee,WI,,Hollander Benelux Racing
 16,457881,Laura,FISHER,Waterford,WI,,Team Velocause
 17,497850,Marissa,CARTER,Saint Charles,MO,,Team Mack Racing Assn
-18,433105,Brenna,GIBBONS,Coon Valley ,WI,,
+18,433105,Brenna,GIBBONS,Madison,WI,,
 19,392098,Sarah,MUENCH,Phoenix,AZ,,ISCorp Cycling p/b SmartChoice MRI
 20,533949,Madeleine,DUPUIS,,,,
 21,503371,Anna,AFFIAS,Chicago,IL,,Spidermonkey Cycling
 22,428718,Melody,MCLEOD,Brooksville,FL,,R & M
-23,473111,Cedella,JANCZAK,Greendale,WI,,ISCorp Cycling p/b SmartChoice MRI
+23,473111,Cedella,JANCZAK,Hales Corners,WI,,ISCorp Cycling p/b SmartChoice MRI
 24,534385,Iona,HALLIDAY,,,,
 25,211922,Amy,PLATO,Grafton,WI,,Hollander Benelux Racing
 26,316446,Rachael,COLBATH,Gilford,NH,,
@@ -1737,7 +1737,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,514361,Sam,MUNDAY,Alpharetta ,GA,,
 19,344420,Jadon,JAEGER,Bayside,WI,,Intelligentsia Coffee
 20,474330,Danick,VANDALE,,,,
-21,456576,Samuel,BOARDMAN,Washington,CA,,Herbalife p/b Marc Pro - Nature's Bakery
+21,456576,Samuel,BOARDMAN,Los Angeles,CA,,Herbalife p/b Marc Pro - Nature's Bakery
 22,270844,Jason,PAEZ,Whittier,CA,,Southern California Velo Elite Team
 23,291935,James,HILYER,Durango,CO,,
 
@@ -1745,7 +1745,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,532015,Mateo,SANCHEZ,,,,
 2,532007,JUANJOSE,SANTAMARIA,,,,
-3,381826,Ryan,STOWERS,Denver,CO,,Boulder Junior Cycling
+3,381826,Ryan,STOWERS,Boulder,CO,,Boulder Junior Cycling
 4,502367,Akash,LUCHT,Arden Hills,MN,,NorthStar Development Cycling
 5,473554,Thomas,ZIOLKOWSKI,Whitewater,WI,,
 6,532168,Samuel,JANISCH,Wauwatosa,WI,,ISCorp Cycling
@@ -1796,7 +1796,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,119121,Michael,MAYER,Deforest,WI,,Trek Midwest Team
 9,406945,Ryan,CHRISTIANSON,Grand Junction,CO,,Natural Grocers Cycling Team
 10,346330,Mark,SCHULTZ,Manitowoc,WI,,Heavy Pedal Velo Club
-11,312254,Benny,SMITH,Wauwatosa ,WI,,Team Velocause
+11,312254,Benny,SMITH,Wauwatosa,WI,,Team Velocause
 12,359848,Peter,CAVOTO,Chicago,IL,,PSIMET Racing
 13,285578,John,BOUDRY,Waukesha,WI,,Team Velocause
 14,80318,Matthew,GARNI,Plymouth,WI,,Lakes Area Physical Therapy
@@ -1814,7 +1814,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,283751,Maxlimilian,FREEMAN,Lakewood,CO,,COGA Elite Cycling Team
 2,367909,Imeh,NSEK,Ontario,CA,,LUX/Stradling p/b Specialized
-3,530396,Jarrod,MORONI,,,,
+3,530396,Jarrod,MORONI,Oceanside,CA,,
 4,476737,Andrew,DEWAR,Libertyville,IL,,Sonic Boom Racing Team
 5,417606,Samuel,BARNAGAUD,Boca Raton,FL,,Interactive Metronome p/b Mega Cycle
 6,335978,Julian,TOUMEY,Madison,WI,,Great Dane Velo Club p/b Capital Brewery
@@ -1823,9 +1823,9 @@ Place,License #,First,Last,City,State,Time,Team
 9,385995,Brent,WILLIAMS,Appleton,WI,,Diablo Cycling
 10,478112,Patrick,JUNGENBLUT,Milwaukee,WI,,
 11,504322,Sebastian,SALINAS,Miami,FL,,
-12,312724,Andrew,WEBB,Appleton,WI,,Diablo Cycling
+12,312724,Andrew,WEBB,Hortonville,WI,,Diablo Cycling
 13,532012,ALEJANDRO,VILLADA,,,,
-14,470369,Dane,MURPHY,Naperville ,IL,,Chicago Cuttin Crew
+14,470369,Dane,MURPHY,Naperville,IL,,Chicago Cuttin Crew
 15,531988,John,CUERVO,,,,
 16,437809,Ethan,NELSON,Minneapolis,MN,,SPBRC-Grand Performance
 17,364346,Andrew,CASTAGNERI,Littleton,CO,,Prestige Imports/Porsche/Audi Race Team
@@ -1845,7 +1845,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,327650,Colby,LANGE,Edwards,CO,,LUX/Stradling p/b Specialized
 2,333300,Lane,MAHER,Harwinton,CT,,Hot Tubes Development Cycling Team Inc.
-3,331144,Denzel,STEPHENSON,Boulder ,CO,,Boulder Junior Cycling
+3,331144,Denzel,STEPHENSON,Boulder,CO,,Boulder Junior Cycling
 4,391693,Ama,NSEK,Ontario,CA,,LUX/Stradling p/b Specialized
 5,401329,Jared,SCOTT,Boulder,CO,,Boulder Junior Cycling
 6,394749,Noah,SCHLOSSER,Stevenson Ranch,CA,,LUX/Stradling p/b Specialized
@@ -1865,10 +1865,10 @@ Place,License #,First,Last,City,State,Time,Team
 20,298726,Ross,ELLWOOD,Boulder,CO,,Boulder Junior Cycling
 21,473175,Logan,MCLAIN,Bossier City,LA,,Team LaS'port
 22,403163,Oliver,HOWSON,Boulder,CO,,Boulder Junior Cycling
-23,272071,Wheeler,DAVIS,Athens,GA,,Team Novo Nordisk Juniors
+23,272071,Wheeler,DAVIS,Raleigh,NC,,Team Novo Nordisk Juniors
 24,474329,Dalton,COLLINS,Washburn,WI,,NorthStar Development Cycling
 25,536146,PabloCesar,CASCANTE,Kenosha,WI,,
-26,494503,JeanLuc,CONTANT-GALITELLO,Pompano Beach,FL,,Interactive Metronome p/b Mega Cycle
+26,494503,JeanLuc,CONTANT-GALITELLO,Coconut Creek,FL,,Interactive Metronome p/b Mega Cycle
 27,401214,Benjamin,JUAREZ,Minneapolis,MN,,NorthStar Development Cycling
 28,406031,Julian,LEVY,Del Mar,CA,,Swami's Junior Development Team
 29,495257,Ralph,RUFO,Milwaukee,WI,,ISCorp Cycling p/b SmartChoice MRI
@@ -1883,13 +1883,13 @@ Place,License #,First,Last,City,State,Time,Team
 6,351084,Brian,TURANY,Madison,WI,,Hollander Benelux Racing
 7,347808,James,BROWN,Evanston,IL,,Intelligentsia Coffee
 8,15584,Michael,HEAGNEY,Libertyville,IL,,Intelligentsia-Allied
-9,201290,Ryan,WHITE,Milwaukee ,WI,,
+9,201290,Ryan,WHITE,Milwaukee,WI,,
 10,48064,Andrew,OHLSSON,Hartland,WI,,
 11,216719,Carlos,CASALI,Verona,WI,,Intelligentsia Coffee
 12,47935,Vance,JAMES,Lakeland,FL,,FloridaVelo
 13,0,Jonathan,ATKINS,,,,
 14,393415,Anderson,BORTOLETTO,Mcfarland,WI,,Lakes Area Physical Therapy
-15,406399,Simon,PHUAH,Downers Grove,IL,,INTENT
+15,406399,Simon,PHUAH,Littleton,CO,,INTENT
 16,142034,Tom,DRIVER,Chicago,IL,,Burnham Racing
 17,336742,Sean,PHILYAW,Buford,GA,,Ridley Masters p/b Reality Bikes
 18,266664,Nate,IDEN,Glencoe,IL,,Burnham Racing
@@ -1904,7 +1904,7 @@ Place,License #,First,Last,City,State,Time,Team
 27,44238,Marc,BERTUCCO,New York,NY,,
 28,68766,Michael,MARTENS,Grafton,WI,,
 29,313798,Briant,KELLY,Libertyville,IL,,PSIMET Racing
-30,83764,Gene,TOLLI,Albany,WI,,
+30,83764,Gene,TOLLI,Peoria,AZ,,
 31,88669,Adam,BASKIN,Montverde,FL,,GearLink Racing INC.
 32,84066,Howard,SMITH,Batavia,IL,,The Pony Shop
 33,26581,Ara,OGGOIAN,Geneva,IL,,Bicycle Heaven
@@ -1924,7 +1924,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,529662,Elizabeth,WILLIAMS,Los Altos,CA,,
 2,533030,Marlies,MEJIASGARCIA,,PA,,
 3,300089,Skylar,SCHNEIDER,West Allis,WI,,ISCorp Powered By Progress
-4,509477,Peta,MULLENS,Tulsa,OK,,
+4,509477,Peta,MULLENS,Oceanside,CA,,
 5,535723,Rebecca,WIASAK,,,,
 6,484160,Josie,TALBOT,,,,ISCorp Powered By Progress
 7,217750,Christina,GOKEY-SMITH,Denton,TX,,Papa John's Racing p/b TREK
@@ -1950,7 +1950,7 @@ Place,License #,First,Last,City,State,Time,Team
 27,170980,Samantha,SCHNEIDER,West Allis,WI,,ISCorp Powered By Progress
 28,533053,Rocio,PARRADO,,PA,,
 29,533046,Jessenia,MENESES,,,,
-30,332072,Katie,CLOUSE,Littleton ,CO,,Visit Dallas DNA Cycling
+30,332072,Katie,CLOUSE,Park City,UT,,Visit Dallas DNA Cycling
 31,534384,Anna,BOOTH,,,,
 32,424035,Cynthia,FRAZIER,Lexington,VA,,Velo Classic p/b Stan's NoTubes
 
@@ -1959,7 +1959,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,532016,Vanesa,FLORES,,,,
 2,489784,Lisa,ERIKSSON,Portland,OR,,Holtey Law p/b Peak Condition
 3,332976,Mollie,BREWER,Boulder,CO,,ALP Cycles Racing
-4,433105,Brenna,GIBBONS,Coon Valley ,WI,,
+4,433105,Brenna,GIBBONS,Madison,WI,,
 5,356858,Shannon,WRIGHT,Grand Rapids,MI,,Speed Merchants
 6,428718,Melody,MCLEOD,Brooksville,FL,,R & M
 7,318302,Andrea,CYR,Milwaukee,WI,,Team Velocause
@@ -1967,7 +1967,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,364652,Ava,SYKES,Athens,GA,,Sho-Air TWENTY20 Development
 10,503568,Janell,BROCK,West Bend,WI,,ISCorp Cycling p/b SmartChoice MRI
 11,534385,Iona,HALLIDAY,,,,
-12,473111,Cedella,JANCZAK,Greendale,WI,,ISCorp Cycling p/b SmartChoice MRI
+12,473111,Cedella,JANCZAK,Hales Corners,WI,,ISCorp Cycling p/b SmartChoice MRI
 13,440261,Donna,GALLARDO,Milwaukee,WI,,Team Velocause
 14,381950,Turner,RAMSAY,Rutland,VT,,KMS Cycling-Killington Mountain School
 15,401296,Gabriella,DIXON,Riverview,FL,,Interactive Metronome p/b Mega Cycle
@@ -2084,7 +2084,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,513185,Blaise,SCHAEFFER,Durham,NC,,Constellation Cycling
 14,513406,Sean,MCNAUGHTAN,Menomonee Falls,WI,,
 15,532011,JUANFELIPE,PEREZ,,,,
-16,381826,Ryan,STOWERS,Denver,CO,,Boulder Junior Cycling
+16,381826,Ryan,STOWERS,Boulder,CO,,Boulder Junior Cycling
 17,176164,Ryan,LIPSKI,Hubertus,WI,,KS Energy Services / MOSH / Team Wisconsin
 18,532007,JUANJOSE,SANTAMARIA,,,,
 19,507918,JP,SEDITA,Milwaukee,WI,,
@@ -2103,7 +2103,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 06/20/2017 Criterium Men Cat 3/4 Masters 40+
 Place,License #,First,Last,City,State,Time,Team
-1,312254,Benny,SMITH,Wauwatosa ,WI,,Team Velocause
+1,312254,Benny,SMITH,Wauwatosa,WI,,Team Velocause
 2,347710,mark,NOWACK,Plainfield,IL,,PSIMET Racing
 3,115204,Brian,LEATHERMAN,Waunakee,WI,,Team Velocause
 4,344230,Russ,KEMPKA,Grafton,WI,,ISCorp Cycling
@@ -2117,7 +2117,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,285578,John,BOUDRY,Waukesha,WI,,Team Velocause
 13,80318,Matthew,GARNI,Plymouth,WI,,Lakes Area Physical Therapy
 14,161238,Tedd,JACOBSON,Pewaukee,WI,,KS Energy Services / MOSH / Team Wisconsin
-15,362289,Jason,HOLLY,Buffalo Grove ,IL,,PSIMET Racing
+15,362289,Jason,HOLLY,Buffalo Grove,IL,,PSIMET Racing
 16,475165,Gaylord,OTTE,Evanston,IL,,xXx Racing
 17,168222,Greg,HAYES,Corona,CA,,Impact Racing Team
 18,2962,John,BAXTER,Raleigh,NC,,Constellation Cycling
@@ -2127,8 +2127,8 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,298963,Eric,BRUNNER,Boulder,CO,,
 2,367909,Imeh,NSEK,Ontario,CA,,LUX/Stradling p/b Specialized
-3,530396,Jarrod,MORONI,,,,
-4,312724,Andrew,WEBB,Appleton,WI,,Diablo Cycling
+3,530396,Jarrod,MORONI,Oceanside,CA,,
+4,312724,Andrew,WEBB,Hortonville,WI,,Diablo Cycling
 5,476737,Andrew,DEWAR,Libertyville,IL,,Sonic Boom Racing Team
 6,478112,Patrick,JUNGENBLUT,Milwaukee,WI,,
 7,98888,Aaron,Katin,Evanston,IL,,Rockstar Games
@@ -2138,8 +2138,8 @@ Place,License #,First,Last,City,State,Time,Team
 11,459365,LUCAS,BOURGOYNE,Houston,TX,,
 12,381603,Stephen,JETTE,Weston,MA,,New England Devo
 13,385995,Brent,WILLIAMS,Appleton,WI,,Diablo Cycling
-14,403588,Jack,NIEWOLD,Madison,WI,,Apollo Velo U25
-15,470369,Dane,MURPHY,Naperville ,IL,,Chicago Cuttin Crew
+14,403588,Jack,NIEWOLD,Minneapolis,MN,,Apollo Velo U25
+15,470369,Dane,MURPHY,Naperville,IL,,Chicago Cuttin Crew
 16,335978,Julian,TOUMEY,Madison,WI,,Great Dane Velo Club p/b Capital Brewery
 17,417606,Samuel,BARNAGAUD,Boca Raton,FL,,Interactive Metronome p/b Mega Cycle
 18,429727,Benjamin,RYAN,Randolph,MA,,New England Devo
@@ -2169,7 +2169,7 @@ Place,License #,First,Last,City,State,Time,Team
 06/20/2017 Criterium Men Cat 1/2/3 Juniors 15-18
 Place,License #,First,Last,City,State,Time,Team
 1,466526,Eli,HUSTED,Austin,TX,,Hot Tubes Development Cycling
-2,331144,Denzel,STEPHENSON,Boulder ,CO,,Boulder Junior Cycling
+2,331144,Denzel,STEPHENSON,Boulder,CO,,Boulder Junior Cycling
 3,534359,Gabriel,ROJAS,Kenosha,WI,,
 4,394749,Noah,SCHLOSSER,Stevenson Ranch,CA,,LUX/Stradling p/b Specialized
 5,333300,Lane,MAHER,Harwinton,CT,,Hot Tubes Development Cycling Team Inc.
@@ -2183,10 +2183,10 @@ Place,License #,First,Last,City,State,Time,Team
 13,352044,Josh,CHU,Norwich,VT,,KMS Cycling-Killington Mountain School
 14,373419,Alex,MORTON,Saint Clair,MI,,Andrie Junior Development Team
 15,473175,Logan,MCLAIN,Bossier City,LA,,Team LaS'port
-16,494503,JeanLuc,CONTANT-GALITELLO,Pompano Beach,FL,,Interactive Metronome p/b Mega Cycle
+16,494503,JeanLuc,CONTANT-GALITELLO,Coconut Creek,FL,,Interactive Metronome p/b Mega Cycle
 17,410856,Tyler,CURTIS,Clear Lake,IA,,NorthStar Development Cycling
 18,391693,Ama,NSEK,Ontario,CA,,LUX/Stradling p/b Specialized
-19,272071,Wheeler,DAVIS,Athens,GA,,Team Novo Nordisk Juniors
+19,272071,Wheeler,DAVIS,Raleigh,NC,,Team Novo Nordisk Juniors
 20,361699,Wyatt,FUROIS,Falcon Heights,MN,,NorthStar Development Cycling
 21,403163,Oliver,HOWSON,Boulder,CO,,Boulder Junior Cycling
 22,404392,Bogdan,RYLSKI,Saint Paul,MN,,NorthStar Development Cycling
@@ -2204,7 +2204,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,133375,Michael,OLHEISER,Huntsville,AL,,
 2,530053,Warrick,SPENCE,Crystal Lake,IL,,
 3,222021,Emile,ABRAHAM,Atlanta,GA,,Pharmaco-DeepSouth p/b NGCA
-4,201290,Ryan,WHITE,Milwaukee ,WI,,
+4,201290,Ryan,WHITE,Milwaukee,WI,,
 5,216719,Carlos,CASALI,Verona,WI,,Intelligentsia Coffee
 6,274937,Mike,BUDD,Wrightstown,WI,,Team Wheel & Sprocket
 7,15584,Michael,HEAGNEY,Libertyville,IL,,Intelligentsia-Allied
@@ -2214,7 +2214,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,162381,Erik,TOMLINSON,Genoa,IL,,Polish & Slavic FCU International Cycling Team
 12,368468,Ernie,PENA,Tampa,FL,,FloridaVelo
 13,246297,Clayton,CHASE,Mequon,WI,,
-14,406399,Simon,PHUAH,Downers Grove,IL,,INTENT
+14,406399,Simon,PHUAH,Littleton,CO,,INTENT
 15,24653,Steven,MLUJEAK,Hollywood,FL,,Interactive Metronome p/b Mega Cycle
 16,336742,Sean,PHILYAW,Buford,GA,,Ridley Masters p/b Reality Bikes
 17,172255,Michael,FROH,Milwaukee,WI,,Intelligentsia Coffee
@@ -2245,14 +2245,14 @@ Place,License #,First,Last,City,State,Time,Team
 7,314232,Heidi,HARDRATH,Shorewood,WI,,Velocause Centraal Cycling
 8,315168,Jennifer,KOCH,Wauwatosa,WI,,ISCorp Cycling p/b SmartChoice MRI
 9,408916,Madeline,SMITH,Colton,NY,,KMS Cycling-Killington Mountain School
-10,433105,Brenna,GIBBONS,Coon Valley ,WI,,
+10,433105,Brenna,GIBBONS,Madison,WI,,
 11,428718,Melody,MCLEOD,Brooksville,FL,,R & M
 12,481324,Jodie,PRESTINE,Brookfield,WI,,ISCorp Cycling p/b SmartChoice MRI
 13,364652,Ava,SYKES,Athens,GA,,Sho-Air TWENTY20 Development
 14,381950,Turner,RAMSAY,Rutland,VT,,KMS Cycling-Killington Mountain School
 15,533410,Mary,PRENDERGAST,,,,
 16,401296,Gabriella,DIXON,Riverview,FL,,Interactive Metronome p/b Mega Cycle
-17,473111,Cedella,JANCZAK,Greendale,WI,,ISCorp Cycling p/b SmartChoice MRI
+17,473111,Cedella,JANCZAK,Hales Corners,WI,,ISCorp Cycling p/b SmartChoice MRI
 18,440261,Donna,GALLARDO,Milwaukee,WI,,Team Velocause
 19,437395,Emma,POLENSKE,Milwaukee,WI,,ISCorp Cycling
 20,533949,Madeleine,DUPUIS,,,,
@@ -2323,7 +2323,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,215644,Quinten,KIRBY,San Diego,CA,,Support Clean Sport/SeaSucker/Guttenplan Coaching
 9,507570,Harrison,BAILEY,,,,
 10,280746,Rolly,WEAVER,Ormond Beach,FL,,
-11,306325,William,MYERS,Orinda,CA,,Herbalife p/b Marc Pro - Nature's Bakery
+11,306325,William,MYERS,Davis,CA,,Herbalife p/b Marc Pro - Nature's Bakery
 12,494075,Wolfgang,BRANDL,,,,
 13,338708,Colin,STRICKLAND,Austin,TX,,Intelligentsia-Allied
 14,535665,wilmer,ULLOA,Milwaukee,WI,,
@@ -2357,7 +2357,7 @@ Place,License #,First,Last,City,State,Time,Team
 42,502771,Bob,GOEDBLOED,Athens,GA,,
 43,195204,Bryan,LARSEN,Santa Rosa,CA,,Storck-CCN
 44,297822,Daniel,CRESPO,Colorado Springs,CO,,Primal - Audi Denver
-45,504799,Peter,FOERSTER,,,,
+45,504799,Peter,FOERSTER,Atlanta,GA,,
 46,418091,Ian,SEIBERT,Peculiar,MO,,Quantum Solutions Intelligentsia
 47,294085,Kyle,MINDICK,Mchenry,IL,,Project Echelon Racing
 
@@ -2374,7 +2374,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,502367,Akash,LUCHT,Arden Hills,MN,,NorthStar Development Cycling
 10,473554,thomas,ZIOLKOWSKI,Whitewater,WI,,
 11,176164,Ryan,LIPSKI,Hubertus,WI,,KS Energy Services / MOSH / Team Wisconsin
-12,381826,Ryan,STOWERS,Denver,CO,,Boulder Junior Cycling
+12,381826,Ryan,STOWERS,Boulder,CO,,Boulder Junior Cycling
 13,460288,Anthony,GRISA,Whitewater,WI,,ISCorp Cycling p/b SmartChoice MRI
 14,532011,JUANFELIPE,PEREZ,,,,
 15,413109,Craig,BILLINGS,Madison,WI,,Brazen Dropouts
@@ -2405,7 +2405,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,178088,Jeff,ELAM,Madison,WI,,Team Velocause
 3,115204,Brian,LEATHERMAN,Waunakee,WI,,Team Velocause
 4,391902,Paul,DRYDEN,Whitefish Bay,WI,,ISCorp Cycling p/b SmartChoice MRI
-5,362289,Jason,HOLLY,Buffalo Grove ,IL,,PSIMET Racing
+5,362289,Jason,HOLLY,Buffalo Grove,IL,,PSIMET Racing
 6,346330,Mark,SCHULTZ,Manitowoc,WI,,Heavy Pedal Velo Club
 7,344230,Russ,KEMPKA,Grafton,WI,,ISCorp Cycling
 8,406945,Ryan,CHRISTIANSON,Grand Junction,CO,,Natural Grocers Cycling Team
@@ -2417,7 +2417,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,80318,Matthew,GARNI,Plymouth,WI,,Lakes Area Physical Therapy
 15,359848,peter,CAVOTO,Chicago,IL,,PSIMET Racing
 16,285578,John,BOUDRY,Waukesha,WI,,Team Velocause
-17,312254,Benny,SMITH,Wauwatosa ,WI,,Team Velocause
+17,312254,Benny,SMITH,Wauwatosa,WI,,Team Velocause
 18,357134,Dave,LENTING,Wyoming,MI,,Leadout Racing
 19,52687,Jim,MAUCK,Cedarburg,WI,,ISCorp Cycling p/b SmartChoice MRI
 20,97808,Paul,WARLOSKI,Greendale,WI,,Ben's Cycle/Milwaukee Bicycle Co. Cycling Team
@@ -2432,15 +2432,15 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,417606,Samuel,BARNAGAUD,Boca Raton,FL,,Interactive Metronome p/b Mega Cycle
 2,367909,Imeh,NSEK,Ontario,CA,,LUX/Stradling p/b Specialized
-3,530396,Jarrod,MORONI,,,,
-4,470369,Dane,MURPHY,Naperville ,IL,,Chicago Cuttin Crew
+3,530396,Jarrod,MORONI,Oceanside,CA,,
+4,470369,Dane,MURPHY,Naperville,IL,,Chicago Cuttin Crew
 5,504322,Sebastian,SALINAS,Miami,FL,,
-6,312724,Andrew,WEBB,Appleton,WI,,Diablo Cycling
+6,312724,Andrew,WEBB,Hortonville,WI,,Diablo Cycling
 7,459365,LUCAS,BOURGOYNE,Houston,TX,,
 8,531978,Alexander,CASTAO,,,,
 9,429727,Benjamin,RYAN,Randolph,MA,,New England Devo
 10,478112,Patrick,JUNGENBLUT,Milwaukee,WI,,
-11,403588,Jack,NIEWOLD,Madison,WI,,Apollo Velo U25
+11,403588,Jack,NIEWOLD,Minneapolis,MN,,Apollo Velo U25
 12,414381,Cesar,GALLEGO,Kew Gardens,NY,,
 13,215681,Marcus,CANADY,Raleigh,NC,,Jigawatt Cycling
 14,312130,Trey,HEDGECOCK,Ankeny,IA,,Above and Beyond Cancer p/b Scheels
@@ -2462,7 +2462,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,391693,Ama,NSEK,Ontario,CA,,LUX/Stradling p/b Specialized
 2,378825,Lance,ABSHIRE,Baton Rouge,LA,,Team LaS'port
-3,331144,Denzel,STEPHENSON,Boulder ,CO,,Boulder Junior Cycling
+3,331144,Denzel,STEPHENSON,Boulder,CO,,Boulder Junior Cycling
 4,291893,Simon,JONES,Milwaukee,WI,,
 5,433432,Cesar,REYES,Bell,CA,,Team Velosport Junior & U23 Development - Ridebiker Alliance
 6,361385,Tyler,REYNOLDS,Pella,IA,,Andrie Junior Development Team
@@ -2474,11 +2474,11 @@ Place,License #,First,Last,City,State,Time,Team
 12,534359,Gabriel,ROJAS,Kenosha,WI,,
 13,379737,Nathan,PAWLAK,Boulder,CO,,Prestige Imports/Porsche/Audi Race Team
 14,401329,Jared,SCOTT,Boulder,CO,,Boulder Junior Cycling
-15,494503,Jeanluc,CONTANT-GALITELLO,Pompano Beach,FL,,Interactive Metronome p/b Mega Cycle
+15,494503,Jeanluc,CONTANT-GALITELLO,Coconut Creek,FL,,Interactive Metronome p/b Mega Cycle
 16,373419,Alex,MORTON,Saint Clair,MI,,Andrie Junior Development Team
 17,473175,Logan,MCLAIN,Bossier City,LA,,Team LaS'port
 18,410856,Tyler,CURTIS,Clear Lake,IA,,NorthStar Development Cycling
-19,272071,Wheeler,DAVIS,Athens,GA,,Team Novo Nordisk Juniors
+19,272071,Wheeler,DAVIS,Raleigh,NC,,Team Novo Nordisk Juniors
 20,404392,Bogdan,RYLSKI,Saint Paul,MN,,NorthStar Development Cycling
 21,314012,Keegan,KORIENEK,Grandville,MI,,Leadout Racing
 22,361699,Wyatt,FUROIS,Falcon Heights,MN,,NorthStar Development Cycling
@@ -2497,7 +2497,7 @@ DQ,419197,Andrew,VOLLMER,Trabuco Canyon,CA,,LUX/Stradling p/b Specialized
 Place,License #,First,Last,City,State,Time,Team
 1,222021,Emile,ABRAHAM,Atlanta,GA,,Pharmaco-DeepSouth p/b NGCA
 2,197162,Robert,WHITE,Cedarburg,WI,,
-3,201290,Ryan,WHITE,Milwaukee ,WI,,
+3,201290,Ryan,WHITE,Milwaukee,WI,,
 4,15584,Michael,HEAGNEY,Libertyville,IL,,Intelligentsia-Allied
 5,187522,John,BERGMANN,Albany,CA,,TEAM CLIF BAR Cycling
 6,220881,Timothy,STRELECKI,Naperville,IL,,EMC2 / Elmhurst Masters
@@ -2515,7 +2515,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,246297,Clayton,CHASE,Mequon,WI,,
 19,368468,Ernie,PENA,Tampa,FL,,FloridaVelo
 20,266664,Nate,IDEN,Glencoe,IL,,Burnham Racing
-21,406399,Simon,PHUAH,Downers Grove,IL,,INTENT
+21,406399,Simon,PHUAH,Littleton,CO,,INTENT
 22,172255,Michael,FROH,Milwaukee,WI,,Intelligentsia Coffee
 23,68766,Michael,MARTENS,Grafton,WI,,
 24,389934,Derek,MORAN,Eden,WI,,Gryphon Velo Racing
@@ -2534,7 +2534,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,484160,Josie,TALBOT,,,,ISCorp Powered By Progress
 2,535723,Rebecca,WIASAK,,,,
-3,509477,Peta,MULLENS,Tulsa,OK,,
+3,509477,Peta,MULLENS,Oceanside,CA,,
 4,170980,Samantha,SCHNEIDER,West Allis,WI,,ISCorp Powered By Progress
 5,207432,Coryn,RIVERA,Tustin,CA,,UCI WPT: Sunweb
 6,529662,Elizabeth,WILLIAMS,Los Altos,CA,,
@@ -2543,7 +2543,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,528208,sharlotte,LUCAS,,,,
 10,41951,Tina,PIC,Bountiful,UT,,Papa John's Racing p/b TREK
 11,301155,Scotti,LECHUGA,Little Rock,AR,,UCI WPT: Hagens Berman | Supermint
-12,332072,Katie,CLOUSE,Littleton ,CO,,Visit Dallas DNA Cycling
+12,332072,Katie,CLOUSE,Park City,UT,,Visit Dallas DNA Cycling
 13,202033,Starla,TEDDERGREEN,Portland,OR,,UCI WPT: Hagens Berman | Supermint
 14,528363,Rylee,MCMULLEN,Auckland,,,
 15,271181,Kyrstin,BLUHM,Nashville,TN,,Fearless Femme Racing
@@ -2587,7 +2587,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,428718,Melody,MCLEOD,Brooksville,FL,,R & M
 9,532009,CAMILA,SANTAMARIA,,,,
 10,489784,Lisa,ERIKSSON,Portland,OR,,Holtey Law p/b Peak Condition
-11,473111,Cedella,JANCZAK,Greendale,WI,,ISCorp Cycling p/b SmartChoice MRI
+11,473111,Cedella,JANCZAK,Hales Corners,WI,,ISCorp Cycling p/b SmartChoice MRI
 12,401296,Gabriella,DIXON,Riverview,FL,,Interactive Metronome p/b Mega Cycle
 13,533410,Mary,PRENDERGAST,,,,
 14,318302,Andrea,CYR,Milwaukee,WI,,Team Velocause
@@ -2596,7 +2596,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,533949,Madeleine,DUPUIS,,,,
 18,481324,Jodie,PRESTINE,Brookfield,WI,,ISCorp Cycling p/b SmartChoice MRI
 19,533794,Kensa,KOEPPEN,Oshkosh,WI,,Team Wheel & Sprocket
-20,425714,Kelsey,PHILLIPS,Chicago,IL,,Chicago Cuttin Crew
+20,425714,Kelsey,PHILLIPS,Bend,OR,,Chicago Cuttin Crew
 21,534385,Iona,HALLIDAY,,,,
 22,473109,Kiana,JANCZAK,Greendale,WI,,ISCorp Cycling p/b SmartChoice MRI
 23,437395,Emma,POLENSKE,Milwaukee,WI,,ISCorp Cycling
@@ -2659,7 +2659,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,344420,Jadon,JAEGER,Bayside,WI,,Intelligentsia Coffee
 2,293467,Jordan,MARHANKA,Sellersburg,IN,,
 3,494075,Wolfgang,BRANDL,,,,
-4,306325,William,MYERS,Orinda,CA,,Herbalife p/b Marc Pro - Nature's Bakery
+4,306325,William,MYERS,Davis,CA,,Herbalife p/b Marc Pro - Nature's Bakery
 5,338708,Colin,STRICKLAND,Austin,TX,,Intelligentsia-Allied
 6,528185,Ole,QUAST,Hamburg,FL,,
 7,432674,Jarret,OLDHAM,Chicago,IL,,First Internet Bank Cycling Team
@@ -2686,7 +2686,7 @@ Place,License #,First,Last,City,State,Time,Team
 28,200766,Michael,DUTCZAK,Crete,IL,,Bicycle Heaven
 29,226739,Trevor,ROLETTE,Tinley Park,IL,,Sammy's Racing
 30,253603,Ian,HAUPT,Whitefish Bay,WI,,Great Dane Velo Club (GDVC)
-31,504799,Peter,FOERSTER,,,,
+31,504799,Peter,FOERSTER,Atlanta,GA,,
 32,474330,Danick,VANDALE,,,,
 33,391158,Igor,SHVYTOV,Chicago,IL,,xXx Racing
 34,347112,Austin,GOMES,Florissant,MO,,Quantum Solutions Intelligentsia
@@ -2719,7 +2719,7 @@ Place,License #,First,Last,City,State,Time,Team
 61,406669,Jesse,KOOISTRA,Paw Paw,MI,,Levine Law Group Elite Cycling Team
 62,270844,Jason,PAEZ,Whittier,CA,,Southern California Velo Elite Team
 63,309567,Sven,GARTNER,Park Ridge,IL,,Sammy's Racing
-64,342900,Thomas,WAVRIN,Belle Plaine,MN,,NorthStar Development Cycling
+64,342900,Thomas,WAVRIN,Medford,OR,,NorthStar Development Cycling
 65,296101,Frank,CUNDIFF,North Chesterfield,VA,,
 66,535796,Francesco,CHICCHI,Knoxville,TN,,Crit Life
 67,207074,Dallas,FOWLER,Green Bay,WI,,
@@ -2739,7 +2739,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,513272,Eric,FIFE,Milwaukee,WI,,
 5,532007,Juanjose,SANTAMARIA,,,,
 6,511955,Kevin,GNEHM,,,,
-6,480010,Daniel,FEULING,Milwaukee,WI,,BSB Cycling
+6,480010,Daniel,FEULING,Milwaukee Wi,WI,,BSB Cycling
 7,352586,Brad,BAUMANN,Zeeland,MI,,
 7,523421,Topher,RILEY,Cardiff By The Sea,CA,,Rogue Athletic
 8,169101,Carlos,MOLEDA,Bluffton,SC,,Paralyzed Veterans of America Racing
@@ -2754,7 +2754,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,417834,Carlo,ROCHE,Hollywood,FL,,
 13,533686,M Ted,DROSKI,Allendale Charter Township,MI,,
 13,297673,Mitchell,DUTCZAK,Crete,IL,,Team Velocause
-14,440349,Solomon,REVILS,Chesapeake,VA,,Paralyzed Veterans of America Racing
+14,440349,Solomon,REVILS,Chespeake,VA,,Paralyzed Veterans of America Racing
 14,176164,Ryan,LIPSKI,Hubertus,WI,,KS Energy Services / MOSH / Team Wisconsin
 15,407295,Michael,KNAPP,Chicago,IL,,
 15,268180,Patrick,BROCK,West Bend,WI,,BELGIANWERKX
@@ -2765,7 +2765,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,255842,Jacob,SCHILLING,Racine,WI,,Team Mack Racing Assn
 21,473554,thomas,ZIOLKOWSKI,Whitewater,WI,,
 22,501340,Simon,FALLAI,Middleton,WI,,BSB Cycling
-23,472755,Tom,MADDEN,Elmhurst,IL,,Marquette University
+23,472755,Tom,MADDEN,Milwaukee,WI,,Marquette University
 24,413109,Craig,BILLINGS,Madison,WI,,Brazen Dropouts
 25,393728,Eric,WHAYLEN,Madison,WI,,Brazen Dropouts
 26,402802,Michael,RAASCH,Greenfield,WI,,Lakes Area Physical Therapy
@@ -2809,7 +2809,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,76192,Kevin,COLLINS,Grand Rapids,MI,,Speed Merchants
 9,168222,Greg,HAYES,Corona,CA,,Impact Racing Team
 10,344230,Russ,KEMPKA,Grafton,WI,,ISCorp Cycling
-11,362289,Jason,HOLLY,Buffalo Grove ,IL,,PSIMET Racing
+11,362289,Jason,HOLLY,Buffalo Grove,IL,,PSIMET Racing
 12,185666,Rick,SCHOPP,Warrenville,IL,,INTENT
 13,52133,Andreas,FISCHER,Chicago,IL,,PSIMET Racing
 14,52687,Jim,MAUCK,Cedarburg,WI,,ISCorp Cycling p/b SmartChoice MRI
@@ -2828,7 +2828,7 @@ Place,License #,First,Last,City,State,Time,Team
 27,475165,Gaylord,OTTE,Evanston,IL,,xXx Racing
 28,349616,Scott,RICE,Hartland,WI,,
 29,282943,Bryan,WIERZCHUCKI,Chino Hills,CA,,Impact Racing Team
-30,312254,Benny,SMITH,Wauwatosa ,WI,,Team Velocause
+30,312254,Benny,SMITH,Wauwatosa,WI,,Team Velocause
 31,285578,John,BOUDRY,Waukesha,WI,,Team Velocause
 32,2962,John,BAXTER,Raleigh,NC,,Constellation Cycling
 33,311506,Craig,DOPPMANN,Claremont,CA,,Impact Racing Team
@@ -2842,7 +2842,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,466526,Eli,HUSTED,Austin,TX,,Hot Tubes Development Cycling
 2,335978,Julian,TOUMEY,Madison,WI,,Great Dane Velo Club p/b Capital Brewery
 3,434894,Henry,LUTZ,Wauwatosa,WI,,ISCorp Cycling p/b SmartChoice MRI
-4,530396,Jarrod,MORONI,,,,
+4,530396,Jarrod,MORONI,Oceanside,CA,,
 5,504322,Sebastian,SALINAS,Miami,FL,,
 6,532012,ALEJANDRO,VILLADA,,,,
 7,414381,Cesar,GALLEGO,Kew Gardens,NY,,
@@ -2850,7 +2850,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,385995,Brent,WILLIAMS,Appleton,WI,,Diablo Cycling
 10,291893,Simon,JONES,Milwaukee,WI,,
 11,531978,Alexander,CASTAO,,,,
-12,470369,Dane,MURPHY,Naperville ,IL,,Chicago Cuttin Crew
+12,470369,Dane,MURPHY,Naperville,IL,,Chicago Cuttin Crew
 13,311382,William,BURTON,Lexington,KY,,Commonwealth Eye Surgery / Crankworks
 14,312130,Trey,HEDGECOCK,Ankeny,IA,,Above and Beyond Cancer p/b Scheels
 15,0,Gabriel,,,,,
@@ -2858,7 +2858,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,296568,David,ROSE,Lexington,KY,,Commonwealth Eye Surgery / Crankworks
 18,364716,Benjamin,ANDERSON,Iowa City,IA,,University of Iowa Heart and Vascular Care-Specialized
 19,492633,Jason,COLESTOCK,Minneapolis,MN,,NorthStar Development Cycling
-20,403588,Jack,NIEWOLD,Madison,WI,,Apollo Velo U25
+20,403588,Jack,NIEWOLD,Minneapolis,MN,,Apollo Velo U25
 21,381603,Stephen,JETTE,Weston,MA,,New England Devo
 22,429727,Benjamin,RYAN,Randolph,MA,,New England Devo
 23,417606,Samuel,BARNAGAUD,Boca Raton,FL,,Interactive Metronome p/b Mega Cycle
@@ -2874,20 +2874,20 @@ Place,License #,First,Last,City,State,Time,Team
 33,500484,Bobby,ATKINS,Chicago,IL,,xXx Racing
 34,292708,Peter,ARMSTRONG,Madison,WI,,Brazen Dropouts Cycling Team
 35,455635,Austin,ANDERSON,Delafield,WI,,Team Velocause
-36,272071,Wheeler,DAVIS,Athens,GA,,Team Novo Nordisk Juniors
+36,272071,Wheeler,DAVIS,Raleigh,NC,,Team Novo Nordisk Juniors
 37,314012,Keegan,KORIENEK,Grandville,MI,,Leadout Racing
 38,368066,David,ROSS,Dekalb,IL,,Bicycle Heaven
 39,460247,Ryan,GIROUARD,Whitewater,WI,,UW-Whitewater Cycling
 40,287561,Nick,HAND,Clayton,MO,,Quantum Solutions Intelligentsia
 41,208217,Alex,EDWARDS,Streamwood,IL,,PSIMET Racing
-42,342900,Thomas,WAVRIN,Belle Plaine,MN,,NorthStar Development Cycling
+42,342900,Thomas,WAVRIN,Medford,OR,,NorthStar Development Cycling
 43,410856,Tyler,CURTIS,Clear Lake,IA,,NorthStar Development Cycling
 44,412295,Darel,CHRISTOPHER,Forest Park,GA,,Pharmaco-DeepSouth p/b NGCA
 45,454627,Ryan,SCHMELING,Eagle,WI,,ISCorp Cycling p/b SmartChoice MRI
 46,532784,Indiana,MICHEL,,,,
 47,459365,LUCAS,BOURGOYNE,Houston,TX,,
 48,531988,John,CUERVO,,,,
-49,494503,JeanLuc,CONTANT-GALITELLO,Pompano Beach,FL,,Interactive Metronome p/b Mega Cycle
+49,494503,JeanLuc,CONTANT-GALITELLO,Coconut Creek,FL,,Interactive Metronome p/b Mega Cycle
 50,249934,Matthew,BOHM,Oak Creek,WI,,KS Energy Services / MOSH / Team Wisconsin
 51,254084,Ben,GRABOW,Madison,WI,,Brazen Dropouts Cycling Team
 52,207441,Andrew,PETERSON,Iowa City,IA,,University of Iowa Heart and Vascular Care-Specialized
@@ -2901,7 +2901,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,220881,Timothy,STRELECKI,Naperville,IL,,EMC2 / Elmhurst Masters
 2,133375,Michael,OLHEISER,Huntsville,AL,,
 3,222021,Emile,ABRAHAM,Atlanta,GA,,Pharmaco-DeepSouth p/b NGCA
-4,201290,Ryan,WHITE,Milwaukee ,WI,,
+4,201290,Ryan,WHITE,Milwaukee,WI,,
 5,197162,Robert,WHITE,Cedarburg,WI,,
 6,15584,Michael,HEAGNEY,Libertyville,IL,,Intelligentsia-Allied
 7,530053,Warrick,SPENCE,Crystal Lake,IL,,
@@ -2912,7 +2912,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,216719,Carlos,CASALI,Verona,WI,,Intelligentsia Coffee
 13,48064,Andrew,OHLSSON,Hartland,WI,,
 14,266664,Nate,IDEN,Glencoe,IL,,Burnham Racing
-15,406399,Simon,PHUAH,Downers Grove,IL,,INTENT
+15,406399,Simon,PHUAH,Littleton,CO,,INTENT
 16,14516,David,HAASE,Fond Du Lac,WI,,
 17,196540,Pablo,SANTA CRUZ,Safety Harbor,FL,,FloridaVelo
 18,24653,Steven,MLUJEAK,Hollywood,FL,,Interactive Metronome p/b Mega Cycle
@@ -2973,7 +2973,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,535723,Rebecca,WIASAK,,,,
 3,484160,Josie,TALBOT,,,,ISCorp Powered By Progress
 4,170980,Samantha,SCHNEIDER,West Allis,WI,,ISCorp Powered By Progress
-5,509477,Peta,MULLENS,Tulsa,OK,,
+5,509477,Peta,MULLENS,Oceanside,CA,,
 6,207432,Coryn,RIVERA,Tustin,CA,,UCI WPT: Sunweb
 7,529662,Elizabeth,WILLIAMS,Los Altos,CA,,
 8,41951,Tina,PIC,Bountiful,UT,,Papa John's Racing p/b TREK
@@ -3036,11 +3036,11 @@ Place,License #,First,Last,City,State,Time,Team
 12,481324,Jodie,PRESTINE,Brookfield,WI,,ISCorp Cycling p/b SmartChoice MRI
 13,314232,Heidi,HARDRATH,Shorewood,WI,,Velocause Centraal Cycling
 14,533410,Mary,PRENDERGAST,,,,
-15,433105,Brenna,GIBBONS,Coon Valley ,WI,,
+15,433105,Brenna,GIBBONS,Madison,WI,,
 16,533949,Madeleine,DUPUIS,,,,
 17,485931,Erin,NINMER,Milwaukee,WI,,Hollander Benelux Racing
 18,503008,Lori,KAZAKS,Elm Grove,WI,,Hollander Benelux Racing
-19,473111,Cedella,JANCZAK,Greendale,WI,,ISCorp Cycling p/b SmartChoice MRI
+19,473111,Cedella,JANCZAK,Hales Corners,WI,,ISCorp Cycling p/b SmartChoice MRI
 20,534385,Iona,HALLIDAY,,,,
 21,392098,Sarah,MUENCH,Phoenix,AZ,,ISCorp Cycling p/b SmartChoice MRI
 22,365134,Jennifer,BAYNES,Shorewood,WI,,ISCorp Cycling p/b SmartChoice MRI
@@ -3070,19 +3070,19 @@ Place,License #,First,Last,City,State,Time,Team
 10,338708,Colin,STRICKLAND,Austin,TX,,Intelligentsia-Allied
 11,504248,Todd,SATCHELL,,,,
 12,376024,Charkie,HUEGEL,Greensboro,NC,,Nine Lives Carbon Repair
-13,381623,Owen,GILLOTT,Foster City ,CA,,Storck-CCN
+13,381623,Owen,GILLOTT,Foster City,CA,,Storck-CCN
 14,535665,wilmer,ULLOA,Milwaukee,WI,,
 15,389699,Philip,SHORT,Greensboro,NC,,Nine Lives Carbon Repair
 16,347112,Austin,GOMES,Florissant,MO,,Quantum Solutions Intelligentsia
 17,253603,Ian,HAUPT,Whitefish Bay,WI,,Great Dane Velo Club (GDVC)
 18,283391,Michael,KELLER,Orland Hills,IL,,Bissell-ABG-Giant
-19,306325,William,MYERS,Orinda,CA,,Herbalife p/b Marc Pro - Nature's Bakery
+19,306325,William,MYERS,Davis,CA,,Herbalife p/b Marc Pro - Nature's Bakery
 20,339018,Luke,MOMPER,Fort Wayne,IN,,SBR Quantum Racing
 21,192686,Blake,ANTON,Arroyo Grande,CA,,Herbalife p/b MarcPro-Strava
 22,363338,Zackary,JENSEN,Fort Collins,CO,,The Phoenix Cyclery - Orbea
 23,291935,James,HILYER,Durango,CO,,
 24,219225,Evan,HARTIG,Dubuque,IA,,Borah Factory Racing
-25,504799,Peter,FOERSTER,,,,
+25,504799,Peter,FOERSTER,Atlanta,GA,,
 26,200766,Michael,DUTCZAK,Crete,IL,,Bicycle Heaven
 27,391158,Igor,SHVYTOV,Chicago,IL,,xXx Racing
 28,240194,Brian,KAKER,Milwaukee,WI,,Project Echelon Racing
@@ -3154,7 +3154,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,532168,samuel,janisch,Wauwatosa,WI,,ISCorp Cycling
 17,507918,JP,SEDITA,Milwaukee,WI,,
 18,478065,Andrew,SMITS,Appleton,WI,,Diablo Cycling
-19,480010,Daniel,FEULING,Milwaukee,WI,,BSB Cycling
+19,480010,Daniel,FEULING,Milwaukee Wi,WI,,BSB Cycling
 20,480746,Shawn,NELSON,Fond Du Lac,WI,,Diablo Cycling
 21,176164,Ryan,LIPSKI,Hubertus,WI,,KS Energy Services / MOSH / Team Wisconsin
 22,255842,Jacob,SCHILLING,Racine,WI,,Team Mack Racing Assn
@@ -3209,7 +3209,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,178088,Jeff,ELAM,Madison,WI,,Team Velocause
 11,52133,Andreas,FISCHER,Chicago,IL,,PSIMET Racing
 12,52923,Klayton,SPROLES,Corona,CA,,Raceklean Cycling Team
-13,362289,Jason,HOLLY,Buffalo Grove ,IL,,PSIMET Racing
+13,362289,Jason,HOLLY,Buffalo Grove,IL,,PSIMET Racing
 14,344230,Russ,KEMPKA,Grafton,WI,,ISCorp Cycling
 15,526619,David,SANTOS,Waukesha,WI,,KS Energy Services / MOSH / Team Wisconsin
 16,294851,Jason,BEERENDS,Iowa City,IA,,New Pioneer Food Co-op
@@ -3229,7 +3229,7 @@ Place,License #,First,Last,City,State,Time,Team
 30,52687,Jim,MAUCK,Cedarburg,WI,,ISCorp Cycling p/b SmartChoice MRI
 31,475165,Gaylord,OTTE,Evanston,IL,,xXx Racing
 32,81238,Todd,BUGNACKI,Cedarburg,WI,,
-33,312254,Benny,SMITH,Wauwatosa ,WI,,Team Velocause
+33,312254,Benny,SMITH,Wauwatosa,WI,,Team Velocause
 34,336264,Jose,RODRIGUEZ,Highwood,IL,,INTENT
 35,368502,Andrew,KENTH,Franklin,WI,,Lakes Area Physical Therapy
 36,172959,Eric,SCHRAM,Manitowoc,WI,,Fiets Club Flahute
@@ -3243,7 +3243,7 @@ Place,License #,First,Last,City,State,Time,Team
 06/17/2017 Criterium Men Cat 2/3 Elite
 Place,License #,First,Last,City,State,Time,Team
 1,417606,Samuel,BARNAGAUD,Boca Raton,FL,,Interactive Metronome p/b Mega Cycle
-2,530396,Jarrod,MORONI,,,,
+2,530396,Jarrod,MORONI,Oceanside,CA,,
 3,504322,Sebastian,SALINAS,Miami,FL,,
 4,394749,Noah,SCHLOSSER,Stevenson Ranch,CA,,LUX/Stradling p/b Specialized
 5,532012,Alejandro,VILLADA,,,,
@@ -3253,11 +3253,11 @@ Place,License #,First,Last,City,State,Time,Team
 9,385995,Brent,WILLIAMS,Appleton,WI,,Diablo Cycling
 10,478112,Patrick,JUNGENBLUT,Milwaukee,WI,,
 11,476737,Andrew,DEWAR,Libertyville,IL,,Sonic Boom Racing Team
-12,403588,Jack,NIEWOLD,Madison,WI,,Apollo Velo U25
+12,403588,Jack,NIEWOLD,Minneapolis,MN,,Apollo Velo U25
 13,391071,Frederick,DEROCHER,West Allis,WI,,KS Energy Services / MOSH / Team Wisconsin
-14,477965,Kia,NAMIN,Milwaukee,WI,,Team Velocause
+14,477965,Kia,NAMIN,Shorewood,WI,,Team Velocause
 15,312130,Trey,HEDGECOCK,Ankeny,IA,,Above and Beyond Cancer p/b Scheels
-16,470369,Dane,MURPHY,Naperville ,IL,,Chicago Cuttin Crew
+16,470369,Dane,MURPHY,Naperville,IL,,Chicago Cuttin Crew
 17,357496,Steven,TREBATOSKI,Shorewood,WI,,Team Velocause
 18,368066,David,ROSS,Dekalb,IL,,Bicycle Heaven
 19,0,Gabriel,,,,,
@@ -3271,7 +3271,7 @@ Place,License #,First,Last,City,State,Time,Team
 27,430609,James,ANDERS,Milwaukee,WI,,Marquette University
 28,484971,Michael,LAMBERT,Tuscaloosa,AL,,SH!FT Racing p/b St. Vincent's Orthopedics
 29,455635,Austin,ANDERSON,Delafield,WI,,Team Velocause
-30,245670,Jim,MADDOCK,South Berwick,ME,,Bonkers Cycling
+30,245670,Jim,MADDOCK,Chicago,IL,,Bonkers Cycling
 31,438454,Ross,TUNEBERG,Rockford,IL,,Scarlet Fire Racing
 32,402420,Tyler,GIESE,Madison,WI,,Great Dane Velo Club (GDVC)
 33,500484,Bobby,ATKINS,Chicago,IL,,xXx Racing
@@ -3282,10 +3282,10 @@ Place,License #,First,Last,City,State,Time,Team
 38,532784,Indiana,MICHEL,,,,
 39,382131,Mitchell,FREUND,New Holstein,WI,,Big Ring Flyers
 40,454627,Ryan,SCHMELING,Eagle,WI,,ISCorp Cycling p/b SmartChoice MRI
-41,272071,Wheeler,DAVIS,Athens,GA,,Team Novo Nordisk Juniors
+41,272071,Wheeler,DAVIS,Raleigh,NC,,Team Novo Nordisk Juniors
 42,207441,Andrew,PETERSON,Iowa City,IA,,University of Iowa Heart and Vascular Care-Specialized
 43,314012,Keegan,KORIENEK,Grandville,MI,,Leadout Racing
-44,286320,Zachary,ZIONTS,Highland Park,IL,,Burnham Racing
+44,286320,Zachary,ZIONTS,Chapel Hill,NC,,Burnham Racing
 45,429727,Benjamin,RYAN,Randolph,MA,,New England Devo
 46,430758,Josh,MESNER,Whitewater,WI,,KS Energy Services / MOSH / Team Wisconsin
 47,531988,John,CUERVO,,,,
@@ -3295,7 +3295,7 @@ Place,License #,First,Last,City,State,Time,Team
 51,439068,Graham,LOCK,,,,
 52,314730,Tracy,DANGOTT,Chicago,IL,,xXx Racing
 53,404404,Noah,KIRCHNER,Whitefish Bay,WI,,ISCorp Cycling
-54,184183,Marc,ZIONTS,Highland Park,IL,,The Weather Channel
+54,184183,Marc,ZIONTS,Chapel Hill,NC,,The Weather Channel
 55,17376,Michael,INGLIS,Lakewood,CO,,NINOX Racing Team
 56,410856,Tyler,CURTIS,Clear Lake,IA,,NorthStar Development Cycling
 
@@ -3307,7 +3307,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,216719,Carlos,CASALI,Verona,WI,,Intelligentsia Coffee
 5,160576,Matt,MUYRES,Minneapolis,MN,,Donkey Label
 6,133375,Michael,OLHEISER,Huntsville,AL,,
-7,201290,Ryan,WHITE,Milwaukee ,WI,,
+7,201290,Ryan,WHITE,Milwaukee,WI,,
 8,193347,Laszlo,ALBERTI,Minneapolis,MN,,Vision Racing p/b Sanford POWER
 9,285533,Bob,KARLOW,Crystal Lake,IL,,Intelligentsia Coffee
 10,15584,Michael,HEAGNEY,Libertyville,IL,,Intelligentsia-Allied
@@ -3325,10 +3325,10 @@ Place,License #,First,Last,City,State,Time,Team
 22,393415,Anderson,BORTOLETTO,Mcfarland,WI,,Lakes Area Physical Therapy
 23,274937,Mike,BUDD,Wrightstown,WI,,Team Wheel & Sprocket
 24,59327,John,ROBERTSON,Sherwood,WI,,Diablo Cycling
-25,406399,Simon,PHUAH,Downers Grove,IL,,INTENT
+25,406399,Simon,PHUAH,Littleton,CO,,INTENT
 26,17376,Michael,INGLIS,Lakewood,CO,,NINOX Racing Team
 27,104579,Ben,LUND,Delafield,WI,,Hollander Benelux Racing
-28,392104,Doug,ZELL,Little Rock ,AR,,Intelligentsia Coffee
+28,392104,Doug,ZELL,Lockhart,TX,,Intelligentsia Coffee
 29,14516,David,HAASE,Fond Du Lac,WI,,
 30,49386,Matt,DUNCAN,Louisville,CO,,GS Panache
 31,200716,Rick,FLAYTER,Waukesha,WI,,
@@ -3337,7 +3337,7 @@ Place,License #,First,Last,City,State,Time,Team
 34,81296,Hans,HIGDON,Milwaukee,WI,,Hampshire Cycle Club
 35,222021,Emile,ABRAHAM,Atlanta,GA,,Pharmaco-DeepSouth p/b NGCA
 36,289827,Chad,WEISGRAM,Audubon ,MN,,Vision Racing p/b Sanford POWER
-37,83764,Gene,TOLLI,Albany,WI,,
+37,83764,Gene,TOLLI,Peoria,AZ,,
 38,150412,Jack,NIELSEN,Racine,WI,,
 39,46006,Curtis,TOLSON,Louisville,KY,,Texas Roadhouse Cycling Team
 40,351084,Brian,TURANY,Madison,WI,,Hollander Benelux Racing
@@ -3367,7 +3367,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,535723,Rebecca,WIASAK,,,,
 2,207432,Coryn,RIVERA,Tustin,CA,,UCI WPT: Sunweb
 3,170980,Samantha,SCHNEIDER,West Allis,WI,,ISCorp Powered By Progress
-4,509477,Peta,MULLENS,Tulsa,OK,,
+4,509477,Peta,MULLENS,Oceanside,CA,,
 5,484160,Josie,TALBOT,,,,ISCorp Powered By Progress
 6,529662,Elizabeth,WILLIAMS,Los Altos,CA,,
 7,202033,Starla,TEDDERGREEN,Portland,OR,,UCI WPT: Hagens Berman | Supermint
@@ -3441,7 +3441,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,528458,Eleanor,THERMANSEN,Minneapolis,MN,,Kingfield
 20,485931,Erin,NINMER,Milwaukee,WI,,Hollander Benelux Racing
 21,534655,Rachel,PEARSON,Forest Park,IL,,
-22,473111,Cedella,JANCZAK,Greendale,WI,,ISCorp Cycling p/b SmartChoice MRI
+22,473111,Cedella,JANCZAK,Hales Corners,WI,,ISCorp Cycling p/b SmartChoice MRI
 23,503568,Janell,BROCK,West Bend,WI,,ISCorp Cycling p/b SmartChoice MRI
 24,481324,Jodie,PRESTINE,Brookfield,WI,,ISCorp Cycling p/b SmartChoice MRI
 25,211922,Amy,PLATO,Grafton,WI,,Hollander Benelux Racing
@@ -3478,14 +3478,14 @@ Place,License #,First,Last,City,State,Time,Team
 12,387377,Theodore,MOSS,Golden,CO,,
 13,511629,John,HAUPT,Wauwatosa,WI,,
 14,533686,M Ted,DROSKI,Allendale Charter Township,MI,,
-15,440349,Solomon,REVILS,Chesapeake,VA,,Paralyzed Veterans of America Racing
+15,440349,Solomon,REVILS,Chespeake,VA,,Paralyzed Veterans of America Racing
 16,407295,Michael,KNAPP,Chicago,IL,,
 
 06/17/2017 Criterium Mixed Cat 5 Elite
 Place,License #,First,Last,City,State,Time,Team
 1,488277,Adam,RAYCHEL,Milwaukee,WI,,
 2,532204,Justin,DAULMAN,Oshkosh,WI,,Team Velocause
-3,530353,Max,WIEGERS,Milwaukee,WI,,Lakes Area Physical Therapy
+3,530353,Max,WIEGERS,Mcpherson,KS,,Lakes Area Physical Therapy
 4,492925,Thomas,LEU,Wauwatosa,WI,,
 5,0,Robb,PIEPER,,,,
 6,524102,Travis,SWANSON,New Berlin,WI,,Colorado State University
@@ -3516,7 +3516,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,178840,Maxwell,ANDERSON,Hartford,WI,,
 16,219225,Evan,HARTIG,Dubuque,IA,,
 17,504248,Todd,SATCHELL,,,,
-18,381623,Owen,GILLOTT,Foster City ,CA,,
+18,381623,Owen,GILLOTT,Foster City,CA,,
 19,193035,Brandon,FEEHERY,Knoxville,TN,,
 20,424332,Jose Frank,RODRIGUEZ,Miami,FL,,
 21,531500,Reece,ROBINSON,,,,
@@ -3527,7 +3527,7 @@ Place,License #,First,Last,City,State,Time,Team
 26,200766,Michael,DUTCZAK,Crete,IL,,
 27,306188,John,PRATT,South Lyon,MI,,
 28,291893,Simon,JONES,Milwaukee,WI,,
-29,504799,Peter,FOERSTER,,,,
+29,504799,Peter,FOERSTER,Atlanta,GA,,
 30,528230,Alberto,COVARRUBIAS,Springdale,AR,,
 31,376024,Charkie,HUEGEL,Greensboro,NC,,
 32,355424,Robert,BERRY,Milwaukee,WI,,
@@ -3537,7 +3537,7 @@ Place,License #,First,Last,City,State,Time,Team
 36,339018,Luke,MOMPER,Fort Wayne,IN,,
 37,253603,Ian,HAUPT,Whitefish Bay,WI,,
 38,379841,Spencer,KRUSE,Racine,WI,,
-39,306325,William,MYERS,Orinda,CA,,
+39,306325,William,MYERS,Davis,CA,,
 40,344420,Jadon,JAEGER,Bayside,WI,,
 41,527207,Jordan,GILMORE,,,,
 42,532021,William,HODGES,,,,
@@ -3583,7 +3583,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,466258,Johnny,HILL,Tallahassee,FL,,
 12,68091,Brian,MALARSKI,St. Paul,MN,,
 13,504645,Lee,PROUTY,Lodi,WI,,
-14,480010,Daniel,FEULING,Milwaukee,WI,,
+14,480010,Daniel,FEULING,Milwaukee Wi,WI,,
 15,357461,Brian,DUNLAVY,Richmond,IL,,
 16,268180,Patrick,BROCK,West Bend,WI,,
 17,513406,Sean,MCNAUGHTAN,Menomonee Falls,WI,,
@@ -3618,7 +3618,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,168222,Greg,HAYES,Corona,CA,,
 8,185666,Rick,SCHOPP,Warrenville,IL,,
 9,282943,Bryan,WIERZCHUCKI,Chino Hills,CA,,
-10,362289,Jason,HOLLY,Buffalo Grove ,IL,,
+10,362289,Jason,HOLLY,Buffalo Grove,IL,,
 11,52133,Andreas,FISCHER,Chicago,IL,,
 12,344230,Russ,KEMPKA,Grafton,WI,,
 13,357134,Dave,LENTING,Wyoming,MI,,
@@ -3640,7 +3640,7 @@ Place,License #,First,Last,City,State,Time,Team
 29,250244,Voytek,GLINKOWSKI,Buffalo Grove,IL,,
 30,310737,Christian,MEEKMA,Chicago,IL,,
 31,115204,Brian,LEATHERMAN,Waunakee,WI,,
-32,312254,Benny,SMITH,Wauwatosa ,WI,,
+32,312254,Benny,SMITH,Wauwatosa,WI,,
 33,11378,Stephen,FEEHERY,Homewood,IL,,
 34,398045,John,KASBOHM,Dover,NH,,
 
@@ -3653,9 +3653,9 @@ Place,License #,First,Last,City,State,Time,Team
 5,385995,Brent,WILLIAMS,Appleton,WI,,
 6,478112,Patrick,JUNGENBLUT,Milwaukee,WI,,
 7,378825,Lance,ABSHIRE,Baton Rouge,LA,,
-8,530396,Jarrod,MORONI,,,,
-9,470369,Dane,MURPHY,Naperville ,IL,,
-10,312724,Andrew,WEBB,Appleton,WI,,
+8,530396,Jarrod,MORONI,Oceanside,CA,,
+9,470369,Dane,MURPHY,Naperville,IL,,
+10,312724,Andrew,WEBB,Hortonville,WI,,
 11,0,Gabriel,,,,,
 12,484971,Michael,LAMBERT,Tuscaloosa,AL,,
 13,492633,Jason,COLESTOCK,Minneapolis,MN,,
@@ -3675,7 +3675,7 @@ Place,License #,First,Last,City,State,Time,Team
 27,532784,Indiana,MICHEL,,,,
 28,500484,Bobby,ATKINS,Chicago,IL,,
 29,531988,John,CUERVO,,,,
-30,245670,Jim,MADDOCK,South Berwick,ME,,
+30,245670,Jim,MADDOCK,Chicago,IL,,
 31,526619,David,SANTOS,Waukesha,WI,,
 32,311506,Craig,DOPPMANN,Claremont,CA,,
 33,454627,Ryan,SCHMELING,Eagle,WI,,
@@ -3683,7 +3683,7 @@ Place,License #,First,Last,City,State,Time,Team
 35,430758,Josh,MESNER,Whitewater,WI,,
 36,296568,David,ROSE,Lexington,KY,,
 37,428099,Tommy,MORRISON,Cartersville,GA,,
-38,286320,Zachary,ZIONTS,Highland Park,IL,,
+38,286320,Zachary,ZIONTS,Chapel Hill,NC,,
 39,282943,Bryan,WIERZCHUCKI,Chino Hills,CA,,
 40,17376,Michael,INGLIS,Lakewood,CO,,
 41,460247,Ryan,GIROUARD,Whitewater,WI,,
@@ -3697,7 +3697,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,15584,Michael,HEAGNEY,Libertyville,IL,,
 5,216719,Carlos,CASALI,Verona,WI,,
 6,530053,Warrick,SPENCE,Crystal Lake,IL,,
-7,201290,Ryan,WHITE,Milwaukee ,WI,,
+7,201290,Ryan,WHITE,Milwaukee,WI,,
 8,289827,Chad,WEISGRAM,Audubon ,MN,,
 9,47935,Vance,JAMES,Lakeland,FL,,
 10,133375,Michael,OLHEISER,Huntsville,AL,,
@@ -3707,13 +3707,13 @@ Place,License #,First,Last,City,State,Time,Team
 14,172255,Michael,FROH,Milwaukee,WI,,
 15,162381,Erik,TOMLINSON,Genoa,IL,,
 16,196540,Pablo,SANTA CRUZ,Safety Harbor,FL,,
-17,392104,Doug,ZELL,Little Rock ,AR,,
+17,392104,Doug,ZELL,Lockhart,TX,,
 18,116581,Samuel,GUZMAN,Ashburn,VA,,
 19,347808,James,BROWN,Evanston,IL,,
 20,49386,Matt,DUNCAN,Louisville,CO,,
 21,274937,Mike,BUDD,Wrightstown,WI,,
 22,160576,Matt,MUYRES,Minneapolis,MN,,
-23,406399,Simon,PHUAH,Downers Grove,IL,,
+23,406399,Simon,PHUAH,Littleton,CO,,
 24,360122,Matthew,GIEDT,Glencoe,IL,,
 25,44238,Marc,BERTUCCO,New York,NY,,
 26,246297,Clayton,CHASE,Mequon,WI,,
@@ -3748,7 +3748,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,529662,Elizabeth,WILLIAMS,Los Altos,CA,,
 2,170980,Samantha,SCHNEIDER,West Allis,WI,,
-3,509477,Peta,MULLENS,Tulsa,OK,,
+3,509477,Peta,MULLENS,Oceanside,CA,,
 4,484160,Josie,TALBOT,,,,
 5,41951,Tina,PIC,Bountiful,UT,,
 6,207432,Coryn,RIVERA,Tustin,CA,,
@@ -3797,7 +3797,7 @@ Place,License #,First,Last,City,State,Time,Team
 49,459343,Anna,ZAWADSKI,Saint Paul,MN,,
 50,418537,Michelle,HENRY,Denver,CO,,
 51,530265,Grace,ANDERSON,,,,
-52,332072,Katie,CLOUSE,Littleton ,CO,,
+52,332072,Katie,CLOUSE,Park City,UT,,
 53,528152,Josephine,MELDGAARD,Sydney,,,
 54,55494,Anne,MEYER,La Crosse,WI,,
 55,528921,Ione,JOHNSON,,,,
@@ -3828,7 +3828,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,440261,Donna,GALLARDO,Milwaukee,WI,,
 20,476607,Traci,ELLIOTT,Wauwatosa,WI,,
 21,528458,Eleanor,THERMANSEN,Minneapolis,MN,,
-22,473111,Cedella,JANCZAK,Greendale,WI,,
+22,473111,Cedella,JANCZAK,Hales Corners,WI,,
 23,314986,Marnie,PEARSALL,Fox Point ,WI,,
 24,290164,Monica,RICE,Algonquin,IL,,
 25,428719,Lilly,MCLEOD,Brooksville,FL,,
@@ -3853,7 +3853,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,533686,M Ted,DROSKI,Allendale Charter Township,MI,,
 12,513169,Jose,ALEJANDRE,Burbank,IL,,
 13,511629,John,HAUPT,Wauwatosa,WI,,
-14,440349,Solomon,REVILS,Chesapeake,VA,,
+14,440349,Solomon,REVILS,Chespeake,VA,,
 15,407295,Michael,KNAPP,Chicago,IL,,
 
 06/16/2017 Criterium Mixed Cat 5 Elite
@@ -3877,12 +3877,12 @@ Place,License #,First,Last,City,State,Time,Team
 5,286608,Eamon,FRANCK,Pacific Grove,CA,,Crit Life
 6,344420,Jadon,JAEGER,Bayside,WI,,Intelligentsia Coffee
 7,181725,Daniel,HOLLOWAY,Boulder,CO,,Texas Roadhouse Cycling Team
-8,381623,Owen,GILLOTT,Foster City ,CA,,Storck-CCN
+8,381623,Owen,GILLOTT,Foster City,CA,,Storck-CCN
 9,467841,Ryan,AITCHESON,,,,
 10,531500,Reece,ROBINSON,,,,
 11,492820,Wesley,PHIPSON,St Charles,MO,,Project Echelon Racing
 12,253603,Ian,HAUPT,Whitefish Bay,WI,,Great Dane Velo Club (GDVC)
-13,306325,William,MYERS,Orinda,CA,,Herbalife p/b Marc Pro - Nature's Bakery
+13,306325,William,MYERS,Davis,CA,,Herbalife p/b Marc Pro - Nature's Bakery
 14,52534,Adam,MYERSON,Dorchester,MA,,UCI CT: Astellas Cycling Team
 15,494075,Wolfgang,BRANDL,,,,
 16,477870,Jake,MAGEE,Boulder ,CO,,Elbowz Racing
@@ -3909,7 +3909,7 @@ Place,License #,First,Last,City,State,Time,Team
 37,416256,Steven,FULLER,Claremont ,CA,,Southern California Velo
 38,394749,Noah,SCHLOSSER,Stevenson Ranch,CA,,LUX/Stradling p/b Specialized
 39,240194,Brian,KAKER,Milwaukee,WI,,Project Echelon Racing
-40,504799,Peter,FOERSTER,,,,
+40,504799,Peter,FOERSTER,Atlanta,GA,,
 41,485837,Paul,HARTNER,Naperville,IL,,Bicycle Heaven
 42,340630,Matthew,KELLEY,Homewood,IL,,Bicycle Heaven
 43,181284,Emmanuel,SUAREZ,Weldon,CA,,
@@ -3980,7 +3980,7 @@ Place,License #,First,Last,City,State,Time,Team
 31,471845,Jakob,CRAIG,Tomahawk,WI,,Team Wheel & Sprocket
 32,316606,Preston,COPELAND,Milwaukee,WI,,Hollander Benelux Racing
 33,394260,Tristin,SUHONEN,Madison,WI,,
-34,530353,Max,WIEGERS,Milwaukee,WI,,Lakes Area Physical Therapy
+34,530353,Max,WIEGERS,Mcpherson,KS,,Lakes Area Physical Therapy
 35,397156,Piermario,BERTOLOTTO,Milwaukee,WI,,BELGIANWERKX
 36,503252,Jason,BICKFORD,Bancroft,WI,,Team Velocause
 37,535357,Chris,CORNELIUS,Milwaukee,WI,,
@@ -3999,7 +3999,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,82335,Todd,WENDELL,Chicago,IL,,Burnham Racing
 9,52133,Andreas,FISCHER,Chicago,IL,,PSIMET Racing
 10,344230,Russ,KEMPKA,Grafton,WI,,ISCorp Cycling
-11,362289,Jason,HOLLY,Buffalo Grove ,IL,,PSIMET Racing
+11,362289,Jason,HOLLY,Buffalo Grove,IL,,PSIMET Racing
 12,161238,Tedd,JACOBSON,Pewaukee,WI,,KS Energy Services / MOSH / Team Wisconsin
 13,80318,Matthew,GARNI,Plymouth,WI,,Lakes Area Physical Therapy
 14,285578,John,BOUDRY,Waukesha,WI,,Team Velocause
@@ -4021,7 +4021,7 @@ Place,License #,First,Last,City,State,Time,Team
 30,134612,John,GAMACHE,Waukesha,WI,,Lakes Area Physical Therapy
 31,172471,Mark,ZALEWSKI,Chicago,IL,,Spidermonkey Cycling
 32,458183,Paul,KIEDROWSKI,Oconomowoc,WI,,Lakes Area Physical Therapy
-33,312254,Benny,SMITH,Wauwatosa ,WI,,Team Velocause
+33,312254,Benny,SMITH,Wauwatosa,WI,,Team Velocause
 34,11378,Stephen,FEEHERY,Homewood,IL,,South Chicago Wheelmen
 35,264048,Terry,O'GRADY,Chicago,IL,,PSIMET Racing
 36,249212,Christan,GRIEGO,Elkhorn,WI,,Team Velocause
@@ -4031,15 +4031,15 @@ Place,License #,First,Last,City,State,Time,Team
 06/15/2017 Criterium Men Cat 2/3 Elite
 Place,License #,First,Last,City,State,Time,Team
 1,438454,Ross,TUNEBERG,Rockford,IL,,Scarlet Fire Racing
-2,470369,Dane,MURPHY,Naperville ,IL,,Chicago Cuttin Crew
-3,530396,Jarrod,MORONI,,,,
+2,470369,Dane,MURPHY,Naperville,IL,,Chicago Cuttin Crew
+3,530396,Jarrod,MORONI,Oceanside,CA,,
 4,478112,Patrick,JUNGENBLUT,Milwaukee,WI,,
 5,385995,Brent,WILLIAMS,Appleton,WI,,Diablo Cycling
 6,476737,Andrew,DEWAR,Libertyville,IL,,Sonic Boom Racing Team
 7,492633,Jason,COLESTOCK,Minneapolis,MN,,NorthStar Development Cycling
 8,504322,Sebastian,SALINAS,Miami,FL,,
 9,296568,David,ROSE,Lexington,KY,,Commonwealth Eye Surgery / Crankworks
-10,312724,Andrew,WEBB,Appleton,WI,,Diablo Cycling
+10,312724,Andrew,WEBB,Hortonville,WI,,Diablo Cycling
 11,0,Pablo,CASCANTE,,,,
 12,312130,Trey,HEDGECOCK,Ankeny,IA,,Above and Beyond Cancer p/b Scheels
 13,286941,Sean,MCCARTHY,Lockport,IL,,ABD Cycling Team
@@ -4049,7 +4049,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,363338,Zackary,JENSEN,Fort Collins,CO,,The Phoenix Cyclery - Orbea
 18,531978,Alexander,Castaño,,,,
 19,311382,William,BURTON,Lexington,KY,,Commonwealth Eye Surgery / Crankworks
-20,245670,Jim,MADDOCK,South Berwick,ME,,Bonkers Cycling
+20,245670,Jim,MADDOCK,Chicago,IL,,Bonkers Cycling
 21,460247,Ryan,GIROUARD,Whitewater,WI,,UW-Whitewater Cycling
 22,500484,Bobby,ATKINS,Chicago,IL,,xXx Racing
 23,410856,Tyler,CURTIS,Clear Lake,IA,,NorthStar Development Cycling
@@ -4070,7 +4070,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,197162,Robert,WHITE,Cedarburg,WI,,
 2,10367,Hunter,EAST,Little Rock,AR,,Oklahoma City Velo Club
 3,222021,Emile,ABRAHAM,Atlanta,GA,,Pharmaco-DeepSouth p/b NGCA
-4,201290,Ryan,WHITE,Milwaukee ,WI,,
+4,201290,Ryan,WHITE,Milwaukee,WI,,
 5,15584,Michael,HEAGNEY,Libertyville,IL,,Intelligentsia-Allied
 6,530053,Warrick,SPENCE,Crystal Lake,IL,,
 7,187522,John,BERGMANN,Albany,CA,,TEAM CLIF BAR Cycling
@@ -4078,9 +4078,9 @@ Place,License #,First,Last,City,State,Time,Team
 9,26606,Lance,OHLSSON,Alexandria,VA,,Haymarket/Starlight Custom Apparel
 10,289827,Chad,WEISGRAM,Audubon ,MN,,Vision Racing p/b Sanford POWER
 11,162381,Erik,TOMLINSON,Genoa,IL,,Polish & Slavic FCU International Cycling Team
-12,406399,Simon,PHUAH,Downers Grove,IL,,INTENT
+12,406399,Simon,PHUAH,Littleton,CO,,INTENT
 13,17376,Michael,INGLIS,Lakewood,CO,,NINOX Racing Team
-14,392104,Doug,ZELL,Little Rock ,AR,,Intelligentsia Coffee
+14,392104,Doug,ZELL,Lockhart,TX,,Intelligentsia Coffee
 15,116581,Samuel,GUZMAN,Ashburn,VA,,PTS Racing
 16,285533,Bob,KARLOW,Crystal Lake,IL,,Intelligentsia Coffee
 17,49386,Matt,DUNCAN,Louisville,CO,,GS Panache
@@ -4101,7 +4101,7 @@ Place,License #,First,Last,City,State,Time,Team
 32,29802,Mike,RICKEY,Columbia,IL,,Intelligentsia Coffee
 33,44238,Marc,BERTUCCO,New York,NY,,
 34,274937,Mike,BUDD,Wrightstown,WI,,Team Wheel & Sprocket
-35,83764,Gene,TOLLI,Albany,WI,,
+35,83764,Gene,TOLLI,Peoria,AZ,,
 36,246297,Clayton,CHASE,Mequon,WI,,
 37,47935,Vance,JAMES,Lakeland,FL,,FloridaVelo
 38,200716,Rick,FLAYTER,Waukesha,WI,,
@@ -4136,7 +4136,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,475142,Sarah,CONEY,,,,
 8,384315,Payten,MANESS,Flower Mound,TX,,Papa John's Racing p/b TREK
 9,170980,Samantha,SCHNEIDER,West Allis,WI,,ISCorp Powered By Progress
-10,509477,Peta,MULLENS,Tulsa,OK,,
+10,509477,Peta,MULLENS,Oceanside,CA,,
 11,217750,Christina,GOKEY-SMITH,Denton,TX,,Papa John's Racing p/b TREK
 12,300089,Skylar,SCHNEIDER,West Allis,WI,,ISCorp Powered By Progress
 13,207432,Coryn,RIVERA,Tustin,CA,,UCI WPT: Sunweb
@@ -4146,7 +4146,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,145511,Liza,RACHETTO,Boise,ID,,UCI WPT: Hagens Berman | Supermint
 18,316598,Jeannie,KUHAJEK,Crystal Lake,IL,,PSIMET Whisper
 19,271181,Kyrstin,BLUHM,Nashville,TN,,Fearless Femme Racing
-20,332072,Katie,CLOUSE,Littleton ,CO,,Visit Dallas DNA Cycling
+20,332072,Katie,CLOUSE,Park City,UT,,Visit Dallas DNA Cycling
 21,55820,Katherine,COMPTON,Colorado Springs,CO,,
 22,301155,Scotti,LECHUGA,Little Rock,AR,,UCI WPT: Hagens Berman | Supermint
 23,384168,Paige,SHUMSKAS,Pipersville,PA,,Fearless Femme Racing

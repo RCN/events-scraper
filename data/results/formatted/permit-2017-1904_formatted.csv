@@ -3,7 +3,7 @@ Hotter n Hell Hundred in Wichita Falls TX Results
 08/27/2017 Criterium Men Pro-Cat 1-2
 Place,License #,First,Last,City,State,Time,Team
 1,319214,Grant,KOONTZ,Spring,TX,1:00:05,Arapahoe Resources / Garneau
-2,342402,Kevin,GIRKINS,Austin,TX,1:00:22,ELBOWZ Racing p/b Synergy.O
+2,342402,Kevin,GIRKINS,San Marcos,TX,1:00:22,ELBOWZ Racing p/b Synergy.O
 3,272180,Jacob,WHITE,Pauls Valley,OK,1:00:24,Oklahoma Bicycle Project
 4,472870,Julio,PADILLA,,,1:00:28,Arapahoe Resources/Garneau
 5,0,Cesar,SERNA,,,1:00:28,Oklahoma Bicycle Project
@@ -17,7 +17,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,329968,Fred,VINCENT,Flower Mound,TX,1:00:35,Elevate-KHS
 14,493721,Miguel,SANTILLANES,,,1:00:36,Joyeria Meza
 15,350938,Gabriel,PORTERFIELD,Bertram,TX,1:00:37,Strike Cycling Elite Team
-16,531064,Juan,MARTINEZ,Garland,TX,1:00:37,Dallas Racing
+16,408123,Juan,MARTINEZ,Garland,TX,1:00:37,Dallas Racing
 17,200977,John,PURVIS,Parthenon,AR,1:00:39,Oklahoma Bicycle Project
 18,269412,Adam,KOBLE,Tulsa,OK,1:00:41,Oklahoma Bicycle Project
 19,340154,Emiliano,MORALES,San Antonio,TX,1:00:42,
@@ -35,7 +35,7 @@ Place,License #,First,Last,City,State,Time,Team
 31,535286,Philip,CLARKE,Garland,TX,1:01:28,Dallas Racing
 32,142783,James,SLAUSON,San Antonio,TX,1:01:30,Bicycle Heaven / PVA
 33,254929,Michael,PINCUS,Pearland,TX,1:01:44,Team CCR Roofing
-34,272809,Ricky,RANDALL,Highland Village ,TX,1:01:50,Arapahoe Resources / Garneau
+34,272809,Ricky,RANDALL,Highland Village,TX,1:01:50,Arapahoe Resources / Garneau
 35,224500,Mario,ARROYAVE,Waxahachie,TX,1:01:51,Elevate-KHS
 36,395255,Tanner,WARD,Little Rock,AR,1:01:53,Oklahoma Bicycle Project
 37,466134,Pablo,CRUZ,Wichita Falls,TX,1:01:55,MSU / Hotter'N Hell Hundred
@@ -51,12 +51,12 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,4065,Andy,BOEDEKER,Frisco,TX,0.023912037,Crest/RBM Racing
 2,474748,Patrick,BREEN,Dallas,TX,0.023923611,Mirage
-3,494929,Mike,GOPPERT,Frisco ,TX,0.023923611,Crest/RBM Racing
+3,494929,Mike,GOPPERT,Frisco,TX,0.023923611,Crest/RBM Racing
 4,460858,Travis,POPE,Dallas,TX,0.023923611,Mirage
 5,20118,Louis,LAFLEUR,Spring,TX,0.023935185,Northwest Cycling Club
 6,201589,Joel,SHEWRY,Arlington,TX,0.023958333,Team Bicycles inc
 7,277223,Michael,BAKER,North Richland Hills,TX,0.023969907,McKinney Velo Club
-8,459616,Paul,WALLER,Arlington,TX,0.023969907,Crest/RBM Racing
+8,459616,Paul,WALLER,Frisco,TX,0.023969907,Crest/RBM Racing
 9,71494,Mark,SOLEWIN,Dallas,TX,0.023993056,Rubicon
 10,159240,Steve,SPRINKLE,Austin,TX,0.024131944,
 11,469236,Jason,BRADBERRY,Dallas,TX,0.024178241,Mirage
@@ -89,11 +89,11 @@ Place,License #,First,Last,City,State,Time,Team
 13,342014,Paul,BARNES,Collinsville,OK,35:39,Team Air Assurance p/b AVB Bank
 14,284976,Joel,HAWKS,Plano,TX,35:40,Windsor Door Racing
 15,296106,Kent,MCQUADE,Frisco,TX,35:40,Crest/RBM Racing
-16,336628,Edvin,ORDONEZ,Carrollton,TX,35:40,Crest/RBM Racing
+16,336628,Edvin,ORDONEZ,The Colony,TX,35:40,Crest/RBM Racing
 17,61012,Jesus,CHAPARRO,Allen,TX,35:41,Windsor Door Racing
 18,354628,Willem,VAN DER GRYP,Plano,TX,35:43,Crest/RBM Racing
 19,282442,Christopher,SCOTT,Frisco,TX,35:45,Crest/RBM Racing
-20,400785,Jeff,MAKOHON,Rockwall,TX,36:21,Rockwall Racing
+20,400785,Jeff,MAKOHON,Heath,TX,36:21,Rockwall Racing
 21,61600,Jon,GALLAGHER,Heber,UT,36:37,Cole Sport / One2Go
 22,273121,Jason,ROSS,Rockwall,TX,@1Lap,Rockwall Racing
 23,72892,George,HEAGERTY,San Antonio,TX,@1Lap,Geri Atrix
@@ -105,7 +105,7 @@ DNF,55866,Stephen,BORSKI,Mckinney,TX,,PACC Racing
 Place,License #,First,Last,City,State,Time,Team
 1,58478,Peter,ERDOES,Oklahoma City,OK,35:36,Oklahoma City Velo Club
 2,10893,Michael,ERELI,Houston,TX,35:36,A Bloc
-3,502418,David,MARTIN,San Antoniosan Antonio,TX,35:38,Blitz Racing
+3,502418,David,MARTIN,San Antonio,TX,35:38,Blitz Racing
 4,58593,Scott,FARRIS,Edmond,OK,35:38,OKC Velo
 5,20450,John,LASORSA,Lawton,OK,35:39,Oklahoma City Velo Club
 6,188237,Jeffry,FENE,Flower Mound,TX,35:40,Road
@@ -145,7 +145,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,539787,Axel,QUIJADA,,,34:31,TDI Cycling Team
 6,470923,Matt,RODGERS,Cedar Park,TX,34:31,
 7,534111,Justin,BARTELS,Dallas,TX,34:31,Matrix/RBM
-8,502418,David,MARTIN,San Antoniosan Antonio,TX,34:31,Blitz Racing
+8,502418,David,MARTIN,San Antonio,TX,34:31,Blitz Racing
 9,422789,Jim,GOODYEAR,Mc Kinney,TX,34:31,Team Cadence Cyclery p/b MINI o
 10,419216,Donald,GWARTNEY,Corpus Christi,TX,34:32,
 11,433106,Daniel,DOHERTY,Oklahoma City,OK,34:32,Bike One Racing Team
@@ -154,7 +154,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,442369,Logan,JENKINS,San Angelo,TX,34:33,Bicycle Heaven / PVA
 15,525902,Philip,RASCHKE,Cedar Park,TX,34:33,Texas Tech Cycling
 16,527563,Eric,JOHNSON,Tehachapi,CA,34:33,
-17,524707,Alexis,SERRANO,Dallas,TX,34:33,Matrix/RBM
+17,524707,Alexis,SERRANO,Carrollton,TX,34:33,Matrix/RBM
 18,371568,Keith,ALBRIGHT,San Antonio,TX,34:34,Blitz Racing
 19,428195,Donald,MORGAN,Tulsa,OK,34:34,TEAM PENTABIKE
 20,396012,Elias,VALVERDE,Arlington,TX,34:34,
@@ -164,12 +164,12 @@ Place,License #,First,Last,City,State,Time,Team
 24,307698,James,SNODGRASS,Noble,OK,34:36,Bike One Racing Team
 25,525268,Kyle,CANZIAN,Midland,TX,34:36,VIM Racing
 26,439022,Mateo,HERNANDEZ,San Angelo,TX,34:36,
-27,458722,Matthew,SHANER,Austin,TX,34:37,Weaver Technologies Racing
+27,458722,Matthew,SHANER,Joplin,MO,34:37,Weaver Technologies Racing
 28,376014,Jonathan,SHARP,Oklahoma City,OK,34:37,
 29,520657,Remigio,Del Rio González,San Antonio ,TX,34:38,Blitz Racing
 30,527528,Frank,CASTRO,San Antonio,TX,34:38,US Military Endurance Sports
 31,477905,Clint,GATES,Enid,OK,34:39,
-32,539004,Loren,SHARP,Burkburnett,TE,34:39,
+32,539004,Loren,SHARP,Burkburnett,TX,34:39,
 33,517267,Von,DORIA,Midland,TX,34:39,VIM Racing
 34,358120,Chris,PLOOSTER,Mcpherson,KS,34:39,3 Feet Cycling p/b Foody's
 35,523666,Evan,GOLDSTROHM,Abilene,TX,34:41,Steamboat Cycling
@@ -178,7 +178,7 @@ Place,License #,First,Last,City,State,Time,Team
 38,460315,Jeff,LEDFORD,Midland,TX,34:45,
 39,497834,Gerry,DOUGLAS,Rowlett,TX,35:33,Team Cadence Cyclery p/b MINI o
 40,232998,Jeff,WESTERHEIDE,Dallas,TX,35:33,Dallas Bike Works
-41,100877,Andrew,JOHNSTON,Fort Sill,OK,35:33,US Military Endurance Sports
+41,100877,Andrew,JOHNSTON,Sparta,NJ,35:33,US Military Endurance Sports
 42,366892,Alexander,BARTZ,Sugarland,TX,35:33,Northwest Cycling Club
 43,494541,Coy,HARRISON,Aubrey,TX,35:33,Corinth Cycling/Harden Racing
 44,535841,Zachary,HILDEBRAND,Cannon Afb,NM,35:33,
@@ -228,7 +228,7 @@ Place,License #,First,Last,City,State,Time,Team
 32,284976,Joel,HAWKS,Plano,TX,40:13,Windsor Door Racing
 33,526646,Tucker,NICKOLS,Mckinney,TX,40:22,Team Cadence Cyclery p/b MINI o
 34,72129,Frank,Velazquez,Dallas,TX,40:34,Nick Lopez Tailoring Cycling Te
-35,466674,Brandon,WOLD,Oklahoma City,OK,40:36,DNA Racing
+35,466674,Brandon,WOLD,Andover,MN,40:36,DNA Racing
 36,482118,Timothy,PALYUKH,Lewisville,TX,40:40,Bicycles Plus Racing
 37,141157,Robert,PHILLIPS,Fort Worth,TX,40:56,
 DNF,402675,John,KETTERHAGEN,Georgetown,TX,,Dark Horse Racing
@@ -243,7 +243,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,62507,Kimberly,PETTIT,Tulsa,OK,38:48,Papa John's Racing p/b TREK
 6,311037,Amy,FLOYD,Wichita Falls,TX,38:48,MSU / Hotter'N Hell Hundred
 7,191931,Michelle,MONTOYA,Dallas,TX,38:49,October Three Racing
-8,366192,Allison,LINNELL,Boulder,CO,38:52,
+8,366192,Allison,LINNELL,Longmont,CO,38:52,
 9,334082,Ashley,WEAVER,St. Charles ,MO,40:24,Pastaria - Big Shark Racing Tea
 10,484276,Tracy,CARRINGTON,Fort Worth,TX,40:24,Team Elevate Racing
 11,368833,Chelsea,REEDY,Denton,TX,40:25,Matrix Cycling Club
@@ -261,7 +261,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,459550,Christy,RICHBOURG,Tyler,TX,27:51,FRESH Racing
 4,412866,Meggin,CRAWFORD,Houston,TX,27:54,swcc
 5,526954,Marci,HAMBURGER,Tulsa,OK,28:03,Pandemonium Cycling p/b Hodges
-6,303494,Rana,ZAHEDI,Dallas ,TX,@1Lap,Dallas Bike Works
+6,303494,Rana,ZAHEDI,Dallas,TX,@1Lap,Dallas Bike Works
 
 08/27/2017 Criterium Women Junior Cat 4-5 9-14
 Place,License #,First,Last,City,State,Time,Team
@@ -270,7 +270,7 @@ Place,License #,First,Last,City,State,Time,Team
 08/27/2017 Criterium Women Cat 4-5
 Place,License #,First,Last,City,State,Time,Team
 1,495795,Noni,BERTAGNOLI,Mc Kinney,TX,27:49,Dallas Racing
-2,506931,Finn,TAYLOR,Tulsa,OK,27:50,Yoga Box Racing
+2,506931,Finn,TAYLOR,Fayetteville,AR,27:50,Yoga Box Racing
 3,497332,Chelsea,GORBET,Carnegie,OK,27:50,Tulsa Wheelmen
 4,426126,Irene,BENAVIDES PEREZ,College Station,TX,27:50,Northwest Cycling Club
 5,487857,April,MEYER,Tulsa,OK,27:51,Pandemonium Cycling p/b Hodges
@@ -284,7 +284,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,472870,Julio,PADILLA,,,,Araphoe Resources
 2,319214,Grant,KOONTZ,Spring,TX,,Arapahoe Resources
 3,168160,Tristan,UHL,Austin,TX,,Team CCR Roofing
-4,342402,Kevin,GIRKINS,Austin,TX,,ELBOWZ Racing p/b Synergy.O
+4,342402,Kevin,GIRKINS,San Marcos,TX,,ELBOWZ Racing p/b Synergy.O
 5,255591,Jonathan,BROWN,Covington,TN,,UCI CT: Axeon Hagens Berman
 6,493721,Miguel,SANTILLANES,,,,Joyeria Meza
 7,269412,Adam,KOBLE,Tulsa,OK,,Oklahoma Bicycle Project
@@ -303,12 +303,12 @@ Place,License #,First,Last,City,State,Time,Team
 20,178970,Mat,STEPHENS,Dallas,TX,,Arapahoe Resources
 21,387450,Evan,BAUSBACHER,Richardson,TX,,Matrix/RBM
 22,412090,Preston,GLACE,Cedar Park,TX,,787 Racing
-23,531064,Juan,MARTINEZ,Garland,TX,,Dallas Racing
+23,408123,Juan,MARTINEZ,Garland,TX,,Dallas Racing
 24,437999,Austin,ROBERTSON,San Marcos,TX,,7 Brothers Racing
 25,471921,Alejandro,PADILLA,,,,Arapahoe Resources
 26,350938,Gabriel,PORTERFIELD,Bertram,TX,,Strike Cycling Elite Team
 27,205741,Stefan,ROTHE,Austin,TX,,ELBOWZ Racing p/b Synergy.O
-28,272809,Ricky,RANDALL,Highland Village ,TX,,Arapahoe Resources
+28,272809,Ricky,RANDALL,Highland Village,TX,,Arapahoe Resources
 29,337040,Stephan,HIRSCH,Oklahoma City,OK,,Arapahoe Resources
 30,260604,Brandon,MELOTT,Warr Acres,OK,,JE Dunn Elite Road Racing
 
@@ -316,8 +316,8 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,474748,Patrick,BREEN,Dallas,TX,,Mirage
 2,4065,Andy,BOEDEKER,Frisco,TX,,Crest/RBM Racing
-3,494929,Mike,GOPPERT,Frisco ,TX,,Crest/RBM Racing
-4,459616,Paul,WALLER,Arlington,TX,,Crest/RBM Racing
+3,494929,Mike,GOPPERT,Frisco,TX,,Crest/RBM Racing
+4,459616,Paul,WALLER,Frisco,TX,,Crest/RBM Racing
 5,201589,Joel,SHEWRY,Arlington,TX,,Team Bicycles inc
 6,277223,Michael,BAKER,North Richland Hills,TX,,McKinney Velo Club
 7,244236,Paul,KONRAD,Allen,TX,,Crest/RBM Racing
@@ -347,11 +347,11 @@ Place,License #,First,Last,City,State,Time,Team
 12,489457,Sam,FINDLATER,Plano,TX,,Windsor Door Racing
 13,342014,Paul,BARNES,Collinsville,OK,,Team Air Assurance p/b AVB Bank
 14,296106,Kent,MCQUADE,Frisco,TX,,Crest/RBM Racing
-15,336628,Edvin,ORDONEZ,Carrollton,TX,,Crest/RBM Racing
+15,336628,Edvin,ORDONEZ,The Colony,TX,,Crest/RBM Racing
 16,61012,Jesus,CHAPARRO,Allen,TX,,Windsor Door Racing
 17,354628,Willem,VAN DER GRYP,Plano,TX,,Crest/RBM Racing
 18,282442,Christopher,SCOTT,Frisco,TX,,Crest/RBM Racing
-19,400785,Jeff,MAKOHON,Rockwall,TX,,Rockwall Racing
+19,400785,Jeff,MAKOHON,Heath,TX,,Rockwall Racing
 
 08/27/2017 Omnium Men Masters Cat 1-2-3-4 50-99
 Place,License #,First,Last,City,State,Time,Team
@@ -383,7 +383,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 08/27/2017 Omnium Men Cat 4-5
 Place,License #,First,Last,City,State,Time,Team
-1,502418,David,MARTIN,San Antoniosan Antonio,TX,,Blitz Racing
+1,502418,David,MARTIN,San Antonio,TX,,Blitz Racing
 2,534111,Justin,BARTELS,Dallas,TX,,Matrix/RBM
 3,422789,Jim,GOODYEAR,Mc Kinney,TX,,Team Cadence Cyclery p/b MINI o
 4,539786,Kaleb,QUIJADA,,TX,,TDI Cycling Team
@@ -400,9 +400,9 @@ Place,License #,First,Last,City,State,Time,Team
 15,439850,Justin,REX,Houston,TX,,
 16,517921,Aaron,CARPENTER,Plano,TX,,PACC Racing
 17,442369,Logan,JENKINS,San Angelo,TX,,Bicycle Heaven / PVA
-18,539004,Loren,SHARP,Burkburnett,TE,,
+18,539004,Loren,SHARP,Burkburnett,TX,,
 19,527563,Eric,JOHNSON,Tehachapi,CA,,
-20,524707,Alexis,SERRANO,Dallas,TX,,Matrix/RBM
+20,524707,Alexis,SERRANO,Carrollton,TX,,Matrix/RBM
 21,371568,Keith,ALBRIGHT,San Antonio,TX,,Blitz Racing
 22,376014,Jonathan,SHARP,Oklahoma City,OK,,
 
@@ -457,7 +457,7 @@ Place,License #,First,Last,City,State,Time,Team
 08/27/2017 Omnium Women Cat 4-5
 Place,License #,First,Last,City,State,Time,Team
 1,495795,Noni,BERTAGNOLI,Mc Kinney,TX,,Dallas Racing
-2,506931,Finn,TAYLOR,Tulsa,OK,,Yoga Box Racing
+2,506931,Finn,TAYLOR,Fayetteville,AR,,Yoga Box Racing
 3,497332,Chelsea,GORBET,Carnegie,OK,,Tulsa Wheelmen
 4,395593,Emily,SNODGRASS,Norman,OK,,Bike One Racing Team
 5,487857,April,MEYER,Tulsa,OK,,Pandemonium Cycling p/b Hodges
@@ -481,7 +481,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,153504,Mark,NIIRO,Dallas,TX,3:41:18,Bicycles Plus Racing
 15,331782,Tony,BACA,Austin,TX,3:41:19,ELBOWZ Racing p/b Synergy.O
 16,329968,Fred,VINCENT,Flower Mound,TX,3:41:19,Elevate-KHS
-17,531064,Juan,MARTINEZ,Garland,TX,3:41:19,Dallas Racing
+17,408123,Juan,MARTINEZ,Garland,TX,3:41:19,Dallas Racing
 18,493704,juan,garcía,,,3:41:19,Joyerias Meza Cycling Team
 19,200977,John,PURVIS,Parthenon,AR,3:41:19,Oklahoma Bicycle Project
 20,441131,Trevor,FINE,Duncan,OK,3:41:19,Tulsa Wheelmen
@@ -491,13 +491,13 @@ Place,License #,First,Last,City,State,Time,Team
 24,260604,Brandon,MELOTT,Warr Acres,OK,3:41:19,JE Dunn Elite Road Racing
 25,412090,Preston,GLACE,Cedar Park,TX,3:41:19,787 Racing
 26,387057,Brady,REED,Magnolia,TX,3:41:19,Strike Cycling Elite Team
-27,424626,Randy,LEE,Richardson,TX,3:41:19,Bicycles Plus Racing
+27,424626,Randy,LEE,Dallas,TX,3:41:19,Bicycles Plus Racing
 28,225120,Erin,ELLIOTT,Oklahoma City,OK,3:41:20,Oklahoma Bicycle Project
 29,360046,Mark,BAERD,Fort Worth,TX,3:41:20,Elevate Elite Cycling Team
 30,443200,Felipe,MONTIEL,Garland,TX,3:41:20,Bicycles Plus Racing
 31,239925,Ryan,DUPREE,Tulsa,OK,3:41:21,Soundpony Triad Bank
 32,387450,Evan,BAUSBACHER,Richardson,TX,3:41:21,Matrix/RBM
-33,90003,Michael,SMITH,Rossmoor,CA,3:41:21,Team Giant Lakeside p/b MINI of
+33,90003,Michael,SMITH,Prosper,TX,3:41:21,Team Giant Lakeside p/b MINI of
 34,375072,Aston,HASWELL,Fort Worth,TX,3:41:21,Team Giant Lakeside p/b MINI of
 35,240838,John,RYAN,North Richland Hills,TX,3:41:21,Matrix/RBM
 36,95708,Douglas,PEDERSEN,Keller,TX,3:41:21,Corinth Cycling/Harden Racing
@@ -507,10 +507,10 @@ Place,License #,First,Last,City,State,Time,Team
 40,386614,Justin,STANLEY,Austin,TX,3:41:21,ELBOWZ Racing p/b Synergy.O
 41,350938,Gabriel,PORTERFIELD,Bertram,TX,3:41:22,Strike Cycling Elite Team
 42,230433,Mathew,DAVIS,Shreveport,LA,3:41:22,Team LaS'port
-43,342402,Kevin,GIRKINS,Austin,TX,3:41:23,ELBOWZ Racing p/b Synergy.O
+43,342402,Kevin,GIRKINS,San Marcos,TX,3:41:23,ELBOWZ Racing p/b Synergy.O
 44,325930,Jefferey,MAY,Greenville,TX,3:41:23,Dallas Racing
 45,260177,Jeffrey,HENRY,Carrollton,TX,3:41:25,Blue Agave Racing
-46,310983,Tice,PORTERFIELD,Bertram,TX,3:41:29,Strike Cycling Elite Team
+46,310983,Tice,PORTERFIELD,Austin,TX,3:41:29,Strike Cycling Elite Team
 47,319214,Grant,KOONTZ,Spring,TX,3:41:35,Arapahoe Resources / Garneau
 48,178970,Mat,STEPHENS,Dallas,TX,3:41:41,Arapahoe Resources / Garneau
 49,338708,Colin,STRICKLAND,Austin,TX,3:41:44,Intelligentsia-Allied
@@ -534,7 +534,7 @@ Place,License #,First,Last,City,State,Time,Team
 67,275429,Chad,HARDT,Austin,TX,3:55:09,Pure Austin BoneShaker
 68,184888,Daniel,MAHONEY,Austin,TX,3:55:10,Team Cycle Progression
 69,104953,Ian,DILLE,Austin,TX,3:55:16,Super Squadra p/b Eliel Cycling
-70,272809,Ricky,RANDALL,Highland Village ,TX,3:55:16,Arapahoe Resources / Garneau
+70,272809,Ricky,RANDALL,Highland Village,TX,3:55:16,Arapahoe Resources / Garneau
 71,405620,Eric,FRANKLIN,Tulsa,OK,3:58:35,Oklahoma Bicycle Project
 72,437999,Austin,ROBERTSON,San Marcos,TX,4:00:43,7 Brothers Racing
 73,412811,Kyle,SWANSON,Fort Worth,TX,4:08:28,Matrix/RBM
@@ -549,8 +549,8 @@ DNS,396335,Addison,ZAWADA,Jacksonville,FL,,State Bicycle Co/Redbull
 08/26/2017 Road Race Men Masters Cat 4-5 35-99
 Place,License #,First,Last,City,State,Time,Team
 1,474748,Patrick,BREEN,Dallas,TX,2:28:17,Mirage
-2,459616,Paul,WALLER,Arlington,TX,2:28:19,Crest/RBM Racing
-3,494929,Mike,GOPPERT,Frisco ,TX,2:29:25,Crest/RBM Racing
+2,459616,Paul,WALLER,Frisco,TX,2:28:19,Crest/RBM Racing
+3,494929,Mike,GOPPERT,Frisco,TX,2:29:25,Crest/RBM Racing
 4,4065,Andy,BOEDEKER,Frisco,TX,2:29:25,Crest/RBM Racing
 5,224876,Tony,Hopkins,Fort Worth,TX,2:29:25,MBBC Racing
 6,460858,Travis,POPE,Dallas,TX,2:29:26,Mirage
@@ -642,14 +642,14 @@ Place,License #,First,Last,City,State,Time,Team
 31,211256,Tomer,TZAFRIR,Dallas,TX,2:23:38,King Racing Group
 32,335912,Joe,GONZALEZ,Allen,TX,2:23:38,Windsor Door Racing
 33,524842,David,EBERSTEIN,Fort Worth,TX,2:23:39,Rogue - Righteous Foods
-34,400785,Jeff,MAKOHON,Rockwall,TX,2:23:41,Rockwall Racing
+34,400785,Jeff,MAKOHON,Heath,TX,2:23:41,Rockwall Racing
 35,296106,Kent,MCQUADE,Frisco,TX,2:23:41,Crest/RBM Racing
 36,193960,David,MCGAFFIN,Heath,TX,2:23:42,Rockwall Racing
 37,273121,Jason,ROSS,Rockwall,TX,2:23:42,Rockwall Racing
 38,55866,Stephen,BORSKI,Mckinney,TX,2:23:44,PACC Racing
 39,354628,Willem,VAN DER GRYP,Plano,TX,2:23:51,Crest/RBM Racing
 40,151235,Chuck,HILL,Mckinney,TX,2:24:05,Rockwall Racing
-41,336628,Edvin,ORDONEZ,Carrollton,TX,2:33:31,Crest/RBM Racing
+41,336628,Edvin,ORDONEZ,The Colony,TX,2:33:31,Crest/RBM Racing
 
 08/26/2017 Road Race Men Masters Cat 1-2-3-4 50-99
 Place,License #,First,Last,City,State,Time,Team
@@ -697,7 +697,7 @@ Place,License #,First,Last,City,State,Time,Team
 08/26/2017 Road Race Men Cat 4-5
 Place,License #,First,Last,City,State,Time,Team
 1,269599,Jay,COLEMAN,Coppell,TX,2:28:44,Cadence Cyclery
-2,502418,David,MARTIN,San Antoniosan Antonio,TX,2:28:45,Blitz Racing
+2,502418,David,MARTIN,San Antonio,TX,2:28:45,Blitz Racing
 3,534111,Justin,BARTELS,Dallas,TX,2:28:45,Matrix/RBM
 4,422789,Jim,GOODYEAR,Mc Kinney,TX,2:28:45,Team Cadence Cyclery p/b MINI o
 5,494147,Pedro,RODRIGUEZ,Georgetown,TX,2:28:46,Weaver Technologies Racing
@@ -711,13 +711,13 @@ Place,License #,First,Last,City,State,Time,Team
 13,428195,Donald,MORGAN,Tulsa,OK,2:28:47,TEAM PENTABIKE
 14,312960,Sean,CLANCY,Dallas,TX,2:28:47,October Three Racing
 15,396012,Elias,VALVERDE,Arlington,TX,2:28:47,
-16,539004,Loren,SHARP,Burkburnett,TE,2:28:47,
+16,539004,Loren,SHARP,Burkburnett,TX,2:28:47,
 17,216303,Bill,KANE,Mckinney,TX,2:28:47,Team Cadence Cyclery p/b MINI o
 18,376014,Jonathan,SHARP,Oklahoma City,OK,2:28:47,
 19,441719,Conner,STONE,Dallas,TX,2:28:47,
 20,539787,Axel,QUIJADA,,,2:28:47,TDI Cycling Team
 21,517267,Von,DORIA,Midland,TX,2:28:47,VIM Racing
-22,524707,Alexis,SERRANO,Dallas,TX,2:28:47,Matrix/RBM
+22,524707,Alexis,SERRANO,Carrollton,TX,2:28:47,Matrix/RBM
 23,371568,Keith,ALBRIGHT,San Antonio,TX,2:28:47,Blitz Racing
 24,517921,Aaron,CARPENTER,Plano,TX,2:28:47,PACC Racing
 25,517933,Hadishalem,HAGOS,Dallas,TX,2:28:48,
@@ -733,7 +733,7 @@ Place,License #,First,Last,City,State,Time,Team
 35,539298,Cameron,STONE,Southlake,TX,2:28:49,
 36,523399,Keith,BARTHOLOMEW,Fort Worth,TX,2:28:49,TBi - Dedicated Race Team
 37,358058,Nathanael,GOODELL,Lewisville,TX,2:28:49,Team Cadence Cyclery p/b MINI o
-38,458722,Matthew,SHANER,Austin,TX,2:28:49,Weaver Technologies Racing
+38,458722,Matthew,SHANER,Joplin,MO,2:28:49,Weaver Technologies Racing
 39,439850,Justin,REX,Houston,TX,2:28:49,
 40,307698,James,SNODGRASS,Noble,OK,2:28:49,Bike One Racing Team
 41,539819,Michael,MCKENNA,San Antonio,TX,2:28:49,
@@ -745,7 +745,7 @@ Place,License #,First,Last,City,State,Time,Team
 47,520657,Remigio,Del Rio González,San Antonio ,TX,2:28:52,Blitz Racing
 48,529735,Michael,LAMBERT,Fort Worth,TX,2:28:54,
 49,384863,David,KING,Sweetwater,TX,2:28:54,Steamboat Cycling
-50,100877,Andrew,JOHNSTON,Fort Sill,OK,2:29:30,US Military Endurance Sports
+50,100877,Andrew,JOHNSTON,Sparta,NJ,2:29:30,US Military Endurance Sports
 51,497834,Gerry,DOUGLAS,Rowlett,TX,2:29:47,Team Cadence Cyclery p/b MINI o
 52,527528,Frank,CASTRO,San Antonio,TX,2:33:44,US Military Endurance Sports
 53,524195,Bryan,HARING,Rockwall,TX,2:33:47,Rockwall Racing
@@ -771,7 +771,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,213968,Rafael,SANTIAGO,Jenks,OK,4:09:35,Tulsa Wheelmen
 6,402675,John,KETTERHAGEN,Georgetown,TX,4:09:35,Dark Horse Racing
 7,316542,Brett,ROSS,Rockwall,TX,4:09:36,Rockwall Racing
-8,288691,James,KENNEDY,Lewisville,TX,4:09:36,Bicycles Plus Racing
+8,288691,James,KENNEDY,Dallas,TX,4:09:36,Bicycles Plus Racing
 9,485956,Jason,PERKINS,Wichita Falls,TX,4:09:36,
 10,429252,Henk,NOORDERMEER,Houston,TX,4:09:36,Shama Cycles
 11,407906,Scott,BOLDT,Fort Worth,TX,4:09:37,Team Elevate Racing
@@ -826,7 +826,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,334094,Courtney,BACH,Dallas,TX,2:44:25,October Three Racing
 14,337334,Penny,BORDEN,Waco,TX,2:44:25,Dallas Bike Works
 15,476056,Jaime,LARMER,Fort Worth,TX,2:44:25,
-16,366192,Allison,LINNELL,Boulder,CO,2:44:25,
+16,366192,Allison,LINNELL,Longmont,CO,2:44:25,
 17,62507,Kimberly,PETTIT,Tulsa,OK,2:44:25,Papa John's Racing p/b TREK
 18,311037,Amy,FLOYD,Wichita Falls,TX,3:08:55,MSU / Hotter'N Hell Hundred
 
@@ -835,7 +835,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,412866,Meggin,CRAWFORD,Houston,TX,2:52:27,swcc
 2,352710,Inna,WIRAWAN,Houston,TX,2:52:27,Northwest Cycling Club
 3,459550,Christy,RICHBOURG,Tyler,TX,2:52:27,FRESH Racing
-4,457440,Hollie,BENEVIDES,Houston,TX,2:52:27,Northwest Cycling Club
+4,457440,Hollie,BENEVIDES,Jersey Village,TX,2:52:27,Northwest Cycling Club
 5,526954,Marci,HAMBURGER,Tulsa,OK,2:52:29,Pandemonium Cycling p/b Hodges
 6,432853,Yulie,JOHNSON,Corpus Christi,TX,2:52:51,Haute Wheels Racing
 7,303890,Kathy,GARRETT,Houston,TX,2:52:51,Northwest Cycling Club
@@ -850,7 +850,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 08/26/2017 Road Race Women Cat 4-5
 Place,License #,First,Last,City,State,Time,Team
-1,506931,Finn,TAYLOR,Tulsa,OK,2:52:27,Yoga Box Racing
+1,506931,Finn,TAYLOR,Fayetteville,AR,2:52:27,Yoga Box Racing
 2,495795,Noni,BERTAGNOLI,Mc Kinney,TX,2:52:27,Dallas Racing
 3,539653,Jen,BARON,Fort Worth,TX,2:52:28,
 4,497332,Chelsea,GORBET,Carnegie,OK,2:52:28,Tulsa Wheelmen
@@ -870,7 +870,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,319214,Grant,KOONTZ,Spring,TX,1:04:58,Arapahoe Resources / Garneau
 5,269412,Adam,KOBLE,Tulsa,OK,1:04:59,Oklahoma Bicycle Project
 6,210129,Connor,SALLEE,Dallas,TX,1:04:59,Bicycles Plus Racing
-7,342402,Kevin,GIRKINS,Austin,TX,1:05:00,ELBOWZ Racing p/b Synergy.O
+7,342402,Kevin,GIRKINS,San Marcos,TX,1:05:00,ELBOWZ Racing p/b Synergy.O
 8,395255,Tanner,WARD,Little Rock,AR,1:05:00,Oklahoma Bicycle Project
 9,412090,Preston,GLACE,Cedar Park,TX,1:05:01,787 Racing
 10,509492,David,GAONA,Arlington,TX,1:05:01,Oklahoma Bicycle Project
@@ -880,7 +880,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,412811,Kyle,SWANSON,Fort Worth,TX,1:05:05,Matrix/RBM
 15,205741,Stefan,ROTHE,Austin,TX,1:05:09,ELBOWZ Racing p/b Synergy.O
 16,255591,Jonathan,BROWN,Covington,TN,1:05:11,UCI CT: Axeon Hagens Berman
-17,272809,Ricky,RANDALL,Highland Village ,TX,1:05:14,Arapahoe Resources / Garneau
+17,272809,Ricky,RANDALL,Highland Village,TX,1:05:14,Arapahoe Resources / Garneau
 18,178970,Mat,STEPHENS,Dallas,TX,1:05:14,Arapahoe Resources / Garneau
 19,226469,Evan,BYBEE,Oklahoma City,OK,1:05:43,Arapahoe Resources / Garneau
 20,260604,Brandon,MELOTT,Warr Acres,OK,1:05:53,JE Dunn Elite Road Racing
@@ -893,12 +893,12 @@ Place,License #,First,Last,City,State,Time,Team
 27,437999,Austin,ROBERTSON,San Marcos,TX,1:07:27,7 Brothers Racing
 DNF,360809,Tyler,CLOUTIER,Dallas,TX,,Matrix Cycling Club
 DNF,304773,Michael,JOHNSON,Dallas,TX,,Bicycles Plus Racing
-DNF,531064,Juan,MARTINEZ,Garland,TX,,Dallas Racing
+DNF,408123,Juan,MARTINEZ,Garland,TX,,Dallas Racing
 DNF,330808,Devin,PARKER,Austin,TX,,Team Yacht Club
 DNF,320858,Jake,LANOUX,Georgetown,TX,,Super Squadra p/b Eliel Cycling
 DNF,405620,Eric,FRANKLIN,Tulsa,OK,,Oklahoma Bicycle Project
 DNF,58463,Troy,REYNOLDS,Golden,CO,,Reynolds Roofing/CRJ Racing
-DNF,424626,Randy,LEE,Richardson,TX,,Bicycles Plus Racing
+DNF,424626,Randy,LEE,Dallas,TX,,Bicycles Plus Racing
 DNF,260177,Jeffrey,HENRY,Carrollton,TX,,Blue Agave Racing
 DNF,230433,Mathew,DAVIS,Shreveport,LA,,Team LaS'port
 DNF,89282,David,WENGER,Austin,TX,,Super Squadra p/b Eliel Cycling
@@ -934,7 +934,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,396335,Addison,ZAWADA,Jacksonville,FL,29:29,State Bicycle Co/Redbull
 4,377307,Shawn - Kato,BENTLEY,Plano,TX,29:30,Bicyles Plus Racing
 5,460588,Shane,Sirignano,Denton,TX,29:30,Grifen Cycling Collective
-6,458722,Matthew,SHANER,Austin,TX,31:32,Weaver Technologies Racing
+6,458722,Matthew,SHANER,Joplin,MO,31:32,Weaver Technologies Racing
 7,408324,Ryan,RAEKE,Wichita Falls,TX,@1Lap,
 8,0,Jose,RUEDA,,,@1Lap,
 9,539889,JR,BELMONTES,Dallas,TX,@1Lap,
@@ -967,4 +967,4 @@ Place,License #,First,Last,City,State,Time,Team
 19,411314,Sheree,BENAVIDES,Dallas,TX,@1Lap,Matrix/RBM
 20,530951,Ryan,GOSSETT,Denton,TX,@1Lap,Team Bicycles Plus
 21,126020,Nancy,KARRER,Tulsa,OK,@1Lap,Team isocentric
-22,303494,Rana,ZAHEDI,Dallas ,TX,@3Lap,Dallas Bike Works
+22,303494,Rana,ZAHEDI,Dallas,TX,@3Lap,Dallas Bike Works

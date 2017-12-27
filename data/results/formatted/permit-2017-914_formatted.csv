@@ -28,7 +28,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,472550,UlUgdek,Saidov,Athens,GA,1:09:41,
 23,395680,Chris,Tricoli,Orlando,FL,1:09:41,Support Clean Sport / SeaSucker / Guttenplan Coaching
 24,368468,Ernie,Pena,Tampa,FL,1:09:41,FloridaVelo
-25,374617,Chad,Conley,Cartersville,GA,1:09:41,Pharmaco-DeepSouth p/b NGCA
+25,374617,Chad,Conley,Atlanta,GA,1:09:41,Pharmaco-DeepSouth p/b NGCA
 26,47935,Vance,James,Lakeland,FL,1:09:41,FloridaVelo
 27,186384,Guy,Preston,Jacksonville Beach,FL,1:09:41,VeloBrew Cycling Club
 28,335312,Marc,Boults,Lithia,FL,1:09:41,Pioneer Mortgage pb Yourkey.com
@@ -63,7 +63,7 @@ Place,License #,First,Last,City,State,Time,Team
 03/12/2017 Criterium Men Cat 4/5 Master 50+
 Place,License #,First,Last,City,State,Time,Team
 1,305247,Scott,Lameier,Valrico,FL,0:46:05,West Coast Cycling
-2,433485,Richard,Benson,Port Saint Lucie,FL,0:46:07,Treasure Coast Racing
+2,433485,Richard,Benson,Fort Pierce,FL,0:46:07,Treasure Coast Racing
 3,458484,Brett,Price,Sarasota,FL,0:46:12,Aeropro Coaching Cycling Team
 4,338264,Tom,Redpath,Arlington,VA,0:46:12,US Military Endurance Sports
 DNF,523974,phillip,Liberson,Fortlauderdale,FL,0:35:48,One Love Cycling
@@ -141,10 +141,10 @@ Place,License #,First,Last,City,State,Time,Team
 9,478108,Kaue,King,Pembroke Pines,FL,0:43:32,Interactive Metronome p/b Mega Cycle
 10,466815,Mike,Whincup,Bradenton,FL,0:43:32,Sarasota Cycling Club p/b SeaSucker
 11,430032,Tyler,Junkins,Winter Park,FL,0:43:57,Team Kyles Bike Shop
-12,217539,Nathan,Harris,Frisco,CO,0:43:57,
+12,217539,Nathan,Harris,Spring,TX,0:43:57,
 13,489746,Robert,DeSantis,Sarasota,FL,0:44:43,Sarasota Cycling Club p/b SeaSucker
 14,425272,Michael,Pirih,Jacksonville,FL,0:43:35,US Military Endurance Sports
-15,448396,Rudy,Szymanski,Gowanda,NY,0:44:44,Cycle Sport Concepts Tampa
+15,448396,Rudy,Szymanski,Tampa,FL,0:44:44,Cycle Sport Concepts Tampa
 16,377941,Carsten,Canchola,Orlando,FL,0:44:46,Orlando Road Club
 17,235543,George,Droke,Hermitage,TN,0:45:14,Trace Bikes
 DNF,455993,Ryan,Seebeck,Oviedo,FL,0:05:56,Team Kyles Bike Shop
@@ -164,7 +164,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,425572,Andy,Hale,Neptune Beach,FL,1:09:45,VeloBrew Cycling Club
 10,367371,Zachary,West,Longwood,FL,1:09:48,Atlantic Shores Velo
 11,412071,Michael,Podzaline,North Stonington,CT,1:10:39,
-12,494503,JeanLuc,ContantGalitello,Pompano Beach,FL,1:10:04,Interactive Metronome p/b Mega Cycle
+12,494503,JeanLuc,ContantGalitello,Coconut Creek,FL,1:10:04,Interactive Metronome p/b Mega Cycle
 13,376561,Kevin,Koth,Port Orange,FL,1:04:10,Stradalli/Wizard Racing Development Team P/B Wizard Coaching Services
 14,367260,Locksley,Vassell,Pembrooke Pines,FL,1:10:05,
 15,399974,Jorge,Mila,Orlando,FL,0:17:58,Pioneer Mortgage pb Yourkey.com
@@ -195,7 +195,7 @@ Place,License #,First,Last,City,State,Time,Team
 03/12/2017 Criterium Women Pro/Cat 1/2
 Place,License #,First,Last,City,State,Time,Team
 1,369256,Jeanine,Seeger,Boynton Beach,FL,0:39:28,Hollywood Big Wheelers
-2,495140,Carly,George,Dunedin,FL,0:40:14,Aeropro Coaching Cycling Team
+2,495140,Carly,George,Tampa,FL,0:40:14,Aeropro Coaching Cycling Team
 3,367007,Holly,Beard,Boca Raton,FL,0:39:23,Advanced Cycles pb/Topview Sports
 4,403420,Adormarie,Martinez,Gastonia,NC,0:39:27,
 
@@ -210,7 +210,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,496876,Alexandria,Jensen,Winter Garden,FL,0:31:03,Orlando Road Club
 8,434223,Lauren,Chen,Tequesta,FL,0:30:12,Interactive Metronome Development
 9,394650,Samantha,Morrison,Jacksonville ,FL,0:30:46,VeloBrew Cycling Club
-10,341538,Jennifer,Hilton,Aventura,FL,0:30:46,One Love Cycling
+10,341538,Jennifer,Hilton,Davie,FL,0:30:46,One Love Cycling
 11,460227,Leah,Hardin,Kissimmee,FL,0:30:46,Orlando Road Club
 12,419259,Mallory,Bryan,Land O Lakes,FL,0:30:46,Sho-Air TWENTY20 Development
 
@@ -228,7 +228,7 @@ Place,License #,First,Last,City,State,Time,Team
 03/12/2017 Criterium Women Junior 13-14
 Place,License #,First,Last,City,State,Time,Team
 1,507630,Kayla,Yuengling,North Miami Beach,FL,0:19:29,
-2,466085,Larissa,Polanco,Windermere ,FL,0:19:42,Orlando Road Club
+2,466085,Larissa,Polanco,Windermere,FL,0:19:42,Orlando Road Club
 
 03/11/2017 Road Race Men Pro/Cat 1/2
 Place,License #,First,Last,City,State,Time,Team
@@ -240,7 +240,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,280746,Rolly,Weaver,Ormond Beach,FL,2:26:13,Southern Crescent Cycling
 7,219566,Darren,Dowling,Sarasota,FL,2:26:13,Sarasota Cycling Club p/b SeaSucker
 8,526322,Cristobal,Sarrion Lopez,Athens,GA,2:26:16,
-9,153443,Allison,Anjos,Boca Raton,FL,2:26:16,
+9,153443,Allison,Anjos,Boca Rato,FL,2:26:16,
 10,311519,Steven,Perezluha,Longwood,FL,2:26:16,Support Clean Sport / SeaSucker / Guttenplan Coaching
 11,384633,Rhandie,Thompson,Jacksonville,FL,2:26:16,VeloBrew Cycling Club
 12,60148,Ken,Vida,Lithia,FL,2:26:16,FloridaVelo
@@ -270,7 +270,7 @@ Place,License #,First,Last,City,State,Time,Team
 36,47935,Vance,James,Lakeland,FL,2:26:22,FloridaVelo
 37,335312,Marc,Boults,Lithia,FL,2:26:22,Pioneer Mortgage pb Yourkey.com
 38,395680,Chris,Tricoli,Orlando,FL,2:26:27,Support Clean Sport / SeaSucker / Guttenplan Coaching
-39,374617,Chad,Conley,Cartersville,GA,2:26:27,Pharmaco-DeepSouth p/b NGCA
+39,374617,Chad,Conley,Atlanta,GA,2:26:27,Pharmaco-DeepSouth p/b NGCA
 40,292511,Bruno,Moreira,Riverview,FL,2:26:29,Pioneer Mortgage pb Yourkey.com
 41,154900,Scott,Cugno,Tampa,FL,2:26:29,Pioneer Mortgage pb Yourkey.com
 42,108976,Curtis,Long,Atlantic Beach,FL,2:27:27,FloridaVelo
@@ -305,7 +305,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,458484,Brett,Price,Sarasota,FL,1:32:08,Aeropro Coaching Cycling Team
 3,65608,Omar,Sassin,Tampa,FL,1:32:08,West Coast Cycling
 4,234252,Gustavo,Silva,Davie,FL,1:32:08,
-5,433485,Richard,Benson,Port Saint Lucie,FL,1:32:10,Treasure Coast Racing
+5,433485,Richard,Benson,Fort Pierce,FL,1:32:10,Treasure Coast Racing
 6,393844,James,Dure,Middleburg,FL,1:32:17,VeloBrew Cycling Club
 7,117424,Romero,Gill,Jacksonville,FL,1:32:26,VeloBrew Cycling Club
 8,338264,Tom,Redpath,Arlington,VA,1:38:47,US Military Endurance Sports
@@ -370,12 +370,12 @@ Place,License #,First,Last,City,State,Time,Team
 22,47132,Gary,Lardizabal,Tampa,FL,2:03:29,West Coast Cycling
 23,152459,Thomas,Schneider,Jacksonville,FL,2:04:07,FloridaVelo
 24,33913,David,Stedje,Lutz,FL,2:05:04,West Coast Cycling
-25,222404,Kevin,Abbate,Boynton Beach,FL,1:33:30,LCT/Bill Bone Bike Law
+25,222404,Kevin,Abbate,Hypoluxo,FL,1:33:30,LCT/Bill Bone Bike Law
 26,202152,Michael,Rhoades,Clearwater,FL,1:34:57,Treasure Coast Racing
 
 03/11/2017 Road Race Men Cat 5
 Place,License #,First,Last,City,State,Time,Team
-1,511698,Harrison,Scales,,,1:32:52,
+1,511698,Harrison,Scales,St. Augustine,FL,1:32:52,
 2,524568,LEONARDO,SOLORZANO,Miami,FL,1:32:54,
 3,382025,Neil,Uy,Lakeland,FL,1:32:54,
 4,525291,Mark,Burnley,Orlando,FL,1:32:56,University of Central Florida
@@ -385,7 +385,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,523303,Calvin,Falwell,Tampa,FL,1:32:56,GearLink Racing INC.
 9,503350,Harrison,Canaday,Naples,FL,1:32:56,
 10,419337,Vincent,Pukki,New Port Richey,FL,1:32:56,Aeropro Coaching Cycling Team
-11,520525,Robert,Martell,Homestead,FL,1:32:56,
+11,458591,Robert,Martell,Homestead,FL,1:32:56,
 12,527343,Paul,Maier,Davie,FL,1:32:59,One Love Cycling
 13,512007,Jeff,King,St Petersburg,FL,1:32:59,GearLink Racing INC.
 14,507797,Joe,Burbach,Hudson,WI,1:32:59,
@@ -404,7 +404,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,477147,Austin,Brown,Royal Palm Beach,FL,1:32:52,LCT/Bill Bone Bike Law
 2,393323,Alex,Supik,Fort Lauderdalecooper City,FL,1:32:54,Interactive Metronome p/b Mega Cycle
 3,365573,Nicholas,Tabares,Miami,FL,1:32:54,Silcarbon Racing Team
-4,217539,Nathan,Harris,Frisco,CO,1:32:54,
+4,217539,Nathan,Harris,Spring,TX,1:32:54,
 5,459160,Miguel,Mora Copa,Windermere,FL,1:32:54,Ocampo Racing Team
 6,517849,Kevin,Cook,Apopka,FL,1:32:54,
 7,429044,Marcel,Maldonado,Miramar,FL,1:32:54,Interactive Metronome Development
@@ -414,7 +414,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,484674,Alejandro,Hunter,Coral Gables,FL,1:32:56,Silcarbon Racing Team
 12,455993,Ryan,Seebeck,Oviedo,FL,1:32:59,Team Kyles Bike Shop
 13,472611,simon,reyes,Fort Lauderdale,FL,1:33:01,Interactive Metronome p/b Mega Cycle
-14,448396,Rudy,Szymanski,Gowanda,NY,1:33:04,Cycle Sport Concepts Tampa
+14,448396,Rudy,Szymanski,Tampa,FL,1:33:04,Cycle Sport Concepts Tampa
 15,489746,Robert,DeSantis,Sarasota,FL,1:33:04,Sarasota Cycling Club p/b SeaSucker
 16,391146,Thomas,McNeill,Leesburg,FL,1:33:06,Team Kyles Bike Shop
 17,487887,thang,luong,St.petersburg,FL,1:33:15,Support Clean Sport / SeaSucker / Guttenplan Coaching
@@ -446,14 +446,14 @@ Place,License #,First,Last,City,State,Time,Team
 17,489310,Eric,Hall,Tampa,FL,2:28:09,Aeropro Coaching Cycling Team
 18,476700,Jacob,Burbach,Fort Myers ,FL,2:29:24,FloridaVelo
 19,458955,Matthew,Press,Palm Bay,FL,2:29:24,Stradalli/Wizard Racing Development Team P/B Wizard Coaching Services
-20,494503,JeanLuc,ContantGalitello,Pompano Beach,FL,2:34:36,Interactive Metronome p/b Mega Cycle
+20,494503,JeanLuc,ContantGalitello,Coconut Creek,FL,2:34:36,Interactive Metronome p/b Mega Cycle
 21,457373,Carlos,Martinez,Defuniak Springs ,FL,2:37:25,Sarasota Cycling Club p/b SeaSucker
 DNF,501128,Robert,Swift,Tampa,FL,2:01:51,
 DNF,438678,Jesse,Gonzalez,Miami,FL,0:00:17,Silcarbon Racing Team
 DNF,367371,Zachary,West,Longwood,FL,1:29:06,Atlantic Shores Velo
 DNF,367992,Enrico,Cruz,Boca Raton,FL,2:04:02,Interactive Metronome Development
 DNF,244641,Pete,Loftis,Ponte Vedra Beach,FL,0:31:11,West Coast Cycling
-DNF,351492,Mark Anthony,Sanchez,Wesley Chapel,FL,0:29:46,Aeropro Coaching Cycling Team
+DNF,351492,Mark Anthony,Sanchez,Beaveton ,OR,0:29:46,Aeropro Coaching Cycling Team
 
 03/11/2017 Road Race Men Junior 11-12
 Place,License #,First,Last,City,State,Time,Team
@@ -483,7 +483,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,369256,Jeanine,Seeger,Boynton Beach,FL,1:44:23,Hollywood Big Wheelers
 2,69689,Sherri,Stedje,Lutz,FL,1:44:23,West Coast Cycling
-3,495140,Carly,George,Dunedin,FL,1:44:23,Aeropro Coaching Cycling Team
+3,495140,Carly,George,Tampa,FL,1:44:23,Aeropro Coaching Cycling Team
 4,242810,Kimberly,Vaughan,Odessa,FL,1:45:00,West Coast Cycling
 5,383001,Victoria,Kanizer,Owasso,OK,1:45:06,OrthoCarolina Winston Women’s Cycling
 6,367007,Holly,Beard,Boca Raton,FL,1:46:09,Advanced Cycles pb/Topview Sports
@@ -505,7 +505,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,467822,Brooke,Botterill,Orlando,FL,1:16:17,Team Kyles Bike Shop
 13,394650,Samantha,Morrison,Jacksonville ,FL,1:18:10,VeloBrew Cycling Club
 14,460227,Leah,Hardin,Kissimmee,FL,1:18:10,Orlando Road Club
-15,341538,Jennifer,Hilton,Aventura,FL,1:18:10,One Love Cycling
+15,341538,Jennifer,Hilton,Davie,FL,1:18:10,One Love Cycling
 16,486698,Lisa,Montgomery,Apopka,FL,1:18:10,
 17,434223,Lauren,Chen,Tequesta,FL,1:21:35,Interactive Metronome Development
 18,507630,Kayla,Yuengling,North Miami Beach,FL,0:38:47,
@@ -525,12 +525,12 @@ Place,License #,First,Last,City,State,Time,Team
 03/11/2017 Road Race Women Junior 13-14
 Place,License #,First,Last,City,State,Time,Team
 1,507630,Kayla,Yuengling,North Miami Beach,FL,0:45:06,
-2,466085,Larissa,Polanco,Windermere ,FL,0:58:17,Orlando Road Club
+2,466085,Larissa,Polanco,Windermere,FL,0:58:17,Orlando Road Club
 
 03/11/2017 Time Trial Men Pro/Cat 1/2
 Place,License #,First,Last,City,State,Time,Team
 1,311519,Steven,Perezluha,Longwood,FL,0:16:20,Support Clean Sport / SeaSucker / Guttenplan Coaching
-2,374617,Chad,Conley,Cartersville,GA,0:17:20,Pharmaco-DeepSouth p/b NGCA
+2,374617,Chad,Conley,Atlanta,GA,0:17:20,Pharmaco-DeepSouth p/b NGCA
 3,60148,Ken,Vida,Lithia,FL,0:17:49,FloridaVelo
 4,396578,Mike,Ferreiro,Miami,FL,0:17:50,Silcarbon Racing Team
 5,288143,James,Harter,Winter Garden,FL,0:17:53,Compass Research Cycling Team
@@ -574,7 +574,7 @@ Place,License #,First,Last,City,State,Time,Team
 03/11/2017 Time Trial Men Cat 4/5 Master 50+
 Place,License #,First,Last,City,State,Time,Team
 1,338264,Tom,Redpath,Arlington,VA,0:17:59,US Military Endurance Sports
-2,433485,Richard,Benson,Port Saint Lucie,FL,0:19:05,Treasure Coast Racing
+2,433485,Richard,Benson,Fort Pierce,FL,0:19:05,Treasure Coast Racing
 3,305247,Scott,Lameier,Valrico,FL,0:20:10,West Coast Cycling
 4,458484,Brett,Price,Sarasota,FL,0:20:11,Aeropro Coaching Cycling Team
 5,182268,Robert,Reineke,Clermont,FL,0:20:21,LegSmith Racing
@@ -642,7 +642,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,489746,Robert,DeSantis,Sarasota,FL,0:21:15,Sarasota Cycling Club p/b SeaSucker
 15,466815,Mike,Whincup,Bradenton,FL,0:21:51,Sarasota Cycling Club p/b SeaSucker
 16,478108,Kaue,King,Pembroke Pines,FL,0:22:00,Interactive Metronome p/b Mega Cycle
-17,448396,Rudy,Szymanski,Gowanda,NY,0:22:23,Cycle Sport Concepts Tampa
+17,448396,Rudy,Szymanski,Tampa,FL,0:22:23,Cycle Sport Concepts Tampa
 
 03/11/2017 Time Trial Men Cat 3
 Place,License #,First,Last,City,State,Time,Team
@@ -651,9 +651,9 @@ Place,License #,First,Last,City,State,Time,Team
 3,470682,Alexis,Cespedes,Miami,FL,0:18:49,Silcarbon Racing Team
 4,284757,Michael,Vasco,Apollo Beach,FL,0:19:10,
 5,425572,Andy,Hale,Neptune Beach,FL,0:19:21,VeloBrew Cycling Club
-6,351492,Mark Anthony,Sanchez,Wesley Chapel,FL,0:19:27,Aeropro Coaching Cycling Team
+6,351492,Mark Anthony,Sanchez,Beaveton ,OR,0:19:27,Aeropro Coaching Cycling Team
 7,412071,Michael,Podzaline,North Stonington,CT,0:19:28,
-8,494503,JeanLuc,ContantGalitello,Pompano Beach,FL,0:19:33,Interactive Metronome p/b Mega Cycle
+8,494503,JeanLuc,ContantGalitello,Coconut Creek,FL,0:19:33,Interactive Metronome p/b Mega Cycle
 9,489310,Eric,Hall,Tampa,FL,0:19:57,Aeropro Coaching Cycling Team
 10,476700,Jacob,Burbach,Fort Myers ,FL,0:20:00,FloridaVelo
 11,396501,Derek,Birch,Tampa,FL,0:20:12,USF Cycling
@@ -679,7 +679,7 @@ Place,License #,First,Last,City,State,Time,Team
 03/11/2017 Time Trial Women Pro/Cat 1/2
 Place,License #,First,Last,City,State,Time,Team
 1,369256,Jeanine,Seeger,Boynton Beach,FL,0:19:00,Hollywood Big Wheelers
-2,495140,Carly,George,Dunedin,FL,0:19:49,Aeropro Coaching Cycling Team
+2,495140,Carly,George,Tampa,FL,0:19:49,Aeropro Coaching Cycling Team
 
 03/11/2017 Time Trial Women Cat 4
 Place,License #,First,Last,City,State,Time,Team

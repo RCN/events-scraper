@@ -48,7 +48,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,366345,David,PETERSON,Princeton,NJ,28:51.1,Long Branch Peddler Racing
 19,500885,Raymond,WEEKS,Wayne,NJ,29:14.7,USMES-US Military Endurance Spo
 20,514179,Albert,SAYERS,Pelham,NY,29:57.4,Team Pro Power Coaching
-21,501923,Nicholas,PAUL,Boonton,NJ,32:29.4,BYRNE International LLC
+21,501923,Nicholas,PAUL,Booton,NJ,32:29.4,BYRNE International LLC
 22,467760,James,DUFFY,North Branch,NJ,33:54.9,Team Somerset
 DNS,108684,Steve,BONICA,Rockaway Park,NY,,
 DNS,530166,Timothy,DOWNS,Dover,NJ,,Dover Downs
@@ -76,10 +76,10 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,396025,Pj,BOTTOMS,Newton,NJ,23:09.4,skylands cycling
 2,45870,Michael,ROSENHAUS,Morristown,NJ,23:33.6,Central Jersey Cycling Team
-3,158787,Wasyel,DANYSH,New Providence ,NJ,24:14.1,US Military Endurance Sports
+3,158787,Wasyel,DANYSH,New Providence,NJ,24:14.1,US Military Endurance Sports
 4,186969,Tatsuo,IMAISHI,Oradell,NJ,24:39.1,Strictly Bicycles
 5,122022,Bob,JAGGARD,Franklinville,NJ,25:32.8,Pro Pedals Racing Team
-6,192230,Mark,COWIN,Frederica ,DE,25:35.8,Pro Pedals Racing
+6,192230,Mark,COWIN,Frederica,DE,25:35.8,Pro Pedals Racing
 7,58319,Jonathan,NABUT,Allamuchy,NJ,27:30.7,Team Marty's
 DNS,398392,John,PIPER,Minotola,NJ,,VR2209
 DNS,10582,James,EICHVALDS,Rockaway,NJ,,High Gear/Trek/WW
@@ -105,10 +105,10 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/06/2017 Time Trial Men Masters 35-99
 Place,License #,First,Last,City,State,Time,Team
-1,189842,Andreas,RUNGGATSCHER,Monroe,NY,21:39.2,FinKraft Cycling Team
+1,189842,Andreas,RUNGGATSCHER,Chester,NY,21:39.2,FinKraft Cycling Team
 2,439352,John,CULLINAN,Kingston,NY,23:01.2,Bicycle Depot
 3,343490,Greg,KAPLAN,Philadelphia,PA,23:12.9,QCW Cycling p.b. Breakawaybikes
-4,238008,Alejandro,GUZMAN,New York,NY,23:25.0,CRCA/Foundation
+4,238008,Alejandro,GUZMAN,New York ,NY,23:25.0,CRCA/Foundation
 5,272666,Mark,CURRAN,Titusville,NJ,23:31.4,Knapps Cyclery Racing P/B Endur
 6,98343,Rich,CAROLAN,Bernardsville,NJ,24:20.1,High Gear Cycles/ Trek
 7,79605,Erich,NEISE,Flemington,NJ,24:46.1,Team Somerset
@@ -147,7 +147,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,207091,Benedict,ROCCO,Erial,NJ,28:45.1,PSRacing/BTB
 15,29530,Gerard,Remsen,Wharton,NJ,30:12.2,Skylands Cycling Club
 16,459551,Ken,ROMA,Manahawkin,NJ,30:42.6,Pro pedals
-17,64565,Christopher,BYRNE,Boonton,NJ,33:04.5,BYRNE International LLC
+17,64565,Christopher,BYRNE,Boonton Township,NJ,33:04.5,BYRNE International LLC
 
 05/06/2017 Time Trial Men Masters 65-99
 Place,License #,First,Last,City,State,Time,Team
@@ -163,7 +163,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,494054,Frank P,VILLANI,Long Valley,NJ,33:10.5,Team Somerset
 3,459426,Evan,DONAHUE,Bernardsville,NJ,36:51.6,Liberty Cycle
 4,521181,Lukas,DONNELLY,Boonton,NJ,41:37.8,Byrne International LLC
-5,504757,Thomas,BYRNE,Boonton Township ,NJ,42:33.0,BYRNE International LLC
+5,504757,Thomas,BYRNE,Boonton Township,NJ,42:33.0,BYRNE International LLC
 
 05/06/2017 Time Trial Women Cat4/5 Open
 Place,License #,First,Last,City,State,Time,Team
@@ -187,7 +187,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,501105,Rebecca,FELDMAN,Morristown,NJ,31:01.7,Team Martys
 7,525440,Kristine,TANJUTCO,Cherry Hill,NJ,31:27.9,Pro Pedals Racing
 8,225861,Kelley,BARRICK,Allamuchy,NJ,32:06.2,Skylands Cycling/ACT
-9,507856,Ellen,HARDY,Boonton Township ,NJ,34:33.2,BYRNE International LLC
+9,507856,Ellen,HARDY,Boonton Township,NJ,34:33.2,BYRNE International LLC
 10,470339,Karen,CLARK,Morris Plains,NJ,34:43.9,Team Marty's
 DNS,467437,Samantha,SAMPSON,Egg Harbor City,NJ,,VR2209
 
@@ -215,5 +215,5 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,470690,Michaela,TSAPATSARIS,Ridgewood,NJ,35:35.0,ORIGIN Performance Training Sys
 2,513500,Katharine,BYRNE,Boonton,NJ,39:49.2,BYRNE International LLC
-3,507589,Nikita,PAUL,Boonton,NJ,52:46.3,BYRNE International LLC
-DNS,507588,Trinity,PAUL,Boonton,NJ,,BYRNE International LLC
+3,507589,Nikita,PAUL,Booton,NJ,52:46.3,BYRNE International LLC
+DNS,507588,Trinity,PAUL,Booton,NJ,,BYRNE International LLC

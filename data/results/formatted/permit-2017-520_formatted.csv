@@ -11,7 +11,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,428327,Zachary,Scharnhorst,Quincy,IL,,Momentum Racing LLC - MO
 8,368066,David,Ross,Dekalb,IL,,Bicycle Heaven
 9,146767,Sean,Metz,Plainfield,IL,,xXx Racing
-10,406399,Simon,Phuah,Downers Grove,IL,,INTENT
+10,406399,Simon,Phuah,Littleton,CO,,INTENT
 11,107684,Benjamin,Weaver,Columbus,IN,,ZIPP Masters Team
 12,425100,Daniel,Shamburger,Grand Rapids,MI,,EPS Cycling Team
 13,411678,Robert,Frangi,Indianapolis,IN,,Dash Racing
@@ -25,7 +25,7 @@ Place,License #,First,Last,City,State,Time,Team
 21,500484,Bobby,Atkins,Chicago,IL,,xXx Racing
 22,308798,lucas,guyton,Moline,IL,,
 23,192220,Daniel,Solomon,Romeoville,IL,,
-24,230509,Ben,Laforce,Chicago,IL,,xXx Racing
+24,230509,Ben,Laforce,Denver,CO,,xXx Racing
 25,270480,Cameron,Timmer,Grand Rapids,MI,,EPS Cycling Team
 26,52133,Andreas,Fischer,Chicago,IL,,PSIMET Racing
 27,336264,Jose,Rodriguez,Highwood,IL,,INTENT
@@ -42,7 +42,7 @@ DQ,340666,Phillip,Steele,Burnsville,WV,,
 DNF,476649,Alex,Bolotin,Chicago,IL,,Polish & Slavic FCU International Cycling Team
 DNF,174544,Shane,Feehery,Homewood,IL,,Bicycle Heaven
 DNF,309567,Sven,Gartner,Park Ridge,IL,,Sammy's Racing
-DNF,238604,Brian,Sullivan,Mishawaka ,IN,,Race Inc.
+DNF,238604,Brian,Sullivan,South Bend,IN,,Race Inc.
 DNF,291549,Dan,Swenson,Hawthorn Woods,IL,,The Weather Channel
 DNF,276599,Andrew,Zens,Chicago,IL,,Burnham Racing
 DNF,411787,Aidan,Burkins,Plymouth,IN,,Race Inc.
@@ -54,7 +54,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,162118,Brian,Haas,Chicago,IL,,Pact- DISH Network Cycling
 3,263833,Andrzej,Banaszkiewicz,Brownsburg,IN,,ZIPP Masters Team
 4,57709,Jim,Flora,Beecher,IL,,Burnham Racing
-5,406399,Simon,Phuah,Downers Grove,IL,,INTENT
+5,406399,Simon,Phuah,Littleton,CO,,INTENT
 6,360122,Matthew,Giedt,Glencoe,IL,,
 7,410406,Justin,Kirk,Carmel,IN,,Phoenix Fitness and Training
 8,76192,Kevin,Collins,Grand Rapids,MI,,Speed Merchants
@@ -63,7 +63,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,142034,Tom,Driver,Chicago,IL,,Burnham Racing
 12,69518,Bradley,Menna,Chicago,IL,,
 13,57121,Greg,Mueller,South Bend,IN,,Spin Zone Racing
-14,184183,Marc,Zionts,Highland Park,IL,,The Weather Channel
+14,184183,Marc,Zionts,Chapel Hill,NC,,The Weather Channel
 15,40409,Timothy,Doelman,Glencoe,IL,,The Weather Channel
 16,41693,Andrew,Rizzo,Lisle,IL,,The Weather Channel
 17,324348,Alex,Grant,Chicago,IL,,Burnham Racing
@@ -74,7 +74,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,291549,Dan,Swenson,Hawthorn Woods,IL,,The Weather Channel
 23,396957,Wojciech,Czerkies,Palatine,IL,,Plus Cycling Team
 24,162422,Francine,Haas,Chicago,IL,,Pact- DISH Network Cycling
-25,415294,Bruce,Gordon,Lebanon,TN,,Pista Elite
+25,100338,Bruce,Gordon,South Bend,IN,,Pista Elite
 DNS,418397,Kevin,Corcoran,Chicago,IL,,xXx Racing
 DNS,531195,Jason,Garner,Bettendorf,IA,,George Garner Cyclery Track Team
 DNS,47240,Stanley,Kelman,Las Vegas,NV,,Bike Palace
@@ -140,14 +140,14 @@ Place,License #,First,Last,City,State,Time,Team
 11,515516,Lydia,Chinchilla,Glen Ellyn,IL,,2
 12,467668,Luke,Goldman,Chicago,IL,,4
 13,503580,Jacob,Kusar,Chicago,IL,,6
-14,493062,Nicholas,Labbe,Rolling Meadows  Il,IL,,13
+14,493062,Nicholas,Labbe,Rolling Meadows  ,IL,,13
 15,488295,Avital,Strauss,Evanston,IL,,9
 DNF,509760,Edgar,Vera,Brookfield,IL,,12
 
 05/06/2017 Criterium Men Cat 4/5
 Place,License #,First,Last,City,State,Time,Team
 1,510228,John,Bowie,Chicago,IL,,INTENT
-2,286320,Zachary,Zionts,Highland Park,IL,,Alberto's Sport
+2,286320,Zachary,Zionts,Chapel Hill,NC,,Alberto's Sport
 3,500726,Dominic,Lopez,Naperville,IL,,xXx Racing
 4,341388,Guiober,Cuevas,Montgomery,IL,,Team Got Wind?
 5,524480,Tyler,Kaufman,Lerna,IL,,
@@ -172,7 +172,7 @@ Place,License #,First,Last,City,State,Time,Team
 24,411953,Hayden,Fox,East Grand Rapids,MI,,Andrie Junior Development Team
 25,522687,Nathan,Brown,Glencoe,IL,,Vision Quest
 26,466314,Matthew,Best,Chicago,IL,,
-27,296639,Ryan,Hartwell,Saint Joseph,MI,,Leadout Racing
+27,296639,Ryan,Hartwell,Paw Paw,MI,,Leadout Racing
 28,352776,David,Hartwell,Grand Rapids,MI,,Leadout Racing
 29,532704,Dwayne,Cooper,South Holland,IL,,Major Taylor  chicago
 30,431004,James,Russell,Tinley Park,IL,,INTENT
@@ -225,7 +225,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/06/2017 Criterium Men Cat 4
 Place,License #,First,Last,City,State,Time,Team
-1,286320,Zachary,Zionts,Highland Park,IL,,Alberto's Sport
+1,286320,Zachary,Zionts,Chapel Hill,NC,,Alberto's Sport
 2,500726,Dominic,Lopez,Naperville,IL,,xXx Racing
 3,475010,Jef,Mayer,Chicago,IL,,
 4,395247,Nate,Lake,Indianapolis,IN,,Dash Racing
@@ -252,7 +252,7 @@ Place,License #,First,Last,City,State,Time,Team
 25,429284,Matthew,Talbert,Park Ridge,IL,,xXx Racing
 26,343794,Peter,Mintun,Solon,OH,,University of Chicago
 27,263435,Joe,Schubert,Evanston,IL,,Half Acre Cycling
-28,296639,Ryan,Hartwell,Saint Joseph,MI,,Leadout Racing
+28,296639,Ryan,Hartwell,Paw Paw,MI,,Leadout Racing
 29,476680,Lewis,Caskey,Goshen,IN,,No Limit Racing
 30,526355,Brian,Mitchell,Chicago,IL,,INTENT
 DNS,274776,Andrew,Nix,Chicago ,IL,,xXx Racing
@@ -284,12 +284,12 @@ Place,License #,First,Last,City,State,Time,Team
 15,500484,Bobby,Atkins,Chicago,IL,,xXx Racing
 16,398204,Geoffrey,Albert,Chicago,IL,,
 17,0,Laszlo,Jakob,,,,
-18,361716,Freddy,Bernabe,Chicago ,IL,,
+18,361716,Freddy,Bernabe,Chicago,IL,,
 19,411568,Jafet,Torres,Chicago,IL,,Bonkers Cycling
 20,388830,John,Walbaum,Chicago,IL,,
 21,291549,Dan,Swenson,Hawthorn Woods,IL,,The Weather Channel
 22,309422,Brian,Kulak,Bolingbrook,IL,,Wolfpack Bike Racing
-23,238604,Brian,Sullivan,Mishawaka ,IN,,Race Inc.
+23,238604,Brian,Sullivan,South Bend,IN,,Race Inc.
 24,300410,Eric,Christ,Palatine,IL,,Team Bicycle Heaven
 25,344432,Matt,Riddle,Oak Park,IL,,
 26,443840,Kurt,Druffel,Saint Charles,IL,,MSN Pro Coaching
@@ -326,7 +326,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,390029,Desiree,Galeski,Chicago,IL,,BFF Bikes
 3,411912,Erin,Walter,Elk Grove Village,IL,,PSIMET Racing
 4,181017,Alicia,Prusinski,Chicago,IL,,Skunkworks Racing
-5,424697,Kristine,Deibler,Chicago,IL,,Union Cycling Team
+5,424697,Kristine,Deibler,Seattle,WA,,Union Cycling Team
 6,443795,Lauren,Conroy,Chicago,IL,,Comrade Cycles Racing
 7,528713,Reyna,Michel-Trapaga,Fox Lake,IL,,intent
 8,529220,Megan,Tsupros,Chicago,IL,,

@@ -6,7 +6,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,496667,Frank,Shewmaker,Kensington,MD,1:50:58.1,Artemis Racing
 3,391835,John,Sylvester,Arlington,VA,1:50:58.2,National Capital Velo Club/UnitedHealthcare/NCVC/UnitedHealthcare
 4,484201,Krzysztof,Jedrzejewski,Springfield,VA,1:50:58.7,Whole Wheel Velo Club
-5,429834,Chris,Christakis,Frederick,MD,1:50:58.9,Frederick Velo/Bike Doctor Frederick/Bike Doctor/Visit Frederick
+5,429834,Chris,Christakis,Brunswick,MD,1:50:58.9,Frederick Velo/Bike Doctor Frederick/Bike Doctor/Visit Frederick
 6,423552,Geoffrey,Irwin,Frederick,MD,1:50:59.7,National Capital Velo Club/UnitedHealthcare
 7,303861,Mark,Scott,Washington,DC,1:51:00.2,National Capital Velo Club/UnitedHealthcare/NCVC/UnitedHealthcare
 8,393463,Brian,Romberger,Hanover,MD,1:51:00.2,Adventures for the Cure
@@ -101,13 +101,13 @@ Place,License #,First,Last,City,State,Time,Team
 6,322952,James,Studebaker,Reston,VA,3:20:00.8,Bayside Velo/Bike Doctor
 7,441096,Thomas,Humphreys,Chevy Chase,MD,3:21:56.9,Battley Harley-Davidson/BATTLEY H-D /Spokes Etc
 8,380188,Matt,McLoone,Washington,DC,3:21:57.0,Battley Harley-Davidson/BATTLEY H-D /Spokes Etc
-9,255003,Ranjodh,Gill,Bethesda ,MD,3:21:57.6,Bayside Velo/Bike Doctor/Team Bike Doctor
+9,255003,Ranjodh,Gill,Rockville,MD,3:21:57.6,Bayside Velo/Bike Doctor/Team Bike Doctor
 10,198408,Sean,Barrie,Washington,DC,3:22:00.9,Battley Harley-Davidson/BATTLEY H-D /Spokes Etc
 11,380149,Logan,Jones-Wilkins,Charlottesville,VA,3:22:32.6,Unattached
 12,433033,Robert,wasch,Wyoming,PA,3:23:57.7,CS Velo/CS Velo Elite
 13,403696,Tim,Weigelt,Philadelphia,PA,3:24:08.8,CS Velo/CS Velo Elite
 14,236162,Jose,Escobar,Washington,DC,3:24:10.1,Battley Harley-Davidson/BATTLEY H-D /Spokes Etc
-15,341040,Eran,Preble,Philadelphia ,PA,3:24:10.4,PTS Racing
+15,341040,Eran,Preble,Newark,DE,3:24:10.4,PTS Racing
 16,221645,Bruno,Neto,Derwood,MD,3:24:11.5,Bayside Velo/Bike Doctor/Team Bike Doctor
 17,501157,Mathew,Mackay,Pittsburgh,PA,3:24:11.5,J Mac Cycling LLC
 18,297561,Guy,Tawney,Baltimore,MD,3:24:11.6,Charm City Cycling LLC/C3-Twenty20cycling.com
@@ -128,7 +128,7 @@ Place,License #,First,Last,City,State,Time,Team
 33,352980,Tyler,Waldron,Hagerstown,MD,3:35:43.7,Bayside Velo/Bike Doctor/Team Bike Doctor
 DNF,382869,Aaron,Hotaling,Washington,DC,DNF,District Velocity Racing/District Velocity Racing p/b Bicycle Pro Shop
 DNF,291076,Clint,Dager,Newark,DE,DNF,PTS Racing
-DNF,264157,Daniel,Villaflor-Drumwright,Alexandria ,VA,DNF,DC Velo Limited/Team Beyer Auto
+DNF,264157,Daniel,Villaflor-Drumwright,Alexandria,VA,DNF,DC Velo Limited/Team Beyer Auto
 DNF,240268,Nessim,Mezrahi,Bethesda,MD,DNF,District Velocity Racing/District Velocity Racing p/b Bicycle Pro Shop
 DNF,375236,William,King,Hagerstown,MD,DNF,PTS Racing
 DNF,361461,Michael,Russo,Arlington,VA,DNF,Battley Harley-Davidson/BATTLEY H-D /Spokes Etc
@@ -141,7 +141,7 @@ DNF,128948,Matthew,Latyszonek,Alexandria,VA,DNF,Unattached
 DNF,284095,Gregory,Capelle,Catonsville,MD,DNF,Celerity Cycling/Haymarket/Starlight Custom Apparel
 DNF,329364,Elias,Guerra,Annandale,VA,DNF,DistrictTaco Racing
 DNF,400599,Andrew,Friend,Washington,DC,DNF,DistrictTaco Racing
-DNF,359191,Mark,Hyatt,Arlington,VA,DNF,DC Velo Limited/Team Beyer Auto
+DNF,359191,Mark,Hyatt,Potomac,MD,DNF,DC Velo Limited/Team Beyer Auto
 DNF,99328,George,Ganoung,Hedgesville,WV,DNF,Bayside Velo/Bike Doctor/Team Bike Doctor
 DNF,274737,Gregory,Leach,Washington,DC,DNF,Five Four Sports/Team Metra / Xrcel / Cycles 54
 DNF,395771,Taylor,Pearman,Burke,VA,DNF,Celerity Cycling/Haymarket/Starlight Custom Apparel
@@ -205,7 +205,7 @@ DQ,193800,Elias,Hengst,Washington,DC,DQ,Battley Harley-Davidson/BATTLEY H-D /Spo
 DNF,257925,Todd,Bickling,Edgewater,MD,DNF,Bayside Velo/Bike Doctor/Team Bike Doctor
 DNF,21779,William,Luecke,Falls Church,VA,DNF,National Capital Velo Club/UnitedHealthcare/NCVC/UnitedHealthcare
 DNF,83935,Charles,Biro,Washington,DC,DNF,DC Velo Limited/Team Beyer Auto
-DNF,52480,Joel,Vowell,Fairfax,VA,DNF,CoreTechs Cycling Team/CoreTechs Cycling TwT
+DNF,52480,Joel,Vowell,Fort Myer,VA,DNF,CoreTechs Cycling Team/CoreTechs Cycling TwT
 DNF,87954,Peter,Steyaert,Berryville,VA,DNF,Evolution Cycling Club p/b Long & Foster
 DNF,241682,Frank,Palmieri,Hampton,VA,DNF,Steel Mountain Cycling
 DNF,46752,Thomas,Snyder,North Potomac,MD,DNF,National Capital Velo Club/UnitedHealthcare/NCVC/UnitedHealthcare
@@ -215,11 +215,11 @@ Place,License #,First,Last,City,State,Time,Team
 1,0,Freddy,Mondale,,,1:18:18.3,Unattached
 2,516995,Curtis,Alia,Jessup,MD,1:18:19.9,Unattached
 3,471820,Burak,Tekes,Washington,DC,1:18:20.1,The Bike Rack/Bike Rack Racing
-4,523481,Christopher,Kallapodi,Alexandria,VA,1:18:20.3,Whole Wheel Velo Club
+4,523481,Christopher,Kallapodi,Chicago,IL,1:18:20.3,Whole Wheel Velo Club
 5,528597,Justin,Badlam,Silver Spring,MD,1:18:20.7,The Bike Rack/Bike Rack Racing
 6,510887,Brendan,McConnaughay,Mclean,VA,1:18:20.7,National Capital Velo Club/UnitedHealthcare/NCVC/UnitedHealthcare
 7,192332,William,Faucette,Kensington,MD,1:18:20.9,Unattached
-8,524824,Chad,Melton,Wytheville,VA,1:18:21.5,Unattached
+8,524824,Chad,Melton,Warrenton,VA,1:18:21.5,Unattached
 9,459824,Christofer,Smith,Laurel,MD,1:18:21.9,Unattached
 10,528495,Young,Kim,Alexandria,VA,1:18:22.2,Unattached
 11,528372,James,Beacham,Westminster,MD,1:18:22.8,Unattached
@@ -236,7 +236,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,524377,Ryan,Eshelman,Washington,DC,1:20:17.1,The Bike Rack
 23,0,Din,Viela,,,1:20:17.9,American Velo Club
 24,460114,Matt,Cartlidge,Woodbridge,VA,1:22:56.7,Prince William Elite Racing (PoWER)
-25,238342,Leo,Singer,College Park,MD,1:22:57.0,The Bike Rack/Bike Rack Racing
+25,238342,Leo,Singer,Washington,DC,1:22:57.0,The Bike Rack/Bike Rack Racing
 26,64277,Scott,Coulter,Fairfax Sta,VA,1:22:57.6,Unattached
 27,366828,Bradley,Saull,Alexandria,VA,1:23:30.7,Unattached
 28,0,Karl,ekberg,,,1:23:30.7,Unattached
@@ -256,8 +256,8 @@ DNF,0,Bustamente,Guerrerro,,,DNF,Unattached
 Place,License #,First,Last,City,State,Time,Team
 1,478313,David,Rodgers,Alexandria,VA,1:44:28.9,DistrictTaco Racing
 2,499575,Dan,Henry,Washington,DC,1:44:29.3,The Bike Rack/Bike Rack Racing
-3,320586,Cameron,Quick,Gaithersburg ,MD,1:44:30.2,Unattached
-4,393654,Stephen,Dorst,Arlington,VA,1:44:30.6,Squadra Coppi
+3,320586,Cameron,Quick,Gaithersburg,MD,1:44:30.2,Unattached
+4,393654,Stephen,Dorst,Rancho Palos Verdes,CA,1:44:30.6,Squadra Coppi
 5,340302,Aidan,Dixon,Silver Spring,MD,1:44:30.7,Rock Creek Velo
 6,486457,Luca,Greenspun,Bethesda,MD,1:44:30.8,Rock Creek Velo
 7,498113,Nick,Taylor,Mt Rainier,MD,1:44:31.0,DistrictTaco Racing
@@ -270,7 +270,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,439454,Landon,Short,Washington,DC,1:44:34.5,The Bike Rack/Bike Rack Racing
 15,433501,Chris,Reardon,Olney,MD,1:44:36.2,DistrictTaco Racing
 16,390412,Alex,Kasch,Arlington,VA,1:44:53.4,National Capital Velo Club/UnitedHealthcare/NCVC/UnitedHealthcare
-17,467284,Michael,Anderson,Clinton ,MD,1:45:04.1,Phase Cycling
+17,467284,Michael,Anderson,Clinton,MD,1:45:04.1,Phase Cycling
 18,280059,TYLER,LULICH,Washington,DC,1:45:04.3,V-DAY
 19,376563,Samuel,Kristy,Montclair,VA,1:45:23.3,Crosshairs Cycling
 20,470706,Antoine,Levie,Washington,DC,1:45:24.6,Rock Creek Velo
@@ -358,7 +358,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,367544,Annamaria,McHugh,Washington,DC,1:31:37.0,Rock Creek Velo
 4,448414,Katherine,Sarkisov,North Potomac,MD,1:31:37.0,Rock Creek Velo
 5,497570,Sarah,Sladen,Washington,DC,1:31:37.2,The Bike Rack/Bike Rack Racing
-6,477085,Andrea,Williams,Annapolis,MD,1:31:37.3,Unattached
+6,477085,Andrea,Williams,Arnold,MD,1:31:37.3,Unattached
 7,338568,Kristin,Seibert,Annapolis,MD,1:31:37.4,Unattached
 8,500785,Sarah,Granade,Arlington,VA,1:31:39.0,VeloWorks-Spokes Etc
 9,485519,Anna,Avila,Olney,MD,1:31:41.3,Unattached
@@ -396,5 +396,5 @@ Place,License #,First,Last,City,State,Time,Team
 17,457283,Grace,Blair,Towson,MD,2:02:16.3,Baltimore Bicycle Club/Team BBC
 18,468038,Teresa,Amundson,Arlington,VA,2:02:17.0,National Capital Velo Club/UnitedHealthcare/NCVC/UnitedHealthcare
 19,437814,Tina,Pai,Alexandria,VA,2:03:45.8,VeloWorks-Spokes Etc
-20,252502,Marion,Palmieri,Yorktown ,VA,2:04:09.0,Celerity Cycling/Mermaid Winery
+20,252502,Marion,Palmieri,Yorktown,VA,2:04:09.0,Celerity Cycling/Mermaid Winery
 21,220922,Christine,Fuentes,Herndon,VA,2:06:39.5,Evolution Cycling Club p/b Long & Foster

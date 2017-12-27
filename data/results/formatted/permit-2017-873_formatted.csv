@@ -35,11 +35,11 @@ Place,License #,First,Last,City,State,Time,Team
 11,395236,Elizabeth,Harden,Greenville,SC,,RTO National Cycling
 12,513594,Manuela,Escobar,Cartagena,BO,,Team Colombia CyclingGirls
 13,0,Luz Adriana,Tovar,,,,Team Colombia CyclingGirls
-14,220876,Katherine,Shields,Advance,NC,,OrthoCarolina Winston Womens Cycling
+14,220876,Katherine,Shields,Salt Lake City,UT,,OrthoCarolina Winston Womens Cycling
 15,230062,Erica,Zaveta,Brevard,NC,,UCI WPT: Cylance Pro Cycling
 16,403524,Lori,Nedescu,Columbus,OH,,
 17,413867,Danielle,Clark,Greenville,SC,,RTO National Women's Cycling
-DNS,267467,Christy,Keely,Greenville ,SC,,
+DNS,267467,Christy,Keely,Greenville,SC,,
 DNF,0,Georgia,Catterick,,,,Team Illuminate
 
 06/04/2017 Criterium Women Cat 1/2/3/4/5 Juniors 9-18
@@ -95,7 +95,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,312154,Michael,Gearren II,New Bern,NC,,Cyclus Sports
 19,481597,Hamish,Beadle,Alpharetta,GA,,Team Novo Nordisk Development
 20,359399,Miles,Hubbard,Wilkesboro,NC,,Monster Media Elite Development
-21,299251,Justin,McQuerry,Athens,GA,,Team Novo Nordisk Development
+21,299251,Justin,McQuerry,Austin,TX,,Team Novo Nordisk Development
 22,392529,Brian,Sciba,Tallahassee,FL,,Kelly Benefit Strategies Elite
 23,380149,Logan,Jones-Wilkins,Charlottesville,VA,,
 24,243416,MacKenzie,Brennan,Greenville,SC,,UCI CT: Holowesko | Citadel Racing Team p/b Hincapie Racing
@@ -105,7 +105,7 @@ Place,License #,First,Last,City,State,Time,Team
 28,355124,Andrei,Krasilnikau,Boulder,CO,,Holowesko-Citadel
 29,215681,Marcus,Canady,Raleigh,NC,,North Carolina State University at Raleigh
 30,244581,Cullen,Easter,Grand Junction,CO,,UCI CT: Team Illuminate
-31,383915,Tom,Salvesen,Charleston,SC,,
+31,383915,Tom,Salvesen,Lakewood,CO,,
 32,0,Simon,Pellaud,,,,Team Illuminate
 33,494130,Davis,Adams,Headland,AL,,Infinity Cycling Team
 34,440072,Alex,Winnicki,Greensboro,NC,,Cyclus Sports
@@ -115,7 +115,7 @@ Place,License #,First,Last,City,State,Time,Team
 38,232219,Thomas,Gaines,Madison ,WI,,
 39,502771,Bob,Goedbloed,Athens,GA,,Team Novo Nordisk Development
 40,502777,David,Nickels,Athens,GA,,Team Novo Nordisk Development
-41,504799,Peter,Foerster,,,,Stradalli Cycle - Safetti
+41,504799,Peter,Foerster,Atlanta,GA,,Stradalli Cycle - Safetti
 42,457146,Erich,Mesquita Lima,Mars Hill,NC,,HC Devo p/b Monster Media Racing
 43,258301,Kirk,Bjorling,Asheville,NC,,
 44,178109,Andrew,Scarano,Athens,GA,,Stradalli Cycle/Safetti
@@ -197,7 +197,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,439618,Matthew,Torrence,Knoxville,TN,,Knoxville Bicycle / Aubrey's Restaurants
 10,422223,Jayson,Hubbs,Piney Flats,TN,,Rescue Racing
 11,491910,Brent,Price,Blountville,TN,,Team reedy creek
-12,443803,Matthew,Calhoun,Chattanooga,TN,,
+12,443803,Matthew,Calhoun,Soddy Daisy,TN,,
 13,352588,Jeffrey,Weatherall,Kingsport,TN,,
 14,0,Keith,Gilley,,,,
 15,401954,Tommy,Gates,Chattanooga,TN,,
@@ -230,7 +230,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,486490,Austin,Sheffer,Blacksburg,VA,,Virginia Polytechnic University
 21,411316,Jacob,Kuper,Gallatin,TN,,I Am Racing
 22,419163,Marie,Tutterow,Johnson City,TN,,Hicks Orthodontics Women's Racing
-DNS,412146,Eric,Hubbs,Piney Flats,TN,,
+DNS,412146,Eric,Hubbs,Bristol,TN,,
 DNS,339522,Roger,Payne,Candler,NC,,Living Water Cycling
 DNS,300549,Michael,Montgomery,Atlanta,GA,,L5Flyers Cycling Team
 
@@ -273,7 +273,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,513594,Manuela,Escobar,Cartagena,BO,,Team Colombia CyclingGirls
 4,326470,Hannah,Arensman,Rutherford College,NC,,TWENTY20 Pro Cycling
 5,403524,Lori,Nedescu,Columbus,OH,,
-6,220876,Katherine,Shields,Advance,NC,,OrthoCarolina Winston Womens Cycling
+6,220876,Katherine,Shields,Salt Lake City,UT,,OrthoCarolina Winston Womens Cycling
 7,0,Karol,Moreno,,,,Team Colombia CyclingGirls
 8,360232,Lexie,Millard,Monument,CO,,UCI WPT: Team Illuminate
 9,283548,Isabella,Brookshire,Hendersonville,NC,,Sho-Air TWENTY20 Development
@@ -315,7 +315,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,432532,Bryan,Mutell,Raleigh ,NC,,4D Racing
 15,306291,Johnny,Mitchell,Johnson City,TN,,SC Competitive Cyclist
 16,312154,Michael,Gearren II,New Bern,NC,,Cyclus Sports
-17,383915,Tom,Salvesen,Charleston,SC,,
+17,383915,Tom,Salvesen,Lakewood,CO,,
 18,460162,Hoel,Wiesner,Rensselaer,NY,,The Electric Banana Cycling Project p/b FSC Racing
 19,298410,Jon,Okenfuss,Suwanee,GA,,L5Flyers Cycling Team
 20,336388,Corey,Davis,Danville,VA,,SC Competitive Cyclist
@@ -359,7 +359,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,526192,Cian,Evans,Asheville,NC,,
 2,525980,Forrest,Kirkendall,Decatur,GA,,Snyder Factory Racing
-3,443803,Matthew,Calhoun,Chattanooga,TN,,
+3,443803,Matthew,Calhoun,Soddy Daisy,TN,,
 4,352588,Jeffrey,Weatherall,Kingsport,TN,,
 5,491910,Brent,Price,Blountville,TN,,Team reedy creek
 
@@ -404,7 +404,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,268002,Sarah,Matchett,Davidson,NC,02:57:36.700,Race City Cycling
 6,405286,Lorena,Vargas,Minneapolis,MN,02:57:37.000,Team Colombia CyclingGirls
 7,0,Luz Adriana,Tovar,,,02:57:59.880,Team Colombia CyclingGirls
-8,220876,Katherine,Shields,Advance,NC,02:59:14.110,OrthoCarolina Winston Womens Cycling
+8,220876,Katherine,Shields,Salt Lake City,UT,02:59:14.110,OrthoCarolina Winston Womens Cycling
 9,360232,Lexie,Millard,Monument,CO,03:02:42.290,UCI WPT: Team Illuminate
 10,0,Georgia,Catterick,,,03:03:01.000,Team Illuminate
 11,0,Karol,Moreno,,,03:03:02.000,Team Colombia CyclingGirls
@@ -416,7 +416,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,400510,Jennah,Dunham,Asheville,NC,03:18:31.420,CTH Performance Project
 18,283548,Isabella,Brookshire,Hendersonville,NC,03:27:25.640,Sho-Air TWENTY20 Development
 19,395236,Elizabeth,Harden,Greenville,SC,03:32:40.540,RTO National Cycling
-DNS,267467,Christy,Keely,Greenville ,SC,,
+DNS,267467,Christy,Keely,Greenville,SC,,
 DNF,288099,Stephanie,Nave,Johnson City,TN,,OrthoCarolina Winston Womens Cycling
 
 06/03/2017 Road Race Women Cat 3/4/5
@@ -462,7 +462,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,467580,Andrew,Evans,Rogers,AR,03:41:12.540,Tyson Foods Cycling Team
 10,359399,Miles,Hubbard,Wilkesboro,NC,03:41:43.940,Monster Media Elite Development
 11,284009,Samuel,James,Blacksburg,VA,03:41:48.450,Kelly Benefit Strategies Elite
-12,383915,Tom,Salvesen,Charleston,SC,03:42:19.640,
+12,383915,Tom,Salvesen,Lakewood,CO,03:42:19.640,
 13,395206,Ian,Umstead,Murray,KY,03:42:53.500,Volharden/WRA Development
 14,298410,Jon,Okenfuss,Suwanee,GA,03:43:08.170,L5Flyers Cycling Team
 15,312154,Michael,Gearren II,New Bern,NC,03:43:32.110,Cyclus Sports
@@ -484,14 +484,14 @@ Place,License #,First,Last,City,State,Time,Team
 31,440072,Alex,Winnicki,Greensboro,NC,03:46:28.390,Cyclus Sports
 32,494707,Zach,Gregg,Roanoke,VA,03:46:43.200,Haymarket/Starlight Custom Apparel
 33,0,Simon,Pellaud,,,03:47:08.000,Team Illuminate
-34,272407,Timothy,Killelea,Chattanooga ,TN,03:47:08.100,Nashville Local Cycling
+34,272407,Timothy,Killelea,Chattanooga,TN,03:47:08.100,Nashville Local Cycling
 35,359849,Michael,Potter,Winston Salem,NC,03:47:32.110,Boone Area Cyclists
 36,298681,Amos,Harvey,Cumming,GA,03:48:10.540,
 37,178109,Andrew,Scarano,Athens,GA,03:48:33.640,Stradalli Cycle/Safetti
 38,466498,Thomas,Brown,Little Rock,AR,03:48:36.060,Experience Fayetteville Cycling Team
 39,494130,Davis,Adams,Headland,AL,03:48:43.580,Infinity Cycling Team
 40,383138,Blane,Maddox,Blacksburg,VA,03:49:43.170,Kelly Benefit Strategies Elite
-41,504799,Peter,Foerster,,,03:49:52.330,Stradalli Cycle - Safetti
+41,504799,Peter,Foerster,Atlanta,GA,03:49:52.330,Stradalli Cycle - Safetti
 42,173542,Alex,Ryan,Lewisville,NC,03:49:56.330,MOB PRO CYCLING TEAM
 43,336388,Corey,Davis,Danville,VA,03:50:34.000,SC Competitive Cyclist
 44,360227,Charles,Ramsbotham,Boone,NC,03:50:44.170,Monster Media Racing
@@ -506,12 +506,12 @@ Place,License #,First,Last,City,State,Time,Team
 53,220467,Zachary,Felpel,Boone,NC,03:55:48.670,HC Devo p/b Monster Media Racing
 54,192115,Bradford,Perley,Brevard,NC,03:57:01.940,
 55,324184,Franklin,Deese,Greensboro,NC,03:58:24.450,Cyclus Sports
-56,255003,Ranjodh,Gill,Bethesda ,MD,03:58:40.230,Team Bike Doctor
+56,255003,Ranjodh,Gill,Rockville,MD,03:58:40.230,Team Bike Doctor
 57,278167,Carlos,Norena,Greenville ,SC,03:59:25.540,Stradalli Cycle/Safetti
 58,193086,Benjamin,Renkema,Greenville,SC,04:00:22.000,SC Competitive Cyclist
 59,283403,Jose,Solis,Greenville,NC,04:00:32.230,Happy Tooth Racing
 60,354786,Dylan,Lawson,Fayetteville,NC,04:01:29.540,Cyclus Sports
-61,299251,Justin,McQuerry,Athens,GA,04:01:40.640,Team Novo Nordisk Development
+61,299251,Justin,McQuerry,Austin,TX,04:01:40.640,Team Novo Nordisk Development
 62,0,Caleb,Aoake,,,04:01:41.000,Team Novo Nordisk Development
 63,419926,Caleb,Smith,Marion,NC,04:03:08.060,Boone Area Cyclists
 64,502771,Bob,Goedbloed,Athens,GA,04:15:07.880,Team Novo Nordisk Development
@@ -520,8 +520,8 @@ DNS,255722,Tony,SigRist,Tallahassee,FL,,
 DNS,161043,Brian,Sheedy,Horse Shoe,NC,,Giant Racing
 DNS,161552,Lucas,Livermon,Durham,NC,,Cyclus Sports
 DNS,284479,James,Schurman,Deerfield Beach,FL,,Support Clean Sport / SeaSucker / Guttenplan Coaching
-DNS,299925,Chad,Capobianco,Watkinsville,GA,,
-DNF,353190,Alan,Edwards,Jacksonville,FL,,VeloBrew Cycling Club
+DNS,299925,Chad,Capobianco,Aldie,VA,,
+DNF,353190,Alan,Edwards,Johnson City,TN,,VeloBrew Cycling Club
 DNF,179843,Jason,Chatham,Goodlettsville,TN,,I Am Racing
 DNF,472551,Alisher,Vokhobov,Athens,GA,,Team Novo Nordisk Development
 DNF,481597,Hamish,Beadle,Alpharetta,GA,,Team Novo Nordisk Development
@@ -612,7 +612,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,526192,Cian,Evans,Asheville,NC,01:51:06.280,
 4,513763,Stuart,Witt,Richmond,KY,01:53:22.940,606 Original PPC
 5,525980,Forrest,Kirkendall,Decatur,GA,01:53:43.420,Snyder Factory Racing
-6,443803,Matthew,Calhoun,Chattanooga,TN,01:54:27.140,
+6,443803,Matthew,Calhoun,Soddy Daisy,TN,01:54:27.140,
 7,494928,Tatsuya,Fukunaga,Maryville,TN,01:55:00.580,
 8,0,Alex,Engle,,,01:56:22.000,
 9,403808,Corey,Nunez,Kingsport,TN,01:56:49.970,Tri-Cities Road Club
@@ -653,7 +653,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,435130,Abraham,Vines,Roanoke,VA,01:53:21.940,
 14,510091,Cary,Hitchcock,Asheville,NC,01:54:01.170,
 15,459726,Andrew,McLaren,Alexandria,VA,01:54:11.230,VeloWorks-Spokes Etc
-16,412146,Eric,Hubbs,Piney Flats,TN,01:54:20.140,
+16,412146,Eric,Hubbs,Bristol,TN,01:54:20.140,
 17,338502,Christopher,Sparace,Pendleton,SC,01:54:38.060,CCT Racing
 18,524769,Grant,Edwards,Boone,NC,01:54:39.060,Appalachian State University
 19,208100,Ryan,Helms,Asheville,NC,01:54:54.330,QCW Cycling
@@ -727,7 +727,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,405286,Lorena,Vargas,Minneapolis,MN,00:08:51.500,Team Colombia CyclingGirls
 4,513594,Manuela,Escobar,Cartagena,BO,00:08:52.500,Team Colombia CyclingGirls
 5,268002,Sarah,Matchett,Davidson,NC,00:08:53.100,Race City Cycling
-6,220876,Katherine,Shields,Advance,NC,00:08:55.900,OrthoCarolina Winston Womens Cycling
+6,220876,Katherine,Shields,Salt Lake City,UT,00:08:55.900,OrthoCarolina Winston Womens Cycling
 7,288099,Stephanie,Nave,Johnson City,TN,00:09:02.500,OrthoCarolina Winston Womens Cycling
 8,0,Georgia,Catterick,,,00:09:05.100,Team Illuminate
 9,403524,Lori,Nedescu,Columbus,OH,00:09:08.000,
@@ -739,7 +739,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,0,Luz Adriana,Tovar,,,00:09:28.100,Team Colombia CyclingGirls
 16,413867,Danielle,Clark,Greenville,SC,00:09:32.400,RTO National Women's Cycling
 17,395236,Elizabeth,Harden,Greenville,SC,00:09:48.900,RTO National Cycling
-DNS,267467,Christy,Keely,Greenville ,SC,,
+DNS,267467,Christy,Keely,Greenville,SC,,
 
 06/03/2017 Time Trial Women Cat 1/2/3/4/5 Juniors 9-18
 Place,License #,First,Last,City,State,Time,Team
@@ -785,7 +785,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,255729,Charlie,Hough,Travelers Rest,SC,00:07:44.100,Chainheart Cycling Development Team
 14,359399,Miles,Hubbard,Wilkesboro,NC,00:07:44.300,Monster Media Elite Development
 15,312154,Michael,Gearren II,New Bern,NC,00:07:44.400,Cyclus Sports
-16,272407,Timothy,Killelea,Chattanooga ,TN,00:07:46.700,Nashville Local Cycling
+16,272407,Timothy,Killelea,Chattanooga,TN,00:07:46.700,Nashville Local Cycling
 17,191703,Thomas,Brown,Athens,GA,00:07:47.000,
 18,494130,Davis,Adams,Headland,AL,00:07:48.900,Infinity Cycling Team
 19,425522,Benjamin,Wright,Lynchburg,VA,00:07:49.000,LUX/Stradling p/b Specialized
@@ -794,14 +794,14 @@ Place,License #,First,Last,City,State,Time,Team
 22,258301,Kirk,Bjorling,Asheville,NC,00:07:58.400,
 23,263324,Parker,Kyzer,Spartanburg,SC,00:07:59.000,SC Competitive Cyclist
 24,0,Simon,Pellaud,,,00:08:00.500,Team Illuminate
-25,504799,Peter,Foerster,,,00:08:03.300,Stradalli Cycle - Safetti
+25,504799,Peter,Foerster,Atlanta,GA,00:08:03.300,Stradalli Cycle - Safetti
 26,161583,Travis,Livermon,Winston Salem,NC,00:08:04.000,
 27,244581,Cullen,Easter,Grand Junction,CO,00:08:04.400,UCI CT: Team Illuminate
 28,466498,Thomas,Brown,Little Rock,AR,00:08:04.500,Experience Fayetteville Cycling Team
 29,367420,David,Richardson,Nashville,TN,00:08:05.400,I Am Racing
 30,392529,Brian,Sciba,Tallahassee,FL,00:08:06.500,Kelly Benefit Strategies Elite
 31,40606,Christopher,Zieman,Chapel Hill,NC,00:08:07.300,The Electric Banana Cycling Project p/b FSC Racing
-32,383915,Tom,Salvesen,Charleston,SC,00:08:09.100,
+32,383915,Tom,Salvesen,Lakewood,CO,00:08:09.100,
 33,220467,Zachary,Felpel,Boone,NC,00:08:15.000,HC Devo p/b Monster Media Racing
 34,298410,Jon,Okenfuss,Suwanee,GA,00:08:17.300,L5Flyers Cycling Team
 35,178109,Andrew,Scarano,Athens,GA,00:08:17.500,Stradalli Cycle/Safetti
@@ -814,12 +814,12 @@ Place,License #,First,Last,City,State,Time,Team
 42,306291,Johnny,Mitchell,Johnson City,TN,00:08:21.200,SC Competitive Cyclist
 43,502777,David,Nickels,Athens,GA,00:08:22.500,Team Novo Nordisk Development
 44,192115,Bradford,Perley,Brevard,NC,00:08:23.000,
-45,299251,Justin,McQuerry,Athens,GA,00:08:26.200,Team Novo Nordisk Development
+45,299251,Justin,McQuerry,Austin,TX,00:08:26.200,Team Novo Nordisk Development
 46,419926,Caleb,Smith,Marion,NC,00:08:26.700,Boone Area Cyclists
 47,173542,Alex,Ryan,Lewisville,NC,00:08:27.100,MOB PRO CYCLING TEAM
 48,511361,Samuel,Munday,Athens,GA,00:08:27.700,Team Novo Nordisk Development
 49,193086,Benjamin,Renkema,Greenville,SC,00:08:30.200,SC Competitive Cyclist
-50,353190,Alan,Edwards,Jacksonville,FL,00:08:33.100,VeloBrew Cycling Club
+50,353190,Alan,Edwards,Johnson City,TN,00:08:33.100,VeloBrew Cycling Club
 51,440072,Alex,Winnicki,Greensboro,NC,00:08:33.800,Cyclus Sports
 52,388411,Alex,Jerome,Pisgah Forest,NC,00:08:36.400,
 53,0,Juan,Gonzalez,,,00:08:36.800,Team Novo Nordisk Development
@@ -837,14 +837,14 @@ Place,License #,First,Last,City,State,Time,Team
 65,472551,Alisher,Vokhobov,Athens,GA,00:08:49.500,Team Novo Nordisk Development
 66,313306,Arvin,Jansen,Nashville,TN,00:08:56.200,I Am Racing
 DNS,383138,Blane,Maddox,Blacksburg,VA,,Kelly Benefit Strategies Elite
-DNS,299925,Chad,Capobianco,Watkinsville,GA,,
+DNS,299925,Chad,Capobianco,Aldie,VA,,
 DNS,255722,Tony,SigRist,Tallahassee,FL,,
 DNS,284009,Samuel,James,Blacksburg,VA,,Kelly Benefit Strategies Elite
 DNS,310312,Eric,Serantoni,Charlotte,NC,,
 DNS,161552,Lucas,Livermon,Durham,NC,,Cyclus Sports
 DNS,179843,Jason,Chatham,Goodlettsville,TN,,I Am Racing
 DNS,284479,James,Schurman,Deerfield Beach,FL,,Support Clean Sport / SeaSucker / Guttenplan Coaching
-DNS,255003,Ranjodh,Gill,Bethesda ,MD,,Team Bike Doctor
+DNS,255003,Ranjodh,Gill,Rockville,MD,,Team Bike Doctor
 DNS,161043,Brian,Sheedy,Horse Shoe,NC,,Giant Racing
 DNS,526322,Cristobal,Sarrion Lopez,Athens,GA,,Team Novo Nordisk Development
 
@@ -894,7 +894,7 @@ DNS,272130,Bryan,Hoy,Hendersonville,NC,,
 Place,License #,First,Last,City,State,Time,Team
 1,526192,Cian,Evans,Asheville,NC,00:08:12.300,
 2,460801,MicaJon,Dykes,Tullahoma,TN,00:08:39.700,MOAB Racing
-3,443803,Matthew,Calhoun,Chattanooga,TN,00:08:44.100,
+3,443803,Matthew,Calhoun,Soddy Daisy,TN,00:08:44.100,
 4,385178,doug,sharp,Gatlinburg,TN,00:08:49.000,Harper Auto
 5,525980,Forrest,Kirkendall,Decatur,GA,00:08:53.400,Snyder Factory Racing
 6,352588,Jeffrey,Weatherall,Kingsport,TN,00:09:23.400,
@@ -918,7 +918,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,521409,Andrew,Turner,Laurens,SC,00:09:14.300,Cycle Haus Racing
 13,411316,Jacob,Kuper,Gallatin,TN,00:09:23.800,I Am Racing
 DNS,471761,Sean,Huson,Hendersonville,NC,,Crosstown Velo
-DNS,412146,Eric,Hubbs,Piney Flats,TN,,
+DNS,412146,Eric,Hubbs,Bristol,TN,,
 
 06/03/2017 Time Trial Mixed Cat 3
 Place,License #,First,Last,City,State,Time,Team

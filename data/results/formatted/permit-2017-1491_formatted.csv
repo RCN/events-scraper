@@ -9,7 +9,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,523455,James,Sharp,Arlington,VA,,National Capital Velo Club/UnitedHealthcare/NCVC/UnitedHealthcare
 6,83935,Charles,Biro,Washington,DC,,DC Velo Limited/Team Beyer Auto
 7,425481,Jon,Balatbat,Springfield,VA,,Whole Wheel Velo Club
-8,292461,Daniel,Burns,Columbia ,MD,,Unattached
+8,292461,Daniel,Burns,Columbia,MD,,Unattached
 9,303861,Mark,Scott,Washington,DC,,National Capital Velo Club/UnitedHealthcare/NCVC/UnitedHealthcare
 10,266514,Michael,Spinnler,Hagerstown,MD,,Antietam Velo Club Inc/AVC/Team Hagerstown-Washington Co
 11,227006,Matthew,Albanese,Annapolis,MD,,Bayside Velo/Bike Doctor/Team Bike Doctor
@@ -109,7 +109,7 @@ Place,License #,First,Last,City,State,Time,Team
 05/06/2017 Criterium Men Cat1/2/3/4 Masters Men 35+ 35-99
 Place,License #,First,Last,City,State,Time,Team
 1,257603,Donald,Brew,Temple Hills,MD,,DC Velo Limited/Team Beyer Auto
-2,255003,Ranjodh,Gill,Bethesda ,MD,,Bayside Velo/Bike Doctor/Team Bike Doctor
+2,255003,Ranjodh,Gill,Rockville,MD,,Bayside Velo/Bike Doctor/Team Bike Doctor
 3,382869,Aaron,Hotaling,Washington,DC,,District Velocity Racing/District Velocity Racing p/b Bicycle Pro Shop
 4,58598,David,Fuentes,Herndon,VA,,Evolution Cycling Club p/b Long & Foster
 5,63111,Daniel,Underwood,Ashburn,VA,,Evolution Cycling Club p/b Long & Foster
@@ -149,14 +149,14 @@ Place,License #,First,Last,City,State,Time,Team
 3,257603,Donald,Brew,Temple Hills,MD,,DC Velo Limited/Team Beyer Auto
 4,400599,Andrew,Friend,Washington,DC,,DistrictTaco Racing
 5,305092,Nicholas,Taylor,Alexandria,VA,,DC Velo Limited/Team Beyer Auto
-6,392452,Jeremy,Burkhardt,Baltimore,MD,,Charm City Cycling LLC/C3-Twenty20cycling.com
+6,392452,Jeremy,Burkhardt,Washington,DC,,Charm City Cycling LLC/C3-Twenty20cycling.com
 7,365892,Ezra,Kahn,Baltimore,MD,,Baltimore Bicycle Club
 8,362104,Patrick,Jarenwattananon,Washington,DC,,District Velocity Racing/District Velocity Racing p/b Bicycle Pro Shop
 9,297561,Guy,Tawney,Baltimore,MD,,Charm City Cycling LLC/C3-Twenty20cycling.com
 10,216293,Paul,Lengermann,Washington,DC,,DistrictTaco Racing
 11,272645,Paul,Rades,Silver Spring,MD,,Unattached
-12,299925,Chad,Capobianco,Watkinsville,GA,,Unattached
-13,255003,Ranjodh,Gill,Bethesda ,MD,,Bayside Velo/Bike Doctor/Team Bike Doctor
+12,299925,Chad,Capobianco,Aldie,VA,,Unattached
+13,255003,Ranjodh,Gill,Rockville,MD,,Bayside Velo/Bike Doctor/Team Bike Doctor
 14,287217,Peter,Warner,Alexandria,VA,,Bayside Velo/Bike Doctor/Team Bike Doctor
 15,379982,Joshua,Spokes,Baltimore,MD,,Baltimore Bicycle Club
 16,303127,Pierce,Schmerge,Herndon,VA,,Bayside Velo/Bike Doctor/Team Bike Doctor
@@ -177,14 +177,14 @@ Place,License #,First,Last,City,State,Time,Team
 9,235031,Jake,Fox,Frederick,MD,,Unattached
 10,526484,Aaron,Bradley,Washington,DC,1 Lap,The Bike Rack/Bike Rack Racing
 11,498516,Frank,Fitzpatrick,Clarksburg,MD,2 Laps,Unattached
-12,525855,Junaid,Ahmed,Sterling,VA,3 Laps,Unattached
+12,525855,Junaid,Ahmed,Herndon,VA,3 Laps,Unattached
 
 05/06/2017 Criterium Men Cat 4 Men Category 4
 Place,License #,First,Last,City,State,Time,Team
 1,499575,Dan,Henry,Washington,DC,,The Bike Rack/Bike Rack Racing
 2,523455,James,Sharp,Arlington,VA,,National Capital Velo Club/UnitedHealthcare/NCVC/UnitedHealthcare
 3,102416,Abraham,Ehlers,Bethesda,MD,,Artemis Racing
-4,393654,Stephen,Dorst,Arlington,VA,,Squadra Coppi
+4,393654,Stephen,Dorst,Rancho Palos Verdes,CA,,Squadra Coppi
 5,485004,Elliott,Cheresh,Washington,DC,,The Bike Rack/Bike Rack Racing
 6,495778,noel,medrano,Richmond,VA,,Unattached
 7,390412,Alex,Kasch,Arlington,VA,,National Capital Velo Club/UnitedHealthcare/NCVC/UnitedHealthcare
@@ -234,7 +234,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/06/2017 Criterium Women Cat1/2/3/4/5 Masters Women 35+ 35-99
 Place,License #,First,Last,City,State,Time,Team
-1,525708,Jill,Patterson,Alexandria,VA,,Artemis Racing
+1,525708,Jill,Patterson,Wilmington,DE,,Artemis Racing
 2,231948,Sue,McQuiston,Reisterstown,MD,,Annapolis Bicycle Racing Team/ABRT (Annapolis Bicycle Racing Team)
 3,392393,Kaitlyn,Mittan,Alexandria,VA,,VeloWorks-Spokes Etc
 4,358909,Mary,Schmerge,Herndon,VA,1 Lap,Celerity Cycling/Haymarket/Starlight Custom Apparel
@@ -274,7 +274,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,231948,Sue,McQuiston,Reisterstown,MD,,Annapolis Bicycle Racing Team/ABRT (Annapolis Bicycle Racing Team)
 2,393056,mary,breed,Arlington,VA,,National Capital Velo Club/UnitedHealthcare/NCVC/UnitedHealthcare
 3,382827,Erin,Bougie,Arlington,VA,,National Capital Velo Club/UnitedHealthcare/NCVC/UnitedHealthcare
-4,525708,Jill,Patterson,Alexandria,VA,,Artemis Racing
+4,525708,Jill,Patterson,Wilmington,DE,,Artemis Racing
 5,198285,Lisa,Young,Arlington,VA,,National Capital Velo Club/UnitedHealthcare/NCVC/UnitedHealthcare
 6,358909,Mary,Schmerge,Herndon,VA,,Celerity Cycling/Haymarket/Starlight Custom Apparel
 7,466961,Diana,Chang,Washington,DC,,Artemis Racing

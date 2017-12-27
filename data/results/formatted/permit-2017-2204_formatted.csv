@@ -115,7 +115,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,283020,Andrew,Carlberg,Kirkland,WA,5:00.245,Broadmark Capital Racing
 1,413526,Gordon,Morris,Redmond,WA,5:00.245,Broadmark Capital Racing
 1,369565,Nick,Martinez,Seattle,WA,5:00.245,Broadmark Capital
-1,295914,Jennifer,Wheeler,Redmond,WA,5:00.245,Broadmark Capital Racing
+1,295914,Jennifer,Wheeler,Seattle,WA,5:00.245,Broadmark Capital Racing
 1,170202,Amara,Edwards,Renton ,WA,5:36.440,Gregg's
 1,71338,Annette,Williams,Kenmore,WA,,Center Cycle/Better Builders
 1,459409,Brynn,Ward,Mountlake Terrace,WA,,Velobody / Bikesale.com
@@ -123,7 +123,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,283020,Andrew,Carlberg,Kirkland,WA,5:00.245,Broadmark Capital Racing
 1,413526,Gordon,Morris,Redmond,WA,5:00.245,Broadmark Capital Racing
 1,369565,Nick,Martinez,Seattle,WA,5:00.245,Broadmark Capital
-1,295914,Jennifer,Wheeler,Redmond,WA,5:00.245,Broadmark Capital Racing
+1,295914,Jennifer,Wheeler,Seattle,WA,5:00.245,Broadmark Capital Racing
 
 08/27/2017 Team Pursuit Men Junior 15-18
 Place,License #,First,Last,City,State,Time,Team
@@ -166,11 +166,11 @@ Place,License #,First,Last,City,State,Time,Team
 1,288962,Timothy,Hughes,Olympia,WA,3:44.456,SCCA Cycling
 1,88190,bret,sehorn,Bellevue,WA,3:44.456,Dyna Racing
 2,48546,Mike,Rogers,Seattle,WA,3:49.579,Velobody / Bikesale.com
-2,52628,David,Matthews,Seattle,WA,3:49.579,Velobody / Bikesale.com
+2,52628,David,Matthews,South Cle Elum,WA,3:49.579,Velobody / Bikesale.com
 2,276304,Nick,Duckstein,Seattle,WA,3:49.579,Velobody / Bikesale.com
 2,459409,Brynn,Ward,Mountlake Terrace,WA,3:49.579,Velobody / Bikesale.com
 2,48546,Mike,Rogers,Seattle,WA,3:49.579,Velobody / Bikesale.com
-2,52628,David,Matthews,Seattle,WA,3:49.579,Velobody / Bikesale.com
+2,52628,David,Matthews,South Cle Elum,WA,3:49.579,Velobody / Bikesale.com
 2,276304,Nick,Duckstein,Seattle,WA,3:49.579,Velobody / Bikesale.com
 2,459409,Brynn,Ward,Mountlake Terrace,WA,3:49.579,Velobody / Bikesale.com
 
@@ -202,10 +202,10 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,51702,Joe,Baratto,Seattle,WA,1:26.755,Velobody / Bikesale.com
 1,195131,Mark,Hinman,Seattle,WA,1:26.755,Velobody / Bikesale.com
-1,52628,David,Matthews,Seattle,WA,1:26.755,Velobody / Bikesale.com
+1,52628,David,Matthews,South Cle Elum,WA,1:26.755,Velobody / Bikesale.com
 1,51702,Joe,Baratto,Seattle,WA,1:26.755,Velobody / Bikesale.com
 1,195131,Mark,Hinman,Seattle,WA,1:26.755,Velobody / Bikesale.com
-1,52628,David,Matthews,Seattle,WA,1:26.755,Velobody / Bikesale.com
+1,52628,David,Matthews,South Cle Elum,WA,1:26.755,Velobody / Bikesale.com
 2,48546,Mike,Rogers,Seattle,WA,1:28.888,Velobody / Bikesale.com
 2,157673,Scott,Petermeier,Seattle,WA,1:28.888,Velobody / Bikesale.com
 2,276304,Nick,Duckstein,Seattle,WA,1:28.888,Velobody / Bikesale.com
@@ -275,8 +275,8 @@ Place,License #,First,Last,City,State,Time,Team
 5,401816,Emmett,Culp,Portland,OR,0:05:13,Team Oregon presented by Laurelwood Brew
 6,369565,Nick,Martinez,Seattle,WA,0:05:14,Broadmark Capital
 7,367130,Rian,Rustvold,Kenmore,WA,0:05:25,Hagens Berman - EY Society
-8,515251,Joey,Domingues,Seattle,WA,0:05:57,0
-9,280035,Brennan,Lewis,Redmond,WA,0:06:35,unattached
+8,395032,Joey,Domingues,Seattle,WA,0:05:57,0
+9,280035,Brennan,Lewis,Bellevue,WA,0:06:35,unattached
 DNS,335620,Chris,Baker,Seattle,WA,,Corner 4 Racing
 
 08/26/2017 Individual Pursuit Men Junior 15-16
@@ -305,7 +305,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,70153,Steve,Bleifuhs,Mercer Island,WA,3:46.317,Center Cycle/Better Builders
 2,48546,Mike,Rogers,Seattle,WA,3:55.082,Velobody / Bikesale.com
-3,52628,David,Matthews,Seattle,WA,4:02.639,Velobody / Bikesale.com
+3,52628,David,Matthews,South Cle Elum,WA,4:02.639,Velobody / Bikesale.com
 4,256111,Erik,Selberg,Seattle,WA,5:42.762,Velobody / Bikesale.com
 
 08/26/2017 Individual Pursuit Men Master 50-54
@@ -347,7 +347,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 08/26/2017 Individual Pursuit Women Junior 17-18
 Place,License #,First,Last,City,State,Time,Team
-1,300335,Kira,Lewis,Redmond,WA,3:24.794,unattached
+1,300335,Kira,Lewis,Bellevue,WA,3:24.794,unattached
 
 08/26/2017 Individual Pursuit Women Master 55-59
 Place,License #,First,Last,City,State,Time,Team
@@ -367,8 +367,8 @@ Place,License #,First,Last,City,State,Time,Team
 2,0,Tyler,Davies,,,1:13.341,Tag  Race Team
 3,487434,Arthur,Schocken,Vancouver ,WA,1:13.391,HCH-RPM Mortgage
 4,361294,Brennan,Hodgins,Mercer Island,WA,1:15.927,Apex
-5,515251,Joey,Domingues,Seattle,WA,1:22.938,0
-6,280035,Brennan,Lewis,Redmond,WA,1:25.963,unattached
+5,395032,Joey,Domingues,Seattle,WA,1:22.938,0
+6,280035,Brennan,Lewis,Bellevue,WA,1:25.963,unattached
 
 08/26/2017 Individual Time Trial Men Junior 10-12
 Place,License #,First,Last,City,State,Time,Team
@@ -445,7 +445,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 08/26/2017 Individual Time Trial Women ELITE
 Place,License #,First,Last,City,State,Time,Team
-1,295914,Jennifer,Wheeler,Redmond,WA,38.800,Broadmark Capital Racing
+1,295914,Jennifer,Wheeler,Seattle,WA,38.800,Broadmark Capital Racing
 2,275900,Alexandra,McKay,Seattle,WA,39.000,Broadmark Capital Racing
 3,0,Brenna,Pauly,,,41.149,Tripleshot Performance Team
 4,459409,Brynn,Ward,Mountlake Terrace,WA,42.195,Velobody / Bikesale.com
@@ -465,7 +465,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 08/26/2017 Individual Time Trial Women Junior 17-18
 Place,License #,First,Last,City,State,Time,Team
-1,300335,Kira,Lewis,Redmond,WA,48.284,unattached
+1,300335,Kira,Lewis,Bellevue,WA,48.284,unattached
 
 08/26/2017 Individual Time Trial Women Master 35-39
 Place,License #,First,Last,City,State,Time,Team
@@ -493,7 +493,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,0,Keith,Bruneau,,,,Alete
 3,370153,Kent,Ross,Portland,OR,,HCH-RPM Mortgage
 4,29781,David,Richter,Seattle,WA,,Metier
-5,320408,Branden,Russell,Seattle,WA,,Metier Racing & Coffee
+5,320408,Branden,Russell,Maple Valley,WA,,Metier Racing & Coffee
 6,57046,Kenny,Williams,Kenmore,WA,,Center Cycle/Better Builders
 
 08/26/2017 Keirin Men junior 15-16
@@ -547,7 +547,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 08/26/2017 Keirin Men MASTER 60+
 Place,License #,First,Last,City,State,Time,Team
-1,45879,Billy,Rudnick,Bothell,WA,,Egencia
+1,45879,Billy,Rudnick,Lynnwood,WA,,Egencia
 2,0,Michael,Cooper,,,,Dr. Walker Sports Chiropractor Cycling Team
 3,324620,Curt,Johnson,Lake Forest Park,WA,,Dyna Racing
 4,287800,Steve,Thompson,Seattle,WA,,Velobody / Bikesale.com
@@ -557,7 +557,7 @@ Place,License #,First,Last,City,State,Time,Team
 08/26/2017 Keirin Women Elite
 Place,License #,First,Last,City,State,Time,Team
 1,71338,Annette,Williams,Kenmore,WA,,Center Cycle/Better Builders
-2,295914,Jennifer,Wheeler,Redmond,WA,,Broadmark Capital Racing
+2,295914,Jennifer,Wheeler,Seattle,WA,,Broadmark Capital Racing
 3,0,Sarah,Coney,,,,Fluevogs Crit Nasty
 4,459409,Brynn,Ward,Mountlake Terrace,WA,,Velobody / Bikesale.com
 5,170202,Amara,Edwards,Renton ,WA,,Gregg's
@@ -569,11 +569,11 @@ Place,License #,First,Last,City,State,Time,Team
 
 08/26/2017 Keirin Women junior 17-18
 Place,License #,First,Last,City,State,Time,Team
-1,300335,Kira,Lewis,Redmond,WA,,unattached
+1,300335,Kira,Lewis,Bellevue,WA,,unattached
 
 08/26/2017 Keirin Women Master 35+
 Place,License #,First,Last,City,State,Time,Team
-1,162455,Jane,Evely,Kent,OH,,Single Malt Velo
+1,162455,Jane,Evely,Carnation,WA,,Single Malt Velo
 
 08/26/2017 Points Race Men Elite
 Place,License #,First,Last,City,State,Time,Team
@@ -585,7 +585,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,361294,Brennan,Hodgins,Mercer Island,WA,,Apex
 7,401816,Emmett,Culp,Portland,OR,,Team Oregon presented by Laurelwood Brew
 8,309008,Andrew,Pryhuber,Seattle,WA,,SCCA Cycling
-9,320408,Branden,Russell,Seattle,WA,,Metier Racing & Coffee
+9,320408,Branden,Russell,Maple Valley,WA,,Metier Racing & Coffee
 10,220071,Dave,Chipchase,Dupont,WA,,SCCA Cycling
 DNS,287991,Steven,Wilssens,Kenmore,WA,,Velobody / Bikesale.com
 DNS,57046,Kenny,Williams,Kenmore,WA,,Center Cycle/Better Builders
@@ -668,7 +668,7 @@ DNS,481697,Kevin,Stone O'Brien,Issaquah,WA,,Egencia
 08/26/2017 Points Race Men Master 60-64
 Place,License #,First,Last,City,State,Time,Team
 1,0,Michael,Cooper,,,,Dr. Walker Sports Chiropractor Cycling Team
-2,45879,Billy,Rudnick,Bothell,WA,,Egencia
+2,45879,Billy,Rudnick,Lynnwood,WA,,Egencia
 3,324620,Curt,Johnson,Lake Forest Park,WA,,Dyna Racing
 DNS,287800,Steve,Thompson,Seattle,WA,,Velobody / Bikesale.com
 DNS,49537,Mark,Byrne,Lacey,WA,,Olympia Orthopaedic Associates
@@ -681,7 +681,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,71338,Annette,Williams,Kenmore,WA,,Center Cycle/Better Builders
 2,0,Sarah,Coney,,,,Fluevogs Crit Nasty
-3,295914,Jennifer,Wheeler,Redmond,WA,,Broadmark Capital Racing
+3,295914,Jennifer,Wheeler,Seattle,WA,,Broadmark Capital Racing
 4,0,Brenna,Pauly,,,,Tripleshot Performance Team
 5,459212,Annie,Gustafson,Kirkland,WA,,Velobody / Bikesale.com
 6,459409,Brynn,Ward,Mountlake Terrace,WA,,Velobody / Bikesale.com
@@ -703,11 +703,11 @@ Place,License #,First,Last,City,State,Time,Team
 
 08/26/2017 Points Race Women Junior 17-18
 Place,License #,First,Last,City,State,Time,Team
-DNS,300335,Kira,Lewis,Redmond,WA,,unattached
+DNS,300335,Kira,Lewis,Bellevue,WA,,unattached
 
 08/26/2017 Points Race Women Master 45-49
 Place,License #,First,Last,City,State,Time,Team
-DNS,162455,Jane,Evely,Kent,OH,,Single Malt Velo
+DNS,162455,Jane,Evely,Carnation,WA,,Single Malt Velo
 
 08/26/2017 Points Race Women Master 50-54
 Place,License #,First,Last,City,State,Time,Team
@@ -818,7 +818,7 @@ Place,License #,First,Last,City,State,Time,Team
 08/26/2017 Scratch Race Men MASTER 60-64
 Place,License #,First,Last,City,State,Time,Team
 1,0,Michael,Cooper,,,,Dr. Walker Sports Chiropractor Cycling Team
-2,45879,Billy,Rudnick,Bothell,WA,,Egencia
+2,45879,Billy,Rudnick,Lynnwood,WA,,Egencia
 3,324620,Curt,Johnson,Lake Forest Park,WA,,Dyna Racing
 4,287800,Steve,Thompson,Seattle,WA,,Velobody / Bikesale.com
 5,49537,Mark,Byrne,Lacey,WA,,Olympia Orthopaedic Associates
@@ -829,7 +829,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 08/26/2017 Scratch Race Women elite
 Place,License #,First,Last,City,State,Time,Team
-DNP,295914,Jennifer,Wheeler,Redmond,WA,,Broadmark Capital Racing
+DNP,295914,Jennifer,Wheeler,Seattle,WA,,Broadmark Capital Racing
 DNP,237346,Heather,Nielson,Seattle,WA,,Therapeutic Associates
 DNP,71338,Annette,Williams,Kenmore,WA,,Center Cycle/Better Builders
 DNP,0,Sarah,Coney,,,,Fluevogs Crit Nasty
@@ -854,11 +854,11 @@ Place,License #,First,Last,City,State,Time,Team
 
 08/26/2017 Scratch Race Women Junior 17-18
 Place,License #,First,Last,City,State,Time,Team
-1,300335,Kira,Lewis,Redmond,WA,,unattached
+1,300335,Kira,Lewis,Bellevue,WA,,unattached
 
 08/26/2017 Scratch Race Women MASTER 45-49
 Place,License #,First,Last,City,State,Time,Team
-DNP,162455,Jane,Evely,Kent,OH,,Single Malt Velo
+DNP,162455,Jane,Evely,Carnation,WA,,Single Malt Velo
 
 08/26/2017 Scratch Race Women MASTER 50-54
 Place,License #,First,Last,City,State,Time,Team
@@ -913,7 +913,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,311819,Eric,Cockrell,Seattle,WA,,Metier Racing & Coffee
 19,369565,Nick,Martinez,Seattle,WA,,Broadmark Capital
 20,367130,Rian,Rustvold,Kenmore,WA,,Hagens Berman - EY Society
-DNS,320408,Branden,Russell,Seattle,WA,,Metier Racing & Coffee
+DNS,320408,Branden,Russell,Maple Valley,WA,,Metier Racing & Coffee
 DNS,62837,Randy,Boettcher,Lake Forest Park,WA,,Single Malt Velo
 DNF,73676,Ingy,dot Net,Seattle,WA,,Metier
 
@@ -962,7 +962,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 08/25/2017 Points Race Men Master 60-64
 Place,License #,First,Last,City,State,Time,Team
-1,45879,Billy,Rudnick,Bothell,WA,,Egencia
+1,45879,Billy,Rudnick,Lynnwood,WA,,Egencia
 2,0,Michael,Cooper,,,,Dr. Walker Sports Chiropractor Cycling Team
 3,324620,Curt,Johnson,Lake Forest Park,WA,,Dyna Racing
 4,287800,Steve,Thompson,Seattle,WA,,Velobody / Bikesale.com
@@ -1002,7 +1002,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,459212,Annie,Gustafson,Kirkland,WA,,Velobody / Bikesale.com
 4,0,Brenna,Pauly,,,,Tripleshot Performance Team
 5,459409,Brynn,Ward,Mountlake Terrace,WA,,Velobody / Bikesale.com
-6,295914,Jennifer,Wheeler,Redmond,WA,,Broadmark Capital Racing
+6,295914,Jennifer,Wheeler,Seattle,WA,,Broadmark Capital Racing
 7,237346,Heather,Nielson,Seattle,WA,,Therapeutic Associates
 8,494507,Heather,Johnson,Portland,OR,,BRIHOP Cycling
 9,393079,Diane,Zaida,Seattle,WA,,0
@@ -1015,7 +1015,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 08/25/2017 Points Race Women Junior a
 Place,License #,First,Last,City,State,Time,Team
-DNF,300335,Kira,Lewis,Redmond,WA,,unattached
+DNF,300335,Kira,Lewis,Bellevue,WA,,unattached
 
 08/25/2017 Points Race Women Junior b
 Place,License #,First,Last,City,State,Time,Team
@@ -1041,7 +1041,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,220071,Dave,Chipchase,Dupont,WA,,SCCA Cycling
 7,151412,William Kirk,Robinson,Redmond,WA,,Single Malt Velo
 8,287991,Steven,Wilssens,Kenmore,WA,,Velobody / Bikesale.com
-9,320408,Branden,Russell,Seattle,WA,,Metier Racing & Coffee
+9,320408,Branden,Russell,Maple Valley,WA,,Metier Racing & Coffee
 10,335620,Chris,Baker,Seattle,WA,,Corner 4 Racing
 11,487434,Arthur,Schocken,Vancouver ,WA,,HCH-RPM Mortgage
 12,361294,Brennan,Hodgins,Mercer Island,WA,,Apex
@@ -1103,7 +1103,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,0,Michael,Cooper,,,,Dr. Walker Sports Chiropractor Cycling Team
 2,324620,Curt,Johnson,Lake Forest Park,WA,,Dyna Racing
-3,45879,Billy,Rudnick,Bothell,WA,,Egencia
+3,45879,Billy,Rudnick,Lynnwood,WA,,Egencia
 4,358082,Kevin,Van Hollebeke,Bothell,WA,,Go Grampa Go
 5,287800,Steve,Thompson,Seattle,WA,,Velobody / Bikesale.com
 
@@ -1123,7 +1123,7 @@ Place,License #,First,Last,City,State,Time,Team
 08/25/2017 Scratch Race Women ELITE
 Place,License #,First,Last,City,State,Time,Team
 1,71338,Annette,Williams,Kenmore,WA,,Center Cycle/Better Builders
-2,295914,Jennifer,Wheeler,Redmond,WA,,Broadmark Capital Racing
+2,295914,Jennifer,Wheeler,Seattle,WA,,Broadmark Capital Racing
 3,0,Sarah,Coney,,,,Fluevogs Crit Nasty
 4,459409,Brynn,Ward,Mountlake Terrace,WA,,Velobody / Bikesale.com
 5,459212,Annie,Gustafson,Kirkland,WA,,Velobody / Bikesale.com
@@ -1140,7 +1140,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 08/25/2017 Scratch Race Women Junior WA
 Place,License #,First,Last,City,State,Time,Team
-1,300335,Kira,Lewis,Redmond,WA,,unattached
+1,300335,Kira,Lewis,Bellevue,WA,,unattached
 
 08/25/2017 Scratch Race Women Junior WB
 Place,License #,First,Last,City,State,Time,Team

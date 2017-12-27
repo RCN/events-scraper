@@ -1,5 +1,292 @@
 [
   {
+    "permit": "2017-2299",
+    "name": "Mt Whitney Stage Race",
+    "dates": ["2017-08-26T07:00:00.000Z", "2017-08-27T07:00:00.000Z"],
+    "location": {
+      "cityState": "Lone Pine, CA",
+      "detailed": "Lone Pine, CA",
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/+Lone+Pine,+CA+93545,+USA"
+    },
+    "promoter": {
+      "club": "AntiGravity Cycling",
+      "raceDirector": "Steven Barnes",
+      "url": "https://usacycling.org/clubs/index.php?club=12627"
+    },
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=80&"
+  },
+  {
+    "permit": "2017-2555",
+    "name": "Henleyville Road Race",
+    "dates": ["2017-08-26T07:00:00.000Z"],
+    "location": {
+      "cityState": "Corning, CA",
+      "detailed": ["20351 Simpson Road", "Corning, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/20351+Simpson+Road+Corning,+CA+96021,+USA"
+    },
+    "promoter": {
+      "club": "Golden Chain Cyclists",
+      "raceDirector": "Robert Leibold",
+      "url": "https://usacycling.org/clubs/index.php?club=2568"
+    },
+    "eventWebSite": "http://www.velopromo.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=80&"
+  },
+  {
+    "permit": "2017-2576",
+    "name": "Esparto Time Trial",
+    "dates": ["2017-08-27T07:00:00.000Z"],
+    "location": {
+      "cityState": "Esparto, CA",
+      "detailed": ["86675 Plainsfield St.", "Esparto, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/86675+Plainsfield+St.+Esparto,+CA+95627,+USA"
+    },
+    "promoter": {
+      "club": "Golden Chain Cyclists",
+      "raceDirector": "Robert Leibold",
+      "url": "https://usacycling.org/clubs/index.php?club=2568"
+    },
+    "eventWebSite": "http://www.velopromo.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=80&"
+  },
+  {
+    "permit": "2017-2280",
+    "name":
+      "RED KITE CHAMPIONSHIP WEEKEND-2017 RED KITE AND NCNCA MASTERS/JUNIORS",
+    "dates": ["2017-09-02T07:00:00.000Z", "2017-09-03T07:00:00.000Z"],
+    "location": {
+      "cityState": "Pleasanton, CA",
+      "detailed": ["5000 Hopyard Road", "Pleasanton, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/5000+Hopyard+Road+Pleasanton,+CA+94588,+USA"
+    },
+    "promoter": {
+      "club": "Red Kite Racing",
+      "raceDirector": "Steve Rosefield",
+      "url": "https://usacycling.org/clubs/index.php?club=12690"
+    },
+    "eventWebSite": "http://www.redkiteracing.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=80&"
+  },
+  {
+    "permit": "2017-2356",
+    "name": "Giro Di San Francisco",
+    "dates": ["2017-09-04T07:00:00.000Z"],
+    "location": {
+      "cityState": "San Francisco, CA",
+      "detailed": ["Levi Strauss Plaza 1155 Battery St", "San Francisco, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/Levi+Strauss+Plaza+1155+Battery+St+++San+Francisco,+CA+94111,+USA"
+    },
+    "promoter": {
+      "club": "Golden Chain Cyclists",
+      "raceDirector": "Robert Leibold",
+      "url": "https://usacycling.org/clubs/index.php?club=2568"
+    },
+    "eventWebSite": "http://www.velopromo.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=80&"
+  },
+  {
+    "permit": "2017-2461",
+    "name": "JACKSON HISTORIC DOWNTOWN CRITERIUM",
+    "dates": ["2017-09-09T07:00:00.000Z"],
+    "location": {
+      "cityState": "Jackson, CA",
+      "detailed": ["175 Main Street", "Jackson, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/175+Main+Street+Jackson,+CA+95642,+USA"
+    },
+    "promoter": {
+      "club": "Red Kite Racing",
+      "raceDirector": "Steve Rosefield",
+      "url": "https://usacycling.org/clubs/index.php?club=12690"
+    },
+    "eventWebSite":
+      "http://www.bikereg.com/jackson-historic-downtown-criterium",
+    "status": "Complete",
+    "usacCategory": "Category - D",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=80&"
+  },
+  {
+    "permit": "2017-2643",
+    "name": "Oakland Grand Prix",
+    "dates": ["2017-09-17T07:00:00.000Z"],
+    "location": {
+      "cityState": "Oakland, CA, CA",
+      "detailed": ["20th and Harrison", "Oakland, CA, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/20th+and+Harrison+Oakland,+CA,+CA+94607,+USA"
+    },
+    "promoter": {
+      "club": "Golden Chain Cyclists",
+      "raceDirector": "Robert Leibold",
+      "url": "https://usacycling.org/clubs/index.php?club=2568"
+    },
+    "eventWebSite": "http://www.velopromo.com",
+    "status": "Complete",
+    "usacCategory": "Category - D",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=80&"
+  },
+  {
+    "permit": "2017-2735",
+    "name": "Cycle With Champions",
+    "dates": ["2017-10-08T07:00:00.000Z"],
+    "location": {
+      "cityState": "Santa Rosa, CA",
+      "detailed": ["4400 Day School Place,", "Santa Rosa, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/4400+Day+School+Place,+Santa+Rosa,+CA+95403,+USA"
+    },
+    "promoter": {
+      "club": "Team Swift",
+      "raceDirector": "Laura Charameda",
+      "url": "https://usacycling.org/clubs/index.php?club=10356"
+    },
+    "eventWebSite": "http://www.teamswift.org",
+    "status": "Complete",
+    "usacCategory": "Category - F",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Fun",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2017-2472",
+    "name": "Bikes for Kids Charity Ride",
+    "dates": ["2017-10-14T07:00:00.000Z"],
+    "location": {
+      "cityState": "Oakdale , CA",
+      "detailed": ["445 E F st", "Oakdale , CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/445+E+F+st++Oakdale+,+CA+95361,+USA"
+    },
+    "promoter": {
+      "club": "Bell Real Estate Cycling",
+      "raceDirector": "Robert Bell",
+      "url": "https://usacycling.org/clubs/index.php?club=14700"
+    },
+    "eventWebSite": "http://www.bikesforkids.bike",
+    "status": "Complete",
+    "usacCategory": "Category - F",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Fun",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2017-2716",
+    "name": "California Challenge",
+    "dates": ["2017-10-14T07:00:00.000Z", "2017-10-21T07:00:00.000Z"],
+    "location": {
+      "cityState": "San Francisco, CA",
+      "detailed": "San Francisco, CA",
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/+San+Francisco,+CA+94087,+USA"
+    },
+    "promoter": {
+      "club": "Project Hero",
+      "raceDirector": "Joseph Coddington",
+      "url": "https://usacycling.org/clubs/index.php?club=13438"
+    },
+    "status": "Complete",
+    "usacCategory": "Category - G",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=80&"
+  },
+  {
+    "permit": "2017-2988",
+    "name": "Death Valley National Park Tour",
+    "dates": ["2017-11-12T08:00:00.000Z", "2017-11-17T08:00:00.000Z"],
+    "location": {
+      "cityState": "Death Valley, CA",
+      "detailed": ["Highway 190", "Death Valley, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/Highway+190+Death+Valley,+CA+92328,+USA"
+    },
+    "promoter": {
+      "club": "USA Cycling Race Director",
+      "raceDirector": "Erica Gratton",
+      "url": "https://usacycling.org/clubs/index.php?club=14196"
+    },
+    "eventWebSite":
+      "http://www.cyclingescapes.com/bicycletours/california/deathvalley/biketour.html",
+    "status": "Complete",
+    "usacCategory": "Category - F",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Fun",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+  },
+  {
     "permit": "2017-150",
     "name": "2017 San Bruno Mountain Hill Climb",
     "dates": ["2017-01-01T08:00:00.000Z"],
@@ -23,7 +310,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-291",
@@ -49,7 +336,7 @@
     "usacEventType": "",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-325",
@@ -75,7 +362,7 @@
     "usacEventType": "",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-137",
@@ -101,7 +388,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-314",
@@ -126,7 +413,7 @@
     "usacEventType": "Fun",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-582",
@@ -152,7 +439,7 @@
     "usacEventType": "",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-211",
@@ -177,7 +464,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-203",
@@ -190,7 +477,7 @@
         "http://maps.google.com/maps/place/+Folsom,+CA+95630,+USA"
     },
     "promoter": {
-      "club": "Sierra Nevada/Reliable Racing p/b Kinetic Cycles",
+      "club": "Sierra Nevada/Reliable Racing p/b Folsom Bike",
       "raceDirector": "Chad Richards",
       "url": "https://usacycling.org/clubs/index.php?club=9895"
     },
@@ -202,7 +489,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-399",
@@ -228,12 +515,12 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-69",
     "name": "Laurel Green Coaching Clinic 2017",
-    "dates": ["2017-02-11T08:00:00.000Z", "2017-04-01T07:00:00.000Z"],
+    "dates": ["2017-02-11T08:00:00.000Z", "2017-12-30T08:00:00.000Z"],
     "location": {
       "cityState": "Rohnert, CA",
       "detailed": ["Rohnert Park", "Rohnert, CA"],
@@ -246,7 +533,7 @@
       "url": "https://usacycling.org/clubs/index.php?club=13940"
     },
     "eventWebSite": "http://shespokeracing.org",
-    "status": "Complete",
+    "status": "Permitted",
     "usacCategory": "Category - G",
     "year": 2017,
     "state": "CN",
@@ -254,7 +541,7 @@
     "usacEventType": "",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-361",
@@ -280,7 +567,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-778",
@@ -298,7 +585,7 @@
       "url": "https://usacycling.org/clubs/index.php?club=14829"
     },
     "eventWebSite": "http://www.cccxcycling.com",
-    "status": "Permitted",
+    "status": "Complete",
     "usacCategory": "Category - E",
     "year": 2017,
     "state": "CN",
@@ -306,7 +593,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-485",
@@ -331,7 +618,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-439",
@@ -357,7 +644,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-428",
@@ -383,7 +670,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-430",
@@ -408,7 +695,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-436",
@@ -434,7 +721,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-831",
@@ -458,7 +745,7 @@
     "usacEventType": "Fun",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-931",
@@ -484,7 +771,7 @@
     "usacEventType": "",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-592",
@@ -513,7 +800,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-593",
@@ -539,7 +826,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=20&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=20&"
   },
   {
     "permit": "2017-690",
@@ -564,7 +851,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=20&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=20&"
   },
   {
     "permit": "2017-936",
@@ -590,7 +877,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=20&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=20&"
   },
   {
     "permit": "2017-522",
@@ -616,7 +903,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=20&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=20&"
   },
   {
     "permit": "2017-1166",
@@ -630,7 +917,7 @@
     },
     "promoter": {
       "club": "University of California-Santa Cruz",
-      "raceDirector": "Walker  Busby",
+      "raceDirector": "Walker Busby",
       "url": "https://usacycling.org/clubs/index.php?club=3622"
     },
     "eventWebSite":
@@ -643,7 +930,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=20&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=20&"
   },
   {
     "permit": "2017-523",
@@ -669,7 +956,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=20&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=20&"
   },
   {
     "permit": "2017-524",
@@ -695,7 +982,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=20&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=20&"
   },
   {
     "permit": "2017-932",
@@ -721,7 +1008,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=20&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=20&"
   },
   {
     "permit": "2017-825",
@@ -746,7 +1033,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=20&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=20&"
   },
   {
     "permit": "2017-734",
@@ -773,7 +1060,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=20&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=20&"
   },
   {
     "permit": "2017-1017",
@@ -799,7 +1086,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=20&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=20&"
   },
   {
     "permit": "2017-671",
@@ -825,7 +1112,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=20&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=20&"
   },
   {
     "permit": "2017-908",
@@ -851,7 +1138,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=20&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=20&"
   },
   {
     "permit": "2017-937",
@@ -877,7 +1164,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=20&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=20&"
   },
   {
     "permit": "2017-237",
@@ -903,7 +1190,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=20&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=20&"
   },
   {
     "permit": "2017-238",
@@ -929,7 +1216,7 @@
     "usacEventType": "Fun",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-742",
@@ -955,7 +1242,7 @@
     "usacEventType": "Fun",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-525",
@@ -981,7 +1268,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=20&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=20&"
   },
   {
     "permit": "2017-166",
@@ -1007,7 +1294,7 @@
     "usacEventType": "Fun",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-1060",
@@ -1033,7 +1320,629 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=20&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=20&"
+  },
+  {
+    "permit": "2017-1762",
+    "name": "FFWD WNTL p/b Vie13 2017",
+    "dates": ["2017-05-10T07:00:00.000Z", "2017-08-23T07:00:00.000Z"],
+    "location": {
+      "cityState": "San Jose, CA",
+      "detailed": ["Hellyer County Park Velodrome", "San Jose, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/Hellyer+County+Park+Velodrome+San+Jose,+CA+95111,+USA"
+    },
+    "promoter": {
+      "club": "Performance Cycle Coaching",
+      "raceDirector": "Daryl Hemenway",
+      "url": "https://usacycling.org/clubs/index.php?club=15066"
+    },
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Track",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Track&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2017-1176",
+    "name": "NCNCA Elite Track TT & Sprint Championships",
+    "dates": ["2017-07-08T07:00:00.000Z", "2017-07-09T07:00:00.000Z"],
+    "location": {
+      "cityState": "San Jose, CA",
+      "detailed": ["985 Hellyer Ave", "San Jose, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/985+Hellyer+Ave+San+Jose,+CA+95111,+USA"
+    },
+    "promoter": {
+      "club": "USA Cycling Race Director",
+      "raceDirector": "USA Cycling Race Director",
+      "url": "https://usacycling.org/clubs/index.php?club=14196"
+    },
+    "eventWebSite": "http://ridethetrack.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Track",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Track&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2017-2070",
+    "name": "NCNCA Junior Track Championship",
+    "dates": ["2017-07-22T07:00:00.000Z"],
+    "location": {
+      "cityState": "San Jose, CA",
+      "detailed": ["985 Hellyer Ave", "San Jose, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/985+Hellyer+Ave+San+Jose,+CA+95111,+USA"
+    },
+    "promoter": {
+      "club": "San Jose Bicycle Club",
+      "raceDirector": "Andrew Lanier",
+      "url": "https://usacycling.org/clubs/index.php?club=249"
+    },
+    "eventWebSite": "http://ridethetrack.com",
+    "status": "Complete",
+    "usacCategory": "Category - D",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Track",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Track&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2017-1178",
+    "name": "NCNCA Master Track Championships",
+    "dates": ["2017-09-09T07:00:00.000Z", "2017-09-10T07:00:00.000Z"],
+    "location": {
+      "cityState": "San Jose, CA",
+      "detailed": ["995 Hellyer Ave.", "San Jose, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/995+Hellyer+Ave.++San+Jose,+CA+95111,+USA"
+    },
+    "promoter": {
+      "club": "USA Cycling Race Director",
+      "raceDirector": "USA Cycling Race Director",
+      "url": "https://usacycling.org/clubs/index.php?club=14196"
+    },
+    "eventWebSite": "http://ridethetrack.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Track",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Track&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2017-1620",
+    "name": "57th Annual Nevada City Bicycle Classic",
+    "dates": ["2017-06-18T07:00:00.000Z"],
+    "location": {
+      "cityState": "Nevada City, CA",
+      "detailed": ["503 Sacramento St.", "Nevada City, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/503+Sacramento+St.+Nevada+City,+CA+95959,+USA"
+    },
+    "promoter": {
+      "club": "ol'Republic/SERT",
+      "raceDirector": "Duane Strawser",
+      "url": "https://usacycling.org/clubs/index.php?club=8943"
+    },
+    "eventWebSite": "http://nevadacityclassic.com",
+    "status": "Complete",
+    "usacCategory": "Category - B",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
+  },
+  {
+    "permit": "2017-1397",
+    "name": "Auburn Downtown Criterium",
+    "dates": ["2017-06-25T07:00:00.000Z"],
+    "location": {
+      "cityState": "Auburn, CA",
+      "detailed": ["835 Lincoln Way", "Auburn, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/835+Lincoln+Way+Auburn,+CA+95603,+USA"
+    },
+    "promoter": {
+      "club": "Victory Velo Racing",
+      "raceDirector": "Clinton Claassen",
+      "url": "https://usacycling.org/clubs/index.php?club=11905"
+    },
+    "eventWebSite": "http://www.auburndowntowncrit.com",
+    "status": "Complete",
+    "usacCategory": "Category - D",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
+  },
+  {
+    "permit": "2017-1420",
+    "name": "The Parnassus Investments Burlingame Criterium",
+    "dates": ["2017-06-25T07:00:00.000Z"],
+    "location": {
+      "cityState": "Burlingame , CA",
+      "detailed": ["501 Primrose Road", "Burlingame , CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/501+Primrose+Road+Burlingame+,+CA+94010,+USA"
+    },
+    "promoter": {
+      "club": "Peninsula Velo Cycling Club",
+      "raceDirector": "Travis Ma",
+      "url": "https://usacycling.org/clubs/index.php?club=327"
+    },
+    "eventWebSite": "http://www.burlingamecriterium.com",
+    "status": "Complete",
+    "usacCategory": "Category - D",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
+  },
+  {
+    "permit": "2017-1919",
+    "name": "Lodoga Road Race (Formerly Leesville)",
+    "dates": ["2017-07-02T07:00:00.000Z"],
+    "location": {
+      "cityState": "Williams, CA",
+      "detailed": ["11th St at B St", "Williams, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/11th+St+at+B+St+Williams,+CA+95987,+USA"
+    },
+    "promoter": {
+      "club": "Golden Chain Cyclists",
+      "raceDirector": "Robert Leibold",
+      "url": "https://usacycling.org/clubs/index.php?club=2568"
+    },
+    "eventWebSite": "http://www.velopromo.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
+  },
+  {
+    "permit": "2017-1935",
+    "name": "Davis Bike Club 4th of July Criterium",
+    "dates": ["2017-07-04T07:00:00.000Z"],
+    "location": {
+      "cityState": "Davis, CA",
+      "detailed": "Davis, CA",
+      "googleMapsUrl": "http://maps.google.com/maps/place/+Davis,+CA+95616,+USA"
+    },
+    "promoter": {
+      "club": "Davis Bike Club",
+      "raceDirector": "Jason Eiserich",
+      "url": "https://usacycling.org/clubs/index.php?club=507"
+    },
+    "eventWebSite": "http://dbcraceteam.org",
+    "status": "Complete",
+    "usacCategory": "Category - D",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
+  },
+  {
+    "permit": "2017-1921",
+    "name": "Watsonville Criterium",
+    "dates": ["2017-07-08T07:00:00.000Z"],
+    "location": {
+      "cityState": "Watsonville, CA",
+      "detailed": ["201 Brewington Ave", "Watsonville, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/201+Brewington+Ave+Watsonville,+CA+95076,+USA"
+    },
+    "promoter": {
+      "club": "Golden Chain Cyclists",
+      "raceDirector": "Robert Leibold",
+      "url": "https://usacycling.org/clubs/index.php?club=2568"
+    },
+    "eventWebSite": "http://www.velopromo.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
+  },
+  {
+    "permit": "2017-2095",
+    "name": "2017 RKO#9 - RED KITE CRITERIUM (July)",
+    "dates": ["2017-07-09T07:00:00.000Z"],
+    "location": {
+      "cityState": "Livermore, CA",
+      "detailed": ["448 Comerce Way", "Livermore, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/448+Comerce+Way+Livermore,+CA+94551,+USA"
+    },
+    "promoter": {
+      "club": "Red Kite Racing",
+      "raceDirector": "Steve Rosefield",
+      "url": "https://usacycling.org/clubs/index.php?club=12690"
+    },
+    "eventWebSite": "http://www.redkiteracing.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
+  },
+  {
+    "permit": "2017-1418",
+    "name":
+      "RPP Hobby Lakeport Downtown Criterium presented by Conser Land Surveyi",
+    "dates": ["2017-07-15T07:00:00.000Z"],
+    "location": {
+      "cityState": "Lakeport, CA",
+      "detailed": "Lakeport, CA",
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/+Lakeport,+CA+95453,+USA"
+    },
+    "promoter": {
+      "club": "Main Street Elite p/b Main Street Bicycles",
+      "raceDirector": "David Garzoli",
+      "url": "https://usacycling.org/clubs/index.php?club=16561"
+    },
+    "eventWebSite": "http://www.lakeportcrit.com",
+    "status": "Complete",
+    "usacCategory": "Category - D",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
+  },
+  {
+    "permit": "2017-1992",
+    "name": "Colavita Norcal Grand Prix",
+    "dates": ["2017-07-16T07:00:00.000Z"],
+    "location": {
+      "cityState": "Rohnert Park, CA",
+      "detailed": ["1100 Valley House Dr", "Rohnert Park, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/1100+Valley+House+Dr+Rohnert+Park,+CA+94928,+USA"
+    },
+    "promoter": {
+      "club": "Colavita Racing, Inc.",
+      "raceDirector": "Phillip Heiman",
+      "url": "https://usacycling.org/clubs/index.php?club=10022"
+    },
+    "status": "Complete",
+    "usacCategory": "Category - D",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
+  },
+  {
+    "permit": "2017-2277",
+    "name": "2017-RKO#10 - CROSSFIRE HURRICANE HILL CLIMB CHALLENGE",
+    "dates": ["2017-07-22T07:00:00.000Z"],
+    "location": {
+      "cityState": "Livermore, CA",
+      "detailed": "Livermore, CA",
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/+Livermore,+CA+94551,+USA"
+    },
+    "promoter": {
+      "club": "Red Kite Racing",
+      "raceDirector": "Steve Rosefield",
+      "url": "https://usacycling.org/clubs/index.php?club=12690"
+    },
+    "eventWebSite": "http://www.redkiteracing.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
+  },
+  {
+    "permit": "2017-2181",
+    "name": "2017 RKO#11 - THE BUMP CIRCUIT RACE (SUMMER)",
+    "dates": ["2017-07-23T07:00:00.000Z"],
+    "location": {
+      "cityState": "Livermore, CA",
+      "detailed": ["1575 Greenville Road", "Livermore, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/1575+Greenville+Road+Livermore,+CA+94550,+USA"
+    },
+    "promoter": {
+      "club": "Red Kite Racing",
+      "raceDirector": "ChristianCycling",
+      "url": "https://usacycling.org/clubs/index.php?club=12690"
+    },
+    "eventWebSite": "http://www.redkiteracing.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
+  },
+  {
+    "permit": "2017-1995",
+    "name": "San Rafael Sunset Criterium",
+    "dates": ["2017-07-29T07:00:00.000Z"],
+    "location": {
+      "cityState": "San Rafael, CA",
+      "detailed": ["4th &amp; C St, San Rafael", "San Rafael, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/4th+&+C+St,+San+Rafael+San+Rafael,+CA+94901,+USA"
+    },
+    "promoter": {
+      "club": "Team Mikes Bikes p/b Equator Coffees",
+      "raceDirector": "Ravinder Rajcoomar",
+      "url": "https://usacycling.org/clubs/index.php?club=13460"
+    },
+    "eventWebSite": "http://www.sanrafaelsunset.com/",
+    "status": "Complete",
+    "usacCategory": "Category - D",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
+  },
+  {
+    "permit": "2017-2242",
+    "name": "2017 RED KITE OMNIUM EVENT #12 - 33RD ANNUAL ALBANY CRITERIUM",
+    "dates": ["2017-07-30T07:00:00.000Z"],
+    "location": {
+      "cityState": "Albany, CA",
+      "detailed": ["1325 Portland Avenue", "Albany, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/1325+Portland+Avenue+Albany,+CA+94706,+USA"
+    },
+    "promoter": {
+      "club": "Red Kite Racing",
+      "raceDirector": "Steve Rosefield",
+      "url": "https://usacycling.org/clubs/index.php?club=12690"
+    },
+    "eventWebSite": "http://www.redkiteracing.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
+  },
+  {
+    "permit": "2017-2341",
+    "name": "Patterson Pass Road Race",
+    "dates": ["2017-08-05T07:00:00.000Z"],
+    "location": {
+      "cityState": "Tracy, CA",
+      "detailed": ["16116 Patterson Pass Road at Midway Road", "Tracy, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/16116+Patterson+Pass+Road+at+Midway+Road+Tracy,+CA+95376,+USA"
+    },
+    "promoter": {
+      "club": "Golden Chain Cyclists",
+      "raceDirector": "Robert Leibold",
+      "url": "https://usacycling.org/clubs/index.php?club=2568"
+    },
+    "eventWebSite": "http://www.velopromo.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
+  },
+  {
+    "permit": "2017-2278",
+    "name": "2017 RKO#13 - RED KITE CRITERIUM (AUGUST)",
+    "dates": ["2017-08-06T07:00:00.000Z"],
+    "location": {
+      "cityState": "Livermore, CA",
+      "detailed": ["448 Comerce Way", "Livermore, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/448+Comerce+Way+Livermore,+CA+94551,+USA"
+    },
+    "promoter": {
+      "club": "Red Kite Racing",
+      "raceDirector": "Steve Rosefield",
+      "url": "https://usacycling.org/clubs/index.php?club=12690"
+    },
+    "eventWebSite": "http://www.redkiteracing.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
+  },
+  {
+    "permit": "2017-2344",
+    "name": "Dunnigan Hills Road Race",
+    "dates": ["2017-08-12T07:00:00.000Z"],
+    "location": {
+      "cityState": "Dunnigan, CA",
+      "detailed": "Dunnigan, CA",
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/+Dunnigan,+CA+95937,+USA"
+    },
+    "promoter": {
+      "club": "Golden Chain Cyclists",
+      "raceDirector": "Robert Leibold",
+      "url": "https://usacycling.org/clubs/index.php?club=2568"
+    },
+    "eventWebSite": "http://www.velopromo.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
+  },
+  {
+    "permit": "2017-2343",
+    "name": "Suisun Harbor Criterium",
+    "dates": ["2017-08-13T07:00:00.000Z"],
+    "location": {
+      "cityState": "Suisun City, CA",
+      "detailed": ["Main Street at California Street", "Suisun City, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/Main+Street+at+California+Street+Suisun+City,+CA+94585,+USA"
+    },
+    "promoter": {
+      "club": "Golden Chain Cyclists",
+      "raceDirector": "Robert Leibold",
+      "url": "https://usacycling.org/clubs/index.php?club=2568"
+    },
+    "eventWebSite": "http://www.velopromo.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
+  },
+  {
+    "permit": "2017-2354",
+    "name": "San Ardo Road Race",
+    "dates": ["2017-08-19T07:00:00.000Z"],
+    "location": {
+      "cityState": "San Ardo, CA",
+      "detailed": ["San Ardo, CA  93450", "San Ardo, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/San+Ardo,+CA++93450+San+Ardo,+CA+93450,+USA"
+    },
+    "promoter": {
+      "club": "Golden Chain Cyclists",
+      "raceDirector": "Robert Leibold",
+      "url": "https://usacycling.org/clubs/index.php?club=2568"
+    },
+    "eventWebSite": "http://www.velopromo.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
+  },
+  {
+    "permit": "2017-2279",
+    "name": "2017 RKO#14 - TEMPUS FUGIT INDIVIDUAL TIME TRIAL (SUMMER)",
+    "dates": ["2017-08-20T07:00:00.000Z"],
+    "location": {
+      "cityState": "Castro Valley, CA",
+      "detailed": "Castro Valley, CA",
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/+Castro+Valley,+CA+94546,+USA"
+    },
+    "promoter": {
+      "club": "Red Kite Racing",
+      "raceDirector": "Steve Rosefield",
+      "url": "https://usacycling.org/clubs/index.php?club=12690"
+    },
+    "eventWebSite": "http://www.redkiteracing.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
+  },
+  {
+    "permit": "2017-2355",
+    "name": "University Road Race",
+    "dates": ["2017-08-20T07:00:00.000Z"],
+    "location": {
+      "cityState": "Santa Cruz, CA",
+      "detailed": ["1156 High Street", "Santa Cruz, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/1156+High+Street+Santa+Cruz,+CA+95064,+USA"
+    },
+    "promoter": {
+      "club": "Golden Chain Cyclists",
+      "raceDirector": "Robert Leibold",
+      "url": "https://usacycling.org/clubs/index.php?club=2568"
+    },
+    "eventWebSite": "http://www.velopromo.com",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
   },
   {
     "permit": "2017-496",
@@ -1059,7 +1968,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=40&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=40&"
   },
   {
     "permit": "2017-938",
@@ -1077,7 +1986,7 @@
       "url": "https://usacycling.org/clubs/index.php?club=2568"
     },
     "eventWebSite": "http://www.velopromo.com",
-    "status": "Permitted",
+    "status": "Complete",
     "usacCategory": "Category - G",
     "year": 2017,
     "state": "CN",
@@ -1085,7 +1994,7 @@
     "usacEventType": "",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=40&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=40&"
   },
   {
     "permit": "2017-785",
@@ -1111,7 +2020,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=40&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=40&"
   },
   {
     "permit": "2017-1198",
@@ -1137,7 +2046,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=40&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=40&"
   },
   {
     "permit": "2017-1267",
@@ -1163,7 +2072,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=40&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=40&"
   },
   {
     "permit": "2017-340",
@@ -1190,7 +2099,7 @@
     "usacEventType": "Fun",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-1681",
@@ -1216,7 +2125,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=40&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=40&"
   },
   {
     "permit": "2017-1215",
@@ -1242,7 +2151,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=40&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=40&"
   },
   {
     "permit": "2017-1216",
@@ -1268,7 +2177,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=40&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=40&"
   },
   {
     "permit": "2017-662",
@@ -1281,7 +2190,7 @@
         "http://maps.google.com/maps/place/181+Blue+Ravine+Rd.+Folsom,+CA+95630,+USA"
     },
     "promoter": {
-      "club": "Sierra Nevada/Reliable Racing p/b Kinetic Cycles",
+      "club": "Sierra Nevada/Reliable Racing p/b Folsom Bike",
       "raceDirector": "Chad Richards",
       "url": "https://usacycling.org/clubs/index.php?club=9895"
     },
@@ -1294,7 +2203,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=40&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=40&"
   },
   {
     "permit": "2017-1142",
@@ -1324,7 +2233,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=40&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=40&"
   },
   {
     "permit": "2017-1964",
@@ -1351,7 +2260,7 @@
     "usacEventType": "Fun",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-280",
@@ -1365,7 +2274,7 @@
     },
     "promoter": {
       "club": "Alto Velo Racing Club",
-      "raceDirector": "Mark  Howard",
+      "raceDirector": "Mark Howard",
       "url": "https://usacycling.org/clubs/index.php?club=3178"
     },
     "eventWebSite": "http://www.altovelo.org/pescadero",
@@ -1377,7 +2286,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=40&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=40&"
   },
   {
     "permit": "2017-1788",
@@ -1403,7 +2312,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=40&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=40&"
   },
   {
     "permit": "2017-1722",
@@ -1429,7 +2338,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=40&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=40&"
   },
   {
     "permit": "2017-1857",
@@ -1455,7 +2364,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=40&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=40&"
   },
   {
     "permit": "2017-1465",
@@ -1481,7 +2390,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=40&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=40&"
   },
   {
     "permit": "2017-1937",
@@ -1507,7 +2416,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=40&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=40&"
   },
   {
     "permit": "2017-2031",
@@ -1533,7 +2442,7 @@
     "usacEventType": "Fun",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-2032",
@@ -1559,949 +2468,12 @@
     "usacEventType": "Fun",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
-  },
-  {
-    "permit": "2017-1620",
-    "name": "57th Annual Nevada City Bicycle Classic",
-    "dates": ["2017-06-18T07:00:00.000Z"],
-    "location": {
-      "cityState": "Nevada City, CA",
-      "detailed": ["503 Sacramento St.", "Nevada City, CA"],
-      "googleMapsUrl":
-        "http://maps.google.com/maps/place/503+Sacramento+St.+Nevada+City,+CA+95959,+USA"
-    },
-    "promoter": {
-      "club": "ol'Republic/SERT",
-      "raceDirector": "Duane Strawser",
-      "url": "https://usacycling.org/clubs/index.php?club=8943"
-    },
-    "eventWebSite": "http://nevadacityclassic.com",
-    "status": "Complete",
-    "usacCategory": "Category - B",
-    "year": 2017,
-    "state": "CN",
-    "discipline": "Road",
-    "usacEventType": "Results & Ranking",
-    "competitive": "competitive",
-    "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
-  },
-  {
-    "permit": "2017-1397",
-    "name": "Auburn Downtown Criterium",
-    "dates": ["2017-06-25T07:00:00.000Z"],
-    "location": {
-      "cityState": "Auburn, CA",
-      "detailed": ["835 Lincoln Way", "Auburn, CA"],
-      "googleMapsUrl":
-        "http://maps.google.com/maps/place/835+Lincoln+Way+Auburn,+CA+95603,+USA"
-    },
-    "promoter": {
-      "club": "Victory Velo Racing",
-      "raceDirector": "Clinton Claassen",
-      "url": "https://usacycling.org/clubs/index.php?club=11905"
-    },
-    "eventWebSite": "http://www.auburndowntowncrit.com",
-    "status": "Complete",
-    "usacCategory": "Category - D",
-    "year": 2017,
-    "state": "CN",
-    "discipline": "Road",
-    "usacEventType": "Results & Ranking",
-    "competitive": "competitive",
-    "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
-  },
-  {
-    "permit": "2017-1420",
-    "name": "The Parnassus Investments Burlingame Criterium",
-    "dates": ["2017-06-25T07:00:00.000Z"],
-    "location": {
-      "cityState": "Burlingame , CA",
-      "detailed": ["501 Primrose Road", "Burlingame , CA"],
-      "googleMapsUrl":
-        "http://maps.google.com/maps/place/501+Primrose+Road+Burlingame+,+CA+94010,+USA"
-    },
-    "promoter": {
-      "club": "Peninsula Velo Cycling Club",
-      "raceDirector": "Travis Ma",
-      "url": "https://usacycling.org/clubs/index.php?club=327"
-    },
-    "eventWebSite": "http://www.burlingamecriterium.com",
-    "status": "Complete",
-    "usacCategory": "Category - D",
-    "year": 2017,
-    "state": "CN",
-    "discipline": "Road",
-    "usacEventType": "Results & Ranking",
-    "competitive": "competitive",
-    "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
-  },
-  {
-    "permit": "2017-1919",
-    "name": "Lodoga Road Race (Formerly Leesville)",
-    "dates": ["2017-07-02T07:00:00.000Z"],
-    "location": {
-      "cityState": "Williams, CA",
-      "detailed": ["11th St at B St", "Williams, CA"],
-      "googleMapsUrl":
-        "http://maps.google.com/maps/place/11th+St+at+B+St+Williams,+CA+95987,+USA"
-    },
-    "promoter": {
-      "club": "Golden Chain Cyclists",
-      "raceDirector": "Robert Leibold",
-      "url": "https://usacycling.org/clubs/index.php?club=2568"
-    },
-    "eventWebSite": "http://www.velopromo.com",
-    "status": "Complete",
-    "usacCategory": "Category - E",
-    "year": 2017,
-    "state": "CN",
-    "discipline": "Road",
-    "usacEventType": "Results & Ranking",
-    "competitive": "competitive",
-    "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
-  },
-  {
-    "permit": "2017-1935",
-    "name": "Davis Bike Club 4th of July Criterium",
-    "dates": ["2017-07-04T07:00:00.000Z"],
-    "location": {
-      "cityState": "Davis, CA",
-      "detailed": "Davis, CA",
-      "googleMapsUrl": "http://maps.google.com/maps/place/+Davis,+CA+95616,+USA"
-    },
-    "promoter": {
-      "club": "Davis Bike Club",
-      "raceDirector": "Jason Eiserich",
-      "url": "https://usacycling.org/clubs/index.php?club=507"
-    },
-    "eventWebSite": "http://dbcraceteam.org",
-    "status": "Complete",
-    "usacCategory": "Category - D",
-    "year": 2017,
-    "state": "CN",
-    "discipline": "Road",
-    "usacEventType": "Results & Ranking",
-    "competitive": "competitive",
-    "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
-  },
-  {
-    "permit": "2017-1921",
-    "name": "Watsonville Criterium",
-    "dates": ["2017-07-08T07:00:00.000Z"],
-    "location": {
-      "cityState": "Watsonville, CA",
-      "detailed": ["201 Brewington Ave", "Watsonville, CA"],
-      "googleMapsUrl":
-        "http://maps.google.com/maps/place/201+Brewington+Ave+Watsonville,+CA+95076,+USA"
-    },
-    "promoter": {
-      "club": "Golden Chain Cyclists",
-      "raceDirector": "Robert Leibold",
-      "url": "https://usacycling.org/clubs/index.php?club=2568"
-    },
-    "eventWebSite": "http://www.velopromo.com",
-    "status": "Complete",
-    "usacCategory": "Category - E",
-    "year": 2017,
-    "state": "CN",
-    "discipline": "Road",
-    "usacEventType": "Results & Ranking",
-    "competitive": "competitive",
-    "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
-  },
-  {
-    "permit": "2017-2095",
-    "name": "2017 RKO#9 - RED KITE CRITERIUM (July)",
-    "dates": ["2017-07-09T07:00:00.000Z"],
-    "location": {
-      "cityState": "Livermore, CA",
-      "detailed": ["448 Comerce Way", "Livermore, CA"],
-      "googleMapsUrl":
-        "http://maps.google.com/maps/place/448+Comerce+Way+Livermore,+CA+94551,+USA"
-    },
-    "promoter": {
-      "club": "Red Kite Racing",
-      "raceDirector": "Steve Rosefield",
-      "url": "https://usacycling.org/clubs/index.php?club=12690"
-    },
-    "eventWebSite": "http://www.redkiteracing.com",
-    "status": "Complete",
-    "usacCategory": "Category - E",
-    "year": 2017,
-    "state": "CN",
-    "discipline": "Road",
-    "usacEventType": "Results & Ranking",
-    "competitive": "competitive",
-    "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
-  },
-  {
-    "permit": "2017-1418",
-    "name":
-      "RPP Hobby Lakeport Downtown Criterium presented by Conser Land Surveyi",
-    "dates": ["2017-07-15T07:00:00.000Z"],
-    "location": {
-      "cityState": "Lakeport, CA",
-      "detailed": "Lakeport, CA",
-      "googleMapsUrl":
-        "http://maps.google.com/maps/place/+Lakeport,+CA+95453,+USA"
-    },
-    "promoter": {
-      "club": "Main Street Elite p/b Main Street Bicycles",
-      "raceDirector": "David Garzoli",
-      "url": "https://usacycling.org/clubs/index.php?club=16561"
-    },
-    "eventWebSite": "http://www.lakeportcrit.com",
-    "status": "Complete",
-    "usacCategory": "Category - D",
-    "year": 2017,
-    "state": "CN",
-    "discipline": "Road",
-    "usacEventType": "Results & Ranking",
-    "competitive": "competitive",
-    "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
-  },
-  {
-    "permit": "2017-1992",
-    "name": "Colavita Norcal Grand Prix",
-    "dates": ["2017-07-16T07:00:00.000Z"],
-    "location": {
-      "cityState": "Rohnert Park, CA",
-      "detailed": ["1100 Valley House Dr", "Rohnert Park, CA"],
-      "googleMapsUrl":
-        "http://maps.google.com/maps/place/1100+Valley+House+Dr+Rohnert+Park,+CA+94928,+USA"
-    },
-    "promoter": {
-      "club": "Colavita Racing, Inc.",
-      "raceDirector": "Phillip Heiman",
-      "url": "https://usacycling.org/clubs/index.php?club=10022"
-    },
-    "status": "Complete",
-    "usacCategory": "Category - D",
-    "year": 2017,
-    "state": "CN",
-    "discipline": "Road",
-    "usacEventType": "Results & Ranking",
-    "competitive": "competitive",
-    "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
-  },
-  {
-    "permit": "2017-2277",
-    "name": "2017-RKO#10 - CROSSFIRE HURRICANE HILL CLIMB CHALLENGE",
-    "dates": ["2017-07-22T07:00:00.000Z"],
-    "location": {
-      "cityState": "Livermore, CA",
-      "detailed": "Livermore, CA",
-      "googleMapsUrl":
-        "http://maps.google.com/maps/place/+Livermore,+CA+94551,+USA"
-    },
-    "promoter": {
-      "club": "Red Kite Racing",
-      "raceDirector": "Steve Rosefield",
-      "url": "https://usacycling.org/clubs/index.php?club=12690"
-    },
-    "eventWebSite": "http://www.redkiteracing.com",
-    "status": "Complete",
-    "usacCategory": "Category - E",
-    "year": 2017,
-    "state": "CN",
-    "discipline": "Road",
-    "usacEventType": "Results & Ranking",
-    "competitive": "competitive",
-    "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
-  },
-  {
-    "permit": "2017-2181",
-    "name": "2017 RKO#11 - THE BUMP CIRCUIT RACE (SUMMER)",
-    "dates": ["2017-07-23T07:00:00.000Z"],
-    "location": {
-      "cityState": "Livermore, CA",
-      "detailed": ["1575 Greenville Road", "Livermore, CA"],
-      "googleMapsUrl":
-        "http://maps.google.com/maps/place/1575+Greenville+Road+Livermore,+CA+94550,+USA"
-    },
-    "promoter": {
-      "club": "Red Kite Racing",
-      "raceDirector": "ChristianCycling",
-      "url": "https://usacycling.org/clubs/index.php?club=12690"
-    },
-    "eventWebSite": "http://www.redkiteracing.com",
-    "status": "Complete",
-    "usacCategory": "Category - E",
-    "year": 2017,
-    "state": "CN",
-    "discipline": "Road",
-    "usacEventType": "Results & Ranking",
-    "competitive": "competitive",
-    "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
-  },
-  {
-    "permit": "2017-1995",
-    "name": "San Rafael Sunset Criterium",
-    "dates": ["2017-07-29T07:00:00.000Z"],
-    "location": {
-      "cityState": "San Rafael, CA",
-      "detailed": ["4th &amp; C St, San Rafael", "San Rafael, CA"],
-      "googleMapsUrl":
-        "http://maps.google.com/maps/place/4th+&+C+St,+San+Rafael+San+Rafael,+CA+94901,+USA"
-    },
-    "promoter": {
-      "club": "Team Mikes Bikes p/b Equator Coffees",
-      "raceDirector": "Ravinder Rajcoomar",
-      "url": "https://usacycling.org/clubs/index.php?club=13460"
-    },
-    "eventWebSite": "http://www.sanrafaelsunset.com/",
-    "status": "Complete",
-    "usacCategory": "Category - D",
-    "year": 2017,
-    "state": "CN",
-    "discipline": "Road",
-    "usacEventType": "Results & Ranking",
-    "competitive": "competitive",
-    "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
-  },
-  {
-    "permit": "2017-2242",
-    "name": "2017 RED KITE OMNIUM EVENT #12 - 33RD ANNUAL ALBANY CRITERIUM",
-    "dates": ["2017-07-30T07:00:00.000Z"],
-    "location": {
-      "cityState": "Albany, CA",
-      "detailed": ["1325 Portland Avenue", "Albany, CA"],
-      "googleMapsUrl":
-        "http://maps.google.com/maps/place/1325+Portland+Avenue+Albany,+CA+94706,+USA"
-    },
-    "promoter": {
-      "club": "Red Kite Racing",
-      "raceDirector": "Steve Rosefield",
-      "url": "https://usacycling.org/clubs/index.php?club=12690"
-    },
-    "eventWebSite": "http://www.redkiteracing.com",
-    "status": "Complete",
-    "usacCategory": "Category - E",
-    "year": 2017,
-    "state": "CN",
-    "discipline": "Road",
-    "usacEventType": "Results & Ranking",
-    "competitive": "competitive",
-    "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
-  },
-  {
-    "permit": "2017-2341",
-    "name": "Patterson Pass Road Race",
-    "dates": ["2017-08-05T07:00:00.000Z"],
-    "location": {
-      "cityState": "Tracy, CA",
-      "detailed": ["16116 Patterson Pass Road at Midway Road", "Tracy, CA"],
-      "googleMapsUrl":
-        "http://maps.google.com/maps/place/16116+Patterson+Pass+Road+at+Midway+Road+Tracy,+CA+95376,+USA"
-    },
-    "promoter": {
-      "club": "Golden Chain Cyclists",
-      "raceDirector": "Robert Leibold",
-      "url": "https://usacycling.org/clubs/index.php?club=2568"
-    },
-    "eventWebSite": "http://www.velopromo.com",
-    "status": "Complete",
-    "usacCategory": "Category - E",
-    "year": 2017,
-    "state": "CN",
-    "discipline": "Road",
-    "usacEventType": "Results & Ranking",
-    "competitive": "competitive",
-    "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
-  },
-  {
-    "permit": "2017-2278",
-    "name": "2017 RKO#13 - RED KITE CRITERIUM (AUGUST)",
-    "dates": ["2017-08-06T07:00:00.000Z"],
-    "location": {
-      "cityState": "Livermore, CA",
-      "detailed": ["448 Comerce Way", "Livermore, CA"],
-      "googleMapsUrl":
-        "http://maps.google.com/maps/place/448+Comerce+Way+Livermore,+CA+94551,+USA"
-    },
-    "promoter": {
-      "club": "Red Kite Racing",
-      "raceDirector": "Steve Rosefield",
-      "url": "https://usacycling.org/clubs/index.php?club=12690"
-    },
-    "eventWebSite": "http://www.redkiteracing.com",
-    "status": "Complete",
-    "usacCategory": "Category - E",
-    "year": 2017,
-    "state": "CN",
-    "discipline": "Road",
-    "usacEventType": "Results & Ranking",
-    "competitive": "competitive",
-    "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
-  },
-  {
-    "permit": "2017-2344",
-    "name": "Dunnigan Hills Road Race",
-    "dates": ["2017-08-12T07:00:00.000Z"],
-    "location": {
-      "cityState": "Dunnigan, CA",
-      "detailed": "Dunnigan, CA",
-      "googleMapsUrl":
-        "http://maps.google.com/maps/place/+Dunnigan,+CA+95937,+USA"
-    },
-    "promoter": {
-      "club": "Golden Chain Cyclists",
-      "raceDirector": "Robert Leibold",
-      "url": "https://usacycling.org/clubs/index.php?club=2568"
-    },
-    "eventWebSite": "http://www.velopromo.com",
-    "status": "Complete",
-    "usacCategory": "Category - E",
-    "year": 2017,
-    "state": "CN",
-    "discipline": "Road",
-    "usacEventType": "Results & Ranking",
-    "competitive": "competitive",
-    "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
-  },
-  {
-    "permit": "2017-2343",
-    "name": "Suisun Harbor Criterium",
-    "dates": ["2017-08-13T07:00:00.000Z"],
-    "location": {
-      "cityState": "Suisun City, CA",
-      "detailed": ["Main Street at California Street", "Suisun City, CA"],
-      "googleMapsUrl":
-        "http://maps.google.com/maps/place/Main+Street+at+California+Street+Suisun+City,+CA+94585,+USA"
-    },
-    "promoter": {
-      "club": "Golden Chain Cyclists",
-      "raceDirector": "Robert Leibold",
-      "url": "https://usacycling.org/clubs/index.php?club=2568"
-    },
-    "eventWebSite": "http://www.velopromo.com",
-    "status": "Complete",
-    "usacCategory": "Category - E",
-    "year": 2017,
-    "state": "CN",
-    "discipline": "Road",
-    "usacEventType": "Results & Ranking",
-    "competitive": "competitive",
-    "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
-  },
-  {
-    "permit": "2017-2354",
-    "name": "San Ardo Road Race",
-    "dates": ["2017-08-19T07:00:00.000Z"],
-    "location": {
-      "cityState": "San Ardo, CA",
-      "detailed": ["San Ardo, CA  93450", "San Ardo, CA"],
-      "googleMapsUrl":
-        "http://maps.google.com/maps/place/San+Ardo,+CA++93450+San+Ardo,+CA+93450,+USA"
-    },
-    "promoter": {
-      "club": "Golden Chain Cyclists",
-      "raceDirector": "Robert Leibold",
-      "url": "https://usacycling.org/clubs/index.php?club=2568"
-    },
-    "eventWebSite": "http://www.velopromo.com",
-    "status": "Complete",
-    "usacCategory": "Category - E",
-    "year": 2017,
-    "state": "CN",
-    "discipline": "Road",
-    "usacEventType": "Results & Ranking",
-    "competitive": "competitive",
-    "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
-  },
-  {
-    "permit": "2017-2279",
-    "name": "2017 RKO#14 - TEMPUS FUGIT INDIVIDUAL TIME TRIAL (SUMMER)",
-    "dates": ["2017-08-20T07:00:00.000Z"],
-    "location": {
-      "cityState": "Castro Valley, CA",
-      "detailed": "Castro Valley, CA",
-      "googleMapsUrl":
-        "http://maps.google.com/maps/place/+Castro+Valley,+CA+94546,+USA"
-    },
-    "promoter": {
-      "club": "Red Kite Racing",
-      "raceDirector": "Steve Rosefield",
-      "url": "https://usacycling.org/clubs/index.php?club=12690"
-    },
-    "eventWebSite": "http://www.redkiteracing.com",
-    "status": "Complete",
-    "usacCategory": "Category - E",
-    "year": 2017,
-    "state": "CN",
-    "discipline": "Road",
-    "usacEventType": "Results & Ranking",
-    "competitive": "competitive",
-    "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
-  },
-  {
-    "permit": "2017-2355",
-    "name": "University Road Race",
-    "dates": ["2017-08-20T07:00:00.000Z"],
-    "location": {
-      "cityState": "Santa Cruz, CA",
-      "detailed": ["1156 High Street", "Santa Cruz, CA"],
-      "googleMapsUrl":
-        "http://maps.google.com/maps/place/1156+High+Street+Santa+Cruz,+CA+95064,+USA"
-    },
-    "promoter": {
-      "club": "Golden Chain Cyclists",
-      "raceDirector": "Robert Leibold",
-      "url": "https://usacycling.org/clubs/index.php?club=2568"
-    },
-    "eventWebSite": "http://www.velopromo.com",
-    "status": "Complete",
-    "usacCategory": "Category - E",
-    "year": 2017,
-    "state": "CN",
-    "discipline": "Road",
-    "usacEventType": "Results & Ranking",
-    "competitive": "competitive",
-    "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=60&"
-  },
-  {
-    "permit": "2017-2299",
-    "name": "Mt Whitney Stage Race",
-    "dates": ["2017-08-26T07:00:00.000Z", "2017-08-27T07:00:00.000Z"],
-    "location": {
-      "cityState": "Lone Pine, CA",
-      "detailed": "Lone Pine, CA",
-      "googleMapsUrl":
-        "http://maps.google.com/maps/place/+Lone+Pine,+CA+93545,+USA"
-    },
-    "promoter": {
-      "club": "AntiGravity Cycling",
-      "raceDirector": "Steven Barnes",
-      "url": "https://usacycling.org/clubs/index.php?club=12627"
-    },
-    "status": "Complete",
-    "usacCategory": "Category - E",
-    "year": 2017,
-    "state": "CN",
-    "discipline": "Road",
-    "usacEventType": "Results & Ranking",
-    "competitive": "competitive",
-    "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=80&"
-  },
-  {
-    "permit": "2017-2555",
-    "name": "Henleyville Road Race",
-    "dates": ["2017-08-26T07:00:00.000Z"],
-    "location": {
-      "cityState": "Corning, CA",
-      "detailed": ["20351 Simpson Road", "Corning, CA"],
-      "googleMapsUrl":
-        "http://maps.google.com/maps/place/20351+Simpson+Road+Corning,+CA+96021,+USA"
-    },
-    "promoter": {
-      "club": "Golden Chain Cyclists",
-      "raceDirector": "Robert Leibold",
-      "url": "https://usacycling.org/clubs/index.php?club=2568"
-    },
-    "eventWebSite": "http://www.velopromo.com",
-    "status": "Complete",
-    "usacCategory": "Category - E",
-    "year": 2017,
-    "state": "CN",
-    "discipline": "Road",
-    "usacEventType": "Results & Ranking",
-    "competitive": "competitive",
-    "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=80&"
-  },
-  {
-    "permit": "2017-2576",
-    "name": "Esparto Time Trial",
-    "dates": ["2017-08-27T07:00:00.000Z"],
-    "location": {
-      "cityState": "Esparto, CA",
-      "detailed": ["86675 Plainsfield St.", "Esparto, CA"],
-      "googleMapsUrl":
-        "http://maps.google.com/maps/place/86675+Plainsfield+St.+Esparto,+CA+95627,+USA"
-    },
-    "promoter": {
-      "club": "Golden Chain Cyclists",
-      "raceDirector": "Robert Leibold",
-      "url": "https://usacycling.org/clubs/index.php?club=2568"
-    },
-    "eventWebSite": "http://www.velopromo.com",
-    "status": "Complete",
-    "usacCategory": "Category - E",
-    "year": 2017,
-    "state": "CN",
-    "discipline": "Road",
-    "usacEventType": "Results & Ranking",
-    "competitive": "competitive",
-    "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=80&"
-  },
-  {
-    "permit": "2017-2280",
-    "name":
-      "RED KITE CHAMPIONSHIP WEEKEND-2017 RED KITE AND NCNCA MASTERS/JUNIORS",
-    "dates": ["2017-09-02T07:00:00.000Z", "2017-09-03T07:00:00.000Z"],
-    "location": {
-      "cityState": "Pleasanton, CA",
-      "detailed": ["5000 Hopyard Road", "Pleasanton, CA"],
-      "googleMapsUrl":
-        "http://maps.google.com/maps/place/5000+Hopyard+Road+Pleasanton,+CA+94588,+USA"
-    },
-    "promoter": {
-      "club": "Red Kite Racing",
-      "raceDirector": "Steve Rosefield",
-      "url": "https://usacycling.org/clubs/index.php?club=12690"
-    },
-    "eventWebSite": "http://www.redkiteracing.com",
-    "status": "Complete",
-    "usacCategory": "Category - E",
-    "year": 2017,
-    "state": "CN",
-    "discipline": "Road",
-    "usacEventType": "Results & Ranking",
-    "competitive": "competitive",
-    "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=80&"
-  },
-  {
-    "permit": "2017-2356",
-    "name": "Giro Di San Francisco",
-    "dates": ["2017-09-04T07:00:00.000Z"],
-    "location": {
-      "cityState": "San Francisco, CA",
-      "detailed": ["Levi Strauss Plaza 1155 Battery St", "San Francisco, CA"],
-      "googleMapsUrl":
-        "http://maps.google.com/maps/place/Levi+Strauss+Plaza+1155+Battery+St+++San+Francisco,+CA+94111,+USA"
-    },
-    "promoter": {
-      "club": "Golden Chain Cyclists",
-      "raceDirector": "Robert Leibold",
-      "url": "https://usacycling.org/clubs/index.php?club=2568"
-    },
-    "eventWebSite": "http://www.velopromo.com",
-    "status": "Complete",
-    "usacCategory": "Category - E",
-    "year": 2017,
-    "state": "CN",
-    "discipline": "Road",
-    "usacEventType": "Results & Ranking",
-    "competitive": "competitive",
-    "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=80&"
-  },
-  {
-    "permit": "2017-2461",
-    "name": "JACKSON HISTORIC DOWNTOWN CRITERIUM",
-    "dates": ["2017-09-09T07:00:00.000Z"],
-    "location": {
-      "cityState": "Jackson, CA",
-      "detailed": ["175 Main Street", "Jackson, CA"],
-      "googleMapsUrl":
-        "http://maps.google.com/maps/place/175+Main+Street+Jackson,+CA+95642,+USA"
-    },
-    "promoter": {
-      "club": "Red Kite Racing",
-      "raceDirector": "Steve Rosefield",
-      "url": "https://usacycling.org/clubs/index.php?club=12690"
-    },
-    "eventWebSite":
-      "http://www.bikereg.com/jackson-historic-downtown-criterium",
-    "status": "Permitted",
-    "usacCategory": "Category - D",
-    "year": 2017,
-    "state": "CN",
-    "discipline": "Road",
-    "usacEventType": "Results & Ranking",
-    "competitive": "competitive",
-    "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=80&"
-  },
-  {
-    "permit": "2017-2643",
-    "name": "Oakland Grand Prix",
-    "dates": ["2017-09-17T07:00:00.000Z"],
-    "location": {
-      "cityState": "Oakland, CA, CA",
-      "detailed": ["20th and Harrison", "Oakland, CA, CA"],
-      "googleMapsUrl":
-        "http://maps.google.com/maps/place/20th+and+Harrison+Oakland,+CA,+CA+94607,+USA"
-    },
-    "promoter": {
-      "club": "Golden Chain Cyclists",
-      "raceDirector": "Robert Leibold",
-      "url": "https://usacycling.org/clubs/index.php?club=2568"
-    },
-    "eventWebSite": "http://www.velopromo.com",
-    "status": "Complete",
-    "usacCategory": "Category - D",
-    "year": 2017,
-    "state": "CN",
-    "discipline": "Road",
-    "usacEventType": "Results & Ranking",
-    "competitive": "competitive",
-    "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=80&"
-  },
-  {
-    "permit": "2017-2735",
-    "name": "Cycle With Champions",
-    "dates": ["2017-10-08T07:00:00.000Z"],
-    "location": {
-      "cityState": "Santa Rosa, CA",
-      "detailed": ["4400 Day School Place,", "Santa Rosa, CA"],
-      "googleMapsUrl":
-        "http://maps.google.com/maps/place/4400+Day+School+Place,+Santa+Rosa,+CA+95403,+USA"
-    },
-    "promoter": {
-      "club": "Team Swift",
-      "raceDirector": "Laura Charameda",
-      "url": "https://usacycling.org/clubs/index.php?club=10356"
-    },
-    "eventWebSite": "http://www.teamswift.org",
-    "status": "Permitted",
-    "usacCategory": "Category - F",
-    "year": 2017,
-    "state": "CN",
-    "discipline": "Road",
-    "usacEventType": "Fun",
-    "competitive": "competitive",
-    "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
-  },
-  {
-    "permit": "2017-2472",
-    "name": "Bikes for Kids Charity Ride",
-    "dates": ["2017-10-14T07:00:00.000Z"],
-    "location": {
-      "cityState": "Oakdale , CA",
-      "detailed": ["445 E F st", "Oakdale , CA"],
-      "googleMapsUrl":
-        "http://maps.google.com/maps/place/445+E+F+st++Oakdale+,+CA+95361,+USA"
-    },
-    "promoter": {
-      "club": "Bell Real Estate Cycling",
-      "raceDirector": "Robert Bell",
-      "url": "https://usacycling.org/clubs/index.php?club=14700"
-    },
-    "eventWebSite": "http://www.bikesforkids.bike",
-    "status": "Permitted",
-    "usacCategory": "Category - F",
-    "year": 2017,
-    "state": "CN",
-    "discipline": "Road",
-    "usacEventType": "Fun",
-    "competitive": "competitive",
-    "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
-  },
-  {
-    "permit": "2017-2716",
-    "name": "California Challenge",
-    "dates": ["2017-10-14T07:00:00.000Z", "2017-10-21T07:00:00.000Z"],
-    "location": {
-      "cityState": "San Francisco, CA",
-      "detailed": "San Francisco, CA",
-      "googleMapsUrl":
-        "http://maps.google.com/maps/place/+San+Francisco,+CA+94087,+USA"
-    },
-    "promoter": {
-      "club": "Project Hero",
-      "raceDirector": "Joseph Coddington",
-      "url": "https://usacycling.org/clubs/index.php?club=13438"
-    },
-    "registrationLink": "http://ride2recovery.com",
-    "status": "Permitted",
-    "usacCategory": "Category - G",
-    "year": 2017,
-    "state": "CN",
-    "discipline": "Road",
-    "usacEventType": "",
-    "competitive": "competitive",
-    "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=80&"
-  },
-  {
-    "permit": "2017-2880",
-    "name": "Death Valley Road Omnium",
-    "dates": ["2017-10-21T07:00:00.000Z", "2017-10-22T07:00:00.000Z"],
-    "location": {
-      "cityState": "Big Pine, CA",
-      "detailed": "Big Pine, CA",
-      "googleMapsUrl":
-        "http://maps.google.com/maps/place/+Big+Pine,+CA+93513,+USA"
-    },
-    "promoter": {
-      "club": "AntiGravity Cycling",
-      "raceDirector": "Steven Barnes",
-      "url": "https://usacycling.org/clubs/index.php?club=12627"
-    },
-    "registrationLink": "https://usacycling.org/register/2017-2880",
-    "status": "Permitted",
-    "usacCategory": "Category - E",
-    "year": 2017,
-    "state": "CN",
-    "discipline": "Road",
-    "usacEventType": "Results & Ranking",
-    "competitive": "competitive",
-    "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=80&"
-  },
-  {
-    "permit": "2017-2988",
-    "name": "Death Valley National Park Tour",
-    "dates": ["2017-11-12T08:00:00.000Z", "2017-11-17T08:00:00.000Z"],
-    "location": {
-      "cityState": "Death Valley, CA",
-      "detailed": ["Highway 190", "Death Valley, CA"],
-      "googleMapsUrl":
-        "http://maps.google.com/maps/place/Highway+190+Death+Valley,+CA+92328,+USA"
-    },
-    "promoter": {
-      "club": "USA Cycling Race Director",
-      "raceDirector": "Erica Gratton",
-      "url": "https://usacycling.org/clubs/index.php?club=14196"
-    },
-    "eventWebSite":
-      "http://www.cyclingescapes.com/bicycletours/california/deathvalley/biketour.html",
-    "registrationLink": "http://www.cyclingescapes.com/onlineregistration.html",
-    "status": "Permitted",
-    "usacCategory": "Category - F",
-    "year": 2017,
-    "state": "CN",
-    "discipline": "Road",
-    "usacEventType": "Fun",
-    "competitive": "competitive",
-    "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
-  },
-  {
-    "permit": "2017-1762",
-    "name": "FFWD WNTL p/b Vie13 2017",
-    "dates": ["2017-05-10T07:00:00.000Z", "2017-08-23T07:00:00.000Z"],
-    "location": {
-      "cityState": "San Jose, CA",
-      "detailed": ["Hellyer County Park Velodrome", "San Jose, CA"],
-      "googleMapsUrl":
-        "http://maps.google.com/maps/place/Hellyer+County+Park+Velodrome+San+Jose,+CA+95111,+USA"
-    },
-    "promoter": {
-      "club": "Performance Cycle Coaching",
-      "raceDirector": "Daryl Hemenway",
-      "url": "https://usacycling.org/clubs/index.php?club=15066"
-    },
-    "status": "Permitted",
-    "usacCategory": "Category - E",
-    "year": 2017,
-    "state": "CN",
-    "discipline": "Track",
-    "usacEventType": "Results & Ranking",
-    "competitive": "competitive",
-    "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Track&rrfilter=all&noncomp=0&state=CN&cnt=0&"
-  },
-  {
-    "permit": "2017-1176",
-    "name": "NCNCA Elite Track TT & Sprint Championships",
-    "dates": ["2017-07-08T07:00:00.000Z", "2017-07-09T07:00:00.000Z"],
-    "location": {
-      "cityState": "San Jose, CA",
-      "detailed": ["985 Hellyer Ave", "San Jose, CA"],
-      "googleMapsUrl":
-        "http://maps.google.com/maps/place/985+Hellyer+Ave+San+Jose,+CA+95111,+USA"
-    },
-    "promoter": {
-      "club": "USA Cycling Race Director",
-      "raceDirector": "USA Cycling Race Director",
-      "url": "https://usacycling.org/clubs/index.php?club=14196"
-    },
-    "eventWebSite": "http://ridethetrack.com",
-    "status": "Complete",
-    "usacCategory": "Category - E",
-    "year": 2017,
-    "state": "CN",
-    "discipline": "Track",
-    "usacEventType": "",
-    "competitive": "competitive",
-    "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Track&rrfilter=all&noncomp=0&state=CN&cnt=0&"
-  },
-  {
-    "permit": "2017-2070",
-    "name": "NCNCA Junior Track Championship",
-    "dates": ["2017-07-22T07:00:00.000Z"],
-    "location": {
-      "cityState": "San Jose, CA",
-      "detailed": ["985 Hellyer Ave", "San Jose, CA"],
-      "googleMapsUrl":
-        "http://maps.google.com/maps/place/985+Hellyer+Ave+San+Jose,+CA+95111,+USA"
-    },
-    "promoter": {
-      "club": "San Jose Bicycle Club",
-      "raceDirector": "Andrew Lanier",
-      "url": "https://usacycling.org/clubs/index.php?club=249"
-    },
-    "eventWebSite": "http://ridethetrack.com",
-    "status": "Complete",
-    "usacCategory": "Category - D",
-    "year": 2017,
-    "state": "CN",
-    "discipline": "Track",
-    "usacEventType": "Results & Ranking",
-    "competitive": "competitive",
-    "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Track&rrfilter=all&noncomp=0&state=CN&cnt=0&"
-  },
-  {
-    "permit": "2017-1178",
-    "name": "NCNCA Master Track Championships",
-    "dates": ["2017-09-09T07:00:00.000Z", "2017-09-10T07:00:00.000Z"],
-    "location": {
-      "cityState": "San Jose, CA",
-      "detailed": ["995 Hellyer Ave.", "San Jose, CA"],
-      "googleMapsUrl":
-        "http://maps.google.com/maps/place/995+Hellyer+Ave.++San+Jose,+CA+95111,+USA"
-    },
-    "promoter": {
-      "club": "USA Cycling Race Director",
-      "raceDirector": "USA Cycling Race Director",
-      "url": "https://usacycling.org/clubs/index.php?club=14196"
-    },
-    "eventWebSite": "http://ridethetrack.com",
-    "status": "Permitted",
-    "usacCategory": "Category - E",
-    "year": 2017,
-    "state": "CN",
-    "discipline": "Track",
-    "usacEventType": "Results & Ranking",
-    "competitive": "competitive",
-    "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Track&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-544",
     "name": "Central Coast Mountain Bike Series",
-    "dates": ["2017-01-29T08:00:00.000Z", "2017-12-17T08:00:00.000Z"],
+    "dates": ["2017-01-29T08:00:00.000Z", "2017-12-31T08:00:00.000Z"],
     "location": {
       "cityState": "Salinas, CA",
       "detailed": ["17723 Northwood Place", "Salinas, CA"],
@@ -2522,7 +2494,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-668",
@@ -2548,7 +2520,7 @@
     "usacEventType": "",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-521",
@@ -2574,7 +2546,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-236",
@@ -2600,7 +2572,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-466",
@@ -2626,7 +2598,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-235",
@@ -2652,7 +2624,7 @@
     "usacEventType": "Fun",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=F&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-724",
@@ -2678,7 +2650,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-1638",
@@ -2704,7 +2676,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-881",
@@ -2730,7 +2702,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-412",
@@ -2755,7 +2727,7 @@
     "usacEventType": "Fun",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=F&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-2874",
@@ -2784,7 +2756,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-2498",
@@ -2809,7 +2781,7 @@
     "usacEventType": "",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-2601",
@@ -2835,7 +2807,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-2739",
@@ -2861,7 +2833,7 @@
     "usacEventType": "Fun",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=F&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-2798",
@@ -2878,7 +2850,7 @@
       "raceDirector": "Trenton Berner",
       "url": "https://usacycling.org/clubs/index.php?club=15328"
     },
-    "status": "Permitted",
+    "status": "Complete",
     "usacCategory": "Category - D",
     "year": 2017,
     "state": "CN",
@@ -2886,7 +2858,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-3088",
@@ -2903,7 +2875,7 @@
       "raceDirector": "Lindsay Currier",
       "url": "https://usacycling.org/clubs/index.php?club=16676"
     },
-    "status": "Permitted",
+    "status": "Complete",
     "usacCategory": "Category - D",
     "year": 2017,
     "state": "CN",
@@ -2911,7 +2883,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-2746",
@@ -2936,7 +2908,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-3029",
@@ -2950,11 +2922,10 @@
     },
     "promoter": {
       "club": "University of California-Santa Cruz",
-      "raceDirector": "Walker  Busby",
+      "raceDirector": "Walker Busby",
       "url": "https://usacycling.org/clubs/index.php?club=3622"
     },
     "eventWebSite": "http://ucsccycling.wixsite.com/slugcycling",
-    "registrationLink": "https://usacycling.org/register/2017-3029",
     "status": "Permitted",
     "usacCategory": "Category - C",
     "year": 2017,
@@ -2963,7 +2934,33 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2017-3118",
+    "name": "Ninja Mountain Bike Performance | Santa Cruz (SC1202)",
+    "dates": ["2017-12-02T08:00:00.000Z", "2017-12-03T08:00:00.000Z"],
+    "location": {
+      "cityState": "santa cruz, CA",
+      "detailed": "santa cruz, CA",
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/+santa+cruz,+CA+95073,+USA"
+    },
+    "promoter": {
+      "club": "Team Ninja",
+      "raceDirector": "Richard La China",
+      "url": "https://usacycling.org/clubs/index.php?club=15312"
+    },
+    "eventWebSite": "http://sandiegomountainbikeskills.com/california/",
+    "status": "Complete",
+    "usacCategory": "Category - G",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Mountain",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-1635",
@@ -2989,7 +2986,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Cyclocross&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Cyclocross&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-2652",
@@ -3007,7 +3004,7 @@
       "url": "https://usacycling.org/clubs/index.php?club=14829"
     },
     "eventWebSite": "http://www.cccxcycling.com ",
-    "status": "Permitted",
+    "status": "Complete",
     "usacCategory": "Category - E",
     "year": 2017,
     "state": "CN",
@@ -3015,7 +3012,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Cyclocross&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Cyclocross&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-1866",
@@ -3042,7 +3039,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Cyclocross&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Cyclocross&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-2691",
@@ -3060,7 +3057,7 @@
       "url": "https://usacycling.org/clubs/index.php?club=1019"
     },
     "eventWebSite": "http://www.sagebrush.cx",
-    "status": "Permitted",
+    "status": "Complete",
     "usacCategory": "Category - E",
     "year": 2017,
     "state": "CN",
@@ -3068,7 +3065,33 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Cyclocross&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Cyclocross&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2017-3102",
+    "name": "BASP #1 Coyote Point",
+    "dates": ["2017-11-04T07:00:00.000Z"],
+    "location": {
+      "cityState": "San Mateo, CA",
+      "detailed": ["1701 Coyote Point Dr", "San Mateo, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/1701+Coyote+Point+Dr+San+Mateo,+CA+94401,+USA"
+    },
+    "promoter": {
+      "club": "USA Cycling Race Director",
+      "raceDirector": "Murphy Mack",
+      "url": "https://usacycling.org/clubs/index.php?club=14196"
+    },
+    "eventWebSite": "http://superproracing.com/cross/",
+    "status": "Complete",
+    "usacCategory": "Category - E",
+    "year": 2017,
+    "state": "CN",
+    "discipline": "Cyclocross",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Cyclocross&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-2425",
@@ -3081,21 +3104,20 @@
         "http://maps.google.com/maps/place/Maxwell+Park,+100+Verano+Ave.+Sonoma,+CA+95476,+USA"
     },
     "promoter": {
-      "club": "USA Cycling Coaches",
+      "club": "USA Cycling Race Director",
       "raceDirector": "Brian Staby",
-      "url": "https://usacycling.org/clubs/index.php?club=13940"
+      "url": "https://usacycling.org/clubs/index.php?club=14196"
     },
     "eventWebSite": "http://www.cxnation.com/events/",
-    "registrationLink": "http:// www.bikereg.com/cx-nation-cup",
-    "status": "Permitted",
-    "usacCategory": "Category - G",
+    "status": "Complete",
+    "usacCategory": "Category - E",
     "year": 2017,
     "state": "CN",
     "discipline": "Cyclocross",
-    "usacEventType": "",
+    "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Cyclocross&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Cyclocross&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-1166",
@@ -3109,7 +3131,7 @@
     },
     "promoter": {
       "club": "University of California-Santa Cruz",
-      "raceDirector": "Walker  Busby",
+      "raceDirector": "Walker Busby",
       "url": "https://usacycling.org/clubs/index.php?club=3622"
     },
     "eventWebSite":
@@ -3122,7 +3144,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Collegiate&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Collegiate&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-825",
@@ -3147,7 +3169,7 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Collegiate&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Collegiate&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-2601",
@@ -3173,6 +3195,6 @@
     "usacEventType": "Results & Ranking",
     "competitive": "competitive",
     "_urlUsedToPullThisEvent":
-      "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Collegiate&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Collegiate&rrfilter=all&noncomp=0&state=CN&cnt=0&"
   }
 ]

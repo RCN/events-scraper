@@ -17,7 +17,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,467048,Rory,HEINLEIN,Churchville,NY,0:45:34,Once Again Nut Butter Multi Sport TeamLCC
 9,0,Michael,LEONARD,,,0:45:34,Racer Sportif/Mattamy Homes
 10,534198,Sean,CONWAY,Orchard Park,NY,0:45:34,
-11,513528,Jeff,SIPOS,,,0:45:34,Campus WheelWorks
+11,513528,Jeff,SIPOS,,NY,0:45:34,Campus WheelWorks
 12,409832,Matthew,SMITLEY,Rochester,NY,0:45:34,Full Moon Vista
 13,426138,Joshua,WILLIAMS,Geneseo,NY,0:45:35,Once Again Nut Butter Multi Sport Racing Team/ Livingston Cycling Club
 14,448668,Raymond,ZILLIOX,Buffalo,NY,0:45:35,Buffalo Bicycling Club Race Team
@@ -57,11 +57,11 @@ Place,License #,First,Last,City,State,Time,Team
 7,265565,David,VAN HORN,Amherst,NY,1:11:45,Projekt
 8,401577,Steven,MONGIELO,Buffalo,NY,1:11:46,Buffalo Bicycling Club
 9,50510,Todd,SCHESKE,Scottsville,NY,1:11:46,Legaci Cycling Productions
-10,316474,John,HOLDEN,Lamar,MO,1:11:46,Nalgene / Borah Teamwear Cycling
+10,316474,John,HOLDEN,Fairport,NY,1:11:46,Nalgene / Borah Teamwear Cycling
 11,35645,chris,TIRONE,East Aurora,NY,1:11:46,FinishStrong/BB/Hanley/Fast Frankie
 12,0,Dylan,BIBIC,,,1:11:46,Midweek CC
 13,102230,scott,FARRELL,Orchard Park,NY,1:11:47,Buffalo Bicycling Club
-14,382897,garrett,LUCAS,Nunda ,NY,1:11:47,once again racing
+14,382897,garrett,LUCAS,Nunda,NY,1:11:47,once again racing
 15,224432,John,HUNTER,Victor,NY,1:11:48,Nalgene / Borah Teamwear Cycling
 16,475360,GARNETT,ABBEY,,,1:11:49,Team Kallisto-FCV p/b Peloton Contracting
 17,0,Michael,FAWCETT,,,1:11:49,Cyclepath Oakville Race Team
@@ -87,7 +87,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,525639,Rachel,ANDREWS,Geneseo,NY,0:28:56,Once Again Nut Butter Multi-Sport Racing
 2,497720,Andi,BALLAND,Fairport,NY,0:28:57,CycleweRx of Rochester
 3,528800,Anya,BOGDANETS,West Seneca,NY,0:28:57,JUST RIDE WOMENS CYCLING
-4,0,Jennifer,REDDING,,,0:28:58,
+4,536919,Jennifer,Redding,Williamsville,NY,0:28:58,
 5,0,Amber,CUSTODI,,,0:29:24,TriVault
 6,0,Chantal,THOMPSON,,,0:30:23,Midweek Cycling Club
 7,498750,Natasha,BADERTSCHER,,,0:30:24,NCCH p/b DEC Express
@@ -142,7 +142,7 @@ Place,License #,First,Last,City,State,Time,Team
 30,525547,Gary,HO,Buffalo,NY,0:46:26,Campus WheelWorks/BBC
 31,448675,Derek,BELL,Lake View,NY,0:45:55,JRA Racing
 DNF,534047,John,EMBOW,Buffalo,NY,,Campus Wheelworks
-DNF,513528,Jeff,SIPOS,,,,Campus WheelWorks
+DNF,513528,Jeff,SIPOS,,NY,,Campus WheelWorks
 DNF,178703,Noel,BONK,Brewerton,NY,,BonkWerx
 DNF,434308,Janae,HOLLEY,Geneseo,NY,,Once Again Nut Butter
 DNF,291901,Chris,LONZI,Lancaster,NY,,Tom's Pro Bike
@@ -155,7 +155,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,319378,Richard,SCADUTO,Depew,NY,1:04:16,Projekt
 4,275435,Corey,KNOWLES,Hamburg,NY,1:04:17,Buffalo Bicycling Club
 5,317924,Dylan,PUDIAK,Fairport,NY,1:04:17,Team Towpath powered by Rochester Solar
-6,316474,John,HOLDEN,Lamar,MO,1:04:17,Nalgene / Borah Teamwear Cycling
+6,316474,John,HOLDEN,Fairport,NY,1:04:17,Nalgene / Borah Teamwear Cycling
 7,0,Chris,TIRONE,,,1:04:18,
 8,246341,Mike,MADDEN,Penfield,NY,1:04:18,Team Towpath powered by Rochester Solar
 9,98986,Mustafa,Iman,Buffalo,NY,1:04:22,Hive/Shickluna
@@ -181,7 +181,7 @@ DNF,343886,Kevin,HOWARD,Rochester,NY,,Tryon Bike/Hoselton Auto Mall
 DNF,396644,Robert,HENGEL,North Tonawanda,NY,,Buffalo Bicycling Club Race Team
 DNF,374826,Daniel,SANTANGELO,Pendleton,NY,,Independent Health
 DNF,300277,Brenden,CONWAY,Orchard Park ,NY,,DeathRow Velo
-DNF,382897,garrett,LUCAS,Nunda ,NY,,once again racing
+DNF,382897,garrett,LUCAS,Nunda,NY,,once again racing
 
 06/14/2017 Criterium Men Junior 12-18
 Place,License #,First,Last,City,State,Time,Team
@@ -201,7 +201,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,525639,Rachel,ANDREWS,Geneseo,NY,0:28:26,Once Again Nut Butter Multi-Sport Racing
 5,0,Nancy,SCHMELER,,,0:28:27,Highgate Racing pb D'Ornellas
 6,0,Amber,CUSTODI,,,0:28:28,TriVault
-7,0,Jennifer,REDDING,,,0:28:29,
+7,536919,Jennifer,Redding,Williamsville,NY,0:28:29,
 8,529086,Tonya,LAKE,Buffalo,NY,0:29:47,Just Ride Women's Cycling
 9,534221,Barbara,VERES,East Amherst,NY,0:29:13,Nickel City cycles
 10,416100,Emily,HILL,Hamburg,NY,0:29:15,Campus Wheelworks
@@ -238,7 +238,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,448668,Raymond,ZILLIOX,Buffalo,NY,0:45:22,Buffalo Bicycling Club Race Team
 20,365693,Ryan,SCULLY,Ripley,NY,0:45:23,Tom's Pro Bike
 21,380401,Jim,GORMAN,Lockport,NY,0:45:23,Independent Health Cycling
-22,513528,Jeff,SIPOS,,,0:45:23,Campus WheelWorks
+22,513528,Jeff,SIPOS,,NY,0:45:23,Campus WheelWorks
 23,0,Michael,LEONARD,,,0:45:23,Mattamy Homes Cycling Club
 24,178703,Noel,BONK,Brewerton,NY,0:45:23,BonkWerx
 25,244361,Merle,Whitehead,Clarence,NY,0:45:23,Independent Health
@@ -266,14 +266,14 @@ Place,License #,First,Last,City,State,Time,Team
 4,275435,Corey,KNOWLES,Hamburg,NY,1:10:34,Buffalo Bicycling Club
 5,344198,Dennis,BORDEN,East Amherst ,NY,1:10:34,Handlebars Cycle Company
 6,424110,Sean,MEYER,Pittsford,NY,1:10:35,Nalgene / Borah Teamwear Cycling
-7,316474,John,HOLDEN,Lamar,MO,1:10:35,Nalgene / Borah Teamwear Cycling
+7,316474,John,HOLDEN,Fairport,NY,1:10:35,Nalgene / Borah Teamwear Cycling
 8,50510,Todd,SCHESKE,Scottsville,NY,1:10:35,Legaci Cycling Productions
 9,102230,Scott,FARRELL,Orchard Park,NY,1:10:35,Buffalo Bicycling Club
 10,439053,Nick,DEMARCHI,Buffalo,NY,1:10:36,TBS Racing
 11,353870,Timothy,PAUL,Mount Morris,NY,1:10:36,Once Again Nut Butter Multi-Sport Racing p/b LCC
 12,224432,John,HUNTER,Victor,NY,1:10:36,
 13,476426,Patrick,ELLIOTT,,,1:10:37,Cyclepath Oakville Race Team
-14,382897,Garrett,LUCAS,Nunda ,NY,1:10:37,once again racing
+14,382897,Garrett,LUCAS,Nunda,NY,1:10:37,once again racing
 15,35645,Chris,TIRONE,East Aurora,NY,1:10:37,Finish Strong/BBC/Hanley
 16,431612,Matt,RONAN,Amherst,NY,1:10:37,Independent Health
 17,343886,Kevin,HOWARD,Rochester,NY,1:10:38,Tryon Bike/Hoselton Auto Mall
@@ -346,7 +346,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,291526,Jonathon,BOTTOMS,Buffalo,NY,0:36:48,Tom's Pro Bike
 16,476852,Brian,DEGNAN,Buffalobuffalo,NY,0:36:49,TBS Racing
 17,467048,Rory,HEINLEIN,Churchville,NY,0:36:49,Once Again Nut Butter Multi Sport TeamLCC
-18,513528,Jeff,SIPOS,,,0:36:49,Campus WheelWorks
+18,513528,Jeff,SIPOS,,NY,0:36:49,Campus WheelWorks
 19,337520,Kevin,SMITH,Clarence Center,NY,0:36:50,Tom's Pro Bike
 20,534198,Sean,CONWAY,Orchard Park,NY,0:36:50,
 21,448668,Raymond,ZILLIOX,Buffalo,NY,0:36:51,Buffalo Bicycling Club Race Team
@@ -364,7 +364,7 @@ DNF,380401,Jim,GORMAN,Lockport,NY,,Independent Health Cycling
 05/25/2017 Criterium Men Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
 1,275435,Corey,KNOWLES,Hamburg,NY,01:05:24,Buffalo Bicycling Club
-2,316474,John,HOLDEN,Lamar,MO,01:05:24,Nalgene / Borah Teamwear Cycling
+2,316474,John,HOLDEN,Fairport,NY,01:05:24,Nalgene / Borah Teamwear Cycling
 3,424110,Sean,MEYER,Pittsford,NY,01:05:24,Nalgene / Borah Teamwear Cycling
 4,0,Jacques,CORMIER,,,01:05:24,MIDWEEK CYCLING
 5,319542,Matt,BROPHY,Macedon,NY,01:05:24,Nalgene / Borah Teamwear Cycling
@@ -375,7 +375,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,102230,Scott,FARRELL,Orchard Park,NY,01:05:26,Buffalo Bicycling Club
 11,401577,Steven,MONGIELO,Buffalo,NY,01:05:26,Buffalo Bicycling Club
 12,317924,Dylan,PUDIAK,Fairport,NY,01:05:26,Team Towpath powered by Rochester Solar
-13,382897,Garrett,LUCAS,Nunda ,NY,01:05:28,once again racing
+13,382897,Garrett,LUCAS,Nunda,NY,01:05:28,once again racing
 14,0,Scott,ELLIOTT,,,01:05:34,Midweek Cycling Club
 15,379553,Jonathan,SIUTA,Sanborn,NY,01:05:41,
 16,224432,John,HUNTER,Victor,NY,01:05:42,
@@ -395,7 +395,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,501520,Alison,MERNER,Buffalo,NY,0:29:45,Nickel City Cycles
 3,472401,Jennifer,BELL,Lake View,NY,0:29:46,Just Ride Women's Cycling
 4,528800,Anya,BOGDANETS,West Seneca,NY,0:29:47,JUST RIDE WOMENS CYCLING
-5,0,Jennifer,REDDING,,,0:29:54,
+5,536919,Jennifer,Redding,Williamsville,NY,0:29:54,
 6,416100,Emily,HILL,Hamburg,NY,0:32:26,Campus Wheelworks
 7,534221,Barbara,VERES,East Amherst,NY,0:30:28,Nickel City cycles
 8,485248,Jacquelyn,GERWITZ-DUNN,Buffalo,NY,0:30:53,Campus Wheelworks

@@ -9,7 +9,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,199197,Christopher,Ziegler,Winooski,VT,1:51:18,BMB Racing
 7,378780,Tommy,Steinebrunner,Sykesville,MD,1:52:20,S'Ville Bikes Race Team
 8,403141,Andrew,Lints,Brookfield,VT,1:53:15,Bicycle Express Racing
-9,313178,Mike,Jaworski,Greenwich,NY,1:53:20,Cci Racing/Town Cycle
+9,313178,Mike,Jaworski,Cambridge,NY,1:53:20,Cci Racing/Town Cycle
 10,226152,Matthew,Green,Waterbury,VT,1:53:57,Bicycle Express Racing
 11,0,Matthew,Turcotte,,,1:54:05,
 12,56199,David,McCutcheon,Saugerties,NY,1:54:15,TRT Bicycles
@@ -97,7 +97,7 @@ Place,License #,First,Last,City,State,Time,Team
 39,517709,Jackson,Waters,Norwalk,CT,1:26:18,Farifield County
 40,0,Addison,Davis,,,1:28:01,Muddy Mayhem
 41,518591,Brian,Kalwat,Plantsville,CT,1:29:15,Cheshire/Hamden Rail Trailers
-42,520514,Alejandro,Huber,Hamden,CT,1:30:49,Cheshire/Hamden Rail Trailers
+42,520514,Alejandro,Huber,Woodbridge,CT,1:30:49,Cheshire/Hamden Rail Trailers
 43,530894,Joel,Kowalonek,New Haven,CT,1:30:58,Cheshire/Hamden Rail Trailers
 44,529661,Collin,Romero,Guilford,CT,1:31:34,Rocklandia Rad and Gnar
 45,467875,Daniel,Funk,Bristol,CT,1:36:30,Team Edge
@@ -117,7 +117,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,520147,Matthew,Deltenre,Old Lyme,CT,0:51:35,
 2,524547,Luciano,Souza,Everett,MA,0:54:11,
-3,523891,Kyle,Konopnicki,Gansevoort,NY,0:54:28,NAV
+3,523891,Kyle,Konopnicki,Norfolk,VA,0:54:28,NAV
 4,490927,Derek,Dewitt,Cheshire,CT,0:54:37,
 5,0,Brooks,Nablo,,,0:54:58,
 6,509708,Kevin,McMahon,Stratford,CT,0:56:36,
@@ -132,7 +132,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,0,Ryan,Uhlman,,,1:06:30,
 16,0,Jon,Schlidt,,,1:10:23,Maier Real Estate
 17,211629,Jeremy,Cusimano,Washington,DC,1:15:07,
-DNF,301774,Andrew,Huff,Arlington,MA,,GPM Racing
+DNF,301774,Andrew,Huff,Watertown,MA,,GPM Racing
 
 04/23/2017 Cross Country Men Cat 3 Master 40-49
 Place,License #,First,Last,City,State,Time,Team
@@ -142,9 +142,9 @@ Place,License #,First,Last,City,State,Time,Team
 4,457375,Alexsandro,Souza,,CT,0:56:38,Class Cycle
 5,255830,Seth,Haskell,Hampton,NH,0:57:28,Barks and Wreck
 6,519045,Corey,Acker,West Hartford,CT,0:58:11,
-7,488127,Steffen,Huber,Hamden,CT,0:58:12,
+7,488127,Steffen,Huber,Woodbridge,CT,0:58:12,
 8,525243,Eric,Oddleifson,Hingham,MA,0:58:23,Bikebarnracing.com
-9,43693,Zak,Gourley,South Hamilton,MA,0:59:42,
+9,43693,Zak,Gourley,Hamilton,MA,0:59:42,
 10,391513,Peter,Linnard,Weston,MA,1:01:23,545 Velo
 11,306549,Andrew,Rothstein,Dover,MA,1:02:10,Blue Hills Cycling Club
 12,466182,Greg,Herzhauser,Claverack,NY,1:02:29,
@@ -195,9 +195,9 @@ DNF,55766,Christopher,Naimie,Wilmot,NH,,
 Place,License #,First,Last,City,State,Time,Team
 1,467727,Jonathan,Mauterer,Hatfield,MA,1:18:17,Real Pickles Racing
 2,0,Ryan,Boothe,,,1:19:10,The Bike Shop/Octagon
-3,345164,Daniel,Cariolo,Cambridge,MA,1:20:36,B2C2
+3,345164,Daniel,Cariolo,Arlington,MA,1:20:36,B2C2
 4,518993,Kevin,Langer,Arlington,MA,1:20:54,
-5,199762,Joseph,Dickerson,Manchester ,CT,1:21:06,Inspired Adventuriest/Octagon Cycling/The Bike Shop
+5,199762,Joseph,Dickerson,Manchester,CT,1:21:06,Inspired Adventuriest/Octagon Cycling/The Bike Shop
 6,528892,Marty,Waters,New Haven,CT,1:21:18,Laurel Bike Club/Amity Bicycles
 7,0,Seth,Camron,,,1:25:07,
 8,356793,Grant,Halsey,Medford,MA,1:27:15,Team Monster Truck p/b Bicycle Co.
@@ -237,8 +237,8 @@ Place,License #,First,Last,City,State,Time,Team
 3,361926,Scott,Davidson,Jamaica Plain,MA,1:15:18,Blue Hills Cycling Club
 4,516785,William,Lodge,Manchester,CT,1:15:32,
 5,0,Aaron,Burkett,,,1:16:16,
-6,288393,Matt,Griswold,Boston,MA,1:16:17,B2C2/JRA
-7,501987,Jason,Aloisio,Brooklyn,NY,1:17:39,
+6,288393,Matt,Griswold,Guilford,CT,1:16:17,B2C2/JRA
+7,501987,Jason,Aloisio,New York,NY,1:17:39,
 8,207835,Josh,Austin,Barrington,RI,1:19:09,State 9 Racing p/b Vittoria
 9,125069,Sean,Mullin,East Sandwich,MA,1:19:12,Sea Sports Cyclery & Outdoor
 10,501805,Joshua,Plisinski,Worcester,MA,1:19:57,
@@ -266,7 +266,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,87731,Ruy,Ferreira,Lakeville,MA,1:21:40,Scottee's Westport Bicycle
 14,434777,Cristiano,Jarbas,Marlborough,MA,1:24:46,Cannondale Sports Natick
 15,431128,Brett,Chenail,Granby,CT,1:24:50,
-16,514420,Joshua,Johnson,East Providence,RI,1:27:19,
+16,514420,Joshua,Johnson,Riverside,RI,1:27:19,
 17,133266,Mark,Frias,Taunton,MA,1:28:02,
 18,0,Robert,Cedeira,,,1:28:33,
 19,491775,Shawn,Trembley,Quincy,MA,1:29:59,Class Act Racing
@@ -343,13 +343,13 @@ Place,License #,First,Last,City,State,Time,Team
 10,355944,Gabriel,Kovacs,South Hadley,MA,1:43:50,Real Pickles Racing
 11,392877,Matthew,Johnson,Newburyport,MA,1:44:50,Riverside Racing
 12,438521,Benjamin,Funk,Bristol,CT,1:48:59,Team Edge/Bristol HS
-13,343736,Grayson,Ford,Norwellnorwell,MA,1:49:45,AP Junior Development p/b Corner Cycle
-DNF,435019,Drew,Blackstone,North Monmouth,ME,,Dr. Naylor-Treadwell Training Racing
+13,343736,Grayson,Ford,Norwell,MA,1:49:45,AP Junior Development p/b Corner Cycle
+DNF,435019,Drew,Blackstone,North Monmouth  Me,ME,,Dr. Naylor-Treadwell Training Racing
 13542,364831,Alex,McCormack,Leicester,MA,Inc.,Hot Tubes Development Cycling Team
 
 04/23/2017 Cross Country Men Cat 1 Senior 19-29
 Place,License #,First,Last,City,State,Time,Team
-1,408284,Mark,Hewitt,South Deerfield,MA,1:34:11,JAM/NCC
+1,408284,Mark,Hewitt,Mattapan,MA,1:34:11,JAM/NCC
 2,429804,Alex,Pankiw,Harrisburg,PA,1:37:06,Troegs Ind. Brewing///JB's Bike Shop
 3,207971,Sean,Curran,Arlington,MA,1:37:14,Another Jaunt
 4,485116,Chase,Kerzel,Weymouth,MA,1:37:18,Cure Rage
@@ -371,7 +371,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,99523,Hunter,Pronovost,Cheshire,CT,1:34:15,Cheshire Cycle Racing
 5,153128,Miles,Ericson,Granville,MA,1:34:20,Createx-Benidorm
 6,325388,Charles,Berhtram,Roxbury,MA,1:36:11,B2C2/JRA
-7,199084,Adam,Sullivan,North Kingstown,RI,1:36:29,
+7,199084,Adam,Sullivan,Exeter,RI,1:36:29,
 8,514096,Martin,Schleede,Kingston,NY,1:36:44,Bike Brothers
 9,260924,Thomas,Harris,Westminster,MD,1:37:16,S'Ville Bikes Race Team
 10,414033,Mark,Walters,Rochester,NY,1:37:26,Crankskins.com
@@ -396,7 +396,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,24614,Matt,Mitchell,Lincoln,MA,1:33:12,545 Velo
 5,5230,Amos,Brumble IV,Westerly,RI,1:33:57,CCB Racing
 6,114677,Michael,Wonderly,Colchester,CT,1:34:01,Team Horst Sports
-7,507347,Esdras,Pechim,Somerville ,MA,1:34:56,
+7,507347,Esdras,Pechim,Somerville,MA,1:34:56,
 8,158486,Matt,Germon,Lincoln,VT,1:35:33,Bicycle Express Racing
 9,111810,Robert,Carmen,Simsbury,CT,1:36:02,Team Errace p/b DSO Manufacturing
 10,153455,Richard,Tortorici III,Clifton Park,NY,1:36:15,R-Cubed

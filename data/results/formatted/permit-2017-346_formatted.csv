@@ -30,7 +30,7 @@ DNF,213564,Ben,Bertiger,Altadena,CA,,Centric Bikes
 01/22/2017 Criterium Men Cat 3/4 Masters 35+
 Place,License #,First,Last,City,State,Time,Team
 1,414976,steve,walker,Sneads Ferry,NC,,Monster Media Racing
-2,423364,Reyes,Hilario,Bell,CA,,
+2,0,Reyes,Hilario,,,,
 3,457996,Steve,Netter,Menifee,CA,,
 4,197032,David,Martos,Noho,CA,,Penuel Bicycles
 5,305814,Jason,Morin,Redondo Beach,CA,,Big Orange Cycling p/b Beachbody Performance
@@ -56,8 +56,8 @@ DNS,365389,Daniel,Funk,Santa Monica ,CA,,Velo Club La Grange +21
 Place,License #,First,Last,City,State,Time,Team
 1,396622,Matthew,Easter,Valencia,CA,,HSR Racing p/b BIRDWORX
 2,316516,Robbie,Miranda,Huntington Beach,CA,,Surf City/STERLING BMW/CYLANCE/GQ6
-3,182728,Max,Hernandez,Rancho Cucamonga ,CA,,Team Surf City p/b Eliel/Pioneer
-4,423364,Reyes,Hilario,Bell,CA,,
+3,182728,Max,Hernandez,Rancho Cucamonga,CA,,Team Surf City p/b Eliel/Pioneer
+4,0,Reyes,Hilario,,,,
 5,72715,Patrick,Bos,Valencia,CA,,HSR Racing p/b BIRDWORX
 DNS,52923,Klayton,Sproles,Corona,CA,,Raceklean Cycling Team
 DNS,364697,MICHAEL,PENTA,Thousand Oaks,CA,,Big Orange Cycling p/b Beachbody Performance
@@ -86,7 +86,7 @@ Place,License #,First,Last,City,State,Time,Team
 DNS,45249,Brad,Decker,Irvine,CA,,Team Simple Green/Cannondale/Bike Religion
 DNS,389078,David,Holland,Culver City,CA,,Big Orange Cycling p/b Beachbody Performance
 DNS,364697,MICHAEL,PENTA,Thousand Oaks,CA,,Big Orange Cycling p/b Beachbody Performance
-DNF,50838,Christopher,Lotts,Huntington Beach,CA,,Corridor Recycling
+DNF,50838,Christopher,Lotts,Fountain Valley,CA,,Corridor Recycling
 
 01/22/2017 Criterium Men Cat 5 Senior Open
 Place,License #,First,Last,City,State,Time,Team
@@ -95,7 +95,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,523421,Topher,Riley,Cardiff By The Sea,CA,,
 4,265761,Kory,Cook,Tustin,CA,,
 5,510155,Kevin,Escobar,Los Angeles,CA,,Martin's Pro Bikes Team
-6,0,Andy,Smith,,,,
+6,459248,Andy,Smith,Tehachapi,CA,,
 7,497085,William,Hubsch,Baltimore,MD,,Lateral Stress Velo Inc.
 8,496788,Mike,Starr,Los Angeles,CA,,
 9,380429,Richard,Beach,Corona,CA,,
@@ -151,7 +151,7 @@ DNS,522553,Alison,Kubota,San Francisco,CA,,
 DNS,401693,Marcus,Lostracco,San Diego,CA,,Moment Bicycles
 DNS,512903,David,Lovelace,Panorama City,CA,,
 DNS,435340,Luis,Morales,Chula Vista,CA,,BMW Major Motion Development Team
-DNS,0,Topher,Riley,,,,
+DNS,523421,Topher,Riley,Cardiff By The Sea,CA,,
 DNS,498397,Antonio,Rossi,San Diego,CA,,Team Velosport Junior & U23 Development - Ridebiker Alliance
 DNS,523661,Jean,Tawekjian,Fontana,CA,,Majestic/Mobbin Cycling
 DNS,500066,Seth,Totten,Canyon Country,CA,,
@@ -185,7 +185,7 @@ DNS,393634,Alexander Wulfgang,Lochmiller,San Diego,CA,,Team Velosport Junior & U
 DNS,467816,carlos,Martinez -fernandez,Chula Vista,CA,,G3Foundation / Trek
 DNS,435340,Luis,Morales,Chula Vista,CA,,BMW Major Motion Development Team
 DNS,466656,Ryan,Resella,Valencia,CA,,CBS Cycling
-DNS,303612,Bernd,Riggers,Sherman Oaks,CA,,Tulsa Wheelmen
+DNS,303612,Bernd,Riggers,Burbank,CA,,Tulsa Wheelmen
 DNS,425353,Andrea,Rossi,San Diego,CA,,
 DNF,433433,Oscar,Cervantes,Wilmington,CA,,GBS Racing
 DNF,458056,Benjamin,Clarke,Milpitas,CA,,SJBC

@@ -30,7 +30,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,474087,Ryder,Jordin,Sandy,UT,,
 8,529368,Payton,Andersen,Draper,UT,,
 9,481890,Hayden,Rosborough,Prescott,AZ,,
-10,307201,Nye,Yackle,Spokane ,WA,,
+10,307201,Nye,Yackle,Spokane,WA,,
 11,497520,Calvin,Trudeau,Vail,CO,,
 12,498717,Logan,Howard,Austin,TX,,
 13,426280,Nick,Mohan,Crawford,TX,,
@@ -69,7 +69,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/14/2017 Short Track Cross Country Women Cat 1 15-18
 Place,License #,First,Last,City,State,Time,Team
-1,332072,Katie,Clouse,Littleton ,CO,,
+1,332072,Katie,Clouse,Park City,UT,,
 2,381411,Mila,Leger Redel,Park City,UT,,
 3,363170,Tea,Wright,Boulder,CO,,
 4,501905,Jazlyn,Smith,Breckenridge,CO,,
@@ -84,16 +84,16 @@ Place,License #,First,Last,City,State,Time,Team
 5,101189,Alexander,Grant,Salt Lake City,UT,1:34:22.3,Cannondale
 6,211002,Nicholas,Beechan,Idyllwild,CA,1:34:45.2,Southern California Nevada Cycling Assoc
 7,327262,Michael,Sampson,Holderness,NH,1:35:14.4,Vittoria #growMTB
-8,267198,Robert,Squire,Sandy,UT,1:35:44.3,UCI CT: Canyon Bicycles
+8,267198,Robert,Squire,Salt Lake City,UT,1:35:44.3,UCI CT: Canyon Bicycles
 9,457824,Henry,Nadell,Carbondale,CO,1:35:55.8,CZ Racing
-10,264681,Jacob,Sacket,Troy,TX,1:36:29.0,Competitive Cyclist MTB Team
+10,264681,Jacob,Sacket,Durango,CO,1:36:29.0,Competitive Cyclist MTB Team
 11,349134,Carson,Lange,Austin,TX,1:36:50.0,Competitive Cyclist MTB Team
 12,85929,Brian,Matter,Sheboygan,WI,1:37:24.0,Linear Sport MTB
 13,333468,Cal,Skilsky,Tucson,AZ,1:37:26.5,
 14,264191,Stephan,Davoust,Durango,CO,1:38:09.8,Giant Factory Off-Road Team
 15,298725,Grant,Ellwood,Boulder,CO,1:38:41.3,Boulder Cycle Sport
 16,285975,Alex,Wild,Los Gatos,CA,1:38:47.2,TRAIL HEAD RACING - SPECIALIZED
-17,356788,Lucas,Rowton,La Canada Flintridge,CA,1:39:01.6,Montrose Cycling Club
+17,356788,Lucas,Rowton,Durango,CO,1:39:01.6,Montrose Cycling Club
 18,495732,Rylan,Schadegg,Logan,UT,1:39:09.7,Competitive Cyclist MTB Team
 19,361444,Nathan,Barton,Auburn,CA,1:39:37.7,Northern California/Nevada Cycling Assoc
 20,388704,Clayton,Otto,Salt Lake City,UT,1:39:59.6,Giant Co-Factory Off-Road Team
@@ -188,7 +188,7 @@ Place,License #,First,Last,City,State,Time,Team
 05/14/2017 Cross Country Men Cat 2 40-49
 Place,License #,First,Last,City,State,Time,Team
 1,515378,Nate,Marine,Cottonwood Heights,UT,1:04:39.8,
-2,486390,Nick,Markosian,Salt Lake City,UT,1:05:32.0,PLAN7 DS Cycling Team
+2,486390,Nick,Markosian,Taylorsville,UT,1:05:32.0,PLAN7 DS Cycling Team
 3,528492,Kyle,Smith,Ogden,UT,1:06:01.0,
 4,418389,Todd,Kercher,Highlands Ranch,CO,1:08:37.4,Avout Racing
 5,423083,corey,spencer,West Haven,UT,1:17:49.7,America First Cycling Team pb P-Town Cro
@@ -207,14 +207,14 @@ Place,License #,First,Last,City,State,Time,Team
 4,474087,Ryder,Jordin,Sandy,UT,1:20:30.0,Canyon Bicycles Racing - Utah
 5,481890,Hayden,Rosborough,Prescott,AZ,1:21:48.8,
 6,364328,Sam,Brown,Eagle,CO,1:21:54.4,
-7,533155,Dylan,Fairchild,Salt Lake City,UT,1:24:54.1,
+7,528718,Dylan,Fairchild,Salt Lake City Ut,UT,1:24:54.1,
 8,494055,Harrison,Klapheke,Kingston Springs,TN,1:25:04.7,Nashville Local Cycling
 9,448909,Bjorn,Riley,Boulder,CO,1:25:55.5,Boulder Junior Cycling
 10,0,Bradon,Hudspeth,,,1:27:15.3,
 11,529368,Payton,Andersen,Draper,UT,1:27:48.9,Canyon Bicycles
 12,527662,Spencer,Davies,Providence,UT,1:27:51.1,
 13,527654,Conner,Lacey,Sandy,UT,1:28:35.6,
-14,307201,Nye,Yackle,Spokane ,WA,1:28:59.0,
+14,307201,Nye,Yackle,Spokane,WA,1:28:59.0,
 15,532716,Truman,Glasgow,Alpine,UT,1:29:10.9,
 16,530502,Andrew,Conover,Highland,UT,1:30:50.5,
 17,504409,Cade,Matheson,Lindon,UT,1:31:52.8,
@@ -224,7 +224,7 @@ Place,License #,First,Last,City,State,Time,Team
 21,533064,Harrison,Holbrook,Kaysville,UT,1:36:22.8,
 22,533268,Joshua,Griffin,Draper,UT,1:38:00.2,Rouleur Devo p/b DNA Cycling
 23,426280,Nick,Mohan,Crawford,TX,1:38:30.4,
-24,530378,Janzen,Lewright,Austin,TX,1:38:45.9,
+24,497372,Janzen,Lewright,Austin,TX,1:38:45.9,
 25,530943,Jack,Youngblood,Providence,UT,1:40:14.9,Summit -Competitive Cyclist
 26,531973,Wyattt,Theurer,Providence,UT,1:41:51.4,Logan Race Club
 27,532939,James,Bradshaw,Draper,UT,1:43:44.5,
@@ -242,7 +242,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,387670,Finn,Gullickson,Colorado Springs,CO,1:08:20.8,TEAM CLIF BAR Cycling
 6,494853,Lance,packer,Kaysville,UT,1:09:17.5,Utah Cycling Association
 7,355674,Nicholas,Jenkins,Colorado Springs,CO,1:09:17.8,Competitive Cyclist MTB Team
-8,307192,Jake,Yackle,Spokane ,WA,1:09:47.3,Northern California/Nevada Cycling Assoc
+8,307192,Jake,Yackle,Spokane,WA,1:09:47.3,Northern California/Nevada Cycling Assoc
 9,489259,Seth,Saxton,Draper,UT,1:10:03.4,Rouleur Devo p/b DNA Cycling
 10,458223,Ethan,Moyer,Steamboat Springs,CO,1:10:20.0,Natural Grocers Cycling Team
 11,286165,Caleb,Swartz,Madison,WI,1:11:30.5,Linear Sport / Trek
@@ -333,7 +333,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,294584,Alexis,Skarda,Grand Junction,CO,1:33:33.7,Bicycle Racing Association of Colorado
 2,381220,Evelyn,Dong,Boulder,CO,1:33:53.5,Bicycle Racing Association of Colorado
-3,332624,Sofia,Gomez Villafane,Durango,CO,1:35:45.0,Pivot - Assos - #growMTB
+3,332624,Sofia,Gomez Villafane,Heber City,UT,1:35:45.0,Pivot - Assos - #growMTB
 4,254509,Melinda,McCutcheon,Salt Lake City,UT,1:37:35.6,
 5,381637,Nicole,Tittensor,Axtell,UT,1:38:11.3,Jans Park City/Scott Bikes/Reynolds Cycl
 6,301606,Hannah,Finchamp,Kennewick,WA,1:38:54.4,MTB Pro Team: Clif Pro Team
@@ -385,7 +385,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,532639,Hadley,Peay,Alpine,UT,1:28:18.1,Rouleur Devo p/b DNA Cycling
 11,486564,Kalena,Engeling,Waco,TX,1:35:27.2,Summit -Competitive Cyclist
 12,504739,Grace,Jencks,Park City,UT,1:38:50.5,Summit -Competitive Cyclist
-DNF,332072,Katie,Clouse,Littleton ,CO,DNF,Liv Co-Factory Off-Road Team
+DNF,332072,Katie,Clouse,Park City,UT,DNF,Liv Co-Factory Off-Road Team
 DNF,492658,Mckenzie,Kretzmeier,Valley Mills,TX,DNF,Summit -Competitive Cyclist
 
 05/14/2017 Cross Country Women Cat 1 UCI Junior 17-18
@@ -431,8 +431,8 @@ Place,License #,First,Last,City,State,Time,Team
 6,284559,Chris,Baddick,Lyons,CO,,Boulder Cycle Sport
 7,211002,Nicholas,Beechan,Idyllwild,CA,,Southern California Nevada Cycling Assoc
 8,327262,Michael,Sampson,Holderness,NH,,Vittoria #growMTB
-9,356788,Lucas,Rowton,La Canada Flintridge,CA,,Montrose Cycling Club
-10,264681,Jacob,Sacket,Troy,TX,,Competitive Cyclist MTB Team
+9,356788,Lucas,Rowton,Durango,CO,,Montrose Cycling Club
+10,264681,Jacob,Sacket,Durango,CO,,Competitive Cyclist MTB Team
 11,228336,Russell,Finsterwald,Colorado Springs,CO,,SRAM- Troy Lee Designs Racing Team
 12,101189,Alexander,Grant,Salt Lake City,UT,,Cannondale
 13,322250,Anders,Johnson,Huntsville,UT,,Whole Athlete p/b DNA
@@ -488,7 +488,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,286165,Caleb,Swartz,Madison,WI,,Linear Sport / Trek
 2,493105,Paul,Fabian,Prescott,AZ,,Arizona Bicycle Racing Association
-3,307192,Jake,Yackle,Spokane ,WA,,Northern California/Nevada Cycling Assoc
+3,307192,Jake,Yackle,Spokane,WA,,Northern California/Nevada Cycling Assoc
 4,428557,Connor,Patten,Park City,UT,,Competitive Cyclist MTB Team
 5,457493,Cameron,Larson,Pleasant Grove,UT,,Competitive Cyclist MTB Team
 6,429882,Bradyn,Lange,Austin,TX,,Competitive Cyclist MTB Team
@@ -531,7 +531,7 @@ Place,License #,First,Last,City,State,Time,Team
 05/13/2017 Short Track Cross Country Women Pro
 Place,License #,First,Last,City,State,Time,Team
 1,254509,Melinda,McCutcheon,Salt Lake City,UT,,
-2,332624,Sofia,Gomez Villafane,Durango,CO,,
+2,332624,Sofia,Gomez Villafane,Heber City,UT,,
 3,301606,Hannah,Finchamp,Kennewick,WA,,
 4,381220,Evelyn,Dong,Boulder,CO,,
 5,294584,Alexis,Skarda,Grand Junction,CO,,

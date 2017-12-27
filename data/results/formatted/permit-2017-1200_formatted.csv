@@ -10,7 +10,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,420164,CASON,SEARLE,Orem,UT,0:47:06,Caliber-SBR Cycling p/b LHM Lex
 7,528634,Mark,Fowler,Custer,MT,0:48:10,
 8,362573,Scott,Draudt,Englewood,CO,0:48:35,
-9,424396,James,Ianni,Denver,CO,0:52:16,Fort Lewis College
+9,424396,James,Ianni,Durango,CO,0:52:16,Fort Lewis College
 
 05/14/2017 Circuit Race Men Cat 4/5 Masters 35-99
 Place,License #,First,Last,City,State,Time,Team
@@ -30,16 +30,16 @@ Place,License #,First,Last,City,State,Time,Team
 1,345810,Henry,York,Monument,CO,0:53:38,COS Racing
 2,427721,Daxton,Kennington,Kaysville,UT,0:53:38,Rouleur Devo
 3,423229,Tim,Fegel,Fort Collins,CO,0:53:38,1st City Cycling Team p/b Noosa
-4,422919,Ryan,Mauser,South Jordan,UT,0:53:38,Zone Five Racing
+4,422919,Ryan,Mauser,Cottonwood Heights,UT,0:53:38,Zone Five Racing
 5,367977,Miles,Whedbee,Fort Collins,CO,0:54:36,First City Cycling
 6,404821,Rees,York,Monument,CO,0:54:37,1st City Cycling Team
-7,113005,Paul,Kilhefner,Farmington ,UT,0:55:10,
+7,113005,Paul,Kilhefner,Farmington,UT,0:55:10,
 8,376424,Ernesto,Jimenez,Salt Lake City,UT,0:56:00,Plan7 DS
 
 05/14/2017 Circuit Race Men Cat 1/2/3/4 Masters 45-99
 Place,License #,First,Last,City,State,Time,Team
 1,32887,Ian,Skurnik,Salt Lake City,UT,0:43:14,
-1,142960,Jerald,Hunsaker,Midvale,UT,0:48:47,Bountiful Mazda Cycling Team
+1,142960,Jerald,Hunsaker,South Ogden,UT,0:48:47,Bountiful Mazda Cycling Team
 2,281812,Stephen,Rogers,Lehi,UT,0:43:14,Zone Five Racing
 2,0,Norm,Frye,,,0:49:16,Ski City
 3,119450,kyle,brown,Farmington,UT,0:43:21,PLAN7 DS cycling team
@@ -67,7 +67,7 @@ Place,License #,First,Last,City,State,Time,Team
 05/14/2017 Circuit Race Men Cat 1/2/3 Masters 35-99
 Place,License #,First,Last,City,State,Time,Team
 1,0,J,Kirby,,,0:54:45,
-2,113005,Paul,Kilhefner,Farmington ,UT,0:55:10,
+2,113005,Paul,Kilhefner,Farmington,UT,0:55:10,
 3,423952,Devin,Smith,Layton,UT,0:57:18,Bountiful Mazda
 
 05/14/2017 Circuit Race Women Cat 1/2/3 15-99
@@ -87,7 +87,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,64398,Brad,Loyd,Fort Collins,CO,4:08:00,Remote Geo Cycling Team
 2,161560,Jason,Castor,Salt Lake City,UT,4:08:01,Contender Bicycles
-3,267821,joe,waters,Ogden,UT,4:08:01,Bingham Cyclery - Peak Fastener
+3,267821,joe,waters,Salt Lake City,UT,4:08:01,Bingham Cyclery - Peak Fastener
 4,262949,Cortlan,Brown,Woods Cross,UT,4:08:01,Canyon Bicycles Pro Cycling
 5,318710,Ira,Sorensen,Herriman,UT,4:08:02,Canyon Bicycles / Canyon Bicycl
 6,370140,Jared,Brewer,Taylorsville,UT,4:08:03,Ski City Cycling
@@ -99,7 +99,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,397333,Joseph,Stewart,Cedar Hills,UT,4:08:08,Caliber-SBR Cycling p/b LHM Lex
 13,0,Unknown,Rider,,,4:08:10,
 14,276490,Will,Hanson,Draper,UT,4:08:11,Ski City Cycling
-15,376935,Shaun,Johnson,Taylorsville,UT,4:08:12,Cicada Racing
+15,376935,Shaun,Johnson,Slc,UT,4:08:12,Cicada Racing
 16,460893,Preston,Weeks,Provo,UT,4:08:25,Caliber-SBR Cycling p/b LHM Lex
 17,337310,Robert,Smallman,Alpine ,UT,4:08:37,Team Endurance 360
 18,293891,Gabriel,Moss,Ketchum,ID,4:08:51,katy perry is my hero
@@ -112,10 +112,10 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/13/2017 Road Race Men CAT 4/5 18-99
 Place,License #,First,Last,City,State,Time,Team
-1,376676,Nic,Porter,Sandy,UT,2:04:35,Adobe
+1,376676,Nic,Porter,Smithfield,UT,2:04:35,Adobe
 2,279124,Rick,Finlayson,Highland,UT,2:04:35,Millbrook Racing
 3,530407,Seth,Hinckley,Provo,UT,2:04:35,SBR Cycles
-4,424396,James,Ianni,Denver,CO,2:04:36,Fort Lewis College
+4,424396,James,Ianni,Durango,CO,2:04:36,Fort Lewis College
 5,276940,Alan,Takemori,Lehi,UT,2:04:36,Millrock racing
 6,388608,Ethan,Hoj,Salt Lake City,UT,2:04:36,
 7,420164,CASON,SEARLE,Orem,UT,2:04:36,Caliber-SBR Cycling p/b LHM Lex
@@ -168,7 +168,7 @@ DNF,525592,Brady,O'Shaughnessy,North Logan,UT,,
 
 05/13/2017 Road Race Men CAT 4/5 Master 35-99
 Place,License #,First,Last,City,State,Time,Team
-1,433654,Kevin,Gibson,Pocatello ,ID,2:04:47,ICE
+1,433654,Kevin,Gibson,Pocatello,ID,2:04:47,ICE
 2,527439,Mike,Broderick,Lehi,UT,2:04:49,America First Cycling Team powe
 3,433023,James,Derrick,Bountiful,UT,2:04:49,Zanconato Racing
 4,504454,Bart,Preston,Lindon,UT,2:04:50,Zone five racing
@@ -203,12 +203,12 @@ Place,License #,First,Last,City,State,Time,Team
 4,102603,James Rob,Stratton,Springville,UT,4:15:18,NEBO Cycling
 5,431279,Ben,Stevenson,Salt Lake City,UT,4:16:05,Team Endurance360
 6,345810,Henry,York,Monument,CO,4:16:05,COS Racing
-7,422919,Ryan,Mauser,South Jordan,UT,4:16:05,Zone Five Racing
+7,422919,Ryan,Mauser,Cottonwood Heights,UT,4:16:05,Zone Five Racing
 8,423229,Tim,Fegel,Fort Collins,CO,4:16:06,1st City Cycling Team p/b Noosa
 9,293210,David,Carter,Logan,UT,4:16:10,Team TOSH
 10,377406,Billy,Rappleye,Draper,UT,4:16:14,Zone Five Racing
 11,404821,Rees,York,Monument,CO,4:16:20,1st City Cycling Team
-12,113005,Paul,Kilhefner,Farmington ,UT,4:16:20,
+12,113005,Paul,Kilhefner,Farmington,UT,4:16:20,
 13,378767,Troy,Huebner,Orem,UT,4:16:47,Zone Five Racing
 14,376424,Ernesto,Jimenez,Salt Lake City,UT,4:17:10,Plan7 DS
 15,224853,Ryan,Ottley,North Logan,UT,4:19:37,Logan Race Club
@@ -239,7 +239,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,66592,Mark,Schaefer,Ogden,UT,2:07:02,Maddog Racing
 2,23665,John,McKone,Park City,UT,2:07:02,Flying Tigers p/b Jamis
 3,7974,Dirk,Cowley,Salt Lake City,UT,2:07:02,FFKR ARCHITECTS RACING
-4,142960,Jerald,Hunsaker,Midvale,UT,2:07:03,Bountiful Mazda Cycling Team
+4,142960,Jerald,Hunsaker,South Ogden,UT,2:07:03,Bountiful Mazda Cycling Team
 5,2172,Gary,Azevedo,Idaho Falls,ID,2:07:08,Idaho Cycling Enthusiasts
 6,388576,Andres,Maricq,Salt Lake City,UT,2:11:21,
 7,199407,gary,simmons,Layton,UT,2:11:24,Bountiful Mazda Cycling team
@@ -248,7 +248,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,206404,don,bowen,Pleasant Grove,UT,2:19:04,satori
 11,413901,Mike,Collins,Brigham City,UT,2:22:05,Golden Spike Cycling
 12,484448,Scott,Poulson,Aberdeen,ID,2:22:11,Scott Poulson Farms
-13,276755,Matthew,Robbins,Draper,UT,2:25:29,Plan 7 DS
+13,276755,Matthew,Robbins,Slc,UT,2:25:29,Plan 7 DS
 14,420189,Lance,Francis,Kemmerer,WY,2:31:25,
 
 05/13/2017 Road Race Women CAT 3/4 18-99
@@ -263,7 +263,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,524149,Kristy,Stratton,Springville,UT,2:23:39,NEBO Cycling
 4,0,Danielle,Bradshaw,,,2:37:54,
 5,514614,Hillarie,Christley,Salt Lake City,UT,2:40:49,
-6,433139,ivy,portwood,Park City,UT,2:44:38,
+6,513510,ivy,portwood,,UT,2:44:38,
 7,0,Tammy,Morlock,,,3:04:30,
 
 05/13/2017 Road Race Women CAT 1/2/3 18-99
@@ -400,7 +400,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,119450,Cortlan,Brown,Farmington,UT,14:53,Canyon Bicycles Pro Cycling
 2,135709,Joshua,Frick,Park City,UT,16:20,Ski City Cycling
-3,376935,Shaun,Johnson,Taylorsville,UT,16:30,Cicada Racing
+3,376935,Shaun,Johnson,Slc,UT,16:30,Cicada Racing
 4,370140,Jared,Brewer,Taylorsville,UT,16:34,Ski City Cycling
 5,321238,griffin,park,Springville,UT,16:45,Canyon Bicycles
 6,458291,Erik,Brockhoff,West Jordan,UT,17:04,Cicada Racing Inc.
@@ -433,11 +433,11 @@ Place,License #,First,Last,City,State,Time,Team
 2,206404,don,bowen,Pleasant Grove,UT,21:25,satori
 3,199407,gary,simmons,Layton,UT,23:46,Bountiful Mazda Cycling team
 4,370665,craig,Gardner,Eden,UT,,
-DNF,142960,Jerald,Hunsaker,Midvale,UT,,Bountiful Mazda Cycling Team
+DNF,142960,Jerald,Hunsaker,South Ogden,UT,,Bountiful Mazda Cycling Team
 
 05/12/2017 Time Trial Men Cat 4/5 18-99
 Place,License #,First,Last,City,State,Time,Team
-1,376676,Nic,Porter,Sandy,UT,15:50,Adobe
+1,376676,Nic,Porter,Smithfield,UT,15:50,Adobe
 2,494827,Tanner,Carlson,Provo,UT,17:00,
 3,514293,Anthony,Jeffs,American Fork,UT,17:20,University of Utah
 4,498107,Tim,Frost,Bear River City,UT,18:10,Utah State University
@@ -469,9 +469,9 @@ Place,License #,First,Last,City,State,Time,Team
 4,396750,Ben,Stevenson,Salt Lake City,UT,16:40,Team Endurance360
 5,427721,Daxton,Kennington,Kaysville,UT,17:05,Rouleur Devo
 6,404821,Rees,York,Monument,CO,18:03,1st City Cycling Team
-7,422919,Ryan,Mauser,South Jordan,UT,18:27,Zone Five Racing
+7,422919,Ryan,Mauser,Cottonwood Heights,UT,18:27,Zone Five Racing
 8,199992,Chad,Chenoweth,Salt Lake City,UT,18:37,
-9,424396,James,Ianni,Denver,CO,20:39,Fort Lewis College
+9,424396,James,Ianni,Durango,CO,20:39,Fort Lewis College
 10,376424,Ernesto,Jimenez,Salt Lake City,UT,21:27,Plan7 DS
 11,0,Day,Olsen,,,17:53,
 

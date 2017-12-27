@@ -45,7 +45,7 @@ Place,License #,First,Last,City,State,Time,Team
 03/04/2017 Criterium Men CAT B Collegiate
 Place,License #,First,Last,City,State,Time,Team
 1,496862,Taylor,Adams,Little Rock,AR,,US Naval Academy
-2,493748,Benjamen,Shrewsberry,Shippensburg,PA,,Shippensburg University of Pennsylvania
+2,493748,Benjamen,Shrewsberry,Fredericksburg,VA,,Shippensburg University of Pennsylvania
 4,498282,Eric,Sasse,Los Angeles,CA,,Johns Hopkins University
 5,481937,Alexander,Gilliam,Richmond,VA,,College of William and Mary
 6,496783,Oren,Mizrahi,Durham,NC,,Duke University
@@ -76,7 +76,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 03/04/2017 Criterium Women CAT A Collegiate
 Place,License #,First,Last,City,State,Time,Team
-1,220876,Katherine,Shields,Advance,NC,,Wake Forest University
+1,220876,Katherine,Shields,Salt Lake City,UT,,Wake Forest University
 2,423846,Erin,Thamm,Annapolis,MD,,US Naval Academy
 3,422664,Emma,Langley,Richmond ,VA,,College of William and Mary
 4,492822,Laura,Leaton,Charlottesville,VA,,University of Virginia
@@ -115,17 +115,17 @@ Place,License #,First,Last,City,State,Time,Team
 20,466355,Harrison,Chapman,Hanover,NH,,College of William and Mary
 21,480876,David,Burstein,Kernersville,NC,,Appalachian State University
 22,524852,Andrew,Krantz,College Park,MD,,University of Maryland-College Park
-23,503328,Nathan,Bailey,Hempstead,NY,,University of Maryland-College Park
+23,503328,Nathan,Bailey,Silver Spring,MD,,University of Maryland-College Park
 
 03/04/2017 Road Race Men CAT B Collegiate
 Place,License #,First,Last,City,State,Time,Team
 1,460469,Evan,Schmit,Harrisonbrug,VA,,James Madison University
 2,498282,Eric,Sasse,Los Angeles,CA,,Johns Hopkins University
-3,466208,Darin,Alleman,Newville,PA,,Shippensburg University of Pennsylvania
+3,466208,Darin,Alleman,Fredericksburg,VA,,Shippensburg University of Pennsylvania
 4,497800,Logan,Everts,Annapolis,MD,,US Naval Academy
 6,496783,Oren,Mizrahi,Durham,NC,,Duke University
 7,498458,Jeremy,McGale,Baltimore,MD,,Johns Hopkins University
-8,493748,Benjamen,Shrewsberry,Shippensburg,PA,,Shippensburg University of Pennsylvania
+8,493748,Benjamen,Shrewsberry,Fredericksburg,VA,,Shippensburg University of Pennsylvania
 9,495821,Brian,Petkov,Saint Paul,MN,,Duke University
 10,497638,David,Fouse,Lynchburg,VA,,Liberty University
 11,497642,Christian,Schick,Lynchburg,VA,,Liberty University
@@ -163,7 +163,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,13480,Thomas,Godfrey,Arlington,VA,,National Capital Velo Club/UnitedHealthcare
 8,413162,Justin,Markunas,Washington,DC,,VeloWorks-Spokes Etc
 9,274737,Gregory,Leach,Washington,DC,,Five Four Sports
-10,262217,Ryan,McGiboney,Roanoke,VA,,
+10,262217,Ryan,McGiboney,Blacksburg,VA,,
 11,205055,Micheal,Hosang,Virginia Beach,VA,,
 12,445064,Hao,Sun,Raleigh,NC,,North Carolina State University at Raleigh
 13,317954,Adam,Northup,Richmond,VA,,Team Carytown Bicycle Company
@@ -175,7 +175,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,249730,Steve,Patterson,Virginia Beach,VA,,
 20,215681,Marcus,Canady,Raleigh,NC,,North Carolina State University at Raleigh
 21,14782,Jon,Hamblen,Winston Salem,NC,,
-22,52480,Joel,Vowell,Fairfax,VA,,CoreTechs Cycling Team
+22,52480,Joel,Vowell,Fort Myer,VA,,CoreTechs Cycling Team
 23,331220,Giancarlo,Pierantoni,Richmond,VA,,
 24,498826,Anthony,Murfett,Arlington,VA,,District Velocity Racing
 25,8612,D. Nelson,Daniel,Richmond,VA,,North Georgia Cycling Association Inc.
@@ -201,7 +201,7 @@ DNF,70779,Jason,Hobbie,Richmond,VA,,
 Place,License #,First,Last,City,State,Time,Team
 1,449334,Ian,Anderson,Alexandria,VA,,
 2,510164,William,Longwell,Arlington,VA,,National Capital Velo Club/UnitedHealthcare
-3,523481,Christopher,Kallapodi,Alexandria,VA,,Whole Wheel Velo Club
+3,523481,Christopher,Kallapodi,Chicago,IL,,Whole Wheel Velo Club
 4,375730,Brian,Anderson,Moyock,NC,,Monument Cycling Club
 5,470062,Mark,Rackham,Woodbridge,VA,,Prince William Elite Racing (PoWER)
 6,497272,Jeff,Swanson,Virginia Beach,VA,,
@@ -210,7 +210,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,408188,Joshua,Quinn,Rocky Mount,VA,,Charlottesville Racing Club
 10,513688,Matthew,Nelson,Chester,VA,,Bad Cat Racing
 11,513053,Jake,Allison,Philadelphia,PA,,
-12,430003,Jason,Walters,Richmond,VA,,Sweet Spot Cycling
+12,430003,Jason,Walters,Quinton,VA,,Sweet Spot Cycling
 13,473271,Sam,Ghalayini,Fairfax Station,VA,,National Capital Velo Club/UnitedHealthcare
 14,472348,James,Mayer,Richmond,VA,,Richmond Velo Sport
 15,480090,Brian,Phipps,Jessup,MD,,
@@ -221,7 +221,7 @@ Place,License #,First,Last,City,State,Time,Team
 21,375286,Patrick,Jones,Virginia Beach,VA,,Fat Frogs Racing
 22,525827,Matthew,Lacy,Charles City,VA,,
 23,460114,Matt,Cartlidge,Woodbridge,VA,,Prince William Elite Racing (PoWER)
-24,498679,Irvin,Green,Gwynn Oak,MD,,
+24,498679,Irvin,Green,Gwynn Oak Md,MD,,
 25,488030,Orlandes,Howard,Waldorf,MD,,Getting It In Cyclists Inc
 26,454848,Brad,Thompson,Midlothian,VA,,Sweet Spot Cycling
 27,498017,Carl,Pinkney,Cpinkney Phyattsville,MD,,Getting It In Cyclists Inc
@@ -245,7 +245,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,495778,noel,medrano,Richmond,VA,,
 3,529223,Justin,Rodbell,Prince Frederick,MD,,
 4,423816,Ryan,Cullen,Midlothian,VA,,
-5,320586,Cameron,Quick,Gaithersburg ,MD,,
+5,320586,Cameron,Quick,Gaithersburg,MD,,
 6,466118,Peter,Herrick,Bethesda,MD,,National Capital Velo Club/UnitedHealthcare
 7,492661,Adrian,Amos,Doswell,VA,,Bad Cat Racing
 8,496369,William,Hart,Richmond,VA,,
@@ -258,7 +258,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,422828,Bradley,Harger,Richmond,VA,,Bad Cat Racing
 16,391835,John,Sylvester,Arlington,VA,,National Capital Velo Club/UnitedHealthcare
 17,422856,sean,smith,Hurlock ,MD,,Ocean Velo Club
-18,467284,Michael,Anderson,Clinton ,MD,,Phase Cycling
+18,467284,Michael,Anderson,Clinton,MD,,Phase Cycling
 19,472414,Torrence,Rogers,Virginia Beach,VA,,
 20,390412,Alex,Kasch,Arlington,VA,,National Capital Velo Club/UnitedHealthcare
 21,355314,Chris,Caton,Chesapeake,VA,,Rogue Velo Racing
@@ -295,7 +295,7 @@ Place,License #,First,Last,City,State,Time,Team
 54,268808,Nathan,Ayers,Glen Allen,VA,,Bad Cat Racing
 55,311169,Brian,Derr,Fredericksburg,VA,,
 56,458829,Ben,Hostetler,Stokesdale,NC,,West Virginia University
-DNF,495748,Aaron,Cross,Richmond,VA,,Charlottesville Racing Club
+DNF,495748,Aaron,Cross,Highland Springs,VA,,Charlottesville Racing Club
 DNF,401387,Robert,Jones,Bowie,MD,,Phase Cycling
 DNF,369359,Iain,Mackeith,Mc Lean,VA,,National Capital Velo Club/UnitedHealthcare
 DNF,523175,Ron,Tuazon,Lanham,MD,,
@@ -304,7 +304,7 @@ DNF,523175,Ron,Tuazon,Lanham,MD,,
 Place,License #,First,Last,City,State,Time,Team
 1,193513,Ryan,Buerman,Alexandria,VA,,National Capital Velo Club/UnitedHealthcare
 2,413162,Justin,Markunas,Washington,DC,,VeloWorks-Spokes Etc
-3,496381,Chris,Hill,Hollywood,MD,,Bayside Velo/Bike Doctor
+3,496381,Chris,Hill,Lexington Park,MD,,Bayside Velo/Bike Doctor
 4,339848,Doug,Hight,Virginia Beach,VA,,
 5,424095,Jason,Funderburk,Leesburg,VA,,Evolution Cycling Club p/b Long & Foster
 6,496722,Kyle,Baca,Arlington,VA,,
@@ -325,13 +325,13 @@ Place,License #,First,Last,City,State,Time,Team
 21,58274,Joshua,Goyet,Virginia Beach,VA,,Fat Frogs Racing
 DNF,206395,Adam,Schildge,Alexandria,VA,,VeloWorks-Spokes Etc
 DNF,393576,Tom,Vaquera,Chesapeake,VA,,Fat Frogs Racing
-DNF,413431,Vince,Heivilin,Virginia Beach,VA,,
+DNF,75647,Vince,Heivilin,Virginia Beach,VA,,
 DNF,286566,Chas,McFarland,Wheeling,WV,,
 
 03/04/2017 Road Race Men Masters 45+
 Place,License #,First,Last,City,State,Time,Team
 1,59226,Harry,Fang,Chevy Chase,MD,,National Capital Velo Club/UnitedHealthcare
-2,52480,Joel,Vowell,Fairfax,VA,,CoreTechs Cycling Team
+2,52480,Joel,Vowell,Fort Myer,VA,,CoreTechs Cycling Team
 3,107776,Frank,Ramos,Lexington Park,MD,,Bayside Velo/Bike Doctor
 4,338866,Dariusz,Tyborowski,Zebulon,NC,,
 5,121519,Geraldo,Peralta,Lorton,VA,,Whole Wheel Velo Club
@@ -359,7 +359,7 @@ DNF,46760,Dean,Pierson,Salisbury,MD,,Ocean Velo Club
 
 03/04/2017 Road Race Women CAT A Collegiate
 Place,License #,First,Last,City,State,Time,Team
-1,220876,Katherine,Shields,Advance,NC,,Wake Forest University
+1,220876,Katherine,Shields,Salt Lake City,UT,,Wake Forest University
 2,393957,Maryann,Riley,Columbia,SC,,Appalachian State University
 3,492822,Laura,Leaton,Charlottesville,VA,,University of Virginia
 4,422664,Emma,Langley,Richmond ,VA,,College of William and Mary
@@ -369,7 +369,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 03/04/2017 Road Race Women Cat 4/5
 Place,License #,First,Last,City,State,Time,Team
-1,476619,Paige,Kostanecki,Charottesville,VA,,Charlottesville Racing Club
+1,476619,Paige,Kostanecki,Charlottesville,VA,,Charlottesville Racing Club
 2,498598,Dixie,Newsome,Virginia Beach,VA,,Celerity Cycling
 3,368854,Mary,Still,Norfolk,VA,,Celerity Cycling
 4,503173,Rose,Byler,Charlottesville,VA,,Charlottesville Racing Club
@@ -385,8 +385,8 @@ Place,License #,First,Last,City,State,Time,Team
 2,406195,Maggie,Barton,Richmond,VA,,Sweet Spot Cycling
 3,343690,Morgan,Hendricks,Goshen,NY,,
 4,401290,Gisela,Bell,Virginia Beach,VA,,
-5,216612,Sally,McMahon,Virginia Beach,VA,,
+5,216612,Sally,McMahon,Newalla,OK,,
 6,395102,Casey,Thompson,Alexandria,VA,,
-7,252502,Marion,Palmieri,Yorktown ,VA,,Celerity Cycling
+7,252502,Marion,Palmieri,Yorktown,VA,,Celerity Cycling
 8,212846,Emily,Joyner,Virginia Beach,VA,,Celerity Cycling
 9,272994,Sharon,Leary,Prince George,VA,,Sweet Spot Cycling

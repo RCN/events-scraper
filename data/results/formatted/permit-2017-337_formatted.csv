@@ -59,7 +59,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,0,Ludovic,Narce,,,0:42:57,
 2,524951,Daniel,Evans,St Petersburg,FL,0:40:56,Paralyzed Veterans of America Racing
-3,501086,Radames,Rodriguez,San Antonio ,TX,0:40:58,
+3,501086,Radames,Rodriguez,San Antonio,TX,0:40:58,
 4,149499,Kenneth,Bestine,Clymer,NY,0:41:02,
 5,438041,Wesley,Bergin,Palm Harbor,FL,0:42:51,Paralyzed Veterans of America Racing
 6,524177,Ricardo,Rincon Gallardo Diep,Tucson,AZ,0:42:53,
@@ -81,7 +81,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,0,C. David,Swaim,,,0:40:33,
 2,503976,Ken,Higgins,Dacula,GA,0:44:48,Paralyzed Veterans of America Racing
-3,440349,Solomon,Revils,Chesapeake,VA,0:44:35,Paralyzed Veterans of America Racing
+3,440349,Solomon,Revils,Chespeake,VA,0:44:35,Paralyzed Veterans of America Racing
 
 02/04/2017 Criterium Men Cat 4/5 Master 40+
 Place,License #,First,Last,City,State,Time,Team
@@ -111,11 +111,11 @@ Place,License #,First,Last,City,State,Time,Team
 1,57055,Kirk,Corsello,Lilburn,GA,0:57:07,Next Moto Champion Cycling p/b Roswell Bicycles
 2,177274,Pedro,Medina,Orlando,FL,0:57:07,Advanced Cycles pb/Topview Sports
 3,292712,Terence,Auter,Satellite Beach,FL,0:57:07,Infinity Bike Shop
-4,153443,Allison,Anjos,Boca Raton,FL,0:57:07,
+4,153443,Allison,Anjos,Boca Rato,FL,0:57:07,
 5,108976,Curtis,Long,Atlantic Beach,FL,0:57:08,FloridaVelo
 6,285509,Francisco,Hernandez,Orlando,FL,0:57:09,Compass Research Cycling Team
 7,52228,Jared,Zimlin,Palm Harbor,FL,0:57:10,GearLink Racing INC.
-8,175537,Cliff,Kugler,Simpsonville ,SC,0:57:11,Cycle Haus Racing
+8,175537,Cliff,Kugler,Simpsonville,SC,0:57:11,Cycle Haus Racing
 9,261127,Osvaldo,Delgado,Port Saint Lucie,FL,0:57:11,
 10,28734,Anthony,Prioli,Clearwater,FL,0:57:11,GearLink Racing INC.
 11,31413,Ryan,Saylor,Gainesville,FL,0:57:12,GearLink Racing INC.
@@ -151,7 +151,7 @@ DNF,460570,Jeff,Hall,Greenville,SC,0:36:30,Cycle Haus Racing
 
 02/04/2017 Criterium Men Cat 5
 Place,License #,First,Last,City,State,Time,Team
-1,511698,Harrison,Scales,,,0:48:07,
+1,511698,Harrison,Scales,St. Augustine,FL,0:48:07,
 2,488582,Yarian,Rosado,Longwood,FL,0:48:07,Advanced Cycles pb/Topview Sports
 3,524568,LEONARDO,SOLORZANO,Miami,FL,0:48:07,
 4,466097,franco,herrera,Miami,FL,0:48:08,
@@ -162,7 +162,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,383482,Javier,Valderrama,Miami ,FL,0:48:12,
 10,20143,Mark,Laidlaw,Durango,CO,0:48:13,
 11,516962,Kenneth,Knowles,Lakewood Ranch,FL,0:48:16,Sarasota Cycling Club p/b SeaSucker
-12,448396,Rudy,Szymanski,Gowanda,NY,0:48:16,Cycle Sport Concepts Tampa
+12,448396,Rudy,Szymanski,Tampa,FL,0:48:16,Cycle Sport Concepts Tampa
 13,460237,Angel,Garcia,Ormond Beach,FL,0:48:17,
 14,524675,Julio,Pena jr,Ocoee,FL,0:51:13,
 
@@ -178,7 +178,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,430032,Tyler,Junkins,Winter Park,FL,0:48:08,Team Kyles Bike Shop
 9,484674,Alejandro,Hunter,Coral Gables,FL,0:48:09,Silcarbon Racing Team
 10,365573,Nicholas,Tabares,Miami,FL,0:48:09,Silcarbon Racing Team
-11,395978,Richard,Traugott,Sarasota,FL,0:48:10,Sarasota Cycling Club p/b SeaSucker
+11,395978,Richard,Traugott,Parrish,FL,0:48:10,Sarasota Cycling Club p/b SeaSucker
 12,396501,Derek,Birch,Tampa,FL,0:48:10,USF Cycling
 13,428530,Richard,Freeman III,Groveland,FL,0:48:12,Hammer Nutrition
 14,278855,Erick,Camacho,Naples,FL,0:48:16,ThirstyBear p/b Akamai
@@ -251,7 +251,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,194745,Julie,Mckenzie,Clermont,FL,0:43:31,Team Kyles Bike Shop
 4,369256,Jeanine,Seeger,Boynton Beach,FL,0:43:31,Hollywood Big Wheelers
 5,360228,Dawn,Decaminada,Lakeland,FL,0:43:33,West Coast Cycling
-6,495140,Carly,George,Dunedin,FL,0:43:35,Aeropro Coaching Cycling Team
+6,495140,Carly,George,Tampa,FL,0:43:35,Aeropro Coaching Cycling Team
 
 02/04/2017 Criterium Women Handcycle WH1
 Place,License #,First,Last,City,State,Time,Team
@@ -338,7 +338,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,280601,Gerard,AhFook,Tucson,AZ,0:50:00,Paralyzed Veterans of America Racing
 2,0,Chris,Peterson,,,0:52:44,
-3,425052,Kevin,Hillery,Woodbridge,VA,0:53:25,Paralyzed Veterans of America Racing
+3,425052,Kevin,Hillery,Kailua,HI,0:53:25,Paralyzed Veterans of America Racing
 4,199594,Seth,Arseneau,Albuquerque,NM,0:53:26,Paralyzed Veterans of America Racing
 5,486183,Paul,Schulte,Bradenton,FL,0:54:42,
 6,458697,Edwin,Quiros Ortiz,Auburndale,FL,0:54:44,Paralyzed Veterans of America Racing
@@ -349,7 +349,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,0,Ludovic,Narce,,,0:49:43,
 2,299855,David,Randall,Mansfield,OH,0:50:01,Team Roger C Peace
-3,501086,Radames,Rodriguez,San Antonio ,TX,0:52:42,
+3,501086,Radames,Rodriguez,San Antonio,TX,0:52:42,
 4,351002,Josh,Sharpe,Navarre,FL,0:52:46,Paralyzed Veterans of America Racing
 5,149499,Kenneth,Bestine,Clymer,NY,0:53:21,
 6,524951,Daniel,Evans,St Petersburg,FL,0:53:40,Paralyzed Veterans of America Racing
@@ -377,7 +377,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,0,C. David,Swaim,,,0:54:50,
 2,503976,Ken,Higgins,Dacula,GA,0:54:51,Paralyzed Veterans of America Racing
-3,440349,Solomon,Revils,Chesapeake,VA,0:54:59,Paralyzed Veterans of America Racing
+3,440349,Solomon,Revils,Chespeake,VA,0:54:59,Paralyzed Veterans of America Racing
 
 02/04/2017 Road Race Men Cat 4/5 Master 40+
 Place,License #,First,Last,City,State,Time,Team
@@ -419,7 +419,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,182268,Robert,Reineke,Clermont,FL,1:32:50,LegSmith Racing
 8,29871,Michael,Rigby,Apopka,FL,1:33:06,Advanced Cycles pb/Topview Sports
 9,334858,Thomas,Montgomery,Cocoa Beach,FL,1:33:22,Infinity Bike Shop
-10,433485,Richard,Benson,Port Saint Lucie,FL,1:36:35,Treasure Coast Racing
+10,433485,Richard,Benson,Fort Pierce,FL,1:36:35,Treasure Coast Racing
 11,268321,Roger,Albertson,Dade City,FL,1:36:36,US Military Endurance Sports
 12,466590,Todd,Morley,Winter Park,FL,1:36:39,JC's Bike Shop's Blue Hammers
 13,306353,Dwight,Johnson,New Haven,CT,1:37:04,Laurel Bicycle Club
@@ -433,7 +433,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,57055,Kirk,Corsello,Lilburn,GA,2:15:53,Next Moto Champion Cycling p/b Roswell Bicycles
 3,285509,Francisco,Hernandez,Orlando,FL,2:15:53,Compass Research Cycling Team
 4,177274,Pedro,Medina,Orlando,FL,2:15:53,Advanced Cycles pb/Topview Sports
-5,153443,Allison,Anjos,Boca Raton,FL,2:15:54,
+5,153443,Allison,Anjos,Boca Rato,FL,2:15:54,
 6,376307,Yampier,Herrera,Orlando,FL,2:15:54,Compass Research Cycling Team
 7,196540,Pablo,Santa Cruz,Safety Harbor,FL,2:15:54,FloridaVelo
 8,336604,Armando,Hernandez,Tampa,FL,2:15:54,Eagle Cycling
@@ -442,7 +442,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,31413,Ryan,Saylor,Gainesville,FL,2:15:55,GearLink Racing INC.
 12,28734,Anthony,Prioli,Clearwater,FL,2:15:55,GearLink Racing INC.
 13,308557,Sean,Stanton,Windermere,FL,2:15:55,Compass Research Cycling Team
-14,175537,Cliff,Kugler,Simpsonville ,SC,2:15:56,Cycle Haus Racing
+14,175537,Cliff,Kugler,Simpsonville,SC,2:15:56,Cycle Haus Racing
 15,52228,Jared,Zimlin,Palm Harbor,FL,2:15:56,GearLink Racing INC.
 16,261127,Osvaldo,Delgado,Port Saint Lucie,FL,2:15:56,
 17,198637,Ethan,Ensley,Orlando,FL,2:15:58,Compass Research Cycling Team
@@ -477,7 +477,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,101266,Steven,Kurth,Palm City,FL,2:15:55,Treasure Coast Racing
 16,220713,Christopher,Olson,Saint Johns,FL,2:15:55,VeloBrew Cycling Club
 17,2867,Martin,Bates,Odessa,FL,2:15:56,West Coast Cycling
-18,222404,Kevin,Abbate,Boynton Beach,FL,2:15:56,LCT/Bill Bone Bike Law
+18,222404,Kevin,Abbate,Hypoluxo,FL,2:15:56,LCT/Bill Bone Bike Law
 19,202253,Michael,Cowart,Jacksonville Beach,FL,2:15:56,VeloBrew Cycling Club
 20,327188,Scott,Erker,Orlando,FL,2:15:56,FloridaVelo
 21,460570,Jeff,Hall,Greenville,SC,2:15:56,Cycle Haus Racing
@@ -497,7 +497,7 @@ DNF,60200,Ralph,Schroeder,Chicago,IL,1:45:22,FloridaVelo
 02/04/2017 Road Race Men Cat 5
 Place,License #,First,Last,City,State,Time,Team
 0,384672,Ricardo,Almonte,Pompano Beach,FL,,
-1,511698,Harrison,Scales,,,1:32:11,
+1,511698,Harrison,Scales,St. Augustine,FL,1:32:11,
 2,494899,Jonathan,Molina,Pompano Beach,FL,1:32:11,Riverside Market South - Cima Cycles p/b Steady Spin
 3,466097,franco,herrera,Miami,FL,1:32:12,
 4,488582,Yarian,Rosado,Longwood,FL,1:32:13,Advanced Cycles pb/Topview Sports
@@ -509,7 +509,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,416333,Eric,Omdahl,Land O Lakes ,FL,1:32:14,
 11,456886,MARIO,RENTERIA,Miami,FL,1:32:17,
 12,520385,Nestor,Rodriguez,Tampa,FL,1:32:20,
-13,448396,Rudy,Szymanski,Gowanda,NY,1:32:22,Cycle Sport Concepts Tampa
+13,448396,Rudy,Szymanski,Tampa,FL,1:32:22,Cycle Sport Concepts Tampa
 14,382025,Neil,Uy,Lakeland,FL,1:32:27,
 15,497244,Stephen,Chenard,Parrish,FL,1:32:28,Sarasota Cycling Club p/b SeaSucker
 16,383482,Javier,Valderrama,Miami ,FL,1:32:30,
@@ -541,7 +541,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,489746,Robert,DeSantis,Sarasota,FL,1:32:21,Sarasota Cycling Club p/b SeaSucker
 9,300431,Jorge,Palma,Miami,FL,1:32:25,
 10,278855,Erick,Camacho,Naples,FL,1:32:25,ThirstyBear p/b Akamai
-11,395978,Richard,Traugott,Sarasota,FL,1:32:26,Sarasota Cycling Club p/b SeaSucker
+11,395978,Richard,Traugott,Parrish,FL,1:32:26,Sarasota Cycling Club p/b SeaSucker
 12,484674,Alejandro,Hunter,Coral Gables,FL,1:32:26,Silcarbon Racing Team
 13,423117,Tyler,Griffin,Tallahassee,FL,1:32:34,RedEye Velo
 14,487018,Luis,Castro,Davenport,FL,1:32:35,Orlando Road Club
@@ -577,7 +577,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,336940,Jason,Brandt,Sanford,FL,2:10:06,Compass Research Cycling Team
 14,393792,Kyle,Markel,Altamonte Springs,FL,2:10:15,Team Kyles Bike Shop
 15,238422,Luke,Zagurski,Oakland,FL,2:10:20,Compass Research Cycling Team
-16,351492,Mark Anthony,Sanchez,Wesley Chapel,FL,2:11:58,Aeropro Coaching Cycling Team
+16,351492,Mark Anthony,Sanchez,Beaveton ,OR,2:11:58,Aeropro Coaching Cycling Team
 17,468479,Dan,Bond,Boca Raton,FL,2:16:41,
 DNF,403177,edwin,calderon,Kissimmee,FL,1:55:42,Advanced Cycles pb/Topview Sports
 DNF,501128,Robert,Swift,Tampa,FL,1:55:45,
@@ -600,7 +600,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,360228,Dawn,Decaminada,Lakeland,FL,1:40:54,West Coast Cycling
 2,69689,Sherri,Stedje,Lutz,FL,1:42:27,West Coast Cycling
-3,495140,Carly,George,Dunedin,FL,1:42:28,Aeropro Coaching Cycling Team
+3,495140,Carly,George,Tampa,FL,1:42:28,Aeropro Coaching Cycling Team
 4,369256,Jeanine,Seeger,Boynton Beach,FL,1:42:28,Hollywood Big Wheelers
 5,194745,Julie,Mckenzie,Clermont,FL,1:42:28,Team Kyles Bike Shop
 6,311541,Hannah,Swan,Alpine,CA,1:42:28,Cycle Haus Racing
@@ -627,7 +627,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,494074,Tiffany,Pellegrino,Zephyrhills,FL,1:42:29,West Coast Cycling
 10,406203,Hillary,Ghani,Jacksonville,FL,1:42:30,DelaFina
 11,458755,monica,rosa,Miami,FL,1:42:32,
-DNF,341538,Jennifer,Hilton,Aventura,FL,0:00:11,One Love Cycling
+DNF,341538,Jennifer,Hilton,Davie,FL,0:00:11,One Love Cycling
 
 02/04/2017 Road Race Women Cat 3
 Place,License #,First,Last,City,State,Time,Team
@@ -654,7 +654,7 @@ Place,License #,First,Last,City,State,Time,Team
 02/04/2017 Time Trial Men Handcycle H4
 Place,License #,First,Last,City,State,Time,Team
 1,280601,Gerard,AhFook,Tucson,AZ,0:38:34,Paralyzed Veterans of America Racing
-2,425052,Kevin,Hillery,Woodbridge,VA,0:40:30,Paralyzed Veterans of America Racing
+2,425052,Kevin,Hillery,Kailua,HI,0:40:30,Paralyzed Veterans of America Racing
 3,199594,Seth,Arseneau,Albuquerque,NM,0:41:30,Paralyzed Veterans of America Racing
 4,458697,Edwin,Quiros Ortiz,Auburndale,FL,0:42:36,Paralyzed Veterans of America Racing
 5,486183,Paul,Schulte,Bradenton,FL,0:45:32,
@@ -670,7 +670,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,133580,Craig,Cornwall,Boise,ID,0:38:33,Paralyzed Veterans of America Racing
 4,351002,Josh,Sharpe,Navarre,FL,0:39:26,Paralyzed Veterans of America Racing
 5,524951,Daniel,Evans,St Petersburg,FL,0:40:27,Paralyzed Veterans of America Racing
-6,501086,Radames,Rodriguez,San Antonio ,TX,0:40:31,
+6,501086,Radames,Rodriguez,San Antonio,TX,0:40:31,
 7,149499,Kenneth,Bestine,Clymer,NY,0:42:08,
 8,468005,Ryan,Kelling,East Wenatchee,WA,0:42:50,Cascade/Major Taylor Project Racing
 9,524177,Ricardo,Rincon Gallardo Diep,Tucson,AZ,0:47:04,
@@ -692,7 +692,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,0,C. David,Swaim,,,0:49:59,
 2,503976,Ken,Higgins,Dacula,GA,0:53:44,Paralyzed Veterans of America Racing
-3,440349,Solomon,Revils,Chesapeake,VA,0:57:05,Paralyzed Veterans of America Racing
+3,440349,Solomon,Revils,Chespeake,VA,0:57:05,Paralyzed Veterans of America Racing
 DNF,0,Marcel,Lignon,,,0:00:00,
 
 02/04/2017 Time Trial Women Handcycle WH1

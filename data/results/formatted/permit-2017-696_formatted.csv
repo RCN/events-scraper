@@ -3,7 +3,7 @@ The Sugarhouse Criterium in Salt Lake City UT Results
 05/27/2017 Criterium Men Pro 1-2-3 18-99
 Place,License #,First,Last,City,State,Time,Team
 1,365566,BRYCE,OLSEN,Ogden,UT,57:17:00,Livewell
-2,267821,JOE,WATERS,Ogden,UT,57:18:00,Bingham Cyclery
+2,267821,JOE,WATERS,Salt Lake City,UT,57:18:00,Bingham Cyclery
 3,262949,CORTLAN,BROWN,Woods Cross,UT,57:18:00,Canyon Bicycles Shimano
 4,264518,Tyler,Riedesel,Salt Lake City,UT,57:18:00,Canyon Bicycles Shimano
 5,163558,CHRIS,STUART,Park City,UT,57:19:00,
@@ -27,14 +27,14 @@ Place,License #,First,Last,City,State,Time,Team
 23,458291,ERIK,BROCKHOFF,West Jordan,UT,49:37:00,
 24,265398,LOGAN,PHIPPEN,Athens,GA,49:37:00,
 25,401457,Abraham,Torres,Draper,UT,49:37:00,
-26,15338,DAVID,HARWARD,Salt Lake City,UT,49:37:00,Plan7
+26,15338,DAVID,HARWARD,Millcreek,UT,49:37:00,Plan7
 27,246841,JOSH,WHITNEY,Salt Lake City,UT,49:37:00,EVO
 28,181440,Aaron,Olsen,Woodscross,UT,49:37:00,Ski City
 29,119450,KYLE,BROWN,Farmington,UT,49:37:00,Plan7
 30,396216,TREVOR,JACKSON,Salt Lake City,UT,49:37:00,
 31,2708,RYAN,BARRETT,Provo,UT,49:37:00,
-32,184083,Kevin,VAN LOON,North Salt Lake ,UT,49:37:00,Bicycle Center
-33,267198,ROB,SQUIRE,Sandy,UT,49:37:00,
+32,184083,Kevin,VAN LOON,North Salt Lake,UT,49:37:00,Bicycle Center
+33,267198,ROB,SQUIRE,Salt Lake City,UT,49:37:00,
 34,281812,STEPHEN,ROGERS,Lehi,UT,49:37:00,Zone Five
 35,460893,PRESTON,WEEKS,Provo,UT,49:37:00,
 36,48499,Robert,Van Kirk,Ashton,ID,49:37:00,
@@ -65,7 +65,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/27/2017 Criterium Men Cat 1/2/3/4/5 Masters 35-44
 Place,License #,First,Last,City,State,Time,Team
-1,376935,SHAUN,JOHNSON,Taylorsville,UT,0:36:20,
+1,376935,SHAUN,JOHNSON,Slc,UT,0:36:20,
 2,276490,Will,Hanson,Draper,UT,0:36:20,Ski City
 3,199580,JARED,KIRBY,Farmington,UT,0:36:20,
 4,55606,TYLER,HIGLEY,Kaysville,UT,0:36:20,
@@ -95,11 +95,11 @@ Place,License #,First,Last,City,State,Time,Team
 7,38323,Cris,Williams,Park Ciyt,UT,0:45:21,Volo Racing
 8,281812,STEPHEN,ROGERS,Lehi,UT,0:45:21,Zone Five
 9,378733,CHRISTOPH,HEINRICH,Salt Lake City,UT,0:45:21,KUHL
-10,15338,David,Harward,Salt Lake City,UT,0:45:21,Plan 7
+10,15338,David,Harward,Millcreek,UT,0:45:21,Plan 7
 11,51897,GUY,ROUNDY,West Jordan,UT,0:45:21,
 12,48499,Robert,Van Kirk,Ashton,ID,0:45:21,
 13,368032,TONY,PETERSON,North Salt Lake,UT,0:45:21,
-14,457822,ANDREW,JUDKINS,Centerville,UT,0:45:21,
+14,457822,ANDREW,JUDKINS,Washington,UT,0:45:21,
 15,56255,ANDREW,LOVE,Salt Lake City,UT,0:45:21,Plan 7
 16,33491,ROBERT,SORENSON,Park City,UT,0:45:21,
 17,50257,TODD,HAGEMAN,Park City,UT,0:45:21,
@@ -121,7 +121,7 @@ Place,License #,First,Last,City,State,Time,Team
 05/27/2017 Criterium Men Cat 1/2/3/4/5 Masters 60-64
 Place,License #,First,Last,City,State,Time,Team
 1,7974,DIRK,COWLEY,Salt Lake City,UT,0:42:56,
-2,142960,JERALD,HUNSAKER,Midvale,UT,0:42:56,
+2,142960,JERALD,HUNSAKER,South Ogden,UT,0:42:56,
 3,260377,NORMAN,FRYE,Salt Lake City,UT,0:42:56,
 4,0,Bob,Walker,,,0:42:56,
 
@@ -140,9 +140,9 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,464037,MARSHALL,STANCLIFT,Lehi,UT,0:39:41,
 2,0,Mike,Olbad,,,0:39:41,Millbrook
-3,433654,KEVIN,GIBSON,Pocatello ,ID,0:39:41,
+3,433654,KEVIN,GIBSON,Pocatello,ID,0:39:41,
 4,295636,SCOTT,JOHNSTON,Herriman,UT,0:39:41,
-5,457822,ANDREW,JUDKINS,Centerville,UT,0:39:41,
+5,457822,ANDREW,JUDKINS,Washington,UT,0:39:41,
 6,351312,Ross,Weaver,Ogden,UT,0:39:41,
 7,289796,BRYAN,GEE,Pocatello,ID,0:39:41,
 8,224051,Patrick,Morton,Park City,UT,0:39:41,Stay Park City
@@ -160,7 +160,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,507336,LUKE,GANGI-WELLMAN,Florence,MA,0:31:35,
 2,527845,John,Heemstra Jr,Decatur,GA,0:31:35,
-2,457822,Andrew,Judkins,Centerville,UT,0:31:35,
+2,457822,Andrew,Judkins,Washington,UT,0:31:35,
 4,532405,Robert,Thompson,Shelley,ID,0:31:35,
 5,0,Unknown,Rider,,,0:31:35,
 6,348704,KEVIN,TURNEY,Salt Lake City,UT,0:31:35,
@@ -168,7 +168,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,420164,CASON,SEARLE,Orem,UT,0:31:35,
 9,533454,JACKSON,RAYL,Kaysville,UT,0:31:35,
 10,351312,ROSS,WEAVER,Ogden,UT,0:31:35,
-11,296168,Mike,May,Saltlakecity,UT,0:31:35,
+11,296168,Mike,May,Holladay,UT,0:31:35,
 12,470668,ROBERT,BRUHN,Salt Lake City,UT,0:31:35,
 13,0,Brad,Montiertin,,,0:31:35,
 14,402542,KELLY,HOLLADAY,Lehi,UT,0:31:35,
@@ -193,7 +193,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,495732,RYLAN,SCHADEGG,Logan,UT,0:31:35,
 2,146077,DANIEL,FREDERICK,Bluffdale,UT,0:31:35,Zone Five
 3,0,Alan,Takemori,,,0:31:35,Millbrook
-4,457822,ANDREW,JUDKINS,Centerville,UT,0:31:35,
+4,457822,ANDREW,JUDKINS,Washington,UT,0:31:35,
 5,464037,MARSHALL,STANCLIFT,Lehi,UT,0:31:35,
 6,0,Unknown,Rider,,,0:31:35,
 7,26520,MIKE,OBLAD,Taylorsville,UT,0:31:35,Millbrook
@@ -264,7 +264,7 @@ DNF,0,Michael,Brewer,,,,
 
 05/27/2017 Criterium Women Pro 1-2-3 18-99
 Place,License #,First,Last,City,State,Time,Team
-1,263791,BREANNE,NALDER,Murray,UT,0:39:20,Visit Dallas
+1,263791,BREANNE,NALDER,Millcreek,UT,0:39:20,Visit Dallas
 2,413868,Mary,Emerson,Sandy,UT,0:39:20,Plan7
 3,212008,JILLIAN,GARDNER,Riverton,UT,0:39:20,Canyon Bicycles Shimano
 4,472946,Ingrid,Hansen,Alpine,UT,0:39:20,Endurance 360
@@ -295,7 +295,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,413868,Mary,Emerson,Sandy,UT,0:44:29,Plan7
 2,247526,Alison,Frye,Salt Lake City,UT,0:44:29,Ski City
 3,455718,LORRI,ZENONI,Sandy,UT,0:44:29,Project HERO Utah
-4,0,Kelly,Huntsaker,,,0:44:29,Plan7
+4,207981,Kelly,Hunsaker,Ogden,UT,0:44:29,Plan7
 5,24435,Shanin,MILLER,Draper,UT,0:44:29,Canyon Bicycles Shimano
 
 05/27/2017 Criterium Women Cat 3/4

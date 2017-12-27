@@ -84,7 +84,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,189613,Anthony,Dust,Edwardsville,IL,00:00.20,The Cyclery Racing Team
 7,400799,Jacob,Slosar,Edwardsville,IL,00:00.17,Quantum Solutions Intelligentsia
 8,229106,Chak,Lattanand,Saint Louis,MO,00:00.14,
-9,177388,Steven,Chaney,St. Louis ,MO,00:00.11,Dogfish/Team Noah
+9,177388,Steven,Chaney,St. Louis,MO,00:00.11,Dogfish/Team Noah
 10,424308,Jonathan,Monserrate,St. Louis,MO,00:00.11,
 11,492820,Wesley,Phipson,St Charles,MO,00:00.04,Lindenwood University
 12,523767,Annika,Teschke,Saint Charles,MO,00:00.03,Lindenwood University
@@ -130,7 +130,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,456585,Andrew,Koller,Saint Louis,MO,,SBR Quantum Racing
 7,400799,Jacob,Slosar,Edwardsville,IL,,Quantum Solutions Intelligentsia
 8,229106,Chak,Lattanand,Saint Louis,MO,,
-9,177388,Steven,Chaney,St. Louis ,MO,,Dogfish/Team Noah
+9,177388,Steven,Chaney,St. Louis,MO,,Dogfish/Team Noah
 10,424308,Jonathan,Monserrate,St. Louis,MO,,
 
 09/07/2017 Scratch Race Mixed Cat 4
@@ -176,7 +176,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,408215,James,Varner,Saint Louis,MO,,
 8,229106,Chak,Lattanand,Saint Louis,MO,,
 9,424308,Jonathan,Monserrate,St. Louis,MO,,
-10,177388,Steven,Chaney,St. Louis ,MO,,Dogfish/Team Noah
+10,177388,Steven,Chaney,St. Louis,MO,,Dogfish/Team Noah
 11,492820,Wesley,Phipson,St Charles,MO,,Lindenwood University
 12,523767,Annika,Teschke,Saint Charles,MO,,Lindenwood University
 
@@ -235,7 +235,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,110443,Joshua,Carter,Saint Charles ,MO,,EGO p/b Sammys Bikes
 2,358808,Jonah,MeadVanCort,Ithaca,NY,,Lindenwood University
-3,177388,Steven,Chaney,St. Louis ,MO,,Dogfish/Team Noah
+3,177388,Steven,Chaney,St. Louis,MO,,Dogfish/Team Noah
 4,469206,Hugh,Gill,Washington,IL,,Lindenwood University
 5,437809,Ethan,Nelson,Minneapolis,MN,,Lindenwood University
 6,492633,Jason,Colestock,Minneapolis,MN,,Lindenwood University
@@ -262,7 +262,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,469206,Hugh,Gill,Washington,IL,00:00:00.24,Lindenwood University
 4,110443,Joshua,Carter,Saint Charles ,MO,00:00:00.23,EGO p/b Sammys Bikes
 5,345484,Ian,Borella,Glendale,MO,00:00:00.22,Dogfish/Team Noah
-6,177388,Steven,Chaney,St. Louis ,MO,00:00:00.22,Dogfish/Team Noah
+6,177388,Steven,Chaney,St. Louis,MO,00:00:00.22,Dogfish/Team Noah
 7,492633,Jason,Colestock,Minneapolis,MN,00:00:00.20,Lindenwood University
 8,417832,Ryan,Oldani,Saint Louis,MO,00:00:00.16,Mike's Bikes STL
 9,398297,Rachelle,Wilson,Saint Louis,MO,00:00:00.12,Lindenwood University
@@ -291,7 +291,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,469206,Hugh,Gill,Washington,IL,00:00:00.020,Lindenwood University
 3,358808,Jonah,MeadVanCort,Ithaca,NY,00:00:00.004,Lindenwood University
 4,492633,Jason,Colestock,Minneapolis,MN,00:00:00.003,Lindenwood University
-5,177388,Steven,Chaney,St. Louis ,MO,00:00:00.001,Dogfish/Team Noah
+5,177388,Steven,Chaney,St. Louis,MO,00:00:00.001,Dogfish/Team Noah
 6,417832,Ryan,Oldani,Saint Louis,MO,,Mike's Bikes STL
 7,110443,Joshua,Carter,Saint Charles ,MO,,EGO p/b Sammys Bikes
 8,345484,Ian,Borella,Glendale,MO,,Dogfish/Team Noah
@@ -401,7 +401,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,400068,Judy,Slosar,Edwardsville,IL,00:00:00.019,GP Velotek
 6,325596,Brianne,Guilford,Edwardsville,IL,00:00:00.016,GP Velotek
 7,398297,Rachelle,Wilson,Saint Louis,MO,00:00:00.015,HAMMER HAVOC
-8,424446,Renee,Ehrlich,Florissant,MO,00:00:00.014,Balanced: Bike Fitting & Coaching Cycling Team
+8,424446,Renee,Ehrlich,St. Paul,MO,00:00:00.014,Balanced: Bike Fitting & Coaching Cycling Team
 9,523767,Annika,Teschke,Saint Charles,MO,00:00:00.013,
 
 08/17/2017 Omnium Mixed Junior
@@ -452,7 +452,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,400068,Judy,Slosar,Edwardsville,IL,,GP Velotek
 6,367894,Melissa,Gomes,Florissant,MO,,Quantum Solutions Intelligentsia
 7,325596,Brianne,Guilford,Edwardsville,IL,,GP Velotek
-8,424446,Renee,Ehrlich,Florissant,MO,,Balanced: Bike Fitting & Coaching Cycling Team
+8,424446,Renee,Ehrlich,St. Paul,MO,,Balanced: Bike Fitting & Coaching Cycling Team
 
 08/17/2017 Scratch Mixed Junior
 Place,License #,First,Last,City,State,Time,Team
@@ -526,7 +526,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,367894,Melissa,Gomes,Florissant,MO,00:00:48.520,Quantum Solutions Intelligentsia
 6,400068,Judy,Slosar,Edwardsville,IL,00:00:49.710,GP Velotek
 7,325596,Brianne,Guilford,Edwardsville,IL,00:00:52.280,GP Velotek
-8,424446,Renee,Ehrlich,Florissant,MO,00:00:56.950,Balanced: Bike Fitting & Coaching Cycling Team
+8,424446,Renee,Ehrlich,St. Paul,MO,00:00:56.950,Balanced: Bike Fitting & Coaching Cycling Team
 
 08/17/2017 Time Trial Mixed Junior
 Place,License #,First,Last,City,State,Time,Team
@@ -687,7 +687,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 08/03/2017 Belgian Win&Out Mixed Cat 1/2
 Place,License #,First,Last,City,State,Time,Team
-1,177388,Steven,Chaney,St. Louis ,MO,,Dogfish/Team Noah
+1,177388,Steven,Chaney,St. Louis,MO,,Dogfish/Team Noah
 2,229106,Chak,Lattanand,Saint Louis,MO,,
 3,265342,Dennis,Roberts,Wildwood,MO,,International Christian Cycling
 4,456585,Andrew,Koller,Saint Louis,MO,,SBR Quantum Racing
@@ -711,7 +711,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 08/03/2017 Miss and Out Mixed Cat 1/2
 Place,License #,First,Last,City,State,Time,Team
-1,177388,Steven,Chaney,St. Louis ,MO,,Dogfish/Team Noah
+1,177388,Steven,Chaney,St. Louis,MO,,Dogfish/Team Noah
 2,345484,Ian,Borella,Glendale,MO,,Dogfish/Team Noah
 3,456585,Andrew,Koller,Saint Louis,MO,,SBR Quantum Racing
 4,265342,Dennis,Roberts,Wildwood,MO,,International Christian Cycling
@@ -735,7 +735,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 08/03/2017 Omnium Mixed Cat 1/2
 Place,License #,First,Last,City,State,Time,Team
-1,177388,Steven,Chaney,St. Louis ,MO,00:00:00.043,Dogfish/Team Noah
+1,177388,Steven,Chaney,St. Louis,MO,00:00:00.043,Dogfish/Team Noah
 2,345484,Ian,Borella,Glendale,MO,00:00:00.036,Dogfish/Team Noah
 3,265342,Dennis,Roberts,Wildwood,MO,00:00:00.035,International Christian Cycling
 4,456585,Andrew,Koller,Saint Louis,MO,00:00:00.034,SBR Quantum Racing
@@ -759,7 +759,7 @@ Place,License #,First,Last,City,State,Time,Team
 08/03/2017 Snowball Mixed Cat 1/2
 Place,License #,First,Last,City,State,Time,Team
 1,345484,Ian,Borella,Glendale,MO,00:00:00.099,Dogfish/Team Noah
-2,177388,Steven,Chaney,St. Louis ,MO,00:00:00.044,Dogfish/Team Noah
+2,177388,Steven,Chaney,St. Louis,MO,00:00:00.044,Dogfish/Team Noah
 3,265342,Dennis,Roberts,Wildwood,MO,00:00:00.044,International Christian Cycling
 4,456585,Andrew,Koller,Saint Louis,MO,00:00:00.031,SBR Quantum Racing
 5,334684,Gus,Miller,Saint Louis,MO,00:00:00.015,Dogfish/Team Noah
@@ -776,7 +776,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,347112,Austin,Gomes,Florissant,MO,,Quantum Solutions Intelligentsia
 2,456585,Andrew,Koller,Saint Louis,MO,,SBR Quantum Racing
-3,177388,Steven,Chaney,St. Louis ,MO,,Dogfish/Team Noah
+3,177388,Steven,Chaney,St. Louis,MO,,Dogfish/Team Noah
 4,334684,Gus,Miller,Saint Louis,MO,,Dogfish/Team Noah
 5,265342,Dennis,Roberts,Wildwood,MO,,International Christian Cycling
 
@@ -791,7 +791,7 @@ DNF,481751,Ben,Abts,Saint Louis,MO,,
 Place,License #,First,Last,City,State,Time,Team
 1,347112,Austin,Gomes,Florissant,MO,,Quantum Solutions Intelligentsia
 2,456585,Andrew,Koller,Saint Louis,MO,,SBR Quantum Racing
-3,177388,Steven,Chaney,St. Louis ,MO,,Dogfish/Team Noah
+3,177388,Steven,Chaney,St. Louis,MO,,Dogfish/Team Noah
 4,334684,Gus,Miller,Saint Louis,MO,,Dogfish/Team Noah
 5,265342,Dennis,Roberts,Wildwood,MO,,International Christian Cycling
 
@@ -805,7 +805,7 @@ DNF,481751,Ben,Abts,Saint Louis,MO,,
 07/20/2017 Elimination  Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
 1,347112,Austin,Gomes,Florissant,MO,,Quantum Solutions Intelligentsia
-2,177388,Steven,Chaney,St. Louis ,MO,,Dogfish/Team Noah
+2,177388,Steven,Chaney,St. Louis,MO,,Dogfish/Team Noah
 3,456585,Andrew,Koller,Saint Louis,MO,,SBR Quantum Racing
 4,265342,Dennis,Roberts,Wildwood,MO,,International Christian Cycling
 5,334684,Gus,Miller,Saint Louis,MO,,Dogfish/Team Noah
@@ -820,7 +820,7 @@ Place,License #,First,Last,City,State,Time,Team
 07/20/2017 Omnium Mixed Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
 1,347112,Austin,Gomes,Florissant,MO,0.43,Quantum Solutions Intelligentsia
-2,177388,Steven,Chaney,St. Louis ,MO,0.37,Dogfish/Team Noah
+2,177388,Steven,Chaney,St. Louis,MO,0.37,Dogfish/Team Noah
 3,265342,Dennis,Roberts,Wildwood,MO,0.36,International Christian Cycling
 4,456585,Andrew,Koller,Saint Louis,MO,0.36,SBR Quantum Racing
 5,334684,Gus,Miller,Saint Louis,MO,0.31,Dogfish/Team Noah
@@ -835,7 +835,7 @@ Place,License #,First,Last,City,State,Time,Team
 07/20/2017 Omnium  Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
 1,347112,Austin,Gomes,Florissant,MO,,Quantum Solutions Intelligentsia
-2,177388,Steven,Chaney,St. Louis ,MO,,Dogfish/Team Noah
+2,177388,Steven,Chaney,St. Louis,MO,,Dogfish/Team Noah
 3,265342,Dennis,Roberts,Wildwood,MO,,International Christian Cycling
 4,456585,Andrew,Koller,Saint Louis,MO,,SBR Quantum Racing
 5,334684,Gus,Miller,Saint Louis,MO,,Dogfish/Team Noah
@@ -851,7 +851,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,265342,Dennis,Roberts,Wildwood,MO,,International Christian Cycling
 2,347112,Austin,Gomes,Florissant,MO,,Quantum Solutions Intelligentsia
-3,177388,Steven,Chaney,St. Louis ,MO,,Dogfish/Team Noah
+3,177388,Steven,Chaney,St. Louis,MO,,Dogfish/Team Noah
 4,456585,Andrew,Koller,Saint Louis,MO,,SBR Quantum Racing
 5,334684,Gus,Miller,Saint Louis,MO,,Dogfish/Team Noah
 
@@ -866,7 +866,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,265342,Dennis,Roberts,Wildwood,MO,,International Christian Cycling
 2,347112,Austin,Gomes,Florissant,MO,,Quantum Solutions Intelligentsia
-3,177388,Steven,Chaney,St. Louis ,MO,,Dogfish/Team Noah
+3,177388,Steven,Chaney,St. Louis,MO,,Dogfish/Team Noah
 4,456585,Andrew,Koller,Saint Louis,MO,,SBR Quantum Racing
 5,334684,Gus,Miller,Saint Louis,MO,,Dogfish/Team Noah
 
@@ -880,7 +880,7 @@ Place,License #,First,Last,City,State,Time,Team
 07/20/2017 Scratch Race Mixed Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
 1,347112,Austin,Gomes,Florissant,MO,,Quantum Solutions Intelligentsia
-2,177388,Steven,Chaney,St. Louis ,MO,,Dogfish/Team Noah
+2,177388,Steven,Chaney,St. Louis,MO,,Dogfish/Team Noah
 3,456585,Andrew,Koller,Saint Louis,MO,,SBR Quantum Racing
 4,265342,Dennis,Roberts,Wildwood,MO,,International Christian Cycling
 5,334684,Gus,Miller,Saint Louis,MO,,Dogfish/Team Noah
@@ -1107,7 +1107,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,438223,Janette,Barber,Saint Louis,MO,00:00:00.046,Balanced: Bike Fitting & Coaching Cycling Team
 2,400068,Judy,Slosar,Edwardsville,IL,00:00:00.032,GP Velotek
 3,398297,Rachelle,Wilson,Saint Louis,MO,00:00:00.017,HAMMER HAVOC
-4,424446,Renee,Ehrlich,Florissant,MO,00:00:00.003,Balanced: Bike Fitting & Coaching Cycling Team
+4,424446,Renee,Ehrlich,St. Paul,MO,00:00:00.003,Balanced: Bike Fitting & Coaching Cycling Team
 5,392024,Susana,Calderon,Decatur,IL,00:00:00.000,Balanced: Bike Fitting & Coaching Cycling Team
 
 06/15/2017 Joker's Gambit Mixed Cat 1/2/3
@@ -1116,7 +1116,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,189613,Anthony,Dust,Edwardsville,IL,00:00:00.015,The Cyclery Racing Team
 3,345484,Ian,Borella,Glendale,MO,00:00:00.010,Dogfish/Team Noah
 4,408215,James,Varner,Saint Louis,MO,00:00:00.008,
-5,177388,Steven,Chaney,St. Louis ,MO,00:00:00.007,Dogfish/Team Noah
+5,177388,Steven,Chaney,St. Louis,MO,00:00:00.007,Dogfish/Team Noah
 6,334684,Gus,Miller,Saint Louis,MO,00:00:00.005,Dogfish/Team Noah
 7,331440,Guillermo,Garsed,Chesterfield,MO,00:00:00.000,Dogfish/Team Noah
 8,265342,Dennis,Roberts,Wildwood,MO,00:00:00.000,International Christian Cycling
@@ -1131,7 +1131,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,33533,Stephen,South,St Louis,MO,00:00:00.000,
 6,299124,Jeff,Stein,St. Louis,MO,00:00:00.000,
 7,493563,Chris,Szorc,Springfield,IL,00:00:00.000,
-8,331992,Donald,Heidenreich,Saint Peters ,MO,00:00:00.000,
+8,331992,Donald,Heidenreich,Saint Peters,MO,00:00:00.000,
 9,438223,Janette,Barber,Saint Louis,MO,00:00:00.000,Balanced: Bike Fitting & Coaching Cycling Team
 10,400068,Judy,Slosar,Edwardsville,IL,00:00:00.000,GP Velotek
 
@@ -1140,7 +1140,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,438223,Janette,Barber,Saint Louis,MO,00:00:00.043,Balanced: Bike Fitting & Coaching Cycling Team
 2,400068,Judy,Slosar,Edwardsville,IL,00:00:00.040,GP Velotek
 3,398297,Rachelle,Wilson,Saint Louis,MO,00:00:00.036,HAMMER HAVOC
-4,424446,Renee,Ehrlich,Florissant,MO,00:00:00.033,Balanced: Bike Fitting & Coaching Cycling Team
+4,424446,Renee,Ehrlich,St. Paul,MO,00:00:00.033,Balanced: Bike Fitting & Coaching Cycling Team
 5,392024,Susana,Calderon,Decatur,IL,00:00:00.031,Balanced: Bike Fitting & Coaching Cycling Team
 
 06/15/2017 Omnium Mixed Cat 1/2/3
@@ -1148,7 +1148,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,345484,Ian,Borella,Glendale,MO,00:00:00.040,Dogfish/Team Noah
 2,189613,Anthony,Dust,Edwardsville,IL,00:00:00.037,The Cyclery Racing Team
 3,408215,James,Varner,Saint Louis,MO,00:00:00.033,
-4,177388,Steven,Chaney,St. Louis ,MO,00:00:00.033,Dogfish/Team Noah
+4,177388,Steven,Chaney,St. Louis,MO,00:00:00.033,Dogfish/Team Noah
 5,226313,Michael (Casey),Saunders,Saint Louis,MO,00:00:00.030,Dogfish/Team Noah
 6,331440,Guillermo,Garsed,Chesterfield,MO,00:00:00.027,Dogfish/Team Noah
 7,265342,Dennis,Roberts,Wildwood,MO,00:00:00.024,International Christian Cycling
@@ -1167,13 +1167,13 @@ Place,License #,First,Last,City,State,Time,Team
 8,438223,Janette,Barber,Saint Louis,MO,00:00:00.020,Balanced: Bike Fitting & Coaching Cycling Team
 9,400068,Judy,Slosar,Edwardsville,IL,00:00:00.020,GP Velotek
 10,481751,Ben,Abts,Saint Louis,MO,00:00:00.015,
-11,331992,Donald,Heidenreich,Saint Peters ,MO,00:00:00.015,
+11,331992,Donald,Heidenreich,Saint Peters,MO,00:00:00.015,
 
 06/15/2017 Points Race Women WMN
 Place,License #,First,Last,City,State,Time,Team
 1,400068,Judy,Slosar,Edwardsville,IL,00:00:00.040,GP Velotek
 2,438223,Janette,Barber,Saint Louis,MO,00:00:00.039,Balanced: Bike Fitting & Coaching Cycling Team
-3,424446,Renee,Ehrlich,Florissant,MO,00:00:00.028,Balanced: Bike Fitting & Coaching Cycling Team
+3,424446,Renee,Ehrlich,St. Paul,MO,00:00:00.028,Balanced: Bike Fitting & Coaching Cycling Team
 4,398297,Rachelle,Wilson,Saint Louis,MO,00:00:00.006,HAMMER HAVOC
 5,392024,Susana,Calderon,Decatur,IL,,Balanced: Bike Fitting & Coaching Cycling Team
 
@@ -1182,7 +1182,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,345484,Ian,Borella,Glendale,MO,00:00:00.020,Dogfish/Team Noah
 2,189613,Anthony,Dust,Edwardsville,IL,00:00:00.018,The Cyclery Racing Team
 3,408215,James,Varner,Saint Louis,MO,00:00:00.018,
-4,177388,Steven,Chaney,St. Louis ,MO,00:00:00.012,Dogfish/Team Noah
+4,177388,Steven,Chaney,St. Louis,MO,00:00:00.012,Dogfish/Team Noah
 5,334684,Gus,Miller,Saint Louis,MO,00:00:00.007,Noah
 6,331440,Guillermo,Garsed,Chesterfield,MO,00:00:00.007,Dogfish/Team Noah
 7,265342,Dennis,Roberts,Wildwood,MO,00:00:00.005,International Christian Cycling
@@ -1200,7 +1200,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,392298,Nicholas,Gomes,Florissant,MO,,Quantum Solutions Intelligentsia
 9,493563,Chris,Szorc,Springfield,IL,,
 10,438223,Janette,Barber,Saint Louis,MO,,Balanced: Bike Fitting & Coaching Cycling Team
-11,331992,Donald,Heidenreich,Saint Peters ,MO,,
+11,331992,Donald,Heidenreich,Saint Peters,MO,,
 
 06/15/2017 Split Scratch Women WMN
 Place,License #,First,Last,City,State,Time,Team
@@ -1208,13 +1208,13 @@ Place,License #,First,Last,City,State,Time,Team
 2,398297,Rachelle,Wilson,Saint Louis,MO,00:00:00.010,HAMMER HAVOC
 3,400068,Judy,Slosar,Edwardsville,IL,00:00:00.009,GP Velotek
 4,392024,Susana,Calderon,Decatur,IL,00:00:00.003,Balanced: Bike Fitting & Coaching Cycling Team
-5,424446,Renee,Ehrlich,Florissant,MO,00:00:00.003,Balanced: Bike Fitting & Coaching Cycling Team
+5,424446,Renee,Ehrlich,St. Paul,MO,00:00:00.003,Balanced: Bike Fitting & Coaching Cycling Team
 
 06/15/2017 Split Scratch Mixed Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
 1,226313,Michael (Casey),Saunders,Saint Louis,MO,00:00:00.009,Dogfish/Team Noah
 2,345484,Ian,Borella,Glendale,MO,00:00:00.009,Dogfish/Team Noah
-3,177388,Steven,Chaney,St. Louis ,MO,00:00:00.007,Dogfish/Team Noah
+3,177388,Steven,Chaney,St. Louis,MO,00:00:00.007,Dogfish/Team Noah
 4,189613,Anthony,Dust,Edwardsville,IL,00:00:00.005,The Cyclery Racing Team
 5,408215,James,Varner,Saint Louis,MO,00:00:00.004,
 6,331440,Guillermo,Garsed,Chesterfield,MO,00:00:00.001,Dogfish/Team Noah
@@ -1234,7 +1234,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,400068,Judy,Slosar,Edwardsville,IL,00:00:00.000,GP Velotek
 9,299124,Jeff,Stein,St. Louis,MO,00:00:00.000,
 10,481751,Ben,Abts,Saint Louis,MO,00:00:00.000,
-11,331992,Donald,Heidenreich,Saint Peters ,MO,00:00:00.000,
+11,331992,Donald,Heidenreich,Saint Peters,MO,00:00:00.000,
 
 06/01/2017 Beligian Win & Out Mixed Junior 9-18
 Place,License #,First,Last,City,State,Time,Team
@@ -1245,18 +1245,18 @@ Place,License #,First,Last,City,State,Time,Team
 06/01/2017 Danish Mixed Cat 3/4
 Place,License #,First,Last,City,State,Time,Team
 1,346648,Thomas,Carter,Saint Charles,MO,,Team Mack Racing Assn
-2,177388,Steven,Chaney,St. Louis ,MO,,Dogfish/Team Noah
+2,177388,Steven,Chaney,St. Louis,MO,,Dogfish/Team Noah
 3,493563,Chris,Szorc,Springfield,IL,,
 4,497850,Marissa,Carter,Saint Charles,MO,,Team Mack Racing Assn
 5,299124,Jeff,Stein,St. Louis,MO,,
 6,398299,Emmett,Wilson,Saint Louis,MO,,
-7,331992,Donald,Heidenreich,Saint Peters ,MO,,
+7,331992,Donald,Heidenreich,Saint Peters,MO,,
 
 06/01/2017 Danish Mixed Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
 1,346648,Thomas,Carter,Saint Charles,MO,,Team Mack Racing Assn
-2,177388,Steven,Chaney,St. Louis ,MO,,Dogfish/Team Noah
-3,280844,Luke,Bligh,Saint Louis,MO,,Dogfish/Team Noah
+2,177388,Steven,Chaney,St. Louis,MO,,Dogfish/Team Noah
+3,280844,Luke,Bligh,Maryland Heights,MO,,Dogfish/Team Noah
 4,345484,Ian,Borella,Glendale,MO,,Dogfish/Team Noah
 5,408215,James,Varner,Saint Louis,MO,,
 6,398297,Rachelle,Wilson,Saint Louis,MO,,HAMMER HAVOC
@@ -1271,21 +1271,21 @@ Place,License #,First,Last,City,State,Time,Team
 06/01/2017 Elimination Mixed Cat 3/4
 Place,License #,First,Last,City,State,Time,Team
 1,346648,Thomas,Carter,Saint Charles,MO,,Team Mack Racing Assn
-2,177388,Steven,Chaney,St. Louis ,MO,,Dogfish/Team Noah
+2,177388,Steven,Chaney,St. Louis,MO,,Dogfish/Team Noah
 3,493563,Chris,Szorc,Springfield,IL,,
 4,398299,Emmett,Wilson,Saint Louis,MO,,
 5,497850,Marissa,Carter,Saint Charles,MO,,Team Mack Racing Assn
 6,299124,Jeff,Stein,St. Louis,MO,,
-7,331992,Donald,Heidenreich,Saint Peters ,MO,,
+7,331992,Donald,Heidenreich,Saint Peters,MO,,
 
 06/01/2017 Elimination Mixed Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
 1,110443,Joshua,Carter,Saint Charles ,MO,,EGO p/b Sammys Bikes
 2,345484,Ian,Borella,Glendale,MO,,Dogfish/Team Noah
 3,408215,James,Varner,Saint Louis,MO,,
-4,280844,Luke,Bligh,Saint Louis,MO,,Dogfish/Team Noah
+4,280844,Luke,Bligh,Maryland Heights,MO,,Dogfish/Team Noah
 5,346648,Thomas,Carter,Saint Charles,MO,,Team Mack Racing Assn
-6,177388,Steven,Chaney,St. Louis ,MO,,Dogfish/Team Noah
+6,177388,Steven,Chaney,St. Louis,MO,,Dogfish/Team Noah
 7,398297,Rachelle,Wilson,Saint Louis,MO,,HAMMER HAVOC
 8,398299,Emmett,Wilson,Saint Louis,MO,,
 
@@ -1301,8 +1301,8 @@ Place,License #,First,Last,City,State,Time,Team
 2,408215,James,Varner,Saint Louis,MO,0.37,
 3,110443,Joshua,Carter,Saint Charles ,MO,0.35,EGO p/b Sammys Bikes
 4,345484,Ian,Borella,Glendale,MO,0.24,Dogfish/Team Noah
-5,280844,Luke,Bligh,Saint Louis,MO,0.23,Dogfish/Team Noah
-6,177388,Steven,Chaney,St. Louis ,MO,0.22,Dogfish/Team Noah
+5,280844,Luke,Bligh,Maryland Heights,MO,0.23,Dogfish/Team Noah
+6,177388,Steven,Chaney,St. Louis,MO,0.22,Dogfish/Team Noah
 7,398297,Rachelle,Wilson,Saint Louis,MO,0.17,HAMMER HAVOC
 8,398299,Emmett,Wilson,Saint Louis,MO,0.07,
 
@@ -1313,8 +1313,8 @@ Place,License #,First,Last,City,State,Time,Team
 3,493563,Chris,Szorc,Springfield,IL,0.34,
 4,398299,Emmett,Wilson,Saint Louis,MO,0.32,
 5,299124,Jeff,Stein,St. Louis,MO,0.3,
-6,177388,Steven,Chaney,St. Louis ,MO,0.26,Dogfish/Team Noah
-7,331992,Donald,Heidenreich,Saint Peters ,MO,0.25,
+6,177388,Steven,Chaney,St. Louis,MO,0.26,Dogfish/Team Noah
+7,331992,Donald,Heidenreich,Saint Peters,MO,0.25,
 
 06/01/2017 Scratch Mixed Junior 9-18
 Place,License #,First,Last,City,State,Time,Team
@@ -1329,22 +1329,22 @@ Place,License #,First,Last,City,State,Time,Team
 3,398299,Emmett,Wilson,Saint Louis,MO,,
 4,299124,Jeff,Stein,St. Louis,MO,,
 5,493563,Chris,Szorc,Springfield,IL,,
-6,331992,Donald,Heidenreich,Saint Peters ,MO,,
+6,331992,Donald,Heidenreich,Saint Peters,MO,,
 
 06/01/2017 Scratch Mixed Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
 1,408215,James,Varner,Saint Louis,MO,,
 2,346648,Thomas,Carter,Saint Charles,MO,,Team Mack Racing Assn
 3,110443,Joshua,Carter,Saint Charles ,MO,,EGO p/b Sammys Bikes
-DNF,177388,Steven,Chaney,St. Louis ,MO,,Dogfish/Team Noah
+DNF,177388,Steven,Chaney,St. Louis,MO,,Dogfish/Team Noah
 DNF,398297,Rachelle,Wilson,Saint Louis,MO,,HAMMER HAVOC
-DNF,280844,Luke,Bligh,Saint Louis,MO,,Dogfish/Team Noah
+DNF,280844,Luke,Bligh,Maryland Heights,MO,,Dogfish/Team Noah
 DNF,345484,Ian,Borella,Glendale,MO,,Dogfish/Team Noah
 
 05/25/2017 Belg Win & Out Mixed Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
 1,346648,Thomas,Carter,Saint Charles,MO,,Team Mack Racing Assn
-2,177388,Steven,Chaney,St. Louis ,MO,,Dogfish/Team Noah
+2,177388,Steven,Chaney,St. Louis,MO,,Dogfish/Team Noah
 3,345484,Ian,Borella,Glendale,MO,,Dogfish/Team Noah
 4,398297,Rachelle,Wilson,Saint Louis,MO,,HAMMER HAVOC
 5,398299,Emmett,Wilson,Saint Louis,MO,,
@@ -1361,14 +1361,14 @@ Place,License #,First,Last,City,State,Time,Team
 5,438223,Janette,Barber,Saint Louis,MO,,Balanced: Bike Fitting & Coaching Cycling Team
 6,493563,Chris,Szorc,Springfield,IL,,
 7,417832,Ryan,Oldani,Saint Louis,MO,,Mike's Bikes STL
-8,424446,Renee,Ehrlich,Florissant,MO,,Balanced: Bike Fitting & Coaching Cycling Team
+8,424446,Renee,Ehrlich,St. Paul,MO,,Balanced: Bike Fitting & Coaching Cycling Team
 
 05/25/2017 Danish Women WMN
 Place,License #,First,Last,City,State,Time,Team
 1,398297,Rachelle,Wilson,Saint Louis,MO,,HAMMER HAVOC
 2,497850,Marissa,Carter,Saint Charles,MO,,Team Mack Racing Assn
 3,438223,Janette,Barber,Saint Louis,MO,,Balanced: Bike Fitting & Coaching Cycling Team
-4,424446,Renee,Ehrlich,Florissant,MO,,Balanced: Bike Fitting & Coaching Cycling Team
+4,424446,Renee,Ehrlich,St. Paul,MO,,Balanced: Bike Fitting & Coaching Cycling Team
 DNF,400068,Judy,Slosar,Edwardsville,IL,,GP Velotek
 
 05/25/2017 Danish Mixed Junior 9-18
@@ -1382,7 +1382,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,398297,Rachelle,Wilson,Saint Louis,MO,00:00:00.041,HAMMER HAVOC
 2,497850,Marissa,Carter,Saint Charles,MO,00:00:00.039,Team Mack Racing Assn
 3,438223,Janette,Barber,Saint Louis,MO,00:00:00.038,Balanced: Bike Fitting & Coaching Cycling Team
-4,424446,Renee,Ehrlich,Florissant,MO,00:00:00.033,Balanced: Bike Fitting & Coaching Cycling Team
+4,424446,Renee,Ehrlich,St. Paul,MO,00:00:00.033,Balanced: Bike Fitting & Coaching Cycling Team
 5,400068,Judy,Slosar,Edwardsville,IL,00:00:00.022,GP Velotek
 
 05/25/2017 Omnium Mixed Junior 9-18
@@ -1396,7 +1396,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,346648,Thomas,Carter,Saint Charles,MO,00:00:00.041,Team Mack Racing Assn
 2,345484,Ian,Borella,Glendale,MO,00:00:00.036,Dogfish/Team Noah
 3,408215,James,Varner,Saint Louis,MO,00:00:00.034,
-4,177388,Steven,Chaney,St. Louis ,MO,00:00:00.033,Dogfish/Team Noah
+4,177388,Steven,Chaney,St. Louis,MO,00:00:00.033,Dogfish/Team Noah
 5,189613,Anthony,Dust,Edwardsville,IL,00:00:00.030,The Cyclery Racing Team
 6,110443,Joshua,Carter,Saint Charles ,MO,00:00:00.030,EGO p/b Sammys Bikes
 7,398299,Emmett,Wilson,Saint Louis,MO,00:00:00.026,
@@ -1411,13 +1411,13 @@ Place,License #,First,Last,City,State,Time,Team
 5,438223,Janette,Barber,Saint Louis,MO,00:00:00.031,Balanced: Bike Fitting & Coaching Cycling Team
 6,417832,Ryan,Oldani,Saint Louis,MO,00:00:00.031,Mike's Bikes STL
 7,400068,Judy,Slosar,Edwardsville,IL,00:00:00.029,GP Velotek
-8,424446,Renee,Ehrlich,Florissant,MO,00:00:00.022,Balanced: Bike Fitting & Coaching Cycling Team
+8,424446,Renee,Ehrlich,St. Paul,MO,00:00:00.022,Balanced: Bike Fitting & Coaching Cycling Team
 
 05/25/2017 Point A Lap Women WMN
 Place,License #,First,Last,City,State,Time,Team
 1,398297,Rachelle,Wilson,Saint Louis,MO,00:00:00.003,HAMMER HAVOC
 2,438223,Janette,Barber,Saint Louis,MO,00:00:00.002,Balanced: Bike Fitting & Coaching Cycling Team
-3,424446,Renee,Ehrlich,Florissant,MO,00:00:00.002,Balanced: Bike Fitting & Coaching Cycling Team
+3,424446,Renee,Ehrlich,St. Paul,MO,00:00:00.002,Balanced: Bike Fitting & Coaching Cycling Team
 4,497850,Marissa,Carter,Saint Charles,MO,00:00:00.001,Team Mack Racing Assn
 5,400068,Judy,Slosar,Edwardsville,IL,00:00:00.001,GP Velotek
 
@@ -1433,7 +1433,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,189613,Anthony,Dust,Edwardsville,IL,00:00:00.002,The Cyclery Racing Team
 3,408215,James,Varner,Saint Louis,MO,00:00:00.002,
 4,110443,Joshua,Carter,Saint Charles ,MO,00:00:00.001,EGO p/b Sammys Bikes
-5,177388,Steven,Chaney,St. Louis ,MO,00:00:00.001,Dogfish/Team Noah
+5,177388,Steven,Chaney,St. Louis,MO,00:00:00.001,Dogfish/Team Noah
 6,345484,Ian,Borella,Glendale,MO,00:00:00.000,Dogfish/Team Noah
 7,398299,Emmett,Wilson,Saint Louis,MO,,
 DNF,398297,Rachelle,Wilson,Saint Louis,MO,,HAMMER HAVOC
@@ -1447,7 +1447,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,299124,Jeff,Stein,St. Louis,MO,00:00:00.000,
 6,400068,Judy,Slosar,Edwardsville,IL,00:00:00.000,GP Velotek
 7,438223,Janette,Barber,Saint Louis,MO,00:00:00.000,Balanced: Bike Fitting & Coaching Cycling Team
-8,424446,Renee,Ehrlich,Florissant,MO,,Balanced: Bike Fitting & Coaching Cycling Team
+8,424446,Renee,Ehrlich,St. Paul,MO,,Balanced: Bike Fitting & Coaching Cycling Team
 
 05/25/2017 Unknown Distanc Women WMN
 Place,License #,First,Last,City,State,Time,Team
@@ -1455,7 +1455,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,438223,Janette,Barber,Saint Louis,MO,,Balanced: Bike Fitting & Coaching Cycling Team
 3,400068,Judy,Slosar,Edwardsville,IL,,GP Velotek
 4,398297,Rachelle,Wilson,Saint Louis,MO,,HAMMER HAVOC
-5,424446,Renee,Ehrlich,Florissant,MO,,Balanced: Bike Fitting & Coaching Cycling Team
+5,424446,Renee,Ehrlich,St. Paul,MO,,Balanced: Bike Fitting & Coaching Cycling Team
 
 05/25/2017 Unknown Distanc Mixed Junior 9-18
 Place,License #,First,Last,City,State,Time,Team
@@ -1469,7 +1469,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,408215,James,Varner,Saint Louis,MO,,
 3,110443,Joshua,Carter,Saint Charles ,MO,,EGO p/b Sammys Bikes
 4,346648,Thomas,Carter,Saint Charles,MO,,Team Mack Racing Assn
-5,177388,Steven,Chaney,St. Louis ,MO,,Dogfish/Team Noah
+5,177388,Steven,Chaney,St. Louis,MO,,Dogfish/Team Noah
 6,189613,Anthony,Dust,Edwardsville,IL,,The Cyclery Racing Team
 7,398299,Emmett,Wilson,Saint Louis,MO,,
 DNF,398297,Rachelle,Wilson,Saint Louis,MO,,HAMMER HAVOC
@@ -1482,7 +1482,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,497850,Marissa,Carter,Saint Charles,MO,,Team Mack Racing Assn
 5,417832,Ryan,Oldani,Saint Louis,MO,,Mike's Bikes STL
 6,493563,Chris,Szorc,Springfield,IL,,
-7,424446,Renee,Ehrlich,Florissant,MO,,Balanced: Bike Fitting & Coaching Cycling Team
+7,424446,Renee,Ehrlich,St. Paul,MO,,Balanced: Bike Fitting & Coaching Cycling Team
 8,400068,Judy,Slosar,Edwardsville,IL,,GP Velotek
 
 05/18/2017 Omnium Women Cat 1/2/3/4/5
@@ -1502,7 +1502,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,346648,Thomas,Carter,Saint Charles,MO,00:00:00.041,Team Mack Racing Assn
 2,408215,James,Varner,Saint Louis,MO,00:00:00.038,
-3,177388,Steven,Chaney,St. Louis ,MO,00:00:00.037,Dogfish/Team Noah
+3,177388,Steven,Chaney,St. Louis,MO,00:00:00.037,Dogfish/Team Noah
 4,226313,Michael (Casey),Saunders,Saint Louis,MO,00:00:00.034,Dogfish/Team Noah
 5,110443,Joshua,Carter,Saint Charles ,MO,00:00:00.031,EGO p/b Sammys Bikes
 6,345484,Ian,Borella,Glendale,MO,00:00:00.029,Dogfish/Team Noah
@@ -1533,7 +1533,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/18/2017 Scratch Mixed Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
-1,177388,Steven,Chaney,St. Louis ,MO,,Dogfish/Team Noah
+1,177388,Steven,Chaney,St. Louis,MO,,Dogfish/Team Noah
 2,346648,Thomas,Carter,Saint Charles,MO,,Team Mack Racing Assn
 3,408215,James,Varner,Saint Louis,MO,,
 4,345484,Ian,Borella,Glendale,MO,,Dogfish/Team Noah
@@ -1566,7 +1566,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,408215,James,Varner,Saint Louis,MO,00:00:00.010,
 2,346648,Thomas,Carter,Saint Charles,MO,00:00:00.010,Team Mack Racing Assn
-3,177388,Steven,Chaney,St. Louis ,MO,00:00:00.005,Dogfish/Team Noah
+3,177388,Steven,Chaney,St. Louis,MO,00:00:00.005,Dogfish/Team Noah
 4,226313,Michael (Casey),Saunders,Saint Louis,MO,00:00:00.002,Dogfish/Team Noah
 5,110443,Joshua,Carter,Saint Charles ,MO,00:00:00.002,EGO p/b Sammys Bikes
 6,345484,Ian,Borella,Glendale,MO,00:00:00.000,Dogfish/Team Noah
@@ -1600,7 +1600,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,226313,Michael (Casey),Saunders,Saint Louis,MO,00:00:00.010,Dogfish/Team Noah
 3,110443,Joshua,Carter,Saint Charles ,MO,00:00:00.009,EGO p/b Sammys Bikes
 4,408215,James,Varner,Saint Louis,MO,00:00:00.007,
-5,177388,Steven,Chaney,St. Louis ,MO,00:00:00.000,Dogfish/Team Noah
+5,177388,Steven,Chaney,St. Louis,MO,00:00:00.000,Dogfish/Team Noah
 6,345484,Ian,Borella,Glendale,MO,00:00:00.000,Dogfish/Team Noah
 7,321312,Brian,Shelton,Saint Louis,MO,00:00:00.000,Dogfish/Team Noah
 8,398297,Rachelle,Wilson,Saint Louis,MO,00:00:00.000,HAMMER HAVOC
@@ -1654,7 +1654,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,110443,Joshua,Carter,Saint Charles ,MO,00:00:00.30,EGO p/b Sammys Bikes
 4,275501,Robert,Mayfield,Saint Louis,MO,00:00:00.30,Holtey Law p/b Peak Condition
 5,321312,Brian,Shelton,Saint Louis,MO,00:00:00.21,Dogfish/Team Noah
-6,177388,Steven,Chaney,St. Louis ,MO,00:00:00.20,Dogfish/Team Noah
+6,177388,Steven,Chaney,St. Louis,MO,00:00:00.20,Dogfish/Team Noah
 7,346648,Thomas,Carter,Saint Charles,MO,00:00:00.20,Team Mack Racing Assn
 8,423859,mark,hitzhusen,Saint Louis,MO,00:00:00.19,Momentum Racing LLC - MO
 
@@ -1683,7 +1683,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,275501,Robert,Mayfield,Saint Louis,MO,00:00:00.012,Holtey Law p/b Peak Condition
 4,423859,mark,hitzhusen,Saint Louis,MO,00:00:00.011,Momentum Racing LLC - MO
 5,346648,Thomas,Carter,Saint Charles,MO,00:00:00.008,Team Mack Racing Assn
-6,177388,Steven,Chaney,St. Louis ,MO,00:00:00.006,Dogfish/Team Noah
+6,177388,Steven,Chaney,St. Louis,MO,00:00:00.006,Dogfish/Team Noah
 7,345484,Ian,Borella,Glendale,MO,00:00:00.002,Dogfish/Team Noah
 DNF,321312,Brian,Shelton,Saint Louis,MO,,Dogfish/Team Noah
 
@@ -1710,7 +1710,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,110443,Joshua,Carter,Saint Charles ,MO,00:00:00.036,EGO p/b Sammys Bikes
 2,347112,Austin,Gomes,Florissant,MO,00:00:00.020,Quantum Solutions Intelligentsia
 3,345484,Ian,Borella,Glendale,MO,00:00:00.017,Dogfish/Team Noah
-4,177388,Steven,Chaney,St. Louis ,MO,00:00:00.011,Dogfish/Team Noah
+4,177388,Steven,Chaney,St. Louis,MO,00:00:00.011,Dogfish/Team Noah
 5,346648,Thomas,Carter,Saint Charles,MO,00:00:00.009,Team Mack Racing Assn
 6,321312,Brian,Shelton,Saint Louis,MO,00:00:00.004,Dogfish/Team Noah
 7,423859,mark,hitzhusen,Saint Louis,MO,00:00:00.002,Momentum Racing LLC - MO

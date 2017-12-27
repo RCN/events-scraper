@@ -12,7 +12,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,193086,Ben,Renkema,Greenville,SC,57:51.6,Palmetto State Medical Elite Cycling Team
 9,195634,Jacob,Keough,Sandwich,MA,57:51.7,Team Skyline
 10,0,Alberto,Covarrubia,,,57:51.8,Stradalli Cycle/ Safetti
-11,211435,Zack,Allison,Fort Collins ,CO,57:51.9,Team Clif Bar
+11,211435,Zack,Allison,Fort Collins,CO,57:51.9,Team Clif Bar
 12,467841,Ryan,Aitcheson,,,57:52.0,First Internet Bank Cycling
 13,263324,Parker,Kyzer,Spartanburg,SC,57:52.0,Palmetto State Medical Elite Cycling Team
 14,191703,Thomas,Brown,Athens,GA,57:52.1,Team Type 1 Foundation
@@ -33,7 +33,7 @@ Place,License #,First,Last,City,State,Time,Team
 29,376024,Charkie,Huegel,Greensboro,NC,57:54.2,Nine Lives Carbon Repair
 30,528185,Ole,Quast,Hamburg,FL,57:54.3,Stradalli Cycle/ Safetti
 31,295295,Ian,Baun,Pittsburgh,PA,57:54.4,Cyclus Sports
-32,504799,Peter,Foerster,,,57:54.5,Stradalli Cycle/Safetti
+32,504799,Peter,Foerster,Atlanta,GA,57:54.5,Stradalli Cycle/Safetti
 33,0,Ossis,Lozano,,,57:54.7,Robson Forensic/Hilton Head Cycling
 34,0,Brais,decal,,,57:54.8,
 35,394026,Gabriel,Mendez,Columbus,GA,57:54.8,Masters Cycling Systems
@@ -69,7 +69,7 @@ Place,License #,First,Last,City,State,Time,Team
 65,389699,Philip,Short,Greensboro,NC,58:00.1,Nine Lives Carbon Repair
 66,432674,Jarret,Oldham,Chicago,IL,58:00.2,First Internet Bank Cycling
 67,180665,Justin,Meade,Greenville,SC,58:01.4,Palmetto State Medical Elite Cycling Team
-68,168449,Lang,Reynolds,Boulder,CO,58:02.0,Revolve Residential
+68,168449,Lang,Reynolds,Charlotte,NC,58:02.0,Revolve Residential
 69,387328,Andrew,Guelzo,Grand Rapids,MI,58:02.2,Piedmont College
 70,504322,Sebastian,Salinas,Miami,FL,58:03.2,SOUTHERN CRESCENT CYCLING/ EDA
 71,0,Raynauth,Jeffery,,,58:03.4,Pharmaco-Deep South p/b NGCA
@@ -78,11 +78,11 @@ Place,License #,First,Last,City,State,Time,Team
 74,377671,Austin,Ulich,Athens,GA,58:07.2,Pharmaco-Deep South p/b NGCA
 75,156999,Rodney,Rios,Houston,TX,58:07.5,Bike Barn Texas
 76,161552,Lucas,Livermon,Durham,NC,58:09.0,Cyclus Sports
-77,383915,Tom,Salvesen,Charleston,SC,58:11.8,
+77,383915,Tom,Salvesen,Lakewood,CO,58:11.8,
 78,296101,Frank,Cundiff,North Chesterfield,VA,58:13.1,
 79,309396,Stephan,Hoffman,Soquel,CA,58:13.6,Team Clif Bar
 80,269476,Michael,Jasinski,Rocklin,CA,58:13.8,TEAM CLIF BAR
-81,309018,Keith,Mullaly,Belmont,NC,58:13.8,Levine Law Group p/b Huseby.com
+81,309018,Keith,Mullaly,Wethersfield,CT,58:13.8,Levine Law Group p/b Huseby.com
 82,301686,Sam,Rosenholtz,Brookline,MA,58:14.3,CCB Velotooler
 83,0,Caleb,Aoake,,,58:14.5,Team Novo Nordisk Development
 84,0,Stefan,Schafer,,,58:14.7,Crit Life
@@ -98,7 +98,7 @@ Place,License #,First,Last,City,State,Time,Team
 94,194743,Winston,David,Greenville,SC,58:35.9,Palmetto State Medical Elite Cycling Team
 95,368147,Alex,Mclaughlin,Louisville,KY,58:36.5,Texas Roadhouse Cycling Team
 96,259171,Jake,Andrews,Gray,GA,58:36.9,
-97,374617,Chad,Conley,Cartersville,GA,58:41.0,Pharmaco-Deep South p/b NGCA
+97,374617,Chad,Conley,Atlanta,GA,58:41.0,Pharmaco-Deep South p/b NGCA
 98,193035,Brandon,Feehery,Knoxville,TN,59:02.0,Crit Life
 99,467842,Clay,Murfet,Knoxville,TN,59:02.8,Crit Life
 100,324900,David,Duquette,Gastonia,NC,59:08.9,Cyclus Sports
@@ -142,7 +142,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,422867,David,Tucker,Greenville,SC,28:19.3,Team Rize
 6,524473,Luke,Richards,Hilliard,OH,28:19.5,Belmont Abbey College
 7,0,Unknown,Rider,,,28:19.6,
-8,316918,Daniel,Joyal,Taylors ,SC,28:19.8,
+8,316918,Daniel,Joyal,Taylors,SC,28:19.8,
 9,174820,Will,Murray,Charlotte,NC,28:19.9,Fly Racing
 10,471761,Sean,Huson,Hendersonville,NC,28:20.2,Crosstown Velo
 11,393999,Brooks,Wienke,Greenville,SC,28:20.5,Upstate Jr Cycling p/b Calder B
@@ -187,7 +187,7 @@ DNF,480876,David,Burstein,Kernersville,NC,,Monster Media Racing
 Place,License #,First,Last,City,State,Time,Team
 1,494707,Zach,Gregg,Roanoke,VA,51:03.4,Haymarket/Starlight Custom Appa
 2,377254,Huntley,Nash,Marietta,GA,51:12.7,
-3,309018,Keith,Mullaly,Belmont,NC,51:13.0,Belmont Abbey College
+3,309018,Keith,Mullaly,Wethersfield,CT,51:13.0,Belmont Abbey College
 4,274271,Chris,Goguen,Franklin,MA,51:13.1,RACE CF | racecf.org
 5,484523,William,Hardin,Winston Salem,NC,51:13.1,Hearts Racing Club
 6,388411,Alex,Jerome,Pisgah Forest,NC,51:13.5,Cycles Sports Charlotte
@@ -201,14 +201,14 @@ Place,License #,First,Last,City,State,Time,Team
 14,338102,Casey,Fulton,Chesapeake,VA,51:16.2,CHEERBACKS of Fat Frogs Racing
 15,403557,Eric,Moore,Greenville,SC,51:16.3,
 16,393312,Cliff,Mueller,Cornelius,NC,51:16.6,HC Devo Elite p/b Monster Media
-17,272071,Wheeler,Davis,Athens,GA,51:17.6,Team Novo Nordisk Juniors
-18,175537,Cliff,Kugler,Simpsonville ,SC,51:18.1,Cycle Haus Racing
+17,272071,Wheeler,Davis,Raleigh,NC,51:17.6,Team Novo Nordisk Juniors
+18,175537,Cliff,Kugler,Simpsonville,SC,51:18.1,Cycle Haus Racing
 19,499146,Marc,Sawicki,Charlotte,NC,51:18.6,Southeast Velo Racing
 20,392790,Alexander,Bender,Savannah,GA,51:18.7,Hilton Head Cycling/Robson Fore
 21,424059,Steven,Ramirez,Cambridge,MA,51:18.8,Monster Media Racing p/b Butche
 22,303079,Alastair,Pounder,Cary,NC,51:19.1,Dornier Racing
 23,442975,Matt,Sloyer,Raleigh,NC,51:19.2,Monster Media Racing
-24,217539,Nathan,Harris,Frisco,CO,51:19.3,
+24,217539,Nathan,Harris,Spring,TX,51:19.3,
 25,487898,Garrett,Clark,Charlotte,NC,51:19.6,HC Devo Elite p/b Monster Media
 26,459366,Brian,Hale,Savannah,GA,51:19.7,Hilton Head Cycling/Robson Fore
 27,437931,Seth,Jones,Mooresville,NC,51:20.0,
@@ -267,7 +267,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,385645,Matthew,Spargo,Belmont,NC,33:37.4,Carolina Cycling Team
 4,139857,Ryan,Robinson,Anderson,SC,33:40.7,CCT Racing
 5,311472,Gregory,Thompson,Harrisburg,NC,33:45.7,Carolina Cycling Team
-6,58176,Nathan,Rogut,Tampa,FL,34:03.3,Velobrew--AV Homes
+6,58176,Nathan,Rogut,Rock Hill,SC,34:03.3,Velobrew--AV Homes
 7,364714,Aaron,Atwater,Conway,SC,34:44.2,The Southeast Enduance Project
 8,60,Scott,Edge,Greenville,SC,34:44.4,organic valley
 9,3304,Ramon,Benitez,Glenwood,MD,34:44.8,HydroMonkey
@@ -314,7 +314,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,114198,Joe,Hathcock,Matthews,NC,27:41.8,
 15,24663,Robert,Mobley,Lancaster,SC,27:42.3,Team Rize
 16,66729,Lee,Reavis,Winston Salem,NC,27:42.5,
-17,197646,Tim,Borsetti,Hendersonville,NC,27:42.7,Cycles 54/XRCEL
+17,197646,Tim,Borsetti,Central,SC,27:42.7,Cycles 54/XRCEL
 18,263327,William,Jenkins,Waxhaw,NC,27:42.9,
 19,55442,Robert,Thomas,Fort Mill,SC,27:43.4,Team Rize
 20,29370,Brad,Reed,Charlotte,NC,27:44.0,Team Rize
@@ -362,12 +362,12 @@ Place,License #,First,Last,City,State,Time,Team
 04/22/2017 Criterium Women PRO/1/2/3
 Place,License #,First,Last,City,State,Time,Team
 1,41951,Tina,Pic,Bountiful,UT,38:46.4,Papa John's Racing p/b Trek
-2,509477,Peta,Mullens,Tulsa,OK,38:46.5,Hagens Berman Supermint
+2,509477,Peta,Mullens,Oceanside,CA,38:46.5,Hagens Berman Supermint
 3,174914,Erica,Allar,Demorest,GA,38:46.7,Rally Cycling
 4,466411,Rachel,McKinnon,Charleston,SC,38:47.6,Foxy Moxy
 5,36345,Laura,Van Gilder,Cresco,PA,38:47.8,Mellow Mushroom Pizza Bakers p/b Van Dessel
 6,394701,Kimberly,Lucie,Tucson,AZ,38:48.1,LA Sweat
-7,267467,Christy,Keely,Greenville ,SC,38:48.4,Fearless Femme Racing
+7,267467,Christy,Keely,Greenville,SC,38:48.4,Fearless Femme Racing
 8,326470,Hannah,Arensman,Rutherford College,NC,38:50.5,
 9,406712,Megan,Heath,Alpharetta,GA,38:50.7,Rally Cycling
 10,200504,Briana,Clark,Carmel,IN,38:50.8,First Internet Bank Cycling
@@ -417,7 +417,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,460768,Merrill,Thierman,Charlotte,NC,29:37.1,American Dornier Racing
 2,464167,Amelia,Kirby,Richmond,VA,29:37.5,Sweet Spot Cycling
 3,408347,Elizabeth,Kieffer,Columbus,IN,29:38.1,First Internet Bank Cycling
-4,476619,Paige,Kostanecki,Charottesville,VA,29:38.6,BRC Racing pb Reynolds GM-Subar
+4,476619,Paige,Kostanecki,Charlottesville,VA,29:38.6,BRC Racing pb Reynolds GM-Subar
 5,364707,Karen,Muehl,Charlotte,NC,29:38.9,Uptown Cycles
 6,406195,Maggie,Barton,Richmond,VA,29:39.2,Sweet Spot Cycling
 7,526369,Sommers,Creed,Athens,GA,29:39.9,
@@ -442,7 +442,7 @@ Place,License #,First,Last,City,State,Time,Team
 26,333298,Annalise,Oestreich,Powder Springs,GA,33:16.1,Keenz Racing p/b Mission Source
 27,439196,Elizabeth,May,Suwanee,GA,33:16.7,Frazier Cycling
 28,423544,Alexa,Hoppenfeld,Atlanta,GA,33:17.4,Frazier Cycling
-29,223163,Caroline,Gaynor,Austin,TX,33:18.7,Athlete Architecture
+29,223163,Caroline,Gaynor,Charlotte,NC,33:18.7,Athlete Architecture
 30,272994,Sharon,Leary,Prince George,VA,33:46.8,Sweet Spot Cycling
 31,428719,Lilly,McLeod,Brooksville,FL,34:10.0,Twenty twenty
 32,525454,Elizabeth,Blunt,Fountain Inn,SC,34:40.2,

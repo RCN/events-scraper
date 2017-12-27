@@ -54,7 +54,7 @@ Place,License #,First,Last,City,State,Time,Team
 50,0,Jackson,Duncan,,,1:00:31:07.69,
 51,305250,Nicolas,Jimenez,Golden,CO,1:00:31:13.87,Team Cycleton
 52,11946,Michael,Foley,San Rafael,CA,1:00:31:35.69,City Cycle Racing
-53,293369,Adrian,Flores,Austin,TX,,Austinbikes
+53,293369,Adrian,Flores,San Francisco,CA,,Austinbikes
 
 07/29/2017 Criterium Men CAT 3/4
 Place,License #,First,Last,City,State,Time,Team
@@ -89,7 +89,7 @@ Place,License #,First,Last,City,State,Time,Team
 29,494325,Andrew,Mathiesen,Santa Rosa,CA,49:44.6,Team Swift
 30,458972,Theo,Goguely,Menlo Park,CA,49:45.0,TMB Development p/b Equator
 31,517464,Cameron,Stewart,Monterey,CA,49:46.4,Don Chapin Jr. Development
-32,418571,Stephen,Lenz,Turlock,CA,49:47.5,Chico Cycling Team
+32,418571,Stephen,Lenz,Davis,CA,49:47.5,Chico Cycling Team
 33,476831,Richie,Vos,Mountain View,CA,49:48.2,SunPower Racing
 34,458341,Aaron,Gouw,Scotts Valleys,CA,49:49.0,Davis Bike Club Race Team
 35,397700,Erik,Schiller,Half Moon Bay,CA,49:49.6,SunPower Racing
@@ -123,16 +123,16 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,493864,James,Beaumier,Morgan Hill,CA,52:01.3,Cycle Sport - Specialized p/b M
 2,458972,Theo,Goguely,Menlo Park,CA,52:01.7,TMB Development p/b Equator
-3,78591,Matthew,Accarrino,San Francisco ,CA,52:02.1,
+3,78591,Matthew,Accarrino,San Francisco,CA,52:02.1,
 4,494390,Andrew,Chew,San Mateo,CA,52:04.5,Pen Velo Racing/Summit Bicycles
 5,220894,Alexander,Yermolovich,Santa Clara,CA,52:04.8,Pen Velo Racing/Summit Bicycles
-6,355690,Nathan,Shay,Kansas City,MO,52:05.5,Squadra SF terun
+6,355690,Nathan,Shay,San Francisco,CA,52:05.5,Squadra SF terun
 7,305850,Chad,Richards,Antelope,CA,52:05.8,Sierra Nevada/Reliable Racing
 8,223566,Eric,Chi,Cupertino,CA,52:06.5,Pen Velo Racing/Summit Bicycles
 9,202518,Uri,Friedman,San Francisco,CA,52:09.7,Swell Bicycles
 10,494598,David,Shih,Cupertino,CA,52:10.7,SunPower Racing
 11,393391,Mathew,Miller,San Carlos,CA,52:12.9,Pen Velo Racing/Summit Bicycles
-12,378563,Kurt,Brown,Minneapolis,CA,52:13.0,Dolce Vita Freewheel p/b SL2
+12,378563,Kurt,Brown,San Francisco,CA,52:13.0,Dolce Vita Freewheel p/b SL2
 13,225246,John,Wilde,San Francisco,CA,52:13.5,
 14,321598,Matthew,Johnson,San Francisco,CA,13:22.8,Dolce Vita Freewheel p/b SL2
 15,522890,Dominic,Cofresi,Daly City,CA,13:22.9,Pen Velo Racing/Summit Bicycles
@@ -171,7 +171,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 07/29/2017 Criterium Men CAT 1/2/3/4/5 FIXED GEAR
 Place,License #,First,Last,City,State,Time,Team
-1,293369,Adrian,Flores,Austin,TX,39:35.5,Austinbikes
+1,293369,Adrian,Flores,San Francisco,CA,39:35.5,Austinbikes
 2,391346,JERRY,RIOS,Montebello,CA,39:35.5,THRONE CYCLES / TWFSL
 3,428648,Hector,Morales,Inglewood ,CA,39:35.6,FHTN Leader bikes
 4,368368,Zachary,Morvant,San Francisco,CA,39:36.5,The Heavy Pedal
@@ -217,7 +217,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,233623,Christopher,Phipps,San Francisco,CA,17:58.1,ThirstyBear p/b Akamai
 6,35297,Nick,Theobald,Burlingame,CA,18:04.7,Peet's Coffee Racing
 7,47519,Kevin,Metcalfe,Pleasant Hill,CA,18:44.1,Peet's Coffee Racing
-8,25655,Jerome,Nadel,Sunnyvale,CA,16:18.4,ThirstyBear p/b Akamai
+8,25655,Jerome,Nadel,Woodside,CA,16:18.4,ThirstyBear p/b Akamai
 9,319284,Ronnie,Leavitt,Rocklin,CA,16:18.6,Team Specialized/Touchstone Rac
 10,204496,michael,orourke,Auburn,CA,16:18.8,Peet's Coffee Racing
 11,195470,Kyle,Glerum,Emerald Hills,CA,16:19.1,Peet's Coffee Racing
@@ -254,7 +254,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,387746,Amy,Cameron,Oakland,CA,05:16.3,Folsom Bike/Trek
 10,0,Sara,Clafferty,,,05:16.3,
 11,340330,Eleanor,Velez,El Dorado Hills,CA,05:16.4,
-12,455528,shelby,tramel,San Francisco,CA,05:16.5,RAZZLE DAZZLE
+12,455528,shelby,tramel,Oakkland,CA,05:16.5,RAZZLE DAZZLE
 13,419981,Meisin,Yan,San Francisco,CA,05:18.1,Team Mike's Bikes p/b Equator C
 14,458871,Megan,Ruble,Modesto,CA,05:18.7,Cycle Sport-Specialized p/b Mus
 15,269569,Marissa,Axell,El Cerrito,CA,05:18.8,JL Velo Cycling Team p/b The Fr
@@ -272,7 +272,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,501804,Haley,Nielsen,San Francisco,CA,18:19:33,SheSpoke Racing
 5,307890,Heather,McDonald,San Francisco,CA,18:19:33,JLVelo Cycling Team p/b The Fre
 6,458805,lindsay,barlow,Menlo Park,CA,18:19:33,JLVelo Cycling Team p/b The Fre
-7,485936,Trish,Pablo,Sacramento ,CA,18:19:34,Team Mike's Bikes p/b Equator C
+7,485936,Trish,Pablo,Rodeo,CA,18:19:34,Team Mike's Bikes p/b Equator C
 8,521264,Jennifer,Schwarz,San Francisco,CA,18:19:34,Mikes Bikes p/ Equator Coffee a
 9,469197,Trinity,Gleckler,Sacramento,CA,18:19:34,Breakaway Women's Racing p/b Ki
 10,494210,Kortney,Parman,San Francisco,CA,18:19:34,JLVelo Cycling Team p/b The Fre

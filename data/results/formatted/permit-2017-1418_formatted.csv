@@ -53,8 +53,8 @@ DNP,333264,John,DEAGON,San Francisco,CA,,
 
 07/15/2017 Criterium Men Cat 3/4 Master 35+
 Place,License #,First,Last,City,State,Time,Team
-1,78591,Matthew,ACCARRINO,San Francisco ,CA,,
-2,355690,Nathan,SHAY,Kansas City,MO,,SquadraSF p/b Terun
+1,78591,Matthew,ACCARRINO,San Francisco,CA,,
+2,355690,Nathan,SHAY,San Francisco,CA,,SquadraSF p/b Terun
 3,493864,James,BEAUMIER,Morgan Hill,CA,,Cycle Sport - Specialized p/b Muscle Milk
 4,53550,Ernest,SANCHEZ,Vacaville,CA,,S2C/BOSCH pb Pearl Izumi
 5,391642,Donald,DUMAINE,Sacramento,CA,,Revs Road Race p/b Kinetic Cycles
@@ -62,7 +62,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,323868,Robb,HERRICK,Fairfield,CA,,Revs Road Race p/b Kinetic Cycles
 8,411561,klaus,GRIMM,Reno,NV,,AUDI RENO-TAHOE
 9,418575,Ray,ABOLT,Yuba City,CA,,
-DNS,394639,Nicholas,CASTER,Roseville  ,CA,,Data Driven Athlete Racing
+DNS,394639,Nicholas,CASTER,Roseville,CA,,Data Driven Athlete Racing
 DNS,499629,Eric,SCHLANGE,Lakeport,CA,,
 DNP,422972,Davin,ABRAHAMIAN,Chico,CA,,Chico Cycling Team
 DNP,457996,Steve,NETTER,Menifee,CA,,Impact Racing Team
@@ -90,7 +90,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,61117,Brian,ZIMNY,Sacramento,CA,,Peet's Coffee Racing
 5,233623,Christopher,PHIPPS,San Francisco,CA,,ThirstyBear p/b Akamai
 6,163046,Ariel,HERRMANN,San Francisco,CA,,ThirstyBear p/b Akamai
-7,459276,Mark,HOWARD,Cupertino ,CA,,SunPower Racing
+7,459276,Mark,HOWARD,Cupertino,CA,,SunPower Racing
 8,236024,Russell,WHITE,Lafayette,CA,,
 9,49344,Michael,CHARLETON,Windsor,CA,,Red Peloton
 10,334718,Aaron,PATTERSON,San Jose,CA,,Peet's Coffee Racing
@@ -113,7 +113,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,233623,Christopher,PHIPPS,San Francisco,CA,,ThirstyBear p/b Akamai
 3,35297,Nick,THEOBALD,Burlingame,CA,,Peet's Coffee Racing
 4,205616,Shawn,DALY,Santa Rosa,CA,,ThirstyBear p/b Akamai
-5,201585,Daniel,QUIRK,Petaluma,CA,,ThirstyBear p/b Akamai
+5,201585,Daniel,QUIRK,Sonoma,CA,,ThirstyBear p/b Akamai
 6,261718,Yutch,COWHIE,Fair Oaks,CA,,Michael David Winery Cycling Team
 7,356964,Andrew,HEINEMANN,El Dorado Hills,CA,,AUDI RENO-TAHOE
 8,55123,Scott,DERDENGER,Benicia,CA,,Divine Electric Norcal
@@ -151,9 +151,9 @@ Place,License #,First,Last,City,State,Time,Team
 2,497517,Zane,JENSEN,Lakeport,CA,,Main Street Elite p/b Main Street Bicycles
 3,390428,Andy,GARZOLI,Lakeport,CA,,Main Street Elite p/b Main Street Bicycles
 4,458341,Aaron,GOUW,Scotts Valleys,CA,,Davis Bike Club Race Team
-5,194574,Morgan,GERLAK,Baltimore,MD,,C3-Twenty20cycling.com
+5,194574,Morgan,GERLAK,San Francisco,CA,,C3-Twenty20cycling.com
 6,324534,Ross,KELLY,Davis,CA,,Davis Bike Club Race Team
-7,266583,Douglas,SCHALLER,Belmont ,CA,,A Bloc Racing
+7,266583,Douglas,SCHALLER,Belmont,CA,,A Bloc Racing
 8,391493,Stuart,WATSON,San Rafael,CA,,Cycle Sport - Specialized p/b Muscle Milk
 9,275120,Cameron,WALKER,Sacramento,CA,,Team Mikes Bikes p/b Equator Coffees
 10,422186,Keith,SOLLERS,Davis,CA,,Davis Bike Club Race Team
@@ -168,12 +168,12 @@ Place,License #,First,Last,City,State,Time,Team
 2,269569,Marissa,AXELL,El Cerrito,CA,,JLVelo Cycling Team p/b The Freewheel
 3,393251,Jeanette,HAGGAS,San Francisco,CA,,RAZZLE DAZZLE
 4,402944,Christina,BONNINGTON,Belmont,CA,,JLVelo Cycling Team p/b The Freewheel
-5,455528,Shelby,TRAMEL,San Francisco,CA,,RAZZLE DAZZLE
+5,455528,Shelby,TRAMEL,Oakkland,CA,,RAZZLE DAZZLE
 6,458894,Sandra,FREEMAN,Morgan Hill,CA,,JLVelo Cycling Team p/b The Freewheel
 7,438042,Allie,BOLLELLA,Berkeley,CA,,JLVelo Cycling Team p/b The Freewheel
 DNS,75728,Laurel,GREEN,Windsor,CA,,Los Gatos
 DNS,266806,Alison,TETRICK,Petaluma,CA,,UCI WPT: Cylance Pro Cycling
-DNP,485936,Trish,PABLO,Sacramento ,CA,,Team Mikes Bikes p/b Equator Coffees
+DNP,485936,Trish,PABLO,Rodeo,CA,,Team Mikes Bikes p/b Equator Coffees
 DNP,425153,Ginger,BOYD,Los Angeles,CA,,Stinner Black Sheep Women's Racing
 
 07/15/2017 Criterium Women Cat 3/4/5
@@ -182,8 +182,8 @@ Place,License #,First,Last,City,State,Time,Team
 2,0,Shanna,LEE,,,,
 3,458805,Lindsay,BARLOW,Menlo Park,CA,,JLVelo Cycling Team p/b The Freewheel
 4,424709,April,WILLOUGHBY,Sunnyvale,CA,,JLVelo Cycling Team p/b The Freewheel
-5,485936,Trish,PABLO,Sacramento ,CA,,Team Mikes Bikes p/b Equator Coffees
-6,127715,Madeline,FINCH,Sacramento,CA,,Breakaway Women's Racing p/b Kinetic Cycles
+5,485936,Trish,PABLO,Rodeo,CA,,Team Mikes Bikes p/b Equator Coffees
+6,127715,Madeline,FINCH,West Sacramento,CA,,Breakaway Women's Racing p/b Kinetic Cycles
 7,520052,Daniele,MONAHAN,Berkeley,CA,,SunPower Racing
 8,332182,Kelli,BADILLO,Santa Rosa,CA,,Breakaway Women's Racing p/b Kinetic Cycles
 9,458897,amber,PEARSON,El Dorado Hills,CA,,SunPower Racing

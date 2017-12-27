@@ -27,9 +27,9 @@ Place,License #,First,Last,City,State,Time,Team
 4,381529,Rafael,Solorzano,Inglewood,CA,,La Grange Development U21
 5,496623,Garrison,Mejia,Covina,CA,,Southern California Velo -  Main Street Garage Junior Development
 6,524543,Colin,Bybee,Escondido,CA,,
-7,407644,Daniel,Park,Rancho Palos Verdes,CA,,La Grange Development U21
+7,407644,Daniel,Park,Fullerton,CA,,La Grange Development U21
 8,496370,Levi,Jefferies,Vista,CA,,Swami's Junior Development Team
-9,493183,Marc,Leon,Ontario,CA,,
+9,493183,Marc,Leon,Pomona,CA,,
 
 04/16/2017 Criterium Men Cat 1/2/3/4/5 Junior 9-12
 Place,License #,First,Last,City,State,Time,Team
@@ -102,7 +102,7 @@ Place,License #,First,Last,City,State,Time,Team
 36,467816,carlos,Martinez -fernandez,Chula Vista,CA,,G3Foundation / Trek
 37,379770,Aaron,Preski,Lancaster,CA,,OTR Racing
 38,396857,Edgar,Noriega,La Puente,CA,,Monster Media Racing
-39,493183,Marc,Leon,Ontario,CA,,
+39,493183,Marc,Leon,Pomona,CA,,
 40,503722,Blake,Christianson,Oxnard,CA,,Monster Media Racing
 41,219105,Carlos,Gonzalez,Pico Rivera,CA,,GBS Racing
 42,510155,Kevin,Escobar,Los Angeles,CA,,South Bay Wheelmen
@@ -253,9 +253,9 @@ Place,License #,First,Last,City,State,Time,Team
 27,427571,Robert,Hayes,Lake Forest,CA,,Radsport Cycling Team
 28,45249,Brad,Decker,Irvine,CA,,Team Simple Green/Cannondale/Bike Religion
 29,107559,Rodney,Malloy,Los Angeles,CA,,Bahati Foundation
-30,181807,Paul,Lipski,Los Alamitos ,CA,,Team Simple Green/Cannondale/Bike Religion
+30,181807,Paul,Lipski,Los Alamitos,CA,,Team Simple Green/Cannondale/Bike Religion
 31,72532,Michael,Schmidt,Valencia,CA,,S2C/BOSCH pb Pearl Izumi
-32,9327,Earl,Detrick,Thousand Oaks ,CA,,HSR Racing p/b BIRDWORX
+32,9327,Earl,Detrick,Thousand Oaks,CA,,HSR Racing p/b BIRDWORX
 33,151059,Joseph,Mastro,Anaheim,CA,,Team Simple Green/Cannondale/Bike Religion
 34,37101,John,Walsh,San Diego,CA,,
 35,419332,Anthony,Rose,Carson,CA,,Bahati Foundation
@@ -277,7 +277,7 @@ Place,License #,First,Last,City,State,Time,Team
 51,19896,Kevin,Kruger,Carlsbad,CA,,BBI-SIC
 52,219616,Michael,Hall,Thousand Oaks,CA,,HSR Racing p/b BIRDWORX
 53,175392,Josh,Gruenberg,San Diego,CA,,G3Foundation / Trek
-54,45552,Douglas,Knox,Santa Barbara,CA,,Velo Pasadena Team
+54,45552,Douglas,Knox,North Hollywood,CA,,Velo Pasadena Team
 DNS,53048,Richard,Savitt,Yorba Linda,CA,,Canyon Velo
 DNF,108680,Michael,Carro,Eagle Rock,CA,,G3Foundation / Trek
 
@@ -301,7 +301,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,419208,Mike,Chavarria,Chula Vista,CA,,SDBC/EMERALD TEXTILES p/b UC Cyclery
 17,45249,Brad,Decker,Irvine,CA,,Team Simple Green/Cannondale/Bike Religion
 18,495790,Paolo,Fassari,Indio,CA,,
-19,181807,Paul,Lipski,Los Alamitos ,CA,,Team Simple Green/Cannondale/Bike Religion
+19,181807,Paul,Lipski,Los Alamitos,CA,,Team Simple Green/Cannondale/Bike Religion
 20,419332,Anthony,Rose,Carson,CA,,Bahati Foundation
 21,333364,Anthony,Reguero,Irvine,CA,,WIN TEAM RACING
 22,62050,John,Koga,Irvine,CA,,Team Simple Green/Cannondale/Bike Religion
@@ -309,7 +309,7 @@ Place,License #,First,Last,City,State,Time,Team
 24,47575,Heather,Odom,Vista,CA,,SDBC/EMERALD TEXTILES p/b UC Cyclery
 25,19896,Kevin,Kruger,Carlsbad,CA,,BBI-SIC
 26,53911,Joseph,Buchanan,Camarillo,CA,,Kryki Sports
-27,45552,Douglas,Knox,Santa Barbara,CA,,Velo Pasadena Team
+27,45552,Douglas,Knox,North Hollywood,CA,,Velo Pasadena Team
 28,178640,Reginald,Jones,Los Angeles,CA,,ironfly
 DNF,108680,Michael,Carro,Eagle Rock,CA,,G3Foundation / Trek
 DNF,239696,Edward,Cruz,Penn Valley,CA,,ol'Republic/SERT
@@ -347,11 +347,11 @@ Place,License #,First,Last,City,State,Time,Team
 10,9156,Chris,DeMarchi,Chino,CA,,Monster Media Elite Masters
 11,526739,Callum,Gordon,,,,
 12,458935,Jose,Chuc,Los Angeles,CA,,South Bay Wheelmen
-13,526732,Cullen,Browne,,,,
+13,534570,Cullen,Browne,Tulsa,OK,,
 14,272524,Taylor,Vaccari,Rancho Cucamonga,CA,,
 15,215808,Juan,Cisneros,Chula Vista,CA,,Eliel Factory Team
 16,394680,Osvaldo,Mora,Norwalk,CA,,Southern California Velo -  Main Street Garage Junior Development
-17,441005,Angel,Munoz,Newhall,CA,,ENDO CONCEPT TEAM
+17,441005,Angel,Munoz,New Hall,CA,,ENDO CONCEPT TEAM
 18,86484,Nate,Freed,Carlsbad,CA,,Herbalife p/b Marc Pro - Nature's Bakery
 19,404003,Christian,Molina,La Crescenta,CA,,ENDO CONCEPT TEAM
 20,419089,Joshua,Sparks,Rancho Cucamonga,CA,,Monster Media Racing
@@ -397,7 +397,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,523941,Brian,Uno,Corona,CA,,
 2,140601,Elijah,Baker,Los Angeles,CA,,Velo Club La Grange +21
 3,430540,Nick,Martinez,Seal Beach,CA,,Velo Club LaGrange
-4,423072,Julius,Cunanan,National City,CA,,
+4,423072,Julius,Cunanan,La Mesa,CA,,
 5,480572,Allen,Mecum,Eastvale,CA,,Monster Media Racing
 6,523407,Luis,Pastrana,El Monte,CA,,
 7,473423,Antonio,Salazar,Lynwood,CA,,
@@ -414,7 +414,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,526967,Victor,Flores,Los Angeles,CA,,
 19,402466,Jonathan,Chin,Louisville,CO,,
 20,530620,Jose,Aleman III,Los Angeles,CA,,
-21,494190,James,Burthe,Pomona,CA,,
+21,494190,James,Burthe,San Diego,CA,,
 22,530341,Brandon,Bennett,Riverside,CA,,
 23,504670,Lawrence,Sanford,Riverside ,CA,,
 24,468183,Lam Vy,Tran,San Bernardino,CA,,
@@ -435,7 +435,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,243310,Fabian,Valdivia,Baldwin Park,CA,,DARE
 5,524825,Jason,Russell,Nashville,TN,,SDBC/EMERALD TEXTILES p/b UC Cyclery
 6,127537,Maison,Chen,Del Mar,CA,,
-7,407644,Daniel,Park,Rancho Palos Verdes,CA,,La Grange Development U21
+7,407644,Daniel,Park,Fullerton,CA,,La Grange Development U21
 8,418451,SOPHANA,HAP,San Diego,CA,,G S Adams Avenue Bicycles
 9,394763,Samuel,Macias,Chula Vista,CA,,G3Foundation / Trek
 10,501452,Cameron,Foley,San Diego,CA,,SDBC/EMERALD TEXTILES p/b UC Cyclery
@@ -492,7 +492,7 @@ DNF,512123,Rooney,escobar,Los Angeles,CA,,South Bay Wheelmen
 04/16/2017 Criterium Men Cat 3 Senior Open
 Place,License #,First,Last,City,State,Time,Team
 1,458964,Sebouh,Bazikian,La Canada,CA,,
-2,356667,Treavor,Matsushima,Pasadena,CA,,Portland Bicycle Studio
+2,356667,Treavor,Matsushima,South Pasadena,CA,,Portland Bicycle Studio
 3,458935,Jose,Chuc,Los Angeles,CA,,South Bay Wheelmen
 4,522242,kyle,berg,Phoenix,AZ,,Athlete Octane Racing
 5,430072,Carlos,FuerteGaspar,Riverside,CA,,Eliel Factory Team

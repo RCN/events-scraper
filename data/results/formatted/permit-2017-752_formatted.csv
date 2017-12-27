@@ -19,7 +19,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,375995,Andres,JIMENEZ,Dover,NJ,0.10,High Gear/Trek/Ww
 16,51413,Brandon,HAINES,West Chester,PA,0.00,Liberty Cycle
 17,433301,Samantha,FOX,Philadelphia,PA,0.10,Qcw Breakawaybikes.Com P/B Jlve
-18,259102,MAtthew,ERCHULL,Easthampton,MA,0.10,
+18,259102,MAtthew,ERCHULL,Jersey City,NJ,0.10,
 19,381400,Anwar,GORHAM,Baltimore,MD,0.10,Kelly Benefit Strategies / Lsv
 20,428309,Leo,KIRKPATRICK BAIRD,Bernardsville,NJ,0.10,Kms Cycling - Killington Mounta
 21,353400,Jacob,SKRIP,Breinigsville,PA,0.00,Cs Velo
@@ -41,14 +41,14 @@ Place,License #,First,Last,City,State,Time,Team
 37,274737,Gregory,LEACH,Washington,DC,0.20,Team Metra / Cylces 54 / Xrcel
 38,277696,Matthew,MONTESANO,Philadelphia,PA,0.00,Zubaz Racing
 39,155749,Christian,MAMBELLI,Matawan,NJ,0.00,
-40,324134,Matthew,MORY,Philadelphia,PA,0.60,Qcw Cycling P.B. Breakawaybikes
+40,324134,Matthew,MORY,Mesa,AZ,0.60,Qcw Cycling P.B. Breakawaybikes
 41,54448,Robert,MECEA,Brooklyn,NY,0.10,Healthy & Happy Racing
 42,369505,Eli Curt,FULD,Teaneck,NJ,0.30,Blue Ribbon - Pennell Venture P
 43,461097,Alex,SMITH,East Petersburg,PA,0.70,
 44,52604,Steven,WARD,Rockaway,NJ,0.30,High Gear/Trek/Ww
 45,276879,Alex,ABARBANEL-GROSSMAN,Bloomfield,NJ,0.10,High Gear/Trek/Ww
 46,285488,Ryan,JOHNSTON,Brooklyn,NY,0.90,Bicycle Habitat-Verge Sport
-47,306560,Steven,WENTWORTH,Yardley ,PA,0.40,Tri-State Velo / Amoroso'S Raci
+47,306560,Steven,WENTWORTH,Yardley,PA,0.40,Tri-State Velo / Amoroso'S Raci
 48,308579,Andrew,DA SILVA,Highland Mills,NY,3.20,Bicycle Habitat-Verge Sport
 49,184317,Chris,SHAW,Pipersville,PA,0.60,Crca/Rockstar Games
 50,339480,Tomas,KETCHAM,Philadelphia,PA,5.80,Crca/Blue Ribbon-Pennell Ventur
@@ -61,7 +61,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,524900,Dillon,MAST,Philadelphia,PA,1:06:50.20,Cs Velo
 2,456122,Clint,COLBERT,Philadelphia,PA,0.10,Rohan Cycling
-3,505277,Brendan,GRAHAM,Westchester,PA,0.10,Cadence Racing
+3,505277,Brendan,GRAHAM,Philadelphia,PA,0.10,Cadence Racing
 4,0,Mark,SHAPIRO,,,0.10,Sumitt Cycling Club
 5,466617,Christopher,Yager,Bellmore,NY,0.10,
 6,0,Christopher,SHELTON,,,0.00,Qcw Cycling P.B. Breakawaybikes
@@ -69,7 +69,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,528454,Ryan,LARSON,Absecon,NJ,0.10,Vr2209
 9,524323,Eric,PANHORST,Morrisville,PA,0.00,Guy'S Racing Club
 10,492884,Leonard,VELLUCCI,Langhorne,PA,0.00,Team B3 Cycling
-11,500289,Kyle,SAMMON,Bradley Beach,NJ,0.10,
+11,500289,Kyle,SAMMON,Lancaster,PA,0.10,
 12,306016,Robert Ryan,CLARK,Bordentown,NJ,0.00,Team B3 Cycling
 13,493695,Robert,WILLIAMS,Glassboro,NJ,0.10,Caffeinated Cyclist Racing
 14,514698,Justin,WHEELER,Wynnewood,PA,0.20,West Chester Cycling Club
@@ -109,7 +109,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,465947,Louis,RUSSO,Long Island City,PA,0.10,Rohan Cycling
 14,289097,Richard,WAWRZENIAK,Salisbury,MD,0.00,Ocean Velo Club/Culver & Pierso
 15,392515,John,TRUSSELL,Sicklerville,NJ,0.10,Action Wheels
-16,410977,Oscar,DIAZ,Hamilton,NJ,0.00,
+16,410977,Oscar,DIAZ,Millstone Township ,NJ,0.00,
 17,428141,Joseph,BURCH,Aston,PA,0.10,Zen Masters Racing
 18,410441,Pete,DOYLE,Hagerstown,MD,0.10,
 19,400473,Caleb,OLIVER,Salisbury,MD,0.00,Ocean Velo Club/Culver Pierson
@@ -178,7 +178,7 @@ Place,License #,First,Last,City,State,Time,Team
 26,242817,Raul,GALLIANO,Secaucus,NJ,0.00,Death Row Velo
 27,197138,Michael,HENASEY,Haddonfield,NJ,0.20,PSR Racing
 28,393405,Marquand,BROWN,Pottstown,PA,0.30,Blue Bell Private Wealth Manage
-29,244768,Wilson,ANDRADE,Westfield,NJ,0.10,Karma Racing Team
+29,244768,Wilson,ANDRADE,Edison,NJ,0.10,Karma Racing Team
 30,58508,Simon,KHALIF,New York,NY,0.00,Crca/Gf Capital H&E Ent
 31,283254,Greg,HORROCKS,Spring City,PA,0.10,Blue Bell Private Wealth Manage
 32,238088,Matthew,DISHART,Mount Joy,PA,0.20,Thru It All Body Shop
@@ -195,7 +195,7 @@ Place,License #,First,Last,City,State,Time,Team
 43,186990,Matthew,KUPSKY,Vineland,NJ,10.40,The Performance Lab P/B The Caf
 44,54219,Fred,BILLET,Langhorne,PA,4.50,Tri State Velo/Amoroso
 45,113358,William,HUNT,Milford,NJ,20.00,
-46,427513,Todd,TOWNSEND,Pitman,NJ,22.20,Caffeinayted Cyclist
+46,427513,Todd,TOWNSEND,Englewood,CO,22.20,Caffeinayted Cyclist
 47,251936,Nick,PICCONE,Mullica Hill,NJ,1:03.30,Caffeinated Cyclist Racing
 
 04/02/2017 Road Race Men Cat1/2/3/4 Masters 45-99
@@ -253,7 +253,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,292032,Sean,OREILLY,Blue Bell,PA,2:19:46.50,Guys Racing
 2,50217,Doug,O'NEILL,West New York,NJ,0.10,Crca/Deno'S Wonder Wheel
-3,7782,Greg,CORDASCO,Basking Ridge,NJ,1:23.60,Liberty Cycle
+3,7782,Greg,CORDASCO,Baskingridge,NJ,1:23.60,Liberty Cycle
 4,1620,Rick,ANDERSON,Bridgewater,NJ,0.10,Team Somerset
 5,53227,Joseph,MANACCHIO,Philadelphia,PA,0.20,Guy'S Racing Club
 6,114621,Bill,BRUNNER,Fairfield,NJ,0.10,Montclair Bikery Racing
@@ -274,7 +274,7 @@ Place,License #,First,Last,City,State,Time,Team
 21,51369,Keith,DAVIES,Wilmington,DE,0.00,Mambo Kings Racing/D&Q
 22,92253,Kevin,SAINT CLAIR,Philadelphia,PA,0.10,Team Skyline
 23,97543,Rick,MAYNARD,West Chester,PA,0.00,Amoroso'S Racing Team/Tri State
-24,70511,Robert,CASCIATO,Chester Springs,PA,0.00,Pa Masters
+24,70511,Robert,CASCIATO,Chestersprings,PA,0.00,Pa Masters
 25,255713,Dan,CONLIN,Wilmington,DE,0.20,Chester County Velo
 26,76520,Michael,SPERANZA,Philadelphia,PA,0.00,Qcw Cycling P.B Breakawaybikes.
 27,177439,Joseph,KENAS,Meadowbrook,PA,0.00,Guy'S Racing Club

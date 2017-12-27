@@ -1,45 +1,345 @@
 Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,Rider License #,First name,Last name,Time,Team
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,1,305773,Stephen,HYDE,1:02:06,Cannondale P/B Cyclocrossworld.
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,2,515463,Rob,PEETERS,s.t.,Pauwels Sauzen - Vastgoedservic
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,3,0,Jeremy,POWERS,s.t.,Aspire Racing
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,4,301051,Spencer,PETROV,31,Aspire Racing
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,5,0,Boulo,MATTHIEU,43,Team Pays de Dinan
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,6,303586,Tobin,ORTENBLAD,49,Santa Cruz / Donkey Label Racin
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,7,0,Kerry,WERNER JR.,1:02,Kona Factory CX Team
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,8,0,James,DRISCOLL,1:11,Donnelly Sports
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,9,368473,Jack,KISSEBERTH,1:23,JAM / NCC
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,10,0,Curtis,WHITE,2:02,Cannondale p/b Cyclocrossworld.
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,11,0,Troy,WELLS,2:17,Team CLIF BAR
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,12,330472,Lance,HAIDET,2:22,Donnelly Sports
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,13,161583,Travis,LIVERMON,2:26,Maxxis/Shimano
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,14,250645,Jeremy,DURRIN,2:28,Neon Velo Cycling Team
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,15,173542,Alex,RYAN,2:51,Mock Orange Bikes
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,16,0,Scott,SMITH,3:18,JAM / NCC
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,17,397676,Derrick,ST. JOHN,3:45,Van Dessel p/b Hyperthreads
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,18,277074,Gage,HECHT,4:04,Alpha Bicycle Co.  Groove Subar
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,19,365258,Brannan,FIX,4:41,Alpha Bicycle Company/Groove Su
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,20,470625,Trevor,O'DONNELL,4:57,Lakeside Storage Cyclocross
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,21,124130,Kevin,BOUCHARD-HALL,5:22,Wrenegade Sports/Farm to Fork F
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,22,0,Jordan,SNYDER,5:39,East Ridge Outfitters/@BicycleR
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,23,0,Dan,CHABANOV,6:17,HOUSE IND/NOKIA HEALTH/SIMPLEHU
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,24,0,Michael,OWENS,6:40,Hands-On Cycling p/b Guerciotti
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,25,0,Marc-Andr,DAIGLE,s.t.,Garneau Easton Cycling
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,26,153981,Andrew,WULFKUHLE,6:49,717cycling p/b RSI Panels
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,27,0,Osmond,BAKKER,7:07,The Bandits
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,28,430157,Andrew,BORDEN,7:14,X-Men
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,29,234733,Brendan,MCCORMACK,7:29,Apex/NBX/Hyperthreads
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,30,249028,Gregg,GRIFFO,8:13,Park Ave Bike p/b Borah Teamwea
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,31,0,Dan,FITZGIBBONS,-1 lap,GREEN LINE VELO driven by Zipca
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,32,0,Matt,CLEMENTS,-1 lap,Rotor Bike Components
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,33,403894,Kale,WENCZEL,-1 lap,JAM / NCC
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,34,0,Peter,MANCINI,-1 lap,Crank Studio
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,35,506932,Christian,RICCI,-1 lap,Lakeside Storage Cyclocross
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,36,0,Ted,WILLARD,-2 laps,Absolute Value CX
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,37,383117,Spencer,PERRY,-2 laps,Ferretti Cycles
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,38,0,Edouard,TOUGAS,-2 laps,
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,DNF,0,Sylvain,JEAN,,Mad Alchemy
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,DNF,0,Bryan,TYERS,,Lakeside Storage Cyclocross
-09/09/2017,Cyclo-cross,Pro/Cat 1,Men,Open,,DNF,0,Nicholas,DINIZ,,NCCH Elite p/b MGCC
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,1,264350,Kerry,Werner,1:00:41,Kona Factory CX Team
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,2,305773,Stephen,HYDE,2,Cannondale P/B Cyclocrossworld.
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,3,515463,Rob,PEETERS,15,Pauwels Sauzen - Vastgoedservic
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,4,301051,Spencer,PETROV,19,Aspire Racing
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,5,303586,Tobin,ORTENBLAD,21,Santa Cruz / Donkey Label Racin
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,6,117328,Jeremy,POWERS,29,Aspire Racing
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,7,540362,Matthieu,BOULO,33,Team Pays de Dinan
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,8,163112,James,DRISCOLL,45,Donnelly Sports
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,9,234696,Curtis,WHITE,56,Cannondale p/b Cyclocrossworld.
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,10,112599,Troy,WELLS,1:30,Team CLIF BAR
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,11,330472,Lance,HAIDET,1:39,Donnelly Sports
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,12,277074,Gage,HECHT,2:06,Alpha Bicycle Co.  Groove Subar
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,13,368473,Jack,KISSEBERTH,2:21,JAM / NCC
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,14,161583,Travis,LIVERMON,2:32,Maxxis/Shimano
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,15,397676,Derrick,ST. JOHN,2:38,Van Dessel p/b Hyperthreads
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,16,173542,Alex,RYAN,2:57,Mock Orange Bikes
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,17,470625,Trevor,O'DONNELL,3:10,Lakeside Storage Cyclocross
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,18,365258,Brannan,FIX,3:12,Alpha Bicycle Company/Groove Su
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,19,350150,Michael,OWENS,s.t.,Hands-On Cycling p/b Guerciotti
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,20,397682,Marc-Andre,Daigle,3:53,Garneau Easton Cycling
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,21,293469,Jordan,SNYDER,4:09,East Ridge Outfitters/@BicycleR
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,22,0,Nicholas,DINIZ,4:29,NCCH Elite p/b MGCC
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,23,153981,Andrew,WULFKUHLE,5:07,717cycling p/b RSI Panels
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,24,234733,Brendan,MCCORMACK,5:18,Apex/NBX/Hyperthreads
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,25,288741,Matt,CLEMENTS,7:03,Rotor Bike Components
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,26,249028,Gregg,GRIFFO,7:41,Park Ave Bike p/b Borah Teamwea
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,27,0,Peter,MANCINI,7:57,Crank Studio
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,28,430157,Andrew,BORDEN,-3 laps,X-Men
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,29,403894,Kale,WENCZEL,-3 laps,JAM / NCC
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,30,0,Edouard,TOUGAS,-3 laps,
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,31,218415,Ted,WILLARD,-3 laps,Absolute Value CX
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,32,282446,Dan,FITZGIBBONS,-3 laps,GREEN LINE VELO driven by Zipca
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,33,506932,Christian,RICCI,-4 laps,Lakeside Storage Cyclocross
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,34,0,Bryan,TYERS,-5 laps,Lakeside Storage Cyclocross
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,35,383117,Spencer,PERRY,-6 laps,Ferretti Cycles
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,DNF,250645,Jeremy,DURRIN,-7 laps,Neon Velo Cycling Team
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,DNF,376904,Scott,SMITH,-5 laps,JAM / NCC
+09/10/2017,Cyclo-cross,Cat 1/2,Men,Uci C2,,DNF,264739,Dan,CHABANOV,-2 laps,HOUSE IND/NOKIA HEALTH/SIMPLEHU
+09/10/2017,Cyclo-cross,Cat5,Men,Open,,1,540907,Cooper,DAVIS,29:16,
+09/10/2017,Cyclo-cross,Cat5,Men,Open,,2,488347,Julian,Olivieri,31,
+09/10/2017,Cyclo-cross,Cat5,Men,Open,,3,492535,Craig,NITTOLO,36,Richardson's Canal House
+09/10/2017,Cyclo-cross,Cat5,Men,Open,,4,526368,Zachary,DURIS,54,Full Moon Vista
+09/10/2017,Cyclo-cross,Cat5,Men,Open,,5,512715,Christian,YORKS,s.t.,FAS Training
+09/10/2017,Cyclo-cross,Cat5,Men,Open,,6,518081,Jacob,Vogt,59,Once Again Nut Butter Racing/LC
+09/10/2017,Cyclo-cross,Cat5,Men,Open,,7,0,Matt,Bellizzi,1:09,
+09/10/2017,Cyclo-cross,Cat5,Men,Open,,8,512951,Kevin,CHAPMAN,1:25,THS Cycling
+09/10/2017,Cyclo-cross,Cat5,Men,Open,,9,536191,Marcus,COX,1:49,Once Again Nut Butter Multi-Spo
+09/10/2017,Cyclo-cross,Cat5,Men,Open,,10,384564,Samuel,DANA,3:24,Velo Racing Solutions p/b Verge
+09/10/2017,Cyclo-cross,Cat5,Men,Open,,11,520492,Jim,HERBERT,3:48,Love & Sprockets
+09/10/2017,Cyclo-cross,Cat5,Men,Open,,12,158525,Kris,ANDERSEN,4:22,Once Again Nut Butter Multi-Spo
+09/10/2017,Cyclo-cross,Cat5,Men,Open,,13,486525,Matt,HUDSON,4:52,Team RCH
+09/10/2017,Cyclo-cross,Cat5,Men,Open,,14,519774,Scott,WOODRUFF,5:30,
+09/10/2017,Cyclo-cross,Cat5,Men,Open,,15,448675,Derek,BELL,6:21,JRA Racing
+09/10/2017,Cyclo-cross,Cat5,Men,Open,,16,528401,Chi,HUANG,9:00,UR cycling
+09/10/2017,Cyclo-cross,Cat4,Men,Open,,1,0,Finlay,MACEWEN,36:03,Kallisto FCV p/b Peloton Contra
+09/10/2017,Cyclo-cross,Cat4,Men,Open,,2,540938,Brock,ALEXANDER,4,towpath
+09/10/2017,Cyclo-cross,Cat4,Men,Open,,3,388145,Trevor,AUGUST,11,Park Ave Bike
+09/10/2017,Cyclo-cross,Cat4,Men,Open,,4,0,Mitch,KAISER,51,Lantern Rouge
+09/10/2017,Cyclo-cross,Cat4,Men,Open,,5,0,Anderson,REID,1:18,Lantern Rouge
+09/10/2017,Cyclo-cross,Cat4,Men,Open,,6,0,Jacob,WILLIAMS,1:36,Lantern Rouge
+09/10/2017,Cyclo-cross,Cat4,Men,Open,,7,516609,Tom,GARBY,1:55,Mello Velo Racing
+09/10/2017,Cyclo-cross,Cat4,Men,Open,,8,353870,Timothy,PAUL,2:11,Once Again Nut Butter Multi-Spo
+09/10/2017,Cyclo-cross,Cat4,Men,Open,,9,283318,Kevin,WELLENDORF,2:25,Cyclist Connection
+09/10/2017,Cyclo-cross,Cat4,Men,Open,,10,476852,Brian,DEGNAN,2:38,TBS Racing
+09/10/2017,Cyclo-cross,Cat4,Men,Open,,11,457343,John,DEIURE,2:49,Pete's Wheels Cycling Team
+09/10/2017,Cyclo-cross,Cat4,Men,Open,,12,0,Marc,KELL WHITEHEAD,2:51,LapDogs Cycling Club
+09/10/2017,Cyclo-cross,Cat4,Men,Open,,13,56965,Mick,SNYDER,s.t.,Bike Zone/Dansville Collision
+09/10/2017,Cyclo-cross,Cat4,Men,Open,,14,0,Anthony,Smith,3:22,Lantern Rouge
+09/10/2017,Cyclo-cross,Cat4,Men,Open,,15,0,Sean,POULTER,3:29,
+09/10/2017,Cyclo-cross,Cat4,Men,Open,,16,459808,Chris,HOWELL,3:49,Bike Doctor / Visit Frederick
+09/10/2017,Cyclo-cross,Cat4,Men,Open,,17,492540,Jeff,MANGINI,4:04,Team Towpath powered by Rochest
+09/10/2017,Cyclo-cross,Cat4,Men,Open,,18,448668,Raymond,ZILLIOX,4:11,Buffalo Bicycling Club
+09/10/2017,Cyclo-cross,Cat4,Men,Open,,19,320286,William,BOONE,s.t.,Once Again Nut Butter
+09/10/2017,Cyclo-cross,Cat4,Men,Open,,20,508041,Darrick,BAKER,4:28,No.22 CX TEAM
+09/10/2017,Cyclo-cross,Cat4,Men,Open,,21,232827,Brent,BIVONA,4:30,Rochester Fitness + Cycling
+09/10/2017,Cyclo-cross,Cat4,Men,Open,,22,343886,Kevin,HOWARD,4:50,Tryon Bike/Hoselton Auto Mall
+09/10/2017,Cyclo-cross,Cat4,Men,Open,,23,461138,Steve,HART,5:42,Lapdogs Cycling Club
+09/10/2017,Cyclo-cross,Cat4,Men,Open,,24,443905,David,DEWEY,5:57,Pittsford Painting Cycling
+09/10/2017,Cyclo-cross,Cat4,Men,Open,,25,414474,Patrick,DUFFIN,6:02,Campus WheelWorks
+09/10/2017,Cyclo-cross,Cat4,Men,Open,,26,293971,Anthony,SYLOR,6:20,Once Again Nut Butter Multi-Spo
+09/10/2017,Cyclo-cross,Cat4,Men,Open,,27,0,Martin,ROUSSEAU,6:23,
+09/10/2017,Cyclo-cross,Cat4,Men,Open,,28,358886,Matthew,LENNON,6:44,Capital Bicycle Racing Club
+09/10/2017,Cyclo-cross,Cat4,Men,Open,,29,383346,Shyri,MARAZITA,7:05,Campus WheelWorks
+09/10/2017,Cyclo-cross,Cat4,Men,Open,,30,205956,Jason,KOZAK,9:40,Buffalo Bicycling Club
+09/10/2017,Cyclo-cross,Cat4,Men,Open,,31,489113,Alexander,KOZAK,-1 lap,
+09/10/2017,Cyclo-cross,Cat4,Men,Open,,32,485243,John,DUNN,-1 lap,Campus Wheelworks
+09/10/2017,Cyclo-cross,Cat3,Men,Open,,1,0,Will,Smith,51:17,
+09/10/2017,Cyclo-cross,Cat3,Men,Open,,2,359709,Daniel,VAUGHN,28,JAM Fund / NCC
+09/10/2017,Cyclo-cross,Cat3,Men,Open,,3,456786,Spencer,JOHNSTON,54,mock orange bikes
+09/10/2017,Cyclo-cross,Cat3,Men,Open,,4,325072,Nicholas,PETROV,1:34,Lionhearts
+09/10/2017,Cyclo-cross,Cat3,Men,Open,,5,0,Levi,Ogryzlo,2:05,
+09/10/2017,Cyclo-cross,Cat3,Men,Open,,6,485115,Matthew,AVERY,2:16,Philadelphia Ciclismo
+09/10/2017,Cyclo-cross,Cat3,Men,Open,,7,0,Mitch,Kaiser,2:24,
+09/10/2017,Cyclo-cross,Cat3,Men,Open,,8,409832,Matthew,SMITLEY,2:51,Full Moon Vista
+09/10/2017,Cyclo-cross,Cat3,Men,Open,,9,400392,Scott,STEWART,s.t.,Syracuse Bicycle Race Team
+09/10/2017,Cyclo-cross,Cat3,Men,Open,,10,388147,Owen,AUGUST,3:10,Park Ave Bike
+09/10/2017,Cyclo-cross,Cat3,Men,Open,,11,309465,Tod,GENTRY,3:18,Full Moon Vista
+09/10/2017,Cyclo-cross,Cat3,Men,Open,,12,405642,Alex,DAVIES,4:05,Campus WheelWorks
+09/10/2017,Cyclo-cross,Cat3,Men,Open,,13,236457,Nolan,GARON,4:15,GREEN LINE VELO driven by Zipca
+09/10/2017,Cyclo-cross,Cat3,Men,Open,,14,344332,Phil,GAROFOLO,-1 lap,The 5th Floor NYC
+09/10/2017,Cyclo-cross,Cat3,Men,Open,,15,448396,Rudy,SZYMANSKI,-1 lap,Ale Bike Wear / Outspokin Bicyc
+09/10/2017,Cyclo-cross,Cat3,Men,Open,,16,211238,Peter,PELYCHATY,-1 lap,Full Moon Vista
+09/10/2017,Cyclo-cross,Cat3,Men,Open,,17,434376,Trevor,VOWLES,-1 lap,Local Openers p/b Ten Speed Her
+09/10/2017,Cyclo-cross,Cat3,Men,Open,,18,0,Jacob,Williams,-1 lap,
+09/10/2017,Cyclo-cross,Cat3,Men,Open,,19,398416,Jesse,CORUM,-1 lap,Pete's Wheels Cycling Team
+09/10/2017,Cyclo-cross,Cat3,Men,Open,,20,246341,Mike,MADDEN,-4 laps,Team Towpath powered by Rochest
+09/10/2017,Cyclo-cross,Cat3,Men,Open,,21,392055,Yan,CHMIELOWIEC,-4 laps,Campus Wheelworks
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Men,Open,,1,373419,Alex,MORTON,47:57,Cannondale p/b Cyclocrossworld
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Men,Open,,2,448685,Magnus,SHEFFIELD,33,Cannondale p/b Cyclocrossworld
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Men,Open,,3,322530,Harrison,WHITE,58,Cyclocrossworld p/b Cannondale
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Men,Open,,4,0,Colton,Woods,s.t.,TREK Store CC
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Men,Open,,5,0,Matt,SURCH,1:18,Tekne Cycle Club
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Men,Open,,6,35613,Matt,TIMMERMAN,1:38,Cannondale/ CyclocrossWorld
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Men,Open,,7,0,Alex,DONAHUE,1:40,
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Men,Open,,8,124130,Kevin,BOUCHARD-HALL,2:21,Wrenegade Sports/Farm to Fork F
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Men,Open,,9,0,Steve,PROULX,2:31,Cyclery Racing
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Men,Open,,10,0,Paul,Mysko,2:48,Centurion Next Wave Cycling Tea
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Men,Open,,11,359561,Lucas,STIERWALT,2:57,Lionheart Junior Racing
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Men,Open,,12,263837,Jason,HETTENBAUGH,3:09,Once Again Nut Butter Multi-Spo
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Men,Open,,13,41747,Craig,MATTERN,3:22,Park Ave Bike p/b Borah Teamwea
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Men,Open,,14,360992,Owen,BRENNEMAN,3:55,717 Cycling p/b RSI Panels
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Men,Open,,15,391213,Kevan,EDWARDS,4:00,Mello Velo Racing
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Men,Open,,16,0,Dylan,Kerr,4:06,Angry Johnny's Evolution p/b No
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Men,Open,,17,0,Robert,MENEGUZZI,s.t.,Hamilton Cycling Club
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Men,Open,,18,0,craig,BURBLES,4:29,
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Men,Open,,19,429840,Joshua,TEETS,4:57,ProMountain Outfitters
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Men,Open,,20,0,Marc,BOUDREAU,s.t.,Cyclery Racing
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Men,Open,,21,233485,Jake,CASTOR,5:09,Once Again Nut Butter multi spo
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Men,Open,,22,311934,Jonathan,CAPOZZI,5:45,Local Openers p/b Tenspeed Hero
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Men,Open,,23,414033,Mark,WALTERS,6:02,Crankskins.com
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Men,Open,,24,288570,Brian,KEARNS,6:08,Bicycle Outfitters Racing Team
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Men,Open,,25,414812,Mike,MORSE,6:21,Colonial Bicycle Company
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Men,Open,,26,275435,Corey,KNOWLES,6:30,Buffalo Bicycling Club
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Men,Open,,27,457304,Luke,PRINCIPE,6:57,Full Moon Vista
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Men,Open,,28,0,Todd,FAIRHEAD,6:59,Tekne Cycle Club
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Men,Open,,29,512715,Christian,Yorks,-1 lap,
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Men,Open,,30,0,Sean,Poulter,-1 lap,
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Men,Open,,31,308617,Alex,ELKINS,-1 lap,Tryon Bike/Hoselton Auto
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Men,Open,,32,539036,Tom,SCHEELER,-4 laps,
+09/10/2017,Cyclo-cross,,Men,Masters,35-99,1,124130,Kevin,BOUCHARD-HALL,41:06,Wrenegade Sports/Farm to Fork F
+09/10/2017,Cyclo-cross,,Men,Masters,35-99,2,240437,Nate,ANNON,54,Pro Mountain Outfitters
+09/10/2017,Cyclo-cross,,Men,Masters,35-99,3,376524,Cory,KUHNS,2:26,Team Towpath powered by Rochest
+09/10/2017,Cyclo-cross,,Men,Masters,35-99,4,388821,Nathanial,MANCHIN,2:57,Pro Mountain Outfitters
+09/10/2017,Cyclo-cross,,Men,Masters,35-99,5,335024,Kyle,MIHALIK,3:20,NovaCare Cycling
+09/10/2017,Cyclo-cross,,Men,Masters,35-99,6,88693,Chris,MAYHEW,3:39,JBV Coaching
+09/10/2017,Cyclo-cross,,Men,Masters,35-99,7,0,Rodolphe,FERRIER,s.t.,Indpendant
+09/10/2017,Cyclo-cross,,Men,Masters,35-99,8,0,Piere-Yves,GAUTHIER,4:10,N/A
+09/10/2017,Cyclo-cross,,Men,Masters,35-99,9,7509,John,COMPTON,4:52,Atlas Cycling Team
+09/10/2017,Cyclo-cross,,Men,Masters,35-99,10,63754,Scott,HANNAN,s.t.,Atlas Cycling Team
+09/10/2017,Cyclo-cross,,Men,Masters,35-99,11,517627,Eric,STEWART,5:27,Pro Mountain Outfitters
+09/10/2017,Cyclo-cross,,Men,Masters,35-99,12,243817,Keith,BUDDENDECK,6:39,Full Moon Vista
+09/10/2017,Cyclo-cross,,Men,Masters,35-99,13,287544,Rodrigo,DIAZ,6:43,Euro-Sports
+09/10/2017,Cyclo-cross,,Men,Masters,35-99,14,0,Marten,MANN,7:04,Southpoint Racing
+09/10/2017,Cyclo-cross,,Men,Masters,35-99,15,0,Jeff,JOHNSTON,7:10,Nine2FivePro.com
+09/10/2017,Cyclo-cross,,Men,Masters,35-99,16,294190,Matt,BULLY,7:14,Squadra Coppi
+09/10/2017,Cyclo-cross,,Men,Masters,35-99,17,0,Michael,MCMAHON,7:52,
+09/10/2017,Cyclo-cross,,Men,Masters,35-99,18,0,Steve,GROJIC,8:05,
+09/10/2017,Cyclo-cross,,Men,Masters,35-99,19,515236,Mark,OLIVIERI,-1 lap,
+09/10/2017,Cyclo-cross,,Men,Masters,35-99,20,54088,Ian,WEBBER,-1 lap,
+09/10/2017,Cyclo-cross,,Men,Masters,45-99,1,0,Osmond,BAKKER,41:59,The Bandits
+09/10/2017,Cyclo-cross,,Men,Masters,45-99,2,274507,Robert,Holmgren,38,Centurion Next Wave Cycling Tea
+09/10/2017,Cyclo-cross,,Men,Masters,45-99,3,26803,Jake,ORNESS,41,Eliel
+09/10/2017,Cyclo-cross,,Men,Masters,45-99,4,2073,Andy,AUGUST,1:01,Park Ave Bike Shop
+09/10/2017,Cyclo-cross,,Men,Masters,45-99,5,56580,Timothy,O'SHEA,1:26,Pointway Performance
+09/10/2017,Cyclo-cross,,Men,Masters,45-99,6,0,Eric,JOBIN,1:51,
+09/10/2017,Cyclo-cross,,Men,Masters,45-99,7,0,Scott,BUSCHLEN,s.t.,FCV Kallisto Peloton
+09/10/2017,Cyclo-cross,,Men,Masters,45-99,8,30782,Patrick,RUANE,2:47,Sunapee/Continental Paving/Buch
+09/10/2017,Cyclo-cross,,Men,Masters,45-99,9,302406,Steve,SEGENCHUK,3:26,New England Devo p/b Cadence We
+09/10/2017,Cyclo-cross,,Men,Masters,45-99,10,102230,Scott,FARRELL,3:34,
+09/10/2017,Cyclo-cross,,Men,Masters,45-99,11,174927,Sean,WRIGHT,4:38,Cyclery Racing
+09/10/2017,Cyclo-cross,,Men,Masters,45-99,12,82019,Matthew,DELISA,5:08,Swan Cycles / Chris's Cookies
+09/10/2017,Cyclo-cross,,Men,Masters,45-99,13,204710,Robert,DIETRICK,5:11,Velo Racing Solutions p/b Verge
+09/10/2017,Cyclo-cross,,Men,Masters,45-99,14,391585,David,BILENKEY,5:16,Euro-sports.ca
+09/10/2017,Cyclo-cross,,Men,Masters,45-99,15,252701,Phillip,MCCARTHY,5:51,Pointway Performance - Syracuse
+09/10/2017,Cyclo-cross,,Men,Masters,45-99,16,206724,Jason,Urckfitz,5:58,Full Moon Vista
+09/10/2017,Cyclo-cross,,Men,Masters,45-99,17,150266,Corey,GREEN,7:04,Element Cycles
+09/10/2017,Cyclo-cross,,Men,Masters,45-99,18,360368,Gregory,CHERR,7:12,TBS Racing
+09/10/2017,Cyclo-cross,,Men,Masters,45-99,19,8776,Don,DAVIS,7:15,Park Ave Bike
+09/10/2017,Cyclo-cross,,Men,Masters,45-99,20,284362,David,HANSEN,-1 lap,Empire Brewing/Syracuse Bicycle
+09/10/2017,Cyclo-cross,,Men,Masters,45-99,21,461138,Steve,HART,-1 lap,Lapdogs Cycling Club
+09/10/2017,Cyclo-cross,,Men,Masters,45-99,22,180445,Trevor,HARRISON,-1 lap,Park Ave Bike P/B Borah
+09/10/2017,Cyclo-cross,,Men,Masters,45-99,23,2825,Scott,BASS,-1 lap,Full Moon Vista/GVCC
+09/10/2017,Cyclo-cross,,Men,Masters,45-99,24,238075,Marcello,PRATTICO,-1 lap,Bike Loft East
+09/10/2017,Cyclo-cross,,Men,Masters,45-99,25,334344,Todd,RELYEA,-1 lap,OCC Racing
+09/10/2017,Cyclo-cross,,Men,Masters,55-99,1,22572,Eiric,MARRO,46:48,Sunapee/Buchikas/Continental
+09/10/2017,Cyclo-cross,,Men,Masters,55-99,2,85533,Thomas,EMRICH,29,
+09/10/2017,Cyclo-cross,,Men,Masters,55-99,3,63581,David,MORGAN,s.t.,GOM Racing
+09/10/2017,Cyclo-cross,,Men,Masters,55-99,4,423145,Scott,PARKS,51,Park Ave Bike Shop
+09/10/2017,Cyclo-cross,,Men,Masters,55-99,5,194536,Ian,STEWART,1:29,euro-sports
+09/10/2017,Cyclo-cross,,Men,Masters,55-99,6,307831,Jeron,DREW,1:47,Independant Health Cycling
+09/10/2017,Cyclo-cross,,Men,Masters,55-99,7,81765,Christopher,FULLER,1:57,
+09/10/2017,Cyclo-cross,,Men,Masters,55-99,8,0,Peter,KOFMAN,-1 lap,Erace Cancer Cycling Team
+09/10/2017,Cyclo-cross,,Men,Masters,55-99,9,2609,Wayne,BARLOW,-1 lap,
+09/10/2017,Cyclo-cross,,Men,Masters,55-99,10,151429,Robert,DILLON,-1 lap,BMB Racing
+09/10/2017,Cyclo-cross,,Men,Masters,55-99,11,0,Claude,BREAU,-1 lap,Martin Swiss
+09/10/2017,Cyclo-cross,,Men,Masters,55-99,12,0,Ron,SPENCER,-1 lap,Velocity Cycle and Ski
+09/10/2017,Cyclo-cross,,Men,Masters,55-99,13,45884,Richard,SACHS,-1 lap,HOUSE IND/NOKIA HEALTH/SIMPLEHU
+09/10/2017,Cyclo-cross,,Men,Masters,55-99,14,49241,Bill,IRVING,-1 lap,The Bicycle Depot New Paltz NY
+09/10/2017,Cyclo-cross,,Men,Masters,55-99,15,360866,craig,goetzmann,-1 lap,
+09/10/2017,Cyclo-cross,,Men,Masters,55-99,16,0,Rod,MYSKO,-1 lap,Centurion Next Wave Cycling Tea
+09/10/2017,Cyclo-cross,,Men,Masters,55-99,17,32468,Kerry,SHIELDS,-1 lap,Ken's Bike Shop
+09/10/2017,Cyclo-cross,,Men,Masters,55-99,18,0,Steven,CORNICK,-1 lap,Ottawa Bicycle Club
+09/10/2017,Cyclo-cross,,Men,Masters,55-99,19,0,Michael,TAYLOR,-1 lap,independent
+09/10/2017,Cyclo-cross,,Men,Masters,55-99,20,360360,Jack,Pittrof,-1 lap,Once Again Nut Butter/LCC
+09/10/2017,Cyclo-cross,,Men,Masters,55-99,21,46444,Chris,DE LANCEY,-3 laps,Team Tryon bike/Hoselton auto
+09/10/2017,Cyclo-cross,,Men,Masters,55-99,22,344084,Richard,CAMPING,-4 laps,Team Towpath powered by Rochest
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,1,200237,Kaitlin,KEOUGH,42:00,Cannondale pb CyclocrossWorld.c
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,2,487154,Maghalie,ROCHETTE,14,CLIF Pro Team
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,3,275988,Emma,WHITE,25,Cannondale pb CyclocrossWorld.c
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,4,182117,Crystal,ANTHONY,1:12,Maxxis Shimano Pro Cyclocross
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,5,542254,Christel,Ferrier-Bruneau,1:20,Sas Macogep Aquisio
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,6,240239,Arley,KEMMERER,1:31,Fearless Femme Racing
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,7,515165,Caroline,MANI,1:37,Van Dessel / Atom Composites
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,8,282412,Ellen,NOBLE,1:49,Aspire Racing
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,9,342950,Rebecca,FAHRINGER,1:56,Stan's NoTubes p/b Maxxis / gof
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,10,292922,Amanda,NAUMAN,2:12,SDG - Muscle Monster
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,11,324758,Cassandra,MAXIMENKO,2:21,VanDessel/Atom Composite Wheels
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,12,201838,Laurel,RATHBUN,3:21,Donnelly Sports
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,13,220875,Emily,SHIELDS,3:40,
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,14,438586,Natalie,TAPIAS,s.t.,JAM / NCC
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,15,540944,Kim,HURST,3:42,Vanderkitten/Niner
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,16,415018,Regina,LEGGE,3:49,Trek Cyclocross Collective
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,17,289289,Julie,WRIGHT,4:00,Team Averica
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,18,389555,Rachel,RUBINO,4:15,Fearless Femme Racing
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,19,280476,Brittlee,BOWMAN,4:58,HOUSE IND/NOKIA HEALTH/SIMPLEHU
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,20,325788,Julie,HUNTER,5:09,SEAVS/Haymarket
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,21,481609,Taylor,KUYK-WHITE,5:25,Philadelphia Bike Expo
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,22,318058,Alexandra,CAMPBELLFORTE,5:32,Vanderkitten Entourage Racing
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,23,340936,Leslie,LUPIEN,6:05,Team Averica
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,24,293021,Gabriella,STERNE,6:10,Vanderkitten Entourage Racing
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,25,261012,Erin,FACCONE,6:28,Team Averica
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,26,487219,Taryn,MUDGE,6:54,Fearless Femme Racing
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,27,0,Beatrice,LE SAUTEUR,7:01,
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,28,399327,Meghan,OWENS,7:27,Hands-On Cycling p/b Guerciotti
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,29,381950,Turner,RAMSAY,8:10,Alpha Bicycle Co. - Groove Suba
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,30,385211,Emily,MOLDEN,8:24,Nantucket Velo
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,31,485309,Rebecca,LEWANDOWSKI,9:26,Rare Disease Cycling / Keswick
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,32,408916,Madeline,SMITH,9:39,KMS Cycling - Killington Mounta
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,33,368171,Lydia,HAUSLE,-3 laps,B2C2
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,DNS,390274,Rhys,MAY,-4 laps,JAM / NCC
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,DNS,280898,Gray,PATTON,-4 laps,Freddie Fu Cycling Team
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,DNF,542086,Natasha,ELLIOTT,-3 laps,Garneau-Easton p/b Transitions
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,DNF,527666,Ruby,West,-3 laps,Cannondale Cyclocrossworld.com
+09/10/2017,Cyclo-cross,Cat 1/2,Women,Uci C2,,DNF,332072,Katie,CLOUSE,-4 laps,Alpha Bicycle Co. - Vista Subar
+09/10/2017,Cyclo-cross,Cat4/5,Women,Open,,1,183251,Denise,WATSON,44:10,Full Moon Vista
+09/10/2017,Cyclo-cross,Cat4/5,Women,Open,,2,181317,Elizabeth,BOUCHARD-HALL,1:15,BMB RACING
+09/10/2017,Cyclo-cross,Cat4/5,Women,Open,,3,476429,Katelyn,MURRAY,1:52,TBS Racing/Buffalo Bicycling Cl
+09/10/2017,Cyclo-cross,Cat4/5,Women,Open,,4,0,Lauryn,BAKKER,-1 lap,Independent
+09/10/2017,Cyclo-cross,Cat4/5,Women,Open,,5,541689,Jeri,OLSON,-1 lap,Nickel City Cycles
+09/10/2017,Cyclo-cross,Cat4/5,Women,Open,,6,485248,Jacquelyn,GERWITZ-DUNN,-1 lap,Campus Wheelworks
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Women,Open,,1,0,Ava,Holmgren,40:24,Centurion Next Wave Cycling Tea
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Women,Open,,2,414497,Grace,MATTERN,57,Park Ave Bike p/b Borah Teamwea
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Women,Open,,3,0,Kathleen,MACEWEN,1:10,Lapdogs Cycling Club
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Women,Open,,4,0,Katie,OZOLINS,1:12,Independent
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Women,Open,,5,331620,Anna,SAVAGE,2:12,NCC/ JAM Fund
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Women,Open,,6,454654,Ella,BRENNEMAN,2:22,717 Cycling p/b RSI Panels
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Women,Open,,7,0,Lori,KOFMAN,2:33,Erace Cancer Cycling Team p/b R
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Women,Open,,8,0,Vicki,THOMAS,2:47,The Cyclery
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Women,Open,,9,0,Maureen,O'HARE,3:01,CoachChris.ca/Joe Rousseau/Garn
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Women,Open,,10,381641,Aliza,TOBIAS,3:16,KMS Cycling - Killington Mounta
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Women,Open,,11,376695,Paige,WILLIAMS,3:49,Fuji Cross Crew
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Women,Open,,12,485499,Kira,SEGENCHUK,4:29,New England Devo p/b Cadence We
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Women,Open,,13,0,Nathalie,MOUSSEAU,4:48,Angry Johnny's Evolution p/b No
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Women,Open,,14,0,Isabella,Holmgren,5:17,Centurion Next Wave Cycling Tea
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Women,Open,,15,0,Marcie,GIROUARD,5:32,euro-sports
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Women,Open,,16,414168,Alexa,STIERWALT,5:48,Lionheart Junior Racing
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Women,Open,,17,0,Stephanie,CHOLYK,-1 lap,Lantern Rouge
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Women,Open,,18,471924,Michelle,DARIA,-1 lap,Campus Wheelworks
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Women,Open,,19,0,Patricia,KONANTZ,-1 lap,Ride with Rendall p/b Biemme
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Women,Open,,20,423361,Michelle,RAINVILLE,-1 lap,TBSracing/BBC
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Women,Open,,21,0,Joanne,BREAU,-1 lap,Martin Swiss
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Women,Open,,22,0,Marilyn,CHONG,-1 lap,BATEMANS
+09/10/2017,Cyclo-cross,Cat1/2/3/4/5,Women,Open,,23,0,Meg,SIEGEL,-1 lap,Lantern Rouge
+09/10/2017,Cyclo-cross,,Mixed,Juniors,15-18,1,0,Colton,Bartholomew,34:18,
+09/10/2017,Cyclo-cross,,Mixed,Juniors,15-18,2,0,Levi,OGRYZLO,52,Cyclepath Oakville Race Team
+09/10/2017,Cyclo-cross,,Mixed,Juniors,15-18,3,0,Ian,Ackert,2:19,Centurion Next Wave Cycling Tea
+09/10/2017,Cyclo-cross,,Mixed,Juniors,15-18,4,0,Theron,Inglis,3:15,
+09/10/2017,Cyclo-cross,,Mixed,Juniors,15-18,5,0,Brett,LANCASTER,4:31,Centurion Next Wave Cycling Tea
+09/10/2017,Cyclo-cross,,Mixed,Juniors,15-18,6,0,Keiran,Inglis,5:53,
+09/10/2017,Cyclo-cross,,Mixed,Juniors,9-14,1,0,Colton,BARTHOLOMEW,27:00,Centurion Next Wave
+09/10/2017,Cyclo-cross,,Mixed,Juniors,9-14,2,449391,Aj,AUGUST,2:06,Park Ave Bike
+09/10/2017,Cyclo-cross,,Mixed,Juniors,9-14,3,0,Theron,INGLIS,2:22,Centurion Next Wave
+09/10/2017,Cyclo-cross,,Mixed,Juniors,9-14,4,448327,Miles,MATTERN,3:04,Park Ave Bike p/b Borah Teamwea
+09/10/2017,Cyclo-cross,,Mixed,Juniors,9-14,5,0,Benen,MACEWEN,5:31,Kallisto FCV p/b Peloton Contra
+09/10/2017,Cyclo-cross,,Mixed,Juniors,9-14,6,487900,Colby,SCHENKEL,7:02,ASC
+09/10/2017,Cyclo-cross,,Mixed,Juniors,9-14,7,517604,Jack,BERNHARD,10:15,
+09/10/2017,Cyclo-cross,,Mixed,Juniors,9-14,8,540908,Ty,DAVIS,11:04,
+09/10/2017,Cyclo-cross,,Mixed,Juniors,9-14,9,487797,Qindi,GERWITZ-DUNN,11:11,Campus Wheelworks
+09/10/2017,Cyclo-cross,,Mixed,Juniors,9-14,10,541294,Henry,BURKE,11:45,
+09/10/2017,Cyclo-cross,,Mixed,Juniors,9-14,11,541640,Amalia,Olivieri,-1 lap,
+09/10/2017,Cyclo-cross,,Mixed,Juniors,9-14,12,541295,Calvin,BURKE,-1 lap,
+09/10/2017,Cyclo-cross,,Mixed,Juniors,9-14,13,516628,Skylar,BUDDENDECK,-1 lap,Full Moon Vista
+09/10/2017,Cyclo-cross,,Mixed,Juniors,9-14,14,0,Satya,Scherbenski,-1 lap,
+09/10/2017,Cyclo-cross,,Mixed,Juniors,9-14,15,0,Keiran,Inglis,-1 lap,
+09/10/2017,Cyclo-cross,,Mixed,Juniors,9-14,16,0,Brody,MANN,-1 lap,CoachChris.ca
+09/10/2017,Cyclo-cross,,Mixed,Juniors,9-14,DNF,0,Ian,Ackert,-2 laps,
+09/10/2017,Cyclo-cross,,,Fat Tire,,1,470937,Justin,FRONTUTO,44:51,Empire Brewing-Syracuse Bicycle
+09/10/2017,Cyclo-cross,,,Single Speed,,1,391213,Kevan,EDWARDS,37:58,Mello Velo Racing
+09/10/2017,Cyclo-cross,,,Single Speed,,2,516609,Tom,GARBY,1:49,Mello Velo Racing
+09/10/2017,Cyclo-cross,,,Single Speed,,3,383346,Shyri,MARAZITA,7:25,Campus WheelWorks
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,1,305773,Stephen,HYDE,1:02:06,Cannondale P/B Cyclocrossworld.
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,2,515463,Rob,PEETERS,s.t.,Pauwels Sauzen - Vastgoedservic
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,3,117328,Jeremy,Powers,s.t.,Aspire Racing
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,4,301051,Spencer,PETROV,31,Aspire Racing
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,5,540362,matthieu,Boulo,43,Team Pays de Dinan
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,6,303586,Tobin,ORTENBLAD,49,Santa Cruz / Donkey Label Racin
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,7,264350,Kerry,Werner,1:02,Kona Factory CX Team
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,8,163112,James,Driscoll,1:11,Donnelly Sports
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,9,368473,Jack,KISSEBERTH,1:23,JAM / NCC
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,10,234696,Curtis,White,2:02,Cannondale p/b Cyclocrossworld.
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,11,112599,Troy,Wells,2:17,Team CLIF BAR
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,12,330472,Lance,HAIDET,2:22,Donnelly Sports
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,13,161583,Travis,LIVERMON,2:26,Maxxis/Shimano
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,14,250645,Jeremy,DURRIN,2:28,Neon Velo Cycling Team
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,15,173542,Alex,RYAN,2:51,Mock Orange Bikes
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,16,376904,Scott,Smith,3:18,JAM / NCC
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,17,397676,Derrick,ST. JOHN,3:45,Van Dessel p/b Hyperthreads
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,18,277074,Gage,HECHT,4:04,Alpha Bicycle Co.  Groove Subar
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,19,365258,Brannan,FIX,4:41,Alpha Bicycle Company/Groove Su
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,20,470625,Trevor,O'DONNELL,4:57,Lakeside Storage Cyclocross
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,21,124130,Kevin,BOUCHARD-HALL,5:22,Wrenegade Sports/Farm to Fork F
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,22,293469,jordan,snyder,5:39,East Ridge Outfitters/@BicycleR
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,23,264739,Daniel,Chabanov,6:17,HOUSE IND/NOKIA HEALTH/SIMPLEHU
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,24,350150,Michael,Owens,6:40,Hands-On Cycling p/b Guerciotti
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,25,397682,Marc-Andre,Daigle,s.t.,Garneau Easton Cycling
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,26,153981,Andrew,WULFKUHLE,6:49,717cycling p/b RSI Panels
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,27,0,Osmond,BAKKER,7:07,The Bandits
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,28,430157,Andrew,BORDEN,7:14,X-Men
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,29,234733,Brendan,MCCORMACK,7:29,Apex/NBX/Hyperthreads
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,30,249028,Gregg,GRIFFO,8:13,Park Ave Bike p/b Borah Teamwea
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,31,282446,Daniel,FitzGibbons,-1 lap,GREEN LINE VELO driven by Zipcar
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,32,288741,Matthew,Clements,-1 lap,Rotor Bike Components
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,33,403894,Kale,WENCZEL,-1 lap,JAM / NCC
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,34,0,Peter,MANCINI,-1 lap,Crank Studio
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,35,506932,Christian,RICCI,-1 lap,Lakeside Storage Cyclocross
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,36,218415,Ted,Willard,-2 laps,Absolute Value CX
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,37,383117,Spencer,PERRY,-2 laps,Ferretti Cycles
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,38,0,Edouard,TOUGAS,-2 laps,
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,DNF,0,Sylvain,JEAN,,Mad Alchemy
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,DNF,0,Bryan,TYERS,,Lakeside Storage Cyclocross
+09/09/2017,Cyclo-cross,Cat 1/2,Men,Uci C1,,DNF,0,Nicholas,DINIZ,,NCCH Elite p/b MGCC
 09/09/2017,Cyclo-cross,Cat5,Men,Open,,1,512951,Kevin,CHAPMAN,30:56,THS Cycling
 09/09/2017,Cyclo-cross,Cat5,Men,Open,,2,488347,Julian,OLIVIERI,19,Crankskins.com
 09/09/2017,Cyclo-cross,Cat5,Men,Open,,3,540907,Cooper,DAVIS,s.t.,
@@ -219,47 +519,47 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 09/09/2017,Cyclo-cross,,Men,Masters,55-99,19,32468,Kerry,SHIELDS,-1 lap,Ken's Bike Shop
 09/09/2017,Cyclo-cross,,Men,Masters,55-99,20,0,Steven,CORNICK,-1 lap,Ottawa Bicycle Club
 09/09/2017,Cyclo-cross,,Men,Masters,55-99,21,282675,David,TAYLOR,-1 lap,
-09/09/2017,Cyclo-cross,,Men,Masters,55-99,22,0,Jack,PITTROFF,-1 lap,
+09/09/2017,Cyclo-cross,,Men,Masters,55-99,22,360360,Jack,Pittrof,-1 lap,
 09/09/2017,Cyclo-cross,,Men,Masters,55-99,23,0,Michael,TAYLOR,-1 lap,independent
 09/09/2017,Cyclo-cross,,Men,Masters,55-99,24,5597,David,BURNSIDE,-1 lap,Team Pedallers
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,1,282412,Ellen,NOBLE,43:06,Aspire Racing
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,2,487154,Maghalie,ROCHETTE,12,CLIF Pro Team
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,3,200237,Kaitlin,KEOUGH,38,Cannondale pb CyclocrossWorld.c
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,4,275988,Emma,WHITE,1:01,Cannondale pb CyclocrossWorld.c
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,5,182117,Crystal,ANTHONY,1:14,Maxxis Shimano Pro Cyclocross
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,6,515165,Caroline,MANI,1:21,Van Dessel / Atom Composites
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,7,342950,Rebecca,FAHRINGER,1:33,Stan's NoTubes p/b Maxxis / gof
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,8,0,Christel,FERRIER,1:45,Sas Macogep Aquisio
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,9,240239,Arley,KEMMERER,2:00,Fearless Femme Racing
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,10,324758,Cassandra,MAXIMENKO,2:25,VanDessel/Atom Composite Wheels
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,11,332072,Katie,CLOUSE,2:37,Alpha Bicycle Co. - Vista Subar
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,12,292922,Amanda,NAUMAN,3:16,SDG - Muscle Monster
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,13,397632,Natasha,ELLIOTT,3:21,Garneau-Easton p/b Transitions
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,14,0,Ruby,WEST,s.t.,Cannondale Cyclocrossworld.com
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,15,540944,Kim,HURST,3:37,Vanderkitten/Niner
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,16,289289,Julie,WRIGHT,3:52,Team Averica
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,17,201838,Laurel,RATHBUN,4:00,Donnelly Sports
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,18,438586,Natalie,TAPIAS,4:04,JAM / NCC
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,19,389555,Rachel,RUBINO,4:22,Fearless Femme Racing
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,20,280476,Brittlee,BOWMAN,4:41,HOUSE IND/NOKIA HEALTH/SIMPLEHU
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,21,415018,Regina,LEGGE,4:56,Trek Cyclocross Collective
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,22,220875,Emily,SHIELDS,5:15,
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,23,325788,Julie,HUNTER,5:36,SEAVS/Haymarket
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,24,261012,Erin,FACCONE,6:11,Team Averica
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,25,293021,Gabriella,STERNE,6:55,Vanderkitten Entourage Racing
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,26,318058,Alexandra,CAMPBELLFORTE,7:14,Vanderkitten Entourage Racing
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,27,481609,Taylor,KUYK-WHITE,7:38,Philadelphia Bike Expo
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,28,340936,Leslie,LUPIEN,7:48,Team Averica
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,29,485309,Rebecca,LEWANDOWSKI,8:06,Rare Disease Cycling / Keswick
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,30,399327,Meghan,OWENS,8:18,Hands-On Cycling p/b Guerciotti
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,31,31408,Katina,WALKER,9:01,Park Ave. Bike p/b Borah
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,32,0,Beatrice,LE SAUTEUR,9:16,
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,33,487219,Taryn,MUDGE,9:48,Fearless Femme Racing
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,34,381950,Turner,RAMSAY,10:08,Alpha Bicycle Co. - Groove Suba
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,35,408916,Madeline,SMITH,-1 lap,KMS Cycling - Killington Mounta
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,36,390274,Rhys,MAY,-1 lap,JAM / NCC
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,37,376695,Paige,WILLIAMS,-1 lap,Fuji Cross Crew
-09/09/2017,Cyclo-cross,Pro/Cat 1,Women,Open,,DNF,0,Gray,PATTON,,Freddie Fu Cycling Team
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,1,282412,Ellen,NOBLE,43:06,Aspire Racing
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,2,487154,Maghalie,ROCHETTE,12,CLIF Pro Team
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,3,200237,Kaitlin,KEOUGH,38,Cannondale pb CyclocrossWorld.c
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,4,275988,Emma,WHITE,1:01,Cannondale pb CyclocrossWorld.c
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,5,182117,Crystal,ANTHONY,1:14,Maxxis Shimano Pro Cyclocross
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,6,515165,Caroline,MANI,1:21,Van Dessel / Atom Composites
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,7,342950,Rebecca,FAHRINGER,1:33,Stan's NoTubes p/b Maxxis / gof
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,8,542254,Christel,Ferrier-Bruneau,1:45,Sas Macogep Aquisio
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,9,240239,Arley,KEMMERER,2:00,Fearless Femme Racing
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,10,324758,Cassandra,MAXIMENKO,2:25,VanDessel/Atom Composite Wheels
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,11,332072,Katie,CLOUSE,2:37,Alpha Bicycle Co. - Vista Subar
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,12,292922,Amanda,NAUMAN,3:16,SDG - Muscle Monster
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,13,542086,Natasha,ELLIOTT,3:21,Garneau-Easton p/b Transitions
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,14,527666,Ruby,West,s.t.,Cannondale Cyclocrossworld.com
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,15,540944,Kim,HURST,3:37,Vanderkitten/Niner
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,16,289289,Julie,WRIGHT,3:52,Team Averica
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,17,201838,Laurel,RATHBUN,4:00,Donnelly Sports
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,18,438586,Natalie,TAPIAS,4:04,JAM / NCC
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,19,389555,Rachel,RUBINO,4:22,Fearless Femme Racing
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,20,280476,Brittlee,BOWMAN,4:41,HOUSE IND/NOKIA HEALTH/SIMPLEHU
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,21,415018,Regina,LEGGE,4:56,Trek Cyclocross Collective
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,22,220875,Emily,SHIELDS,5:15,
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,23,325788,Julie,HUNTER,5:36,SEAVS/Haymarket
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,24,261012,Erin,FACCONE,6:11,Team Averica
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,25,293021,Gabriella,STERNE,6:55,Vanderkitten Entourage Racing
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,26,318058,Alexandra,CAMPBELLFORTE,7:14,Vanderkitten Entourage Racing
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,27,481609,Taylor,KUYK-WHITE,7:38,Philadelphia Bike Expo
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,28,340936,Leslie,LUPIEN,7:48,Team Averica
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,29,485309,Rebecca,LEWANDOWSKI,8:06,Rare Disease Cycling / Keswick
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,30,399327,Meghan,OWENS,8:18,Hands-On Cycling p/b Guerciotti
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,31,31408,Katina,WALKER,9:01,Park Ave. Bike p/b Borah
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,32,0,Beatrice,LE SAUTEUR,9:16,
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,33,487219,Taryn,MUDGE,9:48,Fearless Femme Racing
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,34,381950,Turner,RAMSAY,10:08,Alpha Bicycle Co. - Groove Suba
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,35,408916,Madeline,SMITH,-1 lap,KMS Cycling - Killington Mounta
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,36,390274,Rhys,MAY,-1 lap,JAM / NCC
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,37,376695,Paige,WILLIAMS,-1 lap,Fuji Cross Crew
+09/09/2017,Cyclo-cross,Cat 1/2,Women,Uci C1,,DNF,280898,Courtney (Gray),Patton,,Freddie Fu Cycling Team
 09/09/2017,Cyclo-cross,Cat4/5,Women,Open,,1,0,Ava,Holmgren,42:58,
 09/09/2017,Cyclo-cross,Cat4/5,Women,Open,,2,183251,Denise,WATSON,2:38,Full Moon Vista
 09/09/2017,Cyclo-cross,Cat4/5,Women,Open,,3,414168,Alexa,STIERWALT,2:46,Lionheart Junior Racing
@@ -298,12 +598,12 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 09/09/2017,Cyclo-cross,,Mixed,Single Speed,,1,520007,Ryan,POPPLE,36:51,LWC Field Marshal
 09/09/2017,Cyclo-cross,,Mixed,Single Speed,,2,516609,Tom,GARBY,4:06,Mello Velo Racing
 09/09/2017,Cyclo-cross,,Mixed,Single Speed,,3,0,David,LEGG,4:53,
-09/09/2017,Cyclo-cross,,Mixed,Single Speed,,4,540365,John,CRUMLISH,10:35,campus wheelworks
+09/09/2017,Cyclo-cross,,Mixed,Single Speed,,4,157071,John,CRUMLISH,10:35,campus wheelworks
 09/09/2017,Cyclo-cross,,Mixed,Single Speed,,5,0,Jeff,SIPOS,-1 lap,
 09/09/2017,Cyclo-cross,,Mixed,Single Speed,,DNF,338686,Troy,RUTHERFORD,,Premium Mortgage Cycling Team
 09/09/2017,Cyclo-cross,,Mixed,Juniors,15-18,1,0,Colton,WOODS,36:03:00,TREK Store CC
 09/09/2017,Cyclo-cross,,Mixed,Juniors,15-18,2,0,Levi,OGRYZLO,1:24,Cyclepath Oakville Race Team
-09/09/2017,Cyclo-cross,,Mixed,Juniors,15-18,3,486398,Brock,ALEXANDER,2:43,towpath
+09/09/2017,Cyclo-cross,,Mixed,Juniors,15-18,3,540938,Brock,ALEXANDER,2:43,towpath
 09/09/2017,Cyclo-cross,,Mixed,Juniors,15-18,4,0,Finlay,MACEWEN,5:06,Kallisto FCV p/b Peloton Contra
 09/09/2017,Cyclo-cross,,Mixed,Juniors,15-18,5,486546,Ethan,CARNEY,6:08,Team CCC
 09/09/2017,Cyclo-cross,,Mixed,Juniors,15-18,6,0,Brett,LANCASTER,s.t.,Centurion Next Wave Cycling Tea

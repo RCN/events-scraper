@@ -7,7 +7,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,375247,Cyrus,Pearo,Denver,CO,50:00.9,
 4,237586,Kevin,Mullervy,Centennial,CO,50:01.0,
 5,363841,Matthew,DeAngelis,Denver,CO,50:01.0,
-6,211435,Zack,Allison,Fort Collins ,CO,50:01.0,
+6,211435,Zack,Allison,Fort Collins,CO,50:01.0,
 7,276415,Jesse,Goodrich,Louisville,CO,50:01.1,
 8,229865,Noah,Granigan,Cape May Court House,NJ,50:05.5,
 9,257291,Taylor,Schmidt,Littleton,CO,50:06.7,
@@ -49,7 +49,7 @@ DNF,246071,Jeremy,Miller,Denver,CO,DNF,
 DNF,282099,Jonathan,Cavner,Colorado Springs,CO,DNF,
 DNF,411208,Adam,Pochon,Arvada,CO,DNF,
 DNF,423927,Joshua,Gottlob,Lakewood,CO,DNF,
-DNF,247287,Michael,Rost,Denver,CO,DNF,
+DNF,247287,Michael,Rost,Arvada,CO,DNF,
 
 03/05/2017 Criterium Men SM 5
 Place,License #,First,Last,City,State,Time,Team
@@ -70,7 +70,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,498650,Sinclair,Hall,Fort Collins,CO,21:59.4,
 16,177159,Joseph,Shepherd,Denver,CO,22:00.6,
 17,497461,Tom,Lawlor,Lakewood,CO,22:02.1,
-18,523131,Matthew,Robinson,Wheat Ridge,CO,22:02.3,
+18,523131,Matthew,Robinson,Denver,CO,22:02.3,
 19,481899,Andy,Archinal,Broomfield,CO,22:04.3,
 20,526450,Jay,Williford,Aurora,CO,22:07.2,
 21,484455,Chris,Gilstrap,Denver,CO,22:14.7,
@@ -97,10 +97,10 @@ Place,License #,First,Last,City,State,Time,Team
 6,262244,Weston,Snyder,Denver,CO,31:48.5,
 7,428637,Sanjin,Obhodas,Denver,CO,31:48.6,
 8,458066,Jonathan,Wells,Downingtown,PA,31:48.7,
-9,315482,John,Lawyer,Ft Collins,CO,31:48.7,
-10,247287,Michael,Rost,Denver,CO,31:48.8,
+9,315482,John,Lawyer,Fort Collins,CO,31:48.7,
+10,247287,Michael,Rost,Arvada,CO,31:48.8,
 11,362403,Clark,Eckel,Denver,CO,31:48.9,
-12,439089,Daryl,Thomas,Denver ,CO,31:49.1,
+12,439089,Daryl,Thomas,Denver,CO,31:49.1,
 13,408131,Andrew,Wheeler,Denver,CO,31:49.2,
 14,355670,Nolan,Jenkins,Colorado Springs,CO,31:49.5,
 15,395676,Cole,Evans,Fort Collins,CO,31:49.7,
@@ -130,7 +130,7 @@ Place,License #,First,Last,City,State,Time,Team
 39,309226,Ryan,Sullivan,Boulder,CO,33:14.6,
 40,309297,Danny,Rising,Lakewood,CO,33:14.7,
 41,484781,Josh,Rivas,Lakewood,CO,33:14.7,
-42,456923,Jake,Peterson,Batavia,IL,33:14.8,
+42,456923,Jake,Peterson,Elburn,IL,33:14.8,
 43,250087,Charles,Cavness,Denver,CO,33:14.8,
 44,345810,Henry,York,Monument,CO,33:14.9,
 45,422806,Clayton,Cole,Colorado Springs,CO,33:14.9,
@@ -146,14 +146,14 @@ Place,License #,First,Last,City,State,Time,Team
 55,338046,Alexander,Fleming,Denver,CO,33:15.4,
 56,47686,Erik,Judson,Arvada,CO,33:15.5,
 57,392108,CHRIS,MARCHINI,Breckenridge,CO,33:15.5,
-58,424396,James,Ianni,Denver,CO,33:15.6,
+58,424396,James,Ianni,Durango,CO,33:15.6,
 59,363346,Wren,Powers,Englewood,CO,33:15.6,
 60,341578,Brian,Marsoun,Columbia,IL,33:15.7,
 61,435123,matthew,dahlke,Littleton,CO,33:15.7,
 62,369463,Liam,OBrien,Highlands Ranch,CO,33:15.8,
 DNF,421191,Michael,Comer,Littleton,CO,DNF,
 DNF,433455,Anton,Smirnov,Fort Collins,CO,DNF,
-DNF,375487,Kit,Hinders,Denver,CO,DNF,
+DNF,375487,Kit,Hinders,Lakewood,CO,DNF,
 DNF,512619,Josh,Sturgeon,Fort Collins,CO,DNF,
 
 03/05/2017 Criterium Men MM 40+
@@ -205,7 +205,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,487620,Caleb,Reese,Golden,CO,00:00:00,Colorado School of Mines
 14,363173,Max,Schmidtmann,Nederland,CO,00:00:00,Colorado State University
 15,459864,Alex,Doyle,Boulder,CO,00:00:00,University of Colorado Boulder
-16,424396,James,Ianni,Denver,CO,00:00:00,Fort Lewis College
+16,424396,James,Ianni,Durango,CO,00:00:00,Fort Lewis College
 17,517587,Jonathan,Kaltenbaugh,Usaf Academy,CO,00:00:00,US Air Force Academy
 18,415264,Isaac,Becker,Colorado Springs,CO,00:00:00,Colorado College
 19,496823,Siyu,Qian,Boulder,CO,00:00:00,University of Colorado Boulder
@@ -250,7 +250,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,498365,Shane,Garland,Fort Collins,CO,00:00:00,Colorado State University
 13,367977,Miles,Whedbee,Fort Collins,CO,00:00:00,Colorado State University
 14,412581,stephen,cimino,Louisville,CO,00:00:00,University of Colorado Boulder
-15,494198,John,Smith,Shreveport ,LA,00:00:00,Western State Colorado University
+15,494198,John,Smith,Baton Rouge,LA,00:00:00,Western State Colorado University
 16,374710,Erik,Lecy,Usaf Academy,CO,00:00:00,US Air Force Academy
 17,361148,Andrew,Fleming,Boulder,CO,00:00:00,Colorado School of Mines
 18,466519,Connor,Natzke,Pine,CO,00:00:00,Colorado School of Mines
@@ -299,7 +299,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,205778,Laura,Vance,Lakewood,CO,42:05.4,
 11,432137,Clio,Castruccio,Denver,CO,42:07.3,
 12,503116,Mindee,Stevenson,Eagle,CO,42:07.3,
-13,441168,Jenna,Stauffer,Highlands Ranch ,CO,42:08.2,
+13,441168,Jenna,Stauffer,Highlands Ranch,CO,42:08.2,
 14,449014,Hayley,Bates,Colorado Springs,CO,42:10.1,
 15,395349,Katie,Harrer,Denver,CO,42:12.2,
 16,286023,Ashley,Zoerner,Highlandsranch,CO,42:12.4,
@@ -308,7 +308,7 @@ DNF,319824,Sarah,Ginsbach,Boulder,CO,DNF,
 
 03/05/2017 Criterium Women SW 4-5
 Place,License #,First,Last,City,State,Time,Team
-1,278124,Lindsey,Jerdonek,Boulder,CO,28:11.3,
+1,278124,Lindsey,Jerdonek,Boulder,OH,28:11.3,
 2,433720,Olivia,Cummins,Fort Collins,CO,29:34.4,
 3,363223,Petra,Schmidtmann,Nederland,CO,29:34.5,
 4,351366,Amanda,Knutson,Boulder,CO,29:34.5,
@@ -319,7 +319,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,507808,Jenna,Koval,Boulder,CO,29:36.2,
 10,368867,Hayley,Diemar,Eagle,CO,29:36.3,
 11,368873,Courtney,Diemar,Eagle,CO,29:36.3,
-12,362527,Lauren,Zoerner,Highlands Ranch,CO,29:36.4,
+12,362527,Lauren,Zoerner,Highlandsranch,CO,29:36.4,
 13,527095,Halli,Schmittenberg,Denver,CO,29:36.4,
 14,517123,Elizabeth,Frakes,U.s. Air Force Academy,CO,29:36.5,
 15,460219,Trisha,Babcock,Denver,CO,29:36.5,
@@ -328,7 +328,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,525613,Cassie,Cohen,Colorado Springs,CO,00:00:00,Colorado College
 2,488687,Nicholle,MacKeen,U S A F Academy,CO,00:00:00,US Air Force Academy
-3,526139,Megan,Osteen,Gypsum,CO,00:00:00,University of Northern Colorado
+3,526139,Megan,Osteen,Greeley,CO,00:00:00,University of Northern Colorado
 4,477193,Keren,Wallace,Gunnison,CO,00:00:00,Western State Colorado University
 5,524009,Christa,Gutzel,Dillon,CO,00:00:00,University of Denver
 6,524359,Sally,Simpson,Boulder,CO,00:00:00,University of Colorado Boulder
@@ -350,7 +350,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,414385,Ariane,Horbach,Grand Junction,CO,00:00:00,Colorado Mesa University
 2,449014,Hayley,Bates,Colorado Springs,CO,00:00:00,Colorado College
 3,432770,Natalia,Franco,Grand Junction,CO,00:00:00,Colorado Mesa University
-4,441168,Jenna,Stauffer,Highlands Ranch ,CO,00:00:00,University of Denver
+4,441168,Jenna,Stauffer,Highlands Ranch,CO,00:00:00,University of Denver
 5,526628,Josefine,Dreier,Grand Junction,CO,00:00:00,Colorado Mesa University
 6,402574,Charlotte,Backus,Larkspur,CO,00:00:00,Fort Lewis College
 7,516656,Emelie,Persson,Grand Junction,CO,00:00:00,Colorado Mesa University

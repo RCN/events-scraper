@@ -21,7 +21,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,440072,Alex,Winnicki,Greensboro,NC,2:55:32.4,Cyclus Sports
 18,368618,Jake,Henningsen,Cincinnati,OH,2:55:36.5,Team Hungry
 19,0,Gabriel,Rojas,,,2:55:38.0,Lift Center Racing
-20,272407,Timothy J.,Killelea,Chattanooga ,TN,2:56:07.4,Nashville Local Cycling
+20,272407,Timothy J.,Killelea,Chattanooga,TN,2:56:07.4,Nashville Local Cycling
 21,239743,Michael,Sencenbaugh,Toccoa,GA,2:56:11.3,Above and Beyond Cancer p/b Scheels
 22,472550,Ulugbek,Saidov,Athens,GA,2:56:38.8,Team Novo Nordisk Development
 23,298681,Amos,Harvey,Cumming,GA,2:56:42.9,Pav Cycling
@@ -30,7 +30,7 @@ Place,License #,First,Last,City,State,Time,Team
 26,280746,Rolly,Weaver,Ormond Beach,FL,2:57:43.6,Pioneer Mortgage
 27,425178,Colin,Kalescky,Clinton,TN,2:58:16.0,US Military Endurance Sports
 28,282640,Brendan,Rhim,Greenville,SC,2:59:05.1,Holowesko-Citadel p/b Hincapie Racing Team
-29,263035,Andrew,Giniat,Winnetka,IL,2:59:25.3,Project Echelon
+29,263035,Andrew,Giniat,Asheville,NC,2:59:25.3,Project Echelon
 30,470113,Emanuel,Mini,Athens,GA,2:59:42.4,Team Novo Nordisk Development
 31,336388,Corey,Davis,Danville,VA,3:01:39.7,Team Palmetto State Medical Elite Cycling Team
 32,284479,James,Schurman,Deerfield Beach,FL,3:01:45.5,
@@ -44,7 +44,7 @@ Place,License #,First,Last,City,State,Time,Team
 40,202082,Alder,Martz,Charlotte,NC,3:04:53.1,Attaque Team Gusto
 41,324184,Franklin,Deese,Greensboro,NC,3:05:02.7,Cyclus Sports
 42,265398,Logan Lakota,Phippen,Athens,GA,3:05:36.7,Team Novo Nordisk Development
-43,344034,Brett,Wachtendorf,Winooski,VT,3:06:34.3,Gateway Harley-Davidson Trek U25 Development Team
+43,344034,Brett,Wachtendorf,Boulder,CO,3:06:34.3,Gateway Harley-Davidson Trek U25 Development Team
 44,235209,Jacob,Hill,Saint Petersburg,FL,3:06:51.7,
 45,406676,Taylor,Herron,Memphis,TN,3:07:10.1,Marx-Bensdorf
 46,306291,Johnny,Mitchell,Johnson City,TN,3:07:20.0,Palmetto State Medical Elite Cycling Team
@@ -64,7 +64,7 @@ Place,License #,First,Last,City,State,Time,Team
 60,237816,Justin,Pfaff,Alachua,FL,3:24:04.7,Alto Factory Racing
 61,460448,Dennis,Thibodeau,Augusta,GA,3:25:46.7,Low Country Racing
 62,408355,Luke,Caldwell,Birmingham,AL,3:25:47.2,SH!FT Racing
-63,299251,Justin,McQuerry,Athens,GA,3:25:47.3,Team Novo Nordisk Development
+63,299251,Justin,McQuerry,Austin,TX,3:25:47.3,Team Novo Nordisk Development
 64,504904,Dmitry,Ponkratov,Athens,GA,3:25:47.7,Team Novo Nordisk Development
 65,376024,Charkie,Huegel,Greensboro,NC,3:30:51.6,Nine Lives Carbon Repair
 66,313306,Arvin,Jansen,Nashville,TN,3:37:01.3,I am racing
@@ -98,7 +98,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,524990,Nick,Franklin,Maryville,TN,2:26:48,Bike n Tri
 16,516640,Jorge,Cabral,Tucker,GA,2:28:45,
 17,532027,Peter,Laskiewicz,Nashville,TN,2:30:17,
-18,527522,Zachary,Tucker,Richmond Heights,MO,2:30:36,
+18,527522,Zachary,Tucker,Saint Louis,MO,2:30:36,
 19,524405,Scott,Pringle,Maryville,TN,2:32:13,Bike N' Tri - Health Factory Race Team
 20,214734,john,marshall,Ooltewah,TN,2:32:35,Village Volkswagen Cycling Team
 21,0,Jesse,Davidson,,,2:35:21,
@@ -106,7 +106,7 @@ Place,License #,First,Last,City,State,Time,Team
 23,527392,Jack,Spencer,Evansville,IN,2:36:37,Carson's Brewery
 24,537859,Ian,Barrett,Dayton,OH,2:38:29,
 25,522641,William,Norris,Knoxville,TN,2:40:00,Bike N' Tri - Health Factory Race Team
-26,405915,John,Morton,Chuckey,TN,2:45:03,
+26,405915,John,Morton,Chattanooga,TN,2:45:03,
 27,0,Joshua,Water,,,2:46:53,
 28,0,Garrett,Wolfford,,,2:47:42,
 29,523012,Tim,Humbert,Spanish Fort,AL,2:58:06,
@@ -207,7 +207,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,538561,Joe,Romanchik,Signal Mountain,TN,2:45:15,
 DNS,213220,Thomas,Armes,Norcross,GA,,Wahoo Fitness Masters
 DNS,254741,Tim,Moore,Collierville,TN,,901 Racing
-DNF,27233,Ricky,Park,Lookout Mountain,TN,,Village Volkswagen Cycling Team
+DNF,27233,Ricky,Park,Rising Fawn,GA,,Village Volkswagen Cycling Team
 DNF,190848,Robert,Heath,Alpharetta,GA,,Frazier Cycling
 
 08/27/2017 Road Race Men CAT 3
@@ -333,7 +333,7 @@ Place,License #,First,Last,City,State,Time,Team
 27,138418,Christopher,Cundiff,Owens Cross Roads,AL,3:43:23,Birmingham Velo Infinity Cycling
 28,456907,charlie,polmatier,Birmingham,AL,3:43:46,Movedaddy.com Racing
 29,473812,Kevin,Maxey,Decatur,GA,3:44:29,LITESPEED-BMW
-30,392104,Doug,Zell,Little Rock ,AR,3:46:42,
+30,392104,Doug,Zell,Lockhart,TX,3:46:42,
 31,10137,Joseph,Duhon,Florence,AL,3:49:04,Borden Dental p/b Spinning Spoke
 32,337330,Jeff,Buse,Shannon,MS,3:49:08,Marx-Bensdorf Cycling Team
 33,476589,Daniel,Earnest,Berry,AL,3:58:34,Queen City Cycles
@@ -349,7 +349,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,84776,Debbie,Milne,Greenville,SC,2:49:01,Papa John's Racing p/b TREK
 3,0,Carolina,Upegui,,,2:49:26,Supra
 4,403524,Lori,Nedescu,Columbus,OH,2:49:27,CTH Performance Project
-5,358569,Janelle,Cole,Rockford,MI,2:49:52,UnitedHealthcare Pro Cycling
+5,358569,Janelle,Cole,Newaygo,MI,2:49:52,UnitedHealthcare Pro Cycling
 6,397657,Laura,Jorgensen,Asheville,NC,2:49:59,The RunnerBox P/B Funkier
 7,379339,Courteney,Lowe,Asheville,NC,2:50:03,The RunnerBox P/B Funkier
 8,457092,Rachel,Langdon,Louisville,KY,2:50:58,ISCorp p/b Progress Software
@@ -429,7 +429,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,235209,Jacob,Hill,Saint Petersburg,FL,59:46.9,
 11,237816,Justin,Pfaff,Alachua,FL,59:47.6,Alto Factory Racing
 12,324184,Franklin,Deese,Greensboro,NC,59:47.6,Cyclus Sports
-13,263035,Andrew,Giniat,Winnetka,IL,59:47.6,Project Echelon
+13,263035,Andrew,Giniat,Asheville,NC,59:47.6,Project Echelon
 14,424384,Dennis,Ramirez,Barnhart,MO,59:47.9,Gateway Harley-Davidson Trek U25
 15,320582,Matt,Zimmer,Dewitt ,IA,59:47.9,Gateway Harley-Davidson Trek U25 Development Team
 16,194743,Winston,David,Greenville,SC,59:48.2,Palmetto State Medical Elite Cycling Team
@@ -454,7 +454,7 @@ Place,License #,First,Last,City,State,Time,Team
 35,359399,Miles,Hubbard,Wilkesboro,NC,59:53.8,High Country Development
 36,282640,Brendan,Rhim,Greenville,SC,59:53.8,Holowesko-Citadel p/b Hincapie Racing Team
 37,377954,Willem,Kaiser,Atlanta,GA,59:55.2,Gateway Harley-Davidson Trek U25 Development Team
-38,344034,Brett,Wachtendorf,Winooski,VT,59:55.3,Gateway Harley-Davidson Trek U25 Development Team
+38,344034,Brett,Wachtendorf,Boulder,CO,59:55.3,Gateway Harley-Davidson Trek U25 Development Team
 39,0,Caleb,Aoake,,,59:55.6,Team Novo Nordisk Development
 40,281852,Josh,Kush,Shoals,IN,59:56.8,Clarksville Schwinn powered by Whayne
 41,493814,Jeremiah,Stoller,Dickson,TN,59:57.5,Nashville Local Cycling
@@ -467,7 +467,7 @@ Place,License #,First,Last,City,State,Time,Team
 48,306291,Johnny,Mitchell,Johnson City,TN,00:16.5,Palmetto State Medical Elite Cycling Team
 49,334752,Matt,Moosa,Charlotte,NC,58:32.8,Palmetto State Medical Elite Cycling Team
 50,191703,Thomas,Brown,Athens,GA,58:45.0,Team Type 1 Foundation
-51,299251,Justin,McQuerry,Athens,GA,54:21.7,Team Novo Nordisk Development
+51,299251,Justin,McQuerry,Austin,TX,54:21.7,Team Novo Nordisk Development
 52,395387,Sean,Gardner,Richmond,VA,48:38.0,Gateway Harley-Davidson Trek U25 Development Team
 53,341776,patrick,walle,Nashville,TN,42:35.8,I AM Racing
 54,63559,Daniel,Holt,Atlanta,GA,40:53.7,Team Type 1 Foundation
@@ -485,7 +485,7 @@ Place,License #,First,Last,City,State,Time,Team
 08/26/2017 Criterium Men CAT 5
 Place,License #,First,Last,City,State,Time,Team
 1,0,scott,brannon,,,32:57.4,Team Bubba
-2,500899,Tyler,Kenyon,Oakland ,TN,32:58.0,901 Racing
+2,500899,Tyler,Kenyon,Oakland,TN,32:58.0,901 Racing
 3,510060,Tanner,McGruther,Maryville,TN,32:58.4,Bike N' Tri Health Factory
 4,484179,James,Mitchell,Allensville,KY,33:00.6,Mid South Racing
 5,521943,Blake,Hunt,Mooresville,NC,33:00.9,Race City Cycling
@@ -501,10 +501,10 @@ Place,License #,First,Last,City,State,Time,Team
 15,439913,Daniel,Wickliff,Memphis,TN,33:54.2,BPC Cycling
 16,537859,Ian,Barrett,Dayton,OH,33:54.5,
 17,527392,Jack,Spencer,Evansville,IN,33:54.6,Carson's Brewery
-18,527522,Zachary,Tucker,Richmond Heights,MO,34:04.5,
+18,527522,Zachary,Tucker,Saint Louis,MO,34:04.5,
 19,520775,Alix,Freeman,Knoxville,TN,34:09.8,Bike N Tri - Health Factory Rac
 20,502332,Chas,Keithan,Chattanooga,TN,34:09.9,
-21,405915,John,Morton,Chuckey,TN,34:36.8,
+21,405915,John,Morton,Chattanooga,TN,34:36.8,
 22,478443,Charles,Jones,Murfreesboro,TN,35:33.3,Moab Racing
 23,0,Jesse,Davidson,,,35:33.3,
 24,503364,Daniel,Jeffers,Strawberry Plains,TN,35:33.3,Bike N' Tri - Health Factory Ra
@@ -543,7 +543,7 @@ Place,License #,First,Last,City,State,Time,Team
 25,385941,Jordan,Foster,Riverdale,GA,48:38.8,Oceaic Racing
 26,529305,Hunter,Enochs,Cookeville,TN,,Hub Cycling/ Caney Fork Racing
 27,466721,Caleb,Bennett,Brentwood,TN,48:39.3,IAm Racing
-28,247045,J P,Sroczynski,Ooltewah,TN,48:39.6,Village VW Chattanooga Cycling Team
+28,247045,J,Sroczynski,Ooltewah,TN,48:39.6,Village VW Chattanooga Cycling Team
 29,502803,Bailey,Bell,Jackson,TN,48:39.9,Lift Center Racing
 30,494086,Nicholas,Scaggs,Springfield,OH,48:40.0,Roadfish Racing
 31,501698,Yann,Le Moine,Knoxville,TN,48:40.5,Bike n' Tri - Health Factory
@@ -573,7 +573,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,144530,Scott,Schlapman,Harvest,AL,34:57.2,Village Volkswagen Cycling
 3,385659,Tom,Golden,Apison,TN,34:57.3,Village Volkswagen Cycling Team
 4,277393,mitchell,Hopkins,Winston Salem,NC,34:58.6,Henderson Custom Homes
-5,0,J P,Sroczynski,,,34:58.7,Village VW Chattanooga Cycling Team
+5,247045,J,Sroczynski,Ooltewah,TN,34:58.7,Village VW Chattanooga Cycling Team
 6,279707,pablo,Di Marco,Cumming,GA,34:58.8,Giovanni Tile design p/b Roswell Bicycles
 7,244316,Joe,Swanson,Hernando,MS,34:58.9,NinetyWestRacing
 8,377714,Glenn,McCoin,Roswell,GA,34:59.6,NGCA / Mission Source
@@ -585,7 +585,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,460417,Dan,Frazier,Mattawan,MI,35:03.3,Team Clark Logic
 15,27836,David,Peter,Asheville,NC,35:04.0,DARC
 16,435299,Daniel,Thode,Sumter,SC,35:04.7,
-17,27233,Ricky,Park,Lookout Mountain,TN,35:05.4,Village Volkswagen Cycling Team
+17,27233,Ricky,Park,Rising Fawn,GA,35:05.4,Village Volkswagen Cycling Team
 18,310092,Greg,Bauer,Hixson,TN,35:06.5,Privateer Chattanooga
 19,133359,Paul,Carter,Clarksville,TN,35:06.7,Riverside Bicycle Racing
 20,18103,Matt,Joiner,Milan,TN,35:10.7,Marx-Bensdorf Cycling Team.
@@ -657,7 +657,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,484971,Michael,Lambert,Tuscaloosa,AL,47:57.1,SH!FT Racing p/b St. Vincent's Orthopedics
 7,251445,Matthew,Robbins,Chattanooga,TN,47:57.3,SCV Village Volkswagen
 8,404765,Patton,Sims,Sterlington,LA,47:58.1,Palmer / Cspire Development Team
-9,272407,Timothy J.,Killelea,Chattanooga ,TN,47:58.8,Nashville Local Cycling
+9,272407,Timothy J.,Killelea,Chattanooga,TN,47:58.8,Nashville Local Cycling
 10,295504,Kenneth Harold,Hall,Columbia,KY,47:58.9,Team Shake N' Bake/ Rudy Project/ Salon Bella Vita
 11,300740,Peter,Reed,Oxford,MS,47:59.5,Marx-Bensdorf Cycling Team
 12,352948,Colin,Cavaliere,Concord,NC,47:59.6,
@@ -762,7 +762,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,0,Tyrone,Edwards,,,49:57.4,
 17,376163,David,Koonce,Murfreesboro,TN,49:57.5,MOAB Masters
 18,123734,Hank,Beaver,Decatur,GA,49:57.7,LITESPEED-BMW
-19,392104,Doug,Zell,Little Rock ,AR,49:57.9,
+19,392104,Doug,Zell,Lockhart,TX,49:57.9,
 20,196540,Pablo,Santa Cruz,Safety Harbor,FL,49:58.2,FloridaVelo
 21,336742,Sean,Philyaw,Buford,GA,49:58.7,Ridley Masters Team p/b Reality Bikes
 22,473812,Kevin,Maxey,Decatur,GA,49:59.1,LITESPEED-BMW
@@ -796,7 +796,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,460027,Madison,Kelly,Naples,FL,48:05.0,Papa John's Racing p/b TREK
 8,406712,Megan,Heath,Alpharetta,GA,48:05.2,Rally Cycling
 9,495744,Teresa,O Sullivan,Charlotte,NC,48:05.4,Dornier Racing
-10,358569,Janelle,Cole,Rockford,MI,48:05.5,UnitedHealthcare Pro Cycling
+10,358569,Janelle,Cole,Newaygo,MI,48:05.5,UnitedHealthcare Pro Cycling
 11,485074,Hannah,Shell,Saint Louis,MO,48:05.6,Pastaria-Big Shark Racing
 12,474485,Mary Emily,Davidson,Mobile,AL,48:06.1,
 13,0,Carolina,Upegui,,,48:06.4,Supra
@@ -845,14 +845,14 @@ Place,License #,First,Last,City,State,Time,Team
 12,0,Miriam,Burnette,,,28:29.0,
 13,322054,Sally,Chu,Madison,AL,28:29.8,Taco Mamacity/Scenic City Velo
 14,111930,Joleyn,Smithing,Nashville,TN,,Team Belladium p/b Red Kite
-14,498377,Katie,Van Hook,Saint Louis,MO,29:00.9,Pastaria - Big Shark Racing
-15,503362,Patience,Stoller,Dickson,TN,29:01.2,Nashville Local Cycling
-16,516223,Jodie,Branum,Chattanooga,TN,29:01.3,Scenic City Velo - Taco Mamacita
-17,514655,Cheryl,Self,Muscle Shoals,AL,29:47.3,Borden Dental - Spinnning Spoke
-18,0,Monica,Desjardins,,,28:26.6,SCV/TacoMamacita
-19,524015,Caleigh,Rasser,Buford,GA,28:40.0,Frazier Cycling
-20,513327,Faith,Stoller,,,29:05.9,Nashville Local Cycling
-21,497121,Melissa,Cundiff,Owens Cross Roads,AL,29:22.7,Infinity
+15,498377,Katie,Van Hook,Saint Louis,MO,29:00.9,Pastaria - Big Shark Racing
+16,503362,Patience,Stoller,Dickson,TN,29:01.2,Nashville Local Cycling
+17,516223,Jodie,Branum,Chattanooga,TN,29:01.3,Scenic City Velo - Taco Mamacita
+18,514655,Cheryl,Self,Muscle Shoals,AL,29:47.3,Borden Dental - Spinnning Spoke
+19,0,Monica,Desjardins,,,28:26.6,SCV/TacoMamacita
+20,524015,Caleigh,Rasser,Buford,GA,28:40.0,Frazier Cycling
+21,513327,Faith,Stoller,Dickson,TN,29:05.9,Nashville Local Cycling
+22,497121,Melissa,Cundiff,Owens Cross Roads,AL,29:22.7,Infinity
 
 08/26/2017 Criterium Women CAT 1/2/3/4/5 JUNIORS 9-14
 Place,License #,First,Last,City,State,Time,Team
@@ -879,7 +879,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,359399,Miles,Hubbard,Wilkesboro,NC,08:08.0,Monster Media Elite Development
 14,377954,Willem,Kaiser,Atlanta,GA,08:10.0,Gateway Harley-Davidson Trek U25 Development
 15,395387,Sean,Gardner,Richmond,VA,08:11.0,Gateway Harley-Davidson Trek U25 Development
-16,344034,Brett,Wachtendorf,Winooski,VT,08:12.0,Gateway Harley-Davidson Trek U25 Development
+16,344034,Brett,Wachtendorf,Boulder,CO,08:12.0,Gateway Harley-Davidson Trek U25 Development
 17,296605,Michael,Hernandez,Clermont,FL,08:14.0,Aevolo Pro Cycling
 18,334752,Matt,Moosa,Charlotte,NC,08:15.0,Palmetto State Medical Elite Cycling Team
 19,265398,Logan Lakota,Phippen,Athens,GA,08:15.0,Team Novo Nordisk Development
@@ -897,7 +897,7 @@ Place,License #,First,Last,City,State,Time,Team
 31,472550,Ulugbek,Saidov,Athens,GA,08:32.0,Team Novo Nordisk Development
 32,191703,Thomas,Brown,Athens,GA,08:34.0,Team Type 1 Foundation
 33,63559,Daniel,Holt,Atlanta,GA,08:37.0,Team Type 1 Foundation
-34,299251,Justin,McQuerry,Athens,GA,08:37.0,Team Novo Nordisk Development
+34,299251,Justin,McQuerry,Austin,TX,08:37.0,Team Novo Nordisk Development
 35,504904,Dmitry,Ponkratov,Athens,GA,08:38.0,Team Novo Nordisk Development
 36,0,Juan,Gonzalez,,,08:40.0,Team Novo Nordisk Development
 37,202082,Alder,Martz,Charlotte,NC,08:42.0,Attaque Team Gusto
@@ -914,7 +914,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,224981,Ryan,Delaney,Arlington,VA,08:52.0,
 3,536211,David,Oliver,Oak Ridge,TN,08:55.0,
 4,520775,Alix,Freeman,Knoxville,TN,09:01.0,
-5,527522,Zachary,Tucker,Richmond Heights,MO,09:08.0,
+5,527522,Zachary,Tucker,Saint Louis,MO,09:08.0,
 6,515896,Stephen,Hancock,Johns Creek,GA,09:09.0,
 7,510060,Tanner,McGruther,Maryville,TN,09:16.0,Bike N' Tri - Health Factory Race Team
 8,385178,Doug,Sharp,Gatlinburg,TN,09:30.0,Harper Auto
@@ -929,7 +929,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,527392,Jack,Spencer,Evansville,IN,10:05.0,
 18,524405,Scott,Pringle,Maryville,TN,10:12.0,Bike N' Tri - Health Factory Race Team
 19,0,Jesse,Davidson,,,10:26.0,
-20,405915,John,Morton,Chuckey,TN,10:35.0,
+20,405915,John,Morton,Chattanooga,TN,10:35.0,
 21,0,Dan,Ciarametaro,,,10:42.0,
 
 08/26/2017 Time Trial Men CAT 4
@@ -986,7 +986,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,190848,Robert,Heath,Alpharetta,GA,09:37.0,
 14,435299,Daniel,Thode,Sumter,SC,09:38.0,
 15,460417,Dan,Frazier,Mattawan,MI,09:46.0,Team Clark Logic
-16,27233,Ricky,Park,Lookout Mountain,TN,09:54.0,
+16,27233,Ricky,Park,Rising Fawn,GA,09:54.0,
 17,244316,Joe,Swanson,Hernando,MS,10:11.0,
 18,538561,Joe,Romanchik,Signal Mountain,TN,10:22.0,
 
@@ -1026,7 +1026,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,396334,Brent,Ferrell,Nashville,TN,07:38.0,Hattie B's Racing
 2,287070,Nick,Luther,Greenville,SC,07:55.0,Nashville Local Cycling
-3,272407,Timothy J.,Killelea,Chattanooga ,TN,08:00.0,Nashville Local Cycling
+3,272407,Timothy J.,Killelea,Chattanooga,TN,08:00.0,Nashville Local Cycling
 4,419926,Caleb,Smith,Marion,NC,08:01.0,Monster Media Elite Development
 5,295504,Kenneth Harold,Hall,Columbia,KY,08:04.0,Team Shake N' Bake/ Rudy Project/ Salon Bella Vita
 6,494130,Davis,Adams,Headland,AL,08:05.0,Infinity Cycling Team
@@ -1132,7 +1132,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,379339,Courteney,Lowe,Asheville,NC,09:36.0,The RunnerBox P/B Funkier
 17,375231,Amy,McClintock,St. Louis,MO,09:36.0,Pastaria - Big Shark Racing Team
 18,399863,Judah,Sencenbaugh,Toccoa,GA,09:37.0,CTH Performance Project
-19,358569,Janelle,Cole,Rockford,MI,09:42.0,United Healthcare Pro Cycling
+19,358569,Janelle,Cole,Newaygo,MI,09:42.0,United Healthcare Pro Cycling
 20,201838,Laurel,Rathbun,Monument,CO,09:46.0,Papa John's Racing p/b TREK
 21,426562,Madeline,Pearce,Atlanta,GA,09:46.0,Prima Tappa Cycling p/b Mansfield Oil
 22,526369,Sommers,Creed,Athens,GA,09:51.0,

@@ -5,22 +5,22 @@ Place,License #,First,Last,City,State,Time,Team
 1,529550,Luke,Wilson,West Des Moines,IA,3:22:00,
 2,379952,Jason,Anderson,Des Moines,IA,3:23:00,Sakari Race Team
 3,379675,David,Alexander,Des Moines,IA,3:24:00,Sakari Race Team
-4,423359,Kevin,O'Connor,Des Moines,IA,3:29:00,Sakari Race Team
+4,423359,Kevin,O'Connor,Clive,IA,3:29:00,Sakari Race Team
 5,457675,David,Krohse,Des Moines,IA,3:34:00,Sakari Race Team
 6,305864,Kevin,Patterson,Clive,IA,3:43:00,Zealous Racing
 7,429509,Charles,Adams,Cumming,IA,3:46:00,Sakari Race Team
 8,382285,Kevin,Betters,West Des Moines,IA,3:48:00,Rasmussen Bike Shop
 9,382625,Jason,Uhlenhake,Indianola,IA,3:49:00,Sakari Race Team
 10,448097,Brad,Stoermer,Ankenya,IA,3:50:00,
-11,540940,John,Newell,Ankeny,IA,3:53:00,
+11,94012,John,Newell,Ankeny,IA,3:53:00,
 12,43993,Darvish,Shadravan,Ankeny,IA,3:53:00,
 13,441122,Mike,Bandstra,Des Moines,IA,3:58:00,
 14,391122,Kirk,Cox,Des Moines,IA,3:59:00,
-15,449066,Dominic,Keeling,Polk City,IA,4:12:00,Sakari Race Team
+15,449066,Dominic,Keeling,Ankeny,IA,4:12:00,Sakari Race Team
 16,243326,Donald,Isaacs,Aurora,IL,4:13:00,Team Bicycle Heaven
 17,506988,Tyler,Dunker,Clive,IA,4:16:00,
 18,515078,William,Weber,Clive,IA,4:16:00,
-19,484820,Lynn,Hicks,Des Moines,IA,4:29:00,
+19,540934,Lynn,Hicks,Des Moines,IA,4:29:00,
 20,278105,Dee,Mable,Urbandale,IA,4:29:00,
 20,48872,David,Mable,Urbandale,IA,4:29:00,University of Iowa Heart and Vascular Care-Specialized
 22,0,Cole,Ledbetter,,,4:30:00,
@@ -57,7 +57,7 @@ DNF,489202,Zachary,Valigosky,Des Moines,IA,,University of Dayton
 
 09/04/2017 Road Race Mixed Less Juicy
 Place,License #,First,Last,City,State,Time,Team
-1,431206,Aaron,Van Gelder,Orange City,IA,1:53:00,Ames Velo
+1,431206,Aaron,Van Gelder,Ames,IA,1:53:00,Ames Velo
 2,206024,Jim,Robidoux,Polk City,IA,1:53:00,Zealous Racing
 3,377822,Don,Lund,Altoona,IA,2:55:00,Sakari Race Team
 4,222346,Dave,Douglas,Des Moines,IA,2:55:00,

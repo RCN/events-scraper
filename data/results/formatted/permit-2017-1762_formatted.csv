@@ -11,7 +11,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,460559,Luke,Romero,Hercules,CA,,
 8,386630,sean,martin,Oakland,CA,,
 9,518084,Tyler,Zugar,Belmont,CA,,
-10,523219,Andrew,Esler,San Jose,CA,,
+10,523219,Andrew,Esler,San Jose ,CA,,
 10,533121,Quincy,Bouldin,San Jose,CA,,
 10,533092,Ian,Powell,San Francisco,CA,,
 10,535329,Joseph,Hodges,San Francisco,CA,,
@@ -39,7 +39,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 06/07/2017 Omnium Men Men 1/2/3
 Place,License #,First,Last,City,State,Time,Team
-1,381623,Owen,Gillott,Foster City ,CA,,
+1,381623,Owen,Gillott,Foster City,CA,,
 2,494786,Alexander,Winter,Santa Clara,CA,,
 3,366768,Raul,Arias J.R.,East Palo Alto,CA,,
 4,195204,Bryan,Larsen,Santa Rosa,CA,,
@@ -117,7 +117,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/31/2017 Omnium Men Men 1/2/3
 Place,License #,First,Last,City,State,Time,Team
-1,381623,Owen,Gillott,Foster City ,CA,,
+1,381623,Owen,Gillott,Foster City,CA,,
 2,195204,Bryan,Larsen,Santa Rosa,CA,,
 3,380907,Zach,Gottesman,Greenbrae,CA,,
 4,494786,Alex,Winter,Santa Clara,CA,,
@@ -147,7 +147,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,466392,Sydney,Richardson,Long Beach,CA,,
 2,203755,Amanda,Seigle,Citrus Heights,CA,,
-3,422238,Sawyer,Taylor,Greenbrae,CA,,
+3,422238,Sawyer,Taylor,San Rafael,CA,,
 4,404438,Veronika,Volok,Berkeley,CA,,
 5,438042,Allie,Bollella,Berkeley,CA,,
 6,481176,Kira,Maximovich,San Jose,CA,,
@@ -163,7 +163,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,386630,Sean,Martin,Oakland,CA,,
 3,532993,Lucas,Palmon,Fremont,CA,,
 4,474698,Christian,Olmos,San Jose,CA,,
-5,523219,Andrew,Esler,San Jose,CA,,
+5,523219,Andrew,Esler,San Jose ,CA,,
 6,518084,Tyler,Zugar,Belmont,CA,,
 7,513904,Erik,Casillas,San Jose,CA,,
 7,533121,Quincy,Bouldin,San Jose,CA,,
@@ -189,7 +189,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/24/2017 Omnium Men Men 1/2/3
 Place,License #,First,Last,City,State,Time,Team
-1,381623,Owen,Gillott,Foster City ,CA,,
+1,381623,Owen,Gillott,Foster City,CA,,
 2,195204,Bryan,Larsen,Santa Rosa,CA,,
 3,273912,Jeromy,Cottell,Redwood City,CA,,
 4,304367,Fergus,Tanaka,San Francisco,CA,,
@@ -230,7 +230,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,459183,Jason,Fritz,San Jose,CA,,
 8,416639,Nicholas,Keane,San Franciscos,CA,,
 9,532993,Lucas,Palmon,Fremont,CA,,
-9,523219,Andrew,Esler,San Jose,CA,,
+9,523219,Andrew,Esler,San Jose ,CA,,
 9,386630,Sean,Martin,Oakland,CA,,
 9,0,Joseph,Hodges,,,,
 9,533092,Ian,Powell,San Francisco,CA,,
@@ -259,7 +259,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/10/2017 Omnium Men Men 1/2/3
 Place,License #,First,Last,City,State,Time,Team
-1,381623,Owen,Gillott,Foster City ,CA,,
+1,381623,Owen,Gillott,Foster City,CA,,
 2,332984,Steven,Tortorelli,San Francisco,CA,,
 3,273912,Jeromy,Cottell,Redwood City,CA,,
 4,366768,Raul,Arias J.R.,East Palo Alto,CA,,

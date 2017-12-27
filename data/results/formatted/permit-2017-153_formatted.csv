@@ -12,14 +12,14 @@ Place,License #,First,Last,City,State,Time,Team
 8,468638,Garret,Thompson,Raleigh,NC,,Berger Hardware Bikes
 9,340986,George,Garvick,New Bern,NC,,Boone Area Cyclists
 10,152254,Zach,Lail,Winston Salem,NC,,Mock Orange Bikes
-11,375352,Will,Barnes,Raleigh,NC,,Berger Hardware Bikes
+11,375352,Will,Barnes,Chapel Hill,NC,,Berger Hardware Bikes
 12,29688,Nathan,Rice,Durham,NC,,
 13,255722,Tony,SigRist,Tallahassee,FL,,
 
 01/14/2017 Cyclo-cross Men Cat 4/5 Dp
 Place,License #,First,Last,City,State,Time,Team
 1,471761,Sean,Huson,Hendersonville,NC,,Crosstown Velo
-2,415089,Dylan,Richardson,Stokesdales,NC,,Revolting Cogs
+2,415089,Dylan,Richardson,Stokesdale,NC,,Revolting Cogs
 3,494483,Eric,Flowe,Charlotte,NC,,
 4,343328,Nathan,Smith,Mount Airy,NC,,
 5,293783,Miles,Camp,Raleigh,NC,,Berger Hardware Bikes
@@ -32,7 +32,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,508337,Tyler,Stimely,Winston Salem,NC,,
 13,522499,Rick,Handy,Huntersville,NC,,
 14,419117,Paul,Vulcan,Charlotte,NC,,
-15,520504,James,Walsh,Farmer City,IL,,
+15,520504,James,Walsh,Raleigh,NC,,
 16,415171,Ian,Bundy,Garner,NC,,Constellation Cycling
 17,523722,marcos,figueroa,Charlotte,NC,,
 18,416488,Jamie,Williams,Boone,NC,,Boone Area Cyclists
@@ -52,7 +52,7 @@ Place,License #,First,Last,City,State,Time,Team
 32,208984,Michael,Albert,Greensboro,NC,,
 33,523649,Alec,blackwood,Connelly Springs,NO,,
 34,407146,CJ,Burford,Walkertown,NC,,Evolution Jr. Devo Team
-35,457392,Jonathan,Howell,Columbia,SC,,0
+35,457392,Jonathan,Howell,Lugoff,SC,,0
 DNS,522445,Rachael,Grant,Charlotte,NC,,
 DNS,457069,Jacob,Olsen,Rock Hill,SC,,
 DNS,422445,Tyler,Ramer,Winston Salem,NC,,
@@ -82,7 +82,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,47538,Stephen,Knight,Apex,NC,,Constellation Cycling
 20,274640,James,Cole,Charlotte,NC,,
 21,489441,John,Bauer,Hickory,NC,,Evolution Jr. Devo Team
-22,382559,Dave,Cassen,Charlotte ,NC,,
+22,382559,Dave,Cassen,Charlotte,NC,,
 23,517454,Tim,Riddle,Burlington,NC,,
 24,58356,Michael,Lesmerises,Knoxville,TN,,
 25,40582,James,Bennett,Winston Salem,NC,,
@@ -94,12 +94,12 @@ Place,License #,First,Last,City,State,Time,Team
 31,208984,Michael,Albert,Greensboro,NC,,
 32,422131,Fred,Perrino,Winston Salem,NC,,
 33,343928,Christopher,Hill,Linwood,NC,,
-34,457392,Jonathan,Howell,Columbia,SC,,
+34,457392,Jonathan,Howell,Lugoff,SC,,
 35,523692,Vincent,Rega,Clemmons,NC,,
 36,494935,John,Colvin,Hillsborough,NC,,
 37,333324,Paul,McKeithan,Cary,NC,,Evolution Jr. Devo Team
 38,393366,George,Hatcher,Fayetteville,NC,,Cross Creek Cycling Club-C4
-DNS,523824,Mark,Thornton,Lowgap,NC,,
+DNS,520558,Mark,Thornton,Lowgap,NC,,
 DNF,359625,Charles,Gaither,Statesville,NC,,
 DNF,520056,Anthony,Montello,Waxhaw,NC,,
 DNF,141484,Hansen,Su,Chapel Hill,NC,,
@@ -133,7 +133,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,448108,Jonathan,Dubel,Wilmington,NC,,Wattage Cottage Racing
 12,112145,Mark,Fasczewski,Boone,NC,,Trek Greensboro Generals
 13,379855,Terry,Forrest,Goldsboro,NC,,Atomic Cycles
-14,163082,James,Berry,Lancaster,SC,,Freewheelers of Spartanburg
+14,163082,James,Berry,Rapid City,SD,,Freewheelers of Spartanburg
 15,374171,Alan,Bengtson,Winston-salem,NC,,
 16,290398,Steve,Leonard,Raleigh,NC,,Team Spoke Cycles
 17,255899,Chuck,Gillis,Pittsboro,NC,,
@@ -166,7 +166,7 @@ Place,License #,First,Last,City,State,Time,Team
 01/14/2017 Cyclo-cross Women Pro/Cat 1/2/3 Dp 13-99
 Place,License #,First,Last,City,State,Time,Team
 1,220875,Emily,Shields,Advance,NC,,Hearts Racing Club
-2,220876,Katherine,Shields,Advance,NC,,Hearts Racing Club
+2,220876,Katherine,Shields,Salt Lake City,UT,,Hearts Racing Club
 3,223755,Angelina,Stevens,Hendersonville,NC,,Happy Tooth Women's Racing
 4,358133,Laura,Rice,Hendersonville,NC,,Happy Tooth Racing
 5,122752,Kimberly,Flynn,Boone,NC,,
@@ -217,7 +217,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,520880,Luca,Kaminski,Carrboro,NC,,HammerCross
 7,518661,Alexandra,Richardson,Stokesdale,NC,,J. A. King Racing
 8,489355,Corban,Burford,Walkertown,NC,,Evolution Jr. Devo Team
-9,457551,Kate,Stanford,Cary,NC,,Evolution Jr. Devo Team
+9,457551,Kate,Stanford,Cary,NJ,,Evolution Jr. Devo Team
 10,494606,Riley,Pearman,Charlotte,NC,,Evolution Jr. Devo Team
 11,407146,CJ,Burford,Walkertown,NC,,Evolution Jr. Devo Team
 12,0,Mac,Kaysen,,,,
@@ -233,11 +233,11 @@ Place,License #,First,Last,City,State,Time,Team
 7,487936,James,Snyder,Statesville,NC,,Evolution Jr. Devo Team
 8,489195,Niko,Strauss,Chapel Hill,NC,,HammerCross
 9,365567,Wesley,Haggstrom,Clemmons,NC,,Evolution Jr. Devo Team
-DNF,455500,William,Stanford,Cary,NC,,Evolution Jr. Devo Team
+DNF,455500,William,Stanford,Cary,NJ,,Evolution Jr. Devo Team
 
 01/14/2017 Cyclo-cross Mixed Cat 3/4/5 Juniorsdp 15-18
 Place,License #,First,Last,City,State,Time,Team
-1,415089,Dylan,Richardson,Stokesdales,NC,,Revolting Cogs
+1,415089,Dylan,Richardson,Stokesdale,NC,,Revolting Cogs
 2,456786,Spencer,Johnston,Winston Salem,NC,,Mock Orange Bikes
 3,329312,Eli,Woodard,New Hill,NC,,
 4,477362,Nicholas,Salazar Garcia,Winston Salem,NC,,Hearts Racing Club
@@ -254,7 +254,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,338866,Dariusz,Tyborowski,Zebulon,NC,,Team Spoke Cycles
 3,205667,Richard,Tsui,Cornelius,NC,,
 4,365567,Wesley,Haggstrom,Clemmons,NC,,
-5,220876,Katherine,Shields,Advance,NC,,Hearts Racing Club
+5,220876,Katherine,Shields,Salt Lake City,UT,,Hearts Racing Club
 6,374171,Alan,Bengtson,Winston-salem,NC,,
 7,455522,Steve,Lowe,Cornelius,NC,,Charlotte Sports Cycling
 8,305097,Watson,Powell,Charlotte,NC,,Slippery Sasquatch

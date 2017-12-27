@@ -12,12 +12,12 @@ Place,License #,First,Last,City,State,Time,Team
 8,403696,Tim,WEIGELT,Philadelphia,PA,12:54.rd,CS Velo Elite
 9,165571,Jared,Babik,Pittsburgh,PA,12:54.rd,Fort Pitt Velo
 10,297561,Guy,TAWNEY,Baltimore,MD,12:54.rd,C3  Twenty20 Cycling
-11,341040,Eran,PREBLE,Philadelphia ,PA,,Integrated Sports Medicine p/b Brown's Subaru
+11,341040,Eran,PREBLE,Newark,DE,,Integrated Sports Medicine p/b Brown's Subaru
 12,252258,Thomas,DETWILER,Philadelphia,PA,12:54.rd,PA Masters RC p/b Piscitello Law
-13,238008,Alejandro,GUZMAN,New York,NY,12:55.rd,CRCA/Foundation
+13,238008,Alejandro,GUZMAN,New York ,NY,12:55.rd,CRCA/Foundation
 14,178966,Michael,CHAUNER,West Chester,PA,12:55.rd,PA Lightning
 15,52033,Curtis,SOUTHERN,Frederick,MD,12:55.rd,NCVC/UnitedHealthcare
-16,277019,Jonathan,MARSHALL,Chambersburg,PA,12:55.rd,Integrated Sports Medicine p/b Brown's Subaru
+16,277019,Jonathan,MARSHALL,Shippensburg,PA,12:55.rd,Integrated Sports Medicine p/b Brown's Subaru
 17,277696,Matthew,MONTESANO,Philadelphia,PA,12:55.rd,Zubaz Racing
 18,324500,Dakota,SCHAEFFER,West Lawn,PA,12:55.rd,CS Velo Elite
 19,162406,Aaron,Barr,Lebanon,PA,12:56.rd,Divine Swine Cycling
@@ -52,14 +52,14 @@ Place,License #,First,Last,City,State,Time,Team
 48,76653,Brad,Ober,Lancaster,PA,13:00.rd,Thru-It-All Cycling
 49,344644,Matthew,Fischel,Hockessin,DE,13:00.rd,
 50,179015,John,MINTURN,State College,PA,13:01.rd,Team Skyline
-51,305602,Craig,NICHOLS,Ephrata,PA,13:01.rd,CS Velo Elite
+51,305602,Craig,NICHOLS,Lancaster,PA,13:01.rd,CS Velo Elite
 52,264586,Eric,MASON,Lebanon,PA,,Divine Swine Cycling
 53,400910,Jason,Lindemuth,Lancaster,PA,13:02.rd,Divine Swine Cycling
 54,203214,Jonathan,GLICK,Lancaster,PA,13:02.rd,Shirk's Racing
 55,201783,Ryan,Smolko,Mifflinburg,PA,13:02.rd,
 56,313046,Ryan,Rapolas,Phoenixville,PA,13:03.rd,QCW Cycling
 57,318570,Eric,NOONAN,Morristown,NJ,13:04.rd,Team Marty's
-58,283659,Philip,DANIELS,Philadelphia ,PA,13:05.rd,Dangerous Creatures
+58,283659,Philip,DANIELS,Philadelphia,PA,13:05.rd,Dangerous Creatures
 59,368709,Joe,HYDRICK,Mount Joy,PA,13:05.rd,CS Velo Elite
 60,290087,Nick,ROGERS,Philadelphia,PA,13:05.rd,QCW Cycling p.b. Breakawaybikes.com
 61,277281,Jacob,YUNDT,Pittsburgh,PA,13:05.rd,TEAM GPOA
@@ -71,7 +71,7 @@ Place,License #,First,Last,City,State,Time,Team
 67,286845,Calvin,HOOPS,Philadelphia,PA,,Tri-State Velo / Amoroso's Racing Team
 68,263181,Karl,NELSON,Philadelphia,PA,13:08.rd,QCW Breakawaybikes.com p/b Felt Bicycles-JLVelo
 69,288856,Robert,Abramo,Ambler,PA,13:08.rd,Bike Line
-70,296751,michael,GREEN,Wyndmoor ,PA,13:09.rd,Arrow Racing
+70,296751,michael,GREEN,Wyndmoor,PA,13:09.rd,Arrow Racing
 71,291076,Clint,DAGER,Newark,DE,13:09.rd,Integrated Sports Medicine p/b Brown's Subaru
 72,40230,Jeffrey,Miesemer,Hershey,PA,13:10.rd,Mid Atl Masters Bicycle Org
 73,47958,Bob,Reuther,West Chester,PA,13:10.rd,
@@ -135,7 +135,7 @@ Place,License #,First,Last,City,State,Time,Team
 39,247637,Aleksey,URUSOV,Plainfield,NJ,41:55.rd,Death Row Velo p/b Ridgewood Cycle Shop
 40,47958,Bob,Reuther,West Chester,PA,41:55.rd,
 41,403076,Ned,BEMENT,West Chester,PA,41:55.rd,ActiveYards
-42,70511,Robert,Casciato,Chester Springs,PA,41:57.rd,PA Masters p/b Piscitello Law
+42,70511,Robert,Casciato,Chestersprings,PA,41:57.rd,PA Masters p/b Piscitello Law
 43,338778,KARL,TUREK,Center Valley,PA,41:59.rd,PA Masters
 44,92253,Kevin,SAINT CLAIR,Philadelphia,PA,,Team SKYLINE
 45,274505,William,Patterson,Wilmington,DE,42:00.rd,Chester County Velo
@@ -149,7 +149,7 @@ Place,License #,First,Last,City,State,Time,Team
 53,61737,Dusan,STRIKA,Parlin,NJ,42:17.rd,Kissena Cycling Team
 54,12727,Scott,Gamble,West Chester,PA,42:22.rd,Chester County Velo
 55,46602,Craig,LEISER,Coatesville,PA,42:31.rd,Active Yards - Chester County Velo
-56,28984,John,RACHFAL,Ardmore,PA,42:32.rd,CS Velo
+56,28984,John,RACHFAL,Needham,MA,42:32.rd,CS Velo
 57,128378,Marc,Frazer,Baltimore,MD,42:45.rd,Lateral Stress Velo Inc.
 58,251936,Nick,PICCONE,Mullica Hill,NJ,42:51.rd,Caffeinated Cyclist Racing
 59,393185,Andy,MARK,Berwyn,PA,42:56.rd,Cadence Racing
@@ -183,7 +183,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,460856,Richard,TRIMPI,Pennsburg,PA,35:03.rd,QCW Cycling
 17,97543,Rick,MAYNARD,West Chester,PA,35:03.rd,Amoroso's Racing Team/Tri State Velo
 18,323810,Hugh,BROWDER,Hamburg,PA,35:03.rd,ChristianCycling Pennsylvania
-19,70511,Robert,CASCIATO,Chester Springs,PA,35:03.rd,PA Masters
+19,70511,Robert,CASCIATO,Chestersprings,PA,35:03.rd,PA Masters
 20,68499,William,MARQUIS,Willow Grove,PA,35:04.rd,Guy's Racing Club
 21,255713,Dan,CONLIN,Wilmington,DE,35:05.rd,Active Yards - Chester County Velo
 22,29768,Michael,RICHEY,Coatesville,PA,35:05.rd,Active Yards / CCV
@@ -208,7 +208,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,526294,David,THOMPSON,Philadelphia,PA,28:11.rd,CS Velo
 7,507027,Brandon,LINTON,Lancaster,PA,28:11.rd,Thru-It-All Cycling Team
 8,505675,Kevin,BISCH,Plymouth Mtg,PA,28:11.rd,Thru-It-All Cycling Team
-9,505277,Brendan,GRAHAM,Westchester,PA,28:12.rd,Cadence Racing
+9,505277,Brendan,GRAHAM,Philadelphia,PA,28:12.rd,Cadence Racing
 10,455361,Jon-Jorge,ARAS,Philadelphia,PA,28:12.rd,Rohan Cycling
 11,493695,Robert,WILLIAMS,Glassboro,NJ,,Caffeinated Cyclist Racing
 12,480090,Brian,PHIPPS,Jessup,MD,28:13.rd,GII Race Team
@@ -308,11 +308,11 @@ Place,License #,First,Last,City,State,Time,Team
 26,248998,Nolan,MONTIEL,Flushing,NY,55:25.rd,CUEVAS CYCLING DEVELOPMENT/ROADRUNNERS BICYCLES
 27,358000,Dimetra,COOPER,Trenton,NJ,55:26.rd,Karma's Racing
 28,382095,Michael,SCHWEIZER,Emmaus,PA,55:26.rd,Long Tail Creative
-29,324134,Matthew,MORY,Philadelphia,PA,55:26.rd,QCW Cycling p.b. Breakawaybikes.com
-30,362425,John,KNISELY,Edmonds,WA,55:26.rd,Team FEC p/b Trek Bikes
+29,324134,Matthew,MORY,Mesa,AZ,55:26.rd,QCW Cycling p.b. Breakawaybikes.com
+30,362425,John,KNISELY,Media,PA,55:26.rd,Team FEC p/b Trek Bikes
 31,308900,John,Berg,Andover,NJ,55:26.rd,KickCharge Creative
 32,238088,Matthew,DISHART,Mount Joy,PA,55:27.rd,Thru It All Body Shop
-33,283659,Philip Bennett,Daniels,Philadelphia ,PA,55:28.rd,
+33,283659,Philip Bennett,Daniels,Philadelphia,PA,55:28.rd,
 34,298136,Frank,ORTIZ,Philadelphia,PA,55:32.rd,Temple University Cycling Team
 35,380574,Carl,ROBINSON,Garwood,NJ,55:32.rd,DeathRow Velo
 36,234908,Colin,FITZGERALD,Orefield,PA,55:35.rd,
@@ -351,7 +351,7 @@ Place,License #,First,Last,City,State,Time,Team
 21,411896,Allison,MCCABE,Phoenixville,PA,48:09.rd,Team EPS/CSS p/b Shebell & Sheb
 22,469156,Marielle,RITCHIE,Enola,PA,48:10.rd,World Cup Ski & Cycle Racing Te
 23,392930,Rosalind,PATTERSON,Philadelphia,PA,48:10.rd,Laser Cats Feline All Stars
-24,396612,Maureen,GRIBB,Lansdale,PA,48:10.rd,Action Wheels
+24,396612,Maureen,GRIBB,Unit C,PA,48:10.rd,Action Wheels
 25,265041,Pamela,SCHMALDINST,Allentown,PA,48:11.rd,Team Skyline
 26,304541,Andrea,MAHER,Lincoln Park,NJ,48:11.rd,Team EPS/CSS p/b Shebell & Sheb
 27,58496,Annette,WEAVER,Hershey,PA,48:12.rd,Mid Atl Masters Bicycle Org
@@ -366,7 +366,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,500302,Joanne,TRIMPI,Pennsburg,PA,29:57.rd,QCW Cycling p/b Breakaway.com
 4,500104,Alexandra,SCHAFER,Philadelphia,PA,29:58.rd,Cadence Cycling and Multisport
 5,525553,Vanessa,Romano,Allentown,PA,29:59.rd,T-Town Elite
-6,512092,Holly,NECKERMANN,Philadelphia ,PA,29:59.rd,Women Bike PHL Racing
+6,512092,Holly,NECKERMANN,Philadelphia,PA,29:59.rd,Women Bike PHL Racing
 7,459970,Kelly,O'BRIEN,Chesterbrook,PA,29:59.rd,Team FEC p/b Trek Bikes
 8,529628,Melissa,PIERAGOSTINI,Mont Clare,PA,30:00.rd,Philadelphia Triathlon Club
 9,527110,Jane,DMOCHOWSKI,Philadelphia,PA,30:00.rd,Women Bike PHL Racing

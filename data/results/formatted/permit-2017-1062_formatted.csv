@@ -38,9 +38,9 @@ Place,License #,First,Last,City,State,Time,Team
 34,441118,Patrick,Torpey,Brooklyn,NY,lap,CRCA/To Be Determined
 35,0,Ben,Ryan,,,lap,
 36,287057,Adam,Bernstein,Boston,MA,lap,GREEN LINE VELO driven by Zipcar
-37,282446,Daniel,FitzGibbons,Boston,MA,lap,GREEN LINE VELO driven by Zipcar
+37,282446,Daniel,FitzGibbons,Dorchester,MA,lap,GREEN LINE VELO driven by Zipcar
 38,304095,Jeremy,Cratty,Stow,MA,lap,Minuteman Road Club
-39,271529,Marshall,Johnson,North Stonington ,CT,lap,CLR Racing
+39,271529,Marshall,Johnson,North Stonington,CT,lap,CLR Racing
 40,262000,Mark,Miller,Marlborough,NH,lap,Minuteman Road Club
 41,424059,Steven,Ramirez,Cambridge,MA,lap,Monster Media Racing p/b ButcherBox
 DNF,403129,Gennaro,Ameno,North Reading,MA,dnf,GREEN LINE VELO driven by Zipcar
@@ -79,7 +79,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,380239,Mark,Wendolowski,Hatfield,MA,lap,Cyclonauts Racers
 20,77290,Trent,Sullivan,Glastonbury,CT,lap,Team Horst Sports
 21,168995,Ron,Jacobs,Needham,MA,lap,Wheelworks Racing
-22,103281,Massimiliano,Accaputo,Rocky Hill ,CT,lap,CVC / Hartford Healthcare Sports Medicine
+22,103281,Massimiliano,Accaputo,South Glastonbury,CT,lap,CVC / Hartford Healthcare Sports Medicine
 23,266348,Tim,Malton,Guilford,CT,lap,CVC / Hartford Healthcare Sports Medicine
 24,289186,James,Ebert,Old Wethersfield,CT,lap,Team ERRACE p/b DSO Manufacturing
 25,344106,Wilson,Martinez Polanco,Brookline,MA,lap,545 VELO
@@ -130,7 +130,7 @@ Place,License #,First,Last,City,State,Time,Team
 33,132031,david,potter,Tiverton,RI,0:55:23,Wee Bike Shop Racing
 34,91227,Edward,Angeli,Southington,CT,0:55:23,Team Type 1
 35,159316,Dennis,Johnston,Farmington,CT,0:55:23,GHCC - Central Wheel
-36,480581,Jose,Parece,Coventry,RI,lap,
+36,480581,Jose,Parece,Pawtucket,RI,lap,
 37,380119,Peter,McNulty,Cambridge,NY,lap,Cambridge Valley Cycling
 DNF,35402,William,Thompson,West Hartford,CT,dnf,CCC/Keltic Const/Zanes Cycles
 DNF,305051,Mitchell,Favreau,Mystic,CT,dnf,Mystic Velo - Men
@@ -170,7 +170,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,261665,Daniel,McCabe,Whitman,MA,0:52:43,Grinta! P/B Best Buddies Challenge
 3,424059,Steven,Ramirez,Cambridge,MA,0:52:48,Monster Media Racing p/b ButcherBox
 4,316328,Ryan,Pesch,Vineyard Haven,MA,0:52:48,New England Devo p/b Cadence Wealth Management
-5,271529,Marshall,Johnson,North Stonington ,CT,0:52:48,CLR Racing
+5,271529,Marshall,Johnson,North Stonington,CT,0:52:48,CLR Racing
 6,494676,David,Shuck,Old Saybrook,CT,0:52:48,CRCA/Rockstar Games
 7,315952,Nathan,Coste,Bristol,RI,0:52:48,Bikeworks MA
 8,241549,Chad,Dalles,Aurora,CO,0:52:48,Groove Subaru Excel Sports
@@ -201,7 +201,7 @@ Place,License #,First,Last,City,State,Time,Team
 33,414812,Mike,Morse,Salem,NH,0:52:48,Colonial Bicycle Company
 34,256996,Jonathan,DelColle,Somerset,MA,0:52:48,SVC/ Bikeworks
 35,499435,Ryan,Singh,Boston,MA,0:52:48,Monster Media p/b Butcher Box
-36,485904,Ken,Greim,Cambridge,MA,0:52:48,GREEN LINE VELO driven by Zipcar
+36,485904,Ken,Greim,Belmont,MA,0:52:48,GREEN LINE VELO driven by Zipcar
 37,28877,Oscar,Purwin,Carlisle,MA,0:52:48,Minuteman Road Club
 38,438795,Dave,Mingori,Worcester,MA,0:52:48,Minuteman Road Club
 39,429578,Nick,Brocato,Wyoming,RI,0:52:48,NBX/Narragansett Beer/Apex
@@ -211,7 +211,7 @@ Place,License #,First,Last,City,State,Time,Team
 43,275606,Marc,GAGLIANO,Westport,CT,0:52:48,CRCA Blue Ribbon
 44,293161,Andrew,Goodale,Maynard,MA,0:53:13,RaceCF
 45,456112,Fintan,Duffy,Westborough,MA,0:53:24,Minuteman Road Club
-46,282446,Daniel,FitzGibbons,Boston,MA,0:53:57,GREEN LINE VELO driven by Zipcar
+46,282446,Daniel,FitzGibbons,Dorchester,MA,0:53:57,GREEN LINE VELO driven by Zipcar
 47,245678,Larry,Stachowiak,Lynn,MA,lap,CCB Racing
 48,376695,Paige,Williams,North Bennington,VT,lap,BCA/Linen
 49,398045,john,kasbohm,Dover,NH,lap,Northhampton cycling
@@ -222,7 +222,7 @@ DNF,380179,Tim,Cary,Easthampton,MA,dnf,Northampton Cycling Club
 DNF,497571,Rudolph,Lalanne,Brockton,MA,dnf,TEAM TRAVIS CYCLE
 DNF,0,Unknown,Rider,,,dnf,
 DNF,482019,Luis,Diaz,Dorchester,MA,dnf,
-DNF,199762,Joseph,Dickerson,Manchester ,CT,dnf,Inspired Adventurist/Octagon Cycling/The Bike Shop
+DNF,199762,Joseph,Dickerson,Manchester,CT,dnf,Inspired Adventurist/Octagon Cycling/The Bike Shop
 DNF,162229,David,Dreher,Chestnut Hill,MA,dnf,545 Velo
 DNF,257744,Jared,Hegberg,Atlanta,GA,dnf,GREEN LINE VELO driven by Zipcar
 DNF,482074,John,Jantz,Arlington,MA,dnf,Community Bicycle Racing
@@ -276,7 +276,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,468175,Eric,Loehle,Georgetown,MA,0:53:39,Boston University Cycling
 14,432762,Kent,Ryan,Westbrook,ME,0:53:39,Tall Sock Racing
 15,162229,David,Dreher,Chestnut Hill,MA,0:53:39,545 Velo
-16,485904,Ken,Greim,Cambridge,MA,0:53:39,GREEN LINE VELO driven by Zipcar
+16,485904,Ken,Greim,Belmont,MA,0:53:39,GREEN LINE VELO driven by Zipcar
 17,400304,Rob,Davies,Avon,CT,0:53:39,Greater Hartford Cycling Club
 18,458791,George,Hayes,Riverside,RI,0:53:39,SVC/Bikeworks
 19,337812,Alex,Franks,North Falmouth,MA,0:53:39,Boston Road Club
@@ -299,7 +299,7 @@ Place,License #,First,Last,City,State,Time,Team
 36,380119,Peter,McNulty,Cambridge,NY,0:55:04,Cambridge Valley Cycling
 37,401409,Patrick,Topham,Nantucket,MA,0:55:04,Nantucket Velo
 DNF,489314,Jason,Tinkov,Sudbury,MA,dnf,Tinkov Racing
-DNF,273785,David,Freeman,Cambridge ,MA,dnf,
+DNF,273785,David,Freeman,Cambridge,MA,dnf,
 
 03/25/2017 Criterium Women cat 4/5
 Place,License #,First,Last,City,State,Time,Team

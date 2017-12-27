@@ -29,7 +29,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,239048,Robert,Scheffler,Boise,ID,00:58:03.213,Mercedes Benz/Georges
 5,349884,Paul,Warner,Boise,ID,00:58:04.078,Team UpCycle
 6,475434,Grant,Simonds,Park City,UT,00:58:04.577,Ski City
-7,227593,Justin,Rose,Middleton ,ID,00:58:04.743,Team Bobs-Bicycles.com
+7,227593,Justin,Rose,Middleton,ID,00:58:04.743,Team Bobs-Bicycles.com
 8,277638,Josh,Howard,Boise,ID,00:58:09.136,Mercedes Benz/Georges
 9,181890,Gabriel,Keck,Boise,ID,00:58:44.255,Mercedes Benz/Georges
 10,337310,Robert,Smallman,Alpine ,UT,01:01:47.514,Team Endurance 360
@@ -56,7 +56,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,133580,Craig,Cornwall,Boise,ID,00:29:49.72,Paralyzed Veterans of America Racing
 2,502059,Brett,Richards,Redlands ,CA,00:29:57.419,Team PossAbilities
-3,523346,Brandon,Lyons,Colorado Springs,CO,00:29:59.318,Southern California Nevada Cycling Association
+3,523346,Brandon,Lyons,Carlsbad,CA,00:29:59.318,Southern California Nevada Cycling Association
 4,410773,Ryan,Rigard,Bozeman,MT,00:31:34.854,Team Muleterro
 5,404881,John,Mumme,Reno,NV,00:32:22.739,
 6,468005,Ryan,Kelling,East Wenatchee,WA,00:36:26.928,
@@ -108,7 +108,7 @@ Place,License #,First,Last,City,State,Time,Team
 07/16/2017 Omnium Men Cat 1/2 15-99
 Place,License #,First,Last,City,State,Time,Team
 1,337310,Robert,Smallman,Alpine ,UT,,Team Endurance 360
-2,227593,Justin,Rose,Middleton ,ID,,Team Bobs-Bicycles.com
+2,227593,Justin,Rose,Middleton,ID,,Team Bobs-Bicycles.com
 
 07/16/2017 Omnium Men Cat 3 15-99
 Place,License #,First,Last,City,State,Time,Team
@@ -121,7 +121,7 @@ Place,License #,First,Last,City,State,Time,Team
 07/16/2017 Omnium Men H3
 Place,License #,First,Last,City,State,Time,Team
 1,133580,Craig,Cornwall,Boise,ID,,Paralyzed Veterans of America Racing
-2,523346,Brandon,Lyons,Colorado Springs,CO,,Southern California Nevada Cycling Association
+2,523346,Brandon,Lyons,Carlsbad,CA,,Southern California Nevada Cycling Association
 3,410773,Ryan,Rigard,Bozeman,MT,,Team Muleterro
 4,502059,Brett,Richards,Redlands ,CA,,Team PossAbilities
 5,468005,Ryan,Kelling,East Wenatchee,WA,,
@@ -177,7 +177,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,337310,Robert,Smallman,Alpine ,UT,25:32.6,Team Endurance 360
 2,197764,David,Gettle,Weiser,ID,26:20.7,
 3,490032,Antonio,Gonzalez,Boise ,ID,26:50.5,
-4,227593,Justin,Rose,Middleton ,ID,29:40.3,Team Bobs-Bicycles.com
+4,227593,Justin,Rose,Middleton,ID,29:40.3,Team Bobs-Bicycles.com
 
 07/14/2017 Individual Time Trial Men Cat 3 15-99
 Place,License #,First,Last,City,State,Time,Team
@@ -193,7 +193,7 @@ DNS,470059,Gerald,Cuzick,Ione,CA,,Paralyzed Veterans of America Racing
 07/14/2017 Individual Time Trial Men H3
 Place,License #,First,Last,City,State,Time,Team
 1,410773,Ryan,Rigard,Bozeman,MT,39:34.7,Team Muleterro
-2,523346,Brandon,Lyons,Colorado Springs,CO,42:37.9,Southern California Nevada Cycling Association
+2,523346,Brandon,Lyons,Carlsbad,CA,42:37.9,Southern California Nevada Cycling Association
 3,502059,Brett,Richards,Redlands ,CA,43:19.5,Team PossAbilities
 4,468005,Ryan,Kelling,East Wenatchee,WA,44:25.7,
 5,133580,Craig,Cornwall,Boise,ID,44:34.3,Paralyzed Veterans of America Racing
@@ -223,7 +223,7 @@ DNF,494300,Theresa,Steger,Boise,ID,,Team Digestive Health Clinic Boise VeloWomen
 
 07/14/2017 Individual Time Trial Women Cat 1/2 15-99
 Place,License #,First,Last,City,State,Time,Team
-1,343484,Summer,Moak,Phoenix,AZ,27:08.8,Sho-Air TWENTY20 Development
+1,343484,Summer,Moak,Scottsdale,AZ,27:08.8,Sho-Air TWENTY20 Development
 2,356410,Abigail,Youngwerth,Boise,ID,28:21.1,Sho-Air TWENTY20 Development
 3,139667,Sarah,Barber,Boise,ID,29:10.2,Team UpCycle
 4,431733,Erin,Green,Boise,ID,29:37.7,TWENTY20 Pro Cycling

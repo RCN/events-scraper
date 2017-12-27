@@ -32,7 +32,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,459882,Arthur,Brummett,Sammamish,WA,,Taco Time Northwest Cycling Team
 13,477301,Taylor,Kendall,Seattle,WA,,0
 14,266855,Miles,Johansen,Lynnwood,WA,,Dyna Racing
-15,468401,Peter,Mayer,Shoreline,WA,,Taco Time Northwest Cycling Team
+15,468401,Peter,Mayer,Mukilteo,WA,,Taco Time Northwest Cycling Team
 DNS,377674,Matthew,Morse,Redmond,WA,,Dyna Racing
 DNF,324620,Curt,Johnson,Lake Forest Park,WA,,Dyna Racing
 
@@ -43,13 +43,13 @@ Place,License #,First,Last,City,State,Time,Team
 3,534970,Henry,Kaeser,Redmond,WA,,0
 4,503048,Ashley,Moore,Seattle,WA,,Hagens Berman - EY Society
 5,392042,Ruth,Gustafson,Edmonds,WA,,Broadmark
-6,458921,Paula,Froke,Shoreline,WA,,Broadmark
+6,458921,Paula,Froke,Philadelphia,PA,,Broadmark
 7,392792,Emily,Alexander,Seattle,WA,,Seattle CCA Cycling Team
-8,418957,LaVonne,Wilson,Seattle,WA,,Team Group Health
+8,418957,LaVonne,Wilson,Mukilteo,WA,,Team Group Health
 9,507733,Lydia,Deese,Seattle,WA,,0
 10,389910,Callah,Robinson,Bellevue,WA,,0
 11,494124,Lauren,Schmidt,Seattle,WA,,Seattle CCA Cycling Team
-12,458634,Janie,Cowart,Seattle,WA,,Dyna Racing
+12,458634,Janie,Cowart,Renton,WA,,Dyna Racing
 13,396587,Karen,Doherty,Bellevue,WA,,Seattle CCA Cycling Team
 DNS,537026,Kelly,Dahlin,Bellevue,WA,,0
 
@@ -115,8 +115,8 @@ Place,License #,First,Last,City,State,Time,Team
 15,535595,Eric,Dettinger,Seattle,WA,,0
 15,535595,Eric,Dettinger,Seattle,WA,,0
 16,377674,Matthew,Morse,Redmond,WA,,Dyna Racing
-16,468401,Peter,Mayer,Shoreline,WA,,Taco Time Northwest Cycling Team
-17,468401,Peter,Mayer,Shoreline,WA,,Taco Time Northwest Cycling Team
+16,468401,Peter,Mayer,Mukilteo,WA,,Taco Time Northwest Cycling Team
+17,468401,Peter,Mayer,Mukilteo,WA,,Taco Time Northwest Cycling Team
 17,377674,Matthew,Morse,Redmond,WA,,Dyna Racing
 
 08/30/2017 Scratch Race Women Women 4 Elite Open
@@ -129,18 +129,18 @@ Place,License #,First,Last,City,State,Time,Team
 3,503048,Ashley,Moore,Seattle,WA,,Hagens Berman - EY Society
 4,503048,Ashley,Moore,Seattle,WA,,Hagens Berman - EY Society
 4,271333,Jackie,Craver,Seattle,WA,,VELOBODY/Bikesale.com
-5,458634,Janie,Cowart,Seattle,WA,,Dyna Racing
-5,458634,Janie,Cowart,Seattle,WA,,Dyna Racing
+5,458634,Janie,Cowart,Renton,WA,,Dyna Racing
+5,458634,Janie,Cowart,Renton,WA,,Dyna Racing
 6,507733,Lydia,Deese,Seattle,WA,,0
 6,389910,Callah,Robinson,Bellevue,WA,,0
 7,392792,Emily,Alexander,Seattle,WA,,Seattle CCA Cycling Team
 7,537026,Kelly,Dahlin,Bellevue,WA,,0
 8,389910,Callah,Robinson,Bellevue,WA,,0
-8,458921,Paula,Froke,Shoreline,WA,,Broadmark
-9,418957,LaVonne,Wilson,Seattle,WA,,Team Group Health
+8,458921,Paula,Froke,Philadelphia,PA,,Broadmark
+9,418957,LaVonne,Wilson,Mukilteo,WA,,Team Group Health
 9,494124,Lauren,Schmidt,Seattle,WA,,Seattle CCA Cycling Team
-10,458921,Paula,Froke,Shoreline,WA,,Broadmark
-10,418957,LaVonne,Wilson,Seattle,WA,,Team Group Health
+10,458921,Paula,Froke,Philadelphia,PA,,Broadmark
+10,418957,LaVonne,Wilson,Mukilteo,WA,,Team Group Health
 11,392042,Ruth,Gustafson,Edmonds,WA,,Broadmark
 11,392792,Emily,Alexander,Seattle,WA,,Seattle CCA Cycling Team
 12,494124,Lauren,Schmidt,Seattle,WA,,Seattle CCA Cycling Team
@@ -159,9 +159,9 @@ Place,License #,First,Last,City,State,Time,Team
 5,418560,James,McKee,Seattle,WA,,Apex Racing
 6,520924,Jonathan,Wagher,Seattle,WA,,0
 7,377674,Matthew,Morse,Redmond,WA,,Dyna Racing
-8,468401,Peter,Mayer,Shoreline,WA,,Taco Time Northwest Cycling Team
+8,468401,Peter,Mayer,Mukilteo,WA,,Taco Time Northwest Cycling Team
 9,266855,Miles,Johansen,Lynnwood,WA,,Dyna Racing
-10,280035,Brennan,Lewis,Redmond,WA,,0
+10,280035,Brennan,Lewis,Bellevue,WA,,0
 11,491914,Robert,McMurray,Seattle,WA,,0
 
 08/16/2017 Miss and Out Men Master A Master 35+
@@ -196,8 +196,8 @@ Place,License #,First,Last,City,State,Time,Team
 6,271333,Jackie,Craver,Seattle,WA,,VELOBODY/Bikesale.com
 7,534849,Addisyn,Stout,Tacoma,WA,,Trans National Womens Cycling Team
 8,392792,Emily,Alexander,Seattle,WA,,Seattle CCA Cycling Team
-9,300335,Kira,Lewis,Redmond,WA,,0
-10,418957,LaVonne,Wilson,Seattle,WA,,Team Group Health
+9,300335,Kira,Lewis,Bellevue,WA,,0
+10,418957,LaVonne,Wilson,Mukilteo,WA,,Team Group Health
 11,537287,Nancy,Dahlberg,Mukilteo,WA,,0
 12,392042,Ruth,Gustafson,Edmonds,WA,,Broadmark
 
@@ -216,15 +216,15 @@ Place,License #,First,Last,City,State,Time,Team
 6,266855,Miles,Johansen,Lynnwood,WA,,Dyna Racing
 6,481697,Kevin,Stone O Brien,Issaquah,WA,,Egencia
 7,520924,Jonathan,Wagher,Seattle,WA,,0
-7,280035,Brennan,Lewis,Redmond,WA,,0
+7,280035,Brennan,Lewis,Bellevue,WA,,0
 8,377674,Matthew,Morse,Redmond,WA,,Dyna Racing
 8,266855,Miles,Johansen,Lynnwood,WA,,Dyna Racing
-9,280035,Brennan,Lewis,Redmond,WA,,0
+9,280035,Brennan,Lewis,Bellevue,WA,,0
 9,377674,Matthew,Morse,Redmond,WA,,Dyna Racing
-10,468401,Peter,Mayer,Shoreline,WA,,Taco Time Northwest Cycling Team
+10,468401,Peter,Mayer,Mukilteo,WA,,Taco Time Northwest Cycling Team
 10,520924,Jonathan,Wagher,Seattle,WA,,0
 11,367772,Christopher,Stubel,Seattle,WA,,Cycle U / Apex Racing
-11,468401,Peter,Mayer,Shoreline,WA,,Taco Time Northwest Cycling Team
+11,468401,Peter,Mayer,Mukilteo,WA,,Taco Time Northwest Cycling Team
 
 08/16/2017 Points Race Men Master A Master 35+
 Place,License #,First,Last,City,State,Time,Team
@@ -274,7 +274,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,534970,Henry,Kaeser,Redmond,WA,,0
 2,496481,Brooke,Davis,Seattle,WA,,0
 3,496481,Brooke,Davis,Seattle,WA,,0
-3,418957,LaVonne,Wilson,Seattle,WA,,Team Group Health
+3,418957,LaVonne,Wilson,Mukilteo,WA,,Team Group Health
 4,410974,Benjamin,Raknes,Sammamish,WA,,0
 4,392792,Emily,Alexander,Seattle,WA,,Seattle CCA Cycling Team
 5,503048,Ashley,Moore,Seattle,WA,,Hagens Berman - EY Society
@@ -283,14 +283,14 @@ Place,License #,First,Last,City,State,Time,Team
 6,507733,Lydia,Deese,Seattle,WA,,0
 7,507733,Lydia,Deese,Seattle,WA,,0
 7,410974,Benjamin,Raknes,Sammamish,WA,,0
-8,300335,Kira,Lewis,Redmond,WA,,0
+8,300335,Kira,Lewis,Bellevue,WA,,0
 8,534849,Addisyn,Stout,Tacoma,WA,,Trans National Womens Cycling Team
 9,534849,Addisyn,Stout,Tacoma,WA,,Trans National Womens Cycling Team
 9,503048,Ashley,Moore,Seattle,WA,,Hagens Berman - EY Society
-10,418957,LaVonne,Wilson,Seattle,WA,,Team Group Health
+10,418957,LaVonne,Wilson,Mukilteo,WA,,Team Group Health
 10,392042,Ruth,Gustafson,Edmonds,WA,,Broadmark
 11,392042,Ruth,Gustafson,Edmonds,WA,,Broadmark
-11,300335,Kira,Lewis,Redmond,WA,,0
+11,300335,Kira,Lewis,Bellevue,WA,,0
 12,392792,Emily,Alexander,Seattle,WA,,Seattle CCA Cycling Team
 12,537287,Nancy,Dahlberg,Mukilteo,WA,,0
 
@@ -504,22 +504,22 @@ Place,License #,First,Last,City,State,Time,Team
 3,271333,Jackie,Craver,Seattle,WA,,VELOBODY/Bikesale.com
 4,534970,Henry,Kaeser,Redmond,WA,,0
 5,503048,Ashley,Moore,Seattle,WA,,Hagens Berman - EY Society
-6,458921,Paula,Froke,Shoreline,WA,,Broadmark
+6,458921,Paula,Froke,Philadelphia,PA,,Broadmark
 7,534849,Addisyn,Stout,Tacoma,WA,,Trans National Womens Cycling Team
-8,458634,Janie,Cowart,Seattle,WA,,Dyna Racing
+8,458634,Janie,Cowart,Renton,WA,,Dyna Racing
 9,396587,Karen,Doherty,Bellevue,WA,,Seattle CCA Cycling Team
-10,418957,LaVonne,Wilson,Seattle,WA,,Team Group Health
+10,418957,LaVonne,Wilson,Mukilteo,WA,,Team Group Health
 11,466769,George,Frasier,Auburn,WA,,0
 DNF,496481,Brooke,Davis,Seattle,WA,,0
 DNF,494124,Lauren,Schmidt,Seattle,WA,,Seattle CCA Cycling Team
 DNF,271333,Jackie,Craver,Seattle,WA,,VELOBODY/Bikesale.com
 DNF,534970,Henry,Kaeser,Redmond,WA,,0
 DNF,503048,Ashley,Moore,Seattle,WA,,Hagens Berman - EY Society
-DNF,458921,Paula,Froke,Shoreline,WA,,Broadmark
+DNF,458921,Paula,Froke,Philadelphia,PA,,Broadmark
 DNF,534849,Addisyn,Stout,Tacoma,WA,,Trans National Womens Cycling Team
-DNF,458634,Janie,Cowart,Seattle,WA,,Dyna Racing
+DNF,458634,Janie,Cowart,Renton,WA,,Dyna Racing
 DNF,396587,Karen,Doherty,Bellevue,WA,,Seattle CCA Cycling Team
-DNF,418957,LaVonne,Wilson,Seattle,WA,,Team Group Health
+DNF,418957,LaVonne,Wilson,Mukilteo,WA,,Team Group Health
 DNF,466769,George,Frasier,Auburn,WA,,0
 
 08/02/2017 Points Race Men Cat 4 Elite
@@ -604,22 +604,22 @@ Place,License #,First,Last,City,State,Time,Team
 1,496481,Brooke,Davis,Seattle,WA,,0
 2,494124,Lauren,Schmidt,Seattle,WA,,Seattle CCA Cycling Team
 3,271333,Jackie,Craver,Seattle,WA,,VELOBODY/Bikesale.com
-4,458921,Paula,Froke,Shoreline,WA,,Broadmark
+4,458921,Paula,Froke,Philadelphia,PA,,Broadmark
 5,503048,Ashley,Moore,Seattle,WA,,Hagens Berman - EY Society
 6,534970,Henry,Kaeser,Redmond,WA,,0
-7,418957,LaVonne,Wilson,Seattle,WA,,Team Group Health
-8,458634,Janie,Cowart,Seattle,WA,,Dyna Racing
+7,418957,LaVonne,Wilson,Mukilteo,WA,,Team Group Health
+8,458634,Janie,Cowart,Renton,WA,,Dyna Racing
 9,534849,Addisyn,Stout,Tacoma,WA,,Trans National Womens Cycling Team
 10,396587,Karen,Doherty,Bellevue,WA,,Seattle CCA Cycling Team
 11,466769,George,Frasier,Auburn,WA,,0
 DNF,496481,Brooke,Davis,Seattle,WA,,0
 DNF,494124,Lauren,Schmidt,Seattle,WA,,Seattle CCA Cycling Team
 DNF,271333,Jackie,Craver,Seattle,WA,,VELOBODY/Bikesale.com
-DNF,458921,Paula,Froke,Shoreline,WA,,Broadmark
+DNF,458921,Paula,Froke,Philadelphia,PA,,Broadmark
 DNF,503048,Ashley,Moore,Seattle,WA,,Hagens Berman - EY Society
 DNF,534970,Henry,Kaeser,Redmond,WA,,0
-DNF,418957,LaVonne,Wilson,Seattle,WA,,Team Group Health
-DNF,458634,Janie,Cowart,Seattle,WA,,Dyna Racing
+DNF,418957,LaVonne,Wilson,Mukilteo,WA,,Team Group Health
+DNF,458634,Janie,Cowart,Renton,WA,,Dyna Racing
 DNF,534849,Addisyn,Stout,Tacoma,WA,,Trans National Womens Cycling Team
 DNF,396587,Karen,Doherty,Bellevue,WA,,Seattle CCA Cycling Team
 DNF,466769,George,Frasier,Auburn,WA,,0
@@ -709,10 +709,10 @@ Place,License #,First,Last,City,State,Time,Team
 4,503048,Ashley,Moore,Seattle,WA,,Hagens Berman - EY Society
 5,494124,Lauren,Schmidt,Seattle,WA,,Seattle CCA Cycling Team
 6,534849,Addisyn,Stout,Tacoma,WA,,Trans National Womens Cycling Team
-7,458634,Janie,Cowart,Seattle,WA,,Dyna Racing
+7,458634,Janie,Cowart,Renton,WA,,Dyna Racing
 8,396587,Karen,Doherty,Bellevue,WA,,Seattle CCA Cycling Team
-9,418957,LaVonne,Wilson,Seattle,WA,,Team Group Health
-10,458921,Paula,Froke,Shoreline,WA,,Broadmark
+9,418957,LaVonne,Wilson,Mukilteo,WA,,Team Group Health
+10,458921,Paula,Froke,Philadelphia,PA,,Broadmark
 11,466769,George,Frasier,Auburn,WA,,0
 DNF,496481,Brooke,Davis,Seattle,WA,,0
 DNF,534970,Henry,Kaeser,Redmond,WA,,0
@@ -720,10 +720,10 @@ DNF,271333,Jackie,Craver,Seattle,WA,,VELOBODY/Bikesale.com
 DNF,503048,Ashley,Moore,Seattle,WA,,Hagens Berman - EY Society
 DNF,494124,Lauren,Schmidt,Seattle,WA,,Seattle CCA Cycling Team
 DNF,534849,Addisyn,Stout,Tacoma,WA,,Trans National Womens Cycling Team
-DNF,458634,Janie,Cowart,Seattle,WA,,Dyna Racing
+DNF,458634,Janie,Cowart,Renton,WA,,Dyna Racing
 DNF,396587,Karen,Doherty,Bellevue,WA,,Seattle CCA Cycling Team
-DNF,418957,LaVonne,Wilson,Seattle,WA,,Team Group Health
-DNF,458921,Paula,Froke,Shoreline,WA,,Broadmark
+DNF,418957,LaVonne,Wilson,Mukilteo,WA,,Team Group Health
+DNF,458921,Paula,Froke,Philadelphia,PA,,Broadmark
 DNF,466769,George,Frasier,Auburn,WA,,0
 
 08/02/2017 Team Pursuit Men Cat 4 Elite
@@ -772,23 +772,23 @@ Place,License #,First,Last,City,State,Time,Team
 2,494124,Lauren,Schmidt,Seattle,WA,,Seattle CCA Cycling Team
 3,271333,Jackie,Craver,Seattle,WA,,VELOBODY/Bikesale.com
 4,534970,Henry,Kaeser,Redmond,WA,,0
-5,458921,Paula,Froke,Shoreline,WA,,Broadmark
-6,458634,Janie,Cowart,Seattle,WA,,Dyna Racing
+5,458921,Paula,Froke,Philadelphia,PA,,Broadmark
+6,458634,Janie,Cowart,Renton,WA,,Dyna Racing
 7,503048,Ashley,Moore,Seattle,WA,,Hagens Berman - EY Society
 8,466769,George,Frasier,Auburn,WA,,0
 9,534849,Addisyn,Stout,Tacoma,WA,,Trans National Womens Cycling Team
-10,418957,LaVonne,Wilson,Seattle,WA,,Team Group Health
+10,418957,LaVonne,Wilson,Mukilteo,WA,,Team Group Health
 11,396587,Karen,Doherty,Bellevue,WA,,Seattle CCA Cycling Team
 DNF,496481,Brooke,Davis,Seattle,WA,,0
 DNF,494124,Lauren,Schmidt,Seattle,WA,,Seattle CCA Cycling Team
 DNF,271333,Jackie,Craver,Seattle,WA,,VELOBODY/Bikesale.com
 DNF,534970,Henry,Kaeser,Redmond,WA,,0
-DNF,458921,Paula,Froke,Shoreline,WA,,Broadmark
-DNF,458634,Janie,Cowart,Seattle,WA,,Dyna Racing
+DNF,458921,Paula,Froke,Philadelphia,PA,,Broadmark
+DNF,458634,Janie,Cowart,Renton,WA,,Dyna Racing
 DNF,503048,Ashley,Moore,Seattle,WA,,Hagens Berman - EY Society
 DNF,466769,George,Frasier,Auburn,WA,,0
 DNF,534849,Addisyn,Stout,Tacoma,WA,,Trans National Womens Cycling Team
-DNF,418957,LaVonne,Wilson,Seattle,WA,,Team Group Health
+DNF,418957,LaVonne,Wilson,Mukilteo,WA,,Team Group Health
 DNF,396587,Karen,Doherty,Bellevue,WA,,Seattle CCA Cycling Team
 
 07/26/2017 Points Race Men Master A Master
@@ -838,18 +838,18 @@ DNF,377674,Matthew,Morse,Redmond,WA,,Dyna Racing
 07/26/2017 Points Race Women Cat 4 Elite
 Place,License #,First,Last,City,State,Time,Team
 1,392792,Emily,Alexander,Seattle,WA,,Seattle CCA Cycling Team
-1,418957,LaVonne,Wilson,Seattle,WA,,Team Group Health
+1,418957,LaVonne,Wilson,Mukilteo,WA,,Team Group Health
 2,507733,Lydia,Deese,Seattle,WA,,0
 2,507733,Lydia,Deese,Seattle,WA,,0
-3,458634,Janie,Cowart,Seattle,WA,,Dyna Racing
+3,458634,Janie,Cowart,Renton,WA,,Dyna Racing
 3,392792,Emily,Alexander,Seattle,WA,,Seattle CCA Cycling Team
 4,537613,Caitlyn,Brooks,Seattle,WA,,0
 4,457875,Anna,Savoie,Seattle,WA,,0
-5,418957,LaVonne,Wilson,Seattle,WA,,Team Group Health
-5,458634,Janie,Cowart,Seattle,WA,,Dyna Racing
+5,418957,LaVonne,Wilson,Mukilteo,WA,,Team Group Health
+5,458634,Janie,Cowart,Renton,WA,,Dyna Racing
 6,524063,Laura,Martin,Edmonds,WA,,0
-6,458921,Paula,Froke,Shoreline,WA,,Broadmark
-7,458921,Paula,Froke,Shoreline,WA,,Broadmark
+6,458921,Paula,Froke,Philadelphia,PA,,Broadmark
+7,458921,Paula,Froke,Philadelphia,PA,,Broadmark
 7,537613,Caitlyn,Brooks,Seattle,WA,,0
 8,457875,Anna,Savoie,Seattle,WA,,0
 8,524063,Laura,Martin,Edmonds,WA,,0
@@ -898,9 +898,9 @@ Place,License #,First,Last,City,State,Time,Team
 2,457875,Anna,Savoie,Seattle,WA,,0
 3,537613,Caitlyn,Brooks,Seattle,WA,,0
 4,507733,Lydia,Deese,Seattle,WA,,0
-5,418957,LaVonne,Wilson,Seattle,WA,,Team Group Health
-6,458921,Paula,Froke,Shoreline,WA,,Broadmark
-7,458634,Janie,Cowart,Seattle,WA,,Dyna Racing
+5,418957,LaVonne,Wilson,Mukilteo,WA,,Team Group Health
+6,458921,Paula,Froke,Philadelphia,PA,,Broadmark
+7,458634,Janie,Cowart,Renton,WA,,Dyna Racing
 8,524063,Laura,Martin,Edmonds,WA,,0
 
 07/19/2017 Keirin Men B/C Master Open
@@ -951,7 +951,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,247548,Aaron,Huebner,Seattle,WA,,0
 3,341488,Alexandria,Bowmer,Spokane Valley,WA,,Broadmark Capital
 3,306900,Greg,Sweney,Duvall,WA,,0
-3,439021,William,Cucco,Federal Way,WA,,Tacoma Bike Racing Team
+3,439021,William,Cucco,University Place,WA,,Tacoma Bike Racing Team
 3,331382,Michael,McGuffin,Mercer Island,WA,,Taco Time Northwest Cycling Team
 4,372038,Christine,Ball,Seattle,WA,,Team Group Health
 4,494059,Chris,Sexton,Bothell,WA,,Taco Time Northwest Cycling Team
@@ -966,22 +966,22 @@ Place,License #,First,Last,City,State,Time,Team
 6,534970,Henry,Kaeser,Redmond,WA,,0
 6,460108,Michael,Keller,Seattle,WA,,Mayhem racing
 7,497401,Amanda,SternPirlot,Vashon,WA,,0
-7,439012,Jeremy,Cucco,Federal Way,WA,,Tacoma Bike Racing Team
+7,439012,Jeremy,Cucco,University Place,WA,,Tacoma Bike Racing Team
 7,497401,Amanda,SternPirlot,Vashon,WA,,0
-7,439012,Jeremy,Cucco,Federal Way,WA,,Tacoma Bike Racing Team
-8,439021,William,Cucco,Federal Way,WA,,Tacoma Bike Racing Team
+7,439012,Jeremy,Cucco,University Place,WA,,Tacoma Bike Racing Team
+8,439021,William,Cucco,University Place,WA,,Tacoma Bike Racing Team
 8,460108,Michael,Keller,Seattle,WA,,Mayhem racing
 8,507733,Lydia,Deese,Seattle,WA,,0
 8,494059,Chris,Sexton,Bothell,WA,,Taco Time Northwest Cycling Team
-9,418957,LaVonne,Wilson,Seattle,WA,,Team Group Health
+9,418957,LaVonne,Wilson,Mukilteo,WA,,Team Group Health
 9,418560,James,McKee,Seattle,WA,,Apex Racing
-9,418957,LaVonne,Wilson,Seattle,WA,,Team Group Health
+9,418957,LaVonne,Wilson,Mukilteo,WA,,Team Group Health
 9,418560,James,McKee,Seattle,WA,,Apex Racing
 10,507733,Lydia,Deese,Seattle,WA,,0
 10,266855,Miles,Johansen,Lynnwood,WA,,Dyna Racing
 10,372038,Christine,Ball,Seattle,WA,,Team Group Health
 10,535773,Ido,Ayalon,Seattle,WA,,0
-11,458921,Paula,Froke,Shoreline,WA,,Broadmark
+11,458921,Paula,Froke,Philadelphia,PA,,Broadmark
 11,535773,Ido,Ayalon,Seattle,WA,,0
 11,537026,Kelly,Dahlin,Bellevue,WA,,0
 12,396587,Karen,Doherty,Bellevue,WA,,Seattle CCA Cycling Team
@@ -992,12 +992,12 @@ Place,License #,First,Last,City,State,Time,Team
 14,524063,Laura,Martin,Edmonds,WA,,0
 14,524063,Laura,Martin,Edmonds,WA,,0
 15,534970,Henry,Kaeser,Redmond,WA,,0
-15,458634,Janie,Cowart,Seattle,WA,,Dyna Racing
+15,458634,Janie,Cowart,Renton,WA,,Dyna Racing
 16,457875,Anna,Savoie,Seattle,WA,,0
 16,396587,Karen,Doherty,Bellevue,WA,,Seattle CCA Cycling Team
-17,458634,Janie,Cowart,Seattle,WA,,Dyna Racing
+17,458634,Janie,Cowart,Renton,WA,,Dyna Racing
 17,457875,Anna,Savoie,Seattle,WA,,0
-18,458921,Paula,Froke,Shoreline,WA,,Broadmark
+18,458921,Paula,Froke,Philadelphia,PA,,Broadmark
 DNS,537026,Kelly,Dahlin,Bellevue,WA,,0
 DNS,481557,Peter,Tsirushkin,Bellevue,WA,,0
 DNS,477301,Taylor,Kendall,Seattle,WA,,0
@@ -1034,7 +1034,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,331382,Michael,McGuffin,Mercer Island,WA,,Taco Time Northwest Cycling Team
 3,341488,Alexandria,Bowmer,Spokane Valley,WA,,Broadmark Capital
 3,494059,Chris,Sexton,Bothell,WA,,Taco Time Northwest Cycling Team
-4,439021,William,Cucco,Federal Way,WA,,Tacoma Bike Racing Team
+4,439021,William,Cucco,University Place,WA,,Tacoma Bike Racing Team
 4,306900,Greg,Sweney,Duvall,WA,,0
 5,497401,Amanda,SternPirlot,Vashon,WA,,0
 5,491914,Robert,McMurray,Seattle,WA,,0
@@ -1045,15 +1045,15 @@ Place,License #,First,Last,City,State,Time,Team
 8,494124,Lauren,Schmidt,Seattle,WA,,Seattle CCA Cycling Team
 8,247548,Aaron,Huebner,Seattle,WA,,0
 9,537026,Kelly,Dahlin,Bellevue,WA,,0
-9,439012,Jeremy,Cucco,Federal Way,WA,,Tacoma Bike Racing Team
-10,418957,LaVonne,Wilson,Seattle,WA,,Team Group Health
+9,439012,Jeremy,Cucco,University Place,WA,,Tacoma Bike Racing Team
+10,418957,LaVonne,Wilson,Mukilteo,WA,,Team Group Health
 10,477301,Taylor,Kendall,Seattle,WA,,0
 11,433194,Heather,MacKinnon,Brooklyn,NY,,All-City
 11,266855,Miles,Johansen,Lynnwood,WA,,Dyna Racing
 12,507733,Lydia,Deese,Seattle,WA,,0
 12,396587,Karen,Doherty,Bellevue,WA,,Seattle CCA Cycling Team
-12,458921,Paula,Froke,Shoreline,WA,,Broadmark
-12,458634,Janie,Cowart,Seattle,WA,,Dyna Racing
+12,458921,Paula,Froke,Philadelphia,PA,,Broadmark
+12,458634,Janie,Cowart,Renton,WA,,Dyna Racing
 12,524063,Laura,Martin,Edmonds,WA,,0
 12,537613,Caitlyn,Brooks,Seattle,WA,,0
 12,418560,James,McKee,Seattle,WA,,Apex Racing
@@ -1101,17 +1101,17 @@ Place,License #,First,Last,City,State,Time,Team
 07/12/2017 Miss and Out Women Cat 4 Elite Open
 Place,License #,First,Last,City,State,Time,Team
 1,399584,Emily,Ball,Seattle,WA,,0
-2,458921,Paula,Froke,Shoreline,WA,,Broadmark
+2,458921,Paula,Froke,Philadelphia,PA,,Broadmark
 3,534970,Henry,Kaeser,Redmond,WA,,0
 4,271333,Jackie,Craver,Seattle,WA,,VELOBODY/Bikesale.com
 5,503048,Ashley,Moore,Seattle,WA,,Hagens Berman - EY Society
 6,497401,Amanda,SternPirlot,Vashon,WA,,0
-7,458634,Janie,Cowart,Seattle,WA,,Dyna Racing
+7,458634,Janie,Cowart,Renton,WA,,Dyna Racing
 8,537613,Caitlyn,Brooks,Seattle,WA,,0
 9,526662,Kyo,Mars,Seattle,WA,,Trans National Womens Cycling Team
 10,537287,Nancy,Dahlberg,Mukilteo,WA,,0
 11,534849,Addisyn,Stout,Tacoma,WA,,Trans National Womens Cycling Team
-12,418957,LaVonne,Wilson,Seattle,WA,,Team Group Health
+12,418957,LaVonne,Wilson,Mukilteo,WA,,Team Group Health
 13,507733,Lydia,Deese,Seattle,WA,,0
 
 07/12/2017 Points Race Men A Master Open
@@ -1153,15 +1153,15 @@ DNF,377674,Matthew,Morse,Redmond,WA,,Dyna Racing
 07/12/2017 Points Race Women Cat 4 Elite Open
 Place,License #,First,Last,City,State,Time,Team
 1,399584,Emily,Ball,Seattle,WA,,0
-2,458921,Paula,Froke,Shoreline,WA,,Broadmark
+2,458921,Paula,Froke,Philadelphia,PA,,Broadmark
 3,271333,Jackie,Craver,Seattle,WA,,VELOBODY/Bikesale.com
 4,526662,Kyo,Mars,Seattle,WA,,Trans National Womens Cycling Team
-5,418957,LaVonne,Wilson,Seattle,WA,,Team Group Health
+5,418957,LaVonne,Wilson,Mukilteo,WA,,Team Group Health
 6,503048,Ashley,Moore,Seattle,WA,,Hagens Berman - EY Society
 7,507733,Lydia,Deese,Seattle,WA,,0
 8,497401,Amanda,SternPirlot,Vashon,WA,,0
 9,537613,Caitlyn,Brooks,Seattle,WA,,0
-10,458634,Janie,Cowart,Seattle,WA,,Dyna Racing
+10,458634,Janie,Cowart,Renton,WA,,Dyna Racing
 10,537287,Nancy,Dahlberg,Mukilteo,WA,,0
 10,534849,Addisyn,Stout,Tacoma,WA,,Trans National Womens Cycling Team
 10,534970,Henry,Kaeser,Redmond,WA,,0
@@ -1207,13 +1207,13 @@ Place,License #,First,Last,City,State,Time,Team
 1,416814,Pat,Miller,Sammamish,WA,,Hagens Berman-Society Consulting
 2,399584,Emily,Ball,Seattle,WA,,0
 3,271333,Jackie,Craver,Seattle,WA,,VELOBODY/Bikesale.com
-4,458921,Paula,Froke,Shoreline,WA,,Broadmark
+4,458921,Paula,Froke,Philadelphia,PA,,Broadmark
 5,534849,Addisyn,Stout,Tacoma,WA,,Trans National Womens Cycling Team
 6,537613,Caitlyn,Brooks,Seattle,WA,,0
 7,497401,Amanda,SternPirlot,Vashon,WA,,0
-8,458634,Janie,Cowart,Seattle,WA,,Dyna Racing
+8,458634,Janie,Cowart,Renton,WA,,Dyna Racing
 9,534970,Henry,Kaeser,Redmond,WA,,0
-10,418957,LaVonne,Wilson,Seattle,WA,,Team Group Health
+10,418957,LaVonne,Wilson,Mukilteo,WA,,Team Group Health
 11,503048,Ashley,Moore,Seattle,WA,,Hagens Berman - EY Society
 12,507733,Lydia,Deese,Seattle,WA,,0
 13,537287,Nancy,Dahlberg,Mukilteo,WA,,0
@@ -1291,14 +1291,14 @@ Place,License #,First,Last,City,State,Time,Team
 4,271333,Jackie,Craver,Seattle,WA,,VELOBODY/Bikesale.com
 5,497401,Amanda,SternPirlot,Vashon,WA,,0
 5,507733,Lydia,Deese,Seattle,WA,,0
-6,418957,LaVonne,Wilson,Seattle,WA,,Team Group Health
-6,458921,Paula,Froke,Shoreline,WA,,Broadmark
-7,458634,Janie,Cowart,Seattle,WA,,Dyna Racing
-7,418957,LaVonne,Wilson,Seattle,WA,,Team Group Health
+6,418957,LaVonne,Wilson,Mukilteo,WA,,Team Group Health
+6,458921,Paula,Froke,Philadelphia,PA,,Broadmark
+7,458634,Janie,Cowart,Renton,WA,,Dyna Racing
+7,418957,LaVonne,Wilson,Mukilteo,WA,,Team Group Health
 8,392792,Emily,Alexander,Seattle,WA,,Seattle CCA Cycling Team
 8,497401,Amanda,SternPirlot,Vashon,WA,,0
-9,458921,Paula,Froke,Shoreline,WA,,Broadmark
-9,458634,Janie,Cowart,Seattle,WA,,Dyna Racing
+9,458921,Paula,Froke,Philadelphia,PA,,Broadmark
+9,458634,Janie,Cowart,Renton,WA,,Dyna Racing
 
 07/05/2017 Scratch Race Men B Master
 Place,License #,First,Last,City,State,Time,Team
@@ -1339,12 +1339,12 @@ Place,License #,First,Last,City,State,Time,Team
 1,523619,Allison,Indyk,Seattle,WA,,Seattle Cancer Care Alliance Cycling Team
 2,271333,Jackie,Craver,Seattle,WA,,VELOBODY/Bikesale.com
 3,399584,Emily,Ball,Seattle,WA,,0
-4,458921,Paula,Froke,Shoreline,WA,,Broadmark
+4,458921,Paula,Froke,Philadelphia,PA,,Broadmark
 5,497401,Amanda,SternPirlot,Vashon,WA,,0
-6,458634,Janie,Cowart,Seattle,WA,,Dyna Racing
+6,458634,Janie,Cowart,Renton,WA,,Dyna Racing
 7,507733,Lydia,Deese,Seattle,WA,,0
 8,392792,Emily,Alexander,Seattle,WA,,Seattle CCA Cycling Team
-9,418957,LaVonne,Wilson,Seattle,WA,,Team Group Health
+9,418957,LaVonne,Wilson,Mukilteo,WA,,Team Group Health
 
 06/28/2017 Omnium Men Elite
 Place,License #,First,Last,City,State,Time,Team
@@ -1378,7 +1378,7 @@ DNF,324620,Curt,Johnson,Lake Forest Park,WA,,Dyna Racing
 DNF,404014,Michael,Mullen,Seattle,WA,,Taco Time Northwest Cycling Team
 DNF,411879,Gene,Wainwright,Mercer Island,WA,,0
 DNF,416609,Andrew,Bober,Seattle,WA,,0
-DNF,305711,Christopher,Soelling,Kirkland,WA,,Taco Time Northwest Cycling Team
+DNF,305711,Christopher,Soelling,Redmond,WA,,Taco Time Northwest Cycling Team
 
 06/28/2017 Omnium Women Elite
 Place,License #,First,Last,City,State,Time,Team
@@ -1390,7 +1390,7 @@ DNF,496481,Brooke,Davis,Seattle,WA,,0
 DNF,392042,Ruth,Gustafson,Edmonds,WA,,Broadmark
 DNF,494124,Lauren,Schmidt,Seattle,WA,,Seattle CCA Cycling Team
 DNF,392792,Emily,Alexander,Seattle,WA,,Seattle CCA Cycling Team
-DNF,458921,Paula,Froke,Shoreline,WA,,Broadmark
+DNF,458921,Paula,Froke,Philadelphia,PA,,Broadmark
 DNF,524063,Laura,Martin,Edmonds,WA,,0
 
 06/28/2017 Points Race Men Elite
@@ -1425,7 +1425,7 @@ DNF,404014,Michael,Mullen,Seattle,WA,,Taco Time Northwest Cycling Team
 DNF,326914,Bob,Bautista,Seattle,WA,,Apex Racing
 DNF,324620,Curt,Johnson,Lake Forest Park,WA,,Dyna Racing
 DNF,416609,Andrew,Bober,Seattle,WA,,0
-DNF,305711,Christopher,Soelling,Kirkland,WA,,Taco Time Northwest Cycling Team
+DNF,305711,Christopher,Soelling,Redmond,WA,,Taco Time Northwest Cycling Team
 
 06/28/2017 Points Race Women Elite
 Place,License #,First,Last,City,State,Time,Team
@@ -1434,7 +1434,7 @@ DNF,271333,Jackie,Craver,Seattle,WA,,VELOBODY/Bikesale.com
 DNF,341488,Alexandria,Bowmer,Spokane Valley,WA,,Broadmark Capital
 DNF,496481,Brooke,Davis,Seattle,WA,,0
 DNF,392792,Emily,Alexander,Seattle,WA,,Seattle CCA Cycling Team
-DNF,458921,Paula,Froke,Shoreline,WA,,Broadmark
+DNF,458921,Paula,Froke,Philadelphia,PA,,Broadmark
 DNF,494124,Lauren,Schmidt,Seattle,WA,,Seattle CCA Cycling Team
 DNF,524063,Laura,Martin,Edmonds,WA,,0
 DNF,507733,Lydia,Deese,Seattle,WA,,0
@@ -1485,7 +1485,7 @@ DNF,416609,Andrew,Bober,Seattle,WA,,0
 DNF,324620,Curt,Johnson,Lake Forest Park,WA,,Dyna Racing
 DNF,266855,Miles,Johansen,Lynnwood,WA,,Dyna Racing
 DNF,411879,Gene,Wainwright,Mercer Island,WA,,0
-DNF,305711,Christopher,Soelling,Kirkland,WA,,Taco Time Northwest Cycling Team
+DNF,305711,Christopher,Soelling,Redmond,WA,,Taco Time Northwest Cycling Team
 DNF,404014,Michael,Mullen,Seattle,WA,,Taco Time Northwest Cycling Team
 DNF,532380,Samuel,O'Brien,Tampa,FL,,Brihop
 DNF,235138,Bryan,Urakawa,Mercer Island,WA,,Dyna Racing
@@ -1503,7 +1503,7 @@ DNF,411879,Gene,Wainwright,Mercer Island,WA,,0
 DNF,416609,Andrew,Bober,Seattle,WA,,0
 DNF,266855,Miles,Johansen,Lynnwood,WA,,Dyna Racing
 DNF,404014,Michael,Mullen,Seattle,WA,,Taco Time Northwest Cycling Team
-DNF,305711,Christopher,Soelling,Kirkland,WA,,Taco Time Northwest Cycling Team
+DNF,305711,Christopher,Soelling,Redmond,WA,,Taco Time Northwest Cycling Team
 
 06/28/2017 Scratch Race Women Elite
 Place,License #,First,Last,City,State,Time,Team
@@ -1516,7 +1516,7 @@ DNF,507733,Lydia,Deese,Seattle,WA,,0
 DNF,496481,Brooke,Davis,Seattle,WA,,0
 DNF,494124,Lauren,Schmidt,Seattle,WA,,Seattle CCA Cycling Team
 DNF,524063,Laura,Martin,Edmonds,WA,,0
-DNF,458921,Paula,Froke,Shoreline,WA,,Broadmark
+DNF,458921,Paula,Froke,Philadelphia,PA,,Broadmark
 DNF,523619,Allison,Indyk,Seattle,WA,,Seattle Cancer Care Alliance Cycling Team
 DNF,507733,Lydia,Deese,Seattle,WA,,0
 DNF,494124,Lauren,Schmidt,Seattle,WA,,Seattle CCA Cycling Team
@@ -1524,7 +1524,7 @@ DNF,271333,Jackie,Craver,Seattle,WA,,VELOBODY/Bikesale.com
 DNF,392042,Ruth,Gustafson,Edmonds,WA,,Broadmark
 DNF,496481,Brooke,Davis,Seattle,WA,,0
 DNF,524063,Laura,Martin,Edmonds,WA,,0
-DNF,458921,Paula,Froke,Shoreline,WA,,Broadmark
+DNF,458921,Paula,Froke,Philadelphia,PA,,Broadmark
 DNF,341488,Alexandria,Bowmer,Spokane Valley,WA,,Broadmark Capital
 DNF,392792,Emily,Alexander,Seattle,WA,,Seattle CCA Cycling Team
 
@@ -1572,7 +1572,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,271333,Jackie,Craver,Seattle,WA,,VELOBODY/Bikesale.com
 3,523619,Allison,Indyk,Seattle,WA,,Seattle Cancer Care Alliance Cycling Team
 4,494124,Lauren,Schmidt,Seattle,WA,,Seattle CCA Cycling Team
-5,418957,LaVonne,Wilson,Seattle,WA,,Team Group Health
+5,418957,LaVonne,Wilson,Mukilteo,WA,,Team Group Health
 6,507733,Lydia,Deese,Seattle,WA,,0
 
 06/21/2017 Points Race Men Men 4 Elite Open
@@ -1635,10 +1635,10 @@ Place,License #,First,Last,City,State,Time,Team
 4,271333,Jackie,Craver,Seattle,WA,,VELOBODY/Bikesale.com
 5,494124,Lauren,Schmidt,Seattle,WA,,Seattle CCA Cycling Team
 6,523872,Lois,Smith,Bellevue,WA,,0
-7,418957,LaVonne,Wilson,Seattle,WA,,Team Group Health
-8,458921,Paula,Froke,Shoreline,WA,,Broadmark
+7,418957,LaVonne,Wilson,Mukilteo,WA,,Team Group Health
+8,458921,Paula,Froke,Philadelphia,PA,,Broadmark
 9,392792,Emily,Alexander,Seattle,WA,,Seattle CCA Cycling Team
-10,458634,Janie,Cowart,Seattle,WA,,Dyna Racing
+10,458634,Janie,Cowart,Renton,WA,,Dyna Racing
 11,392042,Ruth,Gustafson,Edmonds,WA,,Team Group Health
 DNS,497401,Amanda,SternPirlot,Vashon,WA,,0
 
@@ -1699,12 +1699,12 @@ Place,License #,First,Last,City,State,Time,Team
 4,271333,Jackie,Craver,Seattle,WA,,VELOBODY/Bikesale.com
 5,507733,Lydia,Deese,Seattle,WA,,0
 6,392792,Emily,Alexander,Seattle,WA,,Seattle CCA Cycling Team
-7,418957,LaVonne,Wilson,Seattle,WA,,Team Group Health
-8,458921,Paula,Froke,Shoreline,WA,,Broadmark
+7,418957,LaVonne,Wilson,Mukilteo,WA,,Team Group Health
+8,458921,Paula,Froke,Philadelphia,PA,,Broadmark
 9,392042,Ruth,Gustafson,Edmonds,WA,,Team Group Health
 10,523872,Lois,Smith,Bellevue,WA,,0
 11,497401,Amanda,SternPirlot,Vashon,WA,,0
-12,458634,Janie,Cowart,Seattle,WA,,Dyna Racing
+12,458634,Janie,Cowart,Renton,WA,,Dyna Racing
 
 06/14/2017 Points Race Men MEN 4 Elite Open
 Place,License #,First,Last,City,State,Time,Team
@@ -1756,9 +1756,9 @@ Place,License #,First,Last,City,State,Time,Team
 2,392792,Emily,Alexander,Seattle,WA,,Seattle CCA Cycling Team
 3,507733,Lydia,Deese,Seattle,WA,,0
 4,271333,Jackie,Craver,Seattle,WA,,VELOBODY/Bikesale.com
-5,418957,LaVonne,Wilson,Seattle,WA,,Team Group Health
+5,418957,LaVonne,Wilson,Mukilteo,WA,,Team Group Health
 6,396587,Karen,Doherty,Bellevue,WA,,Seattle CCA Cycling Team
-7,458921,Paula,Froke,Shoreline,WA,,Team Group Health
+7,458921,Paula,Froke,Philadelphia,PA,,Team Group Health
 8,480612,gracie,frank,Duvall,WA,,0
 DNF,399584,Emily,Ball,Seattle,WA,,0
 DNF,503048,Ashley,Moore,Seattle,WA,,Hagens Berman - EY Society
@@ -1856,12 +1856,12 @@ Place,License #,First,Last,City,State,Time,Team
 5,507733,Lydia,Deese,Seattle,WA,,0
 5,271333,Jackie,Craver,Seattle,WA,,VELOBODY/Bikesale.com
 6,271333,Jackie,Craver,Seattle,WA,,VELOBODY/Bikesale.com
-6,458921,Paula,Froke,Shoreline,WA,,Team Group Health
-7,458921,Paula,Froke,Shoreline,WA,,Team Group Health
-7,418957,LaVonne,Wilson,Seattle,WA,,Team Group Health
+6,458921,Paula,Froke,Philadelphia,PA,,Team Group Health
+7,458921,Paula,Froke,Philadelphia,PA,,Team Group Health
+7,418957,LaVonne,Wilson,Mukilteo,WA,,Team Group Health
 8,396587,Karen,Doherty,Bellevue,WA,,Seattle CCA Cycling Team
 8,396587,Karen,Doherty,Bellevue,WA,,Seattle CCA Cycling Team
-9,418957,LaVonne,Wilson,Seattle,WA,,Team Group Health
+9,418957,LaVonne,Wilson,Mukilteo,WA,,Team Group Health
 9,507733,Lydia,Deese,Seattle,WA,,0
 10,503048,Ashley,Moore,Seattle,WA,,Hagens Berman - EY Society
 10,395580,Kenda,Super,Issaquah,WA,,Hagens Berman-Society Consulting
@@ -1930,16 +1930,16 @@ Place,License #,First,Last,City,State,Time,Team
 3,507733,Lydia,Deese,Seattle,WA,,0
 3,507733,Lydia,Deese,Seattle,WA,,0
 4,392792,Emily,Alexander,Seattle,WA,,Seattle CCA Cycling Team
-4,418957,LaVonne,Wilson,Seattle,WA,,Team Group Health
-5,418957,LaVonne,Wilson,Seattle,WA,,Team Group Health
+4,418957,LaVonne,Wilson,Mukilteo,WA,,Team Group Health
+5,418957,LaVonne,Wilson,Mukilteo,WA,,Team Group Health
 5,503048,Ashley,Moore,Seattle,WA,,Hagens Berman - EY Society
 6,271333,Jackie,Craver,Seattle,WA,,Bikesale / Automattic
 6,392792,Emily,Alexander,Seattle,WA,,Seattle CCA Cycling Team
 7,364755,Hayden,Gizinski,Seattle,WA,,0
-7,458921,Paula,Froke,Shoreline,WA,,Team Group Health
+7,458921,Paula,Froke,Philadelphia,PA,,Team Group Health
 8,480612,gracie,frank,Duvall,WA,,0
 8,364755,Hayden,Gizinski,Seattle,WA,,0
-9,458921,Paula,Froke,Shoreline,WA,,Team Group Health
+9,458921,Paula,Froke,Philadelphia,PA,,Team Group Health
 9,480612,gracie,frank,Duvall,WA,,0
 
 06/07/2017 Scratch Race Men B Master
@@ -1987,10 +1987,10 @@ Place,License #,First,Last,City,State,Time,Team
 06/07/2017 Scratch Race Women Cat 4 Elite
 Place,License #,First,Last,City,State,Time,Team
 1,523619,Allison,Indyk,Seattle,WA,,Seattle Cancer Care Alliance Cycling Team
-2,418957,LaVonne,Wilson,Seattle,WA,,Team Group Health
+2,418957,LaVonne,Wilson,Mukilteo,WA,,Team Group Health
 3,271333,Jackie,Craver,Seattle,WA,,Bikesale / Automattic
 4,503048,Ashley,Moore,Seattle,WA,,Hagens Berman - EY Society
-5,458921,Paula,Froke,Shoreline,WA,,Team Group Health
+5,458921,Paula,Froke,Philadelphia,PA,,Team Group Health
 6,364755,Hayden,Gizinski,Seattle,WA,,0
 7,507733,Lydia,Deese,Seattle,WA,,0
 8,392792,Emily,Alexander,Seattle,WA,,Seattle CCA Cycling Team

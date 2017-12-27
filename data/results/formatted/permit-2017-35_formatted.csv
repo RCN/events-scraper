@@ -14,17 +14,17 @@ Place,License #,First,Last,City,State,Time,Team
 10,268330,Travis,MCCABE,Tucson,AZ,1:29:15,UnitedHealthcare Pro Cycling*
 11,222180,Tyler,MAGNER,Griffin,GA,1:29:15,Holowesko | Citadel p/b Hincapie Sportswear*
 12,334670,Andres,DIAZ CORRALES,Boise,ID,1:29:19,Cylance Cycling*
-13,272809,Ricky,RANDALL,Highland Village ,TX,1:29:19,Arapahoe Resources  Garneau
+13,272809,Ricky,RANDALL,Highland Village,TX,1:29:19,Arapahoe Resources  Garneau
 14,445034,Orlando,GARIBAY,,,1:29:20,Cylance Cycling*
 15,221975,Oscar,CLARK,Athens,GA,1:29:22,Holowesko | Citadel p/b Hincapie Sportswear*
 16,290219,Miguel,BRYON,Miami,FL,1:29:22,Holowesko | Citadel p/b Hincapie Sportswear*
 17,218355,Hunter,SNIPE GROVE,Pomona,CA,1:29:22,Cylance Cycling*
 18,178970,Mat,STEPHENS,Dallas,TX,1:29:24,Arapahoe Resources  Garneau
 19,424384,Dennis,RAMIREZ,Barnhart,MO,1:29:24,Gateway Harley-Davidson Trek U2
-20,342402,Kevin,GIRKINS,Austin,TX,1:29:24,ELBOWZ Racing pb Synergy.O
+20,342402,Kevin,GIRKINS,San Marcos,TX,1:29:24,ELBOWZ Racing pb Synergy.O
 21,286608,Eamon,FRANCK,Pacific Grove,CA,1:29:25,Crit Life
 22,200977,John,PURVIS,Parthenon,AR,1:29:25,Oklahoma Bicycle Project
-23,222542,Emerson,ORONTE,Boulder,CO,1:29:27,UCI CT: Rally Cycling
+23,222542,Emerson,ORONTE,Louisville,CO,1:29:27,UCI CT: Rally Cycling
 24,192584,Shane,KLINE,Bally,PA,1:29:30,UCI CT: Rally Cycling
 25,309409,Aldo Ino,ILESIC,Charlotte,NC,1:29:39,Crit Life
 26,431242,Pierrick,NAUD,,,1:29:53,UCI CT: Rally Cycling
@@ -38,7 +38,7 @@ Place,License #,First,Last,City,State,Time,Team
 34,470625,Trevor,O'DONNELL,,,1:32:11,Toronto Hustle
 35,240005,Kyle,PERRY,Muncie,IN,1:32:11,Texas Roadhouse Cycling Team
 36,193086,Benjamin,RENKEMA,Greenville,SC,1:32:11,SC Competitive Cyclist
-37,504799,Peter,FOERSTER,,,1:32:11,Stradalli Cycle Safetti
+37,504799,Peter,FOERSTER,Atlanta,GA,1:32:11,Stradalli Cycle Safetti
 38,311386,Maxwell,ACKERMANN,Madison,WI,1:32:11,Gateway Harley-Davidson Trek U2
 39,299155,Ryan,O'BOYLE,Shorewood,IL,1:32:11,
 40,318688,Thomas,REVARD,Carmel,IN,1:32:13,Bissell-ABG-Giant
@@ -70,7 +70,7 @@ Place,License #,First,Last,City,State,Time,Team
 66,320582,Matthew,ZIMMER,Dewitt ,IA,1:32:15,Gateway Harley-Davidson Trek U2
 67,333154,Skyler,MACKEY,Tulsa,OK,1:32:15,Oklahoma Bicycle Project
 68,160295,Frank,TRAVIESO,Athens,GA,1:32:15,Southern Crescent Cycling
-69,374617,Chad,CONLEY,Cartersville,GA,1:32:15,Pharmaco-DeepSouth pb NGCA
+69,374617,Chad,CONLEY,Atlanta,GA,1:32:15,Pharmaco-DeepSouth pb NGCA
 70,525517,Noah,SIMMS,,,1:32:15,Toronto Hustle
 71,524936,Kyle,BOORSMA,Guelph,ON,1:32:15,Toronto Hustle
 72,414951,Jacob,HENLEY,Chattanooga ,TN,1:32:15,Pharmaco-DeepSouth pb NGCA
@@ -104,8 +104,8 @@ Place,License #,First,Last,City,State,Time,Team
 04/08/2017 Criterium Men Cat 1/2/3/4 Masters 35+
 Place,License #,First,Last,City,State,Time,Team
 1,278407,Brendan,HOUSLER,Nashville,TN,38:19,I Am Racing
-2,46770,Brian,TEIPEN,Alpharetta,GA,38:19,Ridley Masters pb Reality Bikes
-3,45167,James,CARNEY,Demorest ,GA,38:19,Piedmont Cycling
+2,46770,Brian,TEIPEN,Milton,GA,38:19,Ridley Masters pb Reality Bikes
+3,45167,James,CARNEY,Demorest,GA,38:19,Piedmont Cycling
 4,222021,Emile,ABRAHAM,Atlanta,GA,38:20,Pharmaco-DeepSouth pb NGCA
 5,70612,Andrew,CRATER,Greenville ,SC,38:20,Stradalli CycleSafetti
 6,21638,Andy,LOUGHER,Atlanta,GA,38:21,Ridley Masters pb Reality Bikes
@@ -115,7 +115,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,57055,Kirk,CORSELLO,Lilburn,GA,38:22,
 11,151975,Wesley,GARLAND,Alpharetta,GA,38:22,Team Mission Source  NGCA
 12,31617,Carter,SCHMECK,Peachtree City,GA,38:22,
-13,392104,Doug,ZELL,Little Rock ,AR,38:23,Intelligentsia Coffee
+13,392104,Doug,ZELL,Lockhart,TX,38:23,Intelligentsia Coffee
 14,258337,John,STOWE,Cataula,GA,38:23,
 15,275823,Isaac,STRICKLAND,Newnan,GA,38:23,Ridley Masters pb Reality Bikes
 16,199999,Will,STOFFEL,Germantown,TN,38:24,Marx and Bensdorf Cycling Team
@@ -154,8 +154,8 @@ Place,License #,First,Last,City,State,Time,Team
 11,502030,Bryce,LEBLANC II,Metairie,LA,32:21,CSpire Fiber Cycling
 12,517149,Tate,DELOTTINVILLE,Brentwood,TN,33:44,I Am Racing
 13,476573,David,STOUT,Harvest,AL,33:59,Johnson & Hayes Physical Therap
-14,411810,Brian,YOUNG,Birmingham,AL,33:59,GSMR
-15,526160,Jeff,TURK,Atlanta,GA,33:59,
+14,411810,Brian,YOUNG,Hoover,AL,33:59,GSMR
+15,526160,Jeff,TURK,Salt Lake City,UT,33:59,
 16,506891,Timothy,JOHNSON,Anniston,AL,33:59,
 17,511203,Adar,HOROWITZ,Alpharetta,GA,33:59,Frazier Cycling Juniors
 18,473685,Haison,CAO,Ocean Springs,MS,33:59,
@@ -199,7 +199,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,487887,Thang,LUONG,St.petersburg,FL,38:54,
 10,469288,Jorge,HERNANDEZ,East Point,GA,38:54,
 11,484937,Drew,ROSEDALE,Atlanta,GA,38:55,
-12,496992,Robert,LYEW,Snellville,GA,38:55,
+12,496992,Robert,LYEW,Hartsville,SC,38:55,
 13,510080,Michael,ZINKANN,Newnan,GA,38:55,
 14,493929,Cade,LOTT,Hattiesburg,MS,38:55,
 15,478579,Artem,SHMIDT,Cumming,GA,38:55,Keenz Racing pb Mission SourceN
@@ -227,7 +227,7 @@ Place,License #,First,Last,City,State,Time,Team
 37,433330,Johnny,HALL,Woodstock,GA,39:49,GIovanni's Tile Design Racing p
 38,484347,McAben,PRINCE,Greenville,SC,39:49,PalmerCSpire Fiber Cycling
 39,418951,Stephen,HEATH,Alpharetta,GA,39:49,Frazier Cycling Juniors
-40,217539,Nathan,HARRIS,Frisco,CO,39:49,
+40,217539,Nathan,HARRIS,Spring,TX,39:49,
 41,437354,Bart,RYAN,Jackson,MS,39:49,CSpire Fiber Cycling
 42,473630,David,WATSON,Brandon,MS,39:49,CSpire Fiber Cycling
 43,524937,Tanner,BATSON,Clarkesville,GA,39:49,
@@ -299,7 +299,7 @@ Place,License #,First,Last,City,State,Time,Team
 23,493826,Lanier,NICHOLS,Auburn,AL,48:41,AlaCOMP Race Team
 24,424121,Jack,WHITE,Madison,MS,48:41,PalmerCSpire Fiber Cycling
 25,400546,Chris,ROBINSON,Atlanta,GA,48:42,
-26,378432,Scott,SLUSHER,Atlanta ,GA,48:45,Arrow Bicycle
+26,378432,Scott,SLUSHER,Atlanta,GA,48:45,Arrow Bicycle
 27,173319,Tony,ESPOSITO,Anniston,AL,48:45,Mellow Mushroom Pizza Bakers
 28,381675,Stanton,PEARSON,Jefferson,LA,48:45,PalmerCSpire Fiber Cycling
 29,201914,Adam,PINKSTON,Asheville,NC,48:46,
@@ -333,7 +333,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,359308,Richard,OBRIANT,Fuquay Varina,NC,44:50,
 9,485507,Lucas,MUNIZ,Memphis ,TN,44:50,PalmerCSpire Fiber Cycling
 10,400727,Dillon,SWAIM,Lilburn,GA,44:50,Prima Tappa Cycling pb Mansfiel
-11,272407,Timothy,KILLELEA,Chattanooga ,TN,44:50,
+11,272407,Timothy,KILLELEA,Chattanooga,TN,44:50,
 12,432532,Bryan,MUTELL,Raleigh ,NC,44:51,4D Racing
 13,282547,Nathan,SPENCE,Auburn,AL,44:51,
 14,374748,Travis,DORMAN,Panama City,FL,44:52,PalmerCSpire Fiber Cycling
@@ -423,19 +423,19 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,262479,Lauren,HALL,Cortez,CO,1:02:31,UnitedHealthcare Pro Cycling*
 2,174914,Erica,ALLAR,Demorest,GA,1:02:31,Rally Cycling*
-3,186919,Kendall,RYAN,Ventura,CA,1:02:31,Team TIBCO - Silicon Valley Bank*
+3,186919,Kendall,RYAN,Camarillo,CA,1:02:31,Team TIBCO - Silicon Valley Bank*
 4,439071,Diana,PENUELA,Garland,TX,1:02:31,UnitedHealthcare Pro Cycling*
-5,509477,Peta,MULLENS,Tulsa,OK,1:02:32,Hagens Berman | Supermint*
-6,273081,Ruth,WINDER,Lafayette,CA,1:02:32,UnitedHealthcare Pro Cycling*
-7,355078,Mandy,HEINTZ,Phoenix,AZ,1:02:33,Visit Dallas DNA Pro Cycling*
+5,509477,Peta,MULLENS,Oceanside,CA,1:02:32,Hagens Berman | Supermint*
+6,273081,Ruth,WINDER,Boulder,CO,1:02:32,UnitedHealthcare Pro Cycling*
+7,355078,Mandy,HEINTZ,Scottsdale ,AZ,1:02:33,Visit Dallas DNA Pro Cycling*
 8,170980,Samantha,SCHNEIDER,West Allis,WI,1:02:33,Team Illuminate*
 9,411833,Jamie,GILGEN,,,1:02:33,Rise Racing
 10,529662,Elizabeth,WILLIAMS,Los Altos,CA,1:02:33,Hagens Berman | Supermint*
-11,267467,Christy,KEELY,Greenville ,SC,1:02:33,
+11,267467,Christy,KEELY,Greenville,SC,1:02:33,
 12,84776,Debbie,MILNE,Greenville,SC,1:02:34,Papa John's Racing pb TREK
 13,41951,Tina,PIC,Bountiful,UT,1:02:37,Papa John's Racing pb TREK
 14,326470,Hannah,ARENSMAN,Rutherford College,NC,1:02:37,TWENTY20 Pro Cycling
-15,358569,Janelle,COLE,Rockford,MI,1:02:37,UnitedHealthcare Pro Cycling*
+15,358569,Janelle,COLE,Newaygo,MI,1:02:37,UnitedHealthcare Pro Cycling*
 16,487207,Kat,SWEATT,Birmingham,AL,1:02:37,SH!FT Racing pb St. Vincent's O
 17,291446,Daphne,KARAGIANIS,Chicago,IL,1:02:38,Velo Classic pb Stan's NoTubes
 18,404315,Tabitha,SHERWOOD,Culver,IN,1:02:38,Pastaria - Big Shark Racing Tea
@@ -457,7 +457,7 @@ Place,License #,First,Last,City,State,Time,Team
 34,288099,Stephanie,NAVE,Johnson City,TN,1:02:46,OrthoCarolina Winston Women's C
 35,367685,Nicole,MERTZ,Columbia Heights,MN,1:02:46,Velo Classic pb Stan's NoTubes
 36,413867,Danielle,CLARK,Greenville,SC,1:02:47,RTO National Women's Cycling
-37,263791,Breanne,NALDER,Murray,UT,1:02:47,UCI WPT: Visit Dallas DNA Pro C
+37,263791,Breanne,NALDER,Millcreek,UT,1:02:47,UCI WPT: Visit Dallas DNA Pro C
 38,529804,Caroline,BAUR,,,1:02:47,RMV Elgg
 39,200504,Briana,CLARK,Carmel,IN,1:02:47,First Internet Bank Cycling Tea
 40,62507,Kimberly,PETTIT,Tulsa,OK,1:02:48,Papa John's Racing pb TREK
@@ -465,7 +465,7 @@ Place,License #,First,Last,City,State,Time,Team
 42,266674,Kathryn,DONOVAN,Oxnard,CA,1:02:48,UCI WPT: Visit Dallas DNA Pro C
 43,528512,Madeleine,PARK,Denville,NJ,1:02:49,Team TIBCO - Silicon Valley Bank*
 44,528817,Ashley,BARSON,,,1:02:49,Rise Racing
-45,220876,Katherine,SHIELDS,Advance,NC,1:02:50,OrthoCarolina Winston Women's C
+45,220876,Katherine,SHIELDS,Salt Lake City,UT,1:02:50,OrthoCarolina Winston Women's C
 46,474485,Mary Emily,DAVIDSON,Mobile,AL,1:04:48,Team Pursuit
 47,180423,Colleen,GULICK,Spring City,PA,1:04:48,PICKLE JUICE PRO CYCLING TEAM
 48,440050,Nicolle,BRUDERER,Boulder,CO,1:04:48,Team TIBCO - Silicon Valley Bank*
@@ -483,7 +483,7 @@ Place,License #,First,Last,City,State,Time,Team
 60,292211,Jennifer,TETRICK,Sausalito,CA,1:04:49,Team TIBCO - Silicon Valley Bank*
 61,495744,Teresa,O SULLIVAN,Charlotte,NC,1:04:49,Dornier Racing
 62,384315,Payten,MANESS,Flower Mound,TX,1:04:49,Papa John's Racing pb TREK
-63,332072,Katie,CLOUSE,Littleton ,CO,1:04:49,UCI WPT: Visit Dallas DNA Pro C
+63,332072,Katie,CLOUSE,Park City,UT,1:04:49,UCI WPT: Visit Dallas DNA Pro C
 64,517696,Helen,MITCHELL,Milligan College,TN,1:04:49,OrthoCarolina Winston Women's C
 65,270694,Lindsey,DURST,Kirkwood,MO,1:04:49,Hollander Cycling pb ISCorp
 DNS,528744,Kassandra,KRIARAKIS,New Tecumseth,,,Rise Racing
@@ -506,7 +506,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,430394,Laura,GORDON,Evans,GA,33:32,Colavita Midatlantic Women's Te
 6,408347,Elizabeth,KIEFFER,Columbus,IN,33:32,First Internet Bank Cycling Tea
 7,460460,Kathleen,LAPORTE,Atlanta,GA,33:36,Prima Tappa Cycling pb Mansfiel
-8,391020,Gigi,CARTER,Madison,MS,33:36,
+8,391020,Gigi,CARTER,Eastsound,WA,33:36,
 9,426562,Madeline,PEARCE,Atlanta,GA,33:37,Prima Tappa Cycling pb Mansfiel
 10,443635,Beth,LOFGREN,Apison,TN,33:37,Taco Mamacita
 11,323042,Morgan,MILLER,Charleston,TN,33:37,CTH Performance Project

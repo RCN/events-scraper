@@ -31,9 +31,9 @@ Place,License #,First,Last,City,State,Time,Team
 5,433237,John Paul,Amalong,Chapel Hill,NC,,Constellation Cycling
 6,256611,Michael,Koballa,Greensboro,NC,,
 7,496762,Tyler,Philips,Greenville,NC,,
-8,375352,Will,Barnes,Raleigh,NC,,Triangle Cross Syndicate
+8,375352,Will,Barnes,Chapel Hill,NC,,Triangle Cross Syndicate
 9,407118,Edward,Jones,Raleigh,NC,,Team Spoke Cycles p/b Carolina Ale House
-10,361447,Jason,Biggs,Cary,NC,,Jigawatt Cycling p/b Carolina Ale House
+10,361447,Jason,Biggs,Raleigh,NC,,Jigawatt Cycling p/b Carolina Ale House
 11,247368,Lewis,Gaffney,Raleigh ,NC,,Triangle Cross Syndicate
 12,401507,Jakub,Augustyn,Raleigh,NC,,Berger Hardware Bikes
 13,48697,Ted,Hopkins,Wake Forest,NC,,Team Spoke Cycles
@@ -56,13 +56,13 @@ Place,License #,First,Last,City,State,Time,Team
 11,422445,Tyler,Ramer,Winston Salem,NC,,Berger Hardware Bikes
 12,307803,Robert,Smithson,Chapel Hill,NC,,Carolina Cycling
 13,517698,Nicholas,Survoy,Raleigh,NC,,Crank Arm Brewing Cycling Team
-14,392387,Keith,Vail,Cary,NC,,
+14,392387,Keith,Vail,Apex,NC,,
 15,273430,Adam,Harris,Charlotte,NC,,12th State Cycling p/B Spoke Cycles
 16,509634,Mark,Deutsch,Raleigh,NC,,Peace Love and Understanding
 17,518015,George,Worrell,Goldsboro,NC,,
 18,511841,Gabriel,Martin,Cary,NC,,Jigawatt Cycling
 19,314608,Stephon,Beaufort,Charlotte,NC,,
-20,289986,Nate,Zellmer,Cary,NC,,
+20,289986,Nate,Zellmer,Raleigh,NC,,
 21,517400,Eli,Elk,Chapel Hill,NC,,Team HammerCross
 22,415171,Ian,Bundy,Garner,NC,,Constellation Cycling
 23,0,Kyle,Shannon,,,,12th State Cycling
@@ -81,7 +81,7 @@ Place,License #,First,Last,City,State,Time,Team
 36,400568,peter,conaty,Sanford,NC,,
 37,489195,Niko,Strauss,Chapel Hill,NC,,HammerCross
 38,0,Tim,Skelding,,,,
-39,457392,Jonathan,Howell,Columbia,SC,,
+39,457392,Jonathan,Howell,Lugoff,SC,,
 40,0,Joseph,Heckman,,,,
 41,0,Felipe,Godinez,,,,
 DNP,389886,Jacob,Clayton,Raleighr,NC,,Oak City Cycling Project Race Team
@@ -95,7 +95,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,503136,Steven,Andreaus,Raleigh,NC,,Constellation Cycling
 2,205294,Marshall,Leininger,Canton,OH,,
 3,47538,Stephen,Knight,Apex,NC,,Inland Construction/Constellation
-4,332826,Derek,Bateson,Wake Forest,NC,,Spoke Cycles
+4,332826,Derek,Bateson,Raleigh,NC,,Spoke Cycles
 5,103739,Steven,Baker,Raleigh,NC,,RevolutionCycleSports p/b LoneRider Brewery
 6,393366,George,Hatcher,Fayetteville,NC,,Hawleys Bicycle World Race Team
 
@@ -129,11 +129,11 @@ Place,License #,First,Last,City,State,Time,Team
 12,350752,Robert,Bickerstaffe,Wake Forest,NC,,Team Spoke Cycles
 13,365062,Kyle,Johnston,Raleigh,NC,,Team Spoke Cycles
 DNP,264829,Adam,Long,Pittsboro,NC,,Constellation Cycling
-DNP,361447,Jason,Biggs,Cary,NC,,Jigawatt Cycling p/b Carolina Ale House
+DNP,361447,Jason,Biggs,Raleigh,NC,,Jigawatt Cycling p/b Carolina Ale House
 
 09/10/2017 Cyclo-cross Men Masters 40+ (CX 4/5) 40-99
 Place,License #,First,Last,City,State,Time,Team
-1,364930,Mark,Jakubowski,Ronkonkoma,NY,,
+1,364930,Mark,Jakubowski,Cary,NC,,
 2,366929,Craig,Thompson,Raleigh ,NC,,Jigawatt Cycling
 3,503136,Steven,Andreaus,Raleigh,NC,,Constellation Cycling
 4,439777,Bryan,Hoffman,Raleigh,NC,,Oak City Cycling Race Team
@@ -144,7 +144,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,329436,Steve,Bevington,Chapel Hill,NC,,Team HammerCross
 10,493806,phil,graves,Knoxville,TN,,
 11,4525,David,Boynton,Pittsboro,NC,,Team HammerCross
-12,331132,Don,Rose,Chapel Hill ,NC,,Team HammerCross
+12,331132,Don,Rose,Chapel Hill,NC,,Team HammerCross
 13,178456,Alain,Borthayre,Raleigh,NC,,http://www.roulersportswear.com
 14,216845,Gary,Jackson,Asheville,NC,,Velosports Racing
 15,43634,Kyle,Habecker,Durham,NC,,
@@ -159,7 +159,7 @@ Place,License #,First,Last,City,State,Time,Team
 24,541225,James,Lee,Wendell,NC,,
 25,242461,Walter,Whitfield,Winston Salem,NC,,
 26,362092,Christopher,Mumford,Chapel Hill,NC,,Team Hammer Cross
-27,457392,Jonathan,Howell,Columbia,SC,,
+27,457392,Jonathan,Howell,Lugoff,SC,,
 28,426832,Noel,Nunkovich,Chapel Hill,NC,,Team HammerCross
 29,184553,Christopher,Crandall,Raleigh,NC,,Veolia Water
 30,135046,Phillip,Singleton,Wendell,NC,,
@@ -167,7 +167,7 @@ Place,License #,First,Last,City,State,Time,Team
 32,217072,Mike,Thomas,Fayetteville,NC,,Hawleys Bicycle World Race Team
 33,541510,Barry,Elk,Chapel Hill,NC,,Team HammerCross
 DNS,541510,Barry,Elk,Chapel Hill,NC,,Team HammerCross
-DNP,207416,Gary,Calton,Lawrence,KS,,Southeast Velo Racing
+DNP,207416,Gary,Calton,Southern Pines,NC,,Southeast Velo Racing
 
 09/10/2017 Cyclo-cross Men Juniors 13-14 12-14
 Place,License #,First,Last,City,State,Time,Team
@@ -220,9 +220,9 @@ Place,License #,First,Last,City,State,Time,Team
 
 09/10/2017 Cyclo-cross Women Women CX 4/5 00-99
 Place,License #,First,Last,City,State,Time,Team
-1,531471,Paige,Bower,Wake Forest,NC,,Team Spoke Cycles
+1,531471,Paige,Bower,Raleigh,NC,,Team Spoke Cycles
 2,499116,Margaret,Tobey,Raleigh,NC,,Oak City Cycling Project Race Team
-3,0,Desiree,French,,,,
+3,458840,Desiree,French,Durham,NC,,
 4,480259,Chloe,Holzapfel,Cary,NC,,12th State Cycling
 5,434851,Anne,Amalong,Chapel Hill,NC,,Constellation Cycling
 6,516481,Stephanie,Taylor,Hampstead,NC,,

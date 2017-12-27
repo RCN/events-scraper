@@ -26,7 +26,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,244157,John,Kodin,Bellingham,WA,25:18.32,Shuksan Velo Club Race Team
 3,171544,Steve,Matson,Tacoma,WA,25:43.26,Old Town Bicycle Racing (OTB)
 4,258014,Larry,Baker,University Place,WA,26:35.56,MisFitz Cycling Team
-5,268436,Dan,Austad,Silverdale,WA,26:56.39,Tacoma Bike Racing Team
+5,268436,Dan,Austad,Port Ludlow,WA,26:56.39,Tacoma Bike Racing Team
 6,57571,Dale,Harless,Bellevue,WA,28:36.76,Apex Racing
 7,498637,John,Kay,Renton,WA,29:15.18,
 8,49537,Mark,Byrne,Lacey,WA,30:31.16,Olympia Orthopaedic Associates
@@ -56,7 +56,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,523728,Andy,Jackson,Snohomish,WA,27:09.76,Taco Time Northwest Cycling Tea
 21,416818,Stephen,Snider,Kent,WA,27:14.02,0
 22,258014,Larry,Baker,University Place,WA,27:33.02,MisFitz Cycling Team
-23,219904,Daniel,Wageman,Seattle,WA,27:36.90,Recycled Cycles Racing
+23,219904,Daniel,Wageman,Lake Tapps,WA,27:36.90,Recycled Cycles Racing
 24,466769,George,Frasier,Auburn,WA,27:52.34,Egencia
 25,457959,Erin,Hamilton,Redmond,WA,28:50.19,Audi
 DNS,239086,Thomas,Catalina,Seattle,WA,DNS,Seattle Cancer Care Alliance Cy
@@ -97,7 +97,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,526236,Larry,Peterson,Wenatchee,WA,26:29.28,
 19,496471,David,Jang,Sammamish,WA,26:31.73,
 20,526747,Adam,Heiner,Seattle,WA,26:42.28,
-21,439012,Jeremy,Cucco,Federal Way,WA,27:22.75,Seattle Cancer Care Alliance Cy
+21,439012,Jeremy,Cucco,University Place,WA,27:22.75,Seattle Cancer Care Alliance Cy
 22,158054,Joe,Huber,Seattle,WA,27:58.88,Taco Time Northwest Cycling Tea
 23,297455,Scott,Stout,Sammamish,WA,28:02.46,Hagens Berman - EY Society
 24,254001,Jeff,Nyman,Bellingham,WA,28:12.34,Shuksan Velo Club Race Team
@@ -169,7 +169,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 03/04/2017 Individual Time Trial Men Junior 9-12
 Place,License #,First,Last,City,State,Time,Team
-1,439021,William,Cucco,Federal Way,WA,30:16.12,Seattle Cancer Care Alliance Cy
+1,439021,William,Cucco,University Place,WA,30:16.12,Seattle Cancer Care Alliance Cy
 2,493335,Reid,Hu,Seattle,WA,37:10.40,Hagens Berman - EY Society
 
 03/04/2017 Individual Time Trial Women Cat 4/5 Senior
@@ -192,8 +192,8 @@ DNS,309658,Tina,Ziegler,Issaquah,WA,DNS,
 
 03/04/2017 Individual Time Trial Women Cat 4/5 Master 35+
 Place,License #,First,Last,City,State,Time,Team
-1,443146,Michelle,Murphy,Maple Valley,WA,25:43.68,
-2,236703,Lisa,Worthington,Woodinville,WA,26:54.42,VELOBODY / Bikesale
+1,443146,Michelle,Murphy,Puyallup,WA,25:43.68,
+2,236703,Lisa,Worthington,Woodinville ,WA,26:54.42,VELOBODY / Bikesale
 3,67361,Beth,Pfost,Seattle,WA,28:13.23,
 4,526881,Patty,Bredice,Kirkland,WA,28:23.72,
 5,526146,Brenda,Kasper,Bellevue,WA,28:26.15,

@@ -62,9 +62,9 @@ Place,License #,First,Last,City,State,Time,Team
 8,390719,Brandon,LEE,Oxford,MS,1:34:47,University of Mississippi
 9,387328,andrew,GUELZO,Grand Rapids,MI,1:35:12,Piedmont College
 10,481843,nick,SDRENKA,Gilberts,IL,1:35:12,Lees-McRae College
-11,435019,Drew,BLACKSTONE,North Monmouth,ME,1:35:55,Lees-McRae College
+11,435019,Drew,BLACKSTONE,North Monmouth  Me,ME,1:35:55,Lees-McRae College
 12,235804,Samuel,DOBROZSI,Loveland,OH,1:36:00,Lees-McRae College
-13,500628,Jake,GRIMES,Matthews,NC,1:36:10,Lees-McRae College
+13,500628,Jake,GRIMES,Banner Elk,NC,1:36:10,Lees-McRae College
 14,484688,Nikolai,KLOTCHKOV,Auburn,AL,1:37:58,Auburn University
 15,395493,Jonathan,COOPER,Conyers,GA,1:40:10,University of Georgia
 16,367470,Blake,NORMAN,Havana,FL,1:41:10,Florida State University
@@ -80,7 +80,7 @@ DNF,425753,Jacob,SCHWYN,Oxford,AL,,Auburn University
 08/27/2017 Cross Country Men Junior 9-18
 Place,License #,First,Last,City,State,Time,Team
 1,403859,Braxton,BRUCE,Birmingham,AL,0:48:51,Team Mugshots
-2,463959,Luke,GORDON,Birmingham,AL,0:50:11,Team Mugshots
+2,546136,Luke,GORDON,Birmingham,AL,0:50:11,Team Mugshots
 3,527398,Holland,Hardegree,Ashland,AL,0:50:15,
 4,503367,Dawson,SANDERS,Huntsville,AL,0:53:17,
 5,0,Drew,PERRY,,,0:53:58,
@@ -109,10 +109,10 @@ DNF,519519,John,ARNOLD,Auburn,AL,,Independent
 08/27/2017 Cross Country Women B
 Place,License #,First,Last,City,State,Time,Team
 1,272062,Svetlana,MACK,Silver Spring,MD,0:58:22,Lees-McRae College
-2,497036,Elizabeth,KEEFER,Jacksonville,AL,1:04:09,Auburn University
+2,497036,Elizabeth,KEEFER,Auburn,AL,1:04:09,Auburn University
 3,0,Gloria Clavijo,PERRIN,,,1:05:42,Georgia Institute of Technology
 4,539429,Hannah,CREWS,Auburn,AL,1:07:19,Auburn University
-5,538882,Kate,HOLBROOK,Baldwin,GA,1:09:26,Piedmont College
+5,439323,Kate,HOLBROOK,Baldwin,GA,1:09:26,Piedmont College
 6,538336,Madison,BEVIS,Auburn,AL,1:10:06,Auburn University
 7,388981,Vitoria L,OLIVEIRA,Barbourville,KY,1:13:43,Union College-KY
 8,485015,Dagny,PALMER,Phoenixville,PA,1:15:18,Lees-McRae College
@@ -126,7 +126,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,334258,Veronica,LAUGHTON,Lancaster,CA,1:27:35,Lees-McRae College
 4,516584,Aline,DALMEDICO,Barbourville,KY,1:31:45,Union College-KY
 5,410407,Allie,SHARP,Signal Mountain,TN,1:32:11,Auburn University
-6,442111,Kelly,MCCABE,San Antonio,TX,1:49:20,Union College-KY
+6,442111,Kelly,MCCABE,Sanantonio,TX,1:49:20,Union College-KY
 7,486154,Kayse S,CORNETT,Corbin,KY,1:24:25,Union College-KY
 
 08/27/2017 Cross Country Women Junior 9-18
@@ -185,7 +185,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,334258,Veronica,LAUGHTON,Lancaster,CA,0:00:58,Lees-McRae College
 2,516584,Aline,DALMEDICO,Barbourville,KY,0:01:52,Union College-KY
 3,486154,Kayse S,CORNETT,Corbin,KY,0:02:24,Union College-KY
-4,442111,Kelly,MCCABE,San Antonio,TX,0:03:49,Union College-KY
+4,442111,Kelly,MCCABE,Sanantonio,TX,0:03:49,Union College-KY
 
 08/26/2017 Short Track Cross Country Men C
 Place,License #,First,Last,City,State,Time,Team
@@ -243,12 +243,12 @@ Place,License #,First,Last,City,State,Time,Team
 8,486568,Ben,EDWARDS,Kennesaw,GA,0:26:03,Union College-KY
 9,235804,Samuel,DOBROZSI,Loveland,OH,0:26:08,Lees-McRae College
 10,481843,nick,SDRENKA,Gilberts,IL,0:26:17,Lees-McRae College
-11,435019,Drew,BLACKSTONE,North Monmouth,ME,0:26:30,Lees-McRae College
+11,435019,Drew,BLACKSTONE,North Monmouth  Me,ME,0:26:30,Lees-McRae College
 12,367470,Blake,NORMAN,Havana,FL,0:24:00,Florida State
 13,387328,andrew,GUELZO,Grand Rapids,MI,0:24:13,Piedmont College
 14,387159,Silas,MOOREFIELD,Statesville,NC,0:24:22,Lees-McRae College
 15,395493,Johnathon,COOPER,Conyers,GA,0:24:26,University of Georgia
-16,500628,Jake,GRIMES,Matthews,NC,0:24:32,Lees-McRae College
+16,500628,Jake,GRIMES,Banner Elk,NC,0:24:32,Lees-McRae College
 17,390719,Brandon,LEE,Oxford,MS,0:24:39,University of Mississippi
 18,484688,Nikolai,KLOTCHKOV,Auburn,AL,0:24:56,Auburn University
 19,441143,Connor,STARK,Waxhaw,NC,0:25:04,Lees-McRae College
@@ -261,8 +261,8 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,539429,Hannah,CREWS,Auburn,AL,0:13:52,Auburn University
 2,485015,Dagny,PALMER,Phoenixville,PA,0:14:07,Lees-McRae College
-3,538882,Kate,HOLBROOK,Baldwin,GA,0:14:07,Piedmont College
-4,497036,Elizabeth,KEEFER,Jacksonville,AL,0:14:09,Auburn University
+3,439323,Kate,HOLBROOK,Baldwin,GA,0:14:07,Piedmont College
+4,497036,Elizabeth,KEEFER,Auburn,AL,0:14:09,Auburn University
 5,525150,Gloria Perrin,Clavijo,Dacula,GA,0:14:10,Georgia Institute of Technology
 6,417148,Emily M,HARLESS,Russell,KY,0:15:31,Union College-KY
 7,388981,Vitoria L,OLIVEIRA,Barbourville,KY,0:18:22,Union College-KY
@@ -274,7 +274,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,174914,Erica,ALLAR,Demorest,GA,0:24:14,Piedmont College
 2,331614,Erin,SFERRAZZA,North Easton,MA,0:25:10,Lees-McRae College
 3,334258,Veronica,LAUGHTON,Lancaster,CA,0:25:31,Lees-McRae College
-4,442111,Kelly,MCCABE,San Antonio,TX,0:27:16,Union College-KY
+4,442111,Kelly,MCCABE,Sanantonio,TX,0:27:16,Union College-KY
 5,410407,Allie,SHARP,Signal Mountain,TN,0:27:25,Auburn University
 6,516584,Aline,DALMEDICO,Barbourville,KY,0:24:58,Union College-KY
 7,486154,Kayse S,CORNETT,Corbin,KY,0:24:15,Union College-KY

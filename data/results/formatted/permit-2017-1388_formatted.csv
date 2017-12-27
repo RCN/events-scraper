@@ -131,7 +131,7 @@ Place,License #,First,Last,City,State,Time,Team
 08/27/2017 Time Trial Men Men 45-49 30K
 Place,License #,First,Last,City,State,Time,Team
 1,267483,Richard,Horn,Tucson,AZ,,Aggress
-DNS,71063,Matt,McWhirter,Scottsdale ,AZ,,Jetset Racing
+DNS,71063,Matt,McWhirter,Scottsdale,AZ,,Jetset Racing
 
 08/27/2017 Time Trial Men Men 45-49 20K
 Place,License #,First,Last,City,State,Time,Team
@@ -275,8 +275,8 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/14/2017 Individual Time Trial Men Master 40-44
 Place,License #,First,Last,City,State,Time,Team
-1,392666,Bill,Karras,Mesa ,AZ,0:27:54,
-1,392666,Bill,Karras,Mesa ,AZ,0:44:12,
+1,392666,Bill,Karras,Mesa,AZ,0:27:54,
+1,392666,Bill,Karras,Mesa,AZ,0:44:12,
 DNS,222731,Matthew,Konyn,Northville,MI,DNS,
 
 05/14/2017 Individual Time Trial Men Master 45-49
@@ -334,7 +334,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/14/2017 Individual Time Trial Women Cat 1/2/3/4/5 45-49
 Place,License #,First,Last,City,State,Time,Team
-DNS,298018,Stacy,Mosora,Lisle,IL,DNS,
+DNS,298018,Stacy,Mosora,Tucson,AZ,DNS,
 
 05/14/2017 Individual Time Trial Women Cat 1/2/3/4/5 55-59
 Place,License #,First,Last,City,State,Time,Team

@@ -43,7 +43,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,215018,camie,kornely,Fort Lee,NJ,19,
 2,480567,Chanel,Zeisel,Brooklyn,NY,17,
 3,428434,Chelsea,Matias,Bronx,NY,9,
-4,489031,Rebecca,Book,Brooklyn,NY,5,
+4,489031,Rebecca,Book,Seattle,WA,5,
 5,359499,Rory,Chea,Fresh Meadows,NY,4,
 6,502644,Marcy,Cruthirds,Brooklyn,NY,0,
 
@@ -89,7 +89,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,529108,John,Gentry,Brooklyn,NY,14,
 2,529825,Zachary,Thompson,New York,NY,12,
-3,530792,Daniel,Spellman,Wyckoff,NJ,11,
+3,530792,Daniel,Spellman,New York ,NY,11,
 4,501757,Jonathan,Trevett,Brooklyn,NY,10,
 5,529749,Chris,Salucci,Brooklyn,NY,10,
 6,503307,Genelyn,Tang,Queens Village,NY,4,
@@ -179,7 +179,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 04/22/2017 Track Men Cat 5
 Place,License #,First,Last,City,State,Time,Team
-1,502089,Conor,Kennedy,Brooklynbrooklyn,NY,19,
+1,502089,Conor,Kennedy,Brooklyn,NY,19,
 2,529108,John,Gentry,Brooklyn,NY,12,
 3,514798,Matthew,Recchia,Astoria,NY,9,
 4,399887,jake,meyers,Brooklyn,NY,6,
@@ -211,7 +211,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,180423,Colleen,Gulick,Spring City,PA,19,
 2,440378,SOPHIA,SHUHAY,New Tripoli,PA,17,
 3,480567,Chanel,Zeisel,Brooklyn,NY,9,
-4,489031,Rebecca,Book,Brooklyn,NY,6,
+4,489031,Rebecca,Book,Seattle,WA,6,
 5,359499,Rory,Chea,Fresh Meadows,NY,3,
 
 04/22/2017 Track Women Cat 5
@@ -282,7 +282,7 @@ Place,License #,First,Last,City,State,Time,Team
 04/15/2017 Track Men Cat 5 Group B
 Place,License #,First,Last,City,State,Time,Team
 1,529108,John,Gentry,Brooklyn,NY,21,
-2,502089,Conor,Kennedy,Brooklynbrooklyn,NY,15,
+2,502089,Conor,Kennedy,Brooklyn,NY,15,
 3,501757,Jonathan,Trevett,Brooklyn,NY,8,
 4,530061,Thatcher,Clay,Brooklyn,NY,5,
 5,469047,Sungdo,Han,Tenafly,NJ,4,
@@ -311,7 +311,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,16225,Corey,Hilliard,New York,NY,0,
 8,458006,John,Alman,Baldwin,NY,0,
 8,420033,Ricardo,Martinez,Jackson Heights,NY,0,
-8,395757,Tyler,Ross,Laguna Niguel,CA,0,
+8,395757,Tyler,Ross,New York,NY,0,
 8,509750,Michael,Barkasi,Allentown,PA,0,
 
 04/15/2017 Track Women Cat 1/2/3
@@ -428,9 +428,9 @@ Place,License #,First,Last,City,State,Time,Team
 3,480567,Chanel,Zeisel,Brooklyn,NY,11,
 4,428434,Chelsea,Matias,Bronx,NY,5,
 5,236099,Michelle,Lee,Philadelphia,PA,4,
-6,489031,Rebecca,Book,Brooklyn,NY,2,
+6,489031,Rebecca,Book,Seattle,WA,2,
 7,407649,Rosael,Torres Davis,Brooklyn,NY,2,
-8,290222,Jenna,Latour-Nichols,Mclean ,VA,0,
+8,290222,Jenna,Latour-Nichols,Mclean,VA,0,
 8,502644,Marcy,Cruthirds,Brooklyn,NY,0,
 
 04/09/2017 Track Women Cat 5
@@ -534,7 +534,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,215018,camie,kornely,Fort Lee,NJ,17,
 2,428434,Chelsea,Matias,Bronx,NY,15,
-3,489031,Rebecca,Book,Brooklyn,NY,10,
+3,489031,Rebecca,Book,Seattle,WA,10,
 4,359499,Rory,Chea,Fresh Meadows,NY,7,
 5,502644,Marcy,Cruthirds,Brooklyn,NY,5,
 

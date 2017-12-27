@@ -9,7 +9,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,38819,Richard,Wolter,New York,NY,01:18:09,Clockwork Construction Inc./Town Cycle
 6,200872,David,Freifelder,Glenwood,NJ,01:19:15,Westwood Velo
 7,126300,Szymon,Niemotko,Columbus,NJ,01:19:35,Central Jersey Cycling Team
-8,253675,Steven,Mancuso,North Haledon,NJ,01:19:42,Cycle Craft/Bulldogs
+8,253675,Steven,Mancuso,West Milford,NJ,01:19:42,Cycle Craft/Bulldogs
 9,154993,Jurgen,Beneke,Kingston,NY,01:24:14,
 10,93139,Brian,Lariviere,Morristown,NJ,01:25:54,Cycle Craft/Bulldogs
 11,514096,Martin,Schleede,Kingston,NY,01:28:20,Bike Brothers
@@ -60,7 +60,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,0,William,Sigler,,,00:31:48,
 5,418915,Aaron,McNany,Clarks Summit,PA,00:32:00,Lackawanna Valley Racing Team
 6,518921,Codie,Cottrell,Wharton,NJ,00:32:04,
-7,425299,Adam,Furlong,Philadelphia,PA,00:33:48,
+7,425299,Adam,Furlong,Bedminster,NJ,00:33:48,
 8,491077,Frank,Amatucci,Sussex,NJ,00:34:33,Blackbear cycling
 9,0,robert,Cook,,,00:36:19,
 10,0,Cesar,Gres,,,00:37:22,
@@ -92,7 +92,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,440082,Robert,Carrizzo,Haworth,NJ,00:43:31,
 10,0,Frank,Ricciardi,,,00:45:14,
 11,492265,George,Decker,Basking Ridge,NJ,00:58:16,Liberty Cycle
-12,64565,Christopher,Byrne,Boonton,NJ,01:06:46,BYRNE International LLC
+12,64565,Christopher,Byrne,Boonton Township,NJ,01:06:46,BYRNE International LLC
 
 06/11/2017 Cross Country Men Cat 2 Singlespeed
 Place,License #,First,Last,City,State,Time,Team

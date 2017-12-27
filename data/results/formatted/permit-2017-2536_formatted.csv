@@ -3,7 +3,7 @@ Brevard College Mountain Bike Race Weekend p/b The REEB Ranch in Hendersonville 
 09/03/2017 Super D Men Collegiate C
 Place,License #,First,Last,City,State,Time,Team
 1,507276,Logan,Pelton,Tr,SC,06:04.720,
-2,486748,Matthew,Jones,South Dartmouth,MA,06:26.720,Appalachian State University
+2,486748,Matthew,Jones,Boone,NC,06:26.720,Appalachian State University
 3,336582,Brad,Sodergren,Blountville,TN,06:37.310,
 4,413357,Corey,Ross,Portage,IN,06:39.280,Lindsey Wilson College
 5,0,Ethan,Sell,,,06:39.940,
@@ -28,7 +28,7 @@ Place,License #,First,Last,City,State,Time,Team
 09/03/2017 Super D Men Collegiate B
 Place,License #,First,Last,City,State,Time,Team
 1,485700,Nathan,StClair,Statesville,NC,05:41.920,
-2,435019,Drew,Blackstone,North Monmouth,ME,06:02.950,Lees-McRae College
+2,435019,Drew,Blackstone,North Monmouth  Me,ME,06:02.950,Lees-McRae College
 3,519973,Thomas,Hardin,Auburn,AL,06:03.310,Auburn University
 4,392376,Michael,Fuerst,Winston Salem,NC,06:07.310,
 5,0,Bailey,Bryant,,,06:12.230,
@@ -104,7 +104,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,404011,Simona,Croccolo,Waitsfield,VT,07:15.420,Lees-McRae College
 8,218849,Samantha,Miranda,Valley City,OH,07:34.190,Brevard College
 9,448950,Sabrina,Bice,Lake Havasu City,AZ,07:43.920,Lindsey Wilson College
-10,442111,Kelly,McCabe,San Antonio,TX,09:00.090,Union College-KY
+10,442111,Kelly,McCabe,Sanantonio,TX,09:00.090,Union College-KY
 11,486154,Kayse,Cornett,Corbin,KY,09:18.530,Union College-KY
 12,448953,Brianna,Delamare,Providence,RI,09:45.880,Lindsey Wilson College
 
@@ -180,11 +180,11 @@ Place,License #,First,Last,City,State,Time,Team
 19,484688,Nikolai,Klotchkov,Auburn,AL,,Auburn University
 20,258439,Grayson,Brookshire,Hendersonville,NC,,Milligan College
 21,481843,nick,sdrenka,Gilberts,IL,,Lees-McRae College
-22,500628,Jake,Grimes,Matthews,NC,,Lees-McRae College
+22,500628,Jake,Grimes,Banner Elk,NC,,Lees-McRae College
 23,516065,Phillip,Christmas,Columbia,KY,,Lindsey Wilson College
 24,539501,Andrew,Sparks,Banner Elk,NC,,Lees-McRae College
-25,435019,Drew,Blackstone,North Monmouth,ME,,Lees-McRae College
-26,486748,Matthew,Jones,South Dartmouth,MA,,Appalachian State University
+25,435019,Drew,Blackstone,North Monmouth  Me,ME,,Lees-McRae College
+26,486748,Matthew,Jones,Boone,NC,,Appalachian State University
 27,441143,Connor,Stark,Waxhaw,NC,,Lees-McRae College
 28,484744,Quinn,Reeves,Tyler,TX,,Lees-McRae College
 29,392529,Brian,Sciba,Tallahassee,FL,,Milligan College
@@ -228,7 +228,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,410407,Allie,Sharp,Signal Mountain,TN,,Auburn University
 12,294895,Mason,Hopkins,Richmond,VA,,Warren Wilson College
 13,393957,Maryann,Riley,Columbia,SC,,Appalachian State University
-14,442111,Kelly,McCabe,San Antonio,TX,,Union College-KY
+14,442111,Kelly,McCabe,Sanantonio,TX,,Union College-KY
 15,486154,Kayse,Cornett,Corbin,KY,,Union College-KY
 16,448950,Sabrina,Bice,Lake Havasu City,AZ,,Lindsey Wilson College
 
@@ -295,7 +295,7 @@ Place,License #,First,Last,City,State,Time,Team
 21,485313,Christian,OBryan,London,KY,,Union College-KY
 22,441658,Chaz,Crays,Indianapolis,IN,,0
 23,428278,Kyle,Tiesler,Pegram,TN,,Milligan College
-24,412146,Eric,Hubbs,Piney Flats,TN,,King University
+24,412146,Eric,Hubbs,Bristol,TN,,King University
 25,448301,Jonathan,Breen,Encino,CA,,Georgia Institute of Technology
 26,448518,Trevor,McDonald,Tallahassee,FL,,Warren Wilson College
 27,305207,Zachary,Lowden,Cary,NC,,Brevard College
@@ -319,7 +319,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,355742,India,Waller,Durango,CO,,Warren Wilson College
 3,413117,Sydney,Wenger,Orrville,OH,,Union College-KY
 4,448956,Heather,Collman,Rockton,IL,,
-5,503351,Frida,Rnning,Cullowhee,NC,,Western Carolina University
+5,503351,Frida,Rnning,Indianapolis,IN,,Western Carolina University
 6,307916,Allison,Arensman,Brevard,NC,,Brevard College
 7,404011,Simona,Croccolo,Waitsfield,VT,,Lees-McRae College
 8,448950,Sabrina,Bice,Lake Havasu City,AZ,,Lindsey Wilson College
@@ -394,7 +394,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,539501,Andrew,Sparks,Banner Elk,NC,,Lees-McRae College
 7,540488,tyler,Orschel,Brevard,NC,,Brevard College
 8,500314,Yves,Ketterer,,,,Union College-KY
-9,412146,Eric,Hubbs,Piney Flats,TN,,King University
+9,412146,Eric,Hubbs,Bristol,TN,,King University
 10,360227,Charles,Ramsbotham,Boone,NC,,Appalachian State University
 11,484744,Quinn,Reeves,Tyler,TX,,Lees-McRae College
 12,410987,Matthew,Owen,Brevard,NC,,King University
@@ -406,17 +406,17 @@ Place,License #,First,Last,City,State,Time,Team
 18,428278,Kyle,Tiesler,Pegram,TN,,Milligan College
 19,305207,Zachary,Lowden,Cary,NC,,Brevard College
 20,481843,nick,sdrenka,Gilberts,IL,,Lees-McRae College
-21,500628,Jake,Grimes,Matthews,NC,,Lees-McRae College
+21,500628,Jake,Grimes,Banner Elk,NC,,Lees-McRae College
 22,367470,Blake,Norman,Havana,FL,,University of Florida
 23,387159,Silas,Moorefield,Statesville,NC,,Lees-McRae College
 24,516065,Phillip,Christmas,Columbia,KY,,Lindsey Wilson College
 25,395493,Jonathan,Cooper,Conyers,GA,,University of Georgia
 26,385573,Fausto,Crapiz,Dandridge,TN,,King University
 27,448477,Andrew,Baldwin,Franklin,NC,,Milligan College
-28,435019,Drew,Blackstone,North Monmouth,ME,,Lees-McRae College
+28,435019,Drew,Blackstone,North Monmouth  Me,ME,,Lees-McRae College
 29,314682,andrew,bobb,Boiling Springs,PA,,Lees-McRae College
 30,258439,Grayson,Brookshire,Hendersonville,NC,,Milligan College
-31,486748,Matthew,Jones,South Dartmouth,MA,,Appalachian State University
+31,486748,Matthew,Jones,Boone,NC,,Appalachian State University
 32,285861,Garrett,Smith,Church Hill,TN,,Milligan College
 33,392529,Brian,Sciba,Tallahassee,FL,,Milligan College
 34,486568,Ben,Edwards,Kennesaw,GA,,Union College-KY
@@ -462,10 +462,10 @@ Place,License #,First,Last,City,State,Time,Team
 10,218849,Samantha,Miranda,Valley City,OH,,Brevard College
 11,516584,Aline,Dalmedico,Barbourville,KY,,Union College-KY
 12,393957,Maryann,Riley,Columbia,SC,,Appalachian State University
-13,442111,Kelly,McCabe,San Antonio,TX,,Union College-KY
+13,442111,Kelly,McCabe,Sanantonio,TX,,Union College-KY
 14,285651,Kate,Dietrich,Prospect,KY,,King University
 15,410407,Allie,Sharp,Signal Mountain,TN,,Auburn University
 16,423254,Paige,Shook,Weaverville,NC,,Mars Hill University
 17,486154,Kayse,Cornett,Corbin,KY,,Union College-KY
-18,519139,Sophie,Allen,Asheville,NO,,Warren Wilson College
+18,519139,Sophie,Allen,Asheville,NC,,Warren Wilson College
 DNF,448950,Sabrina,Bice,Lake Havasu City,AZ,,Lindsey Wilson College

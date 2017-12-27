@@ -87,7 +87,7 @@ Place,License #,First,Last,City,State,Time,Team
 28,136867,Gus,GREIVEL,Wheat Ridge,CO,53:01,Great Divide Brewing Company
 29,148746,Juan,GUTIERREZ,Denver,CO,53:01,Local Velo
 30,10201,Brian,DUNN,Denver,CO,53:01,Great Divide Brewing Company
-31,76220,Daniel,DEPAEMELAERE,Lafayette,CO,53:02,8 Sixteen Racing
+31,76220,Daniel,DEPAEMELAERE,Denver,CO,53:02,8 Sixteen Racing
 32,95095,Brack,HATTLER,Denver,CO,53:02,Great Divide
 33,271155,Doug,GORDON,Highlands Ranch,CO,53:03,Modern Market Racing p/b GR Cap
 34,53211,Garrick,MITCHELL,Denver,CO,53:04,Palmares Racing
@@ -139,7 +139,7 @@ Place,License #,First,Last,City,State,Time,Team
 24,492544,Adam,DAWKINS,Morrison ,CO,55:42,
 25,428195,Donald,MORGAN,Tulsa,OK,55:42,TEAM PENTABIKE
 26,46642,Jim,CASTAGNERI,Littleton,CO,55:43,GR Capital Racing
-27,523131,Matthew,ROBINSON,Wheat Ridge,CO,55:43,pedal RACING
+27,523131,Matthew,ROBINSON,Denver,CO,55:43,pedal RACING
 28,301058,David,TARASI,Denver,CO,55:55,
 29,227319,Michael,WELKER,Denver,CO,56:00,Primal - Audi Denver
 30,404993,Joseph,VANDEVEN,Pueblo,CO,56:02,
@@ -158,7 +158,7 @@ DNF,62977,Mike,SMITH,Westminster,CO,,Reynolds Roofing/CRJ Racing
 08/12/2017 Criterium Men Cat 3
 Place,License #,First,Last,City,State,Time,Team
 1,487212,Matthew,KURZ,Boulder,CO,57:00,Sonic Boom p/b Lucky Pie
-2,439089,Daryl,THOMAS,Denver ,CO,57:01,Palmares racing
+2,439089,Daryl,THOMAS,Denver,CO,57:01,Palmares racing
 3,377064,Wyatt,GAULKE,Cheyenne,WY,57:01,Reynolds Roofing
 4,380802,Keith,STRAND,Denver,CO,57:01,Primal-Audi Denver
 5,345810,Henry,YORK,Monument,CO,57:02,COS Racing
@@ -188,7 +188,7 @@ Place,License #,First,Last,City,State,Time,Team
 29,49709,Rich,KLUSMAN,Lakewood,CO,@3Lap,Modern Market Racing p/b GR Cap
 DNF,386359,Andy,BENNETT,Colorado Springs,CO,,Tierra Plan Racing
 DNF,250087,Charles,CAVNESS,Denver,CO,,Primal - Audi Denver
-DNF,494178,Christian,CULPEPPER,Fort Worth,TX,,Topo Designs
+DNF,494178,Christian,CULPEPPER,Denver,CO,,Topo Designs
 DNF,278243,Aaron,SIGMAN,Highlands Ranch,CO,,Unattached
 DNF,379782,Travis,OSTROM,Denver,CO,,Primal Audi Denver
 DNF,378517,Jim,SMITTKAMP,Boulder,CO,,Houndstooth Racing
@@ -203,25 +203,25 @@ Place,License #,First,Last,City,State,Time,Team
 3,293380,Jennifer,VALENTE,San Diego,CA,1:00:33,Sho-Air TWENTY20
 4,432214,Lauretta,HANSON,Milligan College,TN,1:00:33,UnitedHealthcare
 5,300089,Skylar,SCHNEIDER,West Allis,WI,1:00:33,ISCorp p/b Progress
-6,406176,Chloe,DYGERT,Bremerton,WA,1:00:34,Sho-Air TWENTY20
+6,406176,Chloe,DYGERT,Port Orchard,WA,1:00:34,Sho-Air TWENTY20
 7,484160,Josie,TALBOT,,,1:00:34,ISCorp p/b Progress
 8,531525,Erika,Varela,,,1:00:34,CONADE - Visit M??xico - Specia
 9,419415,Megan,JASTRAB,Apple Valley,CA,1:00:34,Amy D Foundation
 10,170980,Samantha,SCHNEIDER,West Allis,WI,1:00:34,ISCorp p/b Progress
 11,275988,Emma,WHITE,Delanson,NY,1:00:34,Rally Cycling
-12,273081,Ruth,WINDER,Lafayette,CA,1:00:34,UnitedHealthcare
+12,273081,Ruth,WINDER,Boulder,CO,1:00:34,UnitedHealthcare
 13,510315,Sara,BERGEN,,,1:00:34,Rally Cycling
 14,527682,Antonieta,GAXIOLA,,,1:00:35,CONADE - Visit M??xico - Specia
-15,355078,Mandy,HEINTZ,Phoenix,AZ,1:00:35,Visit Dallas DNA Pro Cycling
+15,355078,Mandy,HEINTZ,Scottsdale ,AZ,1:00:35,Visit Dallas DNA Pro Cycling
 16,457092,Rachel,LANGDON,Louisville,KY,1:00:37,ISCorp p/b Progress
-17,230397,Shayna,POWLESS,Roseville,CA,1:00:37,Sho-Air TWENTY20
+17,230397,Shayna,POWLESS,Jacksonville,FL,1:00:37,Sho-Air TWENTY20
 18,485074,Hannah,SHELL,Saint Louis,MO,1:00:38,ISCorp p/b Progress
 19,408322,Emily,NEWSOM,Fort Worth,TX,1:00:38,Fearless Femme Racing
 20,534612,Jessica,Mundy,Louisville,CO,1:00:38,Colavita |Bianch
 21,418082,Erica,CLEVENGER,Tucson,AZ,1:00:38,Visit Dallas DNA Pro Cycling
 22,526844,Jillian,BEARDEN,Colorado Springs,CO,1:00:38,Palmares
 23,379241,Flora,YAN,Plano,TX,1:00:39,Fearless Femme Racing
-24,358569,Janelle,COLE,Rockford,MI,1:00:39,UnitedHealthcare
+24,358569,Janelle,COLE,Newaygo,MI,1:00:39,UnitedHealthcare
 25,496560,Sofia,ARREOLA NAVARRO,,,1:00:39,Sho-Air TWENTY20
 26,508146,Kendelle,HODGES,Lambertville,NJ,1:00:40,Colavita |Bianch
 27,481904,Emma,GRANT,Norwich,VT,1:00:40,Colavita|Bianchi
@@ -230,7 +230,7 @@ Place,License #,First,Last,City,State,Time,Team
 30,527683,Ana,HERNANDEZ,,,1:00:40,CONADE - Visit M??xico - Specia
 31,362328,Beth Ann,ORTON,Bend,OR,1:00:40,Amy D Foundation
 32,346358,Rachel,PLESSING,Lakewood,CO,1:00:41,ALP Cycling Racing
-33,496869,Heidi,FRANZ,Seattle,WA,1:00:41,Amy D Foundation
+33,496869,Heidi,FRANZ,Kirkland,WA,1:00:41,Amy D Foundation
 34,531527,Julyn,Aguila,,,1:00:42,CONADE - Visit M??xico - Specia
 35,527670,Ariadna,GUTIERREZ,,,1:00:42,CONADE - Visit M??xico - Specia
 36,535724,Lucy,Bechtel,,,1:00:42,Fearless Femme Racing
@@ -246,7 +246,7 @@ Place,License #,First,Last,City,State,Time,Team
 46,402574,Charlotte,BACKUS,Larkspur,CO,1:02:46,Amy D Foundation
 47,221135,Gwen,INGLIS,Lakewood,CO,1:02:46,Palmares Racing
 48,392569,Gabrielle,LEHNERT,Eugene,OR,1:02:46,V.C. Cascade / Slocum Center
-49,441168,Jenna,STAUFFER,Highlands Ranch ,CO,1:02:46,Stages
+49,441168,Jenna,STAUFFER,Highlands Ranch,CO,1:02:46,Stages
 50,0,Nina,WOLLASON,,,1:02:46,
 51,485546,Emily,JORDAN,Denver,CO,1:02:46,Palmares Racing
 DNF,121552,Julie,EMMERMAN,Boulder,CO,,Visit Dallas DNA Pro Cycling
@@ -257,10 +257,10 @@ DNF,0,Flavia,OLIVERIA,,,,Fearless Femme Racing
 Place,License #,First,Last,City,State,Time,Team
 1,262479,Lauren,HALL,Cortez,CO,57:40,UnitedHealthcare
 2,432214,Lauretta,HANSON,Milligan College,TN,57:40,UnitedHealthcare
-3,355078,Mandy,HEINTZ,Phoenix,AZ,57:40,Visit Dallas DNA Pro Cycling
+3,355078,Mandy,HEINTZ,Scottsdale ,AZ,57:40,Visit Dallas DNA Pro Cycling
 4,300089,Skylar,SCHNEIDER,West Allis,WI,57:40,ISCorp p/b Progress
 5,170980,Samantha,SCHNEIDER,West Allis,WI,57:40,ISCorp p/b Progress
-6,273081,Ruth,WINDER,Lafayette,CA,57:41,UnitedHealthcare
+6,273081,Ruth,WINDER,Boulder,CO,57:41,UnitedHealthcare
 7,418082,Erica,CLEVENGER,Tucson,AZ,57:42,Visit Dallas DNA Pro Cycling
 8,174914,Erica,ALLAR,Demorest,GA,57:43,Rally Cycling
 9,534612,Jessica,Mundy,Louisville,CO,57:43,COLAVITA/BIANCHI
@@ -270,16 +270,16 @@ Place,License #,First,Last,City,State,Time,Team
 13,496560,Sofia,ARREOLA NAVARRO,,,57:44,Sho-Air TWENTY20
 14,510315,Sara,BERGEN,,,57:44,Rally Cycling
 15,362328,Beth Ann,ORTON,Bend,OR,57:45,Amy D Foundation
-16,406176,Chloe,DYGERT,Bremerton,WA,57:45,Sho-Air TWENTY20
+16,406176,Chloe,DYGERT,Port Orchard,WA,57:45,Sho-Air TWENTY20
 17,531523,Erika,Varela,,,57:45,CONADE-Visit M?xico - Specializ
 18,457092,Rachel,LANGDON,Louisville,KY,57:45,ISCorp p/b Progress
-19,230397,Shayna,POWLESS,Roseville,CA,57:45,Sho-Air TWENTY20
+19,230397,Shayna,POWLESS,Jacksonville,FL,57:45,Sho-Air TWENTY20
 20,515165,Caroline,MANI,Colorado Springs,CO,57:45,
 21,485074,Hannah,SHELL,Saint Louis,MO,57:46,ISCorp p/b Progress
 22,346358,Rachel,PLESSING,Lakewood,CO,57:46,ALP Cycling Racing
 23,484160,Josie,TALBOT,,,57:46,ISCorp p/b Progress
 24,418050,Allison,BEVERIDGE,,,57:47,Rally Cycling
-25,358569,Janelle,COLE,Rockford,MI,57:48,UnitedHealthcare
+25,358569,Janelle,COLE,Newaygo,MI,57:48,UnitedHealthcare
 26,527682,Antonieta,GAXIOLA,,,57:48,CONADE-Visit M?xico - Specializ
 27,433550,Jasmine,SOH,Olympia,WA,57:48,V.C. Cascade / Slocum Center
 28,417020,Stephanie,Roorda,,,57:50,Sho-Air TWENTY20
@@ -292,7 +292,7 @@ Place,License #,First,Last,City,State,Time,Team
 35,121552,Julie,EMMERMAN,Boulder,CO,57:57,Visit Dallas DNA Pro Cycling
 36,538683,Astrid,GASSNER,,,57:57,COLAVITA/BIANCHI
 37,0,Georgia,CATTERICK,,,57:57,Team Illuminate
-38,496869,Heidi,FRANZ,Seattle,WA,57:57,Amy D Foundation
+38,496869,Heidi,FRANZ,Kirkland,WA,57:57,Amy D Foundation
 39,527683,Ana,HERNANDEZ,,,57:57,CONADE-Visit M?xico - Specializ
 40,280870,Jennifer,LUEBKE,Bend,OR,57:58,Visit Dallas DNA Pro Cycling
 41,275988,Emma,WHITE,Delanson,NY,58:00,Rally Cycling
@@ -306,7 +306,7 @@ Place,License #,First,Last,City,State,Time,Team
 49,485546,Emily,JORDAN,Denver,CO,59:23,Palmares Racing
 50,418537,Michelle,HENRY,Denver,CO,59:23,Palmares Racing
 51,402574,Charlotte,BACKUS,Larkspur,CO,59:23,Amy D Foundation
-52,441168,Jenna,STAUFFER,Highlands Ranch ,CO,59:23,Stages
+52,441168,Jenna,STAUFFER,Highlands Ranch,CO,59:23,Stages
 53,392569,Gabrielle,LEHNERT,Eugene,OR,59:23,V.C. Cascade / Slocum Center
 DNF,499797,Danielle,MORSHEAD,San Anselmo,CA,,
 DNF,0,Nina,WOLLASON,,,,

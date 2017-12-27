@@ -10,7 +10,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 08/20/2017 Short Track Cross Country Men Cat 1/2/3 MR 35-39
 Place,License #,First,Last,City,State,Time,Team
-1,149656,Ryan,Gamm,Bexley ,OH,,
+1,149656,Ryan,Gamm,Bexley,OH,,
 2,455781,Matt,Locke,Columbus,OH,,Paradise Garage Racing
 3,0,Kenny,Musick,,,,
 
@@ -47,7 +47,7 @@ Place,License #,First,Last,City,State,Time,Team
 08/20/2017 Short Track Cross Country Men Cat 1/2 9-99
 Place,License #,First,Last,City,State,Time,Team
 1,248089,Ben,Ortt,Fresno,OH,,
-2,149656,Ryan,Gamm,Bexley ,OH,,
+2,149656,Ryan,Gamm,Bexley,OH,,
 3,287612,Doug,Carraway,Columbus,OH,,Veloscience Cycling Team
 4,0,Besik,Gravasheli,,,,
 5,298109,Aaron,Daniels,Columbus,OH,,
@@ -69,7 +69,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,288887,William,Slutz,Massillon,OH,,Summit Freewheelers
 2,516253,Tim,Crago,Springboro,OH,,
 3,455781,Matt,Locke,Columbus,OH,,Paradise Garage Racing
-4,130669,Marco,Deshaies,The Plains,OH,,
+4,130669,Marco,Deshaies,Rockbridge,OH,,
 5,365072,Christopher,Arndt,Columbus,OH,,Paradise Garage Racing
 6,477913,Christopher,Boyle,Delaware,OH,,Paradise Garage Racing
 7,109205,Scott,Young,Millersport,OH,,Tri-Tech
@@ -87,7 +87,7 @@ Place,License #,First,Last,City,State,Time,Team
 08/20/2017 Short Track Cross Country Women Cat 1/2 9-99
 Place,License #,First,Last,City,State,Time,Team
 1,499635,Tess,Cunningham,Columbus,OH,,Paradise Garage Racing
-2,516682,Mary,Wintz,Columbus,OH,,Team Six One Four
+2,516682,Mary,Wintz,Willoughby,OH,,Team Six One Four
 3,220409,Jillian,Hall,Columbus,OH,,Queen City Wheels
 DNS,298672,Victoria,Steen,Athens,OH,,Lady Gnar Shredders
 
@@ -102,7 +102,7 @@ Place,License #,First,Last,City,State,Time,Team
 08/20/2017 Short Track Cross Country Women Cat 2 9-99
 Place,License #,First,Last,City,State,Time,Team
 1,499635,Tess,Cunningham,Columbus,OH,,Paradise Garage Racing
-2,516682,Mary,Wintz,Columbus,OH,,Team Six One Four
+2,516682,Mary,Wintz,Willoughby,OH,,Team Six One Four
 
 08/19/2017 Short Track Cross Country Men MR 40+
 Place,License #,First,Last,City,State,Time,Team
@@ -119,7 +119,7 @@ DNF,295988,Dana,Williams,Mill Valley,CA,,
 Place,License #,First,Last,City,State,Time,Team
 1,535861,Andrew,Boissiere,Marysville,OH,,Audi Cycling Team
 2,498181,Brandon,Wright,Delaware,OH,,Audi Cycling Team
-3,130669,Marco,Deshaies,The Plains,OH,,Team Athens
+3,130669,Marco,Deshaies,Rockbridge,OH,,Team Athens
 4,486702,Steve,Coss,Columbus,OH,,
 5,115124,Todd,Mees,Dublin,OH,,
 
@@ -141,6 +141,6 @@ Place,License #,First,Last,City,State,Time,Team
 1,498181,Brandon,Wright,Delaware,OH,,Audi Cycling Team
 2,535861,Andrew,Boissiere,Marysville,OH,,Audi Cycling Team
 3,477913,Christopher,Boyle,Delaware,OH,,Paradise Garage Racing
-4,130669,Marco,Deshaies,The Plains,OH,,
+4,130669,Marco,Deshaies,Rockbridge,OH,,
 5,205294,Marshall,Leininger,Canton,OH,,
 6,539223,Kathleen,Fahey,Delaware,OH,,Paradise Garage Racing

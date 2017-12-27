@@ -20,7 +20,7 @@ DNP,371226,David,BALLI,Philadelphia,PA,00:00:00.00,QCW Cycling p.b. Breakawaybik
 DNP,178966,Michael,CHAUNER,West Chester,PA,00:00:00.00,PA Lightning
 DNP,47473,Chris,CHONG TENN,Corona,NY,00:00:00.00,CRCA - Diehard
 DNP,164375,Brent,HINKLE,Wallingford,PA,00:00:00.00,Active Yards
-DNP,341040,Eran,PREBLE,Philadelphia ,PA,00:00:00.00,Integrated Sports Medicine p/b
+DNP,341040,Eran,PREBLE,Newark,DE,00:00:00.00,Integrated Sports Medicine p/b
 DNP,428864,Jeffrey,WATTS,Saint Peters,PA,00:00:00.00,Blue Bell Private Wealth Manag
 DNP,460441,Alex,LIGHTMAN,Brooklyn,NY,00:00:00.00,
 
@@ -45,15 +45,15 @@ Place,License #,First,Last,City,State,Time,Team
 17,476760,Ben,DOUGLAS,Bloomfield,NJ,00:00:00.00,Montclair Bikery Development T
 18,424211,Juan,CRUZ,Yonkers,NY,00:00:00.00,CRCA/Dave Jordan Racing
 19,509841,Jon,TZE,Ridgewood,NJ,00:00:00.00,Montclair Bikery Development T
-20,505712,Leonardo,LOPEZ,Edison ,NJ,00:00:00.00,Liberty cycles
-21,505277,Brendan,GRAHAM,Westchester,PA,00:00:00.00,Cadence Racing
+20,505712,Leonardo,LOPEZ,Edison,NJ,00:00:00.00,Liberty cycles
+21,505277,Brendan,GRAHAM,Philadelphia,PA,00:00:00.00,Cadence Racing
 22,435072,Douglass,GYATT,Woodbridge,VA,00:00:00.00,PoWER
 23,461080,Christopher,KEOSIAN,Salisbury,MD,00:00:00.00,University of Maryland
 24,396855,Matthew,MANGAN,Philadelphia,PA,00:00:00.00,Cadence Racing
 25,536548,Scott,MITCHELL,Blue Bell,PA,00:00:00.00,
 26,0,Kelly,RILEY,,,00:00:00.00,
 27,532786,Charles,RUSSO,Langhorne,PA,00:00:00.00,
-28,500289,Kyle,SAMMON,Bradley Beach,NJ,00:00:00.00,
+28,500289,Kyle,SAMMON,Lancaster,PA,00:00:00.00,
 29,102332,Daniel,SHELANSKEY,Pitman,NJ,00:00:00.00,Caffeinated Cyclist Racing
 30,54122,Michael,Wolfe,Le Claire,IA,00:00:00.00,PSCC
 31,466949,James,MACMURRAY,Hockessin,DE,00:00:00.00,
@@ -67,7 +67,7 @@ Place,License #,First,Last,City,State,Time,Team
 39,439831,Travis,GEISER,Wayne,PA,00:00:00.00,Zen Masters
 40,358134,Tim,HASSALL,New York,NY,00:00:00.00,Woolco foods
 41,298278,Alfred,HOWARD,Philadelphia,PA,00:00:00.00,Major Taylor  Cycling Club - P
-42,507639,Carlos Gabriel,ACAJABON,Carlisle ,PA,00:00:00.00,
+42,507639,Carlos Gabriel,ACAJABON,New Cumberland,PA,00:00:00.00,
 DNS,521719,Nicholas,BASALYGA,Philadelphia,PA,00:00:00.00,In The Saddle
 DNS,440133,William,GEIB,Wilmington,DE,00:00:00.00,CS Velo
 DNS,459417,Ferdinand,HAMADA,Bernardsville,NJ,00:00:00.00,Liberty Cycle
@@ -87,11 +87,11 @@ Place,License #,First,Last,City,State,Time,Team
 9,384072,Angelo,CALILAP,Brooklyn,NY,00:00:00.00,The 5th Floor NYC
 10,420216,Elliot,OLSEN,Eatontown,NJ,00:00:00.00,Direct Contract Packaging-Bici
 11,472559,Anthony,CAO,Ardsley,NY,00:00:00.00,New York University
-12,411044,Wanya,CAVE,Collingdale,PA,00:00:00.00,Tri-State Velo / Amoroso's Rac
+12,411044,Wanya,CAVE,Philadelphia,PA,00:00:00.00,Tri-State Velo / Amoroso's Rac
 13,379369,Tom,REEB,Philadelphia,PA,00:00:00.00,Bicycle Therapy
 14,53275,Juanpablo,JIMENEZ,South Plainfield,NJ,00:00:00.00,Liberty Cycle
 15,283856,Steven R.,GARCIA,Willingboro,NJ,00:00:00.00,CS Velo
-16,324134,Matthew,MORY,Philadelphia,PA,00:00:00.00,QCW Cycling p.b. Breakawaybike
+16,324134,Matthew,MORY,Mesa,AZ,00:00:00.00,QCW Cycling p.b. Breakawaybike
 17,392303,Louisgie,SHOY,Roslyn,NY,00:00:00.00,Mineola Bicyle Racing Team
 18,357870,Owen,CAPRELL,New York,NY,00:00:00.00,The 5th Floor NYC
 19,524917,Jerry,RODRIGUEZ,Fresh Meadows,NY,00:00:00.00,cuevas cycling development
@@ -105,14 +105,14 @@ Place,License #,First,Last,City,State,Time,Team
 27,473253,Lwichy,JIMENEZ,New Brunswick,NJ,00:00:00.00,Karma Racing Team
 28,197138,Michael,HENASEY,Haddonfield,NJ,00:00:00.00,
 29,334928,Lindy,BARILE,Sinking Spring,PA,00:00:00.00,CS Velo
-30,256465,Nick,BRADFORD,Alexandria,VA,00:00:00.00,NCVC/UnitedHealthcare
-31,440100,James,ENGLERT,Seattle,WA,00:00:00.00,
+30,256465,Nick,BRADFORD,Baltimore,MD,00:00:00.00,NCVC/UnitedHealthcare
+31,440100,James,ENGLERT,Maplewood,NJ,00:00:00.00,
 32,498287,Wes,EVASICK,Newark,DE,00:00:00.00,
 33,52288,Mihael,GINGHINA,Dobbs Ferry,NY,00:00:00.00,CRCA / Team VESELKA p/b Cafe G
 34,397656,Elana,IACIOFANO,New York,NJ,00:00:00.00,Team Marty's
 35,477804,Zoltan,KIS FUGEDI,Maspeth,NY,00:00:00.00,Quevas cycling development
 36,226750,Dan,LICHTENBERGER,Wilmington,DE,00:00:00.00,Team FEC p/b Trek Bikes
-37,383816,Hernan,LUCERO,Hicksville ,NY,00:00:00.00,Mineola Bicycle Racing  Team
+37,383816,Hernan,LUCERO,Hicksville,NY,00:00:00.00,Mineola Bicycle Racing  Team
 38,57875,Luigi,LUCIANO,Staten Island,NY,00:00:00.00,Healthy and Happy Racing
 DNS,376313,James,D'ANTONIO,Mickleton,NJ,00:00:00.00,Action Wheels
 DNS,524918,Miguel,GOMEZ,Fresh Meadows,NY,00:00:00.00,CUEVAS CYCLING DEVELOPMENT/ROA

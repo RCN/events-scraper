@@ -26,9 +26,9 @@ Place,License #,First,Last,City,State,Time,Team
 6,62978,Christopher,HOPE,West Deptford,NJ,20:36.09,PSRacing/BTB
 7,495687,David,BLEAKLEY,Howell,NJ,20:45.21,Five Four Sports/Cycles 54
 8,308257,Chris,DAWSON,Hillsborough,NJ,20:46.07,Redlined Racing
-9,418220,Peter,KIERNAN,Burlington ,CT,20:51.24,Benidorm Bikes/Eastern Bloc C.C
+9,418220,Peter,KIERNAN,Burlington,CT,20:51.24,Benidorm Bikes/Eastern Bloc C.C
 10,493740,Daniel,IACHETTA,Toms River,NJ,20:53.44,Beachwood Bicycles
-11,523099,James,GRIFFIN,East Windsor,NJ,21:06.79,Team B3 Cycling
+11,377316,James,GRIFFIN,East Windsor,NJ,21:06.79,Team B3 Cycling
 12,482578,Anthony,PROCIDA,Monroeville,NJ,21:47.67,
 13,258649,Kevin,ENG,Roxbury,NJ,22:11.00,Team Bulldog/Cycle Craft
 14,458172,Frank,LUKENS,Media,PA,23:38.93,team FEC p/b TREK bikes
@@ -37,7 +37,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,396025,Pj,BOTTOMS,Newton,NJ,20:20.71,skylands cycling
 2,45870,Michael,ROSENHAUS,Morristown,NJ,20:24.14,Central Jersey Cycling Team
-3,192230,Mark,COWIN,Frederica ,DE,21:02.73,Pro Pedals Racing
+3,192230,Mark,COWIN,Frederica,DE,21:02.73,Pro Pedals Racing
 4,398392,John,PIPER,Minotola,NJ,21:07.56,VR2209
 5,141829,Steve,SAMBRANO,Lansdale,PA,21:30.46,Guy's Racing Club
 6,122022,Bob,JAGGARD,Franklinville,NJ,21:43.23,Pro Pedals Racing Team
@@ -50,7 +50,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,307043,Zheren,YANG,Hillsborough,NJ,18:38.91,Columbia University
 5,300110,David,GARDNER,Milford,NJ,18:41.89,TorcUP cycling
 6,473073,David,PHIMSIPASOM,North Plainfield,NJ,19:54.48,Westwood Velo
-DNS,192230,Mark,COWIN,Frederica ,DE,,Pro Pedals Racing
+DNS,192230,Mark,COWIN,Frederica,DE,,Pro Pedals Racing
 DNS,442929,Collin,TELLECHEA,Medford,NJ,,Tri State Velo
 
 06/17/2017 Time Trial Men Juniors 13-14
@@ -109,14 +109,14 @@ Place,License #,First,Last,City,State,Time,Team
 14,219524,Bruce,LAWRENCE,Bristow,VA,23:41.23,Blue Suit Pacers
 15,482578,Anthony,PROCIDA,Monroeville,NJ,24:52.07,
 16,173333,Steve,BARNES,Phoenixville,PA,25:46.48,Guys Racing Club
-17,64565,Christopher,BYRNE,Boonton,NJ,26:32.90,BYRNE International LLC
-DNF,298221,Terry,DEWANE,San Anselmo,CA,,B-RAD Cycling
+17,64565,Christopher,BYRNE,Boonton Township,NJ,26:32.90,BYRNE International LLC
+DNF,298221,Terry,DEWANE,San Rafael,CA,,B-RAD Cycling
 
 06/17/2017 Time Trial Men Masters 65-99
 Place,License #,First,Last,City,State,Time,Team
 1,59096,Steven,PETOUVIS,Long Valley,NJ,20:47.63,Liberty Cycle
 2,18404,Jim,KAELI,Rockaway,NJ,20:59.96,Colavita Racing Inc
-3,70511,Robert,CASCIATO,Chester Springs,PA,21:22.51,PA Masters
+3,70511,Robert,CASCIATO,Chestersprings,PA,21:22.51,PA Masters
 4,0,Richard,BIEBEL,,,21:30.35,CRCA/Foundation
 5,472448,Tom,PEACOCK,Media,PA,22:15.79,Team FEC p/b Trek Bikes
 6,283492,James,BADIA,Cold Spring Harbor,NY,22:42.79,Triangle cyclists
@@ -127,7 +127,7 @@ Place,License #,First,Last,City,State,Time,Team
 06/17/2017 Time Trial Men Juniors 9-12
 Place,License #,First,Last,City,State,Time,Team
 1,494054,Frank,VILLANI,Long Valley,NJ,26:52,Team Somerset
-2,504757,Thomas,BYRNE,Boonton Township ,NJ,36:47.19,BYRNE International LLC
+2,504757,Thomas,BYRNE,Boonton Township,NJ,36:47.19,BYRNE International LLC
 
 06/17/2017 Time Trial Women Cat4/5 Non TT
 Place,License #,First,Last,City,State,Time,Team
@@ -139,7 +139,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,425365,Marjory,MCCOY,Cherry Hill,NJ,25:50.03,PSRacing/BTB
 7,525440,Kristine,TANJUTCO,Cherry Hill,NJ,26:51.15,Pro Pedals Racing
 8,501105,Rebecca,FELDMAN,Morristown,NJ,27:56.01,Team Martys
-9,507856,Ellen,HARDY,Boonton Township ,NJ,29:40.27,BYRNE International LLC
+9,507856,Ellen,HARDY,Boonton Township,NJ,29:40.27,BYRNE International LLC
 10,344488,Ixsa,GOLLIHUR,Sicklerville,NJ,31:12.10,Peddlers Shop Cycling Club
 11,0,Andrea,KEATING,,,32:11.33,Roll the Dice Racing
 DNS,411211,Mary,FANELLI LUND,Berwyn,PA,,Sturdy Girl

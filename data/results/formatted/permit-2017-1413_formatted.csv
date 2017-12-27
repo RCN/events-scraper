@@ -13,7 +13,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/27/2017 Time Trial Men Cat 1/2/3/4/5 TTT 4 Person 140+
 Place,License #,First,Last,City,State,Time,Team
-1,266432,Matt,Cuttler,Venice,CA,47:42.3,
+1,266432,Matt,Cuttler,Brooklyn,NY,47:42.3,
 1,22423,Anthony,Manzella,Los Angeles,CA,47:42.3,
 1,367394,Chad,Moston,Los Angeles,CA,47:42.3,
 1,200063,Matthew,Wikstrom,Los Angeles,CA,47:42.3,
@@ -33,7 +33,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,129138,Greg,Leibert,Venice Beach,CA,50:23.2,
 3,364697,MICHAEL,PENTA,Thousand Oaks,CA,50:23.2,
 4,77451,David,Gibson,Anaheim,CA,53:16.2,
-4,1841,Michael,Araluce,Santa Ana,CA,53:16.2,
+4,1841,Michael,Araluce,Tustin,CA,53:16.2,
 4,55356,James,Kalasky,Tustin,CA,53:16.2,
 4,170538,Dan,Lader,Orange,CA,53:16.2,
 5,59706,Todd,Barker,Long Beach,CA,53:30.0,
@@ -102,7 +102,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,256963,Max,Affarano,San Diego,CA,51:51.3,
 2,289692,Tim,Page,Pacific Beach,CA,51:51.3,
 3,458571,Adam,Sjol,Chino Hills,CA,56:31.9,
-3,493859,Jay,Lochhead,Irvine,CA,56:31.9,
+3,493859,Jay,Lochhead,Dana Point,CA,56:31.9,
 4,193022,Daniel,Vinson,Murrieta,CA,58:54.6,
 4,195754,Tim,Coleman,Murrieta,CA,58:54.6,
 DNS,289685,Jordi,Conrado,Placentia,CA,,
@@ -127,7 +127,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/27/2017 Time Trial Men Cat 1/2/3/4/5 TTT 4 Person Open
 Place,License #,First,Last,City,State,Time,Team
-1,308633,Jason,schutz,Carlsbad,CA,48:36.2,
+1,308633,Jason,schutz,Oceanside,CA,48:36.2,
 1,533618,Jan,Bretschneider,Carlsbad,CA,48:36.2,
 1,526426,Chris,Pearson,Carlsbad,CA,48:36.2,
 1,523421,Topher,Riley,Cardiff By The Sea,CA,48:36.2,
@@ -138,7 +138,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,383998,Thomas,Rennier,Los Angeles,CA,49:19.5,
 3,456862,Matthieu,Delcourt,Los Angeles,CA,49:19.5,
 3,235849,Zachary,LaBry,Los Angeles,CA,49:19.5,
-3,458095,Monty,Zuniga,Los Angeles ,CA,49:19.5,
+3,458095,Monty,Zuniga,Los Angeles,CA,49:19.5,
 4,394653,Michael,Carilli,Boron,CA,50:07.3,
 4,524192,Matthew,Perry,Goleta,CA,50:07.3,
 4,534196,Sean,Harrington,Goleta,CA,50:07.3,
@@ -146,8 +146,8 @@ Place,License #,First,Last,City,State,Time,Team
 5,498676,Michael,Muhney,Sherman Oaks,CA,51:56.3,
 5,434826,Austen,Czapla,Burbank ,CA,51:56.3,
 5,488893,Andrew,Engel,Los Angeles,CA,51:56.3,
-5,422846,Jonathan,Perez,Ventura ,CA,51:56.3,
-6,533090,Clint,Shaffer,Orange,CA,53:10.6,
+5,422846,Jonathan,Perez,Ventura,CA,51:56.3,
+6,533090,Clint,Shaffer,Orang,CA,53:10.6,
 6,178778,Ryan,Mongan,Orange,CA,53:10.6,
 6,534092,Hector,Venturino,Anaheim,CA,53:10.6,
 6,11513,Steve,Ferreira,Rowland Heights,CA,53:10.6,

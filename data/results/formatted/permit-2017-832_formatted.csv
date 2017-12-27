@@ -17,14 +17,14 @@ Place,License #,First,Last,City,State,Time,Team
 13,56793,C,Bushover,Kenmore,NY,3:01:19,Handlebars Cycle Company
 14,431612,Matthew,Ronan,Amherst,NY,3:01:21,Independent Health
 15,353870,Timothy,Paul,Mount Morris,NY,3:01:21,Once Again Nut Butter/LCC
-16,316474,John,Holden,Lamar,MO,3:01:23,Nalgene / Borah Teamwear Cycling
+16,316474,John,Holden,Fairport,NY,3:01:23,Nalgene / Borah Teamwear Cycling
 17,476426,Patrick,Elliott,,,3:01:25,Team PBR p/b FindlayLaw.ca
 18,230661,Daniel,Barney,Fairport,NY,3:01:28,
 19,396644,Robert,Hengel,North Tonawanda,NY,3:01:33,Buffalo Bicycling Club
 20,424110,Sean,Meyer,Pittsford,NY,3:01:43,Nalgene / Borah Teamwear Cycling
 21,376524,Cory,Kuhns,Victor,NY,3:01:52,Team Towpath powered by Rochester Solar
-22,382897,Garrett,Lucas,Nunda ,NY,3:01:57,Once Again Nut Butter/LCC
-23,41001,Forest,Reid,Deerfield,MA,3:02:02,HUP United
+22,382897,Garrett,Lucas,Nunda,NY,3:01:57,Once Again Nut Butter/LCC
+23,41001,Forest,Reid,Webster,NY,3:02:02,HUP United
 24,0,Andrew,Auld,,,3:07:55,Team PBR p/b Findlaylaw.ca
 25,191088,Dan,Burgess,Rochester,NY,3:09:09,Cyclewerx of Rochester
 DNF,275435,Corey,Knowles,Hamburg,NY,DNF,Buffalo Bicycling Club
@@ -53,7 +53,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,155794,Jim,Elsner,Apalachin,NY,1:29:08,Tioga Velo
 2,355734,Tim,Brundage,Avon,NY,1:29:08,Cyclewerx of Rochester
 3,0,Lucho,Rodriguez,,,1:29:08,Talleres Roberto Rodrguez - Guatemala
-4,534454,Patrick,Brown,Fort Johnson,NY,1:29:08,
+4,534454,Patrick,Brown,Scranton,PA,1:29:08,
 5,508289,Robert,Leipler,East Aurora,NY,1:29:08,Tom's Pro Bike
 6,526368,Zachary,Duris,Henrietta,NY,1:29:08,Full Moon Vista
 7,0,Kevin,Turner,,,1:29:08,Team PBR p/b FindlayLaw.ca
@@ -92,7 +92,7 @@ Place,License #,First,Last,City,State,Time,Team
 40,427752,Zachary,Shine,Geneseo,NY,1:39:56,Once Again Nut Butter/LCC
 41,515485,Andrew,Schuyler,Lyons,NY,1:39:56,GVCC
 42,423481,Robert,Hoppough,Honeoye,NY,1:40:00,Once Again Nut Butter/LCC
-43,465847,Matthew,Yacuzzo,Leroy,NY,1:40:04,Once Again Nut Butter/LCC
+43,465847,Matthew,Yacuzzo,Le Roy,NY,1:40:04,Once Again Nut Butter/LCC
 44,443956,Bill,Anderson,Sonyea,NY,1:42:22,Once Again Nut Butter/LCC
 45,258049,Andrew F,Emborsky,East Aurora,NY,1:45:25,Once Again Nut Butter/LCC
 46,0,Michael,Haywood,,,1:52:42,
@@ -162,7 +162,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 07/23/2017 Road Race  Gran Fondo
 Place,License #,First,Last,City,State,Time,Team
-1,454565,Terry,Rice,Columbia,MO,4:06:26,Silverspokes Cycling Club
+1,454565,Terry,Rice,Denver,CO,4:06:26,Silverspokes Cycling Club
 2,0,Rick,Neuberger,,,4:06:27,
 3,0,Anthony,Macula,,,4:08:36,Livingston Cycling Club
 4,56804,Robert,Andrew,Boulder,CO,4:17:11,
@@ -201,7 +201,7 @@ Place,License #,First,Last,City,State,Time,Team
 07/22/2017 Criterium Men Pro/Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
 1,272704,Julian,Georg,Syracuse,NY,0:59:36,Syracuse University
-2,316474,John,Holden,Lamar,MO,0:59:36,Nalgene / Borah Teamwear Cycling
+2,316474,John,Holden,Fairport,NY,0:59:36,Nalgene / Borah Teamwear Cycling
 3,395334,Daniel,Mullen,Philadelphia,PA,0:59:36,QCW Cycling p.b. Breakawaybikes.com
 4,401577,Steven,Mongielo,Buffalo,NY,0:59:36,Buffalo Bicycling Club
 5,50510,Todd,Scheske,Scottsville,NY,0:59:36,Legaci Cycling Productions
@@ -224,7 +224,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,345510,Marc,Kingsley,Cooperstown,NY,2 Laps,
 DNF,233485,Jake,Castor,Springwater,NY,DNF,Once Again Nut Butter/LCC
 DNF,184529,Eric,Curtis,Kenmore,NY,DNF,Projekt
-DNF,382897,Garrett,Lucas,Nunda ,NY,DNF,Once Again Nut Butter/LCC
+DNF,382897,Garrett,Lucas,Nunda,NY,DNF,Once Again Nut Butter/LCC
 
 07/22/2017 Criterium Men Master Master 50-99
 Place,License #,First,Last,City,State,Time,Team
@@ -280,7 +280,7 @@ Place,License #,First,Last,City,State,Time,Team
 21,493260,Joseph,Sims,Fairport,NY,0:27:40,EFPR Group - TREK
 22,530660,Joshua,Akins,Hermon,NY,0:27:40,
 23,529227,Benjamin,Kuch,Buffalo,NY,0:27:40,Tom's Pro Bike
-24,534454,Patrick,Brown,Fort Johnson,NY,0:27:40,
+24,534454,Patrick,Brown,Scranton,PA,0:27:40,
 25,456467,Shannon,Connell,Rochester,NY,0:27:40,Tryon Bike / Hoselton Auto Mall
 26,261545,Joshua,Gonsenhauser,Rochester,NY,0:27:40,Cyclewerx of Rochester
 27,517190,Paul,Sims,Fairport,NY,0:27:40,EFPR Group - TREK
@@ -306,7 +306,7 @@ Place,License #,First,Last,City,State,Time,Team
 47,258049,Andrew F,Emborsky,East Aurora,NY,0:27:40,Once Again Nut Butter/LCC
 48,486546,Ethan,Carney,Champaign,IL,0:28:17,
 49,398416,Jesse,Corum,Rochester,NY,1 Lap,Pete's Wheels Cycling Team
-50,513528,Jeff,Sipos,,,1 Lap,Campus WheelWorks
+50,513528,Jeff,Sipos,,NY,1 Lap,Campus WheelWorks
 51,468821,Douglas,Pippin,Rochester,NY,2 Laps,
 
 07/22/2017 Criterium Men Cat 3/4
@@ -320,7 +320,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,424960,Stephen,D'Amico,Spencerport,NY,0:42:39,Premium Mortgage Cycling
 8,501520,Alison,Merner,Buffalo,NY,0:42:39,Nickel City Cycles
 9,184529,Eric,Curtis,Kenmore,NY,0:42:39,Projekt
-10,382897,Garrett,Lucas,Nunda ,NY,0:42:39,Once Again Nut Butter/LCC
+10,382897,Garrett,Lucas,Nunda,NY,0:42:39,Once Again Nut Butter/LCC
 11,431612,Matthew,Ronan,Amherst,NY,0:42:39,Independent Health
 12,233485,Jake,Castor,Springwater,NY,0:42:39,Once Again Nut Butter/LCC
 13,351606,Craig,Burbules,Corfu,NY,0:42:39,TBS Racing P/B Champion Systems

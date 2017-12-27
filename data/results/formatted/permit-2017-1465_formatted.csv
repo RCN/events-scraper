@@ -31,7 +31,7 @@ DNF,337774,Charlie,Velez,El Dorado Hills,CA,,Data Driven Athlete
 06/11/2017 Road Race Men Cat 1/2/3 Masters 35-99
 Place,License #,First,Last,City,State,Time,Team
 1,220196,Christopher,Coble,Mill Valley,CA,,The Olympic Club
-2,186350,Jonathan,Baker,Chico,CA,,Chico Cycling Team
+2,186350,Jonathan,Baker,Seattle,WA,,Chico Cycling Team
 3,230258,will,riffelmacher,San Francisco,CA,,THE OLYMPIC CLUB
 4,208769,Hanns,Detlefsen,Concord,CA,,Thirsty Bear p/b Akamai
 5,141844,Josh,Dapice,Berkeley,CA,,Team Specialized/Touchstone Racing
@@ -47,7 +47,7 @@ DNF,196417,Scott,Giles,Monterey,CA,,Schnur Racing
 DNF,20105,Bill,Laddish,Castro Valley,CA,,KaiVelo Racing
 DNF,414636,James,Rainbow,San Francisco,CA,,Pen Velo Racing/Summit Bicycles
 DNF,304360,Oliver,Ryan,Mill Valley,CA,,Team Mike's Bikes p/b Equator Coffees
-DNF,384037,Robert,Whittier,Denver,CO,,
+DNF,384037,Robert,Whittier,San Francisco,CA,,
 
 06/11/2017 Road Race Men Cat 1/2/3 Masters 45-99
 Place,License #,First,Last,City,State,Time,Team
@@ -73,7 +73,7 @@ DNF,188033,Troy,Porter,San Jose,CA,,Palmer Cycling
 DNF,35297,Nick,Theobald,Burlingame,CA,,Peet's Coffee Racing
 DNF,0,Mark,Whyman,,,,Rapha
 DNF,392707,Patrick,Norville,Orangevale,CA,,
-DNF,179386,Daniel,Martin,Pleasanton,CA,,Chronos Racing p/b Easton Cycling
+DNF,179386,Daniel,Martin,Loomis,CA,,Chronos Racing p/b Easton Cycling
 DNF,26920,Chris,Ott,San Jose,CA,,Chronos Racing p/b Easton Cycling
 
 06/11/2017 Road Race Men Cat 1/2/3 Masters 55-99
@@ -132,7 +132,7 @@ DNF,0,Douglas,Hughes,,,,
 
 06/11/2017 Road Race Men Cat 4
 Place,License #,First,Last,City,State,Time,Team
-1,413239,Max,Motschwiller,Menlo Park,CA,,Union CC / Olympic Club
+1,413239,Max,Motschwiller,San Francisco,CA,,Union CC / Olympic Club
 2,501996,FREDY,RUSTRIAN,San Ramon,CA,,
 3,533095,Masanori,Yamashita,Santa Clara,CA,,SunPower Racing
 4,495740,Brian,Roehrich,El Cajon,CA,,Davis Bike Club Race Team
@@ -152,10 +152,10 @@ Place,License #,First,Last,City,State,Time,Team
 18,494448,Cam,Juarez,San Francisco,CA,,
 19,465985,Austin,Cooper,Walnut,CA,,Velo Club La Grange
 20,417217,Reece,MacDonald,San Francisco,CA,,Pen Velo Racing/Summit Bicycles
-21,494623,Matthew,Hepworth,San Francisco,CA,,SunPower Racing
+21,494623,Matthew,Hepworth,Palo Alto,CA,,SunPower Racing
 22,419151,Matthew,Kanter,San Francisco,CA,,Team Roaring Mouse
 23,434993,Vasileios,Raptakis,Santa Clara,CA,,SunPower Racing
-24,395297,Shin,Hasegawa,Alameda,CA,,TEAM OAKLAND CYCLING
+24,395297,Shin,Hasegawa,Cupertino,CA,,TEAM OAKLAND CYCLING
 25,410511,Alejandro,De Simone,San Francisco,CA,,Union Club
 26,0,UNKNOWN,RIDER,,,,
 27,456472,Bernardo,Tapia,Redwood City,CA,,SunPower Racing
@@ -209,7 +209,7 @@ Place,License #,First,Last,City,State,Time,Team
 06/11/2017 Road Race Men Cat 3
 Place,License #,First,Last,City,State,Time,Team
 1,433279,Matthew,Tracey-Cook,Oakland,CA,,Herbalife p/b Marc Pro-Nature's Bakery
-2,493880,Willie,Raus,Murrieta,CA,,S2C / BOSCH pb PEARL IZUMI
+2,493880,Willie,Raus,Oceanside,CA,,S2C / BOSCH pb PEARL IZUMI
 3,454927,Sam,Quinby,Davis,CA,,Davis Bike Club Elite Team
 4,460267,Ben,Marshall,Berkeley,CA,,TMB Development p/b Equator
 5,466502,Nicholas,Wallace,Santa Cruz,CA,,Cycle Sport - Specialized p/b Muscle Milk
@@ -217,7 +217,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,415302,Benjamin,GomezVillafane,Scotts Valley,CA,,CycleSport - Specialzed p/b Muscle Milk
 8,481875,Juan,Duarte,Berkeley,CA,,
 9,397700,Erik,Schiller,Half Moon Bay,CA,,SunPower Racing
-10,78591,Matthew,Accarrino,San Francisco ,CA,,
+10,78591,Matthew,Accarrino,San Francisco,CA,,
 11,303430,Alex,Braunstein,San Francisco,CA,,Dolce Vita Freewheel p/b SL2
 12,472645,Michael,Kurnik,Oakland,CA,,TMB Development p/b Equator
 13,394845,Matt,Carvell,Woodside,CA,,SunPower Racing

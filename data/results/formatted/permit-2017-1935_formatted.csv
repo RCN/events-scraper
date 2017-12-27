@@ -10,17 +10,17 @@ Place,License #,First,Last,City,State,Time,Team
 6,194963,Sam,Benedict,Gilroy,CA,,Cycle Sport p/b Specialized
 7,54591,Michael,Sayers,Fair Oaks,CA,,c360r
 8,72893,Rob,Evans,Mill Valley,CA,,Illuminate Masters Development
-9,381623,Owen,Gillott,Foster City ,CA,,Storck-CCN
+9,381623,Owen,Gillott,Foster City,CA,,Storck-CCN
 10,494043,Leon,Gledhill,,,,Team Mikes Bikes pb Equator Coffee
 11,187522,Jd,Bergmann,Albany,CA,,Team Clif Bar Cycling
 12,49344,Mike,Charleton,Windsor,CA,,Red Peloton
 13,221376,James,Laberge,Napa,CA,,Team Mike's Bikes p/b Equator Coffee & Teas
-14,207262,Andrew,Goessling,El Cerrito,CA,,Team Mike's Bikes p/b Equator Coffees
+14,207262,Andrew,Goessling,Oakland,CA,,Team Mike's Bikes p/b Equator Coffees
 15,253153,Scott,Cohen,Davis,CA,,Davis Bike Club Elite Team
 16,57836,Paul,Penn,Hayward,CA,,Unaffiliated
 17,260046,Blaise,Hamel,Palo Alto,CA,,SquadraSF p/b Terun
 18,458488,Timmy,Bauer,Placerville,CA,,Williams Cycling
-19,380700,Martin,Szwarc,San Francisco ,CA,,Cycle Sport - Specialized p/b Muscle Milk
+19,380700,Martin,Szwarc,San Francisco,CA,,Cycle Sport - Specialized p/b Muscle Milk
 20,458751,John,Franz,Sacramento,CA,,Sacramento Golden Wheelemn
 21,313364,Ethan,Frankel,Mill Valley,CA,,La Grange Development U21
 22,283386,Jeffrey,Buscheck,Davis,CA,,Davis Bike Club Elite Team
@@ -54,13 +54,13 @@ Place,License #,First,Last,City,State,Time,Team
 DNP,157044,Alton,Dunnigan,San Rafael,CA,,
 DNP,127093,Adam,Switters,Citrus Heights,CA,,Team Mikes Bikes pb Equator
 DNP,220196,Chris,Coble,Mill Valley,CA,,The Olympic Club
-DNP,456576,Sam,Boardman,Washington,CA,,Herbalife24 p/b Marc Pro - Nature's Bakery
+DNP,456576,Sam,Boardman,Los Angeles,CA,,Herbalife24 p/b Marc Pro - Nature's Bakery
 DNF,507570,Harrison,Bailey,,,,Storck-CCN
 DNF,365130,Dustin,Denton,Stockton,CA,,Michael David Winery
 DNF,153790,Roman,Kilun,Oakland,CA,,Team Mike's Bikes p/b Equator Coffee
 DNF,332032,Bruno,Suttles,Napa,CA,,Davis Bike Club Elite Team
 DNF,60730,Shaun,Bagley,Visalia,CA,,Coretechs TWT
-DNF,306325,William,Myers,Orinda,CA,,Herbalife24 pb Marc Pro - Natures Bakery
+DNF,306325,William,Myers,Davis,CA,,Herbalife24 pb Marc Pro - Natures Bakery
 DNF,304797,Matt,Chatlaong,Roseville,CA,,Herbalife p/b Marc Pro - Nature's Bakery
 DNF,320598,Travis,Lyons,Walnut Creek,CA,,
 DNF,337774,Charlie,Velez,El Dorado Hills,CA,,DataDriven Athlete
@@ -71,7 +71,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,420171,Alex,Chadwick,Sacramento,CA,,Team City Racing
 2,525659,Felix,Silbelus,Richmond,CA,,Tieni Duro Junior Cycling
 3,394290,Cooper,Downing,Piedmont,CA,,
-4,495779,Toby,Bodden,Lafayette,CA,,Tieni Duro Juniors
+4,495779,Toby,Bodden,Concord,CA,,Tieni Duro Juniors
 
 07/04/2017 Criterium Men Junior 15-16
 Place,License #,First,Last,City,State,Time,Team
@@ -92,7 +92,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,0,Charlie,English,,,,
 16,536768,Jamie,Hays,Elk Grove,CA,,
 17,394290,Cooper,Downing,Piedmont,CA,,
-DNP,495779,Toby,Bodden,Lafayette,CA,,Tieni Duro Juniors
+DNP,495779,Toby,Bodden,Concord,CA,,Tieni Duro Juniors
 
 07/04/2017 Criterium Men Junior 17-18
 Place,License #,First,Last,City,State,Time,Team
@@ -114,7 +114,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,494390,Andrew,Chew,San Mateo,CA,,Pen Velo Racing/Summit Bicycles
 2,321598,Matthew,Johnson,San Francisco,CA,,Dolce Vita Freewheel p/b SL2 cyclewear
-3,440491,Philip,Barros,Danville,CA,,Cycle Sport Specialized p/b Muscle Milk
+3,440491,Philip,Barros,Pleasanton,CA,,Cycle Sport Specialized p/b Muscle Milk
 4,522890,Dominic,Cofresi,Daly City,CA,,PenVelo/Summit racing
 5,523314,Steve,Mendoza,Sacramento,CA,,
 6,393391,Mathew,Miller,San Carlos,CA,,Pen Velo Racing/Summit Bicycles
@@ -139,7 +139,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,276168,Robin,Mckinney,Lincoln,CA,,Victor Velo Racing
 14,307277,Manuel,Calero,San Pablo,CA,,
 15,494109,Terry,Nilsen,Pacifica,CA,,Pen Velo Racing/Summit Bicycles
-16,306378,Kristen,Hill,Woodland,CA,,Williams Wheels
+16,306378,Kristen,Hill,Sacramento,CA,,Williams Wheels
 17,529237,Vincent,Dimas,Sacramento,CA,,
 18,186110,Alvin,Carpenter,Alameda,CA,,Davis Bike Club Race Team
 19,290626,Mark,Sneed,Oakland,CA,,Team Fremont/FFBC
@@ -204,7 +204,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,47424,Christopher,Baker,Sacramento,CA,,Specialized / Tombstone
 5,60730,Shaun,Bagley,Visalia,CA,,Coretechs TWT
 6,319284,Ronnie,Leavitt,Rocklin,CA,,Team Specialized / Touchstone
-7,25655,Jerome,Nadel,Sunnyvale,CA,,Thirsty Bear P/B Akamai
+7,25655,Jerome,Nadel,Woodside,CA,,Thirsty Bear P/B Akamai
 8,132859,Joseph,Staron,Sacramento,CA,,touchstone specialized
 9,204715,Scotti,Fonseca,Fair Oaks,CA,,Audi Reno-Tahoe Cycling Team
 10,356964,Andrew,Heinemann,El Dorado Hills,CA,,
@@ -318,7 +318,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,275120,Cam,Walker,Sacramento,CA,,Team mikes bikes equator/coffee
 9,434471,Emmett,Smith,Millbrae,CA,,Pen Velo Racing
 10,247223,Matthew,Axford,Carmichael,CA,,Rio Strada
-11,78591,Matthew,Accarrino,San Francisco ,CA,,
+11,78591,Matthew,Accarrino,San Francisco,CA,,
 12,415478,Christopher,Levins,Redwood City,CA,,
 13,406824,Creighton,Gruber,Chico,CA,,Team Swift
 14,458341,Aaron,Gouw,Scotts Valleys,CA,,Davis Bike Club Race Team
@@ -348,7 +348,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,458805,Lindsay,Barlow,Menlo Park,CA,,JLVelo racing p/b The Freewheel
 16,290262,Michelle,Nightengale,Modesto,CA,,CA Technologies Race Team
 DNF,448954,Luisa,Sempere,Fremont,CA,,RAZZLE DAZZLE
-DNF,455528,Shelby,Tramel,San Francisco,CA,,Razzle Dazzle
+DNF,455528,Shelby,Tramel,Oakkland,CA,,Razzle Dazzle
 DNF,424709,April,Willoughby,Sunnyvale,CA,,JLVelo Cycling Team p/b The Freewheel
 
 07/04/2017 Criterium Women Junior 17-18
@@ -394,7 +394,7 @@ Place,License #,First,Last,City,State,Time,Team
 07/04/2017 Criterium Women Cat 3
 Place,License #,First,Last,City,State,Time,Team
 1,387636,Rachelle,Ortega,Morgan Hill,CA,,JL Velo p/b The Freewheel
-2,485936,Trish,Pablo,Sacramento ,CA,,Mikes Bikes p/b Equator coffees
+2,485936,Trish,Pablo,Rodeo,CA,,Mikes Bikes p/b Equator coffees
 3,458778,Makenzie,Delaughder,Davis,CA,,Team Mike's Bikes p/b Equator Coffees
 4,306524,Elisabeth,Johnson,Verdi,NV,,JLVelo Cycling Team p/b The Freewheel
 5,287914,Nicole,Slaton,Davis,CA,,JLVelo Cycling Team p/b The Freewheel

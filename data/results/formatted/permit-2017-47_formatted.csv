@@ -44,8 +44,8 @@ DNP,276816,Timothy,McCollum,Charlotte,NC,,Revolve Residential p/b Pre-Reg.com
 DNP,192115,Bradford,Perley,Brevard,NC,,Giant Bicycles
 DNP,161043,Brian,Sheedy,Horse Shoe,NC,,GIANT Bicycles/Brevard College
 DNP,239743,Michael,Sencenbaugh,Toccoa,GA,,Above and Beyond Cancer p/b Scheels
-DNP,383915,Tom,Salvesen,Charleston,SC,,
-DNP,168449,Lang,Reynolds,Boulder,CO,,Revolve Residential p/b Pre-Reg.com
+DNP,383915,Tom,Salvesen,Lakewood,CO,,
+DNP,168449,Lang,Reynolds,Charlotte,NC,,Revolve Residential p/b Pre-Reg.com
 DNP,297555,Christopher,Meacham,Mooresville,NC,,Pushworks Racing pb Van Dessel
 
 02/25/2017 Road Race Men Masters 60+ 60-99
@@ -74,7 +74,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,394436,Andrew,Gamble,Charlotte,NC,,Carolina Cycling Team
 10,134011,Chris,Guella,Charlotte,NC,,Dornier Racing
 11,46890,Stephen,Sperry,Spartanburg,SC,,The Trappe Door Cycling Team
-12,58077,Greg,Sironen,Greenville ,SC,,Cycle Haus Racing
+12,58077,Greg,Sironen,Greenville,SC,,Cycle Haus Racing
 13,422867,David,Tucker,Greenville,SC,,Cycle Haus
 14,60657,Gordon,Stiel,Rock Hill,SC,,Carolina Cycling Team
 15,48723,Glenn,Thrift,Gray Court,SC,,Cycle Haus Racing
@@ -89,7 +89,7 @@ Place,License #,First,Last,City,State,Time,Team
 24,0,Phil,Hime,,,,
 25,460570,Jeff,Hall,Greenville,SC,,Cycle Haus Racing
 26,210281,David,Kyzer,Spartanburg,SC,,Spinx Bike Race Team
-27,197646,Tim,Borsetti,Hendersonville,NC,,Cycles 54
+27,197646,Tim,Borsetti,Central,SC,,Cycles 54
 28,274153,John,Strickland,Gainesville,GA,,Prima Tappa Cycling Team
 29,298054,Ned,Hettinger,Sullivans Island,SC,,Lowcountry Racing
 30,232169,Jim,Palmer,North Augusta,SC,,
@@ -121,7 +121,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,60,Scott,Edge,Greenville,SC,,
 7,193691,Rodney,Dender,Travelers Rest,SC,,The Trappe Door Cycling Team
 8,52491,Gen,Kogure,Asheville,NC,,Velosports Racing Asheville
-9,175537,Cliff,Kugler,Simpsonville ,SC,,Cycle Haus Racing
+9,175537,Cliff,Kugler,Simpsonville,SC,,Cycle Haus Racing
 10,364714,Aaron,Atwater,Conway,SC,,SouthEast Endurance Project
 11,394470,Jeff,Mrachek,Simpsonville,SC,,RTO National
 12,263327,William Jay,Jenkins,Waxhaw,NC,,Carolina Cycling Team
@@ -222,7 +222,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,525362,Gary,Swingle,Taylors,SC,,
 4,423064,Steven,Shake,Florence,SC,,
 5,524018,Cole,Rasser,Buford,GA,,Frazier Cycling
-6,525286,Peter,Van Susteren,Gainesville,FL,,Race City Cycling
+6,525286,Peter,Van Susteren,Davidson,NC,,Race City Cycling
 7,466485,Edward,Schurr,Simpsonville,SC,,Cycle Haus Racing
 8,441068,David,Mcbeath,Mount Pleasant,SC,,Low country racing
 9,524946,Yannick,Fischbach,Townsville,SC,,Cycle Haus Racing Team
@@ -233,7 +233,7 @@ Place,License #,First,Last,City,State,Time,Team
 DNS,497868,Brandon,Chiat,Norfolk,VA,,US Military Endurance Sports
 DNS,516596,Charles,Haws,Decatur,GA,,
 DNS,497868,Brandon,Chiat,Norfolk,VA,,US Military Endurance Sports
-DNS,525286,Peter,Van Susteren,Gainesville,FL,,Race City Cycling
+DNS,525286,Peter,Van Susteren,Davidson,NC,,Race City Cycling
 DNP,448053,Cameron,Conlon,Lawrenceville,GA,,Frazier Cycling
 
 02/25/2017 Road Race Men Cat 5 35-99
@@ -395,7 +395,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,355774,Conor,Schunk,Charlotte,NC,,Holowesko | Citadel pb Hincapie Racing
 7,180665,Justin,Meade,Greenville,SC,,SC Competitive Cyclist
 8,243416,MacKenzie,Brennan,Greenville,SC,,UCI CT: Holowesko | Citadel Racing Team p/b Hincap
-9,383915,Tom,Salvesen,Charleston,SC,,
+9,383915,Tom,Salvesen,Lakewood,CO,,
 10,413700,Kyle,Danner,Greenville,SC,,Cycle Haus Racing
 11,306291,Johnny,Mitchell,Johnson City,TN,,SC Competitive Cyclist
 12,389699,Philip,Short,Greensboro,NC,,Nine Lives Carbon Repair
@@ -455,7 +455,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,28541,Glenn,Poupore,Greenville,SC,,Cycle Hause Racing
 8,92985,Marcus,Jones,Hendersonville,NC,,Crosstown Velo
 9,240265,Nello,Teer,Alpharetta,GA,,Reality Bikes Ambassador
-10,197646,Tim,Borsetti,Hendersonville,NC,,Cycles 54
+10,197646,Tim,Borsetti,Central,SC,,Cycles 54
 11,211882,Jim,Payne,Fort Mill,SC,,Charlotte Cycling Consortium
 12,273692,Thomas,Ratajczak,Asheville,NC,,Downtown Asheville Racing Club (DARC)
 13,48723,Glenn,Thrift,Gray Court,SC,,Cycle Haus Racing
@@ -484,7 +484,7 @@ Place,License #,First,Last,City,State,Time,Team
 36,66503,Gregory,Palevo,Clarksville,TN,,Mid South Racing
 37,0,James,Lyndon,,,,
 38,275500,Joseph,Gallagher,Greenville,SC,,
-39,58077,Greg,Sironen,Greenville ,SC,,Cycle Haus Racing
+39,58077,Greg,Sironen,Greenville,SC,,Cycle Haus Racing
 40,201914,Adam,Pinkston,Asheville,NC,,
 41,1454,Glenn,Allison,Mount Pleasant,SC,,Oceanic Racing
 42,171847,Clayton,Griffin,Charleston,SC,,Oceanic Racing
@@ -503,7 +503,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,413739,Luke,Barnett,Greenville,SC,,RTO National Cycling
 4,193691,Rodney,Dender,Travelers Rest,SC,,The Trappe Door Cycling Team
 5,38071,Joshua,Whitmore,Fairview,NC,,Organic Valley / Hiball Energy
-6,175537,Cliff,Kugler,Simpsonville ,SC,,Cycle Haus Racing
+6,175537,Cliff,Kugler,Simpsonville,SC,,Cycle Haus Racing
 7,89358,Erik,Ostergaard,Asheville,NC,,Super Squadra
 8,181571,Richard,Nance,Winston Salem,NC,,
 9,57580,Jefferson,Parker,Hendersonville,NC,,Crosstown Velo
@@ -511,7 +511,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,185968,Erik,Peterson,Greenville,SC,,SC Competitive Cyclist
 12,380991,Roy,Jones,Greenville,SC,,RTO National
 13,2333,Kenny,Baker,Knoxville,TN,,Velosophy
-14,267467,Christy,Keely,Greenville ,SC,,
+14,267467,Christy,Keely,Greenville,SC,,
 15,40483,Gregory,Brown,Sugar Hill,GA,,Giovannis Tile Design Cycling
 16,53594,Timothy,Tobbe,Zirconia,NC,,Crosstown Velo
 17,20967,Jason,Leslie,Greenville,SC,,Greenville Health System
@@ -768,7 +768,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,84776,Debbie,Milne,Greenville,SC,,Papa Johns Racing p/b Trek
 6,311541,Hannah,Swan,Alpine,CA,,Cycle Haus Racing
 7,495744,Teresa,O Sullivan,Charlotte,NC,,Dornier Racing
-8,267467,Christy,Keely,Greenville ,SC,,
+8,267467,Christy,Keely,Greenville,SC,,
 9,376192,Isabella,Nguy,Suwanee,GA,,Frazier Cycling
 10,162337,Susan,Jones - Morgan,Simpsonville,SC,,RTO National
 11,395236,Elizabeth,Harden,Greenville,SC,,RTO National
@@ -777,7 +777,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,323042,Morgan,Miller,Charleston,TN,,CTH Performance Project
 15,460768,Merrill,Thierman,Charlotte,NC,,Dornier Racing
 16,429754,Loren,Morgan,Gainesville,GA,,Prima Tappa Cycling p/b Mansfield Oil
-17,220876,Katherine,Shields,Advance,NC,,OrthoCarolina Winston
+17,220876,Katherine,Shields,Salt Lake City,UT,,OrthoCarolina Winston
 18,392918,Jennifer,Wakeman,Taylors,SC,,RTO National Womens Cycling
 19,364707,Karen,Muehl,Charlotte,NC,,Uptown Cycles
 20,143069,Giselle,Weekes,Greenville,SC,,RTO National Women's Cycling
@@ -801,14 +801,14 @@ Place,License #,First,Last,City,State,Time,Team
 12,502145,Sam,Brand,Athens,GA,,Team Novo Nordisk
 13,258337,John,Stowe,Cataula,GA,,Ride On Bikes
 14,21638,Andy,Lougher,Atlanta,GA,,Ridley Masters p/b Reality Bikes
-15,299925,Chad,Capobianco,Watkinsville,GA,,
+15,299925,Chad,Capobianco,Aldie,VA,,
 16,392529,Brian,Sciba,Tallahassee,FL,,Kelly Benefits Strategies Elite
 17,342206,Ryan,Joyce,Charlotte,NC,,
 18,457146,Erich,Mesquita Lima,Mars Hill,NC,,Mars Hill University
 19,70612,Andrew,Crater,Greenville ,SC,,Stradalli Cycle Safetti
 20,194743,Winston,David,Greenville,SC,,SC Competitive Cyclist
 21,400214,Evan,Christenson,El Cajon,CA,,Lees-McRae College
-22,383915,Tom,Salvesen,Charleston,SC,,
+22,383915,Tom,Salvesen,Lakewood,CO,,
 23,413700,Kyle,Danner,Greenville,SC,,Cycle Haus Racing
 24,276816,Timothy,McCollum,Charlotte,NC,,Revolve Residential p/b Pre-Reg.com
 25,400727,Dillon,Swaim,Lilburn,GA,,Prima Tappa
@@ -866,7 +866,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,422867,David,Tucker,Greenville,SC,,Cycle Haus
 8,55442,Robert,Thomas,Fort Mill,SC,,Team Rize
 9,390480,Michael,Grigat,Fort Mill,SC,,Carolina Cycling Team
-10,197646,Tim,Borsetti,Hendersonville,NC,,Cycles 54
+10,197646,Tim,Borsetti,Central,SC,,Cycles 54
 11,255761,Bobby,Hough,Travelers Rest,SC,,Cycle Haus Racing
 12,186828,Greg,Morgan,Simpsonville,SC,,Spinx Bike Race Team
 13,48723,Glenn,Thrift,Gray Court,SC,,Cycle Haus Racing
@@ -878,7 +878,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,329162,Guenter,Heyen,Mount Gilead,NC,,Unilin MDF racing team
 20,289643,William,Marcheck,Durham,NC,,Triangle Velo
 21,243111,Gary,Bolduc,Ridgeville,SC,,
-22,58077,Greg,Sironen,Greenville ,SC,,Cycle Haus Racing
+22,58077,Greg,Sironen,Greenville,SC,,Cycle Haus Racing
 23,448108,Jonathan,Dubel,Wilmington,NC,,WATTAGE COTTAGE
 24,394436,Andrew,Gamble,Charlotte,NC,,Carolina Cycling Team
 25,240265,Nello,Teer,Alpharetta,GA,,Reality Bikes Ambassador
@@ -915,7 +915,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,0,Shane,Callis,,,,
 7,438361,R Scott,Hellman,Charleston,SC,,Lowcountry Racing
 8,57580,Jefferson,Parker,Hendersonville,NC,,Crosstown Velo
-9,175537,Cliff,Kugler,Simpsonville ,SC,,Cycle Haus Racing
+9,175537,Cliff,Kugler,Simpsonville,SC,,Cycle Haus Racing
 10,139857,Ryan,Robinson,Anderson,SC,,Shalom House Cycling
 11,308260,Ives,VanHeule,Greer,SC,,RTO National Cycling
 12,158593,Peter,Mathern,Greenville,SC,,SC Competitive Cyclist
@@ -1138,7 +1138,7 @@ Place,License #,First,Last,City,State,Time,Team
 25,466473,Anja,Conlon,Lawrenceville,GA,,Frazier Cycling
 DNS,0,Stacey,Hyslop,,,,Lees-McRae College
 DNS,466473,Anja,Conlon,Lawrenceville,GA,,Frazier Cycling
-DNP,267467,Christy,Keely,Greenville ,SC,,
+DNP,267467,Christy,Keely,Greenville,SC,,
 DNP,392989,Kayla,Doan,Belmont,WI,,CTH Performance Project
 
 02/12/2017 Road Race Men Pro/Cat 1/2
@@ -1156,11 +1156,11 @@ Place,License #,First,Last,City,State,Time,Team
 11,220467,Zachary,Felpel,Boone,NC,,High Country Development p/b  Monster Media Racing
 12,394026,Gabriel,Mendez,Columbus,GA,,Masters Cycling Systems LLC
 13,359849,Michael,Potter,Winston Salem,NC,,High Country Devo p/b Monster Media Racing
-14,383915,Tom,Salvesen,Charleston,SC,,
+14,383915,Tom,Salvesen,Lakewood,CO,,
 15,43378,Patrick,Raines,Cary,NC,,Hearts Racing Club
 16,0,Laurent,Gervais,,,,Miller School of Albemarle
 17,400214,Evan,Christenson,El Cajon,CA,,Lees-McRae College
-18,387921,Alec,Hoover,Kingston ,NY,,Lees-McRae College
+18,387921,Alec,Hoover,Ripon,WI,,Lees-McRae College
 19,355774,Conor,Schunk,Charlotte,NC,,Holowesko | Citadel pb Hincapie Racing
 20,504035,Edward,Anderson,Richmond,VA,,Axeon Hagens Berman
 21,308793,DEVIN,REAVIS,Elkin,NC,,Monster Media Elite Development
@@ -1177,7 +1177,7 @@ Place,License #,First,Last,City,State,Time,Team
 32,412295,Darel,Christopher,Forest Park,GA,,Southern Crescent Cycling
 33,321642,Taylor,Little,Asheville,NC,,DIY Music p/b Chainheart Cycling Studios
 34,260405,Benjamin,Wolfe,Niantic,CT,,Jelly Belly p/b Maxxis
-35,374617,Chad,Conley,Cartersville,GA,,Pharmaco-DeepSouth p/b NGCA
+35,374617,Chad,Conley,Atlanta,GA,,Pharmaco-DeepSouth p/b NGCA
 36,180665,Justin,Meade,Greenville,SC,,SC Competitive Cyclist
 37,0,paul,wright,,,,WWC
 38,287070,Nicholas,Luther,Greenville,SC,,Happy Tooth Racing
@@ -1252,7 +1252,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,197104,Mark,Hill,Charlotte,NC,,
 21,394436,Andrew,Gamble,Charlotte,NC,,Carolina Cycling Team
 22,460570,Jeff,Hall,Greenville,SC,,Cycle Haus Racing
-23,58077,Greg,Sironen,Greenville ,SC,,Cycle Haus Racing
+23,58077,Greg,Sironen,Greenville,SC,,Cycle Haus Racing
 24,287920,Joe,Lehner,Greer,SC,,RTO National
 25,84615,Chris,Dietrich,Charlotte,NC,,Carolina Cycling Team
 26,273653,Jay,Beam,Gastonia,NC,,CAROLINA CYCLING TEAM
@@ -1294,7 +1294,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,193691,Rodney,Dender,Travelers Rest,SC,,The Trappe Door Cycling Team
 6,52491,Gen,Kogure,Asheville,NC,,Velosports Racing Asheville
 7,89358,Erik,Ostergaard,Asheville,NC,,Super Squadra
-8,175537,Cliff,Kugler,Simpsonville ,SC,,Cycle Haus Racing
+8,175537,Cliff,Kugler,Simpsonville,SC,,Cycle Haus Racing
 9,185968,Erik,Peterson,Greenville,SC,,SC Competitive Cyclist
 10,67702,Christopher,Harkey,Mt Pleasant,NC,,The Trappe Door Cycling Team
 11,97864,Jeff,Michenfelder,Simpsonville,SC,,Greenville Spinners Racing
@@ -1403,7 +1403,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,401536,Josh,Craig,Richmond,VA,,St. Christophers School
 2,525134,Michael,Bissette,Belmont,NC,,
 3,494857,Christian,Acker,Clemson,SC,,
-4,418986,Neal,Yates,Atlanta,GA,,Furman University Cycling Team
+4,418986,Neal,Yates,Greenville,SC,,Furman University Cycling Team
 5,513404,Matthew,Bopp,Atlanta,GA,,
 6,524473,Luke,Richards,Hilliard,OH,,Belmont Abbey College
 7,521409,Andrew,Turner,Laurens,SC,,Cycle Haus Racing
@@ -1415,7 +1415,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,493503,Michael,Pajewski,Charlottesville,VA,,
 14,423773,Matthew,Montoya,Greenville,SC,,Les Amis / Upstate Junior Cycling
 15,524314,Lance,Fenderson,Mooresville,NC,,
-16,525286,Peter,Van Susteren,Gainesville,FL,,Race City Cycling
+16,525286,Peter,Van Susteren,Davidson,NC,,Race City Cycling
 18,393644,Curtis,Hoyt,Huntersville,NC,,Belmont Abbey College
 19,466485,Edward,Schurr,Simpsonville,SC,,Cycle Haus Racing
 20,524018,Cole,Rasser,Buford,GA,,Frazier Cycling
@@ -1423,7 +1423,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,531107,nate,watson,Anderson,SC,,
 23,160130,Justin,Winegar,New Ipswich,NH,,
 24,521943,Blake,Hunt,Mooresville,NC,,
-DNS,525286,Peter,Van Susteren,Gainesville,FL,,Race City Cycling
+DNS,525286,Peter,Van Susteren,Davidson,NC,,Race City Cycling
 DNP,443341,Christopher,Ostlund,Anderson ,SC,,
 DNP,368238,Patrick,Hopf,Greenville,SC,,Villlage Wrench Supported By Glorycycles
 
@@ -1472,7 +1472,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,497590,Devin,Jones,Mooresville,NC,,Live it Xtreme Sports Racing
 12,0,Thomas,Piercznski,,,,
 13,364714,Aaron,Atwater,Conway,SC,,SouthEast Endurance Project
-14,217539,Nathan,Harris,Frisco,CO,,
+14,217539,Nathan,Harris,Spring,TX,,
 15,466101,Cody,Buford,Fort Mill,SC,,
 16,400189,Nathan,Hake,Mount Wolf,PA,,Mars Hill University
 17,396614,Eli,Hoppenfeld,Atlanta,GA,,Frazier Cycling
@@ -1515,7 +1515,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,0,Jose,Robinson Jaramillo,,,,
 3,403557,Eric,Moore,Greenville,SC,,Les Amis Upstate Junior Cycling / Calder Bros.
 4,309052,Nicholas,Townes,Greer,SC,,RTO National Cycling
-5,309018,Keith,Mullaly,Belmont,NC,,Belmont Abbey College
+5,309018,Keith,Mullaly,Wethersfield,CT,,Belmont Abbey College
 6,391618,zachery,carmel,Wooster,OH,,Mars Hill University
 7,393367,Michael,Garrison,Decatur,GA,,Holowesko | Citadel pb Hincapie Racing
 8,423626,Nolan,VanderZwaag,Holland,MI,,Lees-McRae College
@@ -1615,7 +1615,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,180665,Justin,Meade,Greenville,SC,,SC Competitive Cyclist
 3,238311,Christopher,Uberti,Cincinnati,OH,,Finish Strong
 4,282640,Brendan,Rhim,Greenville,SC,,UCI CT: Holowesko | Citadel Racing Team p/b Hincap
-5,383915,Tom,Salvesen,Charleston,SC,,
+5,383915,Tom,Salvesen,Lakewood,CO,,
 6,194743,Winston,David,Greenville,SC,,SC Competitive Cyclist
 7,193086,Benjamin,Renkema,Greenville,SC,,SC Competitive Cyclist
 8,263324,Parker,Kyzer,Spartanburg,SC,,SC Competitive Cyclist
@@ -1664,7 +1664,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,49061,Darren,Fuller,Cornelius,NC,,The Trappe Door Cycling Team
 3,46911,Chris,Knetsche,Concord,NC,,
 4,37289,Randal,Warren,Asheville,NC,,Downtown Asheville Racing Club
-5,58077,Greg,Sironen,Greenville ,SC,,Cycle Haus Racing
+5,58077,Greg,Sironen,Greenville,SC,,Cycle Haus Racing
 6,55442,Robert,Thomas,Fort Mill,SC,,Team Rize
 7,422867,David,Tucker,Greenville,SC,,Cycle Haus
 8,28541,Glenn,Poupore,Greenville,SC,,Cycle Hause Racing
@@ -1701,7 +1701,7 @@ DNP,46890,Stephen,Sperry,Spartanburg,SC,,The Trappe Door Cycling Team
 
 02/11/2017 Criterium Men Masters 40+ 40-99
 Place,License #,First,Last,City,State,Time,Team
-1,175537,Cliff,Kugler,Simpsonville ,SC,,Cycle Haus Racing
+1,175537,Cliff,Kugler,Simpsonville,SC,,Cycle Haus Racing
 2,52491,Gen,Kogure,Asheville,NC,,Velosports Racing Asheville
 3,89358,Erik,Ostergaard,Asheville,NC,,Super Squadra
 4,158593,Peter,Mathern,Greenville,SC,,SC Competitive Cyclist
@@ -1885,7 +1885,7 @@ Place,License #,First,Last,City,State,Time,Team
 26,394613,Brent,Beadles,Greer,SC,,Clemson University
 DNS,190848,Robert,Heath,Alpharetta,GA,,Frazier Cycling
 DNS,437913,Clara,Honsinger,Portland,OR,,Dorneir Racing
-DNS,135275,Chad,Morris,Newburyport,MA,,Riverside Racing
+DNS,135275,Chad,Morris,West Newbury,MA,,Riverside Racing
 DNP,308260,Ives,VanHeule,Greer,SC,,RTO National Cycling
 
 02/11/2017 Criterium Women Women4

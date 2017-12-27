@@ -23,9 +23,9 @@ Place,License #,First,Last,City,State,Time,Team
 5,305814,Jason,Morin,Redondo Beach,CA,,Big Orange Cycling p/b Beachbody Performance
 6,332980,Michael,James,Pasadena,CA,,OTR Racing
 7,243310,Fabian,Valdivia,Baldwin Park,CA,,DARE
-8,132324,Anthony,Freeman,Marina Del Rey,CA,,Big Orange Cycling p/b Beachbody Performance
+8,132324,Anthony,Freeman,Manhattan Beach,CA,,Big Orange Cycling p/b Beachbody Performance
 9,250995,Benjamin,Petzoldt,Bonita,CA,,S2C/BOSCH pb Pearl Izumi
-10,1841,Michael,Araluce,Santa Ana,CA,,
+10,1841,Michael,Araluce,Tustin,CA,,
 11,523661,Jean,Tawekjian,Fontana,CA,,Majestic/Mobbin Cycling
 12,496690,nazaret,ruiz,Altadena,CA,,GBS Racing
 13,494367,Scott,Walker,Cypress,CA,,Big Orange Cycling p/b Beachbody Performance
@@ -41,14 +41,14 @@ Place,License #,First,Last,City,State,Time,Team
 23,0,Juan Valenzuela,Vargas,,,,
 24,219105,Carlos,Gonzalez,Pico Rivera,CA,,GBS Racing
 25,127394,Casey,Maguire,Rolling Hills,CA,,Monster Media Racing
-26,31336,Mark,Satkiewicz,Pacific Palisades,CA,,Velo Club LaGrange
+26,31336,Mark,Satkiewicz,Los Angeles,CA,,Velo Club LaGrange
 27,469271,Marcelo,Da Silva,Culver City,CA,,
 28,422278,Matthew,Kest,Los Angeles,CA,,Bicycle.net Racing Team
 29,183798,Frank,Flores,Oxnard,CA,,Judgement Velo/ TBOV
 30,301908,Matthew,Hawkesworth,La Verne,CA,,Impact Racing Team
 31,235946,Mario,Cortes,Newbury Park,CA,,Judgement Velo/ TBOV
 32,367290,Stephen,Watson,Upland,CA,,
-33,471808,Mark,Strohman,Aliso Viejo,CA,,R5 Ciclismo
+33,471808,Mark,Strohman,Irvine,CA,,R5 Ciclismo
 34,197767,Oscar,Gutierrez,La Puente,CA,,GBS Racing
 35,243313,Gilberto,Hernandez,Oxnard,CA,,
 36,372127,Carlos,Glines,Fountain Valley,CA,,BestVIP - Mazda p/b Eibach
@@ -59,7 +59,7 @@ Place,License #,First,Last,City,State,Time,Team
 41,459875,Mark,Maxson,Palos Verdes Peninsula,CA,,Big Orange Cycling p/b Beachbody Performance
 42,392736,MICHAEL,CHONG,Long Beach,CA,,Velo Allegro
 43,458437,Travis,Johnson,Los Angeles,CA,,
-44,391447,ANDREW,NUCKLES,Cerritos,CA,,Big Orange Cycling p/b Beachbody Performance
+44,391447,ANDREW,NUCKLES,Los Angeles,CA,,Big Orange Cycling p/b Beachbody Performance
 45,188859,Albert,Tello,Fontana,CA,,Majestic/Mobbin Cycling
 46,380708,Byron,Oviedo,Riverside ,CA,,WTR cycling club
 47,466656,Ryan,Resella,Valencia,CA,,CBS Cycling
@@ -73,7 +73,7 @@ Place,License #,First,Last,City,State,Time,Team
 55,472742,Stephen,Kennelly,Santa Monica,CA,,Velo Club La Grange +21
 56,379770,Aaron,Preski,Lancaster,CA,,OTR Racing
 57,138698,Ralph,Vizcaino,Covina,CA,,Impact Racing Team
-58,456910,Patrick,Foutz,Playa Del Rey,CA,,Big Orange Cycling
+58,456910,Patrick,Foutz,Torrance,CA,,Big Orange Cycling
 59,55635,Pedro,Ordaz,Oxnard,CA,,S2C/BOSCH pb Pearl Izumi
 60,2734,Richard,Barron,Glendora,CA,,Coates Cyclery Cycling Club
 61,367123,Nigel,Agravante Stewart,Santa Monica,CA,,Velo Club La Grange +21
@@ -86,8 +86,8 @@ Place,License #,First,Last,City,State,Time,Team
 68,168222,Greg,Hayes,Corona,CA,,Impact Racing Team
 69,302654,Dmitry,Uchitel,Encino,CA,,OTR Racing
 DNS,204928,Wells,Wang,San Diego,CA,,SDBC/EMERALD TEXTILES p/b UC Cyclery
-DNS,457391,david,louvet,Manhattan Beach,CA,,Big Orange Cycling p/b Beachbody Performance
-DNF,457391,david,louvet,Manhattan Beach,CA,,Big Orange Cycling p/b Beachbody Performance
+DNS,457391,david,louvet,Gardena,CA,,Big Orange Cycling p/b Beachbody Performance
+DNF,457391,david,louvet,Gardena,CA,,Big Orange Cycling p/b Beachbody Performance
 DNF,163205,William,Mercier,El Segundo,CA,,
 DNF,237706,Johnny,Lance,North Hollywood,CA,,OTR Racing
 
@@ -100,14 +100,14 @@ DNS,129138,Greg,Leibert,Venice Beach,CA,,Big Orange Cycling p/b Beachbody Perfor
 04/23/2017 Criterium Men Cat 1/2/3/4 Junior 15-18
 Place,License #,First,Last,City,State,Time,Team
 1,295492,Jules,Gilliam,Manhattan Beach,CA,,NCCF/ Team Specialized Juniors
-2,407644,Daniel,Park,Rancho Palos Verdes,CA,,La Grange Development U21
+2,407644,Daniel,Park,Fullerton,CA,,La Grange Development U21
 3,457573,Erik,Castillo,Duarte,CA,,NCCF/ Team Specialized Juniors
 4,381529,Rafael,Solorzano,Inglewood,CA,,La Grange Development U21
 5,404874,Lucio,Rivas,Camarillo,CA,,Team Velosport Junior & U23 Development - Ridebiker Alliance
 6,0,Eliseo,Areavlo,,,,
 7,494443,Ellis,Pedersen,Santa Monica,CA,,La Grange Development U21
 8,470652,Justin,Chi,Arcadia,CA,,La Grange Development U21
-9,493654,Matthew,Greer,Corona Del Mar,CA,,GS Andiamo - West Side Wheelmen
+9,493654,Matthew,Greer,Newport Beach,CA,,GS Andiamo - West Side Wheelmen
 DNS,394680,Osvaldo,Mora,Norwalk,CA,,Southern California Velo -  Main Street Garage Junior Development
 DNS,458901,Andres,Alvarez,Camarillo,CA,,KLTS Junior Development
 DNS,486974,Victor,Vazquez,Downey,CA,,Team Velosport Junior & U23 Development - Ridebiker Alliance
@@ -136,7 +136,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,55635,Pedro,Ordaz,Oxnard,CA,,S2C/BOSCH pb Pearl Izumi
 19,195498,Donald,Kimper,Solana Beach,CA,,UC Cyclery/JW Floors
 20,76026,Gary,Cziko,Playa Del Rey,CA,,Big Orange Cycling p/b Beachbody Performance
-21,245777,Steven,Borer,Show Low,AZ,,Fleming Wealth Strategies.com
+21,245777,Steven,Borer,Laguna Hills,CA,,Fleming Wealth Strategies.com
 22,396672,Roger,Gottfried,Laguna Beach,CA,,BestVIP - Mazda p/b Eibach
 23,34753,Rick,Swanson,Corona,CA,,Hi Tech Systems Ridley Masters
 24,0,UNKNOWN,RIDER,,,,
@@ -175,7 +175,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,52576,Michael,Onkels,Glendale,CA,,S2C/BOSCH pb Pearl Izumi
 23,364697,MICHAEL,PENTA,Thousand Oaks,CA,,Big Orange Cycling p/b Beachbody Performance
 24,82789,Victor,Caraballo,Corona,CA,,
-25,9327,Earl,Detrick,Thousand Oaks ,CA,,HSR Racing p/b BIRDWORX
+25,9327,Earl,Detrick,Thousand Oaks,CA,,HSR Racing p/b BIRDWORX
 26,0,Frederic,Thibault,,,,
 27,195724,David,O'Brien,Winchester,CA,,S2C/BOSCH pb Pearl Izumi
 28,345064,Richard,Mendez,Temecula,CA,,S2C/BOSCH pb Pearl Izumi
@@ -301,7 +301,7 @@ Place,License #,First,Last,City,State,Time,Team
 44,274079,Benjamin,Rathkamp,Bellingham,WA,,SDBC/EMERALD TEXTILES p/b UC Cyclery
 45,218099,Tyler,Locke,Canyon Country,CA,,SoCalCycling.com
 46,88582,Patrick,Caro,Claremont,CA,,Go Fast -Incycle
-47,186919,Kendall,Ryan,Ventura,CA,,UCI WPT: Team TIBCO-Silicon Valley Bank
+47,186919,Kendall,Ryan,Camarillo,CA,,UCI WPT: Team TIBCO-Silicon Valley Bank
 48,22423,Anthony,Manzella,Los Angeles,CA,,Santa Monica BMW Helen's Cycles Racing
 49,45772,Joseph,Pasqualetto,Chino,CA,,PAA Cycling
 50,224173,Cory,Williams,Los Angeles,CA,,UCI CT: Elevate-KHS Pro Cycling
@@ -421,22 +421,22 @@ Place,License #,First,Last,City,State,Time,Team
 27,458901,Andres,Alvarez,Camarillo,CA,,KLTS Junior Development
 28,459875,Mark,Maxson,Palos Verdes Peninsula,CA,,Big Orange Cycling p/b Beachbody Performance
 29,392315,OCTAVIO,MARQUEZ,Los Angeles,CA,,
-30,31336,Mark,Satkiewicz,Pacific Palisades,CA,,Velo Club LaGrange
+30,31336,Mark,Satkiewicz,Los Angeles,CA,,Velo Club LaGrange
 31,495273,Anthony,Murray,Laguna Niguel,CA,,RedMonkey Sports
 32,424489,Denis,Faye,Redondo Beach,CA,,Big Orange Cycling p/b Beachbody Performance
 33,512123,Rooney,escobar,Los Angeles,CA,,South Bay Wheelmen
 34,433433,Oscar,Cervantes,Wilmington,CA,,South Bay Wheelmen
 35,503314,Gil,Ron,Temecula,CA,,
-36,391447,ANDREW,NUCKLES,Cerritos,CA,,Big Orange Cycling p/b Beachbody Performance
+36,391447,ANDREW,NUCKLES,Los Angeles,CA,,Big Orange Cycling p/b Beachbody Performance
 37,422934,Kevin,Kraus,Fountain Valley,CA,,Knobbe Cycling
 38,470325,Noah,Ta-Perez,Orange,CA,,
 39,243313,Gilberto,Hernandez,Oxnard,CA,,
 40,501934,Nhattrieu,Duong,Redondo Beach,CA,,Big Orange Cycling p/b Beachbody Performance
-41,456910,Partick,Foutz,Playa Del Rey,CA,,Big Orange Cycling
+41,456910,Partick,Foutz,Torrance,CA,,Big Orange Cycling
 42,470112,EMAD,AQIL,Gardena,CA,,
 43,238131,Refujio,Galvan,Los Angeles,CA,,
 44,494443,Ellis,Pedersen,Santa Monica,CA,,La Grange Development U21
-45,457391,david,louvet,Manhattan Beach,CA,,Big Orange Cycling p/b Beachbody Performance
+45,457391,david,louvet,Gardena,CA,,Big Orange Cycling p/b Beachbody Performance
 46,221248,Anthony,Rosales,Costa Mesa ,CA,,Bahati Foundation
 47,526967,Victor,Flores,Los Angeles,CA,,
 48,156004,Donald,Wolfe,Los Angeles,CA,,Big Orange Cycling p/b Beachbody Performance
@@ -467,7 +467,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,364697,MICHAEL,PENTA,Thousand Oaks,CA,,Big Orange Cycling p/b Beachbody Performance
 12,232565,Van,Geslani,Loma Linda,CA,,Dons Bikes
 13,458669,steve,kim,Rancho Palos Verdes,CA,,Team Surf City p/b Eliel/Pioneer
-14,356667,Treavor,Matsushima,Pasadena,CA,,Portland Bicycle Studio
+14,356667,Treavor,Matsushima,South Pasadena,CA,,Portland Bicycle Studio
 15,305814,Jason,Morin,Redondo Beach,CA,,Big Orange Cycling p/b Beachbody Performance
 16,510481,Graham,Goldstein,Los Angeles,CA,,
 17,424025,Ruben,Lopez,Los Angeles,CA,,Montrose Bike Shop
@@ -529,9 +529,9 @@ Place,License #,First,Last,City,State,Time,Team
 9,147255,Tracy,Paaso,West Hollywood,CA,,Velo Club La Grange +21
 10,413064,Ellen,Shinogle,Los Angeles,CA,,Velo Club La Grange +21
 11,467412,Mila,Allinson,Aliso Viejo,CA,,R5 Ciclismo
-12,455158,Lucy,Archer,Hawthorne,CA,,Massachusetts Institute of Technology
+12,455158,Lucy,Archer,Inglewood,CA,,Massachusetts Institute of Technology
 13,140934,Mimi,Sheean,La Crescenta,CA,,Velo Club La Grange +21
-14,455326,Lisa,OReilly,North Hollywood,CA,,NCVC/UnitedHealthcare
+14,455326,Lisa,OReilly,Los Angeles,CA,,NCVC/UnitedHealthcare
 15,226501,Nicole,Leroux,Oak Park,CA,,Sisterhood of Cycling
 16,291973,Kimberly,Tom,San Diego,CA,,Skyflash Racing
 17,501553,Katie,Rollins,Santa Monica,CA,,Velo Club La Grange +21
@@ -547,10 +547,10 @@ Place,License #,First,Last,City,State,Time,Team
 1,470324,Zoe,Ta-Perez,Orange,CA,,Sho-Air TWENTY20 Development
 2,412046,Makayla,Macpherson,Corona,CA,,Swami's Junior Development Team
 3,245326,Karen,Meske,Los Angeles,CA,,Skyflash Racing
-4,386021,Katherine,Wymbs,San Pedro,CA,,Velo Club La Grange +21
+4,386021,Katherine,Wymbs,Long Beach,CA,,Velo Club La Grange +21
 5,497566,Kristie,Fox,Redondo Beach,CA,,Big Orange Cycling p/b Beachbody Performance
 6,0,Irene,Van der Broek,,,,
-7,292331,Amy,Firth,Monrovia,CA,,Skyflash Racing
+7,292331,Amy,Firth,Claremont,CA,,Skyflash Racing
 8,402969,marilyne,deckman,Manhattan Beach,CA,,Big Orange Cycling p/b Beachbody Performance
 9,336698,Charity,Chia,Castaic,CA,,CBS Cycling
 10,274438,Raegan,Lunsford,Murrieta,CA,,Sisterhood of Cycling

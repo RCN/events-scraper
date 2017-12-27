@@ -31,13 +31,13 @@ Place,License #,First,Last,City,State,Time,Team
 27,298338,Jack,McCann,Cincinnati,OH,,First Internet Bank Cycling
 28,226733,Jonathan,Jacob,Indianapolis,IN,,Bissell ABG Giant
 29,371391,Jordan,Fleming,Carmel,IN,,Bike Line Indiana
-30,257134,Josh,Johnson,Fort Wayne,IN,,Bissell-ABG-Giant
+30,257134,Josh,Johnson,Indianapolis,IN,,Bissell-ABG-Giant
 31,346092,John,Becker,Fortville,IN,,First Internet Bank Cycling
 32,351414,Gunner,Dygert,Brownsburg,IN,,Bissell ABG Giant
 33,184412,Alexander,Voitik,Saint Charles,IL,,Sammy's Bikes
 34,215016,David,Morse,Indianapolis,IN,,CycleClub
 35,334610,Sam,Winters,Indianapolis,IN,,Marian University Cycling Team
-36,2443,John,Balmer,Indianapolis ,IN,,Century Road Club of America
+36,2443,John,Balmer,Indianapolis,IN,,Century Road Club of America
 37,283391,Michael,Keller,Orland Hills,IL,,Bissell ABG Giant
 38,669,Matt,Bole,Loveland,OH,,Team Dayton Cycling
 39,296792,Luke,Mullis,Rochester Hills,MI,,BISSELL ABG GIANT
@@ -45,7 +45,7 @@ Place,License #,First,Last,City,State,Time,Team
 41,398250,Ryan,McLoughlin,Powell,OH,,Kreitler Racing Team
 42,281852,Joshua,Kush,Shoals,IN,,Clarksville Schwinn powered by Whayne
 43,403771,Luke,Manning,Stoutsville,OH,,Kreitler Racing Team
-DNS,82244,Chris,Richter,Fishers,IN,,Heroes Masters Racing
+DNS,82244,Chris,Richter,Carmel,IN,,Heroes Masters Racing
 DNS,122674,Chad,Burdzilauskas,Indianapolis,IN,,Dash Racing - the fitness lab
 DNS,177206,Felipe,Cardenas,Indianapolis,IN,,DASH RACING TEAM
 DNS,263833,Andrzej,Banaszkiewicz,Brownsburg,IN,,Zipp Masters Team
@@ -54,7 +54,7 @@ DNF,335978,Julian,Toumey,Madison,WI,,Great Dane Velo Club p/b Capital Brewery
 DNF,174544,Shane,Feehery,Homewood,IL,,Team Bicycle Heaven
 DNF,161263,Ryan,Knapp,Bloomington,IN,,First Internet Bank Cycling
 DNF,368618,Jake,Henningsen,Cincinnati,OH,,Team Hungry
-DNF,278921,Vance,Fletcher,Chariton,IA,,DASH Racing
+DNF,278921,Vance,Fletcher,Indianapolis,IN,,DASH Racing
 DNF,524475,Maxime,Millet,Cincinnati,OH,,University of Cincinnati
 DNF,292245,Edward,Fritzinger,Georgetown,IN,,Papa John's Racing Team
 
@@ -103,10 +103,10 @@ Place,License #,First,Last,City,State,Time,Team
 41,459572,Frank,Kenney,Camby,IN,,Team Bicycle Outfitters Indy
 42,489924,Rafael,Alvarez,Louisville,KY,,MiddletownCycling
 43,503963,Michael,Baker,Noblesville,IN,,Team Heroes
-44,533154,Parker,Rauschuber, Bloomington,IN,,Team Neighborlink
+44,533154,Parker,Rauschuber,Bloomington,IN,,Team Neighborlink
 45,500809,Nathan,Villiger,Indianapolis,IN,,Phoenix Fitness and Training
 46,0,Nick,Price,,,,None
-47,433604,Jake,Hreha,Berne ,IN,,Yokohama Racing p/b BikeLine/Singleton Coaching
+47,433604,Jake,Hreha,Berne,IN,,Yokohama Racing p/b BikeLine/Singleton Coaching
 48,432819,ryan,bredemeyer,Bloomington,IN,,Bakehouse Cycling
 49,151651,Terry,Mitchell,Mammoth Lakes,CA,,None
 50,538566,Shawn,Jakubowski,Berea,KY,,None
@@ -140,13 +140,13 @@ Place,License #,First,Last,City,State,Time,Team
 17,438443,George,Morrison IV,Indianapolis,IN,,Fitness Lab
 18,400639,Michael,Chettleburgh,Indianapolis,IN,,None
 19,499292,Michael,Schmahl,Indianapolis,IN,,SigmaNu
-20,508091,Kevin,Mangel,Valparaiso ,IN,,Black Key Bulls
+20,508091,Kevin,Mangel,Valparaiso,IN,,Black Key Bulls
 21,418081,Brad,Bailey,Bloomington,IN,,Indiana University
 22,376337,Terry,McDonald,Indianapolis,IN,,Dash Racing
 23,233714,Andrew,Beckman,Louisville,KY,,Clarksville Schwinn powered by Whayne
 24,353428,Scott,Baumer,Indianapolis,IN,,Dash Racing
 25,407691,Ben,Souders,Indianapolis,IN,,Team Upland Brewing
-26,273966,Michael,Cook,South Bend ,IN,,SZR p/b Evil Czech Brewing
+26,273966,Michael,Cook,South Bend,IN,,SZR p/b Evil Czech Brewing
 27,311604,Zachary,Deitch,Indianapolis,IN,,Team Upland Brewing
 28,337938,Will,Revard,Carmel,IN,,Yokohama Racing p/b BikeLine/SingletonCoaching
 29,499710,Ean,Pugh,Rochester,IN,,Yokohama Racing p/b BikeLine/SingletonCoaching
@@ -161,7 +161,7 @@ Place,License #,First,Last,City,State,Time,Team
 38,233960,Spencer,Dell,Indianapolis,IN,,Team Upland Brewing
 39,177206,Felipe,Cardenas,Indianapolis,IN,,DASH RACING TEAM
 40,174113,Joe,Fuller,Prospect,KY,,Clarksville Schwinn powered by Whayne
-41,238604,Brian,Sullivan,Mishawaka ,IN,,RACE INC.
+41,238604,Brian,Sullivan,South Bend,IN,,RACE INC.
 42,429605,William,Coleman,Greenfield,IN,,PhoenixRacing
 43,458551,William,Beaty,Danville,IN,,BOI
 44,391804,Jacob,Hoggard,Carmel,IN,,Yokohama Racing p/b BikeLine/Singleton Coaching
@@ -224,7 +224,7 @@ Place,License #,First,Last,City,State,Time,Team
 34,537763,Patrick,Keogh,Carmel,IN,,None
 35,104165,Thomas,McMannis,Noblesville,IN,,Bicycle Garage Indy-SRAM
 36,537576,Will,Clark,Indianapolis,IN,,None
-37,504812,Justin,Floyd,Carmel,IN,,None
+37,504812,Justin,Floyd,Indianapolis,IN,,None
 38,534925,David,Morris,Indianapolis,IN,,Lanterne Rouge Racing
 39,151651,Terry,Mitchell,Mammoth Lakes,CA,,None
 40,275296,David,Sac,Louisville,KY,,GUATEMALA
@@ -247,7 +247,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,515379,carlos,bernabe,Chicago,IL,,
 9,504054,Timothy,Bober,Indianapolis,IN,,
 10,395247,Nate,Lake,Indianapolis,IN,,Dash Racing
-11,533154,Parker,Rauschuber, Bloomington,IN,,Team Neighborlink
+11,533154,Parker,Rauschuber,Bloomington,IN,,Team Neighborlink
 12,0,Scott,Harris,,,,cornfed
 13,104165,Thomas,McMannis,Noblesville,IN,,Bicycle Garage Indy-SRAM
 14,534925,David,Morris,Indianapolis,IN,,Lanterne Rouge Racing
@@ -262,11 +262,11 @@ DNF,538331,Joshua,Lowery,Indianapolis,IN,,Teamey McTeamFace
 08/05/2017 Criterium Men Junior 15-18
 Place,License #,First,Last,City,State,Time,Team
 1,457574,Aaron,Banks,Westfield,IN,,Yokohama Racing p/b BikeLine/Singleton Coaching
-2,386461,Marek,Hayes,Brazil,IN,,J's Bikes Racing
+2,386461,Marek,Hayes,Rockville,IN,,J's Bikes Racing
 3,477135,Riley,Mosak,Crown Point,IN,,Yokohama Racing p/b BikeLine/SingletonCoaching
 4,466586,Connor,Wingler,Avon,IN,,Midwest Devo
 5,459401,Levi,Wolff,Louisville,KY,,Team Louisville
-6,433604,Jake,Hreha,Berne ,IN,,Yokohama Racing p/b BikeLine/Singleton Coaching
+6,433604,Jake,Hreha,Berne,IN,,Yokohama Racing p/b BikeLine/Singleton Coaching
 DNS,370469,Ruben,Bacon,Harrodsburg,KY,,Holowesko/Citadel Pb Hincapie Racing
 DNF,439697,Ahmir,Ayala,Columbus,OH,,H&HRacing
 
@@ -274,7 +274,7 @@ DNF,439697,Ahmir,Ayala,Columbus,OH,,H&HRacing
 Place,License #,First,Last,City,State,Time,Team
 1,128381,Brian,Baker,Louisville,KY,,Texas Roadhouse
 2,107684,Ben,Weaver,Columbus,IN,,ZIPP MASTERS TEAM
-3,82244,Chris,Richter,Fishers,IN,,Heroes Masters Racing
+3,82244,Chris,Richter,Carmel,IN,,Heroes Masters Racing
 4,263833,Andrzej,Banaszkiewicz,Brownsburg,IN,,Zipp Masters Team
 5,177206,Felipe,Cardenas,Indianapolis,IN,,DASH RACING TEAM
 6,669,Matt,Bole,Loveland,OH,,Team Dayton Cycling
@@ -339,7 +339,7 @@ DNF,517030,Jack,Palmer,Zionsville,IN,,Midwest Development Cycling Inc.
 
 08/05/2017 Criterium Women Cat 4/5
 Place,License #,First,Last,City,State,Time,Team
-1,530373,Zuzana,Birova,Fishers,IN,,Phoenix Fitness & Training
+1,530373,Zuzana,Birova,Littleton,CO,,Phoenix Fitness & Training
 2,508314,Grace,Bennett,Indianapolis,IN,,None
 3,429779,Heather,Pickey,Indianapolis,IN,,Phoenix
 4,0,Rachel,Brown,,,,None
@@ -348,7 +348,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,468758,Stacey,Hughes,Indianapolis,IN,,Team Nebo Ridge
 8,536331,sydney,keaton,Indianapolis,IN,,theta cycling
 9,404618,Andrea,Lehr,Plymouth,IN,,Spin Zone Racing
-10,369286,Kim,Grisvard,Dublin ,OH,,Kryki Sports Audi
+10,369286,Kim,Grisvard,Dublin,OH,,Kryki Sports Audi
 11,419163,Marie,Tutterow,Johnson City,TN,,TeamHeroes
 12,0,Autumn,Reinbold,,,,None
 13,402338,Bonnie,Yoder,Granger,IN,,Spin Zone Racing

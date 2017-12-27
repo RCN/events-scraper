@@ -7,7 +7,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,526444,Mario,Crespo,Bloomfield,NJ,,Montclair Bikery Racing
 4,534386,Ryan,Daly,White Plains,NY,,0
 5,529588,Christopher,Forenbaher,Hasbrouck Heights,NJ,,0
-6,460629,Christopher,Cheetham,Brooklyn,NY,,Century Road Club Assoc
+6,460629,Christopher,Cheetham,Irvington,NY,,Century Road Club Assoc
 7,532281,hawel,geronimo,Bronx,NY,,0
 8,522449,Julian,Fernandez,Emerson,NJ,,GS Park Ridge
 9,533033,Christophe,Palazzi,New York,NY,,Century Road Club Assoc
@@ -85,7 +85,7 @@ DNP,242817,Raul,Galliano,Secaucus,NJ,,DeathRow  Velo
 DNP,275606,Marc,Gagliano,Westport,CT,,Century Road Club Assoc
 DNP,114621,William,Brunner,Fairfield,NJ,,Montclair Bikery Racing
 DNP,292591,Matthew,Davitt,Nanuet,NY,,Century Road Club Assoc
-DNP,238008,Alejandro,Guzman,New York,NY,,Century Road Club Assoc
+DNP,238008,Alejandro,Guzman,New York ,NY,,Century Road Club Assoc
 DNP,83254,Chad,Butts,Montrose,NY,,Century Road Club Assoc
 DNP,367642,John,Schwartz,Rosendale,NY,,0
 DNP,438055,Andrew,Petti,Englewood Cliffs,NJ,,Century Road Club Assoc
@@ -101,7 +101,7 @@ DNP,148543,Gerardo,Martinez,Fort Lee,NJ,,Century Road Club Assoc
 DNP,342662,Malcolm,Mitchell,New York,NY,,EDGE Racing
 DNP,504426,Manuel,Brito,Allentown,PA,,0
 DNP,188277,Brian,Lauler,W Haverstraw,NY,,0
-DNP,153451,Jeffrey,Garcia,Bronx ,NY,,0
+DNP,153451,Jeffrey,Garcia,Bronx,NY,,0
 DNP,0,Ismal,Collada Acosta,,,,#N/A
 DNP,357250,RAMON,MELIAN,Bronx,NY,,Century Road Club Assoc
 DNP,0,Horace,Burrowes,,,,#N/A
@@ -172,7 +172,7 @@ DNP,536448,Jose,Jimenez,Bronx,NY,,0
 DNP,497588,Benjamin,Gorodetsky,Brooklyn,NY,,0
 DNP,466136,Miles,Whitford,Rutherford,NJ,,Montclair Bikery Racing
 DNP,0,scott,cooper,,,,#N/A
-DNP,511397,Raymundo,Torres,Fort Lee,NJ,,Century Road Club Assoc
+DNP,511397,Raymundo,Torres,Old Tappan,NJ,,Century Road Club Assoc
 DNP,449491,adam,jacobson,New City,NY,,#N/A
 DNP,0,kevin,barreto,,,,#N/A
 DNP,392837,Santiago,Lyon,New York,NY,,Century Road Club Assoc
@@ -180,7 +180,7 @@ DNP,0,johnny,rodrigez,,,,#N/A
 DNP,32951,Matthew,Slossberg,New York,NY,,Century Road Club Assoc
 DNP,422974,Nathaniel,Ruhlman,New York,NY,,Century Road Club Assoc
 DNP,460187,james,gilbert,New York,NY,,Century Road Club Assoc
-DNP,460312,allan,ganly,Astoria,NY,,Century Road Club Assoc
+DNP,460312,allan,ganly,Weehawken,NJ,,Century Road Club Assoc
 
 08/03/2017 Criterium  Cat 1/2/3 senior 19-99
 Place,License #,First,Last,City,State,Time,Team
@@ -194,7 +194,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,311002,Matthew,Jogodnik,Chatham,NJ,,Montclair Bikery Racing
 9,289932,Edward,Sirya,New York,NY,,0
 10,52336,Juan,Pineda,Sparkill ,NY,,Montclair Bikery Racing
-11,238008,Alejandro,Guzman,New York,NY,,Century Road Club Assoc
+11,238008,Alejandro,Guzman,New York ,NY,,Century Road Club Assoc
 12,499015,roman,onosovski,West New York,NJ,,Century Road Club Assoc
 13,370884,Didier,forero,Bloomfield,NJ,,#N/A
 14,301870,Seth,Houston,Perkasie,PA,,Rothman Institute p/b Talksoft
@@ -224,7 +224,7 @@ DNP,342662,Malcolm,Mitchell,New York,NY,,EDGE Racing
 DNP,504426,Manuel,Brito,Allentown,PA,,0
 DNP,369505,Eli,Fuld,Teaneck,NJ,,Century Road Club Assoc
 DNP,188277,Brian,Lauler,W Haverstraw,NY,,0
-DNP,153451,Jeffrey,Garcia,Bronx ,NY,,0
+DNP,153451,Jeffrey,Garcia,Bronx,NY,,0
 DNP,277455,Edwin,Morel,Fort Lee,NJ,,Century Road Club Assoc
 DNP,512417,William,Montanez,Dumont,NJ,,EVEPC
 DNP,357250,RAMON,MELIAN,Bronx,NY,,Century Road Club Assoc
@@ -249,7 +249,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,366117,Darrell,Tucker,Teaneck,NJ,,Century Road Club Assoc
 7,537603,Emmett,Gross,New York,NY,,0
 8,466207,Juan,Henriquez,Haverstraw,NY,,Century Road Club Assoc
-9,460629,Christopher,Cheetham,Brooklyn,NY,,Century Road Club Assoc
+9,460629,Christopher,Cheetham,Irvington,NY,,Century Road Club Assoc
 10,306725,Jason,Bell,Sleepyhollow,NY,,Century Road Club Assoc
 11,424213,Christopher,Dudko,Hastings On Hudson,NY,,0
 12,209485,Sung,Pak,Sleepy Hollow,NY,,Iron Bridge / Tarmac Cycling
@@ -293,7 +293,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,508429,Juan,SuarezCastillo,New York,NY,,0
 4,289932,Edward,Sirya,New York,NY,,0
 5,428602,Erlin,Garcia,West New York,NJ,,Century Road Club Assoc
-6,238008,Alejandro,Guzman,New York,NY,,Century Road Club Assoc
+6,238008,Alejandro,Guzman,New York ,NY,,Century Road Club Assoc
 7,243357,Juan,Pimentel Jr.,Maywood,NJ,,0
 8,311002,Matthew,Jogodnik,Chatham,NJ,,Montclair Bikery Racing
 9,499015,roman,onosovski,West New York,NJ,,Century Road Club Assoc
@@ -308,7 +308,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,342662,Malcolm,Mitchell,New York,NY,,EDGE Racing
 20,306332,Daghan,Perker,New York,NY,,Century Road Club Assoc
 DNP,357250,RAMON,MELIAN,Bronx,NY,,Century Road Club Assoc
-DNP,422489,uber,uribe,Montclair ,NJ,,Montclair Bikery Racing
+DNP,422489,uber,uribe,Montclair,NJ,,Montclair Bikery Racing
 DNP,275606,Marc,Gagliano,Westport,CT,,Century Road Club Assoc
 DNP,169549,Haluk,Sarci,Cresskill,NJ,,Century Road Club Assoc
 DNP,370884,Didier,Forero,Bloomfield,NJ,,#N/A
@@ -317,7 +317,7 @@ DNP,47868,Romel,Campbell,Dumont,NJ,,Westwood Velo
 DNP,438055,Andrew,Petti,Englewood Cliffs,NJ,,Century Road Club Assoc
 DNP,136195,Roger,Aspholm,Haworth,NJ,,Finkraft
 DNP,148543,Gerardo,Martinez,Fort Lee,NJ,,Century Road Club Assoc
-DNP,153451,Jeffrey,Garcia,Bronx ,NY,,0
+DNP,153451,Jeffrey,Garcia,Bronx,NY,,0
 DNP,1319,Mark,Alden,Montvale,NJ,,Century Road Club Assoc
 DNP,28312,Ken,Plundeke,Tenafly,NJ,,Century Road Club Assoc
 DNP,0,Martinez,Ramon,,,,#N/A
@@ -335,10 +335,10 @@ Place,License #,First,Last,City,State,Time,Team
 5,410528,Julius,Quito,Astoria,NY,,Century Road Club Assoc
 6,532281,hawel,geronimo,Bronx,NY,,0
 7,424811,Ian,Clark,Scarsdale,NY,,Century Road Club Assoc
-8,460629,Christopher,Cheetham,Brooklyn,NY,,Century Road Club Assoc
+8,460629,Christopher,Cheetham,Irvington,NY,,Century Road Club Assoc
 9,466098,Joshua,Noggle,New York,NY,,Century Road Club Assoc
 10,384875,Mauricio,Mino,Bronx,NY,,Century Road Club Assoc
-11,428905,Michal,Kicior,Wallington,NJ,,EDGE Racing
+11,428905,Michal,Kicior,Fair Lawn,NJ,,EDGE Racing
 12,314038,Keith,Garrison,Brooklyn,NY,,King Kog
 13,501733,Nicholas,Bevilacqua,Haworth,NJ,,0
 14,526444,Mario,Crespo,Bloomfield,NJ,,Montclair Bikery Racing
@@ -405,7 +405,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,369505,Eli,Fuld,Teaneck,NJ,,Century Road Club Assoc
 20,59952,Stephen,Jamison,New York,NY,,Century Road Club Assoc
 DNP,243357,Juan,Pimentel Jr.,Maywood,NJ,,0
-DNP,422489,Uber,Uribe,Montclair ,NJ,,#N/A
+DNP,422489,Uber,Uribe,Montclair,NJ,,#N/A
 DNP,275606,Marc,Gagliano,Westport,CT,,Century Road Club Assoc
 DNP,206471,Kuria,Njenga,Nyack,NY,,Century Road Club Assoc
 DNP,438164,Jason,Briscoe,Brooklyn,NY,,#N/A
@@ -428,7 +428,7 @@ DNP,188277,Brian,Lauler,W Haverstraw,NY,,0
 DNP,357250,RAMON,MELIAN,Bronx,NY,,Century Road Club Assoc
 DNP,198056,Joshua,Petri,Jersey City,NJ,,0
 DNP,291272,Andrew,Seitz,New York,NY,,Century Road Club Assoc
-DNP,153451,Jeffrey,Garcia,Bronx ,NY,,0
+DNP,153451,Jeffrey,Garcia,Bronx,NY,,0
 DNP,0,Ismael,ColladaAcosta,,,,#N/A
 DNP,512417,William,Montanez,Dumont,NJ,,#N/A
 DNP,499015,roman,onosovski,West New York,NJ,,Century Road Club Assoc
@@ -436,7 +436,7 @@ DNP,499015,roman,onosovski,West New York,NJ,,Century Road Club Assoc
 07/13/2017 Criterium  Cat 4/5 senior 19-99
 Place,License #,First,Last,City,State,Time,Team
 1,529588,Christopher,Forenbaher,Hasbrouck Heights,NJ,,0
-2,460629,Christopher,Cheetham,Brooklyn,NY,,Century Road Club Assoc
+2,460629,Christopher,Cheetham,Irvington,NY,,Century Road Club Assoc
 3,526444,Mario,Crespo,Bloomfield,NJ,,Montclair Bikery Racing
 4,466098,Joshua,Noggle,New York,NY,,Century Road Club Assoc
 5,466207,Juan,Henriquez,Haverstraw,NY,,Century Road Club Assoc
@@ -472,7 +472,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,428602,Erlin,Garcia,West New York,NJ,,Century Road Club Assoc
 4,508429,Juan,SuarezCastillo,New York,NY,,0
 5,52336,Juan,Pineda,Sparkill ,NY,,Montclair Bikery Racing
-6,238008,Alejandro,Guzman,New York,NY,,Century Road Club Assoc
+6,238008,Alejandro,Guzman,New York ,NY,,Century Road Club Assoc
 7,0,Ismael,ColladoAcosta,,,,#N/A
 8,114621,William,Brunner,Fairfield,NJ,,Montclair Bikery Racing
 9,306332,Daghan,Perker,New York,NY,,Century Road Club Assoc
@@ -487,7 +487,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,440206,Nicholas,Toscano,New York,NY,,0
 19,192551,David,Adornato,Verona,NJ,,Montclair Bikery Racing
 20,767,Benjamin,Koyle,Lynnfield,MA,,Team Fit Werx
-DNP,422489,Uber,Uribe,Montclair ,NJ,,#N/A
+DNP,422489,Uber,Uribe,Montclair,NJ,,#N/A
 DNP,242817,Raul,Galliano,Secaucus,NJ,,DeathRow  Velo
 DNP,59952,Stephen,Jamison,New York,NY,,Century Road Club Assoc
 DNP,53820,Mynor,Pineda,Union,NJ,,Montclair Bikery Racing
@@ -505,7 +505,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,499015,roman,onosovski,West New York,NJ,,Century Road Club Assoc
 3,410528,Julius,Quito,Astoria,NY,,Century Road Club Assoc
 4,405126,Shafiq,Abdul-Rahim,Brooklyn,NY,,Century Road Club Assoc
-5,460629,Christopher,Cheetham,Brooklyn,NY,,Century Road Club Assoc
+5,460629,Christopher,Cheetham,Irvington,NY,,Century Road Club Assoc
 6,306725,Jason,Bell,Sleepyhollow,NY,,Century Road Club Assoc
 7,529588,Christopher,Forenbaher,Hasbrouck Heights,NJ,,0
 8,318156,James,Yoo,Closter,NJ,,Century Road Club Assoc
@@ -526,7 +526,7 @@ DNP,366029,Julian,Banks,Englewood,NJ,,0
 DNP,385797,Wouter,Hoogenboom,Bronx,NY,,Century Road Club Assoc
 DNP,497780,Michael,Alderman,Jersey City,NJ,,Montclair Bikery Racing
 DNP,529082,Anthony,Santana,Paterson,NJ,,0
-DNP,511397,Raymundo,Torres,Fort Lee,NJ,,Century Road Club Assoc
+DNP,511397,Raymundo,Torres,Old Tappan,NJ,,Century Road Club Assoc
 DNP,263558,michael,elias,Bogota,NJ,,0
 DNP,366117,Darrell,Tucker,Teaneck,NJ,,Century Road Club Assoc
 DNP,501454,Rich,Rosado,Bergenfield,NJ,,Century Road Club Assoc
@@ -539,7 +539,7 @@ DNP,524295,Carlos,Moreta,Teaneck,NJ,,Century Road Club Assoc
 DNP,252795,Lee,Sartain,Raleigh,NC,,Columbia University-NYC
 DNP,481317,Chris,Washburne,New York,NY,,Century Road Club Assoc
 DNP,422152,Ricky,Corbin Jr,Brooklyn,NY,,Century Road Club Assoc
-DNP,460312,allan,ganly,Astoria,NY,,Century Road Club Assoc
+DNP,460312,allan,ganly,Weehawken,NJ,,Century Road Club Assoc
 DNP,460187,james,gilbert,New York,NY,,Century Road Club Assoc
 DNP,503757,Daniel,Corless,New York,NY,,Century Road Club Assoc
 DNP,279205,Rick,DeMan,Nyack,NY,,#N/A
@@ -558,7 +558,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,13633,Richard,Gonzalez,Bayonne,NJ,,Mid Atl Masters Bicycle Org
 10,199949,Charlie,Rey,Tappan,NY,,0
 11,296438,Brendan,Pearce,Ho Ho Kus,NJ,,Century Road Club Assoc
-12,422489,uber,uribe,Montclair ,NJ,,Montclair Bikery Racing
+12,422489,uber,uribe,Montclair,NJ,,Montclair Bikery Racing
 13,242817,Raul,Galliano,Secaucus,NJ,,DeathRow  Velo
 14,275606,Marc,Gagliano,Westport,CT,,Century Road Club Assoc
 15,28312,Ken,Plundeke,Tenafly,NJ,,Century Road Club Assoc
@@ -589,7 +589,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,499015,roman,onosovski,West New York,NJ,,Century Road Club Assoc
 4,496878,James,Krizan,New York,NY,,Century Road Club Assoc
 5,410528,Julius,Quito,Astoria,NY,,Century Road Club Assoc
-6,466154,eamonn,schnell,Brooklyn,NY,,Oberlin College
+6,466154,eamonn,schnell,Oberlin,OH,,Oberlin College
 7,518664,Noah,Altman,Tenafly,NJ,,Century Road Club Assoc
 8,526444,Mario,Crespo,Bloomfield,NJ,,Montclair Bikery Racing
 9,422974,Nathaniel,Ruhlman,New York,NY,,Century Road Club Assoc
@@ -606,7 +606,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,484771,Cullen,MacDonald,Brooklyn,NY,,Coalition CC
 DNP,478628,Kamil,Kurylo,Garfield,NJ,,0
 DNP,466207,Juan,Henriquez,Haverstraw,NY,,Century Road Club Assoc
-DNP,428905,Michal,Kicior,Wallington,NJ,,EDGE Racing
+DNP,428905,Michal,Kicior,Fair Lawn,NJ,,EDGE Racing
 DNP,199172,Roger,Billharz,Sleepy Hollow,NY,,Pawling Cycle & Sport
 DNP,366029,Julian,Banks,Englewood,NJ,,0
 DNP,318156,James,Yoo,Closter,NJ,,Century Road Club Assoc
@@ -649,7 +649,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,508429,Juan,SuarezCastillo,New York,NY,,0
 11,277811,Frank,O'Reilly,Pearl River,NY,,0
 12,306332,Daghan,Perker,New York,NY,,Century Road Club Assoc
-13,422489,uber,uribe,Montclair ,NJ,,Montclair Bikery Racing
+13,422489,uber,uribe,Montclair,NJ,,Montclair Bikery Racing
 14,301870,Seth,Houston,Perkasie,PA,,Rothman Institute p/b Talksoft
 15,13633,Richard,Gonzalez,Bayonne,NJ,,Mid Atl Masters Bicycle Org
 16,200872,David,Freifelder,Glenwood,NJ,,Westwood Velo
@@ -667,7 +667,7 @@ DNP,380574,Carl,Robinson,Garwood,NJ,,DeathRow  Velo
 DNP,28312,Ken,Plundeke,Tenafly,NJ,,Century Road Club Assoc
 DNP,342242,Ryan,Quinn,Brooklyn,NY,,0
 DNP,47868,Romel,Campbell,Dumont,NJ,,Westwood Velo
-DNP,238008,Alejandro,Guzman,New York,NY,,Century Road Club Assoc
+DNP,238008,Alejandro,Guzman,New York ,NY,,Century Road Club Assoc
 DNP,269625,Corey,Williams,New York,NY,,BOLD Racing Team
 DNP,367642,John,Schwartz,Rosendale,NY,,0
 DNP,370884,Didier,Forero,Bloomfield,NJ,,Montclair Bikery Racing
@@ -681,7 +681,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,496826,Jack,Vogel,Franklin Lakes,NJ,,0
 2,529082,Anthony,Santana,Paterson,NJ,,0
 3,440206,Nicholas,Toscano,New York,NY,,0
-4,460629,Christopher,Cheetham,Brooklyn,NY,,Century Road Club Assoc
+4,460629,Christopher,Cheetham,Irvington,NY,,Century Road Club Assoc
 5,405126,Shafiq,Abdul-Rahim,Brooklyn,NY,,Century Road Club Assoc
 6,410528,Julius,Quito,Astoria,NY,,Century Road Club Assoc
 7,367071,rodolfo,diluca,Bronx,NY,,0
@@ -700,7 +700,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,474922,Budd,White,New York,NY,,RAPHA CYCLING CLUB
 DNP,478628,Kamil,Kurylo,Garfield,NJ,,0
 DNP,524201,Konstantine,Sukhovarov,Yorktown Heights,NY,,Century Road Club Assoc
-DNP,428905,Michal,Kicior,Wallington,NJ,,EDGE Racing
+DNP,428905,Michal,Kicior,Fair Lawn,NJ,,EDGE Racing
 DNP,306725,Jason,Bell,Sleepyhollow,NY,,Century Road Club Assoc
 DNP,366029,Julian,Banks,Englewood,NJ,,0
 DNP,318156,James,Yoo,Closter,NJ,,Century Road Club Assoc
@@ -745,7 +745,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,66809,John,Wain,Ridgewood,NJ,,0
 10,404023,Jeremy,Borden,New York,NY,,0
 11,400447,Higinio,Rodriguez,New York,NY,,0
-12,238008,Alejandro,Guzman,New York,NY,,Century Road Club Assoc
+12,238008,Alejandro,Guzman,New York ,NY,,Century Road Club Assoc
 13,66781,Daniel,Schmalz,Ridgewood,NJ,,Century Road Club Assoc
 14,380574,Carl,Robinson,Garwood,NJ,,DeathRow  Velo
 15,357870,Owen,Caprell,New York,NY,,0
@@ -785,7 +785,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,306725,Jason,Bell,Sleepyhollow,NY,,Century Road Club Assoc
 12,405126,Shafiq,Abdul-Rahim,Brooklyn,NY,,Century Road Club Assoc
 13,337124,Kavaughn,Blake,Bronx,NY,,Major Taylor Development Team
-14,428905,Michal,Kicior,Wallington,NJ,,EDGE Racing
+14,428905,Michal,Kicior,Fair Lawn,NJ,,EDGE Racing
 15,397314,Adrian,Moy,Upland,CA,,Century Road Club Assoc
 16,199172,Roger,Billharz,Sleepy Hollow,NY,,Pawling Cycle & Sport
 17,384875,Mauricio,Mino,Bronx,NY,,Century Road Club Assoc
@@ -834,7 +834,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,66809,John,Wain,Ridgewood,NJ,,0
 10,399609,Olof,Dallner,New York,NY,,Century Road Club Assoc
 11,367642,John,Schwartz,Rosendale,NY,,0
-12,422489,uber,uribe,Montclair ,NJ,,Montclair Bikery Racing
+12,422489,uber,uribe,Montclair,NJ,,Montclair Bikery Racing
 13,292591,Matthew,Davitt,Nanuet,NY,,Century Road Club Assoc
 14,438055,Andrew,Petti,Englewood Cliffs,NJ,,Century Road Club Assoc
 15,404023,Jeremy,Borden,New York,NY,,0
@@ -889,7 +889,7 @@ DNP,285324,Jonathan,Halperin,Hastings On Hudson,NY,,Century Road Club Assoc
 DNP,410528,Julius,Quito,Astoria,NY,,Century Road Club Assoc
 DNP,478628,Kamil,Kurylo,Garfield,NJ,,#N/A
 DNP,524201,Konstantine,Sukhovarov,Yorktown Heights,NY,,Century Road Club Assoc
-DNP,428905,Michal,Kicior,Wallington,NJ,,EDGE Racing
+DNP,428905,Michal,Kicior,Fair Lawn,NJ,,EDGE Racing
 DNP,0,Yisroel,Spanier,,,,#N/A
 DNP,14760,Brett,Halpern,New York,NY,,Century Road Club Assoc
 DNP,522449,Julian,Fernandez,Emerson,NJ,,GS Park Ridge
@@ -901,7 +901,7 @@ DNP,283258,joseph,meyerfuchs,Oakland,NJ,,0
 DNP,526055,Felipe,Schaun Machado,Weehawken,NJ,,0
 DNP,215972,George,Vlahogiannis,Rutherford,NJ,,0
 DNP,500081,Corser,Tobias,Palisades,NY,,Century Road Club Assoc
-DNP,511397,Raymundo,Torres,Fort Lee,NJ,,Century Road Club Assoc
+DNP,511397,Raymundo,Torres,Old Tappan,NJ,,Century Road Club Assoc
 DNP,525997,Richard,Ferraro,Montclair,NJ,,EDGE Racing
 DNP,376409,Stephen,Charron,Rockaway,NJ,,0
 DNP,325240,sergio,aguirre,New York,NY,,Century Road Club Assoc
@@ -939,7 +939,7 @@ DNP,397088,Dennis,Rutherford,Warwick,NY,,DeathRow  Velo
 DNP,192551,David,Adornato,Verona,NJ,,Montclair Bikery Racing
 DNP,242817,Raul,Galliano,Secaucus,NJ,,DeathRow  Velo
 DNP,275606,Marc,Gagliano,Westport,CT,,Century Road Club Assoc
-DNP,422489,uber,uribe,Montclair ,NJ,,Montclair Bikery Racing
+DNP,422489,uber,uribe,Montclair,NJ,,Montclair Bikery Racing
 DNP,52288,Mihael,Ginghina,Dobbs Ferry,NY,,Century Road Club Assoc
 DNP,206471,Kuria,Njenga,Nyack,NY,,Century Road Club Assoc
 DNP,169549,Haluk,Sarci,Cresskill,NJ,,Century Road Club Assoc
@@ -955,7 +955,7 @@ DNP,418523,Woody,Baum,New York,NY,,Century Road Club Assoc
 DNP,47868,Romel,Campbell,Dumont,NJ,,Westwood Velo
 DNP,292591,Matthew,Davitt,Nanuet,NY,,#N/A
 DNP,504426,Manuel,Brito,Allentown,PA,,0
-DNP,238008,Alejandro,Guzman,New York,NY,,Century Road Club Assoc
+DNP,238008,Alejandro,Guzman,New York ,NY,,Century Road Club Assoc
 DNP,249636,genaro,cespedes,New York,NY,,#N/A
 DNP,269625,Corey,Williams,New York,NY,,BOLD Racing Team
 DNP,344500,kelvin,savinon,New York,NY,,#N/A
@@ -967,7 +967,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,499015,roman,onosovski,West New York,NJ,,Century Road Club Assoc
 2,466098,Joshua,Noggle,New York,NY,,Century Road Club Assoc
 3,390002,Augusto,Sanchez,Fort Lee,NJ,,
-4,428905,Michal,Kicior,Wallington,NJ,,EDGE Racing
+4,428905,Michal,Kicior,Fair Lawn,NJ,,EDGE Racing
 5,384875,Mauricio,Mino,Bronx,NY,,Century Road Club Assoc
 6,466207,Juan,Henriquez,Haverstraw,NY,,Century Road Club Assoc
 7,306725,Jason,Bell,Sleepyhollow,NY,,Century Road Club Assoc
@@ -995,6 +995,6 @@ Place,License #,First,Last,City,State,Time,Team
 6,296438,Brendan,Pearce,Ho Ho Kus,NJ,,Century Road Club Assoc
 7,357870,Owen,Caprell,New York,NY,,0
 8,300507,Richard,Scudney,New York,NY,,Century Road Club Assoc
-9,422489,uber,uribe,Montclair ,NJ,,Montclair Bikery Racing
+9,422489,uber,uribe,Montclair,NJ,,Montclair Bikery Racing
 10,9400,Rafael,Diaz-Granados,Leonia,NJ,,Century Road Club Assoc
 11,0,Ismael,collada,,,,#N/A

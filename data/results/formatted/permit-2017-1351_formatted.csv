@@ -5,7 +5,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,215842,Palo,SAMKO,Brooklyn,NY,0:45:02,
 2,533033,Christophe,Palazzi,New York,NY,0:45:27,CRCA/Echelon Cycles
 3,59874,Marc,CESARE,Brooklyn,NY,0:45:30,CRCA/Deno's Wonder Wheel Masters Bicycle Racing Team
-4,72490,Jan,MICKO,Glen Cove,NY,0:45:33,Brands Super Awesome Racing
+4,72490,Jan,MICKO,Durham,NC,0:45:33,Brands Super Awesome Racing
 5,439904,Daniel,DIAZ,East Elmhurt,NY,0:45:33,Cuevas Cycling Development
 6,239267,John,Arias,Freeport,NY,0:45:33,Cuevas Cycling Development
 7,0,Julius,QUITO,,,0:45:33,
@@ -15,14 +15,14 @@ Place,License #,First,Last,City,State,Time,Team
 11,408320,Chaim,SEEWALD,Brooklyn,NY,0:45:36,Kissena Cycling Club
 12,47711,Nathan,BRAUER,Brooklyn,NY,0:45:36,CRCA/Foundation
 13,473589,Vincent,RIBEIRO,Brooklyn,NY,0:45:36,Verrazano Team Racing
-14,383816,Hernan,LUCERO,Hicksville ,NY,0:45:36,Mineola Bicycle Racing Team
+14,383816,Hernan,LUCERO,Hicksville,NY,0:45:36,Mineola Bicycle Racing Team
 15,109367,Henoch,Getz,Brooklyn,NY,0:45:36,CRCA/e2Value
 16,460634,Ed,HAMMOND,Brooklyn,NY,0:45:36,CRCA/Maglia Rosa NYC
 17,497588,Benjamin,GORODETSKY,Brooklyn,NY,0:45:36,
 18,91711,Stas,ZAKRZEWSKI,New York,NY,0:45:40,CRCA/Team Veselka p/b Cafe Grumpy
 19,473386,Joven,Macaldo,Brooklyn,NY,0:45:43,Verrazano Team Racing
 20,14760,Brett,HALPERN,New York,NY,0:45:46,CRCA/Dave Jordan Racing
-21,399626,Alexis,HERRERA,Sunnyside,NY,0:46:01,Berroa Racing
+21,399626,Alexis,HERRERA,Jamaica,NY,0:46:01,Berroa Racing
 22,296514,Kenrick,CAESAR,Jamaica,NY,0:46:17,
 23,425695,Donald,Portillo,South Richmond Hilli,NY,0:49:55,Cuevas Cycling Development
 24,512569,Rodrigo,GARCIA,Jamaica,NY,0:50:17,Berroa Racing
@@ -104,7 +104,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,215842,Palo,SAMKO,Brooklyn,NY,57:34,
 2,370704,Jacek,BORAL,Brooklyn,NY,8,Healty And Happy Racing
-3,72490,Jan,MICKO,Glen Cove,NY,24,Brands Super Awesome Racing
+3,72490,Jan,MICKO,Durham,NC,24,Brands Super Awesome Racing
 4,503967,Edison,MARULANDA,Brooklyn,NY,s.t.,Berroa Racing
 5,497588,Benjamin,GORODETSKY,Brooklyn,NY,s.t.,Kosher Cyclists
 6,533033,Christophe,PALAZZI,New York,NY,s.t.,Echelon Cycles
@@ -135,7 +135,7 @@ Place,License #,First,Last,City,State,Time,Team
 31,406351,Oscar,COELLO,Uniondale,NY,4:46,Cuevas Cycling Development
 32,109367,Henoch,GETZ,Brooklyn,NY,12:06,E2value
 33,237266,Reginald,RASCH,New York,NY,s.t.,Crca / Team Veselka
-33,399626,Alexis,HERRERA,Sunnyside,NY,s.t.,Berroa Racing
+33,399626,Alexis,HERRERA,Jamaica,NY,s.t.,Berroa Racing
 33,524918,Miguel,GOMEZ,Fresh Meadows,NY,s.t.,Cuevas Jr Development Pb Roadru
 33,495159,John,BEARDSLEY,Brooklyn,NY,s.t.,Nycc Racing P/b Bgc Partners
 33,400456,Sean,HILL,Brooklyn,NY,s.t.,Rapha Cycling Club
@@ -193,7 +193,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,205789,Zak,ABDULLAH,New York,NY,s.t.,
 15,0,William,MONTANEZ,,,s.t.,
 15,498106,Masaharu,ITO,Elmhurst,NY,s.t.,Team Veselka P/b Cafe Grumpy
-15,466154,Eamonn,SCHNELL,Brooklyn,NY,s.t.,Oberlin College
+15,466154,Eamonn,SCHNELL,Oberlin,OH,s.t.,Oberlin College
 15,381544,Egor,ASTAKHOV,Brooklyn,NY,s.t.,Bold Racing Team
 15,225368,David,VOLLBACH,Brooklyn,NY,s.t.,Bicycle Habitat Verge Sport
 15,467931,Sean,GORDON,Scarborough,ME,s.t.,Verrazano Team Racing
@@ -208,12 +208,12 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,513877,James,HAWKINS,Brooklyn,NY,0:53:07,CRCA/Maglia Rosa NYC
 2,239267,John,Arias,Freeport,NY,0:53:07,Cuevas Cycling Development
-3,72490,Jan,MICKO,Glen Cove,NY,0:53:07,Brands Super Awesome Racing
+3,72490,Jan,MICKO,Durham,NC,0:53:07,Brands Super Awesome Racing
 4,410528,Julius,Quito,Astoria,NY,0:53:07,
 5,431669,Khrystopher,MURRELL,Brooklyn,NY,0:53:07,CRCA/Major Taylor
 6,296514,Kenrick,CAESAR,Jamaica,NY,0:53:07,
 7,197222,Dorian,SPENCER,Staten Island,NY,0:53:07,
-8,460312,Allan,GANLY,Astoria,NY,0:53:07,CRCA/NYCC Racing p/b BGC Partners
+8,460312,Allan,GANLY,Weehawken,NJ,0:53:07,CRCA/NYCC Racing p/b BGC Partners
 9,503967,Edison,MARULANDA,Brooklyn,NY,0:53:07,
 10,431181,Johan,ABREU,Fresh Meadows,NY,0:53:07,CRCA/e2Value
 11,527187,Alvaro,SOLTERO,Brooklyn,NY,0:53:07,CRCA/Team Patch.com
@@ -233,7 +233,7 @@ Place,License #,First,Last,City,State,Time,Team
 25,400456,Sean,HILL,Brooklyn,NY,0:53:07,RAPHA CYCLING CLUB
 26,509990,Dustin,Ramos,Flushing,NY,0:53:07,
 27,298598,Brian,SULLIVAN,Jersey City,NJ,0:53:07,CRCA/e2Value
-28,399626,Alexis,HERRERA,Sunnyside,NY,0:53:07,Berroa Racing
+28,399626,Alexis,HERRERA,Jamaica,NY,0:53:07,Berroa Racing
 29,366779,Oscar,LOPEZ,Brooklyn,NY,0:53:07,W.S. UNITED
 30,215842,Palo,SAMKO,Brooklyn,NY,0:53:07,
 31,512569,Rodrigo,GARCIA,Jamaica,NY,0:53:07,Berroa Racing
@@ -295,7 +295,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,340722,Samuel,TORRES,Corona,NY,0:57:55,Triangle Cyclists
 23,264625,Ira,BLUMBERG,New York,NY,0:57:55,CRCA/Rapha Cycling Club
 24,209778,Michael,PERLBERG,Brooklyn,NY,0:57:55,Bicycle Habitat Verge Sport
-25,466154,Eamonn,SCHNELL,Brooklyn,NY,0:57:55,Oberlin College
+25,466154,Eamonn,SCHNELL,Oberlin,OH,0:57:55,Oberlin College
 26,222950,Brian,MILLIGAN,New York,NY,0:57:55,CRCA/Team Veselka p/b Cafe Grumpy
 27,71814,Alexi,BERROA,Brooklyn,NY,0:57:55,Berroa Racing
 28,393290,Brendan,Rigby,New York,NY,0:57:55,Kissena Cycling Club
@@ -315,7 +315,7 @@ Place,License #,First,Last,City,State,Time,Team
 42,225368,David,Vollbach,Brooklyn,NY,0:58:05,Bicycle Habitat Verge Sport
 43,274367,Allan,REGO,New York,NY,0:58:05,CRCA/Lupus Racing Team
 44,194041,Paul,BURROWES,Brooklyn,NY,0:58:05,
-45,317888,Erik,LAVOIE,Brooklyn ,NY,0:58:11,CRCA/Rockstar Games
+45,317888,Erik,LAVOIE,Brooklyn,NY,0:58:11,CRCA/Rockstar Games
 46,326800,Ronald,RESTIVO,Port Washington,NY,0:58:11,CRCA/Team Veselka p/b Cafe Grumpy
 47,467931,Sean,Gordon,Scarborough,ME,0:58:11,Verrazano Team Racing
 48,193990,Anthony,LOWE,Brooklyn,NY,0:58:11,
@@ -378,7 +378,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,513393,Sebastian,VIDAL,Brooklyn,NY,1:26:01,Kissena Cycling Club
 2,296514,Kenrick,CAESAR,Jamaica,NY,s.t.,
-3,72490,Jan,MICKO,Glen Cove,NY,s.t.,Brands Super Awesome Racing
+3,72490,Jan,MICKO,Durham,NC,s.t.,Brands Super Awesome Racing
 4,410528,Julius,Quito,Astoria,NY,s.t.,
 5,281116,Manuel,FRIAS,Brooklyn,NY,s.t.,
 6,460187,James,GILBERT,New York,NY,s.t.,Nycc Racing P/b Bgc Partners
@@ -409,9 +409,9 @@ Place,License #,First,Last,City,State,Time,Team
 31,109367,Henoch,GETZ,Brooklyn,NY,s.t.,Crca/e2value
 32,365384,Vladimir,RABINOVICH,Brooklyn,NY,s.t.,Kruiscx
 33,527187,Alvaro,SOLTERO,Brooklyn,NY,s.t.,Team Patch.com
-34,460312,Allan,GANLY,Astoria,NY,s.t.,Nycc Racing P/b Bgc Partners
+34,460312,Allan,GANLY,Weehawken,NJ,s.t.,Nycc Racing P/b Bgc Partners
 35,431669,Khrystopher,MURRELL,Brooklyn,NY,s.t.,Major Taylor
-36,399626,Alexis,HERRERA,Sunnyside,NY,s.t.,Berroa Racing
+36,399626,Alexis,HERRERA,Jamaica,NY,s.t.,Berroa Racing
 37,185511,David,CORREIA,Maspeth,NY,s.t.,
 38,484771,Cullen,MACDONALD,Brooklyn,NY,s.t.,Coalition Cc
 39,512569,Rodrigo,GARCIA,Jamaica,NY,9,
@@ -465,7 +465,7 @@ Place,License #,First,Last,City,State,Time,Team
 34,386892,Jesus,MARTINEZ,Brooklyn,NY,26,Nycc Racing P/b Bgc Partners
 35,294682,Jeffrey,YOUNG,New York,NY,27,Rapha Cycling Club
 36,332646,Alexei,ZAKHAROV,New York,NY,s.t.,Team Veselka P/b Cafe Grumpy
-37,317888,Erik,LAVOIE,Brooklyn ,NY,29,Rockstar Games
+37,317888,Erik,LAVOIE,Brooklyn,NY,29,Rockstar Games
 38,53820,Mynor,PINEDA,Union,NJ,32,Montclair Bikery Racing
 39,303894,Colin,TANNER,Brooklyn,NY,35,Crca/tbd
 40,369473,Masha,SCHNEIDER,Guttenberg,NJ,37,Crca /e2value
@@ -497,7 +497,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,0,Rafael,GERMAN MERAN,,,s.t.,Aero Cycling
 20,198228,Johann,BURROWES,Brooklyn,NY,s.t.,We Stand United (w.s.)
 21,120838,Samuel,Martinez,Ozone Park,NY,s.t.,
-22,238008,Alejandro,GUZMAN,New York,NY,s.t.,Foundation
+22,238008,Alejandro,GUZMAN,New York ,NY,s.t.,Foundation
 23,512417,William,Montanez,Dumont,NJ,s.t.,
 24,428526,Jason,GUZMAN,Brooklyn,NY,s.t.,Crca/dave Jordan Racing
 25,438970,Val,PETROV,New York,NY,s.t.,Dave Jordan Racing
@@ -508,7 +508,7 @@ Place,License #,First,Last,City,State,Time,Team
 30,498106,Masaharu,ITO,Elmhurst,NY,s.t.,Team Veselka P/b Cafe Grumpy
 31,332606,Michael,KUEHN,New York,NY,16,Team Veselka P/b Cafe Grumpy
 32,178446,Joseph,ORGERA,Forest Hills,NY,s.t.,Berroa Racing
-33,317888,Erik,LAVOIE,Brooklyn ,NY,s.t.,Rockstar Games
+33,317888,Erik,LAVOIE,Brooklyn,NY,s.t.,Rockstar Games
 34,194041,Paul,BURROWES,Brooklyn,NY,s.t.,
 35,344740,Stefan,SINGER,Brooklyn,NY,19,Crca / Team Veselka
 36,66781,Daniel,SCHMALZ,Ridgewood,NJ,s.t.,Crca/rockstar Games
@@ -529,7 +529,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 07/25/2017 Circuit Race Men Cat3/4 Open
 Place,License #,First,Last,City,State,Time,Team
-1,528365,Quintin,CHIAPPERINO,Whitestone,NY,54:12:00,
+1,528365,Quintin,CHIAPPERINO,Austin,TX,54:12:00,
 2,239267,John,ARIAS,Freeport,NY,s.t.,Cuevas Cycling Development
 3,410528,Julius,Quito,Astoria,NY,s.t.,
 4,197222,Dorian,SPENCER,Staten Island,NY,s.t.,
@@ -544,7 +544,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,440943,Aaron,TEMPLE,Brooklyn,NY,s.t.,
 14,422974,Nathaniel,RUHLMAN,New York,NY,s.t.,Crca/dave Jordan Racing
 15,439904,Daniel,DIAZ,East Elmhurt,NY,s.t.,Cuevas Cycling Development
-16,72490,Jan,MICKO,Glen Cove,NY,s.t.,Brands Super Awesome Racing
+16,72490,Jan,MICKO,Durham,NC,s.t.,Brands Super Awesome Racing
 17,501757,Jonathan,TREVETT,Brooklyn,NY,s.t.,
 18,292639,Jeffrey,WHITE,Brooklyn,NY,s.t.,Kissena Cycling Club
 19,237266,Reginald,RASCH,New York,NY,s.t.,Crca / Team Veselka
@@ -556,7 +556,7 @@ Place,License #,First,Last,City,State,Time,Team
 25,14760,Brett,HALPERN,New York,NY,s.t.,Crca/dave Jordan Racing
 26,279216,Gregorgy,DONOVAN,New York,NY,s.t.,Kissena Cycling Club
 27,57875,Luigi,LUCIANO,Staten Island,NY,s.t.,Healthy And Happy Racing
-28,399626,Alexis,HERRERA,Sunnyside,NY,s.t.,Berroa Racing
+28,399626,Alexis,HERRERA,Jamaica,NY,s.t.,Berroa Racing
 29,527352,Zac,PLETT,Rye,NY,s.t.,Oberlin College
 30,348788,Robert,VACCARINO,Breezy Point,NY,s.t.,Healthy And Happy Racing
 31,173798,Phillip,MARONILLA,Astoria,NY,s.t.,Kissena Cycling Club
@@ -575,7 +575,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,521773,Max,DAVIS,New York,NY,18:58:19,Century Road Club Assoc
 2,536163,Oriol,BRULL,New York,NY,s.t.,
 3,0,Cerillo,TORIBIO,,,s.t.,
-4,530792,Daniel,SPELLMAN,Wyckoff,NJ,s.t.,
+4,530792,Daniel,SPELLMAN,New York ,NY,s.t.,
 5,297751,Jack,MIROSLAW,Brooklyn,NY,s.t.,
 6,0,Joseph,MOHAN,,,s.t.,
 7,438266,Vincent,LEI,Brooklyn,NY,s.t.,
@@ -599,7 +599,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 0,537487,Ian,Auger,Brooklyn,NY,,
 1,521773,Max,DAVIS,New York,NY,28:46:00,Century Road Club Assoc
-2,502463,Jonah,HUDSON-ERDMAN,Florence,MA,s.t.,
+2,502463,Jonah,HUDSON-ERDMAN,Northfield,MN,s.t.,
 3,0,Cerillo,TORIBIO,,,s.t.,
 4,297751,Jack,MIROSLAW,Brooklyn,NY,2,
 5,524746,Brian,HANSEN,Brooklyn,NY,4,Rapha Cycling Club
@@ -613,8 +613,8 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,393631,Kevin,HSIEH,Brooklyn,NY,55:31:00,Kruiscx
 2,10855,Ryan,ENSCHEDE,Brooklyn,NY,s.t.,Good Guys Racing P/b Highwaterw
-3,528365,Quintin,CHIAPPERINO,Whitestone,NY,3,
-4,72490,Jan,MICKO,Glen Cove,NY,6,Brands Super Awesome Racing
+3,528365,Quintin,CHIAPPERINO,Austin,TX,3,
+4,72490,Jan,MICKO,Durham,NC,6,Brands Super Awesome Racing
 5,370704,Jacek,BORAL,Brooklyn,NY,s.t.,Healty And Happy Racing
 6,439904,Daniel,DIAZ,East Elmhurt,NY,s.t.,Cuevas Cycling Development
 7,239267,John,ARIAS,Freeport,NY,s.t.,Cuevas Cycling Development
@@ -651,7 +651,7 @@ Place,License #,First,Last,City,State,Time,Team
 38,432296,Emily,SINGLETON,Brooklyn,NY,2:23,Rockstar Games
 39,348788,Robert,VACCARINO,Breezy Point,NY,s.t.,Healthy And Happy Racing
 40,57875,Luigi,LUCIANO,Staten Island,NY,s.t.,Healthy And Happy Racing
-41,399626,Alexis,HERRERA,Sunnyside,NY,5:20,Berroa Racing
+41,399626,Alexis,HERRERA,Jamaica,NY,5:20,Berroa Racing
 42,512569,Rodrigo,GARCIA,Jamaica,NY,7:12,
 
 07/18/2017 Circuit Race Men Cat1/2/3 Open
@@ -720,7 +720,7 @@ Place,License #,First,Last,City,State,Time,Team
 28,304430,Erik,POST,Brooklyn,NY,s.t.,Crca / The Weather Channel Spec
 29,321582,James,NORD,New York,NY,s.t.,
 30,278103,Gerald,ADASAVAGE,Brooklyn,NY,s.t.,The Weather Channel Specialized
-31,317888,Erik,LAVOIE,Brooklyn ,NY,12,Rockstar Games
+31,317888,Erik,LAVOIE,Brooklyn,NY,12,Rockstar Games
 32,248001,Michael,BECKERMAN,Ridgewood,NJ,17,Crca / Team Veselka P/b Cafe Gr
 33,157989,Robert,LATTANZI,New York,NY,19,Lupus Racing Team
 34,205789,Zak,ABDULLAH,New York,NY,24,
@@ -733,7 +733,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,526472,Jerry,AROCHO,Jamaica,NY,s.t.,Berroa Racing
 4,527352,zac,PLETT,Rye,NY,s.t.,Oberlin College
 5,297751,Jack,MIROSLAW,Brooklyn,NY,s.t.,
-6,502463,Jonah,HUDSON-ERDMAN,Florence,MA,s.t.,
+6,502463,Jonah,HUDSON-ERDMAN,Northfield,MN,s.t.,
 7,500891,Babalola,AJISAFE,Far Rockaway,NY,s.t.,Berroa Racing
 8,467826,Jackson,HO,Brooklyn,NY,s.t.,
 9,534355,Cesar,BERNAL,Jackson Hts,NY,8,
@@ -749,7 +749,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,239267,John,ARIAS,Freeport,NY,s.t.,Cuevas Cycling Development
 5,458939,Jensen,ESTEVES,Brooklyn,NY,s.t.,
 6,321006,Jeffrey,CONDON,Brooklyn,NY,s.t.,Kissena Cycling Club
-7,466154,Eamonn,SCHNELL,Brooklyn,NY,s.t.,Oberlin College
+7,466154,Eamonn,SCHNELL,Oberlin,OH,s.t.,Oberlin College
 8,185511,David,CORREIA,Maspeth,NY,s.t.,
 9,410528,Julius Erwin,QUITO,Astoria,NY,s.t.,Crca/dave Jordan Racing
 10,370704,Jacek,BORAL,Brooklyn,NY,s.t.,Healty And Happy Racing
@@ -766,7 +766,7 @@ Place,License #,First,Last,City,State,Time,Team
 21,14760,Brett,HALPERN,New York,NY,s.t.,Crca/dave Jordan Racing
 22,439904,Daniel,DIAZ,East Elmhurt,NY,17,Cuevas Cycling Development
 23,59874,Marc,CESARE,Brooklyn,NY,s.t.,Deno's Wonder Wheel Masters Bic
-24,399626,Alexis,HERRERA,Sunnyside,NY,47,Berroa Racing
+24,399626,Alexis,HERRERA,Jamaica,NY,47,Berroa Racing
 25,385797,Wouter,HOOGENBOOM,Bronx,NY,1:22,Dave Jordan Racing
 26,57875,Luigi,LUCIANO,Staten Island,NY,1:53,Healthy And Happy Racing
 
@@ -792,20 +792,20 @@ Place,License #,First,Last,City,State,Time,Team
 18,484771,Cullen,MACDONALD,Brooklyn,NY,s.t.,Coalition Cc
 19,513393,Sebastian,VIDAL,Brooklyn,NY,s.t.,Kissena Cycling Club
 20,477804,Zoltan,KIS FUGEDI,Maspeth,NY,33,Cuevas Cycling Development
-21,466154,Eamonn,SCHNELL,Brooklyn,NY,37,Oberlin College
+21,466154,Eamonn,SCHNELL,Oberlin,OH,37,Oberlin College
 22,318428,Bruce,VANSCHALKWYK,Brooklyn,NY,58,Kissena Cycling Club
 23,173798,Phillip,MARONILLA,Astoria,NY,1:04,Kissena Cycling Club
 24,410528,Julius Erwin,QUITO,Astoria,NY,1:15,Crca/dave Jordan Racing
 25,57875,Luigi,LUCIANO,Staten Island,NY,s.t.,Healthy And Happy Racing
 26,14760,Brett,HALPERN,New York,NY,1:24,Crca/dave Jordan Racing
 27,279704,Lance,SNIADOWSKI,Staten Island,NY,2:25,
-28,399626,Alexis,HERRERA,Sunnyside,NY,3:03,Berroa Racing
+28,399626,Alexis,HERRERA,Jamaica,NY,3:03,Berroa Racing
 29,525120,Alexander,WALL,New York,NY,4:01,Foundation
 
 06/13/2017 Circuit Race Men Cat1/2/3 Open
 Place,License #,First,Last,City,State,Time,Team
 1,0,Rafael,GERMAN MERAN,,,1:00:29,Aero Cycling
-2,378837,Bill,ASH,Philadelphia,PA,s.t.,Qcw Breakawaybikes.com P.b. Jlv
+2,378837,Bill,ASH,New York ,NY,s.t.,Qcw Breakawaybikes.com P.b. Jlv
 3,0,Hamzah,EASTMAN,,,5,
 4,497509,Ismael,COLLADO,Bronx,NY,8,
 5,307825,Stalin,QUITERIO CUELLO,Fort Lee,NJ,s.t.,Crca/dave  Jordan Racing
@@ -815,7 +815,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,309324,Dominic,CAIAZZO,Bronx,NY,s.t.,Lupus Racing Team
 10,290950,James,MAHLMANN,Brooklyn,NY,14,Crca/rockstar Games
 11,297217,Rene,HERRERA,Maspeth,NY,16,Crca / Rapha Cycling Club
-12,317888,Erik,LAVOIE,Brooklyn ,NY,18,Rockstar Games
+12,317888,Erik,LAVOIE,Brooklyn,NY,18,Rockstar Games
 13,53820,Mynor,PINEDA,Union,NJ,s.t.,Montclair Bikery Racing
 14,508429,Juan,SUAREZCASTILLO,New York,NY,33,
 15,198228,Johann,BURROWES,Brooklyn,NY,s.t.,We Stand United (w.s.)
@@ -832,7 +832,7 @@ Place,License #,First,Last,City,State,Time,Team
 26,38819,Richard,WOLTER,New York,NY,s.t.,
 27,384072,Angelo,CALILAP,Brooklyn,NY,s.t.,
 28,167365,Alan,BUDAY,Manorville,NY,s.t.,Crca/dave Jordan Racing
-29,238008,Alejandro,GUZMAN,New York,NY,43,Foundation
+29,238008,Alejandro,GUZMAN,New York ,NY,43,Foundation
 30,258520,Franklin,BURGOS,Bronx,NY,45,Dave Jordan Racing
 31,152166,Jason,ONEILL,West Islip,NY,47,
 32,282121,Mitchell,JACARUSO,New York,NY,51,Deno's Wonder Wheel
@@ -844,11 +844,11 @@ Place,License #,First,Last,City,State,Time,Team
 38,211564,Marcello Daniel,RODIO,Clifton,NJ,s.t.,Montclair Bikery Racing
 39,396588,Chris,PECK,New York,NY,1:18,Crca / E2value
 40,441118,Patrick,TORPEY,Brooklyn,NY,1:20,Crca/to Be Determined
-41,422489,Uber,URIBE,Montclair ,NJ,-1 Lap,Montclair Bikery Racing
+41,422489,Uber,URIBE,Montclair,NJ,-1 Lap,Montclair Bikery Racing
 
 06/13/2017 Circuit Race Mixed Cat5 Open
 Place,License #,First,Last,City,State,Time,Team
-1,528365,Quintin,CHIAPPERINO,Whitestone,NY,30:06:00,
+1,528365,Quintin,CHIAPPERINO,Austin,TX,30:06:00,
 2,521773,Max,DAVIS,New York,NY,s.t.,Century Road Club Assoc
 3,527352,zac,PLETT,Rye,NY,s.t.,Oberlin College
 4,526472,Jerry,AROCHO,Jamaica,NY,s.t.,Berroa Racing
@@ -870,12 +870,12 @@ Place,License #,First,Last,City,State,Time,Team
 3,460634,Ed,HAMMOND,Brooklyn,NY,s.t.,Maglia Rosa Nyc
 4,458939,Jensen,ESTEVES,Brooklyn,NY,s.t.,
 5,239267,John,ARIAS,Freeport,NY,s.t.,Cuevas Cycling Development
-6,383816,Hernan,LUCERO,Hicksville ,NY,s.t.,Mineola Bicycle Racing  Team
+6,383816,Hernan,LUCERO,Hicksville,NY,s.t.,Mineola Bicycle Racing  Team
 7,523403,Nicholas,LEEPER,Fairfield,CT,s.t.,Nycc Racing P/b Bgc Partners
 8,431181,Johan,ABREU,Fresh Meadows,NY,s.t.,Crca/e2value
 9,428309,Leo,KIRKPATRICK BAIRD,Bernardsville,NJ,s.t.,Kms Cycling-killington Mountain
 10,484771,Cullen,MACDONALD,Brooklyn,NY,s.t.,Coalition Cc
-11,466154,Eamonn,SCHNELL,Brooklyn,NY,s.t.,Oberlin College
+11,466154,Eamonn,SCHNELL,Oberlin,OH,s.t.,Oberlin College
 12,279704,Lance,SNIADOWSKI,Staten Island,NY,s.t.,
 13,388568,Billy,TAYLOR,New York,NY,s.t.,Star Track Racing
 14,503757,Daniel,CORLESS,New York,NY,s.t.,Nycc Racing P/b Bgc Partners
@@ -954,10 +954,10 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/30/2017 Circuit Race Men Cat3/4 Open
 Place,License #,First,Last,City,State,Time,Team
-1,466154,Eamonn,SCHNELL,Brooklyn,NY,54:50:00,Oberlin College
+1,466154,Eamonn,SCHNELL,Oberlin,OH,54:50:00,Oberlin College
 2,215842,Palo,SAMKO,Brooklyn,NY,0,
 3,504426,Manuel,BRITO,Allentown,PA,0,
-4,72490,Jan,MICKO,Glen Cove,NY,0,Brands Super Awesome Racing
+4,72490,Jan,MICKO,Durham,NC,0,Brands Super Awesome Racing
 5,370704,Jacek,BORAL,Brooklyn,NY,0,Healty And Happy Racing
 6,296514,Kenrick,Caesar,Jamaica,NY,,
 7,472996,Kim,GRANLUND,Brooklyn,NY,0,Crca/rockstar Games
@@ -968,15 +968,15 @@ Place,License #,First,Last,City,State,Time,Team
 12,0,Jimmy,SCHNELL,,,1,Verrazano Team Racing
 13,422261,Michael,POKROVSKIY,Union City,NJ,0,Verrazano Team Racing
 14,279704,Lance,SNIADOWSKI,Staten Island,NY,0,
-15,383816,Hernan,LUCERO,Hicksville ,NY,1,Mineola Bicycle Racing  Team
+15,383816,Hernan,LUCERO,Hicksville,NY,1,Mineola Bicycle Racing  Team
 16,237266,Reginald,RASCH,New York,NY,0,Crca / Team Veselka
 17,477804,Liz,KISFUGEDI,Maspeth,NY,0,Cuevas
 18,503757,Daniel,CORLESS,New York,NY,0,Nycc Racing P/b Bgc Partners
 19,279216,Gregorgy,DONOVAN,New York,NY,1,Kissena Cycling Club
-20,159957,Miguel,FLORES,New York City,NY,0,
+20,159957,Miguel,FLORES,Brooklyn,NY,0,
 21,281116,Manuel,FRIAS,Brooklyn,NY,2,
 22,0,,Unknown,,,2,
-23,399626,Alexis,HERRERA,Sunnyside,NY,8,Berroa Racing
+23,399626,Alexis,HERRERA,Jamaica,NY,8,Berroa Racing
 24,348788,Robert,VACCARINO,Breezy Point,NY,1:02,Healthy And Happy Racing
 
 05/30/2017 Circuit Race Men Cat1/2/3 Open
@@ -1001,8 +1001,8 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/23/2017 Circuit Race Men Cat3/4 Open
 Place,License #,First,Last,City,State,Time,Team
-1,466154,Eamonn,SCHNELL,Brooklyn,NY,54:00:00,Oberlin College
-2,72490,Jan,MICKO,Glen Cove,NY,s.t.,Brands Super Awesome Racing
+1,466154,Eamonn,SCHNELL,Oberlin,OH,54:00:00,Oberlin College
+2,72490,Jan,MICKO,Durham,NC,s.t.,Brands Super Awesome Racing
 3,215842,Palo,SAMKO,Brooklyn,NY,s.t.,
 4,439904,Daniel,DIAZ,East Elmhurt,NY,s.t.,Cuevas Cycling Development
 5,321006,Jeffrey,CONDON,Brooklyn,NY,s.t.,Kissena Cycling Club
@@ -1017,19 +1017,19 @@ Place,License #,First,Last,City,State,Time,Team
 14,458939,Jensen,ESTEVES,Brooklyn,NY,s.t.,
 15,296514,Kenrick,CAESAR,Jamaica,NY,s.t.,
 16,205478,Vladislav,KHLOPINE,Brooklyn,NY,9,
-17,13352,James,GIORGIO,Babylon ,NY,s.t.,Brands Cycling Team
+17,13352,James,GIORGIO,Babylon,NY,s.t.,Brands Cycling Team
 18,424308,Jonathan,MONSERRATE,St. Louis,MO,11,
 19,188744,Stanislaw,ARCISZEWSKI,Ridgewood,NY,s.t.,
 20,279704,Lance,SNIADOWSKI,Staten Island,NY,s.t.,
 21,357250,Ramon,MELIAN,Bronx,NY,s.t.,Rbny Racing-verge Sport
-22,159957,Miguel,FLORES,New York City,NY,13,
+22,159957,Miguel,FLORES,Brooklyn,NY,13,
 23,68718,James,JOSEPH,Brooklyn,NY,s.t.,W.s. United
 24,197222,Dorian,SPENCER,Staten Island,NY,s.t.,
 25,14760,Brett,HALPERN,New York,NY,16,Crca/dave Jordan Racing
 26,422261,Michael,POKROVSKIY,Union City,NJ,s.t.,Verrazano Team Racing
 27,481785,Luis,SCATTAREGGI,New York,NY,s.t.,
 28,285193,Liz,LUKOWSKI,Albany,NY,s.t.,
-29,399626,Alexis,HERRERA,Sunnyside,NY,s.t.,Berroa Racing
+29,399626,Alexis,HERRERA,Jamaica,NY,s.t.,Berroa Racing
 30,67842,David,CHOMOWICZ,New York,NY,20,Rockstar Games
 
 05/23/2017 Circuit Race Men Cat1/2/3 Open
@@ -1067,7 +1067,7 @@ Place,License #,First,Last,City,State,Time,Team
 31,258520,Franklin,BURGOS,Bronx,NY,s.t.,Dave Jordan Racing
 32,386892,Jesus,MARTINEZ,Brooklyn,NY,19,Nycc Racing P/b Bgc Partners
 33,274367,Allan,REGO,New York,NY,s.t.,Lupus Racing Team
-34,356954,Eduardo,LUNA,Woodside,NY,s.t.,Cuevas Cycling Development
+34,356954,Eduardo,LUNA,Elmhurst Ny,NY,s.t.,Cuevas Cycling Development
 35,149234,Horace,BURROWES,Brooklyn,NY,s.t.,
 36,0,Enzo,MATTHEWS,,,s.t.,
 37,193990,Anthony,LOWE,Brooklyn,NY,22,
@@ -1135,21 +1135,21 @@ Place,License #,First,Last,City,State,Time,Team
 38,278103,Gerald,ADASAVAGE,Brooklyn,NY,s.t.,The Weather Channel Specialized
 39,332646,Alexei,ZAKHAROV,New York,NY,s.t.,Team Veselka P/b Cafe Grumpy
 40,496977,Boguslaw,WIELGOS,Maspeth,NY,21,Foundation
-41,356954,Eduardo,LUNA,Woodside,NY,s.t.,Cuevas Cycling Development
+41,356954,Eduardo,LUNA,Elmhurst Ny,NY,s.t.,Cuevas Cycling Development
 42,157989,Robert,LATTANZI,New York,NY,23,Lupus Racing Team
 43,258520,Franklin,BURGOS,Bronx,NY,26,Dave Jordan Racing
 44,292160,Ross,BALDWIN,New York,NY,s.t.,Lupus Racing Team
 45,3270,Tom,BENCIVENGO,Brooklyn,NY,30,
-46,378837,Bill,ASH,Philadelphia,PA,50,Qcw Breakawaybikes.com P.b. Jlv
+46,378837,Bill,ASH,New York ,NY,50,Qcw Breakawaybikes.com P.b. Jlv
 47,309324,Dominic,CAIAZZO,Bronx,NY,1:22,Lupus Racing Team
 
 05/16/2017 Circuit Race Men Cat3/4 Open
 Place,License #,First,Last,City,State,Time,Team
 1,68718,James,JOSEPH,Brooklyn,NY,59:41:00,W.s. United
-2,466154,Eamonn,SCHNELL,Brooklyn,NY,s.t.,Oberlin College
+2,466154,Eamonn,SCHNELL,Oberlin,OH,s.t.,Oberlin College
 3,498106,Masaharu,ITO,Elmhurst,NY,s.t.,Crca/team Veselka P/b Cafe Grum
 4,357531,David,DESIMONE,New York,NY,s.t.,Foundation
-5,13352,James,GIORGIO,Babylon ,NY,s.t.,Brands Cycling Team
+5,13352,James,GIORGIO,Babylon,NY,s.t.,Brands Cycling Team
 6,494590,Martijn,DE GRAAF,New York,NY,s.t.,Crca/dave Jordan Racing
 7,205478,Vladislav,KHLOPINE,Brooklyn,NY,s.t.,
 8,204713,Andrew,BABAIAN,Port Washington,NY,s.t.,Crca / Team Veselka P/b Cafe Gr
@@ -1160,11 +1160,11 @@ Place,License #,First,Last,City,State,Time,Team
 13,279704,Lance,SNIADOWSKI,Staten Island,NY,s.t.,
 14,14760,Brett,HALPERN,New York,NY,s.t.,Crca/dave Jordan Racing
 15,239267,John,ARIAS,Freeport,NY,s.t.,Cuevas Cycling Development
-16,399626,Alexis,HERRERA,Sunnyside,NY,s.t.,Berroa Racing
+16,399626,Alexis,HERRERA,Jamaica,NY,s.t.,Berroa Racing
 17,440943,Aaron,TEMPLE,Brooklyn,NY,s.t.,
 18,410403,John,DAGOSTINO,New York,NY,s.t.,Good Guys Racing P/b Highwaterw
 19,32951,Matthew,SLOSSBERG,New York,NY,s.t.,Crca/dave Jordan Racing
-20,383816,Hernan,LUCERO,Hicksville ,NY,s.t.,Mineola Bicycle Racing  Team
+20,383816,Hernan,LUCERO,Hicksville,NY,s.t.,Mineola Bicycle Racing  Team
 21,504426,Manuel,BRITO,Allentown,PA,s.t.,
 22,67842,David,CHOMOWICZ,New York,NY,s.t.,Rockstar Games
 23,208425,George,GYARMATHY,West Islip,NY,s.t.,
@@ -1177,7 +1177,7 @@ Place,License #,First,Last,City,State,Time,Team
 30,298598,Brian,SULLIVAN,Jersey City,NJ,18,E2value
 31,406351,Oscar,COELLO,Uniondale,NY,56,Cuevas Cycling Development
 32,348788,Robert,VACCARINO,Breezy Point,NY,3:05,Healthy And Happy Racing
-33,159957,Miguel,FLORES,New York City,NY,s.t.,
+33,159957,Miguel,FLORES,Brooklyn,NY,s.t.,
 34,57875,Luigi,LUCIANO,Staten Island,NY,3:07,Healthy And Happy Racing
 35,173798,Phillip,MARONILLA,Astoria,NY,s.t.,Kissena Cycling Club
 
@@ -1232,7 +1232,7 @@ Place,License #,First,Last,City,State,Time,Team
 30,290950,James,MAHLMANN,Brooklyn,NY,s.t.,Crca/rockstar Games
 31,237492,Etsu,TANIGUCHI,New York,NY,s.t.,Crca / Team Veselka P/b Cafe Gr
 32,47684,Anthony,TAYLOR,Brooklyn,NY,s.t.,Crca/dave Jordan Racing
-33,292058,Spiridon,KATEHIS,Malverne ,NY,s.t.,
+33,292058,Spiridon,KATEHIS,Malverne,NY,s.t.,
 34,286939,Alexander,BAROUH,Brooklyn,NY,s.t.,Bicycle Habitat-verge Sport
 35,264625,Ira,BLUMBERG,New York,NY,s.t.,Crca / Rapha Cycling Club
 36,332606,Michael,KUEHN,New York,NY,13,Crca / Team Veselka P/b Cafe Gr
@@ -1270,25 +1270,25 @@ Place,License #,First,Last,City,State,Time,Team
 12,351204,Matthew,HARRISON,Freeport,NY,s.t.,Star Trac
 13,205478,Vladislav,KHLOPINE,Brooklyn,NY,s.t.,
 14,357250,Ramon,MELIAN,Bronx,NY,s.t.,Crca /rbny Racin Verge Sports
-15,383816,Hernan,LUCERO,Hicksville ,NY,s.t.,Mineola Bicycle Racing  Team
+15,383816,Hernan,LUCERO,Hicksville,NY,s.t.,Mineola Bicycle Racing  Team
 16,525120,Alexander,WALL,New York,NY,s.t.,Crca/foundation
 17,431181,Johan,ABREU,Fresh Meadows,NY,s.t.,Crca/e2value
 18,66269,Paul,COLUCCIO,Huntington Station,NY,s.t.,Crca/houlihan Lokey
-19,399626,Alexis,HERRERA,Sunnyside,NY,s.t.,Berroa Racing
+19,399626,Alexis,HERRERA,Jamaica,NY,s.t.,Berroa Racing
 20,188744,Stanislaw,ARCISZEWSKI,Ridgewood,NY,s.t.,
-21,153451,Jeffrey,GARCIA,Bronx ,NY,s.t.,
+21,153451,Jeffrey,GARCIA,Bronx,NY,s.t.,
 22,440943,Aaron,TEMPLE,Brooklyn,NY,s.t.,
 23,503967,Edison,Marulanda,Brooklyn,NY,s.t.,God & Famous
 24,14760,Brett,HALPERN,New York,NY,s.t.,Crca/dave Jordan Racing
 25,504426,Manuel,BRITO,Allentown,PA,s.t.,
-26,13352,James,GIORGIO,Babylon ,NY,s.t.,Brands Cycling Team
+26,13352,James,GIORGIO,Babylon,NY,s.t.,Brands Cycling Team
 27,204713,Andrew,BABAIAN,Port Washington,NY,s.t.,Crca / Team Veselka P/b Cafe Gr
 28,422506,M.wesley,HAM,Brooklyn,NY,s.t.,
 29,197222,Dorian,SPENCER,Staten Island,NY,s.t.,
 30,59773,Brian,STEIN,Brooklyn,NY,s.t.,Crca Kh-pactimo P/b Century
 31,406351,Oscar,COELLO,Uniondale,NY,s.t.,Cuevas Cycling Development
 32,439904,Daniel,DIAZ,East Elmhurt,NY,s.t.,Cuevas Cycling Development
-33,428001,Cody,CORONA,New York,NY,5,Crca/rockstar Games
+33,428001,Cody,CORONA,Marina Del Rey,CA,5,Crca/rockstar Games
 34,298598,Brian,SULLIVAN,Jersey City,NJ,s.t.,E2value
 35,410528,Julius Erwin,QUITO,Astoria,NY,7,Crca/dave Jordan Racing
 36,496826,Jack,VOGEL,Franklin Lakes,NJ,s.t.,
@@ -1297,8 +1297,8 @@ Place,License #,First,Last,City,State,Time,Team
 39,32951,Matthew,SLOSSBERG,New York,NY,10,Crca/dave Jordan Racing
 40,10855,Ryan,ENSCHEDE,Brooklyn,NY,s.t.,Good Guys Racing P/b Highwaterw
 41,370704,Jacek,BORAL,Brooklyn,NY,s.t.,Healty And Happy Racing
-42,159957,Miguel,FLORES,New York City,NY,16,
-43,383816,Hernan,LUCERO,Hicksville ,NY,54,Mineola Bicycle Racing  Team
+42,159957,Miguel,FLORES,Brooklyn,NY,16,
+43,383816,Hernan,LUCERO,Hicksville,NY,54,Mineola Bicycle Racing  Team
 44,285193,Liz,LUKOWSKI,Albany,NY,1:11,
 45,334422,Lisa,VANDIVORT,New York,NY,4:43,Citymd Racing
 46,348788,Robert,VACCARINO,Breezy Point,NY,8:05,Healthy And Happy Racing

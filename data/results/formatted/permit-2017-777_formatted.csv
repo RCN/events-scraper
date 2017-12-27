@@ -9,7 +9,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,414558,Alexander,Jensen,Tulsa,OK,,Tulsa Wheelmen
 6,167780,James,Bohanan,Tulsa,OK,,Tulsa Wheelmen
 7,259641,Dustin,Weaver,Tulsa,OK,,Tulsa Wheelmen
-8,524163,Kristopher,Clark,Tulsa,OK,,Soundpony Triad Bank
+8,524163,Kristopher,Clark,Jenks,OK,,Soundpony Triad Bank
 9,426804,Jason,Holland,Broken Arrow,OK,,Bixby Bicycle Works/Cycling for Success
 10,405165,Matthew,Williams,Tulsa,OK,,Team Air Assurance p/b AVB Bank
 11,82739,Alexander,Bradley,Jenks,OK,,Tulsa Wheelmen
@@ -79,7 +79,7 @@ Place,License #,First,Last,City,State,Time,Team
 26,480105,Dave,McClain,Broken Arrow,OK,,Bixby Bicycle Works/Cycling for Success
 27,536212,Kevin,McWeeney,Tulsa,OK,,
 28,440061,Daniel,Brooks,Broken Arrow,OK,,
-29,261669,Jordan,Garrett,Simpsonville,SC,,
+29,261669,Jordan,Garrett,Owasso,OK,,
 30,528442,Daniel,Solorio,Tulsa,OK,,
 31,381849,Dak,Frisbie,Broken Arrow,OK,,
 32,500540,William,Wamego,Glenpool,OK,,Bixby Bicycle Works/Cycling for Success
@@ -139,7 +139,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,401391,Chad,Sprague,Jenks,OK,,Soundpony Triad Bank
 3,511751,Bryant,Evans,Tulsa,OK,,Tulsa Wheelmen
 4,526361,Jof,Lenard,Tulsa,OK,,Bixby Bicycle Works/Cycling for Success
-5,524163,Kristopher,Clark,Tulsa,OK,,Team Young Life Tulsa
+5,524163,Kristopher,Clark,Jenks,OK,,Team Young Life Tulsa
 6,406962,Joshua,Reasor,Tulsa,OK,,Phat Tire Bike Shop
 7,487430,Steven,Isaacs,Tulsa,OK,,Bixby Bicycle Works/Cycling for Success
 8,426804,Jason,Holland,Broken Arrow,OK,,Bixby Bicycle Works/Cycling for Success
@@ -158,7 +158,7 @@ Place,License #,First,Last,City,State,Time,Team
 21,528983,Ezra,Dube,Tulsa,OK,,
 22,460458,Jamie,Teeter,Tulsa,OK,,Soundpony Triad Bank
 23,64992,Daren,Lowe,Broken Arrow,OK,,SNRG Racing
-24,388289,Tayton,Parker,Jenks,OK,,Air Assurance Devo P/b Spoke House
+24,388289,Tayton,Parker,Tulsa,OK,,Air Assurance Devo P/b Spoke House
 25,512508,Sean,Kahl,Tulsa,OK,,Tulsa Wheelmen
 26,422120,Stephen,Phillips,Broken Arrow,OK,,Bixby Bicycle Works/Cycling for Success
 27,528442,Daniel,Solorio,Tulsa,OK,,
@@ -234,7 +234,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,51206,Andrew,Malcom,Bartlesville,OK,,
 23,270733,Robert,LeMaster,Bixby,OK,,Soundpony Triad Bank
 24,62507,Kimberly,Pettit,Tulsa,OK,,Papa John's Racing p/b TREK
-25,526732,Cullen,Browne,,,,
+25,534570,Cullen,Browne,Tulsa,OK,,
 26,331530,Seth,Likens,Tulsa,OK,,DNA Racing
 DNS,213968,Rafael,Santiago,Jenks,OK,,Tulsa Wheelmen
 
@@ -242,7 +242,7 @@ DNS,213968,Rafael,Santiago,Jenks,OK,,Tulsa Wheelmen
 Place,License #,First,Last,City,State,Time,Team
 1,439291,Mason,McCabe,Bixby,OK,,Bixby Bicycle Works/Cycling for Success
 2,528983,Ezra,Dube,Tulsa,OK,,0
-3,388289,Tayton,Parker,Jenks,OK,,Air Assurance Devo P/b Spoke House
+3,388289,Tayton,Parker,Tulsa,OK,,Air Assurance Devo P/b Spoke House
 4,405844,Seth,Lasley,Broken Arrow,OK,,Soundpony Triad Bank
 5,448616,Ryan,Drummond,Oklahoma City,OK,,Soundpony Triad Bank
 6,424586,Evan,Coles,Tulsa,OK,,Soundpony Triad Bank
@@ -260,7 +260,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,448619,Aubrey,Drummond,Oklahoma City,OK,,DNA Racing
 3,474997,Hannah,Jordan,Tulsa,OK,,Tulsa Wheelmen
 4,409302,Laurel,Roberts,Tulsa,OK,,Team Air Assurance p/b AVB Bank
-5,506931,Finn,Taylor,Tulsa,OK,,Yoga Box Racing p/b Transitions LifeCare
+5,506931,Finn,Taylor,Fayetteville,AR,,Yoga Box Racing p/b Transitions LifeCare
 6,334778,Esther,Thais,Jenks,OK,,isocentric
 7,487857,April,Meyer,Tulsa,OK,,Pandemonium Cycling p/b Hodges Bend
 8,526954,Marci,Hamburger,Tulsa,OK,,Pandemonium Cycling p/b Hodges Bend
@@ -314,7 +314,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,511751,Bryant,Evans,Tulsa,OK,,Tulsa Wheelmen
 3,404529,William,Matthews,Jenks,OK,,Transitions LifeCare p/b InSync Rx
 4,500157,Mark,Machell,Tulsa,OK,,Team Tom's Bicycles p/b Topeca
-5,524163,Kristopher,Clark,Tulsa,OK,,0
+5,524163,Kristopher,Clark,Jenks,OK,,0
 6,460458,Jamie,Teeter,Tulsa,OK,,Soundpony Triad Bank
 7,466680,michael,lowe,Tulsa,OK,,Team Young Life Tulsa
 8,408192,Christopher,Rollmann,Owasso,OK,,Team Air Assurance p/b AVB Bank
@@ -359,14 +359,14 @@ Place,License #,First,Last,City,State,Time,Team
 47,500540,William,Wamego,Glenpool,OK,,Bixby Bicycle Works/Cycling for Success
 48,440061,Daniel,Brooks,Broken Arrow,OK,,0
 49,0,Lucas,Meyers,,,,
-50,515563,Brad,Eaton,Broken Arrow,OK,,Team Air Assurance p/b AVB Bank
+50,515563,Brad,Eaton,Tulsa,OK,,Team Air Assurance p/b AVB Bank
 51,528442,Daniel,Solorio,Tulsa,OK,,0
 52,420099,Lisa,DeMarni Cromer,Jenks,OK,,isocentric
 53,500805,Logan,rideout,Broken Arrow,OK,,0
 54,470488,Jeffrey,Beltran,Bixby,OK,,Festlig Norsk CC
 55,534010,Shannon,Storm,Bartlesville,OK,,360 Sports
 56,367962,Steve,Barnes,Broken Arrow,OK,,Team Air Assurance p/b AVB Bank
-57,261669,Jordan,Garrett,Simpsonville,SC,,0
+57,261669,Jordan,Garrett,Owasso,OK,,0
 DQ,388666,Joshua,Bradley,Stillwater,OK,,Tulsa Wheelmen
 DNF,376225,Michael,Messimore,Broken Arrow,OK,,Team Air Assurance p/b AVB Bank
 DNF,492427,David,Barkyoumb,Tulsa,OK,,Air Assurance Devo P/b Spoke House
@@ -398,7 +398,7 @@ DNF,431380,Greg,Reilly,Tulsa,OK,,Team Young Life Tulsa
 
 04/18/2017 Criterium Men Junior
 Place,License #,First,Last,City,State,Time,Team
-1,388289,Tayton,Parker,Jenks,OK,,Air Assurance Devo P/b Spoke House
+1,388289,Tayton,Parker,Tulsa,OK,,Air Assurance Devo P/b Spoke House
 2,405844,Seth,Lasley,Broken Arrow,OK,,Soundpony Triad Bank
 3,424586,Evan,Coles,Tulsa,OK,,Soundpony Triad Bank
 4,528318,Liam,Dakin,Bixby,OK,,Oklahoma Flyers
@@ -492,7 +492,7 @@ Place,License #,First,Last,City,State,Time,Team
 35,410397,Kenneth,Smith,Tulsa,OK,,Festlig Norsk CC
 36,470488,Jeffrey,Beltran,Bixby,OK,,Festlig Norsk CC
 37,528983,Ezra,Dube,Tulsa,OK,,0
-DNF,524163,Kristopher,Clark,Tulsa,OK,,0
+DNF,524163,Kristopher,Clark,Jenks,OK,,0
 
 04/18/2017 Criterium Mixed Cat 3/4
 Place,License #,First,Last,City,State,Time,Team

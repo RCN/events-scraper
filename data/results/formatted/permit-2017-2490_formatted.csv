@@ -6,16 +6,16 @@ Place,License #,First,Last,City,State,Time,Team
 2,168358,Jeff,Park,San Antonio,TX,,Bicycle Heaven / PVA
 3,298129,David,Cresap,Missoula,MT,,
 4,188575,Nathan,Winkelmann,Huntsville,TX,,Bike Lane / Alloy Wheel Repair of Houston
-5,225274,Brian,Barrow,San Marcos,TX,,Prime Time Factory Racing / The Hub Cyclery
+5,225274,Brian,Barrow,San Marcos,TX,,7 Brothers Racing
 6,226693,Eric,Breckinridge,Austin,TX,,
 7,55990,Brent,Turner,Beaumont,TX,,Cantu Cycling Wheels
 8,422159,Cole,Weidenbach,Spicewood,TX,,787 Racing
 9,131183,Christopher,Hill,Austin,TX,,DNA Cycling pb Onion Creek Volkswagen
 10,298416,John,Wilmeth,Newwaverly,TX,,Cantu Cycling Wheels
 11,298393,Joshua,Hogan,Austin,TX,,787 Racing
-12,391799,Billy,Flores,Austin,TX,,787 Racing
+12,391799,Billy,Flores,Austin,TX,,
 13,367809,Christian,Newton,Friendswood,TX,,ATC Racing
-14,400055,Brandon,McKinney,Austin,TX,,
+14,400055,Brandon,McKinney,Austin,TX,,Ruckus Racing Project
 15,47745,Peter,Aubin,Houston,TX,,Shama Cycles
 DNS,55803,Tim,Granshaw,Lakeway,TX,,DNA Cycling pb Onion Creek Volkswagen
 
@@ -23,31 +23,31 @@ DNS,55803,Tim,Granshaw,Lakeway,TX,,DNA Cycling pb Onion Creek Volkswagen
 Place,License #,First,Last,City,State,Time,Team
 1,467667,Conner,Chatham,Austin,TX,,787 Racing
 2,470475,Calvin,Miller,Georgetown,TX,,
-3,488064,Alex,Greenwald,Austin,TX,,PHENOM p/b Phobio
+3,488064,Alex,Greenwald,Austin,TX,,PHENOM
 4,538144,Peter,Murray,Mc Gregor,TX,,
 5,391315,Josh,Crain,Fort Worth,TX,,
-6,440452,Corey,Walo,Austin,TX,,PHENOM p/b Phobio
+6,440452,Corey,Walo,Austin,TX,,PHENOM
 7,309029,Tucker,Keren,Houston,TX,,Ham Cycles
-8,180383,Allan,MacInnis,Cedar Park,TX,,
-9,499338,Michael,Orsow,Austin,TX,,PHENOM p/b Phobio
-10,387301,Adam,Frelin,Dallas,TX,,LGBTEAM
+8,180383,Allan,MacInnis,Cedar Park,TX,,Bat City Cycling
+9,499338,Michael,Orsow,Austin,TX,,
+10,387301,Adam,Frelin,Dallas,TX,,
 11,380176,Raymond,Figurella,Austin,TX,,Ruckus Racing Project
 12,524118,Darrion,Meckle,Austin,TX,,
-13,358226,Robert,Yates,Rowlett,TX,,Matrix/RBM
+13,358226,Robert,Yates,Rowlett,TX,,Matrix Cycling Club
 14,270336,John,Cope,Cedar Park,TX,,
 15,146788,David,VanNewkirk,Austin,TX,,787 Racing
 16,519140,stanton,henry,West Lake Hills,TX,,
 17,300844,Carlos,Barrera,Austin,TX,,
-18,0,Michael,Vielleux,,,,Bicycle Sport Shop
+18,0,Michael,Vielleux,,,,
 19,460740,Guy,Hoffman,Round Rock,TX,,Bicycle Sport Shop Club
-20,517957,Joe,Michalewicz,Hutto,TX,,Bicycle Sport Shop Cyclocross Team
-21,496903,Westin,McEntire,Sunnyside,NY,,
+20,517957,Joe,Michalewicz,Hutto,TX,,Bicycle Sport Shop Club
+21,496903,Westin,McEntire,Austin,TX,,
 22,0,Clay,Finley,,,,
 23,527502,Scott,Leitch,Pflugerville,TX,,Bicycle Sport Shop Club
 DNS,422561,Jonathan,Rekieta,Houston,TX,,Ham Cycles
 DNS,459565,Matt,Thompson,Austin,TX,,Team Yacht Club
 DNS,468885,Johnathan,Conley,Austin,TX,,
-DNS,521633,Christopher,Rosinski,Austin,TX,,
+DNS,521633,Christopher,Rosinski,Cedar Park,TX,,
 DNF,118539,Brad,Howard,Austin,TX,,Team Super Awesome
 DNF,460608,Jim,Hungerford,Austin,TX,,Bicycle Sport Shop Cyclocross Team
 DNF,498551,John,Hammond,Austin,TX,,
@@ -56,7 +56,7 @@ DNF,498551,John,Hammond,Austin,TX,,
 Place,License #,First,Last,City,State,Time,Team
 1,298393,Joshua,Hogan,Austin,TX,,787 Racing
 2,284701,Isaac,Goodwin,Austin,TX,,Team Yacht Club
-3,454010,Aaron,Amin,Austin,TX,,PHENOM p/b Phobio
+3,454010,Aaron,Amin,Austin,TX,,
 4,274963,Louie,Riesch,Austin,TX,,
 5,448853,Corey,Bounds,Austin,TX,,Team Yacht Club
 6,209094,Ryan,Martin,Austin,TX,,
@@ -65,13 +65,13 @@ Place,License #,First,Last,City,State,Time,Team
 9,178182,Travis,Wilky,Round Rock,TX,,Streamline Insurance Services Cycling Team
 10,221372,Lou,D'Amico,Austin ,TX,,Mellow Johnny's Cycling Team
 11,432136,Beckett,Tooley,Frisco,TX,,Latini's Bicycle Repair
-12,468885,Johnathan,Conley,Austin,TX,,
+12,468885,Johnathan,Conley,Austin,TX,,Bat City Cycling
 13,340952,Luke,Gentry,New Braunfels,TX,,7 Brothers Racing
 14,391315,Josh,Crain,Fort Worth,TX,,
-15,488064,Alex,Greenwald,Austin,TX,,PHENOM p/b Phobio
-16,400055,Brandon,McKinney,Austin,TX,,
+15,488064,Alex,Greenwald,Austin,TX,,PHENOM
+16,400055,Brandon,McKinney,Austin,TX,,Ruckus Racing Project
 17,271555,Timothy,Phillips,San Antonio,TX,,US Military Endurance Sports
-18,440452,Corey,Walo,Austin,TX,,PHENOM p/b Phobio
+18,440452,Corey,Walo,Austin,TX,,PHENOM
 19,393831,Adam,Reardon,Austin,TX,,Mafia Racing
 20,396233,robert,johnston,New Braunfels,TX,,
 21,272613,Kevin,McRee,Austin,TX,,
@@ -90,17 +90,17 @@ Place,License #,First,Last,City,State,Time,Team
 4,423393,Andrew C,Anderson,Austin,TX,,Bicycle Sport Shop Club
 5,419134,Matthew,VanNewkirk,Austin,TX,,787 Racing
 6,514738,Scott,VanNewkirk,Austin,TX,,787 Racing
-7,486613,Braeden,Parker,Belton,TX,,Bicycle Sport Shop CX Team
+7,486613,Braeden,Parker,Belton,TX,,Bicycle Sport Shop Club
 8,520704,Riley,Ash,College Station,TX,,
-9,541569,Cameron,Koen,Houston,TX,,
-10,458247,Tony,Kerby,Austin,TX,,CX Project 2015
+9,541569,Cameron,Koen,Houston,TX,,Bike Lane / Alloy Wheel Repair of Houston
+10,458247,Tony,Kerby,Austin,TX,,Texas Cyclocross Project/Ridebiker
 11,520032,Trent,Granshaw,Lakeway,TX,,
 
 09/10/2017 Cyclo-cross Men Cat1/2/3/4/5 Juniors 10-18
 Place,License #,First,Last,City,State,Time,Team
 1,432136,Beckett,Tooley,Frisco,TX,,Latini's Bicycle Repair
 2,354380,Joseph,Barrera,Austin,TX,,
-3,540991,Jackson,Eaker,Plano,TX,,
+3,540991,Jackson,Eaker,Plano,TX,,Matrix Cycling Club
 4,389863,Liam,Childs,Austin,TX,,Texas Cyclocross Project/Ridebiker
 5,430686,Andrew,Anderson,Buda,TX,,
 DNS,489135,reyn,spooner,Helotes,TX,,
@@ -114,17 +114,17 @@ Place,License #,First,Last,City,State,Time,Team
 5,367860,David,Larrabee,Converse,TX,,
 6,110526,Jack,Ishihara,Selma,TX,,
 7,55803,Tim,Granshaw,Lakeway,TX,,DNA Cycling pb Onion Creek Volkswagen
-8,133554,Robert,McGuire,Austin,TX,,Bicycle Sport Shop Cyclocross Team
+8,133554,Robert,McGuire,Austin,TX,,Bicycle Sport Shop Club
 9,74461,Enrique,Varela,Austin,TX,,787 Racing
 10,139799,Kelly,Kerby,Austin,TX,,ATC Racing
 11,166940,Glen,Dyson,New Braunfels,TX,,GS Tenzing
 12,207362,Jorge,Martinez,Cedar Park,TX,,Streamline Insurance Services Cycling Team
 13,484961,Bobby,Falcon,Houston,TX,,Ham Cycles
 14,366270,Travis,Rosen,Lakeway,TX,,Chicken and Waffles Racing
-15,21569,Doug,Looney,Austin,TX,,
-16,320074,Shane,Carbonneau,Austin,TX,,Violet Crown
-17,448225,Jason,Wright,Austin,TX,,Bicycle Sport Shop Cyclocross Team
-18,499672,DINH,NGUYEN,Round Rock,TX,,Bicycle Sport Shop Cyclocross Team
+15,21569,Doug,Looney,Austin,TX,,Chicken and Waffles Racing
+16,320074,Shane,Carbonneau,Austin,TX,,Violet Crown Sports Assoc
+17,448225,Jason,Wright,Austin,TX,,Bicycle Sport Shop Club
+18,499672,DINH,NGUYEN,Round Rock,TX,,Bicycle Sport Shop Club
 DNF,131183,Christopher,Hill,Austin,TX,,DNA Cycling pb Onion Creek Volkswagen
 DNF,274963,Louie,Riesch,Austin,TX,,
 
@@ -134,20 +134,20 @@ Place,License #,First,Last,City,State,Time,Team
 2,11322,Cory,Faul,San Antonio,TX,,
 3,297871,Steven,Price,Fort Worth,TX,,
 4,308986,Duane,Howell,Austin,TX,,Bat City Cycling
-5,38782,David,Wolfe,Austin,TX,,
+5,38782,David,Wolfe,Austin,TX,,Violet Crown Sports Assoc
 6,417553,Clive,Sharman,Katy,TX,,Bayou City Racing
 7,92563,Robert,Wray,Austin,TX,,DNA Cycling pb Onion Creek Volkswagen
-8,33346,W Kent,Snead,Georgetown,TX,,
+8,33346,W Kent,Snead,Georgetown,TX,,ROL Wheels
 9,113100,Leland,Rusk,Austin,TX,,GS Tenzing
 10,304730,Timothy,Lawrence,Austin,TX,,
-11,517957,Joe,Michalewicz,Hutto,TX,,Bicycle Sport Shop Cyclocross Team
+11,517957,Joe,Michalewicz,Hutto,TX,,Bicycle Sport Shop Club
 12,62321,Bill,Swinford,Austin,TX,,Bicycle Sport Shop Club
-13,273017,Brett,Kinsey,Austin,TX,,
+13,273017,Brett,Kinsey,Austin,TX,,Mafia Racing
 14,194089,Peter,Marcell,Austin,TX,,Bat City Cycling
-15,155343,Matt,Sjoberg,Austin,TX,,Violet Crown
+15,155343,Matt,Sjoberg,Austin,TX,,
 16,458441,Mike,Blazek,Georgetown,TX,,
-17,230218,Robert,Dole,Austin,TX,,Violet Crown
-18,460608,Jim,Hungerford,Austin,TX,,Bicycle Sport Shop Cyclocross Team
+17,230218,Robert,Dole,Austin,TX,,Violet Crown Sports Assoc
+18,460608,Jim,Hungerford,Austin,TX,,Bicycle Sport Shop Club
 DNS,91641,Joey,Machado,Austin,TX,,Bicycle Sport Shop Cyclocross Team
 DNS,420083,David,Plaut,Austin,TX,,
 DNF,195013,Kurt,Egli,Austin,TX,,DNA Cycling pb Onion Creek Volkswagen
@@ -156,29 +156,29 @@ DNF,254028,Thom,Moore,Austin,TX,,
 09/10/2017 Cyclo-cross Men Cat1/2/3/4/5 Masters 60-99
 Place,License #,First,Last,City,State,Time,Team
 1,47745,Peter,Aubin,Houston,TX,,Shama Cycles
-2,138636,Oliver,Bond,Austin,TX,,Violet Crown
+2,138636,Oliver,Bond,Austin,TX,,Violet Crown Sports Assoc
 3,30024,Lee,Rivers,Austin,TX,,
-4,157600,Alan,Johnson,Richardson,TX,,RBM/Matrix Racing
-5,59647,M. Chris,Thibodeau,Telferner,TX,,Violet Crown Sports Association
+4,157600,Alan,Johnson,Richardson,TX,,Matrix Cycling Club
+5,59647,M. Chris,Thibodeau,Telferner,TX,,
 DNF,516808,Michael,Johnson,Dripping Springs,TX,,PHENOM p/b Phobio
 
 09/10/2017 Cyclo-cross Women Women Cat 3/4/5
 Place,License #,First,Last,City,State,Time,Team
-1,523559,Rebecca,Scaduto,Austin,TX,,
-2,417890,Sarah,Dieken,Austin,TX,,Embros BC
+1,523559,Rebecca,Scaduto,Allen,TX,,Team Super Awesome
+2,417890,Sarah,Dieken,Austin,TX,,
 3,486913,Cyndi,Zaino,Austin,TX,,Ruckus Racing Project
-4,157453,Rachel,Koen,Cypress,TX,,
-5,515854,Amy,Michalewicz,Hutto,TX,,Bicycle Sport Shop Cyclocross Team
+4,157453,Rachel,Koen,Houston,TX,,Bike Lane / Alloy Wheel Repair of Houston
+5,515854,Amy,Michalewicz,Hutto,TX,,Bicycle Sport Shop Club
 6,0,Amber,McGee,,,,
 DNF,367613,Danielle,Hubein,Austin,TX,,Bicycle Sport Shop
 
 09/10/2017 Cyclo-cross Women Cat 1/2/3/4/5
 Place,License #,First,Last,City,State,Time,Team
-1,386370,Abigail,Yates,Rowlett,TX,,Matrix/RBM
+1,386370,Abigail,Yates,Rowlett,TX,,Matrix Cycling Club
 2,404148,Venny,Alub,New Waverly,TX,,Cantu Cycling Wheels
 3,317542,Erin,Lorance,Mckinney,TX,,Matrix Cycling Club
-4,519168,Emily,Trahan,Leander,TX,,Violet Crown
-5,417890,Sarah,Dieken,Austin,TX,,Embros BC
+4,519168,Emily,Trahan,Leander,TX,,Violet Crown Sports Assoc
+5,417890,Sarah,Dieken,Austin,TX,,
 6,196922,Julie,Granshaw,Austin ,TX,,C360R Cycling Team
 7,442762,Kathrin,Milbury Bentley,Houston ,TX,,Cantu Cycling Wheels
 8,441438,Cherie,Spooner,Helotes,TX,,Alamo City Cycling
@@ -198,24 +198,24 @@ Place,License #,First,Last,City,State,Time,Team
 
 09/10/2017 Cyclo-cross Women Cat 3/4/5 Masters 40-99
 Place,License #,First,Last,City,State,Time,Team
-1,448680,Leigh,Busby,Austin,TX,,Bicycle Sport Shop Cyclocross Team
+1,448680,Leigh,Busby,Austin,TX,,Bicycle Sport Shop Club
 2,442762,Kathrin,Milbury Bentley,Houston ,TX,,Cantu Cycling Wheels
-3,325780,Shelley,Egli,Austin,TX,,
+3,325780,Shelley,Egli,Austin,TX,,Transitions LifeCare p/b InSync Rx
 4,441438,Cherie,Spooner,Helotes,TX,,Alamo City Cycling
-5,157466,Kathy,Johnson,Richardson,TX,,RBM/Matrix Racing
-6,515854,Amy,Michalewicz,Hutto,TX,,Bicycle Sport Shop Cyclocross Team
+5,157466,Kathy,Johnson,Richardson,TX,,Matrix Cycling Club
+6,515854,Amy,Michalewicz,Hutto,TX,,Bicycle Sport Shop Club
 
 09/10/2017 Cyclo-cross Mixed Single Speed
 Place,License #,First,Last,City,State,Time,Team
 1,104333,Kyle,Rodemacher,The Woodlands,TX,,
-2,36726,Craig,Virr,Austin,TX,,
+2,36726,Craig,Virr,Austin,TX,,Chicken and Waffles Racing
 3,298416,John,Wilmeth,Newwaverly,TX,,Cantu Cycling Wheels
-4,202202,Garrett,White,Scottsdale,AZ,,
-5,34666,Jonny,Sundt,Austin,TX,,
+4,202202,Garrett,White,San Antonio,TX,,
+5,34666,Jonny,Sundt,Bastrop,TX,,Team CCR Roofing
 6,426280,Nick,Mohan,Crawford,TX,,
 7,209098,Roman,Lobkovsky,Austin,TX,,
-8,387301,Adam,Frelin,Dallas,TX,,LGBTEAM
-9,243606,Frederick,Willemsen,Austin,TX,,Bicycle Sport Shop Cyclocross Team
+8,387301,Adam,Frelin,Dallas,TX,,
+9,243606,Frederick,Willemsen,Austin,TX,,Bicycle Sport Shop Club
 10,118539,Brad,Howard,Austin,TX,,Team Super Awesome
 11,420225,Brad,Spooner,Helotes,TX,,Alamo City Cycling
 12,268992,Emily,White,Scottsdale,AZ,,

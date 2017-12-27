@@ -27,7 +27,7 @@ Place,License #,First,Last,City,State,Time,Team
 23,403318,Kasper,Dean,Olympia,WA,00:02:42.81,
 24,0,Max,Scharf,,,00:02:42.83,Skookum Cycle And Ski
 25,356538,Jason,Schroeder,Carlsbad,CA,00:02:43.03,Giant Bicycles
-26,379122,Brian,Davison,Bellingham,WA,00:02:43.26,Lost-Bikes/ Lennys Bike Shop
+26,379122,Brian,Davison,Ferndale,WA,00:02:43.26,Lost-Bikes/ Lennys Bike Shop
 27,320502,Max,Morgan,Brevard ,NC,00:02:43.38,Worldwide Cyclery /  Santa Cruz Bicycles
 28,360404,Parker,Robinson,Antioch,CA,00:02:43.44,Renthal/ Truckerco/ Fox/ Fly Racing
 29,320590,Luca,Cometti,San Diego,CA,00:02:43.89,Commencal Usa
@@ -73,7 +73,7 @@ Place,License #,First,Last,City,State,Time,Team
 69,498769,Trevor,Lewis,Renton,WA,00:02:54.03,B-Line Racing/ Commencal Bikes
 70,302528,Cameron,Hoefer,Bothell,WA,00:02:54.14,Pivot/ Bikesale.Com/ 100%
 71,190065,Mikey,Haderer,Concord,CA,00:02:54.26,Mad Haderer Racing
-72,292601,Adam,Ransavage,North Bend,WA,00:02:54.41,
+72,292601,Adam,Ransavage,Ellensburg,WA,00:02:54.41,
 73,468093,Jason,Eiswald,Bellingham,WA,00:02:55.04,Gravity/ 100%/ Deity/ Maxxis/ Leatt
 74,351914,Brian,White,Durango,CO,00:02:55.46,
 75,368386,Jaren,Lockwood,Park City,UT,00:02:55.90,Go Ride/ Santa Cruz/ Smith
@@ -87,7 +87,7 @@ Place,License #,First,Last,City,State,Time,Team
 83,459449,Ryan,Rodriguez,Novato,CA,00:03:00.70,DVO
 84,259558,Kristopher,Christensen,Kirkland,WA,00:03:02.11,Mojo Wheels
 85,439198,Josiah,Till,Westminster,CO,00:03:03.45,Santa Cruz Bicycles
-86,341146,zachary,sedivy,Grand Junction,CO,00:03:03.70,Deity/ Fly Racing
+86,341146,zachary,sedivy,Kalispell,MT,00:03:03.70,Deity/ Fly Racing
 87,393621,Bas,van Steenbergen,Newbury Park,CA,00:03:04.01,Hyper Bikes
 88,405139,dylan,yoder,Reading,PA,00:03:05.55,
 89,470329,Bailey,Villalovos,Federal Way,WA,00:03:11.69,DFT United
@@ -110,7 +110,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,400985,Kaytlin,Melvin,Sammamish,WA,00:03:24.63,Progressive Cycling/ Dharco/ Maxxis/ I9/ 100%
 8,481337,Ella,Skalwold,East Hardwicke,VT,00:03:27.97,Transition/ Raceface/ Onza
 9,474290,Stephanie,Denroche,,,00:03:29.39,Zep Racing/ Race Face
-10,481900,CJ,Selig,Big Bear Lake,CA,00:03:38.04,Truckerco Posse
+10,481900,CJ,Selig,Running Springs,CA,00:03:38.04,Truckerco Posse
 11,456788,Kerstin,Holster,Portland,OR,00:03:38.82,Cyclepath/ Chris King/ Stansnotubes
 12,467539,Amanda,Wentz,Reno,NV,00:03:45.94,Transition/ Fox/ Gamut
 13,416795,Emily,Gacad,Morro Bay,CA,00:03:51.46,Incycle Race Team/ Intense
@@ -176,7 +176,7 @@ Place,License #,First,Last,City,State,Time,Team
 54,293661,Tommy,Zula,New Carlisle,OH,00:02:54.13,Airborne Bicycles
 55,365766,jason,bohl,Livermore,CA,00:02:54.31,1 Shot Racing
 56,406096,Bryce,Helbling,Sandy,UT,00:02:54.40,Knolly/ Dvo/ Poc/ Trucker Co/ Laketown Bicycles
-57,379122,Brian,Davison,Bellingham,WA,00:02:54.49,Lost-Bikes/ Lennys Bike Shop
+57,379122,Brian,Davison,Ferndale,WA,00:02:54.49,Lost-Bikes/ Lennys Bike Shop
 58,293962,Armen,Davis,Longmont,CO,00:02:54.70,The Fix Bike Shop
 59,454235,Brian,Cahal,Martinez,CA,00:02:54.83,Novatec
 60,401610,Jarod,Hanson,Corona,CA,00:02:54.96,Incycle/ Intense
@@ -191,7 +191,7 @@ Place,License #,First,Last,City,State,Time,Team
 69,368386,Jaren,Lockwood,Park City,UT,00:02:57.61,Go Ride/ Santa Cruz/ Smith
 70,382162,Joshua,Rogers,Clayton,NC,00:02:57.63,Leatt/ Billy Goat Bikes
 71,294580,Woodruff,Skinner,Hermiston,OR,00:02:58.45,All Out Racing/ Revgrips/ Pedaling Innovations
-72,292601,Adam,Ransavage,North Bend,WA,00:02:58.65,Ransavage Racing
+72,292601,Adam,Ransavage,Ellensburg,WA,00:02:58.65,Ransavage Racing
 73,190065,Mikey,Haderer,Concord,CA,00:02:58.72,Mad Haderer Racing
 74,302528,Cameron,Hoefer,Bothell,WA,00:02:58.78,Pivot/ Bikesale.Com/ 100%
 75,318536,Conrad,Culleney,Livermore,CA,00:02:59.61,1 Shot Racing
@@ -210,7 +210,7 @@ Place,License #,First,Last,City,State,Time,Team
 88,259558,Kristopher,Christensen,Kirkland,WA,00:03:06.08,Mojo Wheels
 89,459449,Ryan,Rodriguez,Novato,CA,00:03:06.12,DVO
 90,244135,Jonathon,Simonetti,Truckee,CA,00:03:06.82,Encina Bikes/ Gamut Usa/ Sail Rider
-91,341146,zachary,sedivy,Grand Junction,CO,00:03:07.22,Deity/ Fly Racing
+91,341146,zachary,sedivy,Kalispell,MT,00:03:07.22,Deity/ Fly Racing
 92,439198,Josiah,Till,Westminster,CO,00:03:09.78,Santa Cruz Bicycles
 93,470329,Bailey,Villalovos,Federal Way,WA,00:03:11.70,DFT United
 DNS,245409,Kevin,Aiello,Rancho Santa Margarita,CA,DNS,Socal Speed Team
@@ -242,9 +242,9 @@ Place,License #,First,Last,City,State,Time,Team
 17,341322,Damon,Sedivy,Kalispell,MT,00:02:56.68,Giant Co Factory
 18,460616,Ethan,Lieb,Bellevue,WA,00:02:57.67,Leatt/ Fanatik/ Norco/ Shimano/ Maxxis/ Deity
 19,412138,Sylas,Linnemann,Issaquah,WA,00:02:58.44,Dft United
+19,295509,Matthew,Sterling,San Jose,CA,00:03:00.07,Bike Works Usa Racing/ Fox Factory
 20,314386,Trent,Del Grippo,Golden,CO,00:02:58.53,Sr Suntour/ Royal/ 7Idp/ Giro
 21,321534,Alex,Holtzen,Boulder,CO,00:03:00.05,Smac Innovations/ Trek Bikes
-22,295509,Matthew,Sterling,San Jose,CA,00:03:00.07,Bike Works Usa Racing/ Fox Factory
 23,424421,Benjamin,Van Veen,Bellingham,WA,00:03:01.12,Jr. Progression Racing/ Leatt/ Norco/ Fanatik
 24,413844,Cole,Suetos,Temecula,CA,00:03:01.79,Incycle/ Intense Cycles
 25,0,Yusuke,Yamamoto,,,00:03:01.94,Dunbar Cycles
@@ -284,7 +284,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,481337,Ella,Skalwold,East Hardwicke,VT,00:03:42.49,Transition/ Raceface/ Onza
 11,467539,Amanda,Wentz,Reno,NV,00:03:46.38,Transition/ Fox/ Gamut
 12,416795,Emily,Gacad,Morro Bay,CA,00:03:47.96,Incycle Race Team/ Intense
-13,481900,CJ,Selig,Big Bear Lake,CA,00:03:49.54,Truckerco Posse
+13,481900,CJ,Selig,Running Springs,CA,00:03:49.54,Truckerco Posse
 14,255122,Amber,Price,Cedaredge,CO,00:04:03.44,Klim
 15,312456,Bridgette,LeBer,Grand Junction,CO,00:04:06.38,Rebel Riders/Trucherco Possee
 DNS,141210,Karen,O'Connell,Seattle,WA,DNS,Team Saturday

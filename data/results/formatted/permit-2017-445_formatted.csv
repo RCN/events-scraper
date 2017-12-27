@@ -13,8 +13,8 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,299873,Nivio,Diaz,Davie,FL,40:41.5,DProffesional
 2,527586,Antony,Maniatis,Jacksonville,FL,42:26.0,Unattached
-3,222404,Kevin,Abbate,Boynton Beach,FL,42:31.0,BillBoneBikeLaw/LCT
-4,433485,Richard,Benson,Port Saint Lucie,FL,43:52.3,TreasureCoastCyclingAssocia
+3,222404,Kevin,Abbate,Hypoluxo,FL,42:31.0,BillBoneBikeLaw/LCT
+4,433485,Richard,Benson,Fort Pierce,FL,43:52.3,TreasureCoastCyclingAssocia
 5,297191,Omelio,Rufin,Miami,FL,44:38.9,ProCyclingMiami
 6,48467,Milton,Davila,Oakland Park,FL,45:16.4,Unattached
 7,242172,Israel,Vera,Miami,FL,45:44.3,BikeLink
@@ -37,7 +37,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,235463,Vitor,Alexandre,Weston,FL,45:02.0,ColavitaRacing
 9,500835,Michael,Kraft,Boca Raton,FL,46:33.3,Unattached
 10,249400,John,Gibson,Fleming Island,FL,49:05.6,Unattached
-11,529438,Bryan,Merritt,Royal Palm Beach,FL,49:26.5,Unattached
+11,287124,Bryan,Merritt,Royal Palm Beach,FL,49:26.5,Unattached
 12,386693,Abraham,Nunez,Pembroke Pines,FL,51:40.6,Unattached
 DNS,354814,russell,keanini,Huntersville,NC,00:00.0,Unattached
 
@@ -45,11 +45,11 @@ DNS,354814,russell,keanini,Huntersville,NC,00:00.0,Unattached
 Place,License #,First,Last,City,State,Time,Team
 1,49932,Gary,Painter,Ft Wayne,IN,26:07.0,Ft.WayneOutfitters
 2,231630,Michael,Adams,Tampa,FL,26:08.1,GearLinkRacingINC.
-3,385441,Mark,Miller,Lighthouse Point,FL,27:52.1,Unattached
+3,385441,Mark,Miller,Pompano Beach,FL,27:52.1,Unattached
 4,526014,Jeff,Johnson,Celebration,FL,28:26.3,Unattached
 5,342576,Paul,Bordas,Stuart,FL,28:52.3,TreasureCoastCyclingAssocia
 6,385108,Kevin,Eccleston,Lake Alfred,FL,29:17.9,Unattached
-7,417419,George,Toomey,Stuartstuart,FL,29:37.4,Unattached
+7,417419,George,Toomey,Stuart,FL,29:37.4,Unattached
 8,485482,Michael,Radford,Destin,FL,29:43.1,Unattached
 9,341592,Richard,Abreu,Miami,FL,30:13.9,Unattached
 10,486115,Jon,Rubel,Green Cove Springs,FL,33:22.4,Unattached
@@ -62,7 +62,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,149093,John,Stamm,Afton,MN,29:31.3,ChilkootRacing
 3,108046,Robert,Tyler,Winter Garden,FL,30:06.6,Unattached
 4,63912,John,Wells,Palm City,FL,31:07.2,Unattached
-5,404079,Pat,Jennings,Saint Petersburg ,FL,31:50.4,Unattached
+5,404079,Pat,Jennings,Saint Petersburg,FL,31:50.4,Unattached
 6,491343,John,McGarry,Ponte Vedra Beach,FL,32:00.7,Unattached
 7,500828,Frank,Clemente,Fleming Island,FL,34:07.5,Unattached
 
@@ -85,8 +85,8 @@ Place,License #,First,Last,City,State,Time,Team
 
 04/09/2017 Time Trial Men Merckx
 Place,License #,First,Last,City,State,Time,Team
-1,439698,andrew,geffner,Miami,FL,27:46.4,Unattached
-2,511698,Harrison,Scales,,,27:58.9,Unattached
+1,439698,andrew,geffner,Boulder,CO,27:46.4,Unattached
+2,511698,Harrison,Scales,St. Augustine,FL,27:58.9,Unattached
 3,243186,Jose,Armas,Pembroke Pines,FL,28:29.2,DProffesional
 4,280726,Patrick,Sansbury,Deerfield Beach,FL,28:38.0,Vivo Cycling Attorney
 5,489310,Eric,Hall,Tampa,FL,28:52.4,Unattached
@@ -159,7 +159,7 @@ Place,License #,First,Last,City,State,Time,Team
 04/09/2017 Time Trial Men Juniors Open 15-16
 Place,License #,First,Last,City,State,Time,Team
 1,440044,Juan David,Buitrago,Homestead,FL,27:34.0,Unattached
-2,494503,JeanLuc,ContantGalitello,Pompano Beach,FL,28:24.6,InteractiveMetronome
+2,494503,JeanLuc,ContantGalitello,Coconut Creek,FL,28:24.6,InteractiveMetronome
 3,428530,Richard,FreemanIII,Groveland,FL,28:53.9,Unattached
 4,429044,Marcel,Maldonado,Miramar,FL,29:22.3,Unattached
 5,472611,simon,reyes,Fort Lauderdale,FL,29:36.3,InteractiveMetronomep/bMega
@@ -181,7 +181,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,384633,Rhandie,Thompson,Jacksonville,FL,43:36.7,Unattached
 2,304174,Tomas,Velez,Miami,FL,44:44.7,Unattached
-3,351492,markanthony,sanchez,Wesley Chapel,FL,45:46.7,Unattached
+3,351492,markanthony,sanchez,Beaveton ,OR,45:46.7,Unattached
 DNS,284757,Michael,Vasco,Apollo Beach,FL,00:00.0,Unattached
 
 04/09/2017 Time Trial Men 23-29 23-29
@@ -212,7 +212,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,497725,Jose,Garcell,Palm Beach Gardens,FL,47:49.9,Unattached
 11,528980,Felix,Antunez,Hialeah,FL,48:48.4,Unattached
 12,63912,John,Wells,Palm City,FL,49:50.9,Unattached
-DNS,385441,Mark,Miller,Lighthouse Point,FL,00:00.0,Unattached
+DNS,385441,Mark,Miller,Pompano Beach,FL,00:00.0,Unattached
 
 04/09/2017 Time Trial Men Cat 4
 Place,License #,First,Last,City,State,Time,Team
@@ -234,8 +234,8 @@ Place,License #,First,Last,City,State,Time,Team
 4,401723,Christian,Avila,Davie,FL,43:33.6,CycleDepotRacingTeam
 5,476700,jacob,burbach,Fort Myers ,FL,43:35.1,FloridaVelo
 6,284757,Michael,Vasco,Apollo Beach,FL,43:54.2,Unattached
-DNS,494503,JeanLuc,ContantGalitello,Pompano Beach,FL,00:00.0,InteractiveMetronome
-DNS,351492,markanthony,sanchez,Wesley Chapel,FL,00:00.0,Unattached
+DNS,494503,JeanLuc,ContantGalitello,Coconut Creek,FL,00:00.0,InteractiveMetronome
+DNS,351492,markanthony,sanchez,Beaveton ,OR,00:00.0,Unattached
 
 04/09/2017 Time Trial Women Masters Open 30-39
 Place,License #,First,Last,City,State,Time,Team
@@ -271,7 +271,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,459074,hannah,fowler,Parkland,FL,17:31.7,Unattached
 2,419259,Mallory,Bryan,Land O Lakes,FL,17:47.0,Sho-AirTWENTY20Development
 3,443747,Kayla,Yuengling,Miami,FL,19:16.1,Unattached
-4,466085,Larissa,Polanco,Windermere ,FL,25:37.7,Unattached
+4,466085,Larissa,Polanco,Windermere,FL,25:37.7,Unattached
 
 04/09/2017 Time Trial Women Juniors 15-16
 Place,License #,First,Last,City,State,Time,Team

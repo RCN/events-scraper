@@ -2,7 +2,7 @@ TRAIL presents La Vuelta d' Acadiana 2017 in Lafayette LA Results
 
 03/26/2017 Omnium Men Cat 1/2/3/4/5 Masters 40+
 Place,License #,First,Last,City,State,Time,Team
-1,309874,Kenneth,Poole,Hattiesburg ,MS,53,CSpire Fiber Cycling
+1,309874,Kenneth,Poole,Hattiesburg,MS,53,CSpire Fiber Cycling
 2,193992,Woody,Boudreaux,Westwego,LA,40,CSpire Fiber Cycling
 3,167772,Eddie,Corcoran,New Orleans,LA,26,
 4,41597,Frank,Moak,Brookhaven,MS,26,CSpire Fiber Cycling
@@ -25,12 +25,12 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,476920,Mark,LeBlanc,Lafayette,LA,39,4D Racing
 2,345004,Daniel,Lausin,Willowick,OH,30,Palmer/CSpire Fiber Cycling
-3,301474,Sam,LeBlanc,Kenner,LA,28,4D Racing
+3,301474,Sam,LeBlanc,New Orleans,LA,28,4D Racing
 4,278514,Michael,McBrien,Milton,FL,28,Palmer Cycling
 5,374748,Travis,Dorman,Panama City,FL,24,Palmer/CSpire Fiber Cycling
 6,378825,Lance,Abshire,Baton Rouge,LA,21,Team LaS'port
 7,404765,Patton,Sims,Sterlington,LA,17,Palmer/CSpire Fiber Cycling
-8,239878,Ben,Hall,River Ridge,LA,16,4D Racing
+8,239878,Ben,Hall,Columbus,OH,16,4D Racing
 9,355844,Jaden,Kifer,New Orleans,LA,15,Team LaS'port
 10,288498,Keith,Miller,Baton Rouge,LA,14,GEAUX Race
 11,374783,Taylor,Hanegan,Haughton,LA,12,Team LaS'port
@@ -96,12 +96,12 @@ Place,License #,First,Last,City,State,Time,Team
 1,474485,Mary Emily,Davidson,Mobile,AL,53,Team Pursuit
 2,497632,Emily,Gass,New Orleans,LA,41,Urban South Racing p/b Rouler
 3,515292,Rachel,Smith,New Orleans,LA,34,Crush Racing
-4,391020,Gigi,Carter,Madison,MS,26,Nunchuck Bunnies
+4,391020,Gigi,Carter,Eastsound,WA,26,Nunchuck Bunnies
 5,468532,Alison,Carey,Mandeville,LA,24,Nunchuck Bunnies
 6,431035,Tiffany,Landry,Hattiesburg,MS,21,Nunchuck Bunnies
 7,523143,Elizabeth,Reinhard,New Orleans,LA,19,Crush Racing
-8,525573,Savannah,Porter,Gray,LA,13,Nicholls State University
-9,528630,Eulalie,Grodner,Baton Rouge,LA,8,
+8,525573,Savannah,Porter,Thibodaux,LA,13,Nicholls State University
+9,528630,Eulalie,Grodner,,,8,
 10,521403,Elyse,Bejasa,New Orleans,LA,7,Urban South Racing p/b Rouler
 11,509306,Alicia,Mariano,New Orleans,LA,6,Urban South Racing p/b Rouler
 
@@ -115,7 +115,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 03/26/2017 Road Race Men Cat 1/2/3/4/5 Masters 40+
 Place,License #,First,Last,City,State,Time,Team
-1,309874,Kenneth,Poole,Hattiesburg ,MS,,CSpire Fiber Cycling
+1,309874,Kenneth,Poole,Hattiesburg,MS,,CSpire Fiber Cycling
 2,193992,Woody,Boudreaux,Westwego,LA,,CSpire Fiber Cycling
 3,167772,Eddie,Corcoran,New Orleans,LA,,0
 4,343568,Scott,Gumina,Slidell,LA,,Peake Cycling
@@ -143,10 +143,10 @@ Place,License #,First,Last,City,State,Time,Team
 3,378825,Lance,Abshire,Baton Rouge,LA,,Team LaS'port
 4,288498,Keith,Miller,Baton Rouge,LA,,GEAUX Race
 5,374783,Taylor,Hanegan,Haughton,LA,,Team LaS'port
-6,239878,Ben,Hall,River Ridge,LA,,4D Racing
+6,239878,Ben,Hall,Columbus,OH,,4D Racing
 7,442815,Whit,Somerall,Shreveport,LA,,Team LaS'port
 8,374748,Travis,Dorman,Panama City,FL,,Palmer/CSpire Fiber Cycling
-9,301474,Sam,LeBlanc,Kenner,LA,,4D Racing
+9,301474,Sam,LeBlanc,New Orleans,LA,,4D Racing
 10,230433,Mathew,Davis,Shreveport,LA,,Team LaS'port
 11,355844,Jaden,Kifer,New Orleans,LA,,Team LaS'port
 12,485507,Lucas,Muniz,Memphis ,TN,,Palmer/CSpire Fiber Cycling
@@ -238,13 +238,13 @@ Place,License #,First,Last,City,State,Time,Team
 2,497632,Emily,Gass,New Orleans,LA,,Urban South Racing p/b Rouler
 3,515292,Rachel,Smith,New Orleans,LA,,Crush Racing
 4,468532,Alison,Carey,Mandeville,LA,,Nunchuck Bunnies
-5,391020,Gigi,Carter,Madison,MS,,Nunchuck Bunnies
+5,391020,Gigi,Carter,Eastsound,WA,,Nunchuck Bunnies
 6,523143,Elizabeth,Reinhard,New Orleans,LA,,Crush Racing
 7,431035,Tiffany,Landry,Hattiesburg,MS,,Nunchuck Bunnies
-8,528630,Eulalie,Grodner,Baton Rouge,LA,,
+8,528630,Eulalie,Grodner,,,,
 9,521403,Elyse,Bejasa,New Orleans,LA,,Urban South Racing p/b Rouler
 10,509306,Alicia,Mariano,New Orleans,LA,,Urban South Racing p/b Rouler
-11,525573,Savannah,Porter,Gray,LA,,Nicholls State University
+11,525573,Savannah,Porter,Thibodaux,LA,,Nicholls State University
 
 03/26/2017 Road Race Mixed Cat 1/2/3/4/5 Juniors
 Place,License #,First,Last,City,State,Time,Team
@@ -253,7 +253,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 03/25/2017 Criterium Men Cat 1/2/3/4/5 Masters 40+
 Place,License #,First,Last,City,State,Time,Team
-1,309874,Kenneth,Poole,Hattiesburg ,MS,,CSpire Fiber Cycling
+1,309874,Kenneth,Poole,Hattiesburg,MS,,CSpire Fiber Cycling
 2,193992,Woody,Boudreaux,Westwego,LA,,CSpire Fiber Cycling
 3,347118,Bronson,Breaux,Saint Martinville ,LA,,Acadiana Bicycle Company Racing
 4,41597,Frank,Moak,Brookhaven,MS,,CSpire Fiber Cycling
@@ -272,7 +272,7 @@ DNF,258236,Trey,Pounds,Brookhaven,MS,,CSpire Fiber Cycling
 03/25/2017 Criterium Men Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
 1,278514,Michael,McBrien,Milton,FL,,Palmer Cycling
-2,301474,Sam,LeBlanc,Kenner,LA,,4D Racing
+2,301474,Sam,LeBlanc,New Orleans,LA,,4D Racing
 3,374748,Travis,Dorman,Panama City,FL,,Palmer/CSpire Fiber Cycling
 4,476920,Mark,LeBlanc,Lafayette,LA,,4D Racing
 5,404765,Patton,Sims,Sterlington,LA,,Palmer/CSpire Fiber Cycling
@@ -280,7 +280,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,77897,Kevin,Landry,Youngsville,LA,,Acadiana Bicycle Company Racing
 8,355844,Jaden,Kifer,New Orleans,LA,,Team LaS'port
 9,485507,Lucas,Muniz,Memphis ,TN,,Palmer/CSpire Fiber Cycling
-10,239878,Ben,Hall,River Ridge,LA,,4D Racing
+10,239878,Ben,Hall,Columbus,OH,,4D Racing
 11,378825,Lance,Abshire,Baton Rouge,LA,,Team LaS'port
 12,460011,John,OConnell,New Orleans,LA,,4D Racing
 13,230433,Mathew,Davis,Shreveport,LA,,Team LaS'port
@@ -357,11 +357,11 @@ Place,License #,First,Last,City,State,Time,Team
 1,474485,Mary Emily,Davidson,Mobile,AL,,Team Pursuit
 2,497632,Emily,Gass,New Orleans,LA,,Urban South Racing p/b Rouler
 3,515292,Rachel,Smith,New Orleans,LA,,Crush Racing
-4,391020,Gigi,Carter,Madison,MS,,Nunchuck Bunnies
+4,391020,Gigi,Carter,Eastsound,WA,,Nunchuck Bunnies
 5,431035,Tiffany,Landry,Hattiesburg,MS,,Nunchuck Bunnies
 6,468532,Alison,Carey,Mandeville,LA,,Nunchuck Bunnies
 7,523143,Elizabeth,Reinhard,New Orleans,LA,,Crush Racing
-8,525573,Savannah,Porter,Gray,LA,,Nicholls State University
+8,525573,Savannah,Porter,Thibodaux,LA,,Nicholls State University
 DNF,526422,Heather,Johnson,Covington,LA,,
 
 03/25/2017 Criterium Mixed Cat 1/2/3/4/5 Juniors

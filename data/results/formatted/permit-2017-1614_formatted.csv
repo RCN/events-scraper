@@ -22,7 +22,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,518444,Bruce,Ward,North Little Rock,AR,,University of Arkansas Cycling Team
 2,0,Mark,Ferguson,,,,
-3,454210,Everett,Gooch,Brandon,MS,,
+3,454210,Everett,Gooch,North Little Rock,AR,,
 4,305608,Derek,King,Little Rock,AR,,Central Arkansas Velo/CARVE
 5,0,Tony,Smith,,,,
 6,434702,Logan,Hall,Greenbrier,AR,,The Ride
@@ -36,12 +36,12 @@ Place,License #,First,Last,City,State,Time,Team
 14,300761,Barbara,Mariani,Littlerock,AR,,Pinnacle Velo
 15,484552,Gabriel,Lodge,Little Rock,AR,,Pinnacle Velo
 16,471827,Katy,Simmons,Little Rock,AR,,Pinnacle Velo
-17,23253,David,McCauley,N Little Rock,AR,,
+17,23253,David,McCauley,North Little Rock,AR,,
 DNF,382747,Stephen,Harrison,Roeland Park,KS,,GP Velotek
 
 08/08/2017 Criterium Men CAT 1/2/3/4
 Place,License #,First,Last,City,State,Time,Team
-1,227335,Ben,Gabardi,Madison,MS,,Intelligentsia
+1,227335,Ben,Gabardi,Little Rock,AR,,Intelligentsia
 2,10367,Hunter,East,Little Rock,AR,,Oklahoma City Velo Club
 3,513513,Olivier,Lavigueur,Little Rock,AR,,Intelligentsia
 4,466647,Jesse,Nabholz,Conway,AR,,The Ride
@@ -50,7 +50,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,473188,Neil,Simmons,Little Rock,AR,,Pinnacle Velo
 8,265172,Kris,French,Little Rock,AR,,
 9,305608,Derek,King,Little Rock,AR,,Central Arkansas Velo/CARVE
-10,392104,Doug,Zell,Little Rock ,AR,,Intelligentsia Coffee
+10,392104,Doug,Zell,Lockhart,TX,,Intelligentsia Coffee
 11,396059,Adolfo,Cordova,Little Rock,AR,,Pinnacle Velo
 12,309572,Kirk,Grynwald,Little Rock,AR,,Pinnacle Velo
 13,391064,Andrew,Townsend,Little Rock,AR,,Central Arkansas Velo/CARVE
@@ -64,7 +64,7 @@ Place,License #,First,Last,City,State,Time,Team
 21,474069,Oren,Tucker,Little Rock,AR,,
 22,48596,Bill,Kopsky,Little Rock,AR,,
 23,434702,Logan,Hall,Greenbrier,AR,,The Ride
-DNF,454210,Evertt,Gooch,Brandon,MS,,
+DNF,454210,Evertt,Gooch,North Little Rock,AR,,
 
 08/08/2017 Criterium Women CAT 1/2/3/4/5
 Place,License #,First,Last,City,State,Time,Team
@@ -102,12 +102,12 @@ Place,License #,First,Last,City,State,Time,Team
 9,439519,Paul,Barre,Little Rock,AR,,Central Arkansas Velo/CARVE
 10,288345,Robert,Ulliman,Keller,TX,,
 11,201569,David,Grundfest,Little Rock,AR,,
-12,454210,Everett,Gooch,Brandon,MS,,
+12,454210,Everett,Gooch,North Little Rock,AR,,
 13,525743,Jacob,Boone,Little Rock,AR,,University of Arkansas Cycling Team
 14,3594,Matthew,Bevans,Little Rock,AR,,Central Arkansas Velo/CARVE
 15,0,Tony,Smith,,,,
 16,0,Taylor,Deems,,,,
-17,23253,David,McCauley,N Little Rock,AR,,
+17,23253,David,McCauley,North Little Rock,AR,,
 18,518444,Bryce,Ward,North Little Rock,AR,,University of Arkansas Cycling Team
 DNF,525293,Christian,Stevens,Jacksonville,AR,,Central Arkansas Velo/CARVE
 DNF,481390,Seth,Norton,Conway,AR,,Experience Fayetteville Cycling Team
@@ -247,10 +247,10 @@ Place,License #,First,Last,City,State,Time,Team
 8,476501,Kyle,Landrum,Hot Springs National Park,AR,,
 9,474069,Oren,Tucker,Little Rock,AR,,Arkansas Cycling & Fitness
 10,525743,Jacob,Boone,Little Rock,AR,,University of Arkansas Cycling Team
-11,454210,Everett,Gooch,Brandon,MS,,
+11,454210,Everett,Gooch,North Little Rock,AR,,
 12,525988,Jaden,Mooty,Little Rock,AR,,Leborne
 13,201569,David,Grundfest,Little Rock,AR,,Competitive Cyclist
-14,23253,David,McCauley,N Little Rock,AR,,
+14,23253,David,McCauley,North Little Rock,AR,,
 DNF,429616,Andrew,McGilvray,Little Rock,AR,,
 DNF,523857,Eric,Monte,Hot Springs,AR,,
 
@@ -258,7 +258,7 @@ DNF,523857,Eric,Monte,Hot Springs,AR,,
 Place,License #,First,Last,City,State,Time,Team
 1,345806,Cole,Tininenko,Little Rock,AR,,Meteor Racing
 2,395255,Tanner,Ward,Little Rock,AR,,Oklahoma Bicycle Project
-3,227335,Ben,Gabardi,Madison,MS,,Meteor Racing
+3,227335,Ben,Gabardi,Little Rock,AR,,Meteor Racing
 4,340384,Brandon,Thornton,Little Rock,AR,,Pinnacle Velo
 5,218197,James,Gillum,Little Rock,AR,,Oklahoma City Velo Club
 6,425096,Kevin,Solomon,Little Rock,AR,,Tyson Foods Cycling Team
@@ -285,7 +285,7 @@ Place,License #,First,Last,City,State,Time,Team
 DNF,314228,Keegen,Knapp,Little Rock,AR,,Off By The Pool
 DNF,394027,Derek,Berry,Little Rock,AR,,Off By The Pool
 DNF,200342,Wesley,Wolfenbarger,Little Rock,AR,,
-DNF,392104,Doug,Zell,Little Rock ,AR,,Intelligentsia Coffee
+DNF,392104,Doug,Zell,Lockhart,TX,,Intelligentsia Coffee
 
 07/11/2017 Criterium Women CAT 1/2/3/4/5
 Place,License #,First,Last,City,State,Time,Team
@@ -327,7 +327,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,432045,Josh,Teal,Maumelle,AR,,Faction Racing
 9,518444,Bryce,Ward,North Little Rock,AR,,University of Arkansas Cycling Team
 10,3594,Matthew,Bevans,Little Rock,AR,,Central Arkansas Velo/CARVE
-11,454210,Everett,Gooch,Brandon,MS,,
+11,454210,Everett,Gooch,North Little Rock,AR,,
 12,201569,David,Grundfest,Little Rock,AR,,Team Grundfest Racing
 13,525743,Jacob,Boone,Little Rock,AR,,University of Arkansas Cycling Team
 14,429616,Andrew,McGilvray,Little Rock,AR,,
@@ -336,7 +336,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,518425,Caro,Poole,Little Rock,AR,,Pinnacle Velo
 18,300761,Barbara,Mariani,Littlerock,AR,,Pinnacle Velo
 19,529231,Jadden,Mooty,Little Rock,AR,,Leborne Racing
-20,23253,David,McCauley,N Little Rock,AR,,
+20,23253,David,McCauley,North Little Rock,AR,,
 21,522149,Jaime,Tininenko,Little Rock,AR,,Pinnacle Velo
 DNF,471827,Katy,Simmons,Little Rock,AR,,Pinnacle Velo
 DNF,367531,Brian,Buerger,Nashville,TN,,
@@ -345,7 +345,7 @@ DNF,367531,Brian,Buerger,Nashville,TN,,
 Place,License #,First,Last,City,State,Time,Team
 1,425096,Kevin,Solomon,Little Rock,AR,,Tyson Foods Cycling Team
 2,345806,Cole,Tininenko,Little Rock,AR,,The Meteor
-3,227335,Ben,Gabardi,Madison,MS,,The Meteor
+3,227335,Ben,Gabardi,Little Rock,AR,,The Meteor
 4,513513,Olivier,Lavigueur,Little Rock,AR,,The Meteor
 5,53972,Ernie,Lechuga,Little Rock,AR,,Leborne
 6,340384,Brandon,Thornton,Little Rock,AR,,Pinnacle Velo
@@ -365,7 +365,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,396059,Adolfo,Cordova,Little Rock,AR,,Pinnacle Velo
 21,466957,Josh,Tyrrell,,,,Velo IBike
 22,266755,Robert,Mooney,North Little Rock,AR,,Arkansas Cycling & Fitness
-23,200343,Wade,Wolfenbarger,Park City,UT,,Team Myself
+23,200343,Wade,Wolfenbarger,Little Rock,AR,,Team Myself
 24,153566,Chris,Hurst,Little Rock,AR,,Pinnacle Velo
 25,394027,Derek,Berry,Little Rock,AR,,
 26,496914,martial,trigeaud,Little Rock,AR,,Central Arkansas Velo/CARVE
@@ -412,7 +412,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,3594,Matthew,Bevans,Little Rock,AR,,Central Arkansas Velo/CARVE
 8,525743,Jacob,Boone,Little Rock,AR,,University of Arkansas Cycling Team
 9,474069,Oren,Tucker,Little Rock,AR,,Arkansas Cycling and Fitness
-10,454210,Everett,Gooch,Brandon,MS,,
+10,454210,Everett,Gooch,North Little Rock,AR,,
 11,238475,Zane,Jeffers,Hot Springs,AR,,Bell & Company Mountain Biking
 12,428431,Paul,Alexander,North Little Rock,AR,,The Meteor
 13,518444,Bryce,Ward,North Little Rock,AR,,
@@ -420,7 +420,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,529231,Jadden,Mooty,Little Rock,AR,,Leborne Racing
 16,424271,Peyton,Greenwald,Little Rock,AR,,Central Arkansas Velo/CARVE
 17,533325,Todd,Endl,Alexander,AR,,Arkansas Cycling and Fitness
-18,23253,David,McCauley,N Little Rock,AR,,
+18,23253,David,McCauley,North Little Rock,AR,,
 DNF,494696,Michael,Herring,Memphis,TN,,US Military Endurance Sports
 DNF,300761,Barbara,Mariani,Littlerock,AR,,Pinnacle Velo
 
@@ -429,7 +429,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,513513,Olivier,Lavigueur,Little Rock,AR,,The Meteor
 2,360075,Chris,St Peter,Little Rock,AR,,The Meteor
 3,345806,Cole,Tininenko,Little Rock,AR,,The Meteor
-4,227335,Ben,Gabardi,Madison,MS,,The Meteor
+4,227335,Ben,Gabardi,Little Rock,AR,,The Meteor
 5,290408,Robbin,Rahman,Little Rock,AR,,L5Flyers Cycling Team
 6,47037,Peter,Beland,Little Rock,AR,,Walmart/GPP Cycling Team
 7,265172,Kris,French,Little Rock,AR,,
@@ -499,16 +499,16 @@ Place,License #,First,Last,City,State,Time,Team
 10,525743,Jacob,Boone,Little Rock,AR,,University of Arkansas Cycling Team
 11,338178,Caleb,Pierce,North Little Rock,AR,,Central Arkansas Velo/CARVE
 12,428431,Paul,Alexander,North Little Rock,AR,,
-13,454210,Everett,Gooch,Brandon,MS,,Full Motion Racing
+13,454210,Everett,Gooch,North Little Rock,AR,,Full Motion Racing
 14,300761,Barbara,Mariani,Littlerock,AR,,Yoga Box Racing p/b Transitions LifeCare
-15,23253,David,McCauley,N Little Rock,AR,,Central Racing
+15,23253,David,McCauley,North Little Rock,AR,,Central Racing
 16,467183,Kenneth,Thomas,Madisonville,LA,,Urban South Racing p/b Rouler
 DNS,526124,Josh,Poteete,Hot Springs,AR,,Pinnacle Velo
 DNF,518425,Caro,Poole,Little Rock,AR,,Yoga Box Racing p/b Transitions LifeCare
 
 06/13/2017 Criterium Men CAT 1/2/3/4
 Place,License #,First,Last,City,State,Time,Team
-1,227335,Ben,Gabardi,Madison,MS,,Intelligentsia Coffee
+1,227335,Ben,Gabardi,Little Rock,AR,,Intelligentsia Coffee
 2,496914,Martial,Trigeaud,Little Rock,AR,,Central Arkansas Velo/CARVE
 3,360075,Chris,St Peter,Little Rock,AR,,Intelligentsia Coffee
 4,513513,Olivier,Lavigueur,Little Rock,AR,,Intelligentsia Coffee
@@ -585,7 +585,7 @@ DNF,300761,Barbara,Mariani,Littlerock,AR,,Yoga Box Racing p/b Transitions LifeCa
 DNF,466181,Ricky,Wu,Philadelphia,PA,,
 DNF,518425,Caro,Poole,Little Rock,AR,,Yoga Box Racing p/b Transitions LifeCare
 DNF,428431,Paul,Alexander,North Little Rock,AR,,
-DNF,23253,David,McCauley,N Little Rock,AR,,
+DNF,23253,David,McCauley,North Little Rock,AR,,
 DNF,254189,Blake,Sorg,Maumelle,AR,,
 DNF,305608,Derek,King,Little Rock,AR,,
 
@@ -594,12 +594,12 @@ Place,License #,First,Last,City,State,Time,Team
 1,395255,Tanner,Ward,Little Rock,AR,,Oklahoma Bicycle Project
 2,345806,Cole,Tininenko,Little Rock,AR,,Intelligentsia Coffee/ALLIED
 3,360075,Chris,St Peter,Little Rock,AR,,Intelligentsia Coffee
-4,227335,Ben,Gabardi,Madison,MS,,Intelligentsia Coffee/ALLIED
+4,227335,Ben,Gabardi,Little Rock,AR,,Intelligentsia Coffee/ALLIED
 5,513513,Olivier,Lavigueur,Little Rock,AR,,Intelligentsia Coffee/ALLIED
 6,340384,Brandon,Thornton,Little Rock,AR,,Pinnacle Velo
 7,53972,Ernesto,Lechuga,Little Rock,AR,,LeBorne
 8,47037,Peter,Beland,Little Rock,AR,,Walmart/GPP Cycling Team
-9,392104,Doug,Zell,Little Rock ,AR,,Intelligentsia Coffee
+9,392104,Doug,Zell,Lockhart,TX,,Intelligentsia Coffee
 10,390503,Scott,Hall,Maumelle,AR,,Central Arkansas Velo/CARVE
 11,396059,Adolfo,Cordova,Little Rock,AR,,Pinnacle Velo
 12,215256,Karl,Hanson,Little Rock,AR,,Central Arkansas Velo/CARVE
@@ -655,7 +655,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,3594,Matthew,Bevans,Little Rock,AR,,Central Arkansas Velo/CARVE
 6,407002,Andy,Nelson,Lonsdale,AR,,Pinnacle Velo
 7,467976,Terry,Oxandale,Little Rock,AR,,
-8,454210,Everett,Gooch,Brandon,MS,,
+8,454210,Everett,Gooch,North Little Rock,AR,,
 9,481390,Seth,Norton,Conway,AR,,Experience Fayetteville Cycling Team
 10,428431,Paul,Alexander,North Little Rock,AR,,
 11,473188,Neil,Simmons,Little Rock,AR,,Pinnacle Velo
@@ -666,7 +666,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,474069,Oren,Tucker,Little Rock,AR,,
 11,525743,Jacob,Boone,Little Rock,AR,,University of Arkansas Cycling Team
 11,527252,Stephen,Waldrip,Memphis,TN,,Journeymen Racing Multisport
-11,23253,David,McCauley,N Little Rock,AR,,
+11,23253,David,McCauley,North Little Rock,AR,,
 11,202584,Leif,Kruse,St Augustine,FL,,
 11,368833,Chelsea,Reedy,Denton,TX,,Matrix Cycling Club
 11,444145,James,Morgan,Little Rock,AR,,
@@ -700,7 +700,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,429358,Jean,Sada,Little Rock ,AR,,Eliel Factory Team
 11,234061,John,Gillum,Little Rock,AR,,
 11,0,Mitch,Hake,,,,
-11,392104,Doug,Zell,Little Rock ,AR,,Intelligentsia Coffee
+11,392104,Doug,Zell,Lockhart,TX,,Intelligentsia Coffee
 
 05/23/2017 Criterium Women CAT 1/2/3/4/5
 Place,License #,First,Last,City,State,Time,Team
@@ -739,7 +739,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,3594,Matthew,Bevans,Little Rock,AR,,Central Arkansas Velo/CARVE
 8,467976,Terry,Oxandale,Little Rock,AR,,
 9,424271,Peyton,Greenwald,Little Rock,AR,,Central Arkansas Velo/CARVE
-10,454210,Everett,Gooch,Brandon,MS,,
+10,454210,Everett,Gooch,North Little Rock,AR,,
 11,518444,Bryce,Ward,North Little Rock,AR,,
 12,288345,Robert,Ulliman,Keller,TX,,
 13,201569,Dave,Grundfest,Little Rock,AR,,
@@ -757,10 +757,10 @@ Place,License #,First,Last,City,State,Time,Team
 5,47037,Peter,Beland,Little Rock,AR,,Walmart/GPP Cycling Team
 6,95739,Donnie,Van Patter,Little Rock,AR,,Oklahoma City Velo Club
 7,345806,Cole,Tininenko,Little Rock,AR,,
-8,392104,Doug,Zell,Little Rock ,AR,,Intelligentsia Coffee
+8,392104,Doug,Zell,Lockhart,TX,,Intelligentsia Coffee
 9,218197,James,Gillum,Little Rock,AR,,Oklahoma City Velo Club
 10,340384,Brandon,Thornton,Little Rock,AR,,Pinnacle Velo
-11,227335,Ben,Gabardi,Madison,MS,,
+11,227335,Ben,Gabardi,Little Rock,AR,,
 12,390503,Scott,Hall,Maumelle,AR,,CARVE
 13,385951,Jimmy,Humston,Little Rock,AR,,Pinnacle Velo
 14,396556,Barret,Richardson,Little Rock,AR,,

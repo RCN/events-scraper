@@ -13,7 +13,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,538436,Rachel,Bergh,Madison,WI,,
 10,0,Rebecca,Krueger,,,,
 11,377249,Gale,Hellpap,Belleville,WI,,Brazen Dropouts Cycling Team
-12,467715,Marlena,Janczak,Greendale,WI,,ISCorp Cycling p/b SmartChoice MRI
+12,467715,Marlena,Janczak,Whitewater,WI,,ISCorp Cycling p/b SmartChoice MRI
 
 04/08/2017 Criterium Women Cat 1/2/3/4/5 Elite
 Place,License #,First,Last,City,State,Time,Team
@@ -27,7 +27,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,481324,Jodie,Prestine,Brookfield,WI,,ISCorp Cycling p/b SmartChoice MRI
 9,302860,Lindsey,Kriete,Milwaukee,WI,,Hollander Cycling p/b ISCorp
 10,391356,Erica,Mueller,Madison,WI,,
-11,473111,Cedella,Janczak,Greendale,WI,,ISCorp Cycling p/b SmartChoice MRI
+11,473111,Cedella,Janczak,Hales Corners,WI,,ISCorp Cycling p/b SmartChoice MRI
 12,460614,Ronee,Hartl,Middleton,WI,,Hollander RDC
 13,485931,Erin,Ninmer,Milwaukee,WI,,Hollander Benelux Racing
 DNF,470377,Ruth,Swedler,Milwaukee,WI,,Hollander Benelux Racing
@@ -135,7 +135,7 @@ Place,License #,First,Last,City,State,Time,Team
 32,509617,Kevin,Sparks,Madison,WI,,Brazen Dropouts
 33,421207,Michael,McNulty,Hartland,WI,,Team Velocause
 34,396083,Ryan,Durepo,Madison,WI,,
-35,473111,Cedella,Janczak,Greendale,WI,,ISCorp Cycling p/b SmartChoice MRI
+35,473111,Cedella,Janczak,Hales Corners,WI,,ISCorp Cycling p/b SmartChoice MRI
 36,394260,Tristin,Suhonen,Madison,WI,,
 37,381981,Otley,Freymiller,Deerfield,WI,,
 DQ,306400,Jake,Tarnowski,Milwaukee,WI,,ISCorp Cycling p/b SmartChoice MRI
@@ -146,7 +146,7 @@ DNF,316606,Preston,Copeland,Milwaukee,WI,,Hollander Benelux Racing
 Place,License #,First,Last,City,State,Time,Team
 1,472508,Chris,Stindt,La Crosse,WI,,ORA Cycling
 2,513406,Sean,McNaughtan,Menomonee Falls,WI,,
-3,433166,Nick,McCauley,Milwaukee,WI,,
+3,433166,Nick,McCauley,Milwaukee,FL,,
 4,529170,Drew,Bublitz,Madison,WI,,
 5,393728,Eric,Whaylen,Madison,WI,,Brazen Dropouts
 6,401250,Matthew,Paterson,Sun Prairie,WI,,
@@ -178,7 +178,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,514464,Wojciech,Kosela,Downers Grove,IL,,Plus Cycling
 8,461370,Aaron,Hagar,Madison,WI,,
 9,429816,Derek,Landwehr,Cottage Grove,WI,,Brazen Dropouts Cycling Team
-10,433166,Nick,McCauley,Milwaukee,WI,,
+10,433166,Nick,McCauley,Milwaukee,FL,,
 11,503252,Jason,Bickford,Bancroft,WI,,Team Velocause
 12,472850,Samuel,Vanden Hogen,La Crosse,WI,,ORA Cycling
 13,421207,Michael,McNulty,Hartland,WI,,Team Velocause
@@ -186,7 +186,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,496766,Ian,Breitlow,Winona,MN,,University of Wisconsin-Platteville
 16,504645,Lee,Prouty,Lodi,WI,,Brazen Dropouts Cycling Team
 17,274883,Nicholas,Roecker,Madison,WI,,Trek Midwest Team
-18,480010,Daniel,Feuling,Milwaukee,WI,,
+18,480010,Daniel,Feuling,Milwaukee Wi,WI,,
 19,380311,Zach,Butler,Madison,WI,,Trek Midwest Team
 20,404477,Hugo,Martinez,Milwaukee,WI,,
 21,498117,Joseph,Chada,Madison,WI,,Wisconsin Cycling at UW-Madison
@@ -263,7 +263,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,53173,Billy,Jones,Lancaster,PA,,Intelligentsia Coffee
 4,393415,Anderson,Bortoletto,Mcfarland,WI,,Lakes Area Physical Therapy
 5,377995,Michael,Swart,Madison,WI,,Great Dane Velo Club p/b Capital Brewery
-6,160801,Logan,Garey,Boulder,CO,,Trek Midwest Team
+6,160801,Logan,Garey,Madison,WI,,Trek Midwest Team
 7,351084,Brian,Turany,Madison,WI,,Hollander Benelux Racing
 8,246297,Clayton,Chase,Mequon,WI,,Avant Cycling p/b Precision Plus
 9,130383,David,Kay,Appleton,WI,,Great Dane Velo Club (GDVC)
@@ -283,7 +283,7 @@ DNF,459920,Jay,Snyder,Milwaukee,WI,,Lakes Area Physical Therapy
 
 04/02/2017 Criterium Women Cat 1/2/3/4/5 Elite
 Place,License #,First,Last,City,State,Time,Team
-1,473111,Cedella,Janczak,Greendale,WI,,ISCorp Cycling p/b SmartChoice MRI
+1,473111,Cedella,Janczak,Hales Corners,WI,,ISCorp Cycling p/b SmartChoice MRI
 2,197110,Jane,Landretti,Madison,WI,,Brazen Dropouts Cycling Team
 3,314232,Heidi,Hardrath,Shorewood,WI,,Team Velocause
 4,354150,Luci,Olewinski,Madison,WI,,
@@ -372,7 +372,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,466359,Trent,Simon,Madison,WI,,Brazen Dropouts Cycling Team
 10,259459,Lukas,Reischl,Neosho,WI,,
 11,513406,Sean,McNaughtan,Menomonee Falls,WI,,
-12,433166,Nick,McCauley,Milwaukee,WI,,
+12,433166,Nick,McCauley,Milwaukee,FL,,
 13,529170,Drew,Bublitz,Madison,WI,,
 14,507918,JP,Sedita,Milwaukee,WI,,
 15,513914,Ken,Scott,Rochelle,IL,,
@@ -407,8 +407,8 @@ Place,License #,First,Last,City,State,Time,Team
 18,0,Preston,Tiller,,,,
 19,470636,Ryan,Riehm,Milwaukee,WI,,
 20,529170,Drew,Bublitz,Madison,WI,,
-21,480010,Daniel,Feuling,Milwaukee,WI,,
-22,433166,Nick,McCauley,Milwaukee,WI,,
+21,480010,Daniel,Feuling,Milwaukee Wi,WI,,
+22,433166,Nick,McCauley,Milwaukee,FL,,
 23,0,Jeff,Anders,,,,
 24,432401,Wayne,Sletten,Hustisford,WI,,MSN Pro Coaching
 25,507918,JP,Sedita,Milwaukee,WI,,
@@ -460,7 +460,7 @@ Place,License #,First,Last,City,State,Time,Team
 28,306400,Jake,Tarnowski,Milwaukee,WI,,ISCorp Cycling p/b SmartChoice MRI
 DNF,487729,Corey,Horning,Sun Prairie,WI,,Trek Midwest Team
 DNF,421207,Michael,McNulty,Hartland,WI,,Team Velocause
-DNF,495096,Richard,Grunewald,Waukesha ,WI,,
+DNF,495096,Richard,Grunewald,Waukesha,WI,,
 DNF,495257,Ralph,Rufo,Milwaukee,WI,,ISCorp Cycling p/b SmartChoice MRI
 DNF,76874,Daniel,Luebke,Holmen,WI,,
 DNF,472850,Samuel,Vanden Hogen,La Crosse,WI,,ORA Cycling
@@ -494,7 +494,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,9947,Robert,Downs,Belleville,WI,,
 3,48064,Andrew,Ohlsson,Hartland,WI,,LAPT CC
 4,75381,James,Clemens,Mosinee,WI,,Team Wheel & Sprocket
-5,83764,Gene,Tolli,Albany,WI,,
+5,83764,Gene,Tolli,Peoria,AZ,,
 6,14626,Kenneth,Haines,Wausau,WI,,Team Wheel & Sprocket
 7,393307,Daniel,vanderWeide,Madison,WI,,Great Dane Velo Club (GDVC)
 8,278317,Jeffrey,Miller,Whitewater,WI,,KS Energy Services / MOSH / Team Wiscons
@@ -516,7 +516,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,53173,Billy,Jones,Lancaster,PA,,Intelligentsia Coffee
 4,203875,Jay,Maas,Fitchburg,WI,,801 W. Madison
 5,393415,Anderson,Bortoletto,Mcfarland,WI,,Lakes Area Physical Therapy
-6,160801,Logan,Garey,Boulder,CO,,Trek Midwest Team
+6,160801,Logan,Garey,Madison,WI,,Trek Midwest Team
 7,351084,Brian,Turany,Madison,WI,,Hollander Benelux Racing
 8,74509,Chad,Dean,Mcfarland,WI,,Neff Cycle Service
 9,178088,Jeff,Elam,Madison,WI,,Team Velocause

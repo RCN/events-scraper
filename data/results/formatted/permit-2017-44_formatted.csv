@@ -23,7 +23,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,494130,Davis,ADAMS,Headland,AL,0:59:59,
 9,423085,Jackson,GRIFFIN,Tallahassee,FL,0:59:59,RedEye Velo
 10,424121,Jack,WHITE,Madison,MS,1:00:00,Palmer/CSpire Fiber Cycling
-11,259043,John,SHALEKBRISKI,Spokane,WA,1:00:01,Otterhaus Project Racing
+11,259043,John,SHALEKBRISKI,Apo,AP,1:00:01,Otterhaus Project Racing
 12,278514,Michael,MCBRIEN,Milton,FL,1:00:06,Palmer Cycling
 13,227815,Joseph,LONG,Kenner,LA,1:00:03,Team LaS'port
 14,509667,CHRISTOPHER,RAYBURN,Milton,FL,1:00:40,Team Truly Spokin
@@ -58,7 +58,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,523012,Tim,HUMBERT,Spanish Fort,AL,0:31:52,
 17,524631,matthew,WINN,Mobile,AL,0:31:56,Team Pursuit
 18,0,John,WOOD,,,0:32:02,
-19,517250,Brian,CARMACK,Pensacola,FL,0:32:11,
+19,297569,Brian,CARMACK,Pensacola,FL,0:32:11,
 20,530774,Al,JORDAN,Gulfport,MS,0:30:49,
 21,531981,Daniel,DANIO,Navarre,FL,0:30:53,
 22,517254,Daniel,PAGE,Milton,FL,0:30:58,Ride More Bicycles
@@ -90,7 +90,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,423371,Aaron,VILES,New Orleans,LA,0:35:25,Urban South Racing p/b Rouler
 16,282664,christopher,KIJKO,Neworleans,LA,0:36:20,Urban South Racing p/b Rouler
 17,473685,Haison,CAO,Ocean Springs,MS,0:34:57,Team Pursuit
-18,524417,Jerry,CORNELL,New Orleans,LA,0:36:07,Raising Cane's Racing
+18,524417,Jerry,CORNELL,North Potomac,MD,0:36:07,Raising Cane's Racing
 19,502008,Jeremy,DAVIDSON,Mobile,AL,0:36:07,Team Pursuit
 20,421183,Robert,LEE,Clinton,MS,0:35:54,Indian Cycle
 21,0,John,WOOD,,,0:35:30,

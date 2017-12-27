@@ -9,17 +9,17 @@ Place,License #,First,Last,City,State,Time,Team
 4,185968,Erik,Peterson,Greenville,SC,,
 5,187218,Aaron,Burleson,Greenville,SC,,
 7,403557,Eric,Moore,Greenville,SC,,
-8,175537,Cliff,Kugler,Simpsonville ,SC,,
+8,175537,Cliff,Kugler,Simpsonville,SC,,
 9,473356,Josh,LaCelle,Greenville,SC,,
 10,384973,Baker,Watts,Greenville,SC,,
 11,521409,Andrew,Turner,Laurens,SC,,
-12,197646,Tim,Borsetti,Hendersonville,NC,,
+12,197646,Tim,Borsetti,Central,SC,,
 13,92985,Marcus,Jones,Hendersonville,NC,,
 14,70612,Andrew,Crater,Greenville ,SC,,
 15,0,Corey,Davis,,,,
 DNF,361156,Charlie,Putnal,Flat Rock,NC,,
 DNF,53594,Timothy,Tobbe,Zirconia,NC,,
-DNF,267467,Christy,Keely,Greenville ,SC,,
+DNF,267467,Christy,Keely,Greenville,SC,,
 DNF,46890,Stephen,Sperry,Spartanburg,SC,,
 DNF,252807,David,Curran,Simpsonville,SC,,
 DNF,301614,Deane,Gauthier,Hendersonville,NC,,
@@ -32,11 +32,11 @@ Place,License #,First,Last,City,State,Time,Team
 3,162421,Mate,Adamkovics,Greenville,SC,,
 3,185968,Erik,Peterson,Greenville,SC,,
 4,187218,Aaron,Burleson,Greenville,SC,,
-5,50781,Todd,Mion,Greenville ,SC,,
+5,50781,Todd,Mion,Greenville,SC,,
 7,460570,Jeff,Hall,Greenville,SC,,
 8,252807,David,Curran,Simpsonville,SC,,
 9,158593,Peter,Mathern,Greenville,SC,,
-10,197646,Tim,Borsetti,Hendersonville,NC,,
+10,197646,Tim,Borsetti,Central,SC,,
 11,301614,Deane,Gauthier,Hendersonville,NC,,
 12,70612,Andrew,Crater,Greenville ,SC,,
 13,497476,Mark,Boucher,Simpsonville,SC,,
@@ -88,13 +88,13 @@ Place,License #,First,Last,City,State,Time,Team
 5,265979,E. Julian,Cabra,Greenville,SC,,
 6,473356,Josh,LaCelle,Greenville,SC,,
 7,278167,Carlos,Norena,Greenville ,SC,,
-8,175537,Cliff,Kugler,Simpsonville ,SC,,
+8,175537,Cliff,Kugler,Simpsonville,SC,,
 9,384973,Baker,Watts,Greenville,SC,,
 10,185968,Erik,Peterson,Greenville,SC,,
 11,187218,Aaron,Burleson,Greenville,SC,,
-12,197646,Tim,Borsetti,Hendersonville,NC,,
+12,197646,Tim,Borsetti,Central,SC,,
 13,92985,Marcus,Jones,Hendersonville,NC,,
-14,267467,Christy,Keely,Greenville ,SC,,
+14,267467,Christy,Keely,Greenville,SC,,
 15,494857,Christian,Acker,Clemson,SC,,
 16,361156,Charlie,Putnal,Flat Rock,NC,,
 17,460570,Jeff,Hall,Greenville,SC,,
@@ -109,8 +109,8 @@ Place,License #,First,Last,City,State,Time,Team
 2,109615,Kevin,Chapman,Anderson,SC,,
 3,91206,Troy,Tucker,Greenville,SC,,
 4,158593,Peter,Mathern,Greenville,SC,,
-5,197646,Tim,Borsetti,Hendersonville,NC,,
-6,50781,Todd,Mion,Greenville ,SC,,
+5,197646,Tim,Borsetti,Central,SC,,
+6,50781,Todd,Mion,Greenville,SC,,
 7,301614,Deane,Gauthier,Hendersonville,NC,,
 8,185968,Erik,Peterson,Greenville,SC,,
 9,318070,Price,Howard,Greer,SC,,
@@ -166,12 +166,12 @@ Place,License #,First,Last,City,State,Time,Team
 2,473356,Josh,LaCelle,Greenville,SC,,
 3,220467,Zachary,Felpel,Boone,NC,,
 4,187218,Aaron,Burleson,Greenville,SC,,
-5,175537,Cliff,Kugler,Simpsonville ,SC,,
+5,175537,Cliff,Kugler,Simpsonville,SC,,
 6,278167,Carlos,Norena,Greenville ,SC,,
 7,185968,Erik,Peterson,Greenville,SC,,
 8,394470,Jeff,Mrachek,Simpsonville,SC,,
 9,384973,Baker,Watts,Greenville,SC,,
-10,197646,Tim,Borsetti,Hendersonville,NC,,
+10,197646,Tim,Borsetti,Central,SC,,
 11,413700,Kyle,Danner,Greenville,SC,,
 12,361156,Charlie,Putnal,Flat Rock,NC,,
 13,296952,Greg,Campbell,Taylors,SC,,
@@ -187,8 +187,8 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,258874,Hans,Halaixt,Taylors,SC,,
 2,259700,Elisha,Godfrey,Greenville,SC,,
-3,197646,Tim,Borsetti,Hendersonville,NC,,
-4,50781,Todd,Mion,Greenville ,SC,,
+3,197646,Tim,Borsetti,Central,SC,,
+4,50781,Todd,Mion,Greenville,SC,,
 5,252807,David,Curran,Simpsonville,SC,,
 6,361156,Charlie,Putnal,Flat Rock,NC,,
 7,92985,Marcus,Jones,Hendersonville,NC,,
@@ -272,7 +272,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,187218,AARON,BURLESON,Greenville,SC,,Crosstown Velo
 4,185968,Erik,Peterson,Greenville,SC,,SC Competitive Cyclist
 5,287070,Nicholas,Luther,Greenville,SC,,Happy Tooth Racing
-6,175537,CLIFF,KUGLER,Simpsonville ,SC,,Cycle Haus Racing
+6,175537,CLIFF,KUGLER,Simpsonville,SC,,Cycle Haus Racing
 7,380863,WILLIE,FOWLKES,Greenville,SC,,RTO National Cycling
 7,413739,Luke,Barnett,Greenville,SC,,RTO National Cycling
 8,258874,Hans,HALAIXT,Taylors,SC,,
@@ -296,10 +296,10 @@ DNF,46890,Stephen,Sperry,Spartanburg,SC,,The Trappe Door Cycling Team
 
 07/05/2017 Criterium Mixed Cat 1/2/3/4/5 Masters 35+
 Place,License #,First,Last,City,State,Time,Team
-1,175537,Cliff,Kugler,Simpsonville ,SC,,Cycle Haus Racing
+1,175537,Cliff,Kugler,Simpsonville,SC,,Cycle Haus Racing
 2,185968,Erik,Peterson,Greenville,SC,,SC Competitive Cyclist
 3,0,Jason,Bentley,,,,
-4,50781,Todd,Mion,Greenville ,SC,,RTO National Cycling
+4,50781,Todd,Mion,Greenville,SC,,RTO National Cycling
 5,413739,Luke,Barnett,Greenville,SC,,RTO National Cycling
 6,92985,Marcus,Jones,Hendersonville,NC,,Crosstown Velo
 7,66736,John,James,Travelers Rest,SC,,The Trappe Door Cycling Team
@@ -389,10 +389,10 @@ Place,License #,First,Last,City,State,Time,Team
 4,203014,Chris,Harrigan,Greer,SC,,Cycle Huas Elite Team
 5,187218,AARON,BURLESON,Greenville,SC,,Crosstown Velo
 6,473356,JOSH,LACELLE,Greenville,SC,,RTO National Cycling
-7,175537,CLIFF,KUGLER,Simpsonville ,SC,,Cycle Haus Racing
+7,175537,CLIFF,KUGLER,Simpsonville,SC,,Cycle Haus Racing
 8,378934,Thomas,Fleckenstein,Greenville,SC,,RTO National Cycling
-9,50781,TODD,MION,Greenville ,SC,,RTO National Cycling
-10,197646,Tim,Borsetti,Hendersonville,NC,,Cycles 54
+9,50781,TODD,MION,Greenville,SC,,RTO National Cycling
+10,197646,Tim,Borsetti,Central,SC,,Cycles 54
 11,185968,Erik,Peterson,Greenville,SC,,SC Competitive Cyclist
 12,139857,Ryan,Robinson,Anderson,SC,,CCT Racing
 13,380863,WILLIE,FOWLKES,Greenville,SC,,RTO National Cycling
@@ -413,9 +413,9 @@ Place,License #,First,Last,City,State,Time,Team
 5,413739,LUKE,BARNETT,Greenville,SC,,RTO National Cycling
 6,187218,AARON,BURLESON,Greenville,SC,,Crosstown Velo
 7,158593,PETER,MATHERN,Greenville,SC,,SC Competitive Cyclist
-8,175537,CLIFF,KUGLER,Simpsonville ,SC,,Cycle Haus Racing
+8,175537,CLIFF,KUGLER,Simpsonville,SC,,Cycle Haus Racing
 9,393645,James,Johnston,Hendersonville,NC,,Crosstown Velo
-10,50781,TODD,MION,Greenville ,SC,,RTO National Cycling
+10,50781,TODD,MION,Greenville,SC,,RTO National Cycling
 11,139857,Ryan,Robinson,Anderson,SC,,CCT Racing
 12,380863,WILLIE,FOWLKES,Greenville,SC,,RTO National Cycling
 13,296952,Greg,Campbell,Taylors,SC,,RTO National Cycling
@@ -423,7 +423,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,396120,PHILIP,FISHER,Pisgah Forest,NC,,Crosstown Velo
 16,392918,Jennifer,Wakeman,Taylors,SC,,RTO National Women's Cycling
 17,290549,Rick,Taylor,Easley,SC,,
-18,197646,Tim,Borsetti,Hendersonville,NC,,Cycles 54
+18,197646,Tim,Borsetti,Central,SC,,Cycles 54
 19,251940,YUANS,HALAIXT,Simpsonville,SC,,
 20,303255,TIM,THOME,Simpsonville,SC,,
 21,162337,Susan,Jones - Morgan,Simpsonville,SC,,RTO National Women's Cycling
@@ -485,7 +485,7 @@ Place,License #,First,Last,City,State,Time,Team
 06/07/2017 Criterium Mixed Pro/Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
 1,238311,Christopher,Uberti,Cincinnati,OH,,
-2,175537,CLIFF,KUGLER,Simpsonville ,SC,,Cycle Haus Racing
+2,175537,CLIFF,KUGLER,Simpsonville,SC,,Cycle Haus Racing
 3,187218,AARON,BURLESON,Greenville,SC,,Crosstown Velo
 4,203014,CHRIS,HARRIGAN,Greer,SC,,Cycle Huas Elite Team
 5,103689,Boyd,Johnson,Greenville,SC,,
@@ -514,11 +514,11 @@ Place,License #,First,Last,City,State,Time,Team
 5,187218,AARON,BURLESON,Greenville,SC,,Crosstown Velo
 6,158593,PETER,MATHERN,Greenville,SC,,SC Competitive Cyclist
 7,139857,Ryan,Robinson,Anderson,SC,,CCT Racing
-8,50781,TODD,MION,Greenville ,SC,,RTO National Cycling
+8,50781,TODD,MION,Greenville,SC,,RTO National Cycling
 9,92985,MARCUS,JONES,Hendersonville,NC,,Crosstown Velo
 10,251940,Yuans,Halaixt,Simpsonville,SC,,
 11,380863,WILLIE,FOWLKES,Greenville,SC,,RTO National Cycling
-12,197646,TIM,BORSETTI,Hendersonville,NC,,Cycles 54
+12,197646,TIM,BORSETTI,Central,SC,,Cycles 54
 13,258874,HANS,HALAIXT,Taylors,SC,,
 14,361156,CHARLIE,PUTNAL,Flat Rock,NC,,Crosstown Velo
 15,290549,Rick,Taylor,Easley,SC,,
@@ -547,7 +547,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,531263,JOHN,BROOM,Rock Hill,SC,,
 11,509486,ETHAN,LEE,Easley,SC,,
 12,338502,Christopher,Sparace,Pendleton,SC,,CCT Racing
-13,403359,Craig,Campbell,Lyman ,SC,,J. A. King Mountain Bike Team
+13,403359,Craig,Campbell,Lyman,SC,,J. A. King Mountain Bike Team
 14,531107,NATE,WATSON,Anderson,SC,,Supra Cycling Team
 15,303255,TIM,THOME,Simpsonville,SC,,
 16,472866,edwin,lozano,Greer,SC,,
@@ -573,7 +573,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,308260,Ives,VanHeule,Greer,SC,,RTO National Cycling
 6,42655,DUSTIN,WAMBEKE,Greenville,SC,,Upstate Junior Cycling/Calder Brothers Development
 7,531107,NATE,WATSON,Anderson,SC,,Supra Cycling Team
-8,197646,TIM,BORSETTI,Hendersonville,NC,,Cycles 54
+8,197646,TIM,BORSETTI,Central,SC,,Cycles 54
 9,394470,JEFF,MRACHEK,Simpsonville,SC,,RTO National Cycling
 10,380991,Roy,Jones,Greenville,SC,,RTO National Cycling
 11,313366,JUSTIN,MCNEILL,Greenville,SC,,RTO National Cycling
@@ -590,7 +590,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,193086,Benjamin,Renkema,Greenville,SC,,SC Competitive Cyclist
 2,103689,Boyd,Johnson,Greenville,SC,,
 3,187218,Aaron,Burleson,Greenville,SC,,Crosstown Velo
-4,175537,Cliff,Kugler,Simpsonville ,SC,,Cycle Haus Racing
+4,175537,Cliff,Kugler,Simpsonville,SC,,Cycle Haus Racing
 5,139857,Ryan,Robinson,Anderson,SC,,CCT Racing
 6,130354,Thaddeus,Dulin,Greenville,SC,,
 7,278167,Carlos,Norena,Greenville ,SC,,Stradalli Cycle/Safetti
@@ -608,12 +608,12 @@ DNF,252807,David,Curran,Simpsonville,SC,,The Trappe Door Cycling Team
 Place,License #,First,Last,City,State,Time,Team
 1,193691,Rodney,Dender,Travelers Rest,SC,,The Trappe Door Cycling Team
 2,91206,Troy,Tucker,Greenville,SC,,
-3,50781,Todd,Mion,Greenville ,SC,,RTO National Cycling
+3,50781,Todd,Mion,Greenville,SC,,RTO National Cycling
 4,185193,Gregory,Brown,Asheville,NC,,Youngblood Bicycles
 5,290271,Matthew,Tebbetts,Greenville,SC,,Crosstown Velo
 6,53594,Timothy,Tobbe,Zirconia,NC,,Crosstown Velo
 7,422867,David,Tucker,Greenville,SC,,Cycle Haus Racing
-8,197646,Tim,Borsetti,Hendersonville,NC,,Cycles 54
+8,197646,Tim,Borsetti,Central,SC,,Cycles 54
 9,251940,Yuans,Halaixt,Simpsonville,SC,,
 10,110447,Reece,Jackson,Greer,SC,,RTO National Cycling
 11,158593,Peter,Mathern,Greenville,SC,,SC Competitive Cyclist
@@ -648,6 +648,6 @@ Place,License #,First,Last,City,State,Time,Team
 1,494857,Christian,Acker,Clemson,SC,,Clemson University
 2,91206,Troy,Tucker,Greenville,SC,,
 3,309052,Nicholas,Townes,Greer,SC,,RTO National Cycling
-4,316918,Daniel,Joyal,Taylors ,SC,,
+4,316918,Daniel,Joyal,Taylors,SC,,
 5,443341,Christopher,Ostlund,Anderson ,SC,,
 6,308260,Ives,VanHeule,Greer,SC,,RTO National Cycling

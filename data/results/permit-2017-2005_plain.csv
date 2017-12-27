@@ -7,7 +7,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 09/02/2017,Cyclo-cross,Singlespeed,Men,,,6,414474,Patrick,DUFFIN,0:44:35,Campus Wheel Works
 09/02/2017,Cyclo-cross,Singlespeed,Men,,,7,30280,john,RODEN,0:45:50,WNY Cyclocross Club
 09/02/2017,Cyclo-cross,Singlespeed,Men,,,8,540647,alexander,CRUMLISH,0:47:39,crummy yummy!
-09/02/2017,Cyclo-cross,Singlespeed,Men,,,9,540365,john,CRUMLISH,0:50:37,crummy yummy!
+09/02/2017,Cyclo-cross,Singlespeed,Men,,,9,157071,john,CRUMLISH,0:50:37,crummy yummy!
 09/02/2017,Cyclo-cross,Singlespeed,Men,,,DNF,389660,benjamin,HAUER,,Campus Wheelworks
 09/02/2017,Cyclo-cross,Open (Cat 1-4),Men,,,1,41747,Craig,MATTERN,1:01:15,Mattern
 09/02/2017,Cyclo-cross,Open (Cat 1-4),Men,,,2,2073,Andy,AUGUST,1:01:28,August Family/Park Ave Bike
@@ -59,7 +59,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 09/02/2017,Cyclo-cross,Masters 40+,Men,,,4,378365,Robert,SHOSTACK,0:53:19,Bike Loft East
 09/02/2017,Cyclo-cross,Masters 40+,Men,,,5,489595,Philip,CROWELL,0:53:36,Campus Wheelworks
 09/02/2017,Cyclo-cross,Masters 40+,Men,,,DNF,283421,Lance,JOHNSON,,
-09/02/2017,Cyclo-cross,18U Junior Boys,Men,,,1,0,Luca,OLIVIERI,0:47:12,Crankskins.com/Singletrack Academy
+09/02/2017,Cyclo-cross,18U Junior Boys,Men,,,1,541641,Luca,OLIVIERI,0:47:12,Crankskins.com/Singletrack Academy
 09/02/2017,Cyclo-cross,18U Junior Boys,Men,,,2,519322,Aidan,MAKINSTER,0:51:53,Crankskins
 09/02/2017,Cyclo-cross,18U Junior Boys,Men,,,3,448476,Dylan,JOSEPH,0:46:16,Campus Wheelworks
 09/02/2017,Cyclo-cross,18U Junior Boys,Men,,,4,519260,Austin,CROWELL,0:47:11,Campus Wheelworks
@@ -67,7 +67,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 09/02/2017,Cyclo-cross,14U Junior Boys,Men,,,2,443247,Zachary,SHOSTACK,0:28:50,Bike Loft East
 09/02/2017,Cyclo-cross,14U Junior Boys,Men,,,3,517604,Jack,BERNHARD,0:27:14,
 09/02/2017,Cyclo-cross,14U Junior Boys,Men,,,4,515229,Henry,RISH,0:30:41,Rish Family
-09/02/2017,Cyclo-cross,14U Junior Boys,Men,,,5,0,Luke,WEILER,0:31:21,
+09/02/2017,Cyclo-cross,14U Junior Boys,Men,,,5,540954,LUKE,Weiler,0:31:21,
 09/02/2017,Cyclo-cross,14U Junior Boys,Men,,,6,515231,Arthur,RISH,0:34:22,Rish Family
 09/02/2017,Cyclo-cross,14U Junior Boys,Men,,,7,540908,Ty,DAVIS,0:26:58,
 09/02/2017,Cyclo-cross,Cat 5,Men,,,1,539036,Tom,SCHEELER,0:46:11,
@@ -75,7 +75,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 09/02/2017,Cyclo-cross,Cat 5,Men,,,3,488347,Julian,OLIVIERI,0:48:57,Crankskins.com
 09/02/2017,Cyclo-cross,Cat 5,Men,,,4,438842,Cory,BURCH,0:50:47,Hollyloft/Alfies
 09/02/2017,Cyclo-cross,Cat 5,Men,,,5,457325,Alex,HILLYARD,0:50:51,Hillyard Reign of Terror
-09/02/2017,Cyclo-cross,Cat 5,Men,,,6,0,Mark,LAWRENCE,0:51:01,Orange Streak
+09/02/2017,Cyclo-cross,Cat 5,Men,,,6,133169,Mark,Lawrence,0:51:01,Orange Streak
 09/02/2017,Cyclo-cross,Cat 5,Men,,,7,540635,Kevin,GILLAM,0:51:21,KTM Bike Industries
 09/02/2017,Cyclo-cross,Cat 5,Men,,,8,0,Clay,KEEL,0:51:27,42 North Cycling Team
 09/02/2017,Cyclo-cross,Cat 5,Men,,,9,515236,Mark,OLIVIERI,0:51:29,Crankskins
@@ -91,12 +91,12 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 09/02/2017,Cyclo-cross,Cat 5,Men,,,19,283152,Alexander,KEOGAN,0:51:49,
 09/02/2017,Cyclo-cross,Cat 5,Men,,,20,526715,Jan,STEYN,0:47:56,
 09/02/2017,Cyclo-cross,Cat 5,Men,,,21,484417,Adam,ORSINI,0:49:24,Campus Wheel Werks
-09/02/2017,Cyclo-cross,Cat 5,Men,,,DNF,0,David,ORT,,
+09/02/2017,Cyclo-cross,Cat 5,Men,,,DNF,543880,David,ORT,,
 09/02/2017,Cyclo-cross,Cat 4,Men,,,1,388147,Owen,AUGUST,1:06:35,August Family/Park Ave Bike
 09/02/2017,Cyclo-cross,Cat 4,Men,,,2,388145,Trevor,AUGUST,1:08:07,August Family/Park Ave Bike
 09/02/2017,Cyclo-cross,Cat 4,Men,,,3,246341,Mike,MADDEN,1:00:55,Team Towpath powered by Rochester Solar
-09/02/2017,Cyclo-cross,Cat 4,Men,,,4,486398,brock,ALEXANDER,1:01:34,towpath
-09/02/2017,Cyclo-cross,Cat 4,Men,,,5,0,Matt,JANZEN,1:01:42,St. Catharines Cycling club
+09/02/2017,Cyclo-cross,Cat 4,Men,,,4,540938,brock,ALEXANDER,1:01:34,towpath
+09/02/2017,Cyclo-cross,Cat 4,Men,,,5,543791,Matt,JANZEN,1:01:42,St. Catharines Cycling club
 09/02/2017,Cyclo-cross,Cat 4,Men,,,6,232827,Brent,BIVONA,1:04:29,Rochester Fitness + Cycling
 09/02/2017,Cyclo-cross,Cat 4,Men,,,7,449391,AJ,AUGUST,1:04:54,August Family/Park Ave Bike
 09/02/2017,Cyclo-cross,Cat 4,Men,,,8,443905,David,DEWEY,1:05:41,Pittsford Painting Cycling
@@ -130,7 +130,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 09/02/2017,Cyclo-cross,Cat 3,Men,,,4,308807,Raymond,WILLARD,1:08:27,Atlas Cycling Team
 09/02/2017,Cyclo-cross,Cat 3,Men,,,5,392055,Yan,CHMIELOWIEC,1:01:48,Polish Pedalers
 09/02/2017,Cyclo-cross,Cat 3,Men,,,6,414325,Glen,WALLACE,1:02:00,Team Towpath powered by Rochester Solar
-09/02/2017,Cyclo-cross,Cat 3,Men,,,7,0,Stephen,CHEUNG,1:02:18,Team CF
+09/02/2017,Cyclo-cross,Cat 3,Men,,,7,521032,Stephen,Cheung,1:02:18,Team CF
 09/02/2017,Cyclo-cross,Cat 3,Men,,,8,157917,David,VALVO,1:03:27,Wineforecaster
 09/02/2017,Cyclo-cross,Cat 3,Men,,,9,360368,Gregory,CHERR,1:03:59,TBS Racing
 09/02/2017,Cyclo-cross,Cat 3,Men,,,10,103368,Rob,HILLYARD,1:06:38,Hillyard Reign of Terror
@@ -158,11 +158,11 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 09/02/2017,Cyclo-cross,Cat 4-5 Women,Women,,,10,487797,QinDi,GERWITZ-DUNN,0:55:53,Campus Wheelworks/Dunn's
 09/02/2017,Cyclo-cross,Cat 4-5 Women,Women,,,11,540878,Jackie,TEDESCO,0:56:42,
 09/02/2017,Cyclo-cross,Cat 4-5 Women,Women,,,12,384599,heather,YANOFSKY,0:46:48,crummy yummy!
-09/02/2017,Cyclo-cross,Cat 4-5 Women,Women,,,13,473353,Jeri,OLSON,0:47:07,Nickel City Cycles
+09/02/2017,Cyclo-cross,Cat 4-5 Women,Women,,,13,541689,Jeri,OLSON,0:47:07,Nickel City Cycles
 09/02/2017,Cyclo-cross,Cat 4-5 Women,Women,,,14,416100,Emily,HILL,0:47:32,Campus Wheelworks
 09/02/2017,Cyclo-cross,Cat 4-5 Women,Women,,,15,485248,Jacquelyn,GERWITZ-DUNN,0:50:01,Campus Wheelworks/Dunn's
 09/02/2017,Cyclo-cross,18U Junior Girls,Women,,,1,540698,Ashley,DENYSSCHEN,0:58:39,
-09/02/2017,Cyclo-cross,18U Junior Girls,Women,,,DNF,0,Olivia,TEDESCO,,
+09/02/2017,Cyclo-cross,18U Junior Girls,Women,,,DNF,542051,Olivia,TEDESCO,,
 09/02/2017,Cyclo-cross,14U Junior Girls,Women,,,1,487797,QinDi,GERWITZ-DUNN,0:26:27,Campus Wheelworks/Dunn's
 09/02/2017,Cyclo-cross,14U Junior Girls,Women,,,2,486304,aubrey,RODEN,0:27:36,WNY Cyclocross Club
 09/02/2017,Cyclo-cross,14U Junior Girls,Women,,,3,517260,Kate,HILLYARD,0:26:24,Hillyard Reign of Terror

@@ -37,7 +37,7 @@ Place,License #,First,Last,City,State,Time,Team
 33,0,Issac,GUZMAN,,,-1 Lap,Mountclair Ciclist
 DNS,370884,Didier,FORERO,Bloomfield,NJ,,Montclair Bikery Racing
 DNS,299366,Nilsson,RUIZ,Perth Amboy,NJ,,Karma Racing Team
-DNF,244768,Wilson,ANDRADE,Westfield,NJ,,Karma Race Team
+DNF,244768,Wilson,ANDRADE,Edison,NJ,,Karma Race Team
 DNF,393405,Marquand,BROWN,Pottstown,PA,,Blue Bell Private Wealth Management P/b Cannondale
 DNF,41704,Eric,FREDERICKS,Wayne,PA,,Skyline
 DNF,427533,Gavin,OAG,Bloomfield,NJ,,Montclair Bikery Racing
@@ -68,7 +68,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,34116,Scott,STEWARD,Long Valley,NJ,0.30,Team Cycle Solutions
 17,76606,Will,FEDERICO,Whitehouse Station,NJ,0.60,Van Dessel Factory Team
 18,56371,Robb,LEE,Washington,DC,0.20,Team Beyer Auto/dc Velo
-19,28984,John,RACHFAL,Ardmore,PA,0.20,Cs Velo
+19,28984,John,RACHFAL,Needham,MA,0.20,Cs Velo
 20,336780,Kevin,BECKWITH,Medford,NJ,0.20,Summit Cycling Club
 21,361411,Fred,TANJUTCO,Cherry Hill,NJ,0.60,Pro Pedals Racing
 22,254768,Warren,HOLZMAN,Philadelphia,PA,0.10,Team Ajsfund.org
@@ -80,7 +80,7 @@ Place,License #,First,Last,City,State,Time,Team
 28,420190,Baruch,BAR,Cherry Hill,NJ,0.20,Summit Cycling Club / D&q
 29,279498,Chad,MOSS,Hendersonville,TN,0.10,Cs Velo
 30,9666,Kurt,DODDS,Ardmore,PA,0.00,Cs Velo
-31,158787,Wasyel,DANYSH,New Providence ,NJ,0.00,Us Military Endurance Sports
+31,158787,Wasyel,DANYSH,New Providence,NJ,0.00,Us Military Endurance Sports
 32,79605,Erich,NEISE,Flemington,NJ,0.40,Team Somerset
 33,246574,Chris,MOONEY,Livingston,NJ,0.40,Liberty Cycle
 34,253720,Mark,SWEETMAN,Wynnewood,PA,0.20,Cs Velo
@@ -134,7 +134,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,45557,Ron,KOLLER,Palmerton,PA,0.10,Team Somerset
 11,191647,Brian,GRISTICK,Budd Lake,NJ,0.10,Team Cycle Solutions
 12,120180,Tim,DOHERTY,Boonton,NJ,0.10,High Gear/ww
-13,192230,Mark,COWIN,Frederica ,DE,0.10,Pro Pedals Racing
+13,192230,Mark,COWIN,Frederica,DE,0.10,Pro Pedals Racing
 14,187184,Peter J.,WILSON,Manahawkin,NJ,0.30,Psracing/btb
 15,56235,Robert,WELLMON,Glenolden,PA,0.00,Qcw Cycling P/b Breakawaybikes.
 16,63497,Wayne,LUMKONG,Andover,NJ,0.10,Skylands Cycling

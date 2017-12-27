@@ -24,7 +24,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,343104,Scott,Monett,Tacomaa,WA,1:57:49,Tacoma Bike Racing Team
 21,233394,Scott,Renda,Seattle,WA,1:57:49,Apex Racing
 22,10304,Alec,Duxbury,Seattle,WA,1:57:49,Keller Rohrback Cycling
-23,52628,David,Matthews,Seattle,WA,1:57:49,VELOBODY / Bikesale
+23,52628,David,Matthews,South Cle Elum,WA,1:57:49,VELOBODY / Bikesale
 24,120568,Sean,Murphy,Tacoma,WA,1:57:49,Tacoma Bike Racing Team
 25,51791,Benjamin,Kaplan,Seattle,WA,1:57:49,Keller Rohrback Cycling
 26,393741,Justin,Tornow,Naches,WA,1:57:49,Hagens Berman - EY Society
@@ -36,7 +36,7 @@ Place,License #,First,Last,City,State,Time,Team
 32,48546,Mike,Rogers,Seattle,WA,1:58:05,VELOBODY / Bikesale
 33,58347,Richard,Steele,Bremerton ,WA,1:58:12,Garage Racing
 34,276304,Nick,Duckstein,Seattle,WA,2:07:21,VELOBODY / Bikesale
-35,306785,David,Mullen,Eatonville,WA,2:07:23,Tacoma Bike Racing Team
+35,306785,David,Mullen,Orting,WA,2:07:23,Tacoma Bike Racing Team
 DNF,70153,Steven,Bleifuhs,Mercer Island,WA,DNF,Taco Time Northwest Cycling Tea
 DNF,420117,Chris,Joosse,Tacoma,WA,DNF,Tacoma Bike Racing Team
 
@@ -59,7 +59,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,424909,Malia,Greening,Issaquah,WA,1:36:18,Seattle Cancer Care Alliance Cy
 16,367426,Steven,Walker,Bellevue,WA,1:38:00,Apex Racing
 17,242755,Rick,Roof,Puyallup,WA,1:40:52,JoeFroyo Racing p/b Old Town Bi
-18,468401,Peter,Mayer,Shoreline,WA,1:56:37,Taco Time Northwest Cycling Tea
+18,468401,Peter,Mayer,Mukilteo,WA,1:56:37,Taco Time Northwest Cycling Tea
 DNF,374940,Misha,Terentjev,Mercer Island,WA,DNF,Element Cycles
 DNF,179132,Edward,Ewing,Seattle,WA,DNF,Slalom Consulting Racing
 
@@ -68,8 +68,8 @@ Place,License #,First,Last,City,State,Time,Team
 1,171544,Steve,Matson,Tacoma,WA,1:41:21,JoeFroyo Racing p/b Old Town Bi
 2,287800,Steve,Thompson,Seattle,WA,1:41:33,VELOBODY / Bikesale
 3,331942,Paul,Coffee,Federal Way,WA,1:48:38,JoeFroyo Racing p/b Old Town Bi
-4,305711,Christopher,Soelling,Kirkland,WA,1:48:38,Taco Time Northwest Cycling Tea
-5,268436,Dan,Austad,Silverdale,WA,1:48:38,Tacoma Bike Racing Team
+4,305711,Christopher,Soelling,Redmond,WA,1:48:38,Taco Time Northwest Cycling Tea
+5,268436,Dan,Austad,Port Ludlow,WA,1:48:38,Tacoma Bike Racing Team
 6,47123,Jeffrey,Patterson,University Place,WA,1:48:41,JoeFroyo Racing p/b Old Town Bi
 7,420052,Craig,Powers,Seattle,WA,1:48:41,VELOBODY / Bikesale
 DNF,206957,Gordy,Bolstad,Snohomish,WA,DNF,VELOBODY / Bikesale
@@ -88,7 +88,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,241689,Christopher,Bagg,Portland,OR,2:42:32,Hosmer Chiropractic-RPM Mortgag
 11,127935,Rad,Cunningham,Olympia,WA,2:46:58,Keller Rohrback Cycling
 12,414794,Pierrebernard,Thiffault,Redmond,WA,2:46:58,Hedrick Racing
-13,242829,Jove,Graham,Fresno,CA,2:46:58,Metier Racing
+13,242829,Jove,Graham,Palo Alto,CA,2:46:58,Metier Racing
 14,289231,Keiichi,Otani,Kirkland,WA,2:46:58,Broadmark Capital
 15,482187,Tomoaki,Takasugi,Renton,WA,2:46:58,Seattle Cancer Care Alliance Cy
 16,393649,Sun,Dang,Bellevue,WA,2:46:58,Audi
@@ -96,8 +96,8 @@ Place,License #,First,Last,City,State,Time,Team
 18,287816,Ivy,Audrain,Bellingham,WA,2:47:01,
 19,377993,Michael,Baldus,Seattle,WA,2:47:01,Metier Racing & Coffee
 20,259190,Mike,Schwindeller,Seattle,WA,2:47:01,Audi
-21,496869,Heidi,Franz,Seattle,WA,2:47:01,Keller Rohrback Cycling
-22,320408,Branden,Russell,Seattle,WA,2:47:01,Metier Racing & Coffee
+21,496869,Heidi,Franz,Kirkland,WA,2:47:01,Keller Rohrback Cycling
+22,320408,Branden,Russell,Maple Valley,WA,2:47:01,Metier Racing & Coffee
 23,288845,Bradlee,Haley,Tacoma,WA,2:47:05,Seattle Cancer Care Alliance Cy
 24,305665,Stephen,Bedford,Portland,OR,2:47:05,Hosmer Chiropractic-RPM Mortgag
 25,16599,Joseph,Holmes,Bainbridge Island,WA,2:47:06,Tete de la Course Cycling
@@ -122,10 +122,10 @@ Place,License #,First,Last,City,State,Time,Team
 2,0,Shannon,Wery,,,1:33:12,
 3,299711,Rob,Goldberg,Seattle,WA,1:33:12,Metier Racing & Coffee
 4,524032,Joshua,Little,Kirkland,WA,1:33:15,Snoqualmie Ice Cream Racing
-5,529586,Philip,Walczak,Seattle,WA,1:33:15,Metier Racing & Coffee
+5,529586,Philip,Walczak,Mill Creek,WA,1:33:15,Metier Racing & Coffee
 6,522779,Watson,Sallay,Seattle,WA,1:33:15,Taco Time Northwest Cycling Tea
-7,528126,Joshua,Crandall,Poulsbo,WA,1:33:15,OMG Racing
-8,523713,Chris,Ahl,Seattle,WA,1:33:15,Metier Racing & Coffee
+7,528126,Joshua,Crandall,Bainbridge Island,WA,1:33:15,OMG Racing
+8,523713,Chris,Ahl,San Francisco,CA,1:33:15,Metier Racing & Coffee
 9,523624,Justin,Wade,Seattle,WA,1:33:15,Audi
 10,524179,Michael,Zimmerman,Seattle,WA,1:33:15,VELOBODY / Bikesale
 11,525841,Zack,Moss,Yakima,WA,1:38:17,
@@ -151,7 +151,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,360898,Austin,Longino,Seattle,WA,1:58:13,VELOBODY / Bikesale
 13,501118,Stuart,Ayling,Lake Tapps,WA,1:58:13,Monton-TM
 14,381507,Nick,Johnson,Puyallup,WA,1:58:13,Monton-TM
-15,384145,Edgardo,Hernandez,Silverdale ,WA,1:58:13,OMG Racing
+15,384145,Edgardo,Hernandez,Silverdale,WA,1:58:13,OMG Racing
 16,331382,Michael,Mcguffin,Mercer Island,WA,1:58:13,Taco Time Northwest Cycling Tea
 17,388837,Justin,Kong,Seattle,WA,1:58:13,Audi
 18,365190,Kirk,Beatty,Olympia,WA,1:58:13,Olympia Orthopaedic Associates
@@ -201,7 +201,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,285679,Samuel,Park,Lake Forest Park,WA,2:31:14,Seattle Cancer Care Alliance Cy
 19,207153,Gregory,Luniewski,Seattle,WA,2:31:14,VELOBODY / Bikesale
 20,361015,Edgar,Vanlieshout,Kingston,WA,2:31:14,Hagens Berman - EY Society
-21,275610,Travis,Venable,Brier,WA,2:31:14,Audi
+21,275610,Travis,Venable,Kenmore,WA,2:31:14,Audi
 22,192409,David,Lanier,Kirkland,WA,2:31:14,Audi
 23,290771,Richie,Strong,Kenmore,WA,2:31:21,Seattle Cancer Care Alliance Cy
 24,307040,Jesse,Nofziger,Issaquah,WA,2:31:21,Seattle Cancer Care Alliance Cy
@@ -217,7 +217,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,488310,Laura,Rosema,Seattle,WA,1:14:48,Team Thrive p/b Kaiser Permanen
 5,395238,Victoria,Lord,Mukilteo,WA,1:14:48,VELOBODY / Bikesale
 6,503048,Ashley,Moore,Seattle,WA,1:14:52,Hagens Berman - EY Society
-7,418957,Lavonne,Wilson,Seattle,WA,1:14:52,Team Thrive p/b Kaiser Permanen
+7,418957,Lavonne,Wilson,Mukilteo,WA,1:14:52,Team Thrive p/b Kaiser Permanen
 8,525873,Erica,Wolf,Seattle,WA,1:14:52,VELOBODY / Bikesale
 9,332986,Jean,Fisher,Olympia,WA,1:19:09,Olympia Orthopaedic Associates
 10,524147,Barbara,Joseph,Seattle,WA,1:19:18,Spokeswomen Racing

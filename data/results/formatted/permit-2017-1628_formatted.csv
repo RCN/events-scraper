@@ -46,7 +46,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,492661,Adrian,Amos,Doswell,VA,,Full Spectrum Racing Virginia
 4,484201,Krzysztof,Jedrzejewski,Springfield,VA,,Whole Wheel Velo Club
 5,418258,Daniel,Riddle,Glen Allen,VA,,Full Spectrum Racing Virginia
-6,524824,Chad,Melton,Wytheville,VA,,
+6,524824,Chad,Melton,Warrenton,VA,,
 7,222509,Steve,Owens,Friendship,MD,,ABRT (Annapolis Bicycle Racing Team)
 8,492494,Pablo,Bachelet,Vienna,VA,,
 9,538756,Porter,Thomsen,Winchester,VA,,
@@ -65,7 +65,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,257603,Donald,Brew,Temple Hills,MD,,Team Beyer Auto
 4,469033,Ahmed,Qureshi,Fairfax,VA,,
 5,477793,Loren,Barisch,Harrisburg,PA,,World Cup Ski & Cycle Cycling Team
-6,496381,Chris,Hill,Hollywood,MD,,Team Bike Doctor
+6,496381,Chris,Hill,Lexington Park,MD,,Team Bike Doctor
 7,201175,Kimani,Nielsen,Woodbridge,VA,,SEAVS/Haymarket
 8,78597,Brian,Marchionini,Silver Spring,MD,,Team Beyer Auto
 9,58598,Dave,Fuentes,Herndon,VA,,Evolution Cycling Club p/b Long & Foster
@@ -83,7 +83,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,380188,Matt,McLoone,Washington,DC,,BATTLEY H-D /Spokes Etc
 3,223221,Mattison,Brady,Washington,DC,,District Velocity Racing p/b Bicycle Pro Shop
 4,219434,Justin,Mauch,Sterling,VA,,Herbalife p/b Marc Pro - Nature's Bakery
-5,299925,Chad,Capobianco,Watkinsville,GA,,
+5,299925,Chad,Capobianco,Aldie,VA,,
 6,308936,Richard,Furchtgott,Chevychase,MD,,BATTLEY H-D /Spokes Etc
 7,198408,Sean,Barrie,Washington,DC,,BATTLEY H-D /Spokes Etc
 8,236162,Jose,Escobar,Washington,DC,,BATTLEY H-D /Spokes Etc
@@ -141,12 +141,12 @@ Place,License #,First,Last,City,State,Time,Team
 5,243207,Jason,Combs,Vienna,VA,,VeloWorks-Spokes Etc
 6,258242,James,Blair,Charlottesville,VA,,Blue Ridge Cyclery Racing p/b Reynolds G
 7,532107,Jason,Hartman,Springfield,VA,,
-8,497498,Charles,Pistole,Gainesville ,VA,,
+8,497498,Charles,Pistole,Locust Grove,VA,,
 9,514512,Seth,Wall,Jefferson,MD,,Bike Doctor/Visit Frederick
 10,303990,James,Stroud,Oakton,VA,,Evolution Cycling Club p/b Long & Foster
 11,433501,Chris,Reardon,Olney,MD,,DistrictTaco Racing
 12,423552,Geoffrey,Irwin,Frederick,MD,,National Capital Velo Club/UnitedHealthcare
-13,402211,Ken,Ray,Washington ,DC,,Bike Rack Racing
+13,402211,Ken,Ray,Washington,DC,,Bike Rack Racing
 14,379144,Christopher,Burns,Charles Town,WV,,Team Integrity
 15,404843,Kenneth,Decker,Silver Spring,MD,,
 16,423057,Zachary,Quinn,Arlington,VA,,VeloWorks-Spokes Etc
@@ -154,7 +154,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,439454,Landon,Short,Washington,DC,,Bike Rack Racing
 19,527356,Paul,Livelli,Baltimore,MD,,Artemis Racing
 20,458001,Lucas,Beirne,Alexandria,VA,,NCVC/UnitedHealthcare
-21,380055,Manuel,Paniagua,Silver Spring ,MD,,Artemis Racing
+21,380055,Manuel,Paniagua,Silver Spring,MD,,Artemis Racing
 22,395548,Noah,Flaxman,Mclean,VA,,University of Virginia
 23,459804,Clay,Moulton,Alexandria,VA,,
 24,287697,Chad,Billings,Ashburn,VA,,Evolution Cycling Club p/b Long & Foster
@@ -172,7 +172,7 @@ Place,License #,First,Last,City,State,Time,Team
 36,435072,Douglass,Gyatt,Woodbridge,VA,,Prince William Elite Racing (PoWER)
 37,457935,Hee,Song,Vienna,VA,,Evolution Cycling Club p/b Long & Foster
 38,269411,Michael,Wierzbicki,Richmond,VA,,Richmond Velo Sport
-39,523481,Christopher,Kallapodi,Alexandria,VA,,Whole Wheel Velo Club
+39,523481,Christopher,Kallapodi,Chicago,IL,,Whole Wheel Velo Club
 40,499509,Robert,Schilling,Ashton,MD,,
 
 08/26/2017 Road Race Men Cat 3
@@ -181,7 +181,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,523175,ron,tuazon,Lanham,MD,,Battley Harley-Davidson
 3,370578,David,Stauffer,Arlington,VA,,National Capital Velo Club/UnitedHealthcare
 4,341396,Christopher M.,Jones,Greenbelt,MD,,Arrow Bicycle
-5,307552,Eric,Link,College Park,MD,,
+5,307552,Eric,Link,Silver Spring,MD,,
 6,338102,Casey,Fulton,Chesapeake,VA,,Cheerbacks of Fat Frogs Racing
 7,434514,Filagot,Dinku,Arlington,VA,,DistrictTaco Racing
 8,419162,Douglas,Plowman,Washington,DC,,District Velocity Racing p/b Bicycle Pro Shop
@@ -189,7 +189,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,390412,Alex,Kasch,Arlington,VA,,NCVC/UnitedHealthcare
 11,496667,frank,shewmaker,Kensington,MD,,Artemis Racing
 12,405659,William,Wisseman,Oakton,VA,,PTS Racing
-13,496527,Ryan,Chien,Reno,NV,,Kingfield
+13,496527,Ryan,Chien,Arlington,VA,,Kingfield
 14,425079,Scott,Kozicki,Alexandria,VA,,DistrictTaco Racing
 15,176100,Stokely,Samuel,Bowie,MD,,Artemis Racing
 16,494213,Timothy,Meyers,Fredericksburg,VA,,NCVC/UnitedHealthcare
@@ -197,7 +197,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,379982,Joshua,Spokes,Baltimore,MD,,Baltimore Bicycle Club
 19,406418,Samuel,Yarashus,Annandale,VA,,NCVC/UnitedHealthcare
 20,221089,Christopher,Crane,Lexington Park,MD,,Whole Wheel Velo Club
-21,245173,Graeme,Murray,Seattle,WA,,
+21,245173,Graeme,Murray,Richmond,VA,,
 22,485004,Elliott,Cheresh,Washington,DC,,Bike Rack Racing
 23,423804,Sean,Price,Sterling,VA,,Whole Wheel Velo Club
 
@@ -217,7 +217,7 @@ Place,License #,First,Last,City,State,Time,Team
 08/26/2017 Road Race Women Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
 1,274754,Ainhoa,Perez-Diez,Olney,MD,,ABRT (Annapolis Bicycle Racing Team)
-2,525708,Jill,Patterson,Alexandria,VA,,Artemis Racing
+2,525708,Jill,Patterson,Wilmington,DE,,Artemis Racing
 3,382827,Erin,Bougie,Arlington,VA,,NCVC/UnitedHealthcare
 4,525633,Angela,Harrington,Jefferson,MD,,Bike Doctor/Visit Frederick
 5,257747,Dori,Buckethal,Glenwood,MD,,ABRT (Annapolis Bicycle Racing Team)
@@ -230,7 +230,7 @@ Place,License #,First,Last,City,State,Time,Team
 08/26/2017 Road Race Women Cat 3
 Place,License #,First,Last,City,State,Time,Team
 1,499043,Adair,Lindsay,Washington,DC,,NCVC/UnitedHealthcare
-2,476619,Paige,Kostanecki,Charottesville,VA,,Blue Ridge Cyclery Racing p/b Reynolds G
+2,476619,Paige,Kostanecki,Charlottesville,VA,,Blue Ridge Cyclery Racing p/b Reynolds G
 3,484356,Ellen,Tarquinio,Washington,DC,,Bike Rack Racing
 4,368854,Mary,Still,Norfolk,VA,,Mermaid Winery
 5,498598,Dixie,Newsome,Virginia Beach,VA,,Mermaid Winery

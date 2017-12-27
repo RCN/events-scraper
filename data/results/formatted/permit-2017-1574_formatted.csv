@@ -6,7 +6,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,477793,Loren,Barisch,Harrisburg,PA,,World Cup Ski & Cycle Racing Team
 3,52413,Shawn,FENTY,Washington,DC,,
 4,418464,Francisco,Covas,Bethesda,MD,,NCVC/UnitedHealthcare
-5,292461,Dan,Burns,Columbia ,MD,,
+5,292461,Dan,Burns,Columbia,MD,,
 6,392945,Logan,Breed,Arlington,VA,,NCVC/UnitedHealthcare
 7,380267,Gregory,Butler,Arlington,VA,,Squadra Coppi
 8,495239,Ed,Jablonski,Cockeysville,MD,,Kelly Benefit Strategies/LSV
@@ -53,9 +53,9 @@ Place,License #,First,Last,City,State,Time,Team
 11,494707,Zach,Gregg,Roanoke,VA,,Haymarket/Starlight Custom Apparel
 12,221645,Bruno,Neto,Derwood,MD,,TEAM BIKE DOCTOR
 13,306704,Steven,Kusy,Alexandria,VA,,District Velocity Racing p/b Bicycle Pro Shop
-14,341040,Eran,Preble,Philadelphia ,PA,,Integrated Sports Medicine p/b Brown's Subaru
+14,341040,Eran,Preble,Newark,DE,,Integrated Sports Medicine p/b Brown's Subaru
 15,458393,Mark,Lewis,Preston,MD,,TEAM BIKE DOCTOR
-16,220150,Jared,Nieters,Haymarket,VA,,SEAVS/Haymarket
+16,220150,Jared,Nieters,Amissville,VA,,SEAVS/Haymarket
 17,308936,Richard,Furchtgott,Chevychase,MD,,BATTLEY HARLEY-DAVIDSON/SPOKES/CUTAWAY
 18,395771,Taylor,Pearman,Burke,VA,,Haymarket/Starlight Custom Apparel
 19,40318,Michael,Tabasko,Bethesda,MD,,TEAM BIKE DOCTOR
@@ -73,7 +73,7 @@ DNF,67374,Bob,Gillespie,Bethesda,MD,,Sportif Coaching
 DNF,108105,Michael,Kingery,Reston,VA,,Team Beyer Auto
 DNF,105456,Russ,Langley,Gaithersburg,MD,,BATTLEY H-D/Spokes Etc
 DNF,274737,Gregory,Leach,Washington,DC,,Team Metra / XRCEL / Cycles 54
-DNF,277019,Jonathan,Marshall,Chambersburg,PA,,Integrated Sports Medicine p/b Brown's Subaru
+DNF,277019,Jonathan,Marshall,Shippensburg,PA,,Integrated Sports Medicine p/b Brown's Subaru
 DNF,260414,James,Miceli,Arlington,VA,,Integrated Sports Medicine p/b Brown's Subaru
 DNF,51562,R,Muoio,Washington,DC,,Kelly Benefit Strategies/LSV
 DNF,298636,Myke,Nahorniak,Silver Spring,MD,,District Velocity Racing p/b Bicycle Pro Shop
@@ -83,7 +83,7 @@ DNF,301814,George,Schulz,Alexandria,VA,,Kelly Benefit Strategies Elite
 DNF,392529,Brian,Sciba,Tallahassee,FL,,Kelly Benefit Strategies Elite
 DNF,240025,Andrew,Shelby,Arlington,VA,,TEAM BIKE DOCTOR
 DNF,426129,Gustav,OHRSTROM,Midlothian,VA,,Haymarket/Starlight Custom Apparel
-DNF,264157,Daniel,VILLAFLOR-DRUMWRIGHT,Alexandria ,VA,,Team Beyer Auto
+DNF,264157,Daniel,VILLAFLOR-DRUMWRIGHT,Alexandria,VA,,Team Beyer Auto
 
 07/08/2017 Road Race Men Cat 5
 Place,License #,First,Last,City,State,Time,Team
@@ -154,12 +154,12 @@ Place,License #,First,Last,City,State,Time,Team
 21,214535,Dean,Jagusch,Baltimore,MD,,C3-Twenty20 Cycling
 22,494191,David,Lopez,Washington,DC,,District Taco Racing
 23,458001,Lucas,Beirne,Alexandria,VA,,NCVC/UnitedHealthcare
-24,380055,Manuel,Paniagua,Silver Spring ,MD,,
+24,380055,Manuel,Paniagua,Silver Spring,MD,,
 25,511958,Darrin,Arbaugh,Bethesda,MD,,Artemis Racing
 26,369359,Iain,MacKeith,Mc Lean,VA,,NCVC/UnitedHealthcare
 27,379144,Christopher,Burns,Charles Town,WV,,Team Integrity Cycling p/b K&F Construction Inc.
 28,423552,Geoffrey,Irwin,Frederick,MD,,NCVC/UnitedHealthcare
-29,523481,Christopher,Kallapodi,Alexandria,VA,,WWVC Racing
+29,523481,Christopher,Kallapodi,Chicago,IL,,WWVC Racing
 30,258132,Sean,McKee,Bethesda,MD,,
 31,484659,Luca,Scuriatti,Washington,DC,,Rock Creek Velo
 32,192332,William,Faucette,Kensington,MD,,
@@ -182,7 +182,7 @@ DNS,430170,Jeremy,Siedor,Mount Airy,MD,,Kelly Benefit Strategies/LSV
 DNS,475122,Terry,Thomas,Hyattsville,MD,,Phase Cycling
 DNF,489738,Erik,Argueta,Arlington,VA,,DistrictTaco Racing
 DNF,507773,John,Barry,Springfield,VA,,Squadra Coppi
-DNF,256465,Nick,Bradford,Alexandria,VA,,NCVC/UnitedHealthcare
+DNF,256465,Nick,Bradford,Baltimore,MD,,NCVC/UnitedHealthcare
 DNF,383951,James,Bumbaugh,Lexington Park,MD,,Patuxent Velo
 DNF,492700,llewellyn,davis,Washington,DC,,NCVC
 DNF,395548,Noah,Flaxman,Mclean,VA,,Wicked Wash Racing
@@ -247,8 +247,8 @@ Place,License #,First,Last,City,State,Time,Team
 2,499043,Adair,Lindsay,Washington,DC,,NCVC/UnitedHealthcare
 3,525633,Angela,Harrington,Jefferson,MD,,Bike Doctor/Visit Frederick
 4,298855,Michele,SCHERER,Stephens City,VA,,
-5,476619,Paige,Kostanecki,Charottesville,VA,,BRC Racing pb Reynolds GM-Subaru
-6,396612,Maureen,Gribb,Lansdale,PA,,Action Wheels
+5,476619,Paige,Kostanecki,Charlottesville,VA,,BRC Racing pb Reynolds GM-Subaru
+6,396612,Maureen,Gribb,Unit C,PA,,Action Wheels
 7,276564,Sarah,Kozak,Chesapeake,VA,,Rogue Velo Racing
 8,291367,Claire,VANEKDOM,Chevychase,MD,,
 9,466961,Diana,Chang,Washington,DC,,Artemis Racing
@@ -268,4 +268,4 @@ Place,License #,First,Last,City,State,Time,Team
 9,498598,Dixie,Newsome,Virginia Beach,VA,,Mermaid Winery p/b VA Asset Group
 10,433716,Katherine,CICALA,Washington,DC,,District Velocity Racing p/b Bicycle Pro Shop
 DNF,367544,Annamaria,McHugh,Washington,DC,,Rock Creek Velo
-DNF,523978,Kate,Merwitz,Silver Spring,MD,,Bike Rack Racing
+DNF,523978,Kate,Merwitz,Washington,DC,,Bike Rack Racing

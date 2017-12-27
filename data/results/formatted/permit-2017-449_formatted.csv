@@ -35,7 +35,7 @@ Place,License #,First,Last,City,State,Time,Team
 31,331382,Michael,Mcguffin,Mercer Island,WA,09:53.0,Taco Time Northwest Cycling Tea
 32,473206,Juan,Garcia,Seattle,WA,09:56.0,Apex Racing
 33,515656,Darryl,Wolfe,Port Angeles,WA,09:58.0,0
-34,305711,Christopher,Soelling,Kirkland,WA,10:02.0,Taco Time Northwest Cycling Tea
+34,305711,Christopher,Soelling,Redmond,WA,10:02.0,Taco Time Northwest Cycling Tea
 35,418917,Gian,Vito,Austin,TX,12:05.0,Seattle Cancer Care Alliance Cy
 36,520430,Victor,Peterson,Sumner,WA,12:24.0,Tacoma Bike Racing Team
 37,481697,Kevin,Stone Obrien,Issaquah,WA,13:51.0,Egencia
@@ -43,7 +43,7 @@ Place,License #,First,Last,City,State,Time,Team
 DNF,184544,Hugh,Barrington,Seattle,WA,DNF,First Strike Velo
 DNF,425104,Colin,Corbin,Olympia,WA,DNF,Audi
 DNF,420052,Craig,Powers,Seattle,WA,DNF,VELOBODY / Bikesale
-DNF,468401,Peter,Mayer,Shoreline,WA,DNF,Taco Time Northwest Cycling Tea
+DNF,468401,Peter,Mayer,Mukilteo,WA,DNF,Taco Time Northwest Cycling Tea
 DNF,503654,Josh,Steinitz,Seattle,WA,DNF,Audi
 DNF,522572,Florin,Folta,Redmond,WA,DNF,
 DNF,524186,Chris,Hughes,Mercer Island,WA,DNF,Audi
@@ -93,7 +93,7 @@ DNF,0,Jj,Ecker,,,DNF,
 Place,License #,First,Last,City,State,Time,Team
 1,318226,Will,Teal,Seattle,WA,53:12.0,Metier Racing & Coffee
 2,204225,Steve,Fisher,Bellingham,WA,53:15.0,Canyon Bicycles Pro Cycling
-3,242829,Jove,Graham,Fresno,CA,53:25.0,Metier Racing
+3,242829,Jove,Graham,Palo Alto,CA,53:25.0,Metier Racing
 4,111313,Ian,Tubbs,Bellevue,WA,54:07.0,Audi
 5,29781,David,Richter,Seattle,WA,54:07.0,Metier Racing & Coffee
 6,351580,Lewis,Whiley,Olympia,WA,54:07.0,Hedrick Racing
@@ -104,14 +104,14 @@ Place,License #,First,Last,City,State,Time,Team
 11,330330,Theodore,Schwartz,Seattle,WA,54:15.0,Metier Racing & Coffee
 12,56197,Josh,Crow,Medina,WA,54:15.0,Seattle Cancer Care Alliance Cycling Team
 13,489099,Felipe,Nystrom,Vancouver,WA,54:50.0,Therapeutic Associates Racing p
-14,198253,Tavish,Taylor,Sequim,WA,54:50.0,Audi
+14,198253,Tavish,Taylor,Wenatchee,WA,54:50.0,Audi
 15,316268,Wayne,Brown,Renton,WA,54:50.0,Apex Racing
 16,288845,Bradlee,Haley,Tacoma,WA,54:50.0,Seattle Cancer Care Alliance Cy
 17,393649,Sun,Dang,Bellevue,WA,54:50.0,Audi
 18,0,Phillip,Keerns,,,54:50.0,Team Oregon
 19,0,Hennique,Serra,,,54:50.0,
 20,289231,Keiichi,Otani,Kirkland,WA,54:50.0,Broadmark Capital
-21,52628,David,Matthews,Seattle,WA,54:50.0,VELOBODY / Bikesale
+21,52628,David,Matthews,South Cle Elum,WA,54:50.0,VELOBODY / Bikesale
 22,259190,Mike,Schwindeller,Seattle,WA,54:50.0,Audi
 23,106932,Coul,Hill,Billings,MT,54:50.0,
 24,340950,Scott,Villalon,Puyallup,WA,54:50.0,Seattle Cancer Care Alliance Cy
@@ -142,7 +142,7 @@ DNF,236056,Olivier,Humbert,Seattle,WA,DNF,Hagens Berman - EY Society
 DNF,419427,Todd,Cowles,Redmond,WA,DNF,Dyna Racing
 DNF,0,David,Root,,,DNF,
 DNF,0,Chris,Twardzik,,,DNF,
-DNF,222488,Logan,Owen,Bremerton,WA,DNF,
+DNF,222488,Logan,Owen,Port Orchard,WA,DNF,
 DNF,0,Chloe,Dygart,,,DNF,
 
 03/11/2017 Road Race Men Cat 5 Senior
@@ -187,9 +187,9 @@ Place,License #,First,Last,City,State,Time,Team
 11,429352,Jeffrey,Perez,Seattle,WA,11:35.0,Seattle Cancer Care Alliance Cy
 12,356944,Dave,Preston,Fall City,WA,11:35.0,Monton-TM
 13,460553,Ernesto,Cabanes,Tacoma,WA,11:35.0,Tacoma Bike Racing Team
-14,457077,Matt,Dente,Seattle,WA,11:35.0,Fell Swoop
+14,457077,Matt,Dente,Bainbridge Island,WA,11:35.0,Fell Swoop
 15,380539,Jeff,Pozarski,Shoreline,WA,11:35.0,VELOBODY / Bikesale
-16,384145,Edgardo,Hernandez,Silverdale ,WA,11:35.0,OMG Racing
+16,384145,Edgardo,Hernandez,Silverdale,WA,11:35.0,OMG Racing
 17,210470,Jeff,Rasor,Seattle,WA,11:35.0,Apex Racing
 18,71119,Daniel,Fealk,Seattle,WA,11:35.0,Apex Racing
 19,481152,Brett,Robertson,Seattle,WA,11:35.0,Taco Time Northwest Cycling Tea
@@ -203,8 +203,8 @@ Place,License #,First,Last,City,State,Time,Team
 27,374871,Peter,Kriofske,Seattle,WA,14:43.0,Audi
 28,459882,Arthur,Brummett,Sammamish,WA,15:52.0,Taco Time Northwest Cycling Tea
 29,467446,Aaron,Reinke,Seattle,WA,16:03.0,Seattle Cancer Care Alliance Cy
-30,439021,William,Cucco,Federal Way,WA,32:08.0,Seattle Cancer Care Alliance Cy
-31,439012,Jeremy,Cucco,Federal Way,WA,32:08.0,Seattle Cancer Care Alliance Cy
+30,439021,William,Cucco,University Place,WA,32:08.0,Seattle Cancer Care Alliance Cy
+31,439012,Jeremy,Cucco,University Place,WA,32:08.0,Seattle Cancer Care Alliance Cy
 DNF,460562,Jacob,Voigt,Seattle,WA,DNF,Audi
 DNF,495788,Sean,Bunce,Seattle,WA,DNF,Metier Racing & Coffee
 DNF,493782,Garrett,Born,Seattle,WA,DNF,Apex Racing
@@ -216,7 +216,7 @@ DNF,369565,Nick,Martinez,Seattle,WA,DNF,Broadmark Capital
 
 03/11/2017 Road Race Men Cat 3 Senior
 Place,License #,First,Last,City,State,Time,Team
-1,472368,Scott,Ofarrell,Tacoma,WA,34:48.0,Metier Racing & Coffee
+1,472368,Scott,Ofarrell,Seattle,WA,34:48.0,Metier Racing & Coffee
 2,229536,Kyle,Peterek,Seattle,WA,34:48.0,Apex Racing
 3,340042,Aaron,Wolf,Seattle,WA,34:48.0,Apex Racing
 4,495211,Mark,Mcfadyen,Kirkland,WA,34:48.0,Monton-TM
@@ -229,7 +229,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,426445,Devon,Wright,Port Orchard,WA,34:48.0,Este Racing
 12,290771,Richie,Strong,Kenmore,WA,34:48.0,Seattle Cancer Care Alliance Cy
 13,308009,Lloyd,Lints,Seattle,WA,34:48.0,Fell Swoop
-14,440100,Jim,Englert,Seattle,WA,34:48.0,Apex Racing
+14,440100,Jim,Englert,Maplewood,NJ,34:48.0,Apex Racing
 15,467724,Devin,Fife,Kent,WA,34:48.0,Monton-TM
 16,418560,James,Mckee,Seattle,WA,34:48.0,Apex Racing
 17,260766,Zack,Strode,Seattle,WA,34:48.0,Garage Racing
@@ -241,7 +241,7 @@ Place,License #,First,Last,City,State,Time,Team
 23,494188,Mark,Meuleman,Seattle,WA,34:57.0,Monton-TM
 24,439463,Nathaniel,Brockert,Tacoma,WA,35:02.0,Metier Racing & Coffee
 25,421175,Hani,Atassi,Sammamish,WA,35:02.0,Apex Racing
-26,213076,Jim,Wood,Seattle,WA,35:02.0,333 FDS
+26,213076,Jim,Wood,Hood River,OR,35:02.0,333 FDS
 27,457748,Zach,Goodin,Seattle,WA,35:02.0,Apex Racing
 28,307040,Jesse,Nofziger,Issaquah,WA,35:02.0,Seattle Cancer Care Alliance Cy
 29,417595,Julian,Soh,Olympia,WA,35:06.0,Audi
@@ -265,7 +265,7 @@ DNF,66345,Ed,Ewing,Gaithersburg,MD,DNF,Slalom Racing
 
 03/11/2017 Road Race Women Cat 1/2/3 Senior
 Place,License #,First,Last,City,State,Time,Team
-1,496869,Heidi,Franz,Seattle,WA,18:12.0,Keller Rohrback Cycling
+1,496869,Heidi,Franz,Kirkland,WA,18:12.0,Keller Rohrback Cycling
 2,392782,Hillary,King,Kent,WA,18:12.0,Garage Racing
 3,287816,Ivy,Audrain,Bellingham,WA,18:12.0,
 4,399584,Emily,Ball,Seattle,WA,18:12.0,Hagens Berman - EY Society
@@ -301,7 +301,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,474555,Emily,Taylor,Wenatchee,WA,53:21.0,Hagens Berman - EY Society
 2,494124,Lauren,Schmidt,Seattle,WA,53:21.0,Seattle Cancer Care Alliance Cy
-3,236703,Lisa,Worthington,Woodinville,WA,53:24.0,VELOBODY / Bikesale
+3,236703,Lisa,Worthington,Woodinville ,WA,53:24.0,VELOBODY / Bikesale
 4,488310,Laura,Rosema,Seattle,WA,53:26.0,Team Thrive p/b Kaiser Permanen
 5,492984,Spring,Goodin,Seattle,WA,53:26.0,Hagens Berman - EY Society
 6,495210,Nikki,Mohrbacher,Seattle,WA,53:28.0,Team Thrive p/b Kaiser Permanen

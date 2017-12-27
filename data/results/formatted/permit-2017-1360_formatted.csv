@@ -4,7 +4,7 @@ The White Plains Downtown Criterium in White Plains NY Results
 Place,License #,First,Last,City,State,Time,Team
 1,458677,DJ,Toback,Merrick,NY,0:19:49,Cuevas Cycling Development
 2,532753,Gavi,Spinner,White Plains,NY,-3 laps,
-3,504757,Thomas,Byrne,Boonton Township ,NJ,-3 laps,BYRNE International LLC
+3,504757,Thomas,Byrne,Boonton Township,NJ,-3 laps,BYRNE International LLC
 
 06/04/2017 Criterium Men Cat 1/2/3/4/5 Junior 13-14
 Place,License #,First,Last,City,State,Time,Team
@@ -29,8 +29,8 @@ Place,License #,First,Last,City,State,Time,Team
 06/04/2017 Criterium Men Cat 1/2/3/4/5 Master 55-99
 Place,License #,First,Last,City,State,Time,Team
 1,269996,Jeff,Johnson,Greenwich,CT,0:38:03,Death Row Velo  Shimano
-2,72490,Jan,Micko,Glen Cove,NY,0:38:04,
-3,155828,Gregory,Lee,Port Washington,NY,0:38:05,Brands Cycle/Roslyn Porsche
+2,72490,Jan,Micko,Durham,NC,0:38:04,
+3,155828,Gregory,Lee,Durham,NC,0:38:05,Brands Cycle/Roslyn Porsche
 4,383503,Robert,Tremaine,Stormville,NY,0:38:05,Iron Bridge/Tarmac Cycling
 5,47473,Christopher,Chong-Tenn,Corona,NY,0:38:06,CRCA - Diehard
 6,199172,Roger,Billharz,Sleepy Hollow,NY,0:38:06,pawling cycle and sport  Billharz Electric
@@ -77,10 +77,10 @@ Place,License #,First,Last,City,State,Time,Team
 20,439175,Michael,Smith,Watkins Glen,NY,0:41:44,Atlas Cycling Team
 21,377521,Kensaun,Vadnais,Massapequa,NY,0:41:45,BOLD Racing / enduranceWERX
 22,399609,Olof,Dallner,New York,NY,0:41:45,CRCA/Foundation
-23,393014,Bryan,Banducci,Brooklyn ,NY,0:41:45,King Kog
+23,393014,Bryan,Banducci,Brooklyn,NY,0:41:45,King Kog
 24,269625,Corey,Williams,New York,NY,0:41:45,BOLD Racing Team
 25,292639,Jeffrey,White,Brooklyn,NY,0:41:45,Kissena Cycling Club
-26,300882,Jeffrey,Krywanczyk,Rensselaer ,NY,0:41:45,Capital Bicycle Racing Club
+26,300882,Jeffrey,Krywanczyk,Rensselaer,NY,0:41:45,Capital Bicycle Racing Club
 27,372261,Mark,Steffen,Brooklyn,NY,0:41:45,King Kog
 28,473546,Luis,Madera,New York,NY,0:41:46,
 29,385219,William,Carroll,Ossining,NY,0:41:46,
@@ -91,8 +91,8 @@ Place,License #,First,Last,City,State,Time,Team
 34,284780,Todd,Royal,New York,NY,0:42:26,CRCA/GF Capital/H&E Ent
 35,380574,Carl,Robinson,Garwood,NJ,0:42:29,DeathRow Velo
 36,318418,David,Torres,New York,NY,0:42:44,CRCA/RBNY RacingVerge Sport
-37,428001,Cody,Corona,New York,NY,0:43:16,CRCA/Rockstar Games
-38,356954,Eduardo,Luna,Woodside,NY,P&P,Cuevas cycling
+37,428001,Cody,Corona,Marina Del Rey,CA,0:43:16,CRCA/Rockstar Games
+38,356954,Eduardo,Luna,Elmhurst Ny,NY,P&P,Cuevas cycling
 39,468564,Isaac,Whitbeck,Morris,NY,P&P,CNYC/NYCM Insurance
 DNF,314038,Keith,Garrison,Brooklyn,NY,DNF,KING KOG
 DNF,497588,Benjamin,Gorodetsky,Brooklyn,NY,DNF,
@@ -109,7 +109,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,44238,Marc,Bertucco,New York,NY,0:40:25,
 6,299923,David,Leibowitz,Bronxville,NY,0:40:26,Tarmac Cycling/Iron Bridge Consulting
 7,304430,Erik,Post,Brooklyn,NY,0:40:27,CRCA / The Weather Channel Specialized Cycling Team
-8,13352,James,Giorgio,Babylon ,NY,0:40:28,
+8,13352,James,Giorgio,Babylon,NY,0:40:28,
 9,508092,Dieter,Egli,New York,NY,P&P,NYCC Racing
 10,395484,Sean,Roach,Tarrytown,NY,P&P,Iron Bridge/Tarmac Cycling
 11,114068,Kurt,Brouillette,Monson,MA,P&P,Cyclonauts Racers
@@ -144,7 +144,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,370704,Jacek,Boral,Brooklyn,NY,0:40:31,Healthy and Happy Racing
 21,178446,Joseph,Orgera,Forest Hills,NY,0:40:32,Mineola Bicycle Racing Team.
 22,210766,Gregory,Olsen,New York,NY,0:41:27,CRCA/Foundation
-23,171792,Greg,Waggoner,Hartsdale ,NY,P&P,Sids Bikes NYC / CRCA
+23,171792,Greg,Waggoner,Hartsdale,NY,P&P,Sids Bikes NYC / CRCA
 24,303247,Kenneth,Reilly,New Fairfield,CT,P&P,Iron Bridge / Tarmac Cycling
 25,374571,Johnie,Way, White Plains,NY,P&P,MAJOR TAYLOR DEVELOPMENTAL RACE TEAM
 26,50391,Chris,Romero,New York,NY,P&P,CRCA
@@ -162,7 +162,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,52336,Juan,Pineda,Sparkill ,NY,-1 lap,Montclair Bikery Racing
 6,309324,Dominic,Caiazzo,Bronx,NY,-1 lap,CRCA/Lupus Racing Team
 7,352236,Ian,Clarke,Killington,VT,-1 lap,CCB Velotooler
-8,238008,Alejandro,Guzman,New York,NY,-1 lap,CRCA/Foundation
+8,238008,Alejandro,Guzman,New York ,NY,-1 lap,CRCA/Foundation
 9,0,Cantin,Dominic,,,-1 lap,LowestRates.ca Cycling Team
 10,391278,Constantin,Schreiber,Brooklyn,NY,-1 lap,CRCA/Team Veselka p/b Cafe Grumpy
 11,386892,Jesus,Martinez,Brooklyn,NY,-1 lap,CRCA/NYCC Racing p/b BGC Partners
@@ -201,7 +201,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,515564,John,VanStraaten,Newtown,CT,0:28:47,
 5,507693,Ken,Benoit,Bedford,NY,0:28:47,
 6,526055,Felipe,Schaun Machado,Weehawken,NJ,0:28:48,
-7,528365,Quintin,Chiapperino,Whitestone,NY,0:28:48,
+7,528365,Quintin,Chiapperino,Austin,TX,0:28:48,
 8,522449,Julian,Fernandez,Emerson,NJ,0:28:48,GS Park Ridge
 9,534386,Ryan,Daly,White Plains,NY,0:28:49,
 10,526001,Austin,King,Brooklyn,NY,0:28:49,CRCA/PATCH NYC VELO
@@ -235,7 +235,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,277565,Dominic,Stobart,Pelham,NY,0:39:23,TWIN SIX
 9,374571,Johnie,Way, White Plains,NY,0:39:23,MAJOR TAYLOR DEVELOPMENTAL RACE TEAM
 10,497588,Benjamin,Gorodetsky,Brooklyn,NY,0:39:23,
-11,466154,Eamonn,Schnell,Brooklyn,NY,0:39:23,CRCA/Century Road Club Development Foundation
+11,466154,Eamonn,Schnell,Oberlin,OH,0:39:23,CRCA/Century Road Club Development Foundation
 12,468568,Simon,Song,Brooklyn,NY,0:39:23,Verrazano Team Racing
 13,404843,Kenneth,Decker,Silver Spring,MD,0:39:25,Sons United Racing Team
 14,508092,Dieter,Egli,New York,NY,0:39:25,NYCC Racing
@@ -255,8 +255,8 @@ Place,License #,First,Last,City,State,Time,Team
 28,359726,Christian,Eichele,Stamford,CT,0:39:44,Iron Bridge/Tarmac Cycling
 29,376409,Stephen,Charron,Rockaway,NJ,0:39:46,Cycle Craft
 30,492640,Clay,Jones,Brooklyn,NY,0:39:47,CRCA/To Be Determined
-31,383816,HC,Lucero,Hicksville ,NY,0:39:49,Mineola Bicycle Racing  Team
-32,428001,Cody,Corona,New York,NY,0:39:59,CRCA/Rockstar Games
+31,383816,HC,Lucero,Hicksville,NY,0:39:49,Mineola Bicycle Racing  Team
+32,428001,Cody,Corona,Marina Del Rey,CA,0:39:59,CRCA/Rockstar Games
 33,432071,Jason,Marshall,New York,NY,0:40:04,crca
 34,285324,Jonathan,Halperin,Hastings On Hudson,NY,0:40:05,Rivertowns Racing
 35,352676,Johnny,Hsu,Brooklyn,NY,0:40:09,The 5th Floor NYC
@@ -279,13 +279,13 @@ DNF,481785,Luis,Scattareggi,New York,NY,DNF,
 DNF,397293,Nicholas,Seleni,Saranac Lake,NY,DNF,Team Placid Planet
 DNF,523345,Mark,Shahlamian,New York,NY,DNF,Team Patch NYC VELO
 DNF,292639,Jeffrey,White,Brooklyn,NY,DNF,Kissena Cycling Club
-DNF,511397,Raymundo,Torres,Fort Lee,NJ,DNF,
+DNF,511397,Raymundo,Torres,Old Tappan,NJ,DNF,
 DNF,405415,Niall,Smart,New York,NY,DNF,
 
 06/04/2017 Criterium Women Cat 1/2/3/4/5 Junior 11-12
 Place,License #,First,Last,City,State,Time,Team
-1,507588,Trinity,Paul,Boonton,NJ,0:21:33,BYRNE International LLC
-2,507589,Nikita,Paul,Boonton,NJ,0:21:45,BYRNE International LLC
+1,507588,Trinity,Paul,Booton,NJ,0:21:33,BYRNE International LLC
+2,507589,Nikita,Paul,Booton,NJ,0:21:45,BYRNE International LLC
 
 06/04/2017 Criterium Women Cat 1/2/3/4/5 Junior 13-14
 Place,License #,First,Last,City,State,Time,Team

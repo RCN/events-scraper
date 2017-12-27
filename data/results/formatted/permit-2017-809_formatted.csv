@@ -10,7 +10,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,200977,John,Purvis,Parthenon,AR,,Oklahoma Bicycle Project
 7,225120,Erin,Elliott,Oklahoma City,OK,,Oklahoma Bicycle Project
 8,6135,Chris,Carlson,Plano,TX,,RBM/Matrix Racing
-9,272809,Ricky,Randall,Highland Village ,TX,,Arapahoe Resourses/Garneau
+9,272809,Ricky,Randall,Highland Village,TX,,Arapahoe Resourses/Garneau
 10,377666,Squire,Lawrence,Tulsa,OK,,Tulsa Wheelmen
 11,425096,Kevin,Solomon,Little Rock,AR,,Dickson Street Cycling Club
 12,317222,Andrew,Farmer,Edmond,OK,,DNA Racing
@@ -87,7 +87,7 @@ DNS,166171,Mitchell,Houtman,Owasso,OK,,SNRG Racing
 DNS,199458,Janne,Hamalainen,Tulsa,OK,,Tulsa Wheelmen
 DNS,234065,Philip,Stauner,Owasso,OK,,Tulsa Wheelmen
 DNS,6135,Chris,Carlson,Plano,TX,,Matrix Cycling Club
-DNS,157785,Paul,McKay,Stillwater,OK,,STAPLEGUN
+DNS,157785,Paul,McKay,Oklahoma City,OK,,STAPLEGUN
 DNS,294031,Jason,Evans,Rogers,AR,,Boston Mountain Cyclists
 DNF,62507,Kimberly,Pettit,Tulsa,OK,,Flamingo Racing LLC
 DNF,498824,William,Hannigan,Tulsa,OK,,Tulsa Wheelmen
@@ -96,7 +96,7 @@ DNF,498824,William,Hannigan,Tulsa,OK,,Tulsa Wheelmen
 Place,License #,First,Last,City,State,Time,Team
 1,370563,Dustin,Smith,Oklahoma City,OK,,0
 2,512411,Mitchell,Mason,Tulsa,OK,,Tulsa Wheelmen
-3,157785,Paul,McKay,Stillwater,OK,,STAPLEGUN
+3,157785,Paul,McKay,Oklahoma City,OK,,STAPLEGUN
 4,58593,Scott,Farris,Edmond,OK,,Oklahoma City Velo Club
 5,426804,Jason,Holland,Broken Arrow,OK,,Bixby Bicycle Works/Cycling for Success
 6,58375,John,Ehrhardt,Norman,OK,,Team Warmup
@@ -112,7 +112,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,215570,Cody,Miller,Sand Springs,OK,,0
 17,291400,Mike,Patrick,Tulsa,OK,,Team Tom's Bicycles p/b Topeca
 18,480458,Curtis,Hesser,Bixby,OK,,0
-19,348332,Kelly,Maddux,Sand Springs,OK,,Team Air Assurance p/b AVB Bank
+19,348332,Kelly,Maddux,Tulsa,OK,,Team Air Assurance p/b AVB Bank
 20,289837,Robbin,Jones,Broken Arrow,OK,,Team Tom's Bicycles p/b Topeca
 21,70342,Ralph,Chappell,Midwest City,OK,,0
 22,238478,Nathan,Elfrink,Duncan,OK,,Team Tom's Bicycles p/b Topeca
@@ -120,7 +120,7 @@ Place,License #,First,Last,City,State,Time,Team
 24,471916,Vince,Hess,Chelsea,OK,,0
 25,349550,Paul,Bush,Jenks,OK,,Bixby Bicycle Works/Cycling for Success
 26,497324,Rodney,Mitchell,Jenks,OK,,Team Young Life Tulsa
-27,524163,Kristopher,Clark,Tulsa,OK,,0
+27,524163,Kristopher,Clark,Jenks,OK,,0
 28,428195,Donald,Morgan,Tulsa,OK,,Soundpony Triad Bank
 29,466525,James,OBrien,Colorado Springs,CO,,Team Air Assurance p/b AVB Bank
 30,512885,Philip,Doyle,Tulsa,OK,,Festlig Norsk CC
@@ -246,7 +246,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,425922,Christopher,Dakin,Bixby,OK,,Air Assurance Devo P/b Spoke House
 20,260030,Troy,Cowin,Oklahoma City,OK,,0
 21,441131,Trevor,Fine,Duncan,OK,,Tulsa Wheelmen
-22,466674,Brandon,Wold,Oklahoma City,OK,,DNA Racing
+22,466674,Brandon,Wold,Andover,MN,,DNA Racing
 23,368951,Drew,Cardoza,Tulsa,OK,,Team Air Assurance p/b AVB Bank
 24,295134,Chris,Barnes,Owasso,OK,,Team Air Assurance p/b AVB Bank
 25,433230,Austin,Edgar,Tulsa,OK,,Soundpony Triad Bank
@@ -258,7 +258,7 @@ DNS,287929,Jason,Brandt,Tulsa,OK,,Team Tom's Bicycles p/b Topeca
 DNS,439469,Bryan,Sunday,Van Buren,AR,,Walmart/GPP Cycling Team
 DNS,414005,James,Holcomb,Tulsa,OK,,Tulsa Wheelmen
 DNP,277241,Leo,Hansen,Oklahoma,OK,,Arapahoe Resourses/Graneau
-DNP,369559,Frederick,Wild,Midwest City,OK,,DNA Racing
+DNP,369559,Frederick,Wild,Okc,OK,,DNA Racing
 DNP,332356,Justin,Davis,Tulsa,OK,,Team Tom's Bicycles p/b Topeca
 DNP,273140,Bryan,Fissel,Glenpool,OK,,Team Tom's Bicycles p/b Topeca
 DNP,474469,Josiah,Morgan,Owasso,OK,,Tulsa Wheelmen
@@ -286,7 +286,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,487777,Denise,Freisberg,Tulsa,OK,,0
 17,504372,Ruth,Seaman,Oklahoma City,OK,,Trans National Womens Cycling Team
 18,421211,teresa,colmenero,Broken Arrow ,OK,,isocentric
-19,302765,Kari,Bloom,Tulsa,OK,,Pandemonium Cycling p/b Hodges Bend
+19,302765,Kari,Bloom,Tulsa ,OK,,Pandemonium Cycling p/b Hodges Bend
 20,528313,Sedona,Emde,Jenks,OK,,Pandemonium Cycling p/b Hodges Bend
 21,528228,Jessica,Berg,Tulsa,OK,,0
 22,498315,Kim,Crosier,Tulsa,OK,,Pandemonium Cycling p/b Hodges Bend
@@ -334,7 +334,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,269412,Adam,Koble,Tulsa,OK,,Oklahoma Bicycle Project
 12,466498,Thomas,Brown,Little Rock,AR,,Experience Fayetteville Cycling Team
 13,199458,Janne,Hamalainen,Tulsa,OK,,Tulsa Wheelmen
-14,272809,Ricky,Randall,Highland Village ,TX,,Arapahoe Resourses/Garneau
+14,272809,Ricky,Randall,Highland Village,TX,,Arapahoe Resourses/Garneau
 15,337206,Sawyer,Currie,Edmond,OK,,DNA Racing
 16,333154,Skyler,Mackey,Tulsa,OK,,Oklahoma Bicycle Project
 17,145867,Mathew,Ankney,Tulsa,OK,,Tulsa Wheelmen
@@ -408,7 +408,7 @@ DNS,6135,Chris,Carlson,Plano,TX,,Matrix Cycling Club
 DNS,507552,Roger,Johnson,Bethany,OK,,Schlegel Racing
 DNS,119792,John,Brestovansky,Sapulpa,OK,,Soundpony Triad Bank
 DNS,27307,Charles,Parmain,Roanoke,VA,,Soundpony Triad Bank
-DNS,157785,Paul,McKay,Stillwater,OK,,STAPLEGUN
+DNS,157785,Paul,McKay,Oklahoma City,OK,,STAPLEGUN
 
 03/25/2017 Criterium Men M 4/5 u39 19-39
 Place,License #,First,Last,City,State,Time,Team
@@ -475,7 +475,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,528451,Mathew,Snopko,Tulsa,OK,,0
 6,426804,Jason,Holland,Broken Arrow,OK,,Bixby Bicycle Works/Cycling for Success
 7,58593,Scott,Farris,Edmond,OK,,Oklahoma City Velo Club
-8,157785,Paul,McKay,Stillwater,OK,,STAPLEGUN
+8,157785,Paul,McKay,Oklahoma City,OK,,STAPLEGUN
 9,440402,Scott,Starnes,Broken Arrow,OK,,Team Tom's Bicycles p/b Topeca
 10,349550,Paul,Bush,Jenks,OK,,Bixby Bicycle Works/Cycling for Success
 11,415141,david,williams,Tulsa,OK,,Tulsa Wheelmen
@@ -483,7 +483,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,222616,Robert,James,Tulsa,OK,,SNRG Racing
 14,497324,Rodney,Mitchell,Jenks,OK,,Team Young Life Tulsa
 15,375716,Brandon,Claborn,Claremore,OK,,360 Sports
-16,524163,Kristopher,Clark,Tulsa,OK,,0
+16,524163,Kristopher,Clark,Jenks,OK,,0
 17,289837,Robbin,Jones,Broken Arrow,OK,,Team Tom's Bicycles p/b Topeca
 18,265243,Jim,Timberlake,Oklahoma City,OK,,DNA Racing
 19,393378,Chris,Evans,Owasso,OK,,Team Air Assurance p/b AVB Bank
@@ -528,7 +528,7 @@ DNS,477438,Troy,Manicom,Edmond,OK,,STAPLEGUN
 DNS,350224,James,Mann,Okc ,OK,,STAPLEGUN
 DNS,523939,Bob,Rook,Edmond,OK,,STAPLEGUN
 DNS,495685,Ronnie,Thompson,Edmond,OK,,STAPLEGUN
-DNS,348332,Kelly,Maddux,Sand Springs,OK,,Team Air Assurance p/b AVB Bank
+DNS,348332,Kelly,Maddux,Tulsa,OK,,Team Air Assurance p/b AVB Bank
 DNS,58375,John,Ehrhardt,Norman,OK,,Team Warmup
 DNS,499378,Ryan,Boegh,Jenks,OK,,Team Young Life Tulsa
 DNS,268224,Kendall,Johnson,Tulsa,OK,,Tulsa Wheelmen
@@ -548,7 +548,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,164083,Brandon,Cavnar,Moore,OK,,Bike Lab Racing Team
 9,378105,Brad,Schrag,Springdale,AR,,Experience Fayetteville Cycling Team
 10,273140,Bryan,Fissel,Glenpool,OK,,Team Tom's Bicycles p/b Topeca
-11,466674,Brandon,Wold,Oklahoma City,OK,,DNA Racing
+11,466674,Brandon,Wold,Andover,MN,,DNA Racing
 12,454350,Lesley,Myrick,Sand Springs,OK,,0
 13,341818,Shane,McElravy,Tulsa,OK,,Team Tom's Bicycles p/b Topeca
 14,358854,Keith,Bassham,Owasso,OK,,Team Tom's Bicycles p/b Topeca
@@ -566,7 +566,7 @@ Place,License #,First,Last,City,State,Time,Team
 26,403401,Nicholas,Penrod,Bixby,OK,,0
 27,433230,Austin,Edgar,Tulsa,OK,,Soundpony Triad Bank
 28,368951,Drew,Cardoza,Tulsa,OK,,Team Air Assurance p/b AVB Bank
-29,369559,Frederick,Wild,Midwest City,OK,,DNA Racing
+29,369559,Frederick,Wild,Okc,OK,,DNA Racing
 DNS,429870,Chad,Grundy,Rogers,AR,,Bentonville Racing
 DNS,434125,Luke,Hall,Bentonville,AR,,Bentonville Racing
 DNS,353664,Shanely,Mullikin,Bella Vista,AR,,Bentonville Racing
@@ -605,7 +605,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,420099,Lisa,DeMarni Cromer,Jenks,OK,,0
 15,487777,Denise,Freisberg,Tulsa,OK,,0
 16,482368,Sarah,Coccaro,Tulsa,OK,,Transitions LifeCare p/b InSync Rx
-17,302765,Kari,Bloom,Tulsa,OK,,Pandemonium Cycling p/b Hodges Bend
+17,302765,Kari,Bloom,Tulsa ,OK,,Pandemonium Cycling p/b Hodges Bend
 18,487857,April,Meyer,Tulsa,OK,,Pandemonium Cycling p/b Hodges Bend
 19,443003,Amelia,Elbert,Mounds,OK,,Pandemonium Cycling p/b Hodges Bend
 20,524134,Chesney,Grantz,Tulsa,OK,,Pandemonium Cycling p/b Hodges Bend

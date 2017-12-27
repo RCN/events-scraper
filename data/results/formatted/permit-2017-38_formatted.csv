@@ -21,7 +21,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,424733,Cameron,Bond,Valencia,CA,,ENDO CONCEPT TEAM
 18,23731,Mike,McMahon,Lake Forest,CA,,Team Velocity
 19,178603,Daniel,Rojas,Long Beach,CA,,Two Hubs Cycling Team
-20,356348,Austin,VenHuizen,Chicago,IL,,Velo Club La Grange +21
+20,356348,Austin,VenHuizen,Santa Monica,IL,,Velo Club La Grange +21
 21,364697,MICHAEL,PENTA,Thousand Oaks,CA,,Big Orange Cycling p/b Beachbody Performance
 22,172567,Nathaniel,Deibler,Brea,CA,,Monster Media Elite Masters
 23,290847,Garrett,Olsen,Santa Monica,CA,,Velo Club La Grange +21
@@ -64,7 +64,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,332980,Michael,James,Pasadena,CA,,OTR Racing
 18,82789,Victor,Caraballo,Corona,CA,,
 19,512123,Rooney,escobar,Los Angeles,CA,,
-20,471808,Mark,Strohman,Aliso Viejo,CA,,R5 Ciclismo
+20,471808,Mark,Strohman,Irvine,CA,,R5 Ciclismo
 21,160776,David,Valero,Corona,CA,,Team Simple Green/Cannondale/Bike Religion
 22,473409,Erren,OLeary,Irvine,CA,,R5 Ciclismo
 23,197032,David,Martos,Noho,CA,,Bahati Foundation
@@ -94,7 +94,7 @@ Place,License #,First,Last,City,State,Time,Team
 47,302654,Dmitry,Uchitel,Encino,CA,,OTR Racing
 DNS,372127,Carlos,Glines,Fountain Valley,CA,,BestVIP - Mazda p/b Eibach
 DNF,212187,Patrick,Conneely,Ventura,CA,,CVC Racing
-DNF,224179,Martin,Villarruel,Los Angeles,CA,,KHS-Maxxis-JLVelo
+DNF,224179,Martin,Villarruel,Commerce,CA,,KHS-Maxxis-JLVelo
 DNF,238131,Refujio,Galvan,Los Angeles,CA,,
 
 02/19/2017 Criterium Men Cat 1/2/3/4 Masters 55+
@@ -148,7 +148,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,494860,Chris,Hildreth,West Hollywood,CA,,Orange Pedal Cycling
 2,392332,Ronnie,Toth,Rosemead,CA,,
 3,399649,Daniel,Pealstrom,Los Angeles,CA,,
-4,343084,Shawn,Langwell,San Diego,CA,,
+4,343084,Shawn,Langwell,Rancho Palos Verdes,CA,,
 5,424733,Cameron,Bond,Valencia,CA,,ENDO CONCEPT TEAM
 6,423452,Tyler,Johnson,Pomona,CA,,Go Fast -Incycle
 7,459089,Manuel,Barra,Huntington Park,CA,,Southern California Velo
@@ -170,7 +170,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,316516,Robbie,Miranda,Huntington Beach,CA,,HSR Racing p/b Birdworx
 4,52576,Michael,Onkels,Glendale,CA,,S2C/BOSCH pb Pearl Izumi
 5,310139,Chuck,Huang,Long Beach,CA,,HSR Racing p/b Birdworx
-6,182728,Max,Hernandez,Rancho Cucamonga ,CA,,Team Surf City p/b Eliel/Pioneer
+6,182728,Max,Hernandez,Rancho Cucamonga,CA,,Team Surf City p/b Eliel/Pioneer
 7,494367,Scott,Walker,Cypress,CA,,Big Orange Cycling p/b Beachbody Performance
 8,178603,Daniel,Rojas,Long Beach,CA,,Two Hubs Cycling Team
 9,52564,Manny,Motamed,Ladera Ranch,CA,,Two Hubs Cycling Team
@@ -217,7 +217,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,40630,Julio,Flores,Long Beach,CA,,Corridor Recycling
 10,58194,Robert,Kamppila,Cerritos,CA,,HSR Racing p/b BIRDWORX
 11,365867,Jeff,Garcia,Newbury Park,CA,,HSR Racing p/b BIRDWORX
-12,148165,Erick,Rodas,Los Angeles,CA,,Velo Club La Grange +21
+12,148165,Erick,Rodas,,,,Velo Club La Grange +21
 13,467851,Palle Gravesen,Jensen,Santa Monica,CA,,Velo Club La Grange +21
 14,219074,Leo,Pettus,Yorba Linda,CA,,South Bay Wheelmen
 15,3807,Martin,Bjel,Northridge,CA,,Serious Cycling
@@ -289,11 +289,11 @@ Place,License #,First,Last,City,State,Time,Team
 7,496788,Mike,Starr,Los Angeles,CA,,
 8,460808,Hector,Miramontes,Long Beach,CA,,California State University-Long Beach
 9,523435,Paul,Cressey,Los Angeles,CA,,Big Orange Cycling p/b Beachbody Performance
-10,297530,Ryan,Walker,Aptos,CA,,
+10,297530,Ryan,Walker,Carson,CA,,
 11,524693,Kai,Fillipow,Long Beach,CA,,
 12,525587,Justin,Simon,San Diego,CA,,Moment Bicycles
 13,522237,Pedro,Izquierdo,Los Angeles,CA,,
-14,459037,Michael,Baumgartner,Lompoc,CA,,US Military Endurance Sports
+14,459037,Michael,Baumgartner,Peyton,CO,,US Military Endurance Sports
 15,525435,Johnny,Juvera,Redondo Beach,CA,,Big Orange Cycling p/b Beachbody Performance
 16,523204,Sean,Brown,Cypress,TX,,Majestic/Mobbin Cycling
 17,523916,George,Orloff,La Canada,CA,,
@@ -422,8 +422,8 @@ Place,License #,First,Last,City,State,Time,Team
 14,392704,Jonathan,Martin,Temecula,CA,,Cast a Shadow/Temecula Farmers/Specialized
 15,423452,Tyler,Johnson,Pomona,CA,,Go Fast -Incycle
 16,305814,Jason,Morin,Redondo Beach,CA,,Big Orange Cycling p/b Beachbody Performance
-17,1841,Michael,Araluce,Santa Ana,CA,,
-18,343084,Shawn,Langwell,San Diego,CA,,
+17,1841,Michael,Araluce,Tustin,CA,,
+18,343084,Shawn,Langwell,Rancho Palos Verdes,CA,,
 19,234133,Patrick,Barrett,Los Angeles,CA,,Velo Club La Grange +21
 DNS,457573,Erik,Castillo,Duarte,CA,,NCCF/ Team Specialized Juniors
 DNS,496354,Joseph,Dalton,San Bernardino,CA,,G3Foundation / Trek
@@ -444,7 +444,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,368062,Sasha,Perry,Los Angeles,CA,,Portland Bicycle Studio
 9,195687,Donna,Kerby,Menifee,CA,,Sisterhood of Cycling
 10,245326,Karen,Meske,Los Angeles,CA,,Skyflash Racing
-11,292331,Amy,Firth,Monrovia,CA,,Skyflash Racing
+11,292331,Amy,Firth,Claremont,CA,,Skyflash Racing
 DNS,237130,Linda,Stark,Monrovia,CA,,Skyflash Racing
 
 02/19/2017 Criterium Women Cat 4/5 Senior Open

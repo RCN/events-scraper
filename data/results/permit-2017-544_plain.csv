@@ -643,7 +643,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 02/19/2017,Cross Country,Cat 3,Men,Junior,<14,4,0,Seth,ANDERSON,2 laps @ 01:25:30,
 02/19/2017,Cross Country,Cat 2,Men,Single Speed,,1,306708,Garret,TANNER,4 laps @ 02:01:35,
 02/19/2017,Cross Country,Cat 2,Men,Junior,17-18,1,502543,Sebastian,DOW,4 laps @ 01:32:53,San Marin High School
-02/19/2017,Cross Country,Cat 2,Men,Junior,17-18,2,524669,Ethan,NEMIROFF,4 laps @ 01:40:48,
+02/19/2017,Cross Country,Cat 2,Men,Junior,17-18,2,543336,Ethan,NEMIROFF,4 laps @ 01:40:48,
 02/19/2017,Cross Country,Cat 2,Men,Junior,17-18,3,524612,Matthew,ELLIOTT,4 laps @ 01:40:49,Monterey Bay Lightfighters
 02/19/2017,Cross Country,Cat 2,Men,,19-34,1,0,Daniel,THOMPSON,4 laps @ 01:34:47,Mike's Bikes
 02/19/2017,Cross Country,Cat 2,Men,,19-34,2,524477,Isaac,THOMAS,4 laps @ 01:38:52,Palms High School
@@ -1027,10 +1027,10 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 01/29/2017,Cross Country,Cat 2,Men,Single Speed,,4,306708,Garret,TANNER,4 laps @ 01:38:30,
 01/29/2017,Cross Country,Cat 2,Men,Junior,17-18,1,519828,Kaveh,POURMEHR,4 laps @ 01:17:54,
 01/29/2017,Cross Country,Cat 2,Men,Junior,17-18,2,0,Daven,THOMAS,4 laps @ 01:22:37,SCMC
-01/29/2017,Cross Country,Cat 2,Men,Junior,17-18,3,0,Ryan,CHANEY,4 laps @ 01:25:46,M B Lightfighters
+01/29/2017,Cross Country,Cat 2,Men,Junior,17-18,3,368029,Ryan,CHANEY,4 laps @ 01:25:46,M B Lightfighters
 01/29/2017,Cross Country,Cat 2,Men,Junior,17-18,4,508810,Cody,FONTES,4 laps @ 01:26:25,Pursuit
-01/29/2017,Cross Country,Cat 2,Men,Junior,17-18,DNP,524669,Ethan,NEMIROFF,-,Lightfighters
-01/29/2017,Cross Country,Cat 2,Men,Junior,17-18,DNP,0,Caleb,O'HARE,-,Oakland Composite
+01/29/2017,Cross Country,Cat 2,Men,Junior,17-18,DNP,543336,Ethan,NEMIROFF,-,Lightfighters
+01/29/2017,Cross Country,Cat 2,Men,Junior,17-18,DNP,542001,Caleb,O'HARE,-,Oakland Composite
 01/29/2017,Cross Country,Cat 2,Men,,19-34,1,407568,Aidan,MALMBERG,4 laps @ 01:20:44,Cycle Sport - Specialized p/b Muscle Milk
 01/29/2017,Cross Country,Cat 2,Men,,19-34,2,524477,Isaac,THOMAS,4 laps @ 01:23:38,
 01/29/2017,Cross Country,Cat 2,Men,,19-34,3,368028,Spencer,CHANEY,4 laps @ 01:24:30,M B Lightfighters
@@ -1041,7 +1041,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 01/29/2017,Cross Country,Cat 2,Men,,19-34,DNP,524630,Jacob,MCDOWELL-SANCHEZ,-,Pursuit
 01/29/2017,Cross Country,Cat 2,Men,Master,35-44,1,432854,Alex,NELSON,4 laps @ 01:20:17,
 01/29/2017,Cross Country,Cat 2,Men,Master,35-44,2,423613,steven,THOMPSON,4 laps @ 01:22:47,Naval Postgraduate School
-01/29/2017,Cross Country,Cat 2,Men,Master,35-44,3,0,Angel,CAMARGO,4 laps @ 01:29:56,
+01/29/2017,Cross Country,Cat 2,Men,Master,35-44,3,310701,Angel,CAMARGO,4 laps @ 01:29:56,
 01/29/2017,Cross Country,Cat 2,Men,Master,35-44,4,397622,Chris,CRAWLEY,4 laps @ 01:31:12,The Hub
 01/29/2017,Cross Country,Cat 2,Men,Master,35-44,6,147258,Craig,DILLON,4 laps @ 01:31:30,Audi
 01/29/2017,Cross Country,Cat 2,Men,Master,35-44,7,0,Todd,COLEMAN,4 laps @ 01:42:28,NWVSF
@@ -1090,13 +1090,13 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 01/29/2017,Cross Country,Cat 1,Men,Master,55-64,2,218958,Patrick,HAMPTON,5 laps @ 01:41:45,Schnur Racing
 01/29/2017,Cross Country,Cat 1,Men,Master,55-64,3,0,David,PETER,5 laps @ 01:42:51,
 01/29/2017,Cross Country,Cat 1,Men,Master,55-64,4,355666,Thomas,JAKABY,5 laps @ 01:49:19,
-01/29/2017,Cross Country,Cat 1,Men,Master,55-64,5,0,Dwight,GOSS,5 laps @ 01:51:24,Redwood Rides
+01/29/2017,Cross Country,Cat 1,Men,Master,55-64,5,345718,Dwight,GOSS,5 laps @ 01:51:24,Redwood Rides
 01/29/2017,Cross Country,Cat 1,Men,Junior,<19,1,460061,Matthew,SALDANA,5 laps @ 01:29:58,Cycle Sport - Specialized p/b Muscle Milk
 01/29/2017,Cross Country,Cat 1,Men,Junior,<19,2,430223,Julian,LEPELCH,5 laps @ 01:32:28,
 01/29/2017,Cross Country,Cat 1,Men,Junior,<19,3,513639,Stefan,HUBRICH,5 laps @ 01:33:12,M B Lightfighters
 01/29/2017,Cross Country,Cat 1,Men,Junior,<19,4,0,Daniel,REYNOLDS,5 laps @ 01:33:12,Salinas Cowboys
 01/29/2017,Cross Country,Cat 1,Men,Junior,<19,5,0,Nathan,DAVIS,5 laps @ 01:33:12,CycloSport/Specialized
-01/29/2017,Cross Country,Cat 1,Men,Junior,<19,6,0,Caleb,O'HARE,5 laps @ 01:38:06,Oakland Composite
+01/29/2017,Cross Country,Cat 1,Men,Junior,<19,6,542001,Caleb,O'HARE,5 laps @ 01:38:06,Oakland Composite
 01/29/2017,Cross Country,Cat 1,Men,Junior,<19,7,0,McFadden,MAX,5 laps @ 01:38:15,Oakland Composite
 01/29/2017,Cross Country,Cat 1,Men,Junior,<19,8,0,Ethan,KARP,5 laps @ 01:55:51,Alameda High
 01/29/2017,Cross Country,Cat Pro,Women,,,1,206217,Kate,LIGLER,5 laps @ 01:49:16,Equator
@@ -1116,7 +1116,7 @@ Race Date,Race Discipline,Race Category,Race Gender,Race Class,Age,Rider Place,R
 01/29/2017,Cross Country,Cat 2,Women,,19-34,2,0,Jessica,SHIVELY,4 laps @ 01:42:04,Calif Custom Sheds
 01/29/2017,Cross Country,Cat 2,Women,Master,35-44,1,420086,Sumer,AVILA,4 laps @ 01:33:34,Los Gatos
 01/29/2017,Cross Country,Cat 2,Women,Master,45+,1,133001,Kirsten,MCDANIEL,4 laps @ 01:34:01,
-01/29/2017,Cross Country,Cat 2,Women,Master,45+,2,0,Sohie,BARBIER,4 laps @ 01:42:48,
+01/29/2017,Cross Country,Cat 2,Women,Master,45+,2,304031,Sophie,Barbier,4 laps @ 01:42:48,
 01/29/2017,Cross Country,Cat 2,Women,Junior,<19,1,524435,clodagh,MELLETT,-,
 01/29/2017,Cross Country,Cat 2,Women,Junior,<19,2,524033,Aiko,TAKATA,4 laps @ 01:40:54,
 01/29/2017,Cross Country,Cat 2,Women,Junior,<19,3,0,Gabriella,JADUBE,4 laps @ 01:43:09,San Ramon Valley

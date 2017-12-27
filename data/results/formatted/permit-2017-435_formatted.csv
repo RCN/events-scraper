@@ -9,7 +9,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,492633,Jason,Colestock,Minneapolis,MN,,NorthStar Development Cycling
 6,311425,Lane,Johnson,Shawnee Mission,KS,,Move Up Development
 7,340124,Andrew,Lang,Frontenac,MO,,
-8,157753,Trevor,Lister,Springfield ,IL,,The Cyclery Racing Team
+8,157753,Trevor,Lister,Springfield,IL,,The Cyclery Racing Team
 9,480489,Luke,Pearse,Jerseyville,IL,,The Cyclery Racing Team
 10,428327,Zachary,Scharnhorst,Quincy,IL,,Momentum Racing LLC - MO
 11,282794,Michael,Bruzina,Hartsburg,MO,,Kuat Trek P/B A&B Cycle
@@ -24,14 +24,14 @@ Place,License #,First,Last,City,State,Time,Team
 DNF,482541,Chase,Blackburn,Springfield,MO,,Quantum Solutions Intelligentsia
 DNF,275550,JP,Brocket,Overland Park,KS,,Kuat Trek P/B A&B Cycle
 DNF,274810,Peter,Krause,Springfield,MO,,Kuat Trek P/B A&B Cycle
-DNF,370077,Derec,Bass,Carthage ,MO,,
+DNF,370077,Derec,Bass,Carthage,MO,,
 DNF,4563,Brian,Bradley,Blue Springs,MO,,Kuat Trek P/B A&B Cycle
 DNF,343158,Adam,Lang,Weldon Spring,MO,,
 
 03/26/2017 Road Race Men Cat 1/2/3/4/5 Masters 40+
 Place,License #,First,Last,City,State,Time,Team
-1,103984,Ben,Beger,Ofallon,MO,,Momentum Racing LLC - MO
-2,291508,Dathan,Atchison,Branson,MO,,SBC Cycling
+1,103984,Ben,Beger,O Fallon,MO,,Momentum Racing LLC - MO
+2,291508,Dathan,Atchison,Hollister,MO,,SBC Cycling
 3,294031,Jason,Evans,Rogers,AR,,Walmart/GPP Cycling Team
 4,176607,Bill,Sowers,Bentonville,AR,,Walmart/GPP Cycling Team
 5,142599,Randy,Mcintosh,Fort Smith,AR,,
@@ -52,7 +52,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,335998,Gregory,Bennett,Versailles,MO,,
 8,399564,Robert,Ellis,Springfield,MO,,Ozark Cycling Club
 9,224195,Peter,Van Rhein,Springfield,MO,,SBC Cycling
-10,179908,Vince,DeBlasi,Ballwin ,MO,,Pastaria - Big Shark Racing Team
+10,179908,Vince,DeBlasi,Ballwin,MO,,Pastaria - Big Shark Racing Team
 11,240098,Tom,Reinbold,Springfield,MO,,
 12,99543,Michael,Hendrickson,Saint Louis,MO,,
 DNF,532119,Don,Buttram,Lebanon,MO,,
@@ -62,13 +62,13 @@ Place,License #,First,Last,City,State,Time,Team
 1,516799,Jeremy,Grigg,Harrison,AR,,
 2,482135,John,Fratinardo,Saint Louis,MO,,Dogfish/Team Noah
 3,441112,Brian,Grace,Columbia,MO,,Big Tree Cycling
-4,268618,Jaime,Cancel,Fort Smith,AR,,
+4,268618,Jaime,Cancel,Queen Creek,AZ,,
 5,514642,Nick,Hogan,Springfield,MO,,
 6,500463,Toby,Dogwiler,Springfield,MO,,Springfield Brewing Company
 7,505474,Eric,Belk,Springfield,MO,,
 8,425160,Austin,Hess,Springfield,MO,,SBS-PDG
 9,514036,Daniel,Cicha,Farley,MO,,Lindenwood University
-10,403642,Zach,Hatcher,Carthage,MO,,
+10,403642,Zach,Hatcher,Weat Fork,AR,,
 11,391409,Michael,Link,Columbia,MO,,
 12,412507,Michael,Levitsky,Bentonville,AR,,
 13,216001,Wesley,Wright,Harrison,AR,,BRC
@@ -126,5 +126,5 @@ Place,License #,First,Last,City,State,Time,Team
 6,416294,Keziah,Vanderhoff,Centerton,AR,,
 7,440718,Alia,Vanderhoff,Centerton,AR,,
 8,439059,Patti,Vanderhoff,Centerton,AR,,
-9,512425,Tina,Latham,Washington,MO,,
+9,512425,Tina,Latham,Wildwood,MO,,
 10,522379,Taryn,Belcher,Springfield,MO,,Springfield Brewing Company

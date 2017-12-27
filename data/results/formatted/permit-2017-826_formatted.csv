@@ -15,7 +15,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,496599,Sam,Maurer,York,SC,,Psychlotherapy
 4,121604,Harold,Overman,Cary,NC,,Jigawatt Cycling
 5,529463,Fred,Stutzman,Chapel Hill,NC,,
-6,525286,Peter,Van Susteren,Gainesville,FL,,Race City Cycling
+6,525286,Peter,Van Susteren,Davidson,NC,,Race City Cycling
 7,314226,Robert,Morris,Blairs,VA,,
 8,410295,George,Barlow,Ararat,NC,,
 9,439411,Doug,Miller,Winston-salem,NC,,Greensboro Velo Club
@@ -142,7 +142,7 @@ Place,License #,First,Last,City,State,Time,Team
 07/11/2017 Criterium Mixed Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
 1,215681,Marcus,Canady,Raleigh,NC,,NCSU
-2,264350,Kerry,Werner,Birdsboro,PA,,Ken's Bike Shop
+2,264350,Kerry,Werner,Advance,NC,,Ken's Bike Shop
 3,14782,Jonathan,Hamblen,Winston Salem,NC,,Mountain Khakis
 4,440072,Alex,Winnicki,Greensboro,NC,,Cyclus Sports
 5,494707,Zach,Gregg,Roanoke,VA,,
@@ -206,7 +206,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,480876,David,Burstein,Kernersville,NC,,Greensboro Velo Club
 12,227423,Danny,Mathis,East Bend,NC,,Heart's Racing
 13,53395,Sterling,Swaim,Winston Salem,NC,,Benissimo
-14,55745,Bob,Steppe,Tulsa,OK,,
+14,55745,Bob,Steppe,Lewisville,NC,,
 15,200675,Jamie,Godfrey,Apex,NC,,Live It Extreme
 16,50913,Kelly,Holmes,Clemmons,NC,,
 17,51906,Terry,Lanier,High Point,NC,,TEAM MS p/b Herbalife
@@ -220,7 +220,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,14782,Jonathan,Hamblen,Winston Salem,NC,,Mountain Khakis
 3,359308,Richard,Obriant,Fuquay Varina,NC,,NCSU
 4,165037,Patrick,Weddell,Boone ,NC,,Boone Area Cyclists
-5,264350,Kerry,Werner,Birdsboro,PA,,Ken's Bike Shop
+5,264350,Kerry,Werner,Advance,NC,,Ken's Bike Shop
 6,173542,Alex,Ryan,Lewisville,NC,,Mock Orange Bikes
 7,114738,Jason,Williams,Winston Salem,NC,,Hearts Racing Club/ Hearts Racing Club
 8,215681,Marcus,Canady,Raleigh,NC,,NCSU
@@ -293,7 +293,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,121604,Harold,Overman,Cary,NC,,Jigawatt Cycling
 15,482120,Shannon,Goyda,Clemmons,NC,,Greensboro Velo Club
 16,410826,Joe,Briscoe,Clemmons,NC,,TEAM MS p/b Herbalife
-17,55745,Bob,Steppe,Tulsa,OK,,
+17,55745,Bob,Steppe,Lewisville,NC,,
 18,432132,Paul,Wagner,Clemmons,NC,,North Carolina State University at Raleigh
 19,400233,Alan,White,High Point,NC,,
 
@@ -322,7 +322,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 05/16/2017 Criterium Women Cat 4/5
 Place,License #,First,Last,City,State,Time,Team
-1,531471,Paige,Bower,Wake Forest,NC,,Team Spoke Cycles
+1,531471,Paige,Bower,Raleigh,NC,,Team Spoke Cycles
 2,523609,Lauren,Phillips,Raleigh,NC,,
 3,492958,Elizabeth,Salazar Garcia,Winston Salem,NC,,Heart's Racing Club
 
@@ -365,7 +365,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,59460,Noah,Byrd,Durham,NC,,The Electric Banana Cycling Project p/b FSC Racing
 7,443434,Erik,Olshall,Winston-salem,NC,,Clemmons Bicycle Racing
 8,384911,Clay,Lanier,High Point,NC,,TEAM MS p/b Herbalife
-9,55745,Bob,Steppe,Tulsa,OK,,
+9,55745,Bob,Steppe,Lewisville,NC,,
 10,368515,Daniel,Cox,Pleasant Garden,NC,,Cone Health/cycles de ORO
 11,497590,Devin,Jones,Mooresville,NC,,
 12,237066,Jason,Chapple,Winston Salem,NC,,Benissimo
@@ -410,7 +410,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,294925,Scott,Hoffner,Winston Salem,NC,,
 17,32470,Randy,Shields,Winston Salem,NC,,Hearts Racing Club
 18,224321,Casey,Vedder,Mount Airy,NC,,Hearts Racing Club
-19,264350,Kerry,Werner,Birdsboro,PA,,Ken's Bike Shop
+19,264350,Kerry,Werner,Advance,NC,,Ken's Bike Shop
 20,208605,Joseph,Carpisassi,Winston Salem,NC,,Happy Tooth Racing
 21,14782,Jonathan,Hamblen,Winston Salem,NC,,Mountain Khakis
 22,424414,Carlos,Zamarripa,Cary,NC,,Jigawatt Cycling
@@ -456,7 +456,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,53395,Sterling,Swaim,Winston Salem,NC,,Benissimo
 8,443434,Erik,Olshall,Winston-salem,NC,,Clemmons Bicycle Racing
 9,478105,Lucas,Rugani,Durham,NC,,
-10,55745,Bob,Steppe,Tulsa,OK,,
+10,55745,Bob,Steppe,Lewisville,NC,,
 11,349074,Louis,Moschetta,Clemmons,NC,,Clemmons Bicycle Racing
 12,155616,Curtis,Staples,Apex,NC,,Team Spoke Cycles p/b Carolina Ale House
 13,301045,Thomas,Poole,Winston Salem,NC,,Wake Forest University
@@ -472,7 +472,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,181571,Richard,Nance,Winston Salem,NC,,Hearts Racing Club
 5,152254,Zach,Lail,Winston Salem,NC,,Mock Orange Bikes
 6,233795,Jeffrey Clint,Hennessee,Lincolnton,NC,,
-7,264350,Kerry,Werner,Birdsboro,PA,,Ken's Bike Shop
+7,264350,Kerry,Werner,Advance,NC,,Ken's Bike Shop
 8,161583,Travis,Livermon,Winston Salem,NC,,
 9,66729,Lee,Reavis,Winston Salem,NC,,Modry/Evergreen Partners
 10,281614,Paul,Mesi,Winston-salem,NC,,Jigawatt Cycling
@@ -513,9 +513,9 @@ Place,License #,First,Last,City,State,Time,Team
 1,442975,Matthew,Sloyer,Raleigh,NC,,Boone Area Cyclists
 2,484523,William,Hardin,Winston Salem,NC,,Hearts Racing Club
 3,427637,David,Twomley,Winston Salem,NC,,
-4,220876,Katherine,Shields,Advance,NC,,OrthoCarolina Winston Womens Cycling
+4,220876,Katherine,Shields,Salt Lake City,UT,,OrthoCarolina Winston Womens Cycling
 5,524769,Grant,Edwards,Boone,NC,,Appalachian State University
-6,55745,Bob,Steppe,Tulsa,OK,,
+6,55745,Bob,Steppe,Lewisville,NC,,
 7,384911,Clay,Lanier,High Point,NC,,University of North Carolina at Greensboro
 8,481007,Henrik,Kragerup,Raleigh,NC,,Jigawatt Cycling
 9,443434,Erik,Olshall,Winston-salem,NC,,Clemmons Bicycle Racing
@@ -590,7 +590,7 @@ DNS,458829,Ben,Hostetler,Stokesdale,NC,,
 
 04/04/2017 Criterium Mixed Cat 3/4
 Place,License #,First,Last,City,State,Time,Team
-1,339024,Rick,Williams,Apex ,NC,,Jigawatt Cycling
+1,339024,Rick,Williams,Cary,NC,,Jigawatt Cycling
 2,59460,Noah,Byrd,Durham,NC,,The Electric Banana Cycling Project p/b FSC Racing
 3,277393,Mitch,Hopkins,Winston Salem,NC,,Cycletherapy
 4,384911,Clay,Lanier,High Point,NC,,University of North Carolina at Greensboro
@@ -605,7 +605,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,400233,Alan,White,High Point,NC,,
 14,478105,Lucas,Rugani,Durham,NC,,
 15,53395,Sterling,Swaim,Winston Salem,NC,,Benissimo
-16,220876,Katherine,Shields,Advance,NC,,OrthoCarolina Winston Womens Cycling
+16,220876,Katherine,Shields,Salt Lake City,UT,,OrthoCarolina Winston Womens Cycling
 17,424414,Carlos,Zamarripa,Cary,NC,,Jigawatt Cycling
 18,486920,AJay,Jackson,Leesville,LA,,Cross Creek Cycling Club-C4
 19,410826,Joe,Briscoe,Clemmons,NC,,TEAM MS p/b Herbalife
@@ -614,7 +614,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,396097,Nikolaus,Smith,Cary,NC,,Jigawatt Cycling
 23,312722,Jacqueline,Flynn,Winston Salem,NC,,Hearts Racing Club
 24,340182,Raul,GutierrezGarcia,High Point,NC,,Cone Health/cycles de ORO
-25,55745,Bob,Steppe,Tulsa,OK,,
+25,55745,Bob,Steppe,Lewisville,NC,,
 26,155616,Curtis,Staples,Apex,NC,,Team Spoke Cycles p/b Carolina Ale House
 DNS,458829,Ben,Hostetler,Stokesdale,NC,,West Virginia University
 
@@ -636,10 +636,10 @@ Place,License #,First,Last,City,State,Time,Team
 14,208605,Joseph,Carpisassi,Winston Salem,NC,,Happy Tooth Racing
 15,224321,Casey,Vedder,Mount Airy,NC,,Hearts Racing Club
 16,424414,Carlos,Zamarripa,Cary,NC,,Jigawatt Cycling
-17,264350,Kerry,Werner,Birdsboro,PA,,Ken's Bike Shop
-18,339024,Rick,Williams,Apex ,NC,,Jigawatt Cycling
+17,264350,Kerry,Werner,Advance,NC,,Ken's Bike Shop
+18,339024,Rick,Williams,Cary,NC,,Jigawatt Cycling
 19,40582,James,Bennett,Winston Salem,NC,,Boone Area Cyclists
-20,220876,Katherine,Shields,Advance,NC,,OrthoCarolina Winston Womens Cycling
+20,220876,Katherine,Shields,Salt Lake City,UT,,OrthoCarolina Winston Womens Cycling
 21,220875,Emily,Shields,Advance,NC,,Carolina Masters / OrthoCarolina Winston Womens Cycling - See more at: https://w
 DNF,152254,Zach,Lail,Winston Salem,NC,,Mock Orange Bikes
 DNF,340182,Raul,GutierrezGarcia,High Point,NC,,Cone Health/cycles de ORO
@@ -696,7 +696,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,392979,Mark,Edwards,Greensboro,NC,,Greensboro Velo Club
 13,345324,Lamont,Wilson,High Point,NC,,Greensboro Velo Club
 14,53395,Sterling,Swaim,Winston Salem,NC,,Benissimo
-15,55745,Bob,Steppe,Tulsa,OK,,
+15,55745,Bob,Steppe,Lewisville,NC,,
 16,458829,Ben,Hostetler,Stokesdale,NC,,
 17,277422,James,Fender,Thomasville,NC,,Clemmons Bicycle Racing
 18,478105,Lucas,Rugani,Durham,NC,,
@@ -706,7 +706,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,368515,Daniel,Cox,Pleasant Garden,NC,,Cone Health/cycles de ORO
 23,396097,Nikolaus,Smith,Cary,NC,,Jigawatt Cycling
 24,481007,Henrik,Kragerup,Raleigh,NC,,Team Spoke Cycles p/b Carolina Ale House
-25,220876,Katherine,Shields,Advance,NC,,OrthoCarolina Winston Womens Cycling
+25,220876,Katherine,Shields,Salt Lake City,UT,,OrthoCarolina Winston Womens Cycling
 26,155616,Curtis,Staples,Apex,NC,,Team Spoke Cycles p/b Carolina Ale House
 27,227423,Danny,Mathis,East Bend,NC,,Heart's Racing
 28,21945,Dean,Lyons,Boone,NC,,Boone Velo
@@ -724,7 +724,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,376024,Charkie,Huegel,Greensboro,NC,,Revolting Cogs
 6,233795,Jeffrey Clint,Hennessee,Lincolnton,NC,,
 7,389699,Phillip,Short,Greensboro,NC,,Nine Lives Carbon Repair
-8,264350,Kerry,Werner,Birdsboro,PA,,Ken's Bike Shop
+8,264350,Kerry,Werner,Advance,NC,,Ken's Bike Shop
 9,193689,Brandon,McKeever,Boone,NC,,
 10,181571,Richard,Nance,Winston Salem,NC,,Hearts Racing Club
 11,215681,Marcus,Canady,Raleigh,NC,,NCSU

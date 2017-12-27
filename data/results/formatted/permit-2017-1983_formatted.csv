@@ -12,7 +12,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,252055,Peter,Czerwinski,Dublin,OH,,
 5,100804,Terry,Griffith,New Albany,OH,,Trek Bicycle Columbus
 6,406551,Perry,Parr,Cincinnati,OH,,
-7,538154,John,Lambert,Mason,OH,,
+7,393024,John,Lambert,Greensboro,NC,,
 8,141848,John,Gagnet,Montgomery,OH,,
 9,190519,David,Linden,Yellow Springs,OH,,
 10,380954,Joseph,Ipacs,Athens,OH,,
@@ -76,7 +76,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,482220,Benjamin,Meer,Columbus,OH,,
 2,380376,Eric,Bair,West Chester,OH,,11elevenCycling p/b INFINIT Nutrition
-3,149656,Ryan,Gamm,Bexley ,OH,,
+3,149656,Ryan,Gamm,Bexley,OH,,
 4,345876,Zachary,Lewis,Cincinnati,OH,,11elevenCycling p/b INFINIT Nutrition
 5,354896,Blair,Lyons,Mason,OH,,
 6,354944,Shawn,Aker,Columbus,OH,,
@@ -127,7 +127,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,537524,Andrew,Hearing,Harrison,OH,,
 DNS,499759,Derek,Fischer,Beavercreek,OH,,Team Dayton Bicycling
 DNS,511406,Brian,Wade,Cincinnati,OH,,
-DNF,504812,Justin,Floyd,Carmel,IN,,
+DNF,504812,Justin,Floyd,Indianapolis,IN,,
 
 07/23/2017 Road Race Men Cat 4
 Place,License #,First,Last,City,State,Time,Team
@@ -141,7 +141,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,393061,Joseph,Lawhorn,Chillicothe,OH,,Team Dayton Bicycling
 9,394144,Adam,Osterling,Worthington,OH,,Audi
 10,525289,Patrick,Warren,Columbus,OH,,
-11,301490,Breton,Minnehan,Rochester,NY,,RIT Cycling
+11,301490,Breton,Minnehan,Hopkinton,NH,,RIT Cycling
 12,526682,Brandon,Grant,Fairborn,OH,,
 13,375568,Nick,Klosterman,Dayton,OH,,Team Ghisallo
 14,355504,Ryan,Havlicek,Ashley,OH,,
@@ -151,7 +151,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,425367,Jason,Tellez,Lebanon,OH,,Team Ghisallo
 19,340938,Mike,Chandler,Bowling Green,OH,,Red Bike
 DNS,530001,Bryan,Arko,Cincinnati,OH,,Queen City Wheels
-DNS,405195,Adam,Goodale,Cincinnati,OH,,
+DNS,405195,Adam,Goodale,Madeira,OH,,
 DNF,410898,Levi,Gaswint,Findlay,OH,,
 DNF,351726,Christopher,Santos,Lafayette ,IN,,
 
@@ -172,8 +172,8 @@ Place,License #,First,Last,City,State,Time,Team
 13,404075,Michael,Lorentz,Blue Ash,OH,,Team Dayton Bicycling
 14,384989,Stephen,Herman,Dayton,OH,,Team Dayton Bicycling
 15,394748,Kyle,Zander,Westerville,OH,,Audi
-DNF,245953,Nelson,Gaker,Oxford ,OH,,
-DNF,231392,David,Rich,Galloway,OH,,
+DNF,245953,Nelson,Gaker,Oxford,OH,,
+DNF,231392,David,Rich,Cedarville,OH,,
 DNF,421156,Robert,Parsons,Hilliard,OH,,Audi
 
 07/23/2017 Road Race Women Women 4/5

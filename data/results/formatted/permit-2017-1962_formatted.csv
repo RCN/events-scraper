@@ -8,7 +8,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,274367,Allan,REGO,New York,NY,s.t.,Crca/lupus Racing Team
 5,439902,Ralph,PAHLMEYER,Brooklyn,NY,s.t.,Crca / E2value
 6,0,Stephen,ALEXANDER,,,s.t.,Crca/foundation
-7,378837,Bill,ASH,Philadelphia,PA,s.t.,Crca/foundation
+7,378837,Bill,ASH,New York ,NY,s.t.,Crca/foundation
 8,382132,Paskal,LAMOUR,New York,NY,s.t.,Crca/blue Ribbon-pennell Ventur
 9,413052,Baris,AYTAN,Brooklyn,NY,s.t.,Crca/e2value
 10,414477,Jonas,GUSTAFSSON,Brooklyn,NY,s.t.,Crca/rockstar Games
@@ -19,7 +19,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,234631,Salvatore,SCOTTO DIVETTA,Brooklyn,NY,s.t.,Team Metra / Xrcel / Cycles 54
 16,386892,Jesus,MARTINEZ,Brooklyn,NY,s.t.,Crca/nycc Racing P/b Bgc Partne
 17,92839,Karl,RAHN,New York,NY,s.t.,Crca/the Weather Channel Specia
-18,238008,Alejandro,GUZMAN,New York,NY,s.t.,Crca/foundation
+18,238008,Alejandro,GUZMAN,New York ,NY,s.t.,Crca/foundation
 19,164040,Jermaine,BURROWES,Brooklyn,NY,s.t.,Mangoseed/zurilee Restaurant
 20,295708,Sam,MORKAL-WILLIAMS,Briarcliff Manor,NY,s.t.,Crca/foundation
 21,352948,Colin,CAVALIERE,Concord,NC,s.t.,
@@ -52,7 +52,7 @@ Place,License #,First,Last,City,State,Time,Team
 48,243357,Juan,PIMENTEL JR.,Maywood,NJ,20,Lupus Racing Team
 49,384013,Alex,SANBORN,New York,NY,23,Crca/foundation
 50,89253,Edward,BENNETT,Columbus,NJ,25,Crca/lupus Racing Team
-51,353108,Jesse,WALKER,Brooklyn,NY,1:41,Crca/e2value
+51,353108,Jesse,WALKER,New York,NY,1:41,Crca/e2value
 52,309324,Dominic,CAIAZZO,Bronx,NY,2:38,Crca/lupus Racing Team
 53,157989,Robert,LATTANZI,New York,NY,3:39,Crca/lupus Racing Team
 54,44238,Marc,BERTUCCO,New York,NY,7:26,
@@ -72,7 +72,7 @@ DNF,211807,Michael,MARGARITE,New York,NY,,Crca/the Weather Channel Specialized C
 DNF,428526,Jason,GUZMAN,Brooklyn,NY,,Crca/dave Jordan Racing
 DNF,312550,Wyatt,GORAL,Andover,NJ,,Ccb Velotooler
 DNF,24736,Kevin,MOLLOY,New York,NY,,Crca / The Weather Channel Specialized Cycling Team
-DNF,215328,Nathan,LARSON,Erie,PA,,
+DNF,215328,Nathan,LARSON,Brooklyn,NY,,
 DNF,258520,Franklin,BURGOS,Bronx,NY,,Crca/dave Jordan Racing
 DNF,0,Hamzah,EASTMAN,,,,Team Coco's
 DNF,418523,Woody,BAUM,New York,NY,,Crca/rockstar Games
@@ -122,8 +122,8 @@ Place,License #,First,Last,City,State,Time,Team
 27,469295,Alexander,SOPCHAK,New York,NY,14,
 28,414389,Alvin,BERMUDEZ,Hainesport,NJ,16,
 29,481196,Scotty,PLUSCHAU,Calverton,NY,s.t.,
-30,429731,Byungkyun,KIM,Jersey City,NJ,s.t.,
-31,505712,Leonardo,LOPEZ,Edison ,NJ,20,Liberty Cycles
+30,429731,Byungkyun,KIM,Hoboken,NJ,s.t.,
+31,505712,Leonardo,LOPEZ,Edison,NJ,20,Liberty Cycles
 32,127921,Adam,WERDENSCHLAG,New York,NY,1:14,Equinox
 33,533570,Francis,HOMBREBUENO,Sayreville,NJ,3:28,P.o.b.r.e.
 34,534083,Jonathan,TOM,New York,NY,9:39,
@@ -152,7 +152,7 @@ DNF,524918,Miguel,GOMEZ,Fresh Meadows,NY,,Cuevas Cycling Development
 07/23/2017 Road Race Men Cat4 Open
 Place,License #,First,Last,City,State,Time,Team
 1,527022,William,DOWNING,New York,NY,1:44:56,Crca/foundation
-2,528365,Quintin,CHIAPPERINO,Whitestone,NY,s.t.,Mineola Bicycle Racing Team
+2,528365,Quintin,CHIAPPERINO,Austin,TX,s.t.,Mineola Bicycle Racing Team
 3,343774,Colin,WALMSLEY,New York,NY,s.t.,Crca/good Guys Racing P/b Highw
 4,523817,William,WEIGAND,Brooklyn Ny,NY,s.t.,Crca / Team Patch.com
 5,500175,David,MCNALLY,Brooklyn,NY,s.t.,Crca/rapha Cycling Club
@@ -199,7 +199,7 @@ Place,License #,First,Last,City,State,Time,Team
 46,523046,Derek,HUNT,Brooklyn,NY,s.t.,Crca / Rapha
 47,422212,Tomas,MARTINEZ,New York,NY,s.t.,Fire Cycling Team
 48,509841,Jon,TZE,Ridgewood,NJ,15,Montclair Bikery Development Te
-49,511397,Raymundo,TORRES,Fort Lee,NJ,47,Crca/nycc Racing P/b Bgc Partne
+49,511397,Raymundo,TORRES,Old Tappan,NJ,47,Crca/nycc Racing P/b Bgc Partne
 50,460187,James,GILBERT,New York,NY,49,Crca/nycc Racing P/b Bgc Partne
 51,499435,Ryan,SINGH,Boston,MA,1:38,Monster Media P/b Butcher Box
 52,502337,Jose,CORTEZ,Bronx,NY,3:05,Fire Cycling Team
@@ -208,7 +208,7 @@ Place,License #,First,Last,City,State,Time,Team
 55,495159,John,BEARDSLEY,Brooklyn,NY,6:29,Crca/nycc Racing P/b Bgc Partne
 56,501757,Jonathan,TREVETT,Brooklyn,NY,9:28,Team Patch.com
 DNS,460769,Devin,CARRICK,New York,NY,,
-DNS,428001,Cody,CORONA,New York,NY,,Crca/rockstar Games
+DNS,428001,Cody,CORONA,Marina Del Rey,CA,,Crca/rockstar Games
 DNS,163845,Desmond,GRIFFITH,Brooklyn,NY,,
 DNS,157023,Mikael,HANSON,New York,NY,,Crc Development Foundation
 DNS,404541,Robert,KING,New York,NY,,Crca/rapha Cycling Club
@@ -222,7 +222,7 @@ DNS,271741,Robert,WEITZNER,New York,NY,,Crca/foundation
 DNF,333558,Laurent,GRAS,New York,NY,,Crca/foundation
 DNF,466098,Joshua,NOGGLE,New York,NY,,Crca/rbny Racing - Verge Sports
 DNF,468175,Eric,LOEHLE,Georgetown,MA,,Monster Media Racing P/b Butcher Box
-DNF,460312,Allan,GANLY,Astoria,NY,,Nycc Racing/pb Bgc Partners
+DNF,460312,Allan,GANLY,Weehawken,NJ,,Nycc Racing/pb Bgc Partners
 DNF,532387,Max,ROBINS,Huntington,NY,,
 DNF,411391,Alex,FEDERMAN,New York,NY,,
 DNF,448422,Edward,SHIRES,Brooklyn,NY,,Crca/foundation
@@ -269,11 +269,11 @@ Place,License #,First,Last,City,State,Time,Team
 27,332606,Michael,KUEHN,New York,NY,s.t.,Crca / Team Veselka P/b Cafe Gr
 28,438702,William,LAUNDER,West Orange,NJ,s.t.,Montclair Bikery Racing
 29,242817,Raul,GALLIANO,Secaucus,NJ,s.t.,Drv
-30,158787,Wasyel,DANYSH,New Providence ,NJ,s.t.,Us Military Endurance Sports
+30,158787,Wasyel,DANYSH,New Providence,NJ,s.t.,Us Military Endurance Sports
 31,204305,Ben,HUGHES,New York,NY,s.t.,Crca/rockstar Games
 32,148543,Jerry,MARTINEZ,Fort Lee,NJ,s.t.,Brauer/mick
 33,503218,Giona,FABBRI,Brooklyn,NY,s.t.,Crca Development Foundation
-34,466154,Eamonn,SCHNELL,Brooklyn,NY,s.t.,Crca/century Road Club Developm
+34,466154,Eamonn,SCHNELL,Oberlin,OH,s.t.,Crca/century Road Club Developm
 35,47868,Romel,CAMPBELL,Dumont,NJ,s.t.,Westwood Velo
 36,275606,Marc,GAGLIANO,Westport,CT,s.t.,Crca Blue Ribbon
 37,211564,Marcello,RODIO,Clifton,NJ,7,Montclair Bikery Racing
@@ -287,7 +287,7 @@ Place,License #,First,Last,City,State,Time,Team
 45,395484,Sean,ROACH,Tarrytown,NY,1:52,Iron Bridge/tarmac Cycling
 46,229233,Jason,GALLACHER,Brooklyn,NY,2:25,Affinity Cycles
 47,113096,Greg,CAMPI,Shrewsbury,NJ,s.t.,Colavita Midatlantic/colavitara
-48,422489,Uber,URIBE,Montclair ,NJ,2:50,Montclair Bikery Racing
+48,422489,Uber,URIBE,Montclair,NJ,2:50,Montclair Bikery Racing
 DNS,205789,Zak,ABDULLAH,New York,NY,,
 DNS,248001,Michael,BECKERMAN,Ridgewood,NJ,,Crca / Team Veselka P/b Cafe Grumpy
 DNS,412788,Thomas,BEST,Ny,NY,,Crca/dave Jordan Racing

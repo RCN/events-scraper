@@ -26,7 +26,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,534948,Stephen,Mauriello,Morristown,NJ,26:49.0,0
 18,306016,Robert Ryan,Clark,Bordentown,NJ,27:04.0,Team B3 Cycling
 19,509904,Paul,Michael,Doylestown,PA,27:28.0,Pure Energy Cycling
-20,525439,Arthur,Noland,Staten Island New York,NY,27:44.0,Colavita Racing
+20,525439,Arthur,Noland,Lake Mary,FL,27:44.0,Colavita Racing
 21,514179,Albert,Sayers,Pelham,NY,27:57.0,Team Pro Power Coaching
 22,499631,Simon,Miller,Stamford,CT,28:57.0,0
 23,467760,James,Duffy,North Branch,NJ,30:14.0,Team Somerset
@@ -63,7 +63,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,219569,Rodrigo,Rubiano,Randolph,NJ,23:10.0,Westwood Velo
 9,223048,Jeff,Lamb,Basking Ridge,NJ,23:24.0,Team Pro Power Coaching
 10,424213,Christopher,Dudko,Hastings On Hudson,NY,23:26.0,Rivertowns Racing
-11,523099,James,Griffin,East Windsor,NJ,23:44.0,Team B3 Cycling
+11,377316,James,Griffin,East Windsor,NJ,23:44.0,Team B3 Cycling
 12,503010,Juan,Colon,Annandale,NJ,24:19.0,Century Road Club of America
 13,534931,Christopher,Shelton,Philadelphia,PA,DNS/DNF,QCW Cycling p.b. Breakawaybikes.com
 14,432389,Christopher,Geiser,Staten Island,NY,DNS/DNF,0
@@ -75,7 +75,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,400361,Mark,Detweiler,Royersford,PA,20:57.0,Blue Bell Private Wealth Management p/b Cannondale
 4,428864,Jeffrey,Watts,Saint Peters,PA,22:03.0,Blue Bell Private Wealth Management p/b Cannondale
 5,498106,Masaharu,Ito,Elmhurst,NY,22:25.0,CRCA / Team VESELKA p/b Cafe Grumpy
-6,192230,Mark,Cowin,Frederica ,DE,22:40.0,Pro Pedals Racing
+6,192230,Mark,Cowin,Frederica,DE,22:40.0,Pro Pedals Racing
 7,234631,Salvatore,Scotto DiVetta,Brooklyn,NY,22:46.0,Team Metra / Xrcel / Cycles 54
 8,186969,Tatsuo,Imaishi,Oradell,NJ,23:16.0,Strictly Bicycles
 9,428309,Leo,Kirkpatrick Baird,Bernardsville,NJ,DNS/DNF,KMS Cycling - Killington Mountain School
@@ -98,7 +98,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 06/10/2017 Time Trial Men Masters 35+
 Place,License #,First,Last,City,State,Time,Team
-1,189842,Andreas,Runggatscher,Monroe,NY,20:34.0,FinKraft Cycling Team
+1,189842,Andreas,Runggatscher,Chester,NY,20:34.0,FinKraft Cycling Team
 2,300110,David,Gardner,Milford,NJ,21:04.0,TorcUP cycling
 3,231403,Robert,Rakowitz,New York,NY,21:53.0,CRCA/RBNY Racing - Verge Sport
 4,473124,Brent,Vollrath,Blue Bell,PA,22:17.0,Blue Bell Private Wealth Management p/b Cannondale
@@ -135,7 +135,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,53227,Joseph,Manacchio,Philadelphia,PA,22:32.0,Guy's Racing Club
 7,59096,Steven,Petouvis,Long Valley,NJ,22:39.0,Liberty Cycle
 8,226542,David,Hilton,Philadelphia,PA,22:40.0,PA Masters
-9,70511,Robert,Casciato,Chester Springs,PA,23:22.0,PA Masters
+9,70511,Robert,Casciato,Chestersprings,PA,23:22.0,PA Masters
 10,18404,Jim,Kaeli,Rockaway,NJ,23:40.0,Colavita Racing Inc
 11,412339,Kevin,Jones,Vienna,VA,24:00.0,Syn-Fit Race Team
 12,15376,Mark,Hastings,Philadelphia,PA,24:03.0,QCW Cycling p.b. Breakawaybikes.com
@@ -147,13 +147,13 @@ Place,License #,First,Last,City,State,Time,Team
 18,45887,Joe,Saling,Bridgewater,NJ,25:50.0,Team Somerset
 19,61162,Kevin,Greene,Philadelphia,PA,28:10.0,QCW Cycling p.b. breakawaybikes.com
 20,173333,Steve,Barnes,Phoenixville,PA,28:45.0,Guys Racing Club
-21,64565,Christopher,Byrne,Boonton,NJ,29:51.0,BYRNE International LLC
-22,192230,Mark,Cowin,Frederica ,DE,DNS/DNF,Pro Pedals Racing
+21,64565,Christopher,Byrne,Boonton Township,NJ,29:51.0,BYRNE International LLC
+22,192230,Mark,Cowin,Frederica,DE,DNS/DNF,Pro Pedals Racing
 
 06/10/2017 Time Trial Men Junior 9-12
 Place,License #,First,Last,City,State,Time,Team
 1,521181,Lukas,Donnelly,Boonton,NJ,36:50.0,Byrne International LLC
-2,504757,Thomas,Byrne,Boonton Township ,NJ,39:15.0,BYRNE International LLC
+2,504757,Thomas,Byrne,Boonton Township,NJ,39:15.0,BYRNE International LLC
 DNF,458677,DJ,Toback,Merrick,NY,DNS/DNF,Cuevas Cycling Development
 
 06/10/2017 Time Trial Women Cat 1/2/3/4/5

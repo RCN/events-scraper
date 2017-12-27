@@ -6,7 +6,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,472870,Julio,Padilla,,,,Team Arapahoe Resources
 3,160295,Frank,Travieso,Athens,GA,,706 Project
 4,221975,Oscar,Clark,Athens,GA,,Holowesko/Citadel p/b Hincapie Sportswear
-5,211435,zack,allison,Fort Collins ,CO,,Team Clif Bar
+5,211435,zack,allison,Fort Collins,CO,,Team Clif Bar
 6,194743,Winston,David,Greenville,SC,,Palmetto State Medical Elite Cycling Team
 7,269189,Alejandro,Padilla,Lebanon,TN,,Team Arapahoe Resources
 8,0,Florenz,Kanuer,,,,Stradalli Cycle/ Safetti
@@ -47,7 +47,7 @@ Place,License #,First,Last,City,State,Time,Team
 43,399422,Samuel,Kieffer,Dublin,OH,,Texas Roadhouse
 44,0,David,Dawson,,,,Team Skyline
 45,58428,Marco,Aledia,Worthington,OH,,Texas Roadhouse
-46,431682,Osias,Lozano,Bluffton,SC,,Hilton Head Cycling/BlufftonBikes/RobsonForensics
+46,218915,Osias,Lozano,Ocoee,FL,,Hilton Head Cycling/BlufftonBikes/RobsonForensics
 47,278167,Carlos,Norena,Greenville ,SC,,
 48,0,Corey,Davis,,,,Support Clean Sport / SeaSucker / Guttenplan Coaching
 49,481597,Hamish,Beadle,Alpharetta,GA,,Team Novo Nordisk Development
@@ -63,7 +63,7 @@ Place,License #,First,Last,City,State,Time,Team
 59,0,Devin,Reavis,,,,HC Devo Elite p/b Monster Media
 60,0,Tom,Godfrey,,,,NCVC/UnitedHealthcare
 61,296101,Frank,Cundiff,North Chesterfield,VA,,
-62,231409,lucas,fortini,Fairfield,CT,,Race CF
+62,231409,lucas,fortini,Arlington,MA,,Race CF
 63,376024,Charkie,Huegel,Greensboro,NC,,Nine Lives Carbon Repair
 64,70612,Andrew,Crater,Greenville ,SC,,Stradalli Cycle/ Safetti
 65,0,Ignazio,Moser,,,,team cinelli chrome
@@ -127,7 +127,7 @@ Place,License #,First,Last,City,State,Time,Team
 04/26/2017 Criterium Men Masters 35+
 Place,License #,First,Last,City,State,Time,Team
 1,290271,Matthew,Tebbetts,Greenville,SC,,
-2,58176,Nathan,Rogut,Tampa,FL,,Velobrew--AV Homes
+2,58176,Nathan,Rogut,Rock Hill,SC,,Velobrew--AV Homes
 3,57055,Kirk,Corsello,Lilburn,GA,,Next Moto Champion p/b Roswell
 4,108976,Curtis,Long,Atlantic Beach,FL,,Florida Velo
 5,137827,Willie,Payton,Brooklyn,NY,,Death Row Velo p/b Ridgewood Cy
@@ -146,7 +146,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 04/26/2017 Criterium Women Pro/Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
-1,509477,Peta,Mullens,Tulsa,OK,,Hagens Berman Supermint
+1,509477,Peta,Mullens,Oceanside,CA,,Hagens Berman Supermint
 2,36345,Laura,Van Gilder,Cresco,PA,,Mellow Mushroom Pizza Bakers p/b Van Dessel
 3,529804,Caroline,Baur,,,,RMV Elgg/SUI
 4,41951,Tina,Pic,Bountiful,UT,,Papa John'sRacing p/b Trek
@@ -161,7 +161,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,0,Catherine,Ouellette,,,,The cyclery-4iiii
 14,395130,Melanie,Beale,Boulder,CO,,LA Sweat
 15,357580,Emily,Spence,Brooklyn,NY,,mellow mushroom
-16,267467,Christy,Keely,Greenville ,SC,,Fearless Femme Racing
+16,267467,Christy,Keely,Greenville,SC,,Fearless Femme Racing
 17,395081,Brenna,Wrye-Simpson,Portland,OR,,LA Sweat
 18,0,Emily,Flynn,,,,The Cyclery-4iiii
 19,418029,Ariane,Bonhomme,,,,The Cyclery-4iiii

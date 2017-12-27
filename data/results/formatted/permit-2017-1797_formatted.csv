@@ -23,7 +23,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,494676,David,SHUCK,Old Saybrook,CT,s.t.,CRCA/Rockstar Games
 20,386892,jesus,MARTINEZ,Brooklyn,NY,s.t.,CRCA/NYCC Racing p/b BGC Partne
 21,0,Cantin,DOMINIC,,,s.t.,LowestRates.ca Cycling Team
-22,238008,Alejandro,GUZMAN,New York,NY,s.t.,CRCA/Foundation
+22,238008,Alejandro,GUZMAN,New York ,NY,s.t.,CRCA/Foundation
 23,367152,Greg,HRUBY,New York,NY,s.t.,CRCA/Rockstar Games
 24,27167,Adam,PANTASTICO,Cranford,NJ,s.t.,Meta Cycles/Excel/Cycles54
 25,160265,Peter,Lehmann Nielsen,Brooklyn,NY,s.t.,Liberty Cycle
@@ -31,7 +31,7 @@ Place,License #,First,Last,City,State,Time,Team
 27,234631,Salvatore,SCOTTO DIVETTA,Brooklyn,NY,s.t.,Team Metra / Xrcel / Cycles 54
 28,340554,Samuel,NUSSENZWEIG,Chevy Chase,MD,s.t.,Columbia University Cycling
 29,0,Enmanuel Eduardo,NUNEZ MARZAN,,,s.t.,TALENT CYCLES NYC
-30,413503,Donovan,CLARKE,Woodside,NY,s.t.,CRCA/The Weather Channel Specia
+30,413503,Donovan,CLARKE,Philadelphia,PA,s.t.,CRCA/The Weather Channel Specia
 31,187485,Hammean,WALKER,Bronx,NY,s.t.,M. Taylor Racing Team N.Y.
 32,201087,jon paul,RORECH,Brooklyn,NY,8,Deno's Wonder Wheel
 33,164040,Jermaine,BURROWES,Brooklyn,NY,s.t.,Mangoseed/Zurilee restaurant
@@ -57,7 +57,7 @@ Place,License #,First,Last,City,State,Time,Team
 53,278103,Gerald,ADASAVAGE,Brooklyn,NY,s.t.,CRCA/The Weather Channel Specia
 54,151319,guillaume,NELESSEN,Lambertville,NJ,s.t.,Van Dessel Factory Team
 55,300507,Richard,SCUDNEY,New York,NY,21,CRCA/To Be Determined
-56,378837,Bill,ASH,Philadelphia,PA,s.t.,NYC Velo
+56,378837,Bill,ASH,New York ,NY,s.t.,NYC Velo
 57,211807,Michael,MARGARITE,New York,NY,s.t.,CRCA/The Weather Channel Specia
 58,178966,Michael,CHAUNER,West Chester,PA,25,PA Lightning
 59,60376,Paul,CARBONARA,Brooklyn,NY,30,CRCA/AXIS
@@ -97,7 +97,7 @@ DNF,414477,Jonas,GUSTAFSSON,Brooklyn,NY,,CRCA/Rockstar Games
 DNF,460441,ALEX,LIGHTMAN,Brooklyn,NY,,The 5th Floor NYC
 DNF,53895,Oscar,PINEDA,River Vale,NJ,,Montclair biker racing
 DNF,172065,David,TAYLOR,New York,NY,,CRCA /NY Vision - Fuoriclasse
-DNF,353108,Jesse,WALKER,Brooklyn,NY,,CRCA/e2Value
+DNF,353108,Jesse,WALKER,New York,NY,,CRCA/e2Value
 DNF,508429,Juan,SuarezCastillo,New York,NY,,CRCA/NYCC Racing p/b BGC Partners
 DNF,167341,David,WELLS,Princeton,NJ,,Van Dessel Factory Team
 DNF,193990,Anthony,LOWE,Brooklyn,NY,,WS United/MangoSeed/Lucarelli&Castaldi
@@ -115,7 +115,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,523817,William,WEIGAND,Brooklyn Ny,NY,s.t.,CRCA / Team Patch.com
 6,430781,Michael,TAN,New York,NY,s.t.,CRCA/Good Guys Racing p/b highw
 7,440206,Nicholas,TOSCANO,New York,NY,s.t.,CRCA/RBNY Racing - Verge Sport
-8,488045,Adam,DEJONG,New York,NY,s.t.,
+8,488045,Adam,DEJONG,New York,NV,s.t.,
 9,516279,Joseph,EMMERLING,New York,NY,s.t.,
 10,32951,Matthew,SLOSSBERG,New York,NY,s.t.,CRCA/Dave Jordan Racing
 11,527022,William,DOWNING,New York,NY,s.t.,
@@ -152,7 +152,7 @@ Place,License #,First,Last,City,State,Time,Team
 42,274541,Paul,O'DONNELL,New York,NY,27,CRCA/Dave Jordan Racing
 43,503984,Scott,KOBETIS,New York,NY,s.t.,CRCA/Dave Jordan Racing
 44,494590,Martijn,DE GRAAF,New York,NY,s.t.,CRCA/Dave Jordan Racing
-45,511397,Raymundo,TORRES,Fort Lee,NJ,31,CRCA/NYCC Racing p/b BGC Partne
+45,511397,Raymundo,TORRES,Old Tappan,NJ,31,CRCA/NYCC Racing p/b BGC Partne
 46,503757,Daniel,CORLESS,New York,NY,33,CRCA/NYCC Racing p/b BGC Partne
 47,496826,Jack,VOGEL,Franklin Lakes,NJ,51,CRCA Development Foundation
 48,173798,Phillip,MARONILLA,Astoria,NY,59,Kissena Cycling Club
@@ -259,7 +259,7 @@ Place,License #,First,Last,City,State,Time,Team
 41,504426,Manuel Andres,BRITO,Allentown,PA,s.t.,Britt Sportswear
 42,346132,Gregory,CORDASCO,Basking Ridge,NJ,44,Liberty Cycle
 43,204305,Ben,HUGHES,New York,NY,46,CRCA/Rockstar Games
-44,292058,Spiridon,KATEHIS,Malverne ,NY,s.t.,Berroa Racing
+44,292058,Spiridon,KATEHIS,Malverne,NY,s.t.,Berroa Racing
 45,206471,KURIA,NJENGA,Nyack,NY,s.t.,ZENBERRYMIX.COM
 46,404023,jeremy,BORDEN,New York,NY,51,Attaquer
 47,385219,Will,CARROLL,Ossining,NY,53,CRCA / E2Value
@@ -272,7 +272,7 @@ Place,License #,First,Last,City,State,Time,Team
 54,30543,Oscar,ROSALES,New York,NY,s.t.,FinKraft Cycling Team
 55,367517,jorge,CORDERO,New York,NY,s.t.,Echelon Cycles
 56,415105,Matthew,PAYNE,New York,NY,s.t.,CRCA/Dave Jordan Racing
-57,317888,Erik,LAVOIE,Brooklyn ,NY,s.t.,CRCA/Rockstar Games
+57,317888,Erik,LAVOIE,Brooklyn,NY,s.t.,CRCA/Rockstar Games
 58,357870,Owen,CAPRELL,New York,NY,1:01,The 5th Floor NYC
 59,269625,Corey,WILLIAMS,New York,NY,s.t.,BOLD Racing/enduranceWERX
 60,162312,Eric,SUTHERLAND,New York,NY,s.t.,CRCA/GFCapital/H&E Ent
@@ -283,7 +283,7 @@ Place,License #,First,Last,City,State,Time,Team
 65,344080,Robert,CONSTANTINO,New York,NY,s.t.,CRCA/To Be Determined
 66,342242,Ryan,QUINN,Brooklyn,NY,s.t.,The 5th Floor NYC
 67,229998,Jonathan,PODWIL,Brooklyn,NY,1:12,M Taylor Racing NYC
-68,97269,Eui,LEE,Long Island City,NY,1:16,Houlihan Lokey
+68,97269,Eui,LEE,Wallkill,NY,1:16,Houlihan Lokey
 69,61737,Dusan,STRIKA,Parlin,NJ,1:18,Kissena Cycling Team
 70,56692,Gregory,LAFIURA,New York,NY,2:04,
 DNS,375995,Andres,JIMENEZ,Dover,NJ,,High Gear/Trek/WW
@@ -412,5 +412,5 @@ DNF,534711,William,CHEN,Brooklyn,NY,,
 06/03/2017 Road Race Mixed Juniors 9-12
 Place,License #,First,Last,City,State,Time,Team
 1,509506,Enzo,EDMONDS,Brooklyn,NY,17:58,Roley Poley Racing (R)/Star Tra
-2,525381,EZIEL,HERNANDEZ,Forest Hills,NY,6:09,Star track
+2,525381,EZIEL,HERNANDEZ,Levittown,NY,6:09,Star track
 3,534513,Charlie,GILBERT,New York,NY,10:04,CRCA/NYCC Racing p/b BGC Partne

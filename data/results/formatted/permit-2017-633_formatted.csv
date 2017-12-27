@@ -24,9 +24,9 @@ Place,License #,First,Last,City,State,Time,Team
 12,424386,Richard,Mable,Philadelphia,PA,20:20,QCW Cycling p.b. Breakawaybikes.com
 13,245644,Bruce,Brodowski,Langhorne,PA,20:25,Guy's Racing Club
 14,0,Ryan,Horner,,,21:16,
-15,501923,Nicholas,Paul,Boonton,NJ,23:00,BYRNE International LLC
+15,501923,Nicholas,Paul,Booton,NJ,23:00,BYRNE International LLC
 16,467760,James,Duffy,North Branch,NJ,24:16,Team Somerset
-17,523195,James,Wagner,Milton,DE,25:35,
+17,116012,James,Wagner,Milton,DE,25:35,
 18,0,Steven,Blaine,,,DNS,Full Throttle Endurance
 19,525532,Arthur,Margeotes,Stirling,NJ,DNS,
 
@@ -45,7 +45,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,308257,Chris,Dawson,Hillsborough,NJ,17:15,Redlined Racing
 3,281573,Ross,McGraw,New York,NY,17:34,City Coach Multisport
 4,395654,Nicholas,Tsapatsaris,Ridgewood,NJ,17:37,ORIGIN Performance Training Systems
-5,418220,Peter,Kiernan,Burlington ,CT,17:41,Benidorm Bikes/Eastern Bloc C.C.
+5,418220,Peter,Kiernan,Burlington,CT,17:41,Benidorm Bikes/Eastern Bloc C.C.
 6,361411,Fred,Tanjutco,Cherry Hill,NJ,17:42,Pro Pedals
 7,524323,Eric,Panhorst,Morrisville,PA,17:56,Guy's Racing Club
 8,495687,David,Bleakley,Howell,NJ,18:00,Five Four Sports/Cycles 54
@@ -61,12 +61,12 @@ Place,License #,First,Last,City,State,Time,Team
 
 04/09/2017 Individual Time Trial Men 9-12 Junior
 Place,License #,First,Last,City,State,Time,Team
-1,504757,Thomas,Byrne,Boonton Township ,NJ,30:25,BYRNE International LLC
+1,504757,Thomas,Byrne,Boonton Township,NJ,30:25,BYRNE International LLC
 
 04/09/2017 Individual Time Trial Men 65-99 Masters
 Place,License #,First,Last,City,State,Time,Team
 1,59096,Steven,Petouvis,Long Valley,NJ,17:25,Liberty Cycle
-2,70511,Robert,Casciato,Chester Springs,PA,18:14,PA Masters
+2,70511,Robert,Casciato,Chestersprings,PA,18:14,PA Masters
 3,236499,Joseph,Schiavo,Sewell,NJ,20:03,PSRacing/BTB
 4,97543,Richard,Maynard,West Chester,PA,DNF,Amoroso's Racing Team/Tri State Velo
 
@@ -85,7 +85,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,207091,Benedict,Rocco,Erial,NJ,19:50,PSRacing/BTB
 12,459551,ken,roma,Manahawkin,NJ,20:27,pro pedals
 13,428225,Henry,Rinck,Lewisberry,PA,22:07,World Cup Ski & Cycle
-14,64565,Christopher,Byrne,Boonton,NJ,22:41,BYRNE International LLC
+14,64565,Christopher,Byrne,Boonton Township,NJ,22:41,BYRNE International LLC
 15,173333,Steve,Barnes,Phoenixville,PA,22:42,Guys Racing Club
 16,61162,Kevin,Greene,Philadelphia,PA,DNS,QCW Cycling p.b. breakawaybikes.com
 
@@ -107,7 +107,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,232879,Ryan,Pettit,Medford Lakes,NJ,16:55,VR2209
 3,98343,Richard,Carolan,Bernardsville,NJ,17:13,High Gear Cycles/ Trek
 4,378628,Joshua,Deringer,Bryn Mawr,PA,17:15,Cadence Racing
-5,324134,Matthew,Mory,Philadelphia,PA,17:37,QCW Cycling p.b. Breakawaybikes.com
+5,324134,Matthew,Mory,Mesa,AZ,17:37,QCW Cycling p.b. Breakawaybikes.com
 6,506367,Albert,Anderson,Easton,PA,19:01,TorcUp
 7,0,Alyson,Freeman,,,19:33,
 8,197138,Michael,Henasey,Haddonfield,NJ,DNF,PSRacing/BTB
@@ -143,7 +143,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,467437,Samantha,Sampson,Egg Harbor City,NJ,22:08,VR2209
 4,501105,Rebecca,Feldman,Morristown,NJ,22:57,Team Marty's
 5,470339,Karen,Clark,Morris Plains,NJ,23:49,Team Marty's
-6,507856,Ellen,Hardy,Boonton Township ,NJ,25:50,BYRNE International LLC
+6,507856,Ellen,Hardy,Boonton Township,NJ,25:50,BYRNE International LLC
 7,526814,Christina,Danielewicz,Bensalem,PA,29:21,Guy's Racing Club
 
 04/09/2017 Individual Time Trial Women Cat 4-5 Open
@@ -166,6 +166,6 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,470690,Michaela,Tsapatsaris,Ridgewood,NJ,24:39,ORIGIN Performance Training Systems
 2,513500,Katharine,Byrne,Boonton,NJ,28:59,BYRNE International LLC
-3,507589,Nikita,Paul,Boonton,NJ,37:15,BYRNE International LLC
-4,507588,Trinity,Paul,Boonton,NJ,40:07,BYRNE International LLC
+3,507589,Nikita,Paul,Booton,NJ,37:15,BYRNE International LLC
+4,507588,Trinity,Paul,Booton,NJ,40:07,BYRNE International LLC
 5,0,Sarah,Freeman,,,DNS,

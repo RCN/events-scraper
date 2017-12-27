@@ -7,17 +7,17 @@ Place,License #,First,Last,City,State,Time,Team
 3,460162,Hoel,Wiesner,Rensselaer,NY,,Duke University
 4,324476,Luis,Leme,Mc Lean,VA,,Virginia Polytechnic University
 5,423932,Brian,Hardy,Longmont,CO,,US Naval Academy
-6,448552,Andrew,Scott,Morristown,NJ,,Princeton University
+6,448552,Andrew,Scott,Seal Harbor ,NJ,,Princeton University
 7,431533,derrick,butler,Nazareth,PA,,University of Pennsylvania
 8,481937,Alexander,Gilliam,Richmond,VA,,College of William and Mary
-9,493748,Benjamen,Shrewsberry,Shippensburg,PA,,Shippensburg University of Pennsylvania
+9,493748,Benjamen,Shrewsberry,Fredericksburg,VA,,Shippensburg University of Pennsylvania
 10,326136,Alex,Breakstone,Westfield,NJ,,Bucknell University
 11,379982,Joshua,Spokes,Baltimore,MD,,University of Maryland-College Park
 12,429496,Alex,Mahlandt,Frederick,MD,,University of Maryland-College Park
 13,467304,Scott,Coblentz,Frederick,MD,,Shippensburg University of Pennsylvania
 14,496862,Taylor,Adams,Little Rock,AR,,US Naval Academy
 15,424188,Adam,Pressel,Narberth,PA,,US Naval Academy
-16,466208,Darin,Alleman,Newville,PA,,Shippensburg University of Pennsylvania
+16,466208,Darin,Alleman,Fredericksburg,VA,,Shippensburg University of Pennsylvania
 17,460026,Adam,Oster,Lusby,MD,,US Naval Academy
 18,460469,Evan,Schmit,Harrisonbrug,VA,,James Madison University
 19,498282,Eric,Sasse,Los Angeles,CA,,Johns Hopkins University
@@ -25,7 +25,7 @@ DNS,360227,Charles,Ramsbotham,Boone,NC,,Appalachian State University
 DNS,501936,Tyler,Wolfe,Baltimore,MD,,Johns Hopkins University
 DNF,375828,Patrick,Franz,Damascus,MD,,Virginia Polytechnic University
 DNF,311002,Matthew,Jogodnik,Chatham,NJ,,
-DNF,352088,Zach,Lyons,Morgantown,WV,,West Virginia University
+DNF,352088,Zach,Lyons,South Willamsport,PA,,West Virginia University
 DNF,314080,Ana,Novo,College Park,MD,,University of Maryland-College Park
 
 04/02/2017 Road Race Men Collegiate B
@@ -58,7 +58,7 @@ DNF,432132,Paul,Wagner,Clemmons,NC,,North Carolina State University at Raleigh
 Place,License #,First,Last,City,State,Time,Team
 1,524923,Aaron,Dunn,Annapolis,MD,,US Naval Academy
 2,525508,Thomas,Sonnery-Cottet,Lynchburg,VA,,Liberty University
-3,525569,Tyler,Figgins,Crystal Lake,IL,,Liberty University
+3,525569,Tyler,Figgins,Lynchburg,VA,,Liberty University
 4,509612,William,Craig,College Park,MD,,University of Maryland-College Park
 5,525509,Samuel,Blackmon,Fair Oaks Ranch,TX,,Liberty University
 6,524912,Garrett,Benning,Sylmar,CA,,US Naval Academy
@@ -83,7 +83,7 @@ Place,License #,First,Last,City,State,Time,Team
 28,498274,Daniel,Webb,Havre De Grace,MD,,University of Maryland-College Park
 29,524891,Matthew,McGauley,Exton,PA,,Bucknell University
 30,461080,Christopher,Keosian,Salisbury,MD,,University of Maryland-College Park
-DNS,503328,Nathan,Bailey,Hempstead,NY,,University of Maryland-College Park
+DNS,503328,Nathan,Bailey,Silver Spring,MD,,University of Maryland-College Park
 DNS,466637,Xavier,Nogueira,Washington,DC,,Temple University
 DNF,525570,Joel,Brenny,Lynchburg,VA,,Liberty University
 DNF,468561,Jacob,Coblentz,Washington,DC,,George Washington University
@@ -148,7 +148,7 @@ DNS,525039,Lisa,Jauch,Lake Oswego,OR,,US Naval Academy
 04/02/2017 Road Race Women Collegiate WC
 Place,License #,First,Last,City,State,Time,Team
 1,499115,Emily,Mailhot,Blairstown,NJ,,Lehigh University
-2,497037,Ellie,Perry,Pittsford,NY,,Bucknell University
+2,497037,Ellie,Perry,Los Angeles,CA,,Bucknell University
 3,525533,Mattasyn,Shisler,Telford,PA,,Liberty University
 4,529065,Sarah,Attreed,Baltimore,MD,,Johns Hopkins University
 5,525599,francesca,herder,Lynchburg,VA,,Liberty University

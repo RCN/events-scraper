@@ -35,7 +35,7 @@ Place,License #,First,Last,City,State,Time,Team
 31,394405,Arturo,Anaya,Bell,CA,,Bahati Foundation
 32,366362,Anthony,Navarra Jr.,San Diego,CA,,Moment Bicycles
 33,414050,Dante,Young,Pacoima,CA,,ENDO CONCEPT TEAM
-34,441005,Angel,Munoz,Newhall,CA,,ENDO CONCEPT TEAM
+34,441005,Angel,Munoz,New Hall,CA,,ENDO CONCEPT TEAM
 35,394667,Christopher,Rea,Simi Valley,CA,,Monster Media Racing
 36,45772,Joseph,Pasqualetto,Chino,CA,,PAA Cycling
 37,76265,David,Koesel,Aliso Viejo,CA,,Monster Media Elite Masters
@@ -79,13 +79,13 @@ Place,License #,First,Last,City,State,Time,Team
 18,53911,Joseph,Buchanan,Camarillo,CA,,Kryki Sports
 19,278244,Kenneth,Korbel,Chatsworth,CA,,Serious Cycling
 20,305814,Jason,Morin,Redondo Beach,CA,,Big Orange Cycling p/b Beachbody Performance
-21,422531,Jimmy,Brunner,San Diego ,CA,,Moment Bicycles
+21,422531,Jimmy,Brunner,San Diego,CA,,Moment Bicycles
 22,422278,Matthew,Kest,Los Angeles,CA,,Bicycle.net Racing Team
 23,433433,Oscar,Cervantes,Wilmington,CA,,South Bay Wheelmen
 24,277394,Andrew,Duffy,Pacoima,CA,,Serious Cycling
 25,512123,Rooney,escobar,Los Angeles,CA,,South Bay Wheelmen
 26,426691,Mel,Echual,Gardena,CA,,Team Velocity
-27,471808,Mark,Strohman,Aliso Viejo,CA,,R5 Ciclismo
+27,471808,Mark,Strohman,Irvine,CA,,R5 Ciclismo
 28,244607,Jonathan,Tessler,Los Angeles,CA,,Bicycle.net Racing Team
 29,488935,Greg,Wilson,Long Beach,CA,,Corridor Recycling
 30,424676,Jake,Westall,Corona,CA,,Impact Racing Team
@@ -100,7 +100,7 @@ Place,License #,First,Last,City,State,Time,Team
 39,465968,Josh,Dorfman,Redondo Beach,CA,,Big Orange Cycling p/b Beachbody Performance
 40,251932,Christian,Poe,Chino Hills,CA,,Impact Racing Team
 41,204928,Wells,Wang,San Diego,CA,,SDBC/EMERALD TEXTILES p/b UC Cyclery
-42,9327,Earl,Detrick,Thousand Oaks ,CA,,HSR Racing p/b BIRDWORX
+42,9327,Earl,Detrick,Thousand Oaks,CA,,HSR Racing p/b BIRDWORX
 43,22919,Brian,Matsumoto,Walnut,CA,,Team Simple Green/Cannondale/Bike Religion
 44,138698,Ralph,Vizcaino,Covina,CA,,Impact Racing Team
 45,457996,Steve,Netter,Menifee,CA,,Impact Racing Team
@@ -191,13 +191,13 @@ Place,License #,First,Last,City,State,Time,Team
 48,287426,Jaycee,Cary,Playa Del Rey,CA,,Velo Club La Grange +21
 49,257374,Bill,Carlson,La Quinta,CA,,UC Cyclery/JW Floors
 50,305590,Roger,Ortiz,Escondido,CA,,UC Cyclery/JW Floors
-51,9327,Earl,Detrick,Thousand Oaks ,CA,,HSR Racing p/b BIRDWORX
+51,9327,Earl,Detrick,Thousand Oaks,CA,,HSR Racing p/b BIRDWORX
 52,374774,Attila,Fruttus,Torrance,CA,,Big Orange Cycling p/b Beachbody Performance
 53,47305,James,Perren,Oceanside,CA,,SDBC/EMERALD TEXTILES p/b UC Cyclery
 54,223839,Norberto,Galvan,Lynwood,CA,,OTR Racing
 55,272765,Mark,Palmer,San Diego,CA,,G3Foundation / Trek
 56,306208,rigo,cruz,Santaana,CA,,Monster Media Elite Masters
-57,391447,ANDREW,NUCKLES,Cerritos,CA,,Big Orange Cycling p/b Beachbody Performance
+57,391447,ANDREW,NUCKLES,Los Angeles,CA,,Big Orange Cycling p/b Beachbody Performance
 58,424490,Kevin,Nix,Redondo Beach,CA,,Big Orange Cycling p/b Beachbody Performance
 59,367290,Stephen,Watson,Upland,CA,,
 60,108680,Michael,Carro,Eagle Rock,CA,,G3Foundation / Trek
@@ -208,7 +208,7 @@ Place,License #,First,Last,City,State,Time,Team
 65,22919,Brian,Matsumoto,Walnut,CA,,Team Simple Green/Cannondale/Bike Religion
 66,216205,Seth,Davidson,Rancho Palos Verdes,CA,,Big Orange Cycling p/b Beachbody Performance
 67,49424,Howard,Miller,Long Beach,CA,,OCW / Paramount Racing
-68,45552,Douglas,Knox,Santa Barbara,CA,,Velo Pasadena Team
+68,45552,Douglas,Knox,North Hollywood,CA,,Velo Pasadena Team
 69,70835,Mark,Slobom,Oceanside,CA,,BestVIP - Mazda p/b Eibach
 70,219616,Michael,Hall,Thousand Oaks,CA,,HSR Racing p/b BIRDWORX
 71,23731,Mike,McMahon,Lake Forest,CA,,Team Velocity
@@ -262,7 +262,7 @@ Place,License #,First,Last,City,State,Time,Team
 28,62673,Michael,Joseph,Rancho Santa Margarita,CA,,Team Simple Green/Cannondale/Bike Religion
 29,182097,James,Wiznura,Long Beach,CA,,Corridor Recycling
 30,108680,Michael,Carro,Eagle Rock,CA,,G3Foundation / Trek
-31,45552,Douglas,Knox,Santa Barbara,CA,,Velo Pasadena Team
+31,45552,Douglas,Knox,North Hollywood,CA,,Velo Pasadena Team
 DNS,178640,Reginald,Jones,Los Angeles,CA,,ironfly
 
 05/29/2017 Criterium Men Cat 1/2/3/4 Masters 60+
@@ -349,7 +349,7 @@ DNF,356829,Francois,Jones,Inglewood,CA,,Bahati Foundation
 Place,License #,First,Last,City,State,Time,Team
 1,523494,Byron,Davis,Valencia,CA,,CBS Cycling
 1,140601,Elijah,Baker,Los Angeles,CA,,Velo Club La Grange +21
-2,534220,Mathieu,Brousseau,Hawthorne,CA,,Big Orange Cycling
+2,534220,Mathieu,Brousseau,Redondo Beach,CA,,Big Orange Cycling
 2,393174,Noah,Slack,El Cajon,CA,,SDBC/EMERALD TEXTILES p/b UC Cyclery
 3,526583,Zachary,Ross,Los Angeles,CA,,
 3,523494,Byron,Davis,Valencia,CA,,CBS Cycling
@@ -368,11 +368,11 @@ Place,License #,First,Last,City,State,Time,Team
 10,525006,Mark,Carmen,Las Vegas,NV,,Breakaway Cycling p/b Station Casinos
 10,524114,Adam,Buckley,Oceanside,CA,,Moment Bicycles
 11,526096,Herbert,Huang,South Pasadena,CA,,
-11,534220,Mathieu,Brousseau,Hawthorne,CA,,Big Orange Cycling
+11,534220,Mathieu,Brousseau,Redondo Beach,CA,,Big Orange Cycling
 12,529910,david,holowach,Santa Clarita,CA,,
 12,524138,Irvin,Zavaleta,Los Angeles,CA,,
 13,532414,Marco,Ramirez,Los Angeles,CA,,
-13,487334,Carlos,Camara,Los Angeles,CA,,
+13,487334,Carlos,Camara,Woodland Hills,CA,,
 14,0,Andres,Anrieu,,,,
 14,524035,Jonatan,Alvarez,Los Alamitos,CA,,
 15,0,RIDER,UNKNOWN,,,,
@@ -385,7 +385,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,525618,Adam,Flores,Rancho Palos Verdes,CA,,
 20,531823,Kevin,Salk,Redondo Beach,CA,,Big Orange Cycling p/b Beachbody Performance
 21,473713,Juan,Cortes,Los Angeles,CA,,
-22,497367,Mark,Hayes,Hawthorne ,CA,,R5 Ciclismo
+22,497367,Mark,Hayes,Hawthorne,CA,,R5 Ciclismo
 23,0,Max,Schoebranner,,,,
 24,525006,Mark,Carmen,Las Vegas,NV,,Breakaway Cycling p/b Station Casinos
 25,497804,Juan Manuel,Herrera,Yorba Linda,CA,,
@@ -421,7 +421,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,140601,Elijah,Baker,Los Angeles,CA,,Velo Club La Grange +21
 6,507674,Connor,Bentley,Laguna Niguel,CA,,Team Velosport Junior & U23 Development - Ridebiker Alliance
 7,496493,Lucas,Salazar,San Diego,CA,,
-8,407644,Daniel,Park,Rancho Palos Verdes,CA,,La Grange Development U21
+8,407644,Daniel,Park,Fullerton,CA,,La Grange Development U21
 9,496573,Daniel,Beltran,South Gate,CA,,South Bay Wheelmen
 10,510155,Kevin,Escobar,Los Angeles,CA,,South Bay Wheelmen
 11,523916,George,Orloff,La Canada,CA,,
@@ -443,7 +443,7 @@ Place,License #,First,Last,City,State,Time,Team
 27,515349,Kyle,Kilmartin,Wildomar,CA,,iSpeed Racing
 28,524825,Jason,Russell,Nashville,TN,,SDBC/EMERALD TEXTILES p/b UC Cyclery
 29,473712,Raul,Vazquez Diaz,Hawthorne,CA,,Big Orange Cycling p/b Beachbody Performance
-30,391447,ANDREW,NUCKLES,Cerritos,CA,,Big Orange Cycling p/b Beachbody Performance
+30,391447,ANDREW,NUCKLES,Los Angeles,CA,,Big Orange Cycling p/b Beachbody Performance
 31,503948,Anson,Araujo,Oxnard,CA,,Eliel Factory Team
 32,495728,Leslie,Makepeace,Westminster,CA,,
 33,392315,OCTAVIO,MARQUEZ,Los Angeles,CA,,
@@ -471,7 +471,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,458981,Malik,Mariano,Kamuela,HI,,Ka Makani O Waikoloa Cycling Club
 5,480974,David,Steinhafel,Los Angeles,CA,,Big Orange Cycling p/b Beachbody Performance
 6,334978,Massimo,Lucidi,Laguna Beach,CA,,Team Velosport Junior & U23 Development - Ridebiker Alliance
-7,457884,Jake,Marasco,Durango,CO,,Go Fast -Incycle
+7,457884,Jake,Marasco,Claremont,CA,,Go Fast -Incycle
 8,393634,Alexander Wulfgang,Lochmiller,San Diego,CA,,Team Velosport Junior & U23 Development - Ridebiker Alliance
 9,50418,Tony,Zaldua,Los Angeles,CA,,Element Racing Team
 10,423364,Reyes,Hilario,Bell,CA,,South Bay Wheelmen
@@ -503,7 +503,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,418443,Patricia,Murray,San Diego,CA,,SDBC/EMERALD TEXTILES p/b UC Cyclery
 7,245326,Karen,Meske,Los Angeles,CA,,Skyflash Racing
 8,497566,Kristie,Fox,Redondo Beach,CA,,Big Orange Cycling p/b Beachbody Performance
-9,292331,Amy,Firth,Monrovia,CA,,Skyflash Racing
+9,292331,Amy,Firth,Claremont,CA,,Skyflash Racing
 10,352016,Vanessa,Snapp,Pomona,CA,,Go Fast -Incycle
 11,204896,Suzan,Given,Fullerton,CA,,Skyflash Racing
 12,394747,Josiane,Lessard,Irvine,CA,,

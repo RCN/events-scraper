@@ -24,7 +24,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,0,Antonio,Pulga,,,,
 21,0,David,Niekels,,,,
 22,298410,Jon,Okenfuss,Suwanee,GA,,L5Flyers Cycling Team
-23,308175,Wilman,Vargas,Atlanta ,GA,,
+23,308175,Wilman,Vargas,Atlanta,GA,,
 24,389679,Jeremy,Spafard,Tucker,GA,,Prima Tappa Cycling p/b Mansfield Oil
 25,511360,Declan,Irvine,Alpharetta,GA,,
 26,0,Matthew,Blenkinsopp,,,,
@@ -57,7 +57,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,523294,Ageu,Costa,Marietta,GA,,TRY BIKE SHOP/DEPAULA RACING
 10,370045,Reece,Latham,Roswell,GA,,Keenz Racing p/b Mission Source/NGCA
 11,500488,Durrell,Lowery,Smyrna,GA,,
-12,494731,Drew,Chaplain,Atlanta,GA,,Team Mission Source / NGCA
+12,494731,Drew,Chaplain,Athens,GA,,Team Mission Source / NGCA
 13,464423,Dominic,Frascella,Conyers,GA,,
 14,497705,Raymond,Little,Dacula,GA,,
 15,528195,Joshua,Marshall,College Park,GA,,
@@ -123,7 +123,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,336652,Blake,Wilson,Acworth,GA,,Frazier Cycling
 19,0,Baccino,Daniel,,,,
 20,311255,John,Wilkes,Atlanta,GA,,L5Flyers Cycling Team
-21,272071,Wheeler,Davis,Athens,GA,,Team Novo Nordisk Juniors
+21,272071,Wheeler,Davis,Raleigh,NC,,Team Novo Nordisk Juniors
 
 07/08/2017 Criterium Men Masters 35+
 Place,License #,First,Last,City,State,Time,Team
@@ -176,7 +176,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,0,Alexsandra,Vasilieva,,,,
 8,534847,Diane,Schleicher,Dahlonega,GA,,
 9,526970,Mindy,Carpenter,Bethlehem,GA,,Team Whitetail Bicycles p/b Pure Taqueria/Blueprint
-10,414179,Caryn,Solomides,Chicago,IL,,UPB Cycling
+10,414179,Caryn,Solomides,Roswell,GA,,UPB Cycling
 
 07/08/2017 Criterium Women Pro 1/2/3
 Place,License #,First,Last,City,State,Time,Team
@@ -224,7 +224,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,364750,Alexandre,Solomides,Roswell,GA,,
 7,217286,John,Castleberry,Wildwood,GA,,
 8,497764,Fabio,Moura,Acworth,GA,,
-9,494731,Drew,Chaplain,Atlanta,GA,,Team Mission Source / NGCA
+9,494731,Drew,Chaplain,Athens,GA,,Team Mission Source / NGCA
 10,461058,Jason,Taylor,Suwanee,GA,,Suwanee Creek Bicycles Inc.
 11,515877,Nick,Jeanfils,Decatur,GA,,
 12,537415,Lee,Yarnell,Calhoun,GA,,
@@ -297,7 +297,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,493443,Bernie,Lacourciere,Roswell,GA,,Peachtree Masters Elite Team
 12,0,Toyirov,Odilijon,,,,
 13,400546,Chris,Robinson,Atlanta,GA,,L5Flyers Cycling Team
-14,272071,Wheeler,Davis,Athens,GA,,Team Novo Nordisk Juniors
+14,272071,Wheeler,Davis,Raleigh,NC,,Team Novo Nordisk Juniors
 15,405185,Thomas,Cross,Atlanta,GA,,Team Mission Source / NGCA
 16,311255,John,Wilkes,Atlanta,GA,,L5Flyers Cycling Team
 17,276916,Drago,Cepar,Mableton,GA,,
@@ -305,7 +305,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,0,Kurbamov,Timur,,,,
 20,400652,Justin,Mitchell,Atlanta,GA,,Team Mission Source / NGCA
 21,64313,Marc,Klokow,Woodstock,GA,,Prima Tappa Cycling
-22,418380,Ryan,Hayden,Wake Forest ,NC,,The Electric Banana Cycling Project p/b FSC Racing
+22,418380,Ryan,Hayden,Wake Forest,NC,,The Electric Banana Cycling Project p/b FSC Racing
 24,314218,Jesus,Lopez,Braselton,GA,,Southern Crescent Cycling
 
 07/08/2017 Road Race Men Juniors 10-12
@@ -328,7 +328,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,106511,Harold (Phil),Southerland,Atlanta,GA,,Team Type 1 Foundation
 8,279537,Tracy,Honeycutt,Marietta,GA,,Free Flite Masters
 9,297241,Brad,Parkerson,Loganville,GA,,
-10,123119,Jeffrey,Tanski,Chattahoochee Hills,GA,,Velocity Racing & Cycling Inc
+10,123119,Jeffrey,Tanski,Palmetto,GA,,Velocity Racing & Cycling Inc
 11,204674,D Chad,Strickland,Atlanta,GA,,Wahoo Fitness Masters Team
 12,151968,Eric,Anderson,Alpharetta,GA,,Ridley Masters p/b Reality Bikes
 13,344978,Oleg,Tanovitsky,Alpharetta,GA,,
@@ -438,7 +438,7 @@ Place,License #,First,Last,City,State,Time,Team
 07/08/2017 Time Trial Men Cat 3
 Place,License #,First,Last,City,State,Time,Team
 1,460567,Benjamin,Darling,Roswell,GA,,
-2,272071,Wheeler,Davis,Athens,GA,,Team Novo Nordisk Juniors
+2,272071,Wheeler,Davis,Raleigh,NC,,Team Novo Nordisk Juniors
 3,405185,Thomas,Cross,Atlanta,GA,,Team Mission Source / NGCA
 4,343550,Justin,Schmidt,Canton,GA,,Team Mission Source / NGCA
 5,336652,Blake,Wilson,Acworth,GA,,Frazier Cycling

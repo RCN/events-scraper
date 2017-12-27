@@ -8,14 +8,14 @@ Place,License #,First,Last,City,State,Time,Team
 4,132539,Brad,HUFF,Springfield,MO,01:25.6,Rally Cycling*
 5,334672,Carlos,Alzate Escobar,Boise,ID,01:25.6,UnitedHealthcare Pro Cycling*
 6,296605,Michael,Hernandez,Clermont,FL,01:25.6,Aevolo Cycling*
-7,211435,Zack,ALLISON,Fort Collins ,CO,01:26.0,Team Clif Bar
+7,211435,Zack,ALLISON,Fort Collins,CO,01:26.0,Team Clif Bar
 8,193086,Ben,RENKEMA,Greenville,SC,01:26.1,Palmetto State Medical Elite Cycling Team
 9,424384,Dennis,RAMIREZ,Barnhart,MO,01:26.1,Gateway Harley-Davidson Trek U25 Development Team*
 10,414794,Pierre-Bernard,THIFFAULT,Redmond,WA,01:26.1,Hedrick Racing
 11,269793,Robert,TERRA,Lodi,CA,01:26.1,Williams Cycling
 12,349884,Paul,WARNER,Boise,ID,01:26.1,Team UPcycle
 13,371826,Tim,SAVRE,Glencoe,MN,01:26.1,Project Echelon
-14,230716,John,NOONAN,Evergreen,CO,01:26.1,Primal - Audi Denver
+14,230716,John,NOONAN,Tucson,AZ,01:26.1,Primal - Audi Denver
 15,148088,Adrian,HEGYVARY,Asheville,NC,01:26.2,UnitedHealthcare Pro Cycling*
 16,431242,Pierrick,NAUD,,,01:26.2,Rally Cycling
 17,0,gage,HECT,,,01:26.2,Aevolo Cycling
@@ -50,7 +50,7 @@ DNF,379658,Chaz,HOGENAUER,Boise,ID,,Endurance Boise U23
 DNF,320582,Matthew,ZIMMER,Dewitt ,IA,,Gateway Harley-Davidson Trek U25 Development
 DNF,336388,Corey,DAVIS,Danville,VA,,Palmetto State Medical Elite Cycling Team
 DNF,337310,Robert,SMALLMAN,Alpine ,UT,,Team Endurance 360
-DNF,344034,Brett,WACHTENDORF,Winooski,VT,,
+DNF,344034,Brett,WACHTENDORF,Boulder,CO,,
 DNF,354762,Bryan,LEWIS,Charlottesville,VA,,Cylance Cycling*
 DNF,234696,Curtis,WHITE,Delanson,NY,,Rally Cycling
 DNF,237726,Conor,MULLERVY,Boulder,CO,,Team Clif Bar
@@ -75,13 +75,13 @@ Place,License #,First,Last,City,State,Time,Team
 6,316262,Glenn,WALLIN,Reno,NV,00:43.0,Velo Reno
 7,525954,Johnson,JONES,Pullman,WA,00:43.0,
 8,503982,Jake,MCFARLIN,Boise,ID,00:43.0,TSH Clydesdale
-9,355986,Jarred,BLANKENSHIP,Boise,ID,00:43.0,Team Bobs-Bicycles.com
+9,355986,Jarred,BLANKENSHIP,Garden City,ID,00:43.0,Team Bobs-Bicycles.com
 10,460346,Paul,SMITH,Kimberly,ID,00:43.0,CT Velo
 11,457466,David,PETERSON,Boise,ID,00:43.1,St. Luke's Sports Medicine
 12,534541,David,CONGER JR,Meridian,ID,00:43.1,University of Arizona
 13,486765,Alex,HECHT,Boise,ID,00:43.1,Tenspeed Hero
 14,510013,Harrison,CLEMENT,Boise,ID,00:43.2,Tritown
-15,383775,Nick,CALI,Pocatello ,ID,00:43.3,
+15,383775,Nick,CALI,Santa Rosa,CA,00:43.3,
 16,317312,Moses,FERNANDEZ,Sandy,UT,00:43.3,Canyon bicycles
 17,227685,Gus,Engelhardt,Salt Lake City,UT,00:43.3,
 18,0,Matthew,INGRAM,,,00:43.4,Team 10 Barrel
@@ -101,7 +101,7 @@ DNF,470763,Johnny,BOLINDER,Boise,ID,,Byrds
 DNF,440121,Micah,DURHAM,Boise,ID,,Bob's Bicycles
 DNF,508225,Eli,NORRIS,Boise,ID,,BYRDS
 DNF,514922,Brian,BROWNING,Boise,ID,,
-DNF,525114,Jordan,CHAPMAN,Moscow,ID,,Vandal Cycling
+DNF,525114,Jordan,CHAPMAN,Lenore,ID,,Vandal Cycling
 DNF,525874,Elliott,SHER,Moscow,ID,,Vandal Cycling
 DNF,527092,Zach,COX,Meridian,ID,,Team 10 Barrel
 DNF,537679,Mathew,HWANG,Boise,ID,,
@@ -153,7 +153,7 @@ DNF,221460,Jess,RAPHAEL,Napa,CA,,3 Feet It's The Law!
 Place,License #,First,Last,City,State,Time,Team
 1,458488,Timmy,BAUER,Placerville,CA,00:58.2,Williams Cycling
 2,290106,A..J.,TURNER,Ogden,UT,00:58.2,Team Clif Bar
-3,481295,Heriberto (eddy),FRUTOS,Twin Falls,ID,00:58.2,Team UpCycle Boise
+3,481295,Heriberto (eddy),FRUTOS,Jerome,ID,00:58.2,Team UpCycle Boise
 4,203143,Ian,MEGALE,Boise,ID,00:58.2,Team UpCycle Boise
 5,425428,Zachary,SCHOENFELDER,Boise,ID,00:58.2,Team Bobs-bicycles.com
 6,494875,Xavier,LOPEZ,Provo,UT,00:58.2,SBR Cycles
@@ -177,7 +177,7 @@ Place,License #,First,Last,City,State,Time,Team
 24,460893,Preston,WEEKS,Provo,UT,00:59.2,Caliber-SBR Cycling p/b LHM Lexus Lindon
 25,377954,Willem,KAISER,Atlanta,GA,00:59.5,Gateway Harley-Davidson Trek U25 Development
 26,488020,Sawyer,BOSCH,Boise,ID,00:59.5,Team Upcycle
-27,227593,Justin,ROSE,Middleton ,ID,00:59.5,Team Bobs-bicycles.com
+27,227593,Justin,ROSE,Middleton,ID,00:59.5,Team Bobs-bicycles.com
 28,194712,Steven,PARKER,Boise,ID,01:00.0,Look Save a Life
 29,265679,jonathan,YOUELL,Boise,ID,01:00.4,Team 10 Barrel
 DNS,305079,Jacob,GERHARDT,Atascadero,CA,,Team Clif Bar Cycling
@@ -211,15 +211,15 @@ Place,License #,First,Last,City,State,Time,Team
 14,252835,Whitney,ALLISON,Fort Collins,CO,00:59.0,Colavita/Bianchi
 15,438586,Natalie,TAPIAS,Easthampton,MA,00:59.0,JAM / NCC
 16,454732,Annie,FOREMAN-MACKEY,,,00:59.0,Sho-Air TWENTY20*
-17,200237,Kaitlin,ANTONNEAU,Racine,WI,00:59.0,Cylance Pro Cycling
+17,200237,Kaitlin,ANTONNEAU,Colorado Springs,CO,00:59.0,Cylance Pro Cycling
 18,0,Astrid,GASSNER,,,00:59.0,Colavita/Bianchi
-19,230397,Shayna,POWLESS,Roseville,CA,00:59.0,Sho-Air TWENTY20*
+19,230397,Shayna,POWLESS,Jacksonville,FL,00:59.0,Sho-Air TWENTY20*
 20,332470,Anne-Marije,ROOK,Seattle,WA,00:59.0,Visit Dallas DNA Pro Cycling
-21,355078,Mandy,HEINTZ,Phoenix,AZ,00:59.0,Visit Dallas DNA Pro Cycling
+21,355078,Mandy,HEINTZ,Scottsdale ,AZ,00:59.0,Visit Dallas DNA Pro Cycling
 22,382212,Tarah,COLE,Bethel,OH,00:59.0,Hagens Berman | Supermint*
 23,394701,Kim,LUCIE,Tucson,AZ,00:59.0,LA Sweat*
 DNS,293983,Jessica,CERRA,Encinitas,CA,,Hagens Berman | Supermint*
-DNS,509477,Peta,MULLENS,Tulsa,OK,,Hagens Berman | Supermint*
+DNS,509477,Peta,MULLENS,Oceanside,CA,,Hagens Berman | Supermint*
 DNS,530793,Michaela,DRUMMOND,,,,Visit Dallas DNA Pro Cycling
 DNF,524718,Aliesha,LARSEN,Provo,UT,,
 DNF,529428,Claire,ROSE,,,,Visit Dallas DNA Pro Cycling

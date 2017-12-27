@@ -3,10 +3,10 @@ Nevada Cycling Road Race in Reno NV Results
 04/15/2017 Criterium Men CAT D Collegiate
 Place,License #,First,Last,City,State,Time,Team
 1,432524,Edwin,Park,San Francisco,CA,0:00:00,Stanford University
-2,525265,Mason,Witter,Irvine,CA,0:00:00,University of California-Merced
+2,525265,Mason,Witter,Merced,CA,0:00:00,University of California-Merced
 3,494586,Nader,Namini Asl,Berkeley,CA,0:00:00,University of California-Berkeley
 4,524489,Roger,O'Neill,La Jolla,CA,0:00:00,University of California-San Diego
-5,499348,Michael,Leiken,Davis,CA,0:00:00,University of California-Davis
+5,499348,Michael,Leiken,Davis,NV,0:00:00,University of California-Davis
 6,496698,Ruben,Nolasco,Redwood City,CA,0:00:00,University of California-Davis
 7,495203,Emilio,Monterrubio,Merced,CA,0:00:00,University of California-Merced
 8,526834,Hiram,Rodriguez,Merced,CA,0:00:00,University of California-Merced
@@ -57,7 +57,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,407231,Robert,Pearce,Corte Madera,CA,0:00:00,University of California-Los Angeles
 2,313364,Ethan,Frankel,Mill Valley,CA,0:00:00,University of California-Los Angeles
 3,253153,Scott,Cohen,Davis,CA,0:00:00,University of California-Davis
-4,456576,Samuel,Boardman,Washington,CA,0:00:00,University of California-Los Angeles
+4,456576,Samuel,Boardman,Los Angeles,CA,0:00:00,University of California-Los Angeles
 5,416940,Leo,Yip,Fremont,CA,0:00:00,University of California-Davis
 6,422362,Alexander,DeRoche,Glendale,CA,0:00:00,University of California-Los Angeles
 7,309471,Rupert,Cox,Emerald Hills,CA,0:00:00,University of California-Los Angeles
@@ -75,7 +75,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,378268,Bryce,Lewis,Roseville,CA,,
 2,422362,Alexander,DeRoche,Glendale,CA,,
-3,442816,Matthew,Paez,Reno,NV,,
+3,442816,Matthew,Paez,Bend,OR,,
 4,411506,Timber,Weiss,Reno,NV,,
 5,425398,Adin,Jose,Milpitas,CA,,
 6,391974,Mike,Dunn,Reno,NV,,
@@ -100,7 +100,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,392737,Colby,Stott,Reno,NV,,
 7,503952,Josh,Brownlee,Reno,NV,,
 8,468128,Jamie,Hullman,Reno,NV,,
-9,525479,Joe,Edwards,Reno,NV,,
+9,525479,Joe,Edwards,De Soto,MO,,
 10,418944,Mark,Monaghan,Reno,NV,,
 
 04/15/2017 Criterium Men Cat 1/2/3 Open 13-70
@@ -146,7 +146,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,262057,Joy,Franco,Stanford,CA,0:00:00,Stanford University
 4,520083,Daniela,Deschamps,Stanford,CA,0:00:00,Stanford University
 5,496675,Maddy,Ward,Los Angeles,CA,0:00:00,University of California-Los Angeles
-6,340844,Jennifer,Wilson,Cambridge,MA,0:00:00,Stanford University
+6,340844,Jennifer,Wilson,Los Gatos,CA,0:00:00,Stanford University
 7,486344,Lillian,McCormick,Solana Beach,CA,0:00:00,University of California-San Diego
 8,291367,Claire,vanEkdom,Chevychase,MD,0:00:00,University of California-Los Angeles
 9,291002,Arielle,Little,Berkeley,CA,0:00:00,University of California-Berkeley
@@ -170,14 +170,14 @@ Place,License #,First,Last,City,State,Time,Team
 04/15/2017 Road Race Men CAT D Collegiate
 Place,License #,First,Last,City,State,Time,Team
 1,432524,Edwin,Park,San Francisco,CA,0:00:00,Stanford University
-2,525265,Mason,Witter,Irvine,CA,0:00:00,University of California-Merced
+2,525265,Mason,Witter,Merced,CA,0:00:00,University of California-Merced
 3,494586,Nader,Namini Asl,Berkeley,CA,0:00:00,University of California-Berkeley
 4,496698,Ruben,Nolasco,Redwood City,CA,0:00:00,University of California-Davis
 5,495203,Emilio,Monterrubio,Merced,CA,0:00:00,University of California-Merced
 
 04/15/2017 Road Race Men CAT C Collegiate
 Place,License #,First,Last,City,State,Time,Team
-1,297530,Ryan,Walker,Aptos,CA,0:00:00,California State University-Long Beach
+1,297530,Ryan,Walker,Carson,CA,0:00:00,California State University-Long Beach
 2,524493,Bradley,Wiggs,Palmdale,CA,0:00:00,California Polytechnic-San Luis Obispo
 3,496440,Matthew,Hung,San Diego,CA,0:00:00,University of California-San Diego
 4,525460,Kevin,Penner,Atherton,CA,0:00:00,Stanford University
@@ -220,7 +220,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,422932,Nicholas,Besse,Scotts Valley,CA,0:00:00,University of California-Santa Barbara
 4,309471,Rupert,Cox,Emerald Hills,CA,0:00:00,University of California-Los Angeles
 5,407231,Robert,Pearce,Corte Madera,CA,0:00:00,University of California-Los Angeles
-6,456576,Samuel,Boardman,Washington,CA,0:00:00,University of California-Los Angeles
+6,456576,Samuel,Boardman,Los Angeles,CA,0:00:00,University of California-Los Angeles
 7,416940,Leo,Yip,Fremont,CA,0:00:00,University of California-Davis
 8,341306,Russell,Clarida,Southport,CT,0:00:00,Stanford University
 9,454927,Sam,Quinby,Davis,CA,0:00:00,University of California-Davis
@@ -256,7 +256,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,496675,Maddy,Ward,Los Angeles,CA,0:00:00,University of California-Los Angeles
 3,494683,Katherine,Nadler,San Diego,CA,0:00:00,University of California-San Diego
 4,520083,Daniela,Deschamps,Stanford,CA,0:00:00,Stanford University
-5,340844,Jennifer,Wilson,Cambridge,MA,0:00:00,Stanford University
+5,340844,Jennifer,Wilson,Los Gatos,CA,0:00:00,Stanford University
 6,486344,Lillian,McCormick,Solana Beach,CA,0:00:00,University of California-San Diego
 7,344090,Jocelyn,Vides,Reno,NV,0:00:00,University of California-Berkeley
 8,291002,Arielle,Little,Berkeley,CA,0:00:00,University of California-Berkeley

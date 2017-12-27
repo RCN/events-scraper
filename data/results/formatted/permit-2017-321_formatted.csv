@@ -8,7 +8,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,439073,Kurt,Jambretz,Palm Beach,FL,38:30.8,Faster Cycling Perf.Center
 5,164776,Kevin,Channer,Deerfield Beach,FL,38:33.3,Unattached
 6,417372,Jose,Perez,Miami,FL,39:00.9,Team Cornerstone - FL
-7,394511,Gaston,Diaz,Lake Worth,FL,39:00.9,Vivo Cycling Attorney
+7,394511,Gaston,Diaz,West Palm Beach,FL,39:00.9,Vivo Cycling Attorney
 8,72470,Paul,Perry,Plantation,FL,39:00.9,Cycle Depot Racing Team
 9,493776,Thomas,Houtenbrink,Boca Raton,FL,39:01.0,Unattached
 10,410832,Simone,Berger,Boca Raton,FL,39:01.0,RACERS EDGE CYCLE SHOP
@@ -18,7 +18,7 @@ DNS,442913,Scott,Gilbert,Weston,FL,00:00.0,Unattached
 Place,License #,First,Last,City,State,Time,Team
 1,65563,Jorge,Garcia,Davie,FL,37:13.9,D Proffesional
 2,275940,Javier,Ortiz,Cooper City,FL,37:37.2,Ghost Riders
-3,222404,Kevin,Abbate,Boynton Beach,FL,37:37.5,Bill Bone Bike Law/LCT
+3,222404,Kevin,Abbate,Hypoluxo,FL,37:37.5,Bill Bone Bike Law/LCT
 4,65450,Andrew,Teixeira,Pembroke Pines,FL,37:40.0,Cycle Depot Racing Team
 5,303950,Bruce,Keno,Hollywood,FL,37:40.4,Velo Masters Of Miami
 6,300328,Jerry,Cabrera,Weston,FL,37:55.9,D Proffesional
@@ -29,7 +29,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,500920,Jorge E,Garcia,Elmhurst,NY,00:00.0,PPRNYC
 2,365545,Lisandro,Cristia,Miami,FL,02:00.0,CEIVER
-3,494503,JeanLuc,ContantGalitello,Pompano Beach,FL,03:00.0,Interactive Metronome
+3,494503,JeanLuc,ContantGalitello,Coconut Creek,FL,03:00.0,Interactive Metronome
 4,439073,Kurt,Jambretz,Palm Beach,FL,10:00.0,Faster Cycling Perf.Center
 5,361266,Pedro,Camargo,Miami,FL,15:00.0,Unattached
 6,515705,Jealine,George,Coconut Creek,FL,15:00.0,Big Wheel
@@ -44,7 +44,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,39384,Alexander,Zambrana,Fort Lauderdale,FL,0:48:39,RACERS EDGE CYCLE SHOP
 4,193019,Luis,Zayas,Miami,FL,0:48:40,All 4 Cycling
 5,489238,Jose,Gonzalez,Miami,FL,0:48:40,Unattached
-6,439698,andrew,geffner,Miami,FL,0:48:43,Rush/Piquet
+6,439698,andrew,geffner,Boulder,CO,0:48:43,Rush/Piquet
 7,280726,Patrick,Sansbury,Deerfield Beach,FL,0:48:45,Vivo Cycling Attorney
 8,294665,Xavier,Carville Alonso,Miami,FL,0:48:48,Rush/Piquet
 9,496488,Ariel,Lee,Miami,FL,0:48:49,Team Cornerstone - FL
@@ -69,7 +69,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,417372,Jose,Perez,Miami,FL,49:39.3,Team Cornerstone - FL
 10,455057,Erdwin,Buitrago,Homestead,FL,49:40.5,Unattached
 11,311479,Edward,Lee,Lake Worth,FL,49:40.9,Bill Bone Bike Law/LCT
-12,394511,gaston,diaz,Lake Worth,FL,49:41.7,Morning Ride
+12,394511,gaston,diaz,West Palm Beach,FL,49:41.7,Morning Ride
 13,460571,John,Zevallos,Hollywood,FL,49:42.3,Alligator Cycling Club
 14,447283,Sergio,Alvarez,Miami,FL,49:42.6,Team Cornerstone - FL
 15,458560,Jose,Alamo,Miami,FL,49:43.4,Morning Ride CC
@@ -99,7 +99,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,275940,Javier,Ortiz,Cooper City,FL,48:46.8,Ghost Riders
 10,65563,Jorge,Garcia,Davie,FL,48:48.1,D Proffesional
 11,85222,Stephen,Gilligan,Deerfield Beach,FL,48:50.5,B&J Bicycles
-12,222404,Kevin,Abbate,Boynton Beach,FL,49:00.8,Bill Bone Bike Law/LCT
+12,222404,Kevin,Abbate,Hypoluxo,FL,49:00.8,Bill Bone Bike Law/LCT
 13,338172,Jose,Casas,West Palm Beach,FL,49:00.9,Bill Bone Bike Law/LCT
 14,256991,Ransford,robinson,Pembroke Pines,FL,49:01.3,Cycle Depot Racing Team
 15,65450,Andrew,Teixeira,Pembroke Pines,FL,49:01.5,Cycle Depot Racing Team
@@ -120,14 +120,14 @@ DNF,317968,Oscar,Flores,Boynton Beach,FL,00:00.0,Bill Bone Bike Law/LCT
 
 01/22/2017 Criterium Men Cat 4/5
 Place,License #,First,Last,City,State,Time,Team
-1,511698,Harrison,Scales,,,49:07.3,Unattached
+1,511698,Harrison,Scales,St. Augustine,FL,49:07.3,Unattached
 2,365545,Lisandro,Cristia,Miami,FL,49:09.4,CEIVER
 3,470682,Alexis,Cespedes,Miami,FL,49:10.1,Silcarbon Racing
 4,500920,Jorge E,Garcia,Elmhurst,NY,49:50.0,PPRNYC
 5,365573,Nicholas,Tabares,Miami,FL,49:52.0,Silcarbon Racing Team
 6,495893,Jose,Garcel,Miami,FL,49:52.1,Sun Cycling Team
 7,439073,Kurt,Jambretz,Palm Beach,FL,49:55.4,Faster Cycling Perf.Center
-8,494503,JeanLuc,ContantGalitello,Pompano Beach,FL,50:01.1,Interactive Metronome
+8,494503,JeanLuc,ContantGalitello,Coconut Creek,FL,50:01.1,Interactive Metronome
 9,524568,Leonardo,Solorzano,Miami,FL,50:12.6,Unattached
 10,0,Jose L,Sanchez,,,50:13.5,Unattached
 11,383482,Javier,Valderrama,Miami ,FL,50:24.4,Unattached
@@ -153,7 +153,7 @@ DNF,460237,Angel,Garcia,Ormond Beach,FL,00:00.0,Unattached
 DNF,454230,Jason,Delgado,Pembroke Pines,FL,00:00.0,Morning Ride CC
 DNF,500061,Garfield,Smith,Wellington,FL,00:00.0,One Love
 DNF,456738,Randy,Caraballo,Miamim,FL,00:00.0,Rush/Piquet
-DNF,523864,Manuel,Montanez,Sunny Isles,FL,00:00.0,Cranky It Up
+DNF,523864,Manuel,Montanez,Hallandale Beach,FL,00:00.0,Cranky It Up
 DNF,478108,Kaue,King,Pembroke Pines,FL,00:00.0,Interactive Metronome
 DNF,429283,Carlo,Roche,Pembroke Pines,FL,00:00.0,Interactive Metronome
 DNF,488109,Genaro,Smith,Miramar,FL,00:00.0,Big Wheel
@@ -169,7 +169,7 @@ DNF,455977,Orelvys,Nolasco,Hialeahh,FL,00:00.0,Unattached
 Place,License #,First,Last,City,State,Time,Team
 1,193019,Luis,Zayas,Miami,FL,1:02:18,All 4 Cycling
 2,39384,Alexander,Zambrana,Fort Lauderdale,FL,1:02:18,RACERS EDGE CYCLE SHOP
-3,439698,andrew,geffner,Miami,FL,1:02:28,Rush/Piquet
+3,439698,andrew,geffner,Boulder,CO,1:02:28,Rush/Piquet
 4,288135,Luis Alberto,Romero Amaran,Kingwood,TX,1:03:16,D Proffesional
 5,367745,Enrique,Lopez,Miami,FL,1:03:30,Stradalli Cycle / Saffeti
 6,316004,Sandor,Delgado,Hialeah,FL,1:03:31,D Proffesional
@@ -246,7 +246,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,242172,Israel,Vera,Miami,FL,49:46.1,Bike Link
 9,299873,Nivio,Diaz,Davie,FL,49:46.5,D Proffesional
 10,65563,Jorge,Garcia,Davie,FL,49:46.9,D Proffesional
-11,222404,Kevin,Abbate,Boynton Beach,FL,49:47.0,Bill Bone Bike Law/LCT
+11,222404,Kevin,Abbate,Hypoluxo,FL,49:47.0,Bill Bone Bike Law/LCT
 12,303950,Bruce,Keno,Hollywood,FL,49:47.2,Velo Masters Of Miami
 13,268915,Paul,Lincoln,Weston,FL,49:47.9,Cycle Depot Racing Team
 14,468479,Dan,Bond,Boca Raton,FL,49:48.2,Unattached
@@ -263,7 +263,7 @@ DNF,115784,Martin,Vernon,Davie,FL,00:00.0,Big Wheel Sunrise
 01/15/2017 Criterium Men Cat 4/5
 Place,License #,First,Last,City,State,Time,Team
 1,500920,Jorge E,Garcia,Elmhurst,NY,49:07.2,PPRNYC
-2,456418,Fabian,Garcia,Miami,FL,49:07.8,Rush/Piquet
+2,450850,Fabian,Garcia,S. Miami,FL,49:07.8,Rush/Piquet
 3,349456,Yelexy,Acanda,Hialeah,FL,49:08.4,South MIAMI BIKE SHOP
 4,497318,Mavin,Anderson,Fort Lauderdale,FL,49:08.6,Big Wheel Sunrise
 5,365545,Lisandro,Cristia,Miami,FL,49:08.7,CEIVER
@@ -281,12 +281,12 @@ Place,License #,First,Last,City,State,Time,Team
 17,524208,Sergio,Castellanos,Miami Beach,FL,49:12.0,Unattached
 18,503400,Carlos,Mendoza,Doral,FL,49:12.5,Pure Power Bike Shop
 19,458560,Jose,Alamo,Miami,FL,49:13.9,Unattached
-20,523864,Manuel,Montanez,Sunny Isles,FL,49:14.0,Cranky It Up
+20,523864,Manuel,Montanez,Hallandale Beach,FL,49:14.0,Cranky It Up
 21,496544,Robert,Artiga Parker,Miami,FL,49:14.2,Cornerstone
 22,488385,Christopher,Martincavage,Lake Worth,FL,49:14.5,Unattached
 23,439073,Kurt,Jambretz,Palm Beach,FL,49:14.8,Faster Cycling Perf.Center
 24,0,Christian,Hernandez,,,49:15.2,Team Cornerstone - FL
-25,494503,JeanLuc,ContantGalitello,Pompano Beach,FL,49:15.3,Interactive Metronome
+25,494503,JeanLuc,ContantGalitello,Coconut Creek,FL,49:15.3,Interactive Metronome
 26,458591,Robert,Martell,Homestead,FL,49:15.9,Unattached
 27,361266,Pedro,Camargo,Miami,FL,49:16.0,Unattached
 28,507906,Jonathan,Solanilla,North Miami Beach,FL,49:16.5,Cranky It Up
@@ -331,17 +331,17 @@ Place,License #,First,Last,City,State,Time,Team
 25,358566,Christian,Viera,Pembroke Pines,FL,1:13:13,Colavita Racing Inc
 26,299873,Nivio,Diaz,Davie,FL,1:13:16,D Proffesional
 27,65563,Jorge,Garcia,Davie,FL,1:13:21,D Proffesional
-28,439698,andrew,geffner,Miami,FL,1:13:29,Rush/Piquet
+28,439698,andrew,geffner,Boulder,CO,1:13:29,Rush/Piquet
 29,163923,Gunter W,Hermanni,Miami,FL,1:13:45,All 4 Cycling
 30,243186,Jose,Armas,Pembroke Pines,FL,1:13:46,D Proffesional
 31,393154,Samuel,Sanchez,Weston,FL,1:13:52,Colavita Racing Inc
 32,73508,Grant,Potter,Parkland,FL,1:13:57,All 4 Cycling
 33,316004,Sandor,Delgado,Hialeah,FL,1:14:12,D Proffesional
 34,474880,Alfredo,Diaz,Miami,FL,1:14:12,Team Cornerstone - FL
-DNS,222404,Kevin,Abbate,Boynton Beach,FL,0:00:00,Bill Bone Bike Law/LCT
+DNS,222404,Kevin,Abbate,Hypoluxo,FL,0:00:00,Bill Bone Bike Law/LCT
 DNF,367996,John,Butler,Watkinsville,GA,0:00:00,Stradalli Cycle / Saffeti
 DNF,313408,Sebastian,Morfin,Weston,FL,0:00:00,Stradalli Cycle / Saffeti
-DNF,504799,Peter,Foerster,,,0:00:00,Stradalli Cycle / Saffeti
+DNF,504799,Peter,Foerster,Atlanta,GA,0:00:00,Stradalli Cycle / Saffeti
 DNF,70612,Andrew P,Crater,Greenville ,SC,0:00:00,Stradalli Cycle / Saffeti
 DNF,178109,Andrew D,Scarano,Athens,GA,0:00:00,Stradalli Cycle / Saffeti
 DNF,424332,Jose Frank,Rodriguez,Miami,FL,0:00:00,Stradalli Cycle / Saffeti
@@ -368,7 +368,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,417372,Jose,Perez,Miami,FL,52:38.9,Team Cornerstone - FL
 8,434957,Stelio,Herrera,Hialeah,FL,52:41.3,CEIVER
 9,458560,Jose,Alamo,Miami,FL,52:42.3,Unattached
-10,394511,Gaston,Diaz,Lake Worth,FL,52:42.3,Vivo Cycling Attorney
+10,394511,Gaston,Diaz,West Palm Beach,FL,52:42.3,Vivo Cycling Attorney
 11,164776,Kevin,Channer,Deerfield Beach,FL,52:42.5,Unattached
 12,0,Anatoli,Cancio,,,52:42.5,Bike Link
 13,493776,Thomas,Houtenbrink,Boca Raton,FL,52:58.4,Unattached
@@ -384,7 +384,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,243186,Jose,Armas,Pembroke Pines,FL,52:18.0,D Proffesional
 2,340500,Jose A,Rodriguez,Miami,FL,52:19.0,All 4 Cycling
 3,299873,Nivio,Diaz,Davie,FL,52:20.0,Unattached
-4,222404,Kevin,Abbate,Boynton Beach,FL,52:20.0,Bill Bone Bike Law/LCT
+4,222404,Kevin,Abbate,Hypoluxo,FL,52:20.0,Bill Bone Bike Law/LCT
 5,468479,Dan,Bond,Boca Raton,FL,52:21.0,Unattached
 6,235127,Jonet,Hernandez,Fort Lauderdale,FL,52:21.0,GS Palm Beach
 7,85222,Stephen,Gilligan,Deerfield Beach,FL,52:22.0,B&J Bicycles
@@ -401,14 +401,14 @@ DNF,115784,Martin,Vernon,Davie,FL,00:00.0,Big Wheel Sunrise
 01/08/2017 Criterium Men Cat 4/5
 Place,License #,First,Last,City,State,Time,Team
 1,500920,Jorge E,Garcia,Elmhurst,NY,47:46.0,PPRNYC
-2,494503,JeanLuc,ContantGalitello,Pompano Beach,FL,47:46.8,Interactive Metronome
+2,494503,JeanLuc,ContantGalitello,Coconut Creek,FL,47:46.8,Interactive Metronome
 3,497318,Mavin,Anderson,Fort Lauderdale,FL,47:49.7,Unattached
 4,349456,Yelexy,Acanda,Hialeah,FL,47:50.2,South MIAMI BIKE SHOP
 5,0,Manuel,Montanez,,,47:50.2,Cranky It Up
 6,484026,Ronel,Manresa,Hallandale,FL,47:50.3,Interactive Metronome
 7,434957,Stelio,Herrera,Hialeah,FL,47:50.5,CEIVER
 8,472611,simon,reyes,Fort Lauderdale,FL,47:50.5,Unattached
-9,456418,Fabian,Garcia,Miami,FL,47:50.6,Rush/Piquet
+9,450850,Fabian,Garcia,S. Miami,FL,47:50.6,Rush/Piquet
 10,456738,Randy,Caraballo,Miamim,FL,47:50.8,Rush/Piquet
 11,454230,Jason,Delgado,Pembroke Pines,FL,47:50.9,Morning Ride CC
 12,393323,Alex,Supik,Fort Lauderdalecooper City,FL,47:51.0,Interactive Metronome
@@ -437,13 +437,13 @@ DNF,523545,Alexis,Machin,Miami,FL,00:00.0,Corney Stone-FL
 DNF,0,Fred,Anthony,,,00:00.0,Unattached
 DNF,500061,Garfield,Smith,Wellington,FL,00:00.0,One Love
 DNF,499226,Joel,Borego,Miami,FL,00:00.0,CEIVER
-DNF,394511,Gaston,Diaz,Lake Worth,FL,00:00.0,Vivo Cycling Attorney
+DNF,394511,Gaston,Diaz,West Palm Beach,FL,00:00.0,Vivo Cycling Attorney
 
 01/08/2017 Criterium Men Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
 1,193019,Luis,Zayas,Miami,FL,1:02:29,All 4 Cycling
 2,288135,Luis Alberto,Romero Amaran,Kingwood,TX,1:02:30,D Proffesional
-3,439698,andrew,geffner,Miami,FL,1:02:30,Rush/Piquet
+3,439698,andrew,geffner,Boulder,CO,1:02:30,Rush/Piquet
 4,489238,Jose,Gonzalez,Miami,FL,1:02:30,Unattached
 5,204595,Yip,Tsang,Davie,FL,1:02:32,Vivo Cycling Attorney
 6,163923,Gunter W,Hermanni,Miami,FL,1:02:34,All 4 Cycling
@@ -462,7 +462,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,288821,Ivan,Castillo,Hialeah,FL,1:03:10,Rush/Piquet
 20,474880,Alfredo,Diaz,Miami,FL,1:03:12,Team Cornerstone - FL
 21,340500,Jose A,Rodriguez,Miami,FL,1:03:13,All 4 Cycling
-22,222404,Kevin,Abbate,Boynton Beach,FL,1:03:15,Bill Bone Bike Law/LCT
+22,222404,Kevin,Abbate,Hypoluxo,FL,1:03:15,Bill Bone Bike Law/LCT
 23,299873,Nivio,Diaz,Davie,FL,1:03:21,D Proffesional
 24,73508,Grant,Potter,Parkland,FL,1:03:22,Unattached
 25,454163,Javier,Bomnin,Miami,FL,1:03:29,Unattached

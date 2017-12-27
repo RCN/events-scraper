@@ -60,7 +60,7 @@ Place,License #,First,Last,City,State,Time,Team
 07/14/2017 Flying Time Trial Men JUNIOR MEN 17-18 17-18
 Place,License #,First,Last,City,State,Time,Team
 1,286193,Michael,Hemmerlin,Mesa,AZ,:12.2,
-2,499504,Evan,Boone,Fort Huachuca,AZ,:12.7,
+2,499504,Evan,Boone,Sierra Vista,AZ,:12.7,
 
 07/14/2017 Flying Time Trial Men MASTERS MEN 30-34 30-34
 Place,License #,First,Last,City,State,Time,Team
@@ -100,7 +100,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,51604,Henry,Shibata,Encino,CA,:13.6,
 2,186482,Rick,Skalak,Valencia,CA,:13.7,
 3,305794,Robert,Tompkins,Anthem,AZ,:14.4,
-4,310861,Gilbert,Marrero,Surprise ,AZ,:15.1,
+4,310861,Gilbert,Marrero,Surprise,AZ,:15.1,
 5,523680,Steven,Silberberg,Morristown,AZ,:15.4,
 
 07/14/2017 Flying Time Trial Men MASTERS MEN 70-74 70-74
@@ -214,7 +214,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,286193,Michael,Hemmerlin,Mesa,AZ,01:14.0,
 1,286193,Michael,Hemmerlin,Mesa,AZ,03:53.1,
-2,499504,Evan,Boone,Fort Huachuca,AZ,01:16.0,
+2,499504,Evan,Boone,Sierra Vista,AZ,01:16.0,
 
 07/14/2017 Individual Time Trial Men MASTERS MEN 30-34 30-34
 Place,License #,First,Last,City,State,Time,Team
@@ -263,8 +263,8 @@ Place,License #,First,Last,City,State,Time,Team
 3,523680,Steven,Silberberg,Morristown,AZ,03:20.3,
 3,305794,Robert,Tompkins,Anthem,AZ,:43.4,
 4,523680,Steven,Silberberg,Morristown,AZ,:44.1,
-5,310861,Gilbert,Marrero,Surprise ,AZ,:46.3,
-DNS,310861,Gilbert,Marrero,Surprise ,AZ,DNS,
+5,310861,Gilbert,Marrero,Surprise,AZ,:46.3,
+DNS,310861,Gilbert,Marrero,Surprise,AZ,DNS,
 
 07/14/2017 Individual Time Trial Men MASTERS MEN 70-74 70-74
 Place,License #,First,Last,City,State,Time,Team
@@ -341,7 +341,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 07/14/2017 Omnium Men OPEN MEN CATEGORY 5
 Place,License #,First,Last,City,State,Time,Team
-5,499504,Evan,Boone,Fort Huachuca,AZ,,
+5,499504,Evan,Boone,Sierra Vista,AZ,,
 7,295028,Guillermo,Roman,Marina Del Rey,CA,,
 
 07/14/2017 Omnium Women OPEN WOMEN CATEGORY 4
@@ -349,7 +349,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,0,Georgiana,Urgeaneu,,,,
 2,341410,Katherine,Salthouse,Tucson,AZ,,
 4,274860,Peninah,Rosenblum,San Diego,CA,,
-5,455326,Lisa,OReilly,North Hollywood,CA,,
+5,455326,Lisa,OReilly,Los Angeles,CA,,
 
 07/14/2017 Omnium Women OPEN WOMEN CATEGORY 5
 Place,License #,First,Last,City,State,Time,Team
@@ -377,7 +377,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 07/14/2017 Sprint Men OPEN MEN CATEGORY 5
 Place,License #,First,Last,City,State,Time,Team
-1,499504,Evan,Boone,Fort Huachuca,AZ,,
+1,499504,Evan,Boone,Sierra Vista,AZ,,
 2,460039,Gabriel,Perez,Tempe,AZ,,
 3,0,Lorenzo,Estril,,,,
 4,494136,Clayton,Miller,Scottsdale,AZ,,
@@ -386,7 +386,7 @@ Place,License #,First,Last,City,State,Time,Team
 07/14/2017 Sprint Men JUNIOR MEN 17-18 17-18
 Place,License #,First,Last,City,State,Time,Team
 1,286193,Michael,Hemmerlin,Mesa,AZ,,
-2,499504,Evan,Boone,Fort Huachuca,AZ,,
+2,499504,Evan,Boone,Sierra Vista,AZ,,
 
 07/14/2017 Sprint Men MASTERS MEN 40-44 40-44
 Place,License #,First,Last,City,State,Time,Team
@@ -403,7 +403,7 @@ Place,License #,First,Last,City,State,Time,Team
 07/14/2017 Sprint Men MASTERS MEN 65-69 65-69
 Place,License #,First,Last,City,State,Time,Team
 1,305794,Robert,Tompkins,Anthem,AZ,,
-2,310861,Gilbert,Marrero,Surprise ,AZ,,
+2,310861,Gilbert,Marrero,Surprise,AZ,,
 3,523680,Steven,Silberberg,Morristown,AZ,,
 
 07/14/2017 Sprint Men MASTERS MEN 70-74 70-74
@@ -453,11 +453,11 @@ DNF,331948,Vinh,Tran,Canoga Park,CA,,
 
 07/14/2017 Scratch Race Men OPEN MEN CATEGORY 5
 Place,License #,First,Last,City,State,Time,Team
-2,499504,Evan,Boone,Fort Huachuca,AZ,,
+2,499504,Evan,Boone,Sierra Vista,AZ,,
 3,494136,Clayton,Miller,Scottsdale,AZ,,
-4,499504,Evan,Boone,Fort Huachuca,AZ,,
+4,499504,Evan,Boone,Sierra Vista,AZ,,
 5,460039,Gabriel,Perez,Tempe,AZ,,
-5,499504,Evan,Boone,Fort Huachuca,AZ,,
+5,499504,Evan,Boone,Sierra Vista,AZ,,
 7,295028,Guillermo,Roman,Marina Del Rey,CA,,
 7,295028,Guillermo,Roman,Marina Del Rey,CA,,
 DNF,537488,Randy,McCaskill,Scottsdale,AZ,,
@@ -485,12 +485,12 @@ Place,License #,First,Last,City,State,Time,Team
 1,0,Georgiana,Urgeaneu,,,,
 1,341410,Katherine,Salthouse,Tucson,AZ,,
 2,341410,Katherine,Salthouse,Tucson,AZ,,
-2,455326,Lisa,OReilly,North Hollywood,CA,,
+2,455326,Lisa,OReilly,Los Angeles,CA,,
 2,489136,Tori,Riemersma,Tempe,AZ,,
 3,341410,Katherine,Salthouse,Tucson,AZ,,
 3,274860,Peninah,Rosenblum,San Diego,CA,,
 4,274860,Peninah,Rosenblum,San Diego,CA,,
-5,455326,Lisa,OReilly,North Hollywood,CA,,
+5,455326,Lisa,OReilly,Los Angeles,CA,,
 DNF,73527,Tracy,Barclay,Tucson,AZ,,
 DNF,73527,Tracy,Barclay,Tucson,AZ,,
 DNF,417291,Kim,Soule,Tucson,AZ,,
@@ -537,7 +537,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,460039,Gabriel,Perez,Tempe,AZ,:59.7,
 1,458864,Benjamin,Mangilit,Tempe,AZ,:59.7,
 3,494136,Clayton,Miller,Scottsdale,AZ,:54.9,
-5,499504,Evan,Boone,Fort Huachuca,AZ,,
+5,499504,Evan,Boone,Sierra Vista,AZ,,
 6,295028,Guillermo,Roman,Marina Del Rey,CA,,
 DNF,523680,Steven,Silberberg,Morristown,AZ,DNS,
 DNF,413601,Michael,Tucker,Chandler,AZ,DNS,
@@ -607,7 +607,7 @@ DNF,195195,Charlayne,Barger,Chandler,AZ,,
 Place,License #,First,Last,City,State,Time,Team
 1,489136,Tori,Riemersma,Tempe,AZ,:59.7,
 1,0,Georgiana,Urgeaneu,,,,
-3,455326,Lisa,OReilly,North Hollywood,CA,,
+3,455326,Lisa,OReilly,Los Angeles,CA,,
 4,341410,Katherine,Salthouse,Tucson,AZ,,
 5,274860,Peninah,Rosenblum,San Diego,CA,,
 DNF,73527,Tracy,Barclay,Tucson,AZ,,

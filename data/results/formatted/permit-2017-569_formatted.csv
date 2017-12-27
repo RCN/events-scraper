@@ -15,7 +15,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 01/29/2017 Criterium Men Cat 3/4 Master 35+
 Place,License #,First,Last,City,State,Time,Team
-1,132324,Anthony,Freeman,Marina Del Rey,CA,,Big Orange Cycling p/b Beachbody Performance
+1,132324,Anthony,Freeman,Manhattan Beach,CA,,Big Orange Cycling p/b Beachbody Performance
 2,458064,Sean,Hall,Tujunga,CA,,PAA Cycling
 3,289836,Jorge,Hernandez,Santa Barbara,CA,,Polli Veloce
 4,187149,Jason,Reynolds,Yucaipa,CA,,Team Redlands
@@ -98,10 +98,10 @@ Place,License #,First,Last,City,State,Time,Team
 12,30054,James,Robbins,Aliso Viejo,CA,,S2C/BOSCH pb Pearl Izumi
 13,313598,paul,chia,Castaic,CA,,CBS Cycling
 14,287656,Pablo,Trujillo,Santa Barbara,CA,,Polli Veloce
-15,9327,Earl,Detrick,Thousand Oaks ,CA,,Serious Cycling
+15,9327,Earl,Detrick,Thousand Oaks,CA,,Serious Cycling
 16,364697,MICHAEL,PENTA,Thousand Oaks,CA,,Big Orange Cycling p/b Beachbody Performance
-17,148165,Erick,Rodas,Los Angeles,CA,,Velo Club La Grange +21
-18,50838,Christopher,Lotts,Huntington Beach,CA,,Corridor Recycling
+17,148165,Erick,Rodas,,,,Velo Club La Grange +21
+18,50838,Christopher,Lotts,Fountain Valley,CA,,Corridor Recycling
 19,114543,Jon,Davis,Woodland Hills,CA,,Serious Cycling
 20,419333,Kendall,stanley,Compton,CA,,Factory Racing
 21,66036,Soren,Molina,Santa Barbara,CA,,R5 Ciclismo
@@ -139,7 +139,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,45825,Kyle,Radford,Orcutt,CA,,Gianni Amore Racing
 15,47305,James,Perren,Oceanside,CA,,San Diego Bicycle Club
 DNF,406082,Eric,Zook,Somis,CA,,Serious Cycling
-DNF,45552,Douglas,Knox,Santa Barbara,CA,,Velo Pasadena Team
+DNF,45552,Douglas,Knox,North Hollywood,CA,,Velo Pasadena Team
 DNF,35624,Randall,Tinney,Santa Barbara,CA,,Cannondale Capo p/b GQ-6 Masters Team
 DNF,316434,Charles,Hicks,Pasadena,CA,,Bahati Foundation
 DNF,60756,Steven,Grusis,Madera,CA,,Off The Front
@@ -167,7 +167,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,428648,Hector,Morales,Inglewood ,CA,,Bicycle.net Racing Team
 20,60730,Shaun,Bagley,Visalia,CA,,CoreTechs Cycling Team
 21,313364,Ethan,Frankel,Mill Valley,CA,,La Grange Development U21
-22,456576,Samuel,Boardman,Washington,CA,,Herbalife p/b Marc Pro - Nature's Bakery
+22,456576,Samuel,Boardman,Los Angeles,CA,,Herbalife p/b Marc Pro - Nature's Bakery
 23,458669,steve,kim,Rancho Palos Verdes,CA,,Team Surf City p/b Eliel/Pioneer
 24,459871,Brandon,Baker,Santa Barbara,CA,,Fig Mtn Brew Racing
 25,422932,Nicholas,Besse,Scotts Valley,CA,,UCSB Cycling
@@ -184,11 +184,11 @@ Place,License #,First,Last,City,State,Time,Team
 36,440626,Tim,McBirney,Menlo Park,CA,,Cycle Sport - Specialized p/b Muscle Milk
 37,523242,Steven,Willemsen,Goleta,CA,,
 38,458029,julien,bourdevaire,Torrance,CA,,Big Bear Cycling Association
-39,269966,Chester,Gillmore,Santa Barbara,CA,,Dolce Vita Freewheel p/b SL2
+39,269966,Chester,Gillmore,San Francisco,CA,,Dolce Vita Freewheel p/b SL2
 40,356604,Jeffrey,Stern,Santa Barbara,CA,,Cycle Sport - Specialized p/b Muscle Milk
 41,367909,Imeh,Nsek,Ontario,CA,,LUX/Stradling p/b Specialized
 42,407216,David,Ortiz,Pomona ,CA,,Southern California Velo
-43,448552,Andrew,Scott,Morristown,NJ,,DNK Cycling
+43,448552,Andrew,Scott,Seal Harbor ,NJ,,DNK Cycling
 44,394680,Osvaldo,Mora,Norwalk,CA,,Southern California Velo -  Main Street Garage Junior Development
 45,441026,Andrew,Erickson,Las Vegas,NV,,Carefast
 46,291303,Kelsey,Judd,Goleta,CA,,Fig Mtn Brew Racing
@@ -199,7 +199,7 @@ Place,License #,First,Last,City,State,Time,Team
 51,251687,Kirk,Nordgren,Santa Ynez,CA,,Fig Mtn Brew Racing
 52,416390,Sam,AndersonMoxley,Oakland,CA,,Cycle Sport - Specialized p/b Muscle Milk
 53,347396,Chase,Goldstein,Los Angeles,CA,,The Weather Channel Specialized Cycling Team
-54,182728,Max,Hernandez,Rancho Cucamonga ,CA,,Team Surf City p/b Eliel/Pioneer
+54,182728,Max,Hernandez,Rancho Cucamonga,CA,,Team Surf City p/b Eliel/Pioneer
 55,337388,Robert,Lozoya,Santa Barbara,CA,,Fig Mtn Brew Racing
 56,287102,Derek,Unland,San Luis Obispo,CA,,SRAM Factory
 57,357164,Terry,Steeves,Henderson,NV,,Monster Media Elite Masters
@@ -239,7 +239,7 @@ DNF,392832,Kevin,Hernandez,Winnetka,CA,,LUX/Stradling p/b Specialized
 DNF,47207,Christopher,Brown,Goleta,CA,,Stinner Bicycle Co
 DNF,498629,Ezequiel,Perez,Pomona,CA,,Southern California Velo -  Main Street Garage Junior Development
 DNF,290380,Taylor,Clements,Santa Barbara,CA,,VRC-Giant p/b Stradling
-DNF,148165,Erick,Rodas,Los Angeles,CA,,Velo Club La Grange +21
+DNF,148165,Erick,Rodas,,,,Velo Club La Grange +21
 DNF,45772,Joseph,Pasqualetto,Chino,CA,,PAA Cycling
 DNF,51230,Dennis,King,Arroyo Grande,CA,,Central Coast Tire CCT
 DNF,301042,Christopher,Wyman,Long Beach,CA,,Pacific Premier Bank Cycling Team
@@ -265,7 +265,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,459573,Ryan,Geyer,Goleta,CA,,
 6,430540,Nick,Martinez,Seal Beach,CA,,Velo Club LaGrange
 7,458417,Richard,Stegenga,Santa Maria,CA,,US Military Endurance Sports
-8,459037,Michael,Baumgartner,Lompoc,CA,,US Military Endurance Sports
+8,459037,Michael,Baumgartner,Peyton,CO,,US Military Endurance Sports
 8,510155,Kevin,Escobar,Los Angeles,CA,,Martin's Pro Bikes Team
 8,512123,Rooney,escobar,Los Angeles,CA,,
 8,460009,Kieran,Hook,Santa Barbara,CA,,Echelon Santa Barbara
@@ -292,7 +292,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,243313,Gilberto,Hernandez,Oxnard,CA,,
 11,399649,Dan,Pealstrom,Los Angeles,CA,,
 12,249659,Mike,Hatton,Santa Maria,CA,,US Military Endurance Sports
-13,422846,Jonathan,Perez,Ventura ,CA,,
+13,422846,Jonathan,Perez,Ventura,CA,,
 14,459847,Mike,Garcia,Santa Barbara,CA,,UCSB Cycling
 15,459124,Manuel,Aguilar,Los Angeles,CA,,Bicycle.net
 16,457478,Case,Regan,Santa Barbara,CA,,Echelon Santa Barbara

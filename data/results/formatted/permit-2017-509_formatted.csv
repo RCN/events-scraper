@@ -59,7 +59,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,523573,Bud,LACOMBE,Scottsdale,AZ,2:24:06,
 18,503606,Rick,WOOD,Ormond Beach,FL,2:24:22,
 19,156549,Ed,VASQUEZ,Mesa,AZ,2:24:37,
-20,366670,David,PLATON,Avondale ,AZ,2:25:29,
+20,366670,David,PLATON,Avondale,AZ,2:25:29,
 21,488525,Tom,LIDDELL,Mesa,AZ,2:25:30,
 22,494350,George,DILLEMUTH,Sahuarita,AZ,2:25:30,
 23,415282,Daniel,FURTNEY,Tucson,AZ,2:25:51,
@@ -110,9 +110,9 @@ Place,License #,First,Last,City,State,Time,Team
 21,425439,Terrell,BROWN,Avondale,AZ,2:30:19,
 22,48436,Brett,VAN DE SANDE,Tempe,AZ,2:30:33,
 23,449058,Zachary,MORRISON,Buckeye,AZ,2:31:10,
-24,112263,Paul,HUNT,Scottsdale ,AZ,2:31:23,
+24,112263,Paul,HUNT,Scottsdale,AZ,2:31:23,
 25,290623,Joe,ALTOMARE,Tucson,AZ,3:02:51,
-DNS,392666,Bill,KARRAS,Mesa ,AZ,0:00:00,
+DNS,392666,Bill,KARRAS,Mesa,AZ,0:00:00,
 
 06/17/2017 Road Race Men Cat. 2 81 Miles 15-99
 Place,License #,First,Last,City,State,Time,Team
@@ -159,7 +159,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,14781,David,HAMBLEN,Scottsdale,AZ,2:18:38,
 5,1806,Bryan,ANTOL,Flagstaff,AZ,2:18:39,
 6,286219,David,CARRIERE,Scottsdale,AZ,2:18:41,
-7,440780,Jose,NICOLA,,,2:18:44,
+7,467095,Jose,NICOLA,,,2:18:44,
 8,247766,Jim,HOLBROOK,Peoria,AZ,2:20:13,
 9,48532,Matt,MURPHY,Litchfield Park,AZ,2:22:55,
 10,394881,Lynn,ORCHARD,Tucson,AZ,2:36:51,
@@ -192,7 +192,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,466441,Steven,LONG,Vail,AZ,2:18:54,
 2,249689,John,CONAHAY,Tucson,AZ,2:44:12,
 3,49587,Joe,PUCHI,Tubac,AZ,2:44:12,
-4,245777,Steven,BORER,Show Low,AZ,2:55:49,
+4,245777,Steven,BORER,Laguna Hills,CA,2:55:49,
 5,117387,Mike,KUNNECKE,Concho,AZ,3:00:08,
 6,188423,Richard,GRAUBARD,Scottsdale,AZ,3:07:03,
 7,0,Thomas,LINCOLN,,,5:03:14,
@@ -205,7 +205,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,113251,John,SALSKOV,Boulder,CO,3:23:26,
 4,195891,Kyle,REEDY,Mesa,AZ,3:23:40,
 5,394102,Adam,BRYFOGLE,Tucson,AZ,3:23:44,
-6,87933,Paul,THOMAS,Gilbert ,AZ,3:23:46,
+6,87933,Paul,THOMAS,Gilbert,AZ,3:23:46,
 7,52030,Drew,MILLER,Flagstaff,AZ,3:23:46,
 8,216006,Miguel,FOLCH,Tucson,AZ,3:26:14,
 9,237283,Joseph,IULIANO,Tucson,AZ,3:32:05,
@@ -241,7 +241,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,395508,Shelby,HOGLUND,Tucson,AZ,2:54:34,
 2,522301,Ellie,WOOD,Tucson,AZ,3:11:12,
-3,459515,Alissa,ALBRECHT,Tempe,FL,3:19:31,
+3,459515,Alissa,ALBRECHT,Tempe,AZ,3:19:31,
 
 06/17/2017 Road Race Women Cat. 2 58 Miles 15-99
 Place,License #,First,Last,City,State,Time,Team
@@ -258,7 +258,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 06/17/2017 Road Race Women Cat. 1/2/3/4/5 Masters 58 Miles 35-99
 Place,License #,First,Last,City,State,Time,Team
-1,301670,Katharina,BEELER,Orovalley,AZ,2:54:03,
+1,301670,Katharina,BEELER,Oro Valley,AZ,2:54:03,
 2,497044,Jessica,BROWN,Chandler,AZ,2:54:05,
 3,501802,Cecily,DUPONT,Gilbert,AZ,2:56:23,
 4,222948,Alli,GREENING,Tucson,AZ,3:19:31,

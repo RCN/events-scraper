@@ -2,7 +2,7 @@ Cal Aggie Criterium  in Sacramento  CA Results
 
 01/28/2017 Criterium Men Pro/Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
-1,381623,Owen,Gillott,Foster City ,CA,,Storck-CCN
+1,381623,Owen,Gillott,Foster City,CA,,Storck-CCN
 2,494043,Leon,Gledhill,,,,
 3,298571,Garrett,Hankins,Carmichael,CA,,Team Mikes Bikes p/b Equator Coffees
 4,283185,Anthony,Ferretti,Oroville,CA,,AMain Cycling Team
@@ -56,7 +56,7 @@ Place,License #,First,Last,City,State,Time,Team
 52,299412,Curt,Mills,Nevada City,CA,,
 54,221376,James,LaBerge,Napa,CA,,Team Mikes Bikes p/b Equator Coffees
 55,402489,Josh,McDonald,Concord,CA,,
-56,136641,Michael,Hernandez,Oakland,CA,,
+56,136641,Michael,Hernandez,Clyde,CA,,
 57,240212,Matt,Tufts,Placerville,CA,,Williams Cycling
 58,269793,Robert,Terra,Lodi,CA,,
 59,403525,Jake,Taylor,Rancho Cordova,CA,,Davis Bike Club
@@ -73,7 +73,7 @@ DNF,188997,Rob,Schell,Richmond,CA,,Dolce Vita Freewheel p/b SL2
 DNF,332032,Bruno,Suttles,Napa,CA,,Davis Bike Club
 DNF,364783,Scott,Kingston,Sacramento,CA,,
 DNF,289169,Aaron,Marchand,Sacramento,CA,,
-DNF,394639,Nicholas,Caster,Roseville  ,CA,,
+DNF,394639,Nicholas,Caster,Roseville,CA,,
 DNF,251736,Josh,Rennie,Reno,NV,,
 DNF,333716,RON,FALLON,Folsom,CA,,
 DNF,61649,Chris,Espy,Sacramento,CA,,
@@ -95,7 +95,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,76561,andre,tenthorey,Granite Bay,CA,,
 14,9524,Jeff,Dillon,Folsom,CA,,Folsom Bike
 15,19782,Frank,Kratzer,San Jose,CA,,Clean Power Cycling pb TESLA
-16,136641,Michael,Hernandez,Oakland,CA,,
+16,136641,Michael,Hernandez,Clyde,CA,,
 17,406652,Christopher,Flower,Folsom  ,CA,,
 18,53115,Jason,Brown,Lodi,CA,,
 19,251736,Josh,Rennie,Reno,NV,,
@@ -108,7 +108,7 @@ Place,License #,First,Last,City,State,Time,Team
 26,128711,Adam,Andelin,Elk Grove,CA,,
 27,413231,James,Ruffin,Riverbank,CA,,Clean Power Cycling pb TESLA
 28,333716,RON,FALLON,Folsom,CA,,Folsom Bike
-29,394639,Nicholas,Caster,Roseville  ,CA,,
+29,394639,Nicholas,Caster,Roseville,CA,,
 30,235063,Jeff,Albert,Reno,NV,,Tex Market.USA
 31,289169,Aaron,Marchand,Sacramento,CA,,
 32,268577,Jason,Snovel,Sacramento,CA,,Sac Valley Racing
@@ -139,7 +139,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,493864,James,Beaumier,Morgan Hill,CA,,Cycle Sport - Specialized p/b Muscle Milk
 2,269119,ROZEL,TUPAZ,Pleasanton,CA,,Lamorinda Cycling Club
 3,422972,Davin,Abrahamian,Chico,CA,,Chico Cycling Team
-4,440491,Philip,Barros,Danville,CA,,Cycle Sport - Specialized p/b Muscle Milk
+4,440491,Philip,Barros,Pleasanton,CA,,Cycle Sport - Specialized p/b Muscle Milk
 5,497084,Kevin,Tanaka,Quincy,CA,,
 6,195575,Steve,Dennison,Sacramento,CA,,Team City Sacramento
 7,276168,Robin,McKinney,Lincoln,CA,,Victory Velo Racing
@@ -209,7 +209,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,494786,ALex,Winter,Santa Clara,CA,,
 2,406045,Henry,Cay,Spring Creeks,NV,,
 3,416939,Kirk,Scheibelhut,Mountain View,CA,,
-4,494505,CJ,Mooneyham,Santa Rosa,CA,,
+4,494505,CJ,Mooneyham,Turlock,CA,,
 5,429965,Austin,Guyette,Seattle,WA,,Blue Hills Cycling Club
 6,496600,nicholas,seaton,Pollock Pines,CA,,
 7,475146,James,Grady,San Francisco,CA,,
@@ -226,7 +226,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,406824,Creighton,Gruber,Chico,CA,,Team Swift
 18,394268,santiago,campos,San Francisco ,CA,,
 19,425398,Adin,Jose,Milpitas,CA,,Velo Reno P/B Western Lithium
-20,440491,Phillip,Barros,Danville,CA,,
+20,440491,Phillip,Barros,Pleasanton,CA,,
 21,488930,Paul,Chomsky,San Francisco,CA,,
 22,392001,Tim,Bright,Reno,NV,,AUDI RENO- TAHOE CYCLING
 23,416726,Samuel,Price,Pine Grove,CA,,Davis Bike Club
@@ -298,7 +298,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,424919,Ayesha,McGowan,El Sobrante,CA,,JAKROO pb Chrome Industries
 3,486780,Amy,Moor,Oakland,CA,,SheSpoke Cycling
 4,392370,Pamela,Levine,Menlo Park,CA,,Team Mikes Bikes p/b Equator Coffees
-5,306378,Kristen,Hill,Woodland,CA,,
+5,306378,Kristen,Hill,Sacramento,CA,,
 
 01/28/2017 Criterium Women Cat 5 Women
 Place,License #,First,Last,City,State,Time,Team
@@ -325,8 +325,8 @@ Place,License #,First,Last,City,State,Time,Team
 2,486780,Amy,Moor,Oakland,CA,,SheSpoke Cycling
 3,392370,Pamela,Levine,Menlo Park,CA,,Team Mikes Bikes p/b Equator Coffees
 4,378684,Kelly,Miller,West Sacramento,CA,,Breakaway Women's Racing p/b Kinetic Cycles
-5,485936,Trish,Pablo,Sacramento ,CA,,Team Mikes Bikes p/b Equator Coffees
-6,306378,Kristen,Hill,Woodland,CA,,Williams Cycling
+5,485936,Trish,Pablo,Rodeo,CA,,Team Mikes Bikes p/b Equator Coffees
+6,306378,Kristen,Hill,Sacramento,CA,,Williams Cycling
 
 01/28/2017 Criterium Mixed Juniors 13-18
 Place,License #,First,Last,City,State,Time,Team
@@ -352,7 +352,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,481605,Jeremiah,Backman,Carmichael,CA,,
 21,0,Sydney,Lewis,,,,
 22,458621,jude,vanni,Rosev,CA,,
-23,495779,Toby,Bodden,Lafayette,CA,,Tieni Duro Junior Cycling Team
+23,495779,Toby,Bodden,Concord,CA,,Tieni Duro Junior Cycling Team
 24,494325,Andrew,Mathiesen,Santa Rosa,CA,,Team Swift
 25,518919,Finn,Thomsen,Davis,CA,,
 26,0,Guild,William,,,,

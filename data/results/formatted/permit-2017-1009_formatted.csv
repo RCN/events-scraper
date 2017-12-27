@@ -12,7 +12,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,227850,Michael,Woell,Minneapolis,MN,3:24:36.9,Mbrac/flanders
 9,210611,Rick,Laliberte,Fargo,ND,3:24:39.7,Vision Racing P/b Sanford Power
 10,333156,Bart,Hollaren,Minneapolis,MN,3:25:18.3,Donkey Label
-11,185493,Peter,Olejniczak,Roseville,MN,3:28:55.4,Orion Racing
+11,185493,Peter,Olejniczak,Minneapolis,MN,3:28:55.4,Orion Racing
 12,311313,Alec,Guggemos,Saint Paul,MN,3:38:02.4,St Paul Bicycle Racing Club
 13,289827,Chad,Weisgram,Audubon ,MN,3:38:02.9,Vision Racing P/b Sanford Power
 14,417655,Andy,Keogh,Plymouth,MN,3:40:38.0,Donkey Label
@@ -43,7 +43,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,529358,Scott,Ehlers,Minneapolis,MN,1:47:34.7,Synergy
 17,488101,Max,Irons,La Crosse,WI,1:47:39.5,
 18,500728,Patrick,Ellis,Hudson,WI,1:47:43.0,
-19,502463,Jonah,Hudson-Erdman,Florence,MA,1:47:43.3,
+19,502463,Jonah,Hudson-Erdman,Northfield,MN,1:47:43.3,
 20,501034,Adam,Mahar,Plymouth,MN,1:47:52.7,
 21,387389,Brad,Ingles,Saint Paul,MN,1:48:07.6,Omnium Racing
 22,527437,Jeffrey,Dick,St. Charles,MN,1:48:11.0,Erik's Bike Club/eriks Bike Shop
@@ -131,7 +131,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,367722,Noah,Wilson,Minneapolis,MN,2:59:59.6,Zubaz Racing
 DNF,500138,Thomas,Olek,Roberts,WI,1:47:27.7,Big Ring Flyers
 DNF,135605,Matt,Finnesgard,Saint Paul,MN,1:56:05.1,Loon State Cyclists
-DNF,391656,Jordan,Buth,St. Paul ,MN,1:56:11.2,Loon State Cyclists
+DNF,391656,Jordan,Buth,St. Paul,MN,1:56:11.2,Loon State Cyclists
 DNF,58752,Andre,Ptak,Las Vegas,NV,1:56:52.2,Chilkoot Racing
 DNF,237314,Alex,Atherton,Brooklyn Park,MN,1:58:48.0,
 
@@ -247,7 +247,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,137107,Bonnie,Donzella,Eagan,MN,2:12:33.8,Hollywood Cycles
 4,467785,Lisa,Martens,Minneapolis,MN,2:12:52.3,Kingfield
 5,497580,Hailey,Smith,Minneapolis,MN,2:12:52.8,Orion Racing
-6,498352,Waverly,Johnston,Minneapolis,MN,2:13:10.7,
+6,498352,Waverly,Johnston,Bloomington,MN,2:13:10.7,
 7,158605,Sherry,Berde Townsend,Mendota Heights,MN,2:30:50.2,Northstar Development
 8,264108,Cheryl,Barker,Hudson,WI,2:31:56.4,Des Moines Cycle Club
 

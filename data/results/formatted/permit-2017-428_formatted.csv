@@ -4,7 +4,7 @@ Cherry Pie Criterium in Napa CA Results
 Place,License #,First,Last,City,State,Time,Team
 1,423654,McKay,KINSEY,Fresno,CA,,ACADEMY
 2,394290,Cooper,DOWNING,Piedmont,CA,,JAKROO presented by Chrome Industries
-3,495779,Toby,BODDEN,Lafayette,CA,,Tieni Duro Junior Cycling Team
+3,495779,Toby,BODDEN,Concord,CA,,Tieni Duro Junior Cycling Team
 4,525659,Felix,SILBELUS,Richmond,CA,,
 5,523907,Benjamin,COLBY,Piedmont,CA,,
 6,525701,Peter,BOWMAN-DAVIS,Napa,CA,,
@@ -12,8 +12,8 @@ Place,License #,First,Last,City,State,Time,Team
 
 02/20/2017 Criterium Men Cat Pro/1/2
 Place,License #,First,Last,City,State,Time,Team
-1,211435,Zack,ALLISON,Fort Collins ,CO,,
-2,381623,Owen,GILLOTT,Foster City ,CA,,Storck-CCN
+1,211435,Zack,ALLISON,Fort Collins,CO,,
+2,381623,Owen,GILLOTT,Foster City,CA,,Storck-CCN
 3,286608,Eamon,FRANCK,Pacific Grove,CA,,Metier Racing
 4,0,Leon,GLEDHILL,,,,Team Mike's Bikes p/b Equator Coffees
 5,237586,Kevin,MULLERVY,Centennial,CO,,Team Cliff Bar
@@ -22,7 +22,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,394826,Aria,KIANI,Santa Rosa,CA,,Team Mikes Bikes p/b Equator Coffees
 9,273912,Jeromy,COTTELL,Redwood City,CA,,Team Specialized/Touchstone Racing
 10,373958,Jules,GOGUELY,Palo Alto,CA,,Storck-CCN
-11,207262,Andrew,GOESSLING,El Cerrito,CA,,Team Mikes Bikes p/b Equator Coffees
+11,207262,Andrew,GOESSLING,Oakland,CA,,Team Mikes Bikes p/b Equator Coffees
 12,263998,Reese,LEVINE,Orinda,CA,,Team Mikes Bikes p/b Equator Coffees
 13,195204,Bryan,LARSEN,Santa Rosa,CA,,Storck-CCN
 14,127093,Adam,SWITTERS,Citrus Heights,CA,,Team Mikes Bikes p/b Equator Coffees
@@ -33,7 +33,7 @@ DNP,221376,James,LABERGE,Napa,CA,,Team Mikes Bikes p/b Equator Coffees
 DNP,403525,Jake,TAYLOR,Rancho Cordova,CA,,University of California-Davis
 DNP,416940,Leo,YIP,Fremont,CA,,Storck-CCN
 DNP,187522,JD,BERGMANN,Albany,CA,,Team Cliff Bar
-DNP,136641,Michael,HERNANDEZ,Oakland,CA,,JAKROO presented by Chrome Industries
+DNP,136641,Michael,HERNANDEZ,Clyde,CA,,JAKROO presented by Chrome Industries
 DNP,328624,Ryan,WEI,Bethlehem,PA,,Team Cliff Bar
 DNP,290106,Austin,TURNER,Ogden,UT,,TEAM CLIF BAR Cycling
 DNP,237726,Conor,MULLERVY,Boulder,CO,,Team Cliff Bar
@@ -63,7 +63,7 @@ Place,License #,First,Last,City,State,Time,Team
 21,394290,Cooper,DOWNING,Piedmont,CA,,JAKROO presented by Chrome Industries
 22,504596,Jacob,GORMAN,El Dorado Hills ,CA,,Limitless Cycling
 23,524604,Brandon,RAPP,Santa Clara,CA,,SJBC
-DNS,460839,solano,DOMINGUEZ,Lakeportlakeport,CA,,Main Street Elite p/b Main Street Bicycles
+DNS,460839,solano,DOMINGUEZ,Lakeport,CA,,Main Street Elite p/b Main Street Bicycles
 DNS,523152,Stefan K,MILLER,Pleasant Hill,CA,,Tieni Duro Junior Cycling Team
 DNS,524865,Chris,STEARNS,San Francisco,CA,,Tieni Duro Junior Cycling Team
 
@@ -76,7 +76,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,269119,ROZEL,TUPAZ,Pleasanton,CA,,CBRE Racing
 DNS,419364,Damien,ANDERSON,Carmichael,CA,,Clean Power Cycling pb TESLA
 DNS,460024,mark,BACHMAN,Oakland,CA,,Clean Power Cycling pb TESLA
-DNS,440491,Philip,BARROS,Danville,CA,,Cycle Sport - Specialized p/b Muscle Milk
+DNS,440491,Philip,BARROS,Pleasanton,CA,,Cycle Sport - Specialized p/b Muscle Milk
 DNS,359225,Scott,GELBKE,Carmichael,CA,,Folsom Bike
 DNS,513566,Gregory,KENNEDY,Berkeley,CA,,Berkeley Bicycle Club (BBC)
 DNS,359693,Eamonn,TUCKER,San Francisco,CA,,
@@ -113,11 +113,11 @@ DNS,0,Sheldon,LAIDMAN,,,,First Capital Cycling
 02/20/2017 Criterium Men Cat 1/2/3 Master 55+
 Place,License #,First,Last,City,State,Time,Team
 1,216231,Jeffrey,KATO,San Rafael,CA,,Clean Power Cycling pb TESLA
-2,46151,James,SULLIVAN,Calistoga,CA,,Davis Bike Club
+2,46151,James,SULLIVAN,Davis,CA,,Davis Bike Club
 3,221460,Jess,RAPHAEL,Napa,CA,,3 Feet It's The Law!
 DNS,360492,Dean,ABT,Oakland,CA,,Team Oakland Cycling
 DNS,407521,Tim,DAVIS,San Jose,CA,,Cycle Sport - Specialized p/b Muscle Milk
-DNS,345270,Brian,MCANDREWS,Danville,CA,,ThirstyBear p/b Akamai
+DNS,345270,Brian,MCANDREWS,Spring,TX,,ThirstyBear p/b Akamai
 
 02/20/2017 Criterium Men Cat 5
 Place,License #,First,Last,City,State,Time,Team
@@ -142,7 +142,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,504596,Jacob,GORMAN,El Dorado Hills ,CA,,Limitless Cycling
 21,522517,Chris,PATTERSON,Oakland,CA,,
 22,526065,Aaron,Froley,Rohnert Park,CA,,
-23,497173,Nathaniel,WARFIELD,Red Bluff ,CA,,Chico Cycling Team
+23,497173,Nathaniel,WARFIELD,Red Bluff,CA,,Chico Cycling Team
 24,523552,Nicholas,STEARNS,Sunnyvale,CA,,
 25,525401,Jaime,MORENO,Napa,CA,,
 DNS,523257,Aaron,BURGESS,San Rafael,CA,,City Cycle Racing
@@ -171,7 +171,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,466904,Kenneth,OEI,San Ramon,CA,,Tieni Duro Junior Cycling Team
 14,186110,Alvin,CARPENTER,Alameda,CA,,Davis Bike Club Race Team
 15,321598,Matthew,JOHNSON,San Francisco,CA,,Dolce Vita Freewheel p/b SL2
-16,307201,Nye,YACKLE,Spokane ,WA,,
+16,307201,Nye,YACKLE,Spokane,WA,,
 17,493642,Andrew,YEAGER,Folsom,CA,,Limitless Cycling
 18,458621,Jude,VANNI,Rosev,CA,,Limitless Cycling
 19,0,Gaven,VANNI,,,,
@@ -185,7 +185,7 @@ DNP,322792,Matthew,SANTILLAN,Fairfield,CA,,CBRE Racing
 02/20/2017 Criterium Men Cat 3
 Place,License #,First,Last,City,State,Time,Team
 1,457591,Travis,MCEUEN,Martinez,CA,,Team Mikes Bikes p/b Equator Coffees
-2,307192,Jake,YACKLE,Spokane ,WA,,
+2,307192,Jake,YACKLE,Spokane,WA,,
 3,424715,James,EVANS,Los Angeles,CA,,Stanford University
 4,402489,Josh,MCDONALD,Concord,CA,,C360R Cycling Team
 5,440626,Tim,MCBIRNEY,Menlo Park,CA,,Cycle Sport - Specialized p/b Muscle Milk

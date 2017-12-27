@@ -75,10 +75,10 @@ Place,License #,First,Last,City,State,Time,Team
 18,344644,Matthew,Fischel,Hockessin,DE,,Integrated Sports Medicine p/b Brown's Subaru
 19,310898,Alec,Ratzell,Blandon,PA,2:34:17,CS Velo
 20,353400,Jacob,Skrip,Breinigsville,PA,2:34:18,CS Velo
-21,277019,Jonathan,Marshall,Chambersburg,PA,2:34:18,Integrated Sports Medicine p/b Brown's Subaru
+21,277019,Jonathan,Marshall,Shippensburg,PA,2:34:18,Integrated Sports Medicine p/b Brown's Subaru
 22,204817,Andrew,Bernstein,Emmaus,PA,2:34:18,Lung Tail Creative
 23,286845,Calvin,Hoops,Philadelphia,PA,2:34:18,Tri-State Velo / Amoroso's Racing Team
-24,305602,Craig,Nichols,Ephrata,PA,2:34:21,CS Velo Elite
+24,305602,Craig,Nichols,Lancaster,PA,2:34:21,CS Velo Elite
 25,379489,Will,Cooper,Pittsburgh,PA,2:34:22,CS Velo Elite
 26,312568,Konrad,Ratzmann,Brooklyn,NY,2:34:23,Bicycle Habitat-Verge Sport
 27,260414,James,Miceli,Arlington,VA,2:34:24,Integrated Sports Medicine p/b Brown's Subaru
@@ -103,7 +103,7 @@ Place,License #,First,Last,City,State,Time,Team
 46,0,Geron,Williams,,,2:39:20,CRCA/Foundation
 47,179015,John,Minturn,State College,PA,2:39:20,Team Skyline
 48,290304,Marten T Roberts,Beels,Lansdale,PA,2:40:37,Lamprey Cycling
-49,383744,Jason,Hammond,Stanford,CA,,
+49,383744,Jason,Hammond,Palo Alto,CA,,
 50,207498,GALE,HESS,East Petersburg,PA,,Thru It All Body Shop
 51,400910,Jason,Lindemuth,Lancaster,PA,,Divine Swine Cycling
 DNF,401536,Josh,Craig,Richmond,VA,,Kelly Benefit Strategies Elite
@@ -120,11 +120,11 @@ Place,License #,First,Last,City,State,Time,Team
 2,320622,David,Crossett,Fleetwood,PA,1:05:27,
 3,514698,Justin,Wheeler,Wynnewood,PA,1:06:32,West Chester Cycling Club
 4,0,Shaun,Gundel,,,1:06:47,
-5,524824,Chad,Melton,Wytheville,VA,1:06:47,
+5,524824,Chad,Melton,Warrenton,VA,1:06:47,
 6,528551,William,Weisser,Lancaster,PA,1:06:47,
 7,456122,Clint,Colbert,Philadelphia,PA,1:06:47,Rohan Cycling
 8,0,Matthew,Guenter,,,1:06:48,Penn State Cycling
-9,500289,Kyle,Sammon,Bradley Beach,NJ,1:06:50,
+9,500289,Kyle,Sammon,Lancaster,PA,1:06:50,
 10,459824,Christofer,Smith,Laurel,MD,1:08:04,
 11,499260,Brad,Suchoski,Bel Air,MD,1:08:08,BSBA Racing
 12,502417,Devin,Stief,Philadelphia,PA,1:08:12,PBMA
@@ -136,7 +136,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,524900,Dillon,Mast,Philadelphia,PA,1:10:03,CS Velo
 19,507027,Brandon,Linton,Lancaster,PA,1:10:36,Thru-It-All Cycling Team
 20,513053,Jake,Allison,Philadelphia,PA,1:12:21,Zen Masters
-21,507639,Carlos Gabriel,Acajabon,Carlisle ,PA,1:12:39,
+21,507639,Carlos Gabriel,Acajabon,New Cumberland,PA,1:12:39,
 22,485651,Joshua,Croston,Philadelphia,PA,1:12:43,Rohan Cycling
 23,462875,Gregory,Farmer,Manheim,PA,1:13:31,717 Cycling p/b RSI Panels
 24,529216,Ryan,Jacob,Red Lion,PA,1:13:45,
@@ -179,7 +179,7 @@ Place,License #,First,Last,City,State,Time,Team
 25,458001,Lucas,Beirne,Alexandria,VA,1:08:02,NCVC/UnitedHealthcare
 26,237319,Jedediah,Deitrick,Macungie,PA,1:08:10,
 27,383649,Andrew,Parker,Arlington,VA,1:08:33,NCVC/UnitedHealthcare
-28,256465,Nick,Bradford,Alexandria,VA,1:08:33,NCVC/UnitedHealthcare
+28,256465,Nick,Bradford,Baltimore,MD,1:08:33,NCVC/UnitedHealthcare
 29,454107,Brad,Gorter,Camp Hill,PA,1:08:47,Blue Mountain Velo
 30,238148,Chris,Grundner,Landenberg,PA,1:09:08,Active Yards - Chester County Velo
 31,241128,Sonny,Smith,Salisbury,MD,1:14:15,Ocean Velo Club/Culver & Pierson Housing Solutions
@@ -197,8 +197,8 @@ Place,License #,First,Last,City,State,Time,Team
 3,413162,Justin,Markunas,Washington,DC,2:06:44,VeloWorks-Spokes Etc
 4,0,Enmanuel,Nunez,,,2:07:41,Bominicana
 5,425914,adriano,hauck,Philadelphia,PA,2:07:42,Rohan Cycling
-6,296751,michael,green,Wyndmoor ,PA,2:07:42,Arrow Racing
-7,493748,Benjamen,Shrewsberry,Shippensburg,PA,2:07:42,Shippensburg University
+6,296751,michael,green,Wyndmoor,PA,2:07:42,Arrow Racing
+7,493748,Benjamen,Shrewsberry,Fredericksburg,VA,2:07:42,Shippensburg University
 8,523175,ron,tuazon,Lanham,MD,2:07:42,BATTLEY HARLEY-DAVIDSON/SPOKES/CUTAWAY
 9,481209,Henri,Simon,Bel Air,MD,2:07:42,JAMSQUAD Cycling
 10,428368,Justin,Mast,Saint Peters,PA,2:07:42,Shirks Racing Masters

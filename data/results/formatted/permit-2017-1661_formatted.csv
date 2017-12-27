@@ -10,7 +10,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,193035,Brandon,Feehery,Knoxville,TN,,Crit Life
 7,477870,Jake,Magee,Boulder ,CO,,Elbowz Racing
 8,399388,George,Simpson,Fort Collins,CO,,Gateway Harley-Davidson Trek U25 Development Team*
-9,218736,Gavin,Mannion,Austin,TX,,UnitedHealthcare Pro Cycling*
+9,218736,Gavin,Mannion,Fort Collins,CO,,UnitedHealthcare Pro Cycling*
 10,178970,Mat,Stephens,Dallas,TX,,Arapahoe Resources / Garneau*
 11,428009,Sam,Fritz,Princeton,MN,,Above and Beyond Cancer p/b Scheels
 12,247652,Grant,Erhard,Saint Louis,MO,,Bissell-ABG-Giant
@@ -26,7 +26,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,481036,John,Borstelmann,Lincoln,NE,,Team Kaos/Joyride Bicycles
 23,186238,Devin,Clark,St. Louis,MO,,Pastaria - Big Shark Racing Team
 24,15149,Chris,Harre,Webster Groves,MO,,Pastaria - Big Shark Racing Team
-25,288716,Dustin,Morici,Saint Charles,IL,,Sammy's Racing
+25,288716,Dustin,Morici,Rolla,MO,,Sammy's Racing
 26,402875,Matt,Salpietro,Indianapolis,IN,,Texas Roadhouse Cycling Team
 27,407169,Alexander,Chrystall,Wellesley,MA,,New England Devo
 28,240005,Kyle,Perry,Muncie,IN,,Texas Roadhouse Cycling Team
@@ -37,7 +37,7 @@ Place,License #,First,Last,City,State,Time,Team
 33,501157,Mathew,Mackay,Pittsburgh,PA,,J Mac Cycling LLC
 34,358808,Jonah,MeadVanCort,Ithaca,NY,,UCI CT: CCB Velotooler
 35,215681,Marcus,Canady,Raleigh,NC,,Jigawatt Cycling
-36,263035,Andrew,Giniat,Winnetka,IL,,Project Echelon Racing
+36,263035,Andrew,Giniat,Asheville,NC,,Project Echelon Racing
 37,309324,Dominic,Caiazzo,Bronx,NY,,Lupus Racing Team
 38,210129,Connor,Sallee,Dallas,TX,,Team Plano Cycling
 39,132539,Charles (Brad),Huff,Springfield,MO,,Rally Cycling*
@@ -57,7 +57,7 @@ Place,License #,First,Last,City,State,Time,Team
 53,192584,Shane,Kline,Bally,PA,,Rally Cycling*
 54,347112,Austin,Gomes,Florissant,MO,,Quantum Solutions Intelligentsia
 55,431242,Pierrick,Naud,,,,
-56,272809,Ricky,Randall,Highland Village ,TX,,Arapahoe Resources / Garneau*
+56,272809,Ricky,Randall,Highland Village,TX,,Arapahoe Resources / Garneau*
 57,247336,Konrad,Witt,Wood Dale,IL,,ABD Cycling Team
 58,368066,David,Ross,Dekalb,IL,,Bicycle Heaven
 59,119871,Joshua,Friedman,Pittsburgh,PA,,Green Line Velo driven by Zipcar
@@ -66,11 +66,11 @@ Place,License #,First,Last,City,State,Time,Team
 62,260604,Brandon,Melott,Warr Acres,OK,,JE Dunn Elite Road Racing
 63,307328,Brenden,Hardy,Iowa City,IA,,Above and Beyond Cancer p/b Scheels
 64,288133,Lucas Sebastian,Haedo,Linden,NJ,,
-65,299251,Justin,McQuerry,Athens,GA,,Team Novo Nordisk Development
+65,299251,Justin,McQuerry,Austin,TX,,Team Novo Nordisk Development
 66,309567,Sven,Gartner,Park Ridge,IL,,Sammy's Racing
 67,283391,Michael,Keller,Orland Hills,IL,,Bissell-ABG-Giant
 68,320582,Matthew,Zimmer,Dewitt ,IA,,Gateway Harley-Davidson Trek U25 Development Team*
-69,257134,Joshua,Johnson,Fort Wayne,IN,,Bissell-ABG-Giant
+69,257134,Joshua,Johnson,Indianapolis,IN,,Bissell-ABG-Giant
 70,226733,Jonathan,Jacob,Indianapolis,IN,,Bissell-ABG-Giant
 71,240194,Brian,Kaker,Milwaukee,WI,,Project Echelon Racing
 72,388008,Hugo,Scala Jr,Dallas,TX,,Matrix/RBM
@@ -139,7 +139,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,300913,Aaron,Casey,Boulder,CO,,Sonic Boom Racing Team
 4,500065,Justin,Hopkins,Saint Louis,MO,,
 5,495179,Hassan,Najfi,Schaumburg,IL,,INTENT
-6,509655,Daniel,Brewer,Saint Louis,MO,,
+6,514686,Daniel,Brewer,Saint Louis,MO,,
 7,486256,Nathan,Landrey,Denver,CO,,Primal - Audi Denver
 8,441112,Brian,Grace,Columbia,MO,,Big Tree Cycling
 9,535221,William,Henkhaus,Olathe,KS,,3 Feet Cycling p/b Foody's
@@ -198,7 +198,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,526646,Tucker,Nickols,Mckinney,TX,,Team Cadence Cyclery p/b MINI of Plano
 7,306822,Matthew,Hynes,Saintlouis,MO,,Pastaria - Big Shark Racing Team
 8,448836,Andrei,Cismas,Elmhurst,IL,,xXx Racing
-9,503760,Mitch,Reidt,Clayton,MO,,
+9,503760,Mitch,Reidt,Denver,CO,,
 10,468175,Eric,Loehle,Georgetown,MA,,Monster Media Racing
 11,300913,Aaron,Casey,Boulder,CO,,Sonic Boom Racing Team
 12,172471,Mark,Zalewski,Chicago,IL,,Spidermonkey Cycling
@@ -206,7 +206,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,438365,Philip,Leachman,Saint Louis,MO,,
 15,384050,Carl,Sechrist,Boulder,CO,,CU Cycling-Boulder
 16,498858,Hanwei,Wang,Lincoln,NE,,
-17,502841,Timothy,Bradley,Manchester,MO,,
+17,502841,Timothy,Bradley,St. Louis,MO,,
 18,420122,Christopher,Pilarski,Saint Charles,MO,,Momentum Racing LLC - MO
 19,276599,Andrew,Zens,Chicago,IL,,Burnham Racing
 20,432078,Sam,Paul,Saint Louis,MO,,
@@ -219,7 +219,7 @@ Place,License #,First,Last,City,State,Time,Team
 27,457508,Alexander,Flunker,Lenexa,KS,,Team Colavita/ Parisi Coffee
 28,367130,Rian,Rustvold,Kenmore,WA,,Hagens Berman - EY Society
 29,509559,Blake,Brown,Jenks,OK,,Experience Fayetteville Cycling Team
-30,375954,Joseph,Bachmann,Saint Louis,MO,,
+30,375954,Joseph,Bachmann,Hazelwood,MO,,
 31,460486,Nick,McClellan,Saint Louis,MO,,SBR Quantum Racing
 32,255842,Jacob,Schilling,Racine,WI,,Team Mack Racing Assn
 33,278837,Jason,Fergurson,Batavia,IL,,Chicago Cuttin Crew
@@ -249,7 +249,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,406676,Taylor,Herron,Memphis,TN,,Marx and Bensdorf Cycling Team
 19,425009,Jordan,Miller,Lenexa,KS,,Move Up Development
 20,398204,Geoffrey,Albert,Chicago,IL,,
-21,439089,Daryl,Thomas,Denver ,CO,,Palmares Racing
+21,439089,Daryl,Thomas,Denver,CO,,Palmares Racing
 22,425254,Fredd,Corpuz,Denver,CO,,Palmares Racing
 23,400799,Jacob,Slosar,Edwardsville,IL,,Quantum Solutions Intelligentsia
 24,347750,Carter,Snow,Saint Louis,MO,,Maplewood Bicycle St. Louis
@@ -296,7 +296,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,191909,Jay,Hawkins,Buhler,KS,,Oklahoma City Velo Club
 16,318648,keith,guilford,Edwardsville,IL,,The Cyclery Racing Team
 17,46244,Scott,Moninger,St Louis,MO,,Pastaria - Big Shark Racing Team
-18,103984,Ben,Beger,Ofallon,MO,,Momentum Racing LLC - MO
+18,103984,Ben,Beger,O Fallon,MO,,Momentum Racing LLC - MO
 19,29925,John,Rines,Wildwood,MO,,Pastaria - Big Shark Racing Team
 20,61012,Jesus,Chaparro,Allen,TX,,Windsor Door Racing
 21,32882,Joseph,Skrocki,China ,MI,,Essex Brass Cycling Team
@@ -345,13 +345,13 @@ Place,License #,First,Last,City,State,Time,Team
 6,499581,Leigh Ann,Fields,Tulsa,OK,,Pandemonium Cycling p/b Hodges Bend
 7,298623,Andrea,Devine,Charlottesville,VA,,Burnham Racing
 8,497850,Marissa,Carter,Saint Charles,MO,,Team Mack Racing Assn
-9,527854,Allison,Schroeder,Chicago,IL,,PSIMET Racing
+9,527854,Allison,Schroeder,Champaign,IL,,PSIMET Racing
 10,441048,justine,emge,Fort Rucker,MO,,SBC Cycling
 11,205778,Laura,Vance,Lakewood,CO,,Primal Audi Denver Women's Racing
 12,126020,Nancy,Karrer,Tulsa,OK,,Team isocentric
 13,497632,Emily,Gass,New Orleans,LA,,Urban South Racing p/b Rouler
-14,466552,Colleen,Grygier,Gibsonia,PA,,Conemaugh Womens Racing
-15,506931,Finn,Taylor,Tulsa,OK,,Yoga Box Racing p/b Transitions LifeCare
+14,466552,Colleen,Grygier,Wexford,PA,,Conemaugh Womens Racing
+15,506931,Finn,Taylor,Fayetteville,AR,,Yoga Box Racing p/b Transitions LifeCare
 16,424982,Marianne,Melling,Lawrence,KS,,GP Velotek
 17,468081,Ellie,Morgenthaler,Chesterfield,MO,,Naked Women's Racing
 18,265833,Donna,Garland,Oklahoma City,OK,,Yoga Box Racing p/b Transitions LifeCare
@@ -383,15 +383,15 @@ Place,License #,First,Last,City,State,Time,Team
 09/04/2017 Criterium Women Pro/Cat 1/2 Prt 1
 Place,License #,First,Last,City,State,Time,Team
 1,41951,Tina,Pic,Bountiful,UT,,Papa John's Racing p/b TREK*
-2,358569,Janelle,Cole,Rockford,MI,,UnitedHealthcare Pro Cycling*
+2,358569,Janelle,Cole,Newaygo,MI,,UnitedHealthcare Pro Cycling*
 3,439071,Diana,Penuela,Garland,TX,,UnitedHealthcare Pro Cycling*
-4,186919,Kendall,Ryan,Ventura,CA,,Team TIBCO - Silicon Valley Bank*
+4,186919,Kendall,Ryan,Camarillo,CA,,Team TIBCO - Silicon Valley Bank*
 5,484160,Josie,Talbot,,,,ISCorp Powered By Progress Software*
 6,262479,Lauren,Hall,Cortez,CO,,UnitedHealthcare Pro Cycling*
 7,201838,Laurel,Rathbun,Monument,CO,,Papa John's Racing p/b TREK*
 8,271181,Kyrstin,Bluhm,Nashville,TN,,Fearless Femme Racing
 9,219367,Jennifer,Sharp,Boulder,CO,,Chicago Womens Elite Cycling
-10,512762,Lily,Williams,Chicago,IL,,Fearless Femme Racing
+10,512762,Lily,Williams,Asheville,NC,,Fearless Femme Racing
 11,487207,Kat,Sweatt,Birmingham,AL,,Mellow Mushroom Racing
 12,457092,Rachel,Langdon,Louisville,KY,,ISCorp Powered By Progress
 13,227028,Anne,Donley,Denver,CO,,
@@ -419,7 +419,7 @@ Place,License #,First,Last,City,State,Time,Team
 35,400119,Mia,Cheeseman,Madison,WI,,Team Wheel & Sprocket
 36,527682,Antonieta,Gaxiola,,,,Conade-Visit Mexico-Specialized
 37,163561,Carrie,Cash Wootten,Saint Louis,MO,,Team Revolution
-38,288729,Jennifer,Wagner,Houston ,TX,,Mellow Mushroom p/b Psimet
+38,288729,Jennifer,Wagner,Houston,TX,,Mellow Mushroom p/b Psimet
 39,367685,Nicole,Mertz,Columbia Heights,MN,,Velo Classic p/b Stan's NoTubes
 40,327486,Christa,Ghent,Boulder,CO,,LA Sweat
 41,89443,Tiffany,Pezzulo,Salt Lake City,UT,,LA Sweat
@@ -464,7 +464,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,274367,Allan,Rego,New York,NY,,Lupus Racing Team
 16,178970,Mat,Stephens,Dallas,TX,,Arapahoe Resources / Garneau*
 17,399388,George,Simpson,Fort Collins,CO,,Gateway Harley-Davidson Trek U25 Develop
-18,218736,Gavin,Mannion,Austin,TX,,UnitedHealthcare Pro Cycling*
+18,218736,Gavin,Mannion,Fort Collins,CO,,UnitedHealthcare Pro Cycling*
 19,428009,Sam,Fritz,Princeton,MN,,Above and Beyond Cancer p/b Scheels
 20,527248,Cesar,Serna,Aguascalientes,AG,,
 21,247652,Grant,Erhard,Saint Louis,MO,,Bissell-ABG-Giant
@@ -516,7 +516,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,441112,Brian,Grace,Columbia,MO,,Big Tree Cycling
 11,358120,Chris,Plooster,Mcpherson,KS,,3 Feet Cycling p/b Foody's
 12,414558,Alexander,Jensen,Tulsa,OK,,Tulsa Wheelmen
-13,509655,Daniel,Brewer,Saint Louis,MO,,
+13,514686,Daniel,Brewer,Saint Louis,MO,,
 14,334620,Matthew,Weddle,Evansville,IN,,Schellers Evansville Racing
 15,407921,Dean,Beliera,Tulsa,OK,,Tulsa Wheelmen
 16,535221,William,Henkhaus,Olathe,KS,,3 Feet Cycling p/b Foody's
@@ -556,7 +556,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,284465,Bennett,Fallow,St. Louis,MO,,Pastaria - Big Shark Racing Team
 18,391064,Andrew,Townsend,Little Rock,AR,,Central Arkansas Velo/CARVE
 19,526646,Tucker,Nickols,Mckinney,TX,,Team Cadence Cyclery p/b MINI of Plano
-20,503760,Mitch,Reidt,Clayton,MO,,
+20,503760,Mitch,Reidt,Denver,CO,,
 21,300913,Aaron,Casey,Boulder,CO,,Sonic Boom Racing Team
 22,215852,Jonathan,Bell,Saint Louis,MO,,Dogfish/Team Noah
 23,448836,Andrei,Cismas,Elmhurst,IL,,xXx Racing
@@ -588,7 +588,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,425009,Jordan,Miller,Lenexa,KS,,Move Up Development
 10,418091,Ian,Seibert,Peculiar,MO,,Quantum Solutions Intelligentsia
 11,379185,Justin,Bird,Louisville,KY,,Papa John's Racing Team
-12,439089,Daryl,Thomas,Denver ,CO,,Palmares Racing
+12,439089,Daryl,Thomas,Denver,CO,,Palmares Racing
 13,427648,Jared,Hall,Cave Springs,AR,,Bentonville Racing
 14,412037,Phillip,Smith,Quincy,IL,,Momentum Racing LLC - MO
 15,274271,Chris,Goguen,Franklin,MA,,RACE CF
@@ -633,12 +633,12 @@ Place,License #,First,Last,City,State,Time,Team
 16,266664,Nate,Iden,Glencoe,IL,,Burnham Racing
 17,32882,Joseph,Skrocki,China ,MI,,Essex Brass Cycling Team
 18,43652,Terrence,Keenan,Saint Louis,MO,,Pastaria - Big Shark Racing Team
-19,46770,Brian,Teipen,Alpharetta,GA,,East Point Track Club
+19,46770,Brian,Teipen,Milton,GA,,East Point Track Club
 20,420080,Chris,Cook,O Fallon,MO,,Momentum Racing LLC - MO
 21,165037,Patrick,Weddell,Boone ,NC,,HC Devo p/b Monster Media Racing
 22,34328,Karl,Stover,St. Louis,MO,,Billy Goat Racing Team
-23,103984,Ben,Beger,Ofallon,MO,,Momentum Racing LLC - MO
-24,406399,Simon,Phuah,Downers Grove,IL,,INTENT
+23,103984,Ben,Beger,O Fallon,MO,,Momentum Racing LLC - MO
+24,406399,Simon,Phuah,Littleton,CO,,INTENT
 25,29925,John,Rines,Wildwood,MO,,Pastaria - Big Shark Racing Team
 26,61012,Jesus,Chaparro,Allen,TX,,Windsor Door Racing
 27,41398,Karim,Abdelkader,Bloomington,IN,,
@@ -658,7 +658,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,46006,Curtis,Tolson,Louisville,KY,,Texas Roadhouse Cycling Team
 12,333364,Anthony,Reguero,Irvine,CA,,WIN TEAM RACING
 13,229405,Chris,Erhard,Saint Louis,MO,,SBR Quantum Racing
-14,392104,Doug,Zell,Little Rock ,AR,,Intelligentsia Coffee
+14,392104,Doug,Zell,Lockhart,TX,,Intelligentsia Coffee
 15,30178,Doug,Robinson,Indianapolis,IN,,Phoenix Fitness and Training
 16,182683,Scott,Shaw,Edwardsville,IL,,The Cyclery Racing Team
 17,10804,Joe,Engel,Fort Smith,AR,,Walmart/GPP Cycling Team
@@ -673,7 +673,7 @@ Place,License #,First,Last,City,State,Time,Team
 26,298503,Ivan,Murdock,Clarksville,TN,,US Military Endurance Sports
 27,231641,Jonathan,Kinnick,Johnson City,TN,,Norris Bicycles
 28,72572,James,Klages,Saint Louis,MO,,Pastaria - Big Shark Racing
-29,482205,Dennis,Lilly,Saint Louis,MO,,
+29,482205,Dennis,Lilly,St Louis,MO,,
 30,164144,Darren,Sherkat,Carbondale,IL,,Team Mack Racing Assoc. LTD
 
 09/04/2017 Omnium Women Women 3/4/5
@@ -684,11 +684,11 @@ Place,License #,First,Last,City,State,Time,Team
 4,475292,Ariel,Wyant,Tulsa,OK,,
 5,410272,Gracie,Pendleton,Christiana,TN,,Nashville Local Cycling
 6,513318,Christin,Stuschka,Champlin,MN,,p/b Borah
-7,527854,Allison,Schroeder,Chicago,IL,,PSIMET Racing
+7,527854,Allison,Schroeder,Champaign,IL,,PSIMET Racing
 8,401265,Summer,Gilbert,Holland,MI,,Andrie Junior Development Team
 9,441048,justine,emge,Fort Rucker,MO,,SBC Cycling
-10,466552,Colleen,Grygier,Gibsonia,PA,,Conemaugh Womens Racing
-11,506931,Finn,Taylor,Tulsa,OK,,Yoga Box Racing p/b Transitions LifeCare
+10,466552,Colleen,Grygier,Wexford,PA,,Conemaugh Womens Racing
+11,506931,Finn,Taylor,Fayetteville,AR,,Yoga Box Racing p/b Transitions LifeCare
 12,482735,Sarah,Schuetter,Evansville,IN,,Dan's Comp Factory Racing
 13,497632,Emily,Gass,New Orleans,LA,,Urban South Racing p/b Rouler
 14,515516,Lydia,Chinchilla,Glen Ellyn,IL,,Team Got Wind?
@@ -707,18 +707,18 @@ Place,License #,First,Last,City,State,Time,Team
 
 09/04/2017 Omnium Women Pro/Cat 1/2 Prt 1
 Place,License #,First,Last,City,State,Time,Team
-1,186919,Kendall,Ryan,Ventura,CA,,Team TIBCO - Silicon Valley Bank*
+1,186919,Kendall,Ryan,Camarillo,CA,,Team TIBCO - Silicon Valley Bank*
 2,484160,Josie,Talbot,,,,ISCorp Powered By Progress Software*
 3,262479,Lauren,Hall,Cortez,CO,,UnitedHealthcare Pro Cycling*
 4,439071,Diana,Penuela,Garland,TX,,UnitedHealthcare Pro Cycling*
 5,271181,Kyrstin,Bluhm,Nashville,TN,,Fearless Femme Racing
 6,41951,Tina,Pic,Bountiful,UT,,Papa John's Racing p/b TREK*
-7,358569,Janelle,Cole,Rockford,MI,,UnitedHealthcare Pro Cycling*
+7,358569,Janelle,Cole,Newaygo,MI,,UnitedHealthcare Pro Cycling*
 8,219367,Jennifer,Sharp,Boulder,CO,,Chicago Womens Elite Cycling
 9,375231,Amy,McClintock,St. Louis,MO,,Pastaria - Big Shark Racing*
 10,201838,Laurel,Rathbun,Monument,CO,,Papa John's Racing p/b TREK*
 11,475142,Sarah,Coney,,,,
-12,512762,Lily,Williams,Chicago,IL,,Fearless Femme Racing
+12,512762,Lily,Williams,Asheville,NC,,Fearless Femme Racing
 13,457092,Rachel,Langdon,Louisville,KY,,ISCorp Powered By Progress Software*
 14,36345,Laura,Van Gilder,Cresco,PA,,Mellow Mushroom p/b Psimet
 15,432214,Lauretta,Hanson,Milligan College,TN,,UnitedHealthcare Pro Cycling*
@@ -780,7 +780,7 @@ Place,License #,First,Last,City,State,Time,Team
 31,371826,Timothy,Savre,Glencoe,MN,,Project Echelon Racing
 32,401755,Brice,Brookshire,Elkhart,IN,,Texas Roadhouse Cycling Team
 33,501157,Mathew,Mackay,Pittsburgh,PA,,J Mac Cycling LLC
-34,257134,Joshua,Johnson,Fort Wayne,IN,,Bissell-ABG-Giant
+34,257134,Joshua,Johnson,Indianapolis,IN,,Bissell-ABG-Giant
 35,399388,George,Simpson,Fort Collins,CO,,Gateway Harley-Davidson Trek U25 Development Team*
 36,344420,Jadon,Jaeger,Bayside,WI,,Intelligentsia Coffee
 37,334752,Matt,Moosa,Charlotte,NC,,SC Competitive Cyclist
@@ -788,7 +788,7 @@ Place,License #,First,Last,City,State,Time,Team
 39,374595,Macen,Van Allen,Nevada,IA,,Above and Beyond Cancer p/b Scheels
 40,192584,Shane,Kline,Bally,PA,,Rally Cycling*
 41,260604,Brandon,Melott,Warr Acres,OK,,JE Dunn Elite Road Racing
-42,218736,Gavin,Mannion,Austin,TX,,UnitedHealthcare Pro Cycling*
+42,218736,Gavin,Mannion,Fort Collins,CO,,UnitedHealthcare Pro Cycling*
 43,251580,Arthur,Moran,Jamaica Plain,MA,,Green Line Velo
 44,388008,Hugo,Scala Jr,Dallas,TX,,Matrix/RBM
 45,43652,Terrence,Keenan,Saint Louis,MO,,Pastaria - Big Shark Racing Team
@@ -796,7 +796,7 @@ Place,License #,First,Last,City,State,Time,Team
 47,225120,Erin,Elliott,Oklahoma City,OK,,Oklahoma Bicycle Project
 48,402875,Matt,Salpietro,Indianapolis,IN,,Texas Roadhouse Cycling Team
 49,307328,Brenden,Hardy,Iowa City,IA,,Above and Beyond Cancer p/b Scheels
-50,288716,Dustin,Morici,Saint Charles,IL,,Sammy's Racing
+50,288716,Dustin,Morici,Rolla,MO,,Sammy's Racing
 51,345004,Daniel,Lausin,Willowick,OH,,Palmer/CSpire Fiber Cycling
 52,265398,Logan,Phippen,Athens,GA,,Team Novo Nordisk Development
 53,192686,Blake,Anton,Arroyo Grande,CA,,Herbalife p/b Marc Pro - Nature's Bakery
@@ -818,7 +818,7 @@ Place,License #,First,Last,City,State,Time,Team
 69,234696,Curtis,White,Delanson,NY,,Rally Cycling*
 70,480075,Juan,Gonzalez,Athens,GA,,
 71,472550,Ulugbek,Saidov,Athens,GA,,
-72,2443,John,Balmer,Indianapolis ,IN,,Century Road Club Of America
+72,2443,John,Balmer,Indianapolis,IN,,Century Road Club Of America
 73,326166,Stephen,Wagstaff,Racine,WI,,Project Echelon Racing
 74,366682,Scott,Williamson,Lawrence ,KS,,Olathe Subaru Trek Racing
 75,309324,Dominic,Caiazzo,Bronx,NY,,Lupus Racing Team
@@ -827,7 +827,7 @@ Place,License #,First,Last,City,State,Time,Team
 78,199914,Matthew,Eberly,Aurora,CO,,Primal - Audi Denver
 79,240838,John,Ryan,North Richland Hills,TX,,Matrix/RBM
 80,525397,Greg,Henderson,,,,
-81,211435,Zack,Allison,Fort Collins ,CO,,TEAM CLIF BAR Cycling
+81,211435,Zack,Allison,Fort Collins,CO,,TEAM CLIF BAR Cycling
 82,247652,Grant,Erhard,Saint Louis,MO,,Bissell-ABG-Giant
 83,368147,Alex,Mclaughlin,Louisville,KY,,Texas Roadhouse Cycling Team
 84,226739,Trevor,Rolette,Tinley Park,IL,,Sammy's Racing
@@ -836,7 +836,7 @@ Place,License #,First,Last,City,State,Time,Team
 87,72022,Michael,Jacques,Portola Valley,CA,,TEAM CLIF BAR Cycling
 88,210225,Garrick,Valverde,Lawrence,KS,,Olathe Subaru Trek Racing
 89,309567,Sven,Gartner,Park Ridge,IL,,Sammy's Racing
-90,299251,Justin,McQuerry,Athens,GA,,Team Novo Nordisk Development
+90,299251,Justin,McQuerry,Austin,TX,,Team Novo Nordisk Development
 91,178840,Maxwell,Anderson,Hartford,WI,,Project Echelon Racing
 92,226733,Jonathan,Jacob,Indianapolis,IN,,Bissell-ABG-Giant
 93,201623,Michael,Lalla,Minneapolis,MN,,Bicycles Plus Racing
@@ -922,7 +922,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,207735,Marc,Monjauze,University City,MO,,The Cannonball-Hub Racing Team
 19,427736,Mike,Long,Cerulean,KY,,Mid South Racing
 20,449162,Brad,Attebury,Carmi,IL,,Schellers Evansville Racing Team
-21,513709,James,Reed,Ballwin,MO,,
+21,513709,James,Reed,Manchester,MO,,
 22,403225,James,Cole,St. Louis,MO,,
 23,374941,Aaron,Chisum,Columbia,MO,,
 24,488506,Joe,Schnapp,Ballwin,MO,,
@@ -934,7 +934,7 @@ Place,License #,First,Last,City,State,Time,Team
 30,243449,Scott,Aalfs,Town And Country,MO,,Pastaria - Big Shark Racing Team
 31,499139,Thomas,Palazzolo,Wood River,IL,,The Cyclery Racing Team
 32,422717,Daniel,Robertson,Wichita,KS,,GP Velotek
-33,461016,Jacob,Kastens,Cincinnati ,OH,,University of Cincinnati
+33,461016,Jacob,Kastens,Cincinnati,OH,,University of Cincinnati
 34,406390,John,Helvey,Saint Louis,MO,,
 35,473922,Kevin,Minton,Saint Louis,MO,,
 36,502773,Dustin,Ehret,Ames,IA,,Ames Velo
@@ -963,7 +963,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,440912,Samuel,Meullenet,Fayetteville,AR,,Breakaway Cycling Club - NWA
 11,70730,Nick,Engel,Lavaca,AR,,Walmart/GPP Cycling Team
 12,300913,Aaron,Casey,Boulder,CO,,Sonic Boom Racing Team
-13,503760,Mitch,Reidt,Clayton,MO,,
+13,503760,Mitch,Reidt,Denver,CO,,
 14,278837,Jason,Fergurson,Batavia,IL,,Chicago Cuttin Crew
 15,495179,Hassan,Najfi,Schaumburg,IL,,INTENT
 16,193353,Ken,Krebs,Saint Charles,IL,,INTENT
@@ -972,9 +972,9 @@ Place,License #,First,Last,City,State,Time,Team
 19,438489,Hayden,McLaughlin,Warrensburg,MO,,Work Together Cycling Solutions
 20,233745,Chris,Miller,St. Louis,MO,,The Cannonball-Hub Racing Team
 21,276599,Andrew,Zens,Chicago,IL,,Burnham Racing
-22,408562,Steven,Bromiel,Kalamazoo,MI,,INTENT
+22,408562,Steven,Bromiel,Grand Rapids,MI,,INTENT
 23,404392,Bogdan,Rylski,Saint Paul,MN,,NorthStar Development Cycling
-24,466674,Brandon,Wold,Oklahoma City,OK,,DNA Racing
+24,466674,Brandon,Wold,Andover,MN,,DNA Racing
 25,368951,Drew,Cardoza,Tulsa,OK,,Team Air Assurance p/b AVB Bank
 26,407691,Benjamin,Souders,Indianapolis,IN,,Team Upland Brewing
 27,438365,Philip,Leachman,Saint Louis,MO,,
@@ -1046,10 +1046,10 @@ Place,License #,First,Last,City,State,Time,Team
 26,448836,Andrei,Cismas,Elmhurst,IL,,xXx Racing
 27,277697,Christopher,Poptic,West Chester,OH,,Team Dayton Bicycling
 28,405620,Eric,Franklin,Tulsa,OK,,Oklahoma Bicycle Project
-29,307737,Evan,Lardinois,St. Charles ,MO,,Korte Hammer Down Racing
+29,307737,Evan,Lardinois,St. Charles,MO,,Korte Hammer Down Racing
 30,428327,Zachary,Scharnhorst,Quincy,IL,,Momentum Racing LLC - MO
 31,417655,Andy,Keogh,Plymouth,MN,,Donkey Label
-32,439089,Daryl,Thomas,Denver ,CO,,Palmares Racing
+32,439089,Daryl,Thomas,Denver,CO,,Palmares Racing
 33,423859,mark,hitzhusen,Saint Louis,MO,,Momentum Racing LLC - MO
 34,422849,Yukio,Mariner,Murfreesboro,TN,,MOAB Racing
 35,286941,Sean,McCarthy,Lockport,IL,,ABD Cycling Team
@@ -1104,7 +1104,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,140740,Norman,Zellers,Scott Air Force Base,IL,,
 7,144636,Mark,Murawski,St Louis,MO,,Gateway Cycling Club
 8,56190,Benjamin,Sharp,Boulder,CO,,Stages Cycling
-9,46770,Brian,Teipen,Alpharetta,GA,,East Point Track Club
+9,46770,Brian,Teipen,Milton,GA,,East Point Track Club
 10,50908,Gary,Dyer,Alton,IL,,The Cyclery Racing Team
 11,107684,Benjamin,Weaver,Columbus,IN,,Texas Roadhouse Cycling Team
 12,15149,Chris,Harre,Webster Groves,MO,,Pastaria - Big Shark Racing Team
@@ -1157,7 +1157,7 @@ Place,License #,First,Last,City,State,Time,Team
 59,275550,JP,Brocket,Overland Park,KS,,Kuat Trek P/B A&B Cycle
 60,289827,Chad,Weisgram,Audubon ,MN,,Vision Racing p/b Sanford POWER
 61,61622,Peder,Hulse,St. Louis,MO,,Dogfish/Team Noah
-62,103984,Ben,Beger,Ofallon,MO,,Momentum Racing LLC - MO
+62,103984,Ben,Beger,O Fallon,MO,,Momentum Racing LLC - MO
 63,283765,Michael,Kutz,St. Louis,MO,,Dogfish/Team Noah
 64,48059,Jason,Hess,Commerce Township,MI,,Kinetic Fitness Coaching p/b Jack's Bicy
 65,84066,Howard,Smith,Batavia,IL,,The Pony Shop
@@ -1177,7 +1177,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,401265,Summer,Gilbert,Holland,MI,,Andrie Junior Development Team
 2,427800,Stacy,Bragg,Saint Louis,MO,,Velo Force
 3,410272,Gracie,Pendleton,Christiana,TN,,Nashville Local Cycling
-4,527854,Allison,Schroeder,Chicago,IL,,PSIMET Racing
+4,527854,Allison,Schroeder,Champaign,IL,,PSIMET Racing
 5,497632,Emily,Gass,New Orleans,LA,,Urban South Racing p/b Rouler
 6,495795,Noni,Bertagnoli,Mc Kinney,TX,,Dallas Racing
 7,408347,Elizabeth,Kieffer,Columbus,IN,,First Internet Bank Cycling Team
@@ -1187,7 +1187,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,298623,Andrea,Devine,Charlottesville,VA,,Burnham Racing
 12,502899,Leigh,Dukeman,Bloomington,IN,,Bakehouse Cycling
 13,126020,Nancy,Karrer,Tulsa,OK,,Team isocentric
-14,506931,Finn,Taylor,Tulsa,OK,,Yoga Box Racing p/b Transitions LifeCare
+14,506931,Finn,Taylor,Fayetteville,AR,,Yoga Box Racing p/b Transitions LifeCare
 15,424982,Marianne,Melling,Lawrence,KS,,GP Velotek
 16,540775,Mariana,Rodriguez Hernandez,West Allis,WI,,ISCorp Powered By Progress
 17,499223,Vincci,Fung,Chicago,IL,,PSIMET Racing
@@ -1195,11 +1195,11 @@ Place,License #,First,Last,City,State,Time,Team
 19,443034,Kelsey,Campbell Dollaghan,Chicago,IL,,BFF Bikes
 20,499581,Leigh Ann,Fields,Tulsa,OK,,Pandemonium Cycling p/b Hodges Bend
 21,309087,Kelly,Skinner,Lees Summit,MO,,
-22,466552,Colleen,Grygier,Gibsonia,PA,,Conemaugh Womens Racing
+22,466552,Colleen,Grygier,Wexford,PA,,Conemaugh Womens Racing
 23,296051,Vanessa,Buccella,Lake Bluff,IL,,BFF Bikes
 24,497850,Marissa,Carter,Saint Charles,MO,,Team Mack Racing Assn
 25,265833,Donna,Garland,Oklahoma City,OK,,Yoga Box Racing p/b Transitions LifeCare
-26,530373,Zuzana,Birova,Fishers,IN,,Phoenix Fitness and Training
+26,530373,Zuzana,Birova,Littleton,CO,,Phoenix Fitness and Training
 27,397724,Casandra,Dickerson,Tulsa,OK,,Team isocentric
 28,467223,Lori,McCarty,Owasso,OK,,Team isocentric
 29,205778,Laura,Vance,Lakewood,CO,,Primal Audi Denver Women's Racing
@@ -1217,7 +1217,7 @@ Place,License #,First,Last,City,State,Time,Team
 41,438223,Janette,Barber,Saint Louis,MO,,Balanced: Bike Fitting & Coaching Cycling Team
 42,0,Gemma,Casillas,,,,
 43,498892,leah,dematta,St Louis,MO,,Manhattan Project
-44,369286,Kim,Grisvard,Dublin ,OH,,Audi
+44,369286,Kim,Grisvard,Dublin,OH,,Audi
 45,400068,Judy,Slosar,Edwardsville,IL,,GP Velotek
 46,429779,Heather,PIckey,Indianapolis,IN,,Phoenix Fitness and Training
 47,528713,Reyna,Michel-Trapaga,Fox Lake,IL,,
@@ -1226,12 +1226,12 @@ Place,License #,First,Last,City,State,Time,Team
 50,367894,Melissa,Gomes,Florissant,MO,,Quantum Solutions Intelligentsia
 51,458179,Michaela,Neely,Andale,KS,,GP Velotek
 52,366392,Rebecca,Furuta,Longmont,CO,,Team Novo Nordisk Women
-53,424446,Renee,Ehrlich,Florissant,MO,,Balanced: Bike Fitting & Coaching Cycling Team
+53,424446,Renee,Ehrlich,St. Paul,MO,,Balanced: Bike Fitting & Coaching Cycling Team
 54,540568,Malaika,Buytaert,Las Vegas,NV,,
 
 09/03/2017 Criterium Women Pro/Cat 1/2 Prt 1
 Place,License #,First,Last,City,State,Time,Team
-1,186919,Kendall,Ryan,Ventura,CA,,Team TIBCO - Silicon Valley Bank*
+1,186919,Kendall,Ryan,Camarillo,CA,,Team TIBCO - Silicon Valley Bank*
 2,219367,Jennifer,Sharp,Boulder,CO,,Chicago Womens Elite Cycling
 3,375231,Amy,McClintock,St. Louis,MO,,Pastaria - Big Shark Racing*
 4,36345,Laura,Van Gilder,Cresco,PA,,Mellow Mushroom p/b Psimet
@@ -1242,18 +1242,18 @@ Place,License #,First,Last,City,State,Time,Team
 9,0,Erika,Varela,,,,Conade-Visit Mexico-Specialized
 10,201838,Laurel,Rathbun,Monument,CO,,Papa John's Racing p/b TREK*
 11,457092,Rachel,Langdon,Louisville,KY,,ISCorp Powered By Progress
-12,512762,Lily,Williams,Chicago,IL,,Fearless Femme Racing
+12,512762,Lily,Williams,Asheville,NC,,Fearless Femme Racing
 13,529694,DanielydelValle,Garcia,,TX,,
 14,439071,Diana,Penuela,Garland,TX,,
 15,262479,Lauren,Hall,Cortez,CO,,UnitedHealthcare Pro Cycling*
 16,271181,Kyrstin,Bluhm,Nashville,TN,,Fearless Femme Racing
 17,89443,Tiffany,Pezzulo,Salt Lake City,UT,,LA Sweat
 18,84776,Debbie,Milne,Greenville,SC,,Papa John's Racing p/b TREK
-19,358569,Janelle,Cole,Rockford,MI,,UnitedHealthcare Pro Cycling*
+19,358569,Janelle,Cole,Newaygo,MI,,UnitedHealthcare Pro Cycling*
 20,327486,Christa,Ghent,Boulder,CO,,LA Sweat
 21,485074,Hannah,Shell,Saint Louis,MO,,Pastaria - Big Shark Racing*
 22,487207,Kat,Sweatt,Birmingham,AL,,Mellow Mushroom Racing
-23,288729,Jennifer,Wagner,Houston ,TX,,Mellow Mushroom p/b Psimet
+23,288729,Jennifer,Wagner,Houston,TX,,Mellow Mushroom p/b Psimet
 24,529804,Caroline,Baur,,,,
 25,404315,Tabitha,Sherwood,Culver,IN,,Pastaria - Big Shark Racing*
 26,434193,Sarah,Guilbert,Durham,NC,,RTO National Women's Cycling
@@ -1312,7 +1312,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,165840,Danny,Kam,Las Vegas,NV,,Monster Media Elite Masters
 18,274367,Allan,Rego,New York,NY,,Lupus Racing Team
 19,200977,John,Purvis,Parthenon,AR,,Oklahoma Bicycle Project
-20,211435,Zack,Allison,Fort Collins ,CO,,TEAM CLIF BAR Cycling
+20,211435,Zack,Allison,Fort Collins,CO,,TEAM CLIF BAR Cycling
 21,501157,Mathew,Mackay,Pittsburgh,PA,,J Mac Cycling LLC
 22,219225,Evan,Hartig,Dubuque,IA,,Borah Factory Racing
 23,247652,Grant,Erhard,Saint Louis,MO,,Bissell-ABG-Giant
@@ -1322,10 +1322,10 @@ Place,License #,First,Last,City,State,Time,Team
 27,179843,Jason,Chatham,Goodlettsville,TN,,I Am Racing
 28,210225,Garrick,Valverde,Lawrence,KS,,Olathe Subaru Trek Racing
 29,347112,Austin,Gomes,Florissant,MO,,Quantum Solutions Intelligentsia
-30,263035,Andrew,Giniat,Winnetka,IL,,Project Echelon Racing
+30,263035,Andrew,Giniat,Asheville,NC,,Project Echelon Racing
 31,526320,Oliver,Behringer,Athens,GA,,
 32,215681,Marcus,Canady,Raleigh,NC,,Jigawatt Cycling
-33,299251,Justin,McQuerry,Athens,GA,,Team Novo Nordisk Development
+33,299251,Justin,McQuerry,Austin,TX,,Team Novo Nordisk Development
 34,396216,Trevor,Jackson,Salt Lake City,UT,,Palmer Cycling
 35,331782,Tony,Baca,Austin,TX,,ELBOWZ Racing p/b Synergy.O
 36,260604,Brandon,Melott,Warr Acres,OK,,JE Dunn Elite Road Racing
@@ -1366,12 +1366,12 @@ Place,License #,First,Last,City,State,Time,Team
 71,540830,Joel,Yates,,,,Gateway Harley-Davidson Trek U25 Develop
 72,310330,Michael,Allison,Shawnee,KS,,Olathe Subaru Trek Racing
 73,399388,George,Simpson,Fort Collins,CO,,Gateway Harley-Davidson Trek U25 Develop
-74,288716,Dustin,Morici,Saint Charles,IL,,Sammy's Racing
-75,257134,Joshua,Johnson,Fort Wayne,IN,,Bissell-ABG-Giant
+74,288716,Dustin,Morici,Rolla,MO,,Sammy's Racing
+75,257134,Joshua,Johnson,Indianapolis,IN,,Bissell-ABG-Giant
 76,336388,Corey,Davis,Danville,VA,,SC Competitive Cyclist
 77,318896,Micah,Engle,Dillsburg,PA,,Gateway Harley-Davidson Trek U25 Develop
-78,2443,John,Balmer,Indianapolis ,IN,,Century Road Club Of America
-79,272809,Ricky,Randall,Highland Village ,TX,,Arapahoe Resources / Garneau
+78,2443,John,Balmer,Indianapolis,IN,,Century Road Club Of America
+79,272809,Ricky,Randall,Highland Village,TX,,Arapahoe Resources / Garneau
 80,251580,Arthur,Moran,Jamaica Plain,MA,,Green Line Velo
 81,283391,Michael,Keller,Orland Hills,IL,,Bissell-ABG-Giant
 82,326166,Stephen,Wagstaff,Racine,WI,,Project Echelon Racing
@@ -1383,7 +1383,7 @@ Place,License #,First,Last,City,State,Time,Team
 88,366682,Scott,Williamson,Lawrence ,KS,,Olathe Subaru Trek Racing
 89,119871,Joshua,Friedman,Pittsburgh,PA,,Green Line Velo driven by Zipcar
 90,293873,Chris,Wiatr,Long Grove,IL,,Team Got Wind?
-91,157753,Trevor,Lister,Springfield ,IL,,The Cyclery Racing Team
+91,157753,Trevor,Lister,Springfield,IL,,The Cyclery Racing Team
 92,472550,Ulugbek,Saidov,Athens,GA,,
 93,148168,Andrew,Lister,Springfield,IL,,The Cyclery Racing Team
 94,191703,Thomas,Brown,Athens,GA,,
@@ -1402,7 +1402,7 @@ Place,License #,First,Last,City,State,Time,Team
 107,360809,Tyler,Cloutier,Dallas,TX,,Matrix Cycling Club
 108,237586,Kevin,Mullervy,Centennial,CO,,TEAM CLIF BAR Cycling
 109,297555,Christopher,Meacham,Mooresville,NC,,SC Competitive Cyclist
-110,218736,Gavin,Mannion,Austin,TX,,UnitedHealthcare Pro Cycling*
+110,218736,Gavin,Mannion,Fort Collins,CO,,UnitedHealthcare Pro Cycling*
 111,72022,Michael,Jacques,Portola Valley,CA,,TEAM CLIF BAR Cycling
 112,368147,Alex,Mclaughlin,Louisville,KY,,Texas Roadhouse Cycling Team
 113,226739,Trevor,Rolette,Tinley Park,IL,,Sammy's Racing
@@ -1490,7 +1490,7 @@ Place,License #,First,Last,City,State,Time,Team
 27,518396,Joshua,Pickett,Arvada,CO,,Primal - Audi Denver
 28,393186,Shawn,Hayden,Springfield,MO,,Kuat Trek P/B A&B Cycle
 29,366690,Chris,Dougan,Saint Louis,MO,,The Cyclery Racing Team
-30,461016,Jacob,Kastens,Cincinnati ,OH,,University of Cincinnati
+30,461016,Jacob,Kastens,Cincinnati,OH,,University of Cincinnati
 31,473922,Kevin,Minton,Saint Louis,MO,,
 32,422717,Daniel,Robertson,Wichita,KS,,GP Velotek
 33,406390,John,Helvey,Saint Louis,MO,,
@@ -1549,7 +1549,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,410406,Justin,Kirk,Carmel,IN,,Phoenix Fitness and Training
 19,468175,Eric,Loehle,Georgetown,MA,,Monster Media Racing
 20,343158,Adam,Lang,Weldon Spring,MO,,Pastaria - Big Shark Racing Team
-21,503760,Mitch,Reidt,Clayton,MO,,
+21,503760,Mitch,Reidt,Denver,CO,,
 22,438489,Hayden,McLaughlin,Warrensburg,MO,,Work Together Cycling Solutions
 23,391064,Andrew,Townsend,Little Rock,AR,,Central Arkansas Velo/CARVE
 24,380622,Jason,Cogan,Saint Louis,MO,,The Cannonball-Hub Racing Team
@@ -1601,7 +1601,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,386458,Evan,Blankenship,University City,MO,,Korte Hammer Down Racing
 2,394358,Seth,Worthington,Westfield,IN,,
-3,439089,Daryl,Thomas,Denver ,CO,,Palmares Racing
+3,439089,Daryl,Thomas,Denver,CO,,Palmares Racing
 4,428327,Zachary,Scharnhorst,Quincy,IL,,Momentum Racing LLC - MO
 5,347128,Jacob,Okamoto,Minneapolis,MN,,
 6,283751,Maxlimilian,Freeman,Lakewood,CO,,COGA Elite Cycling Team
@@ -1637,7 +1637,7 @@ Place,License #,First,Last,City,State,Time,Team
 36,420122,Christopher,Pilarski,Saint Charles,MO,,Momentum Racing LLC - MO
 37,425275,Logan,Grace,Minneapolis,MN,,Apollo Velo U25
 38,347750,Carter,Snow,Saint Louis,MO,,Maplewood Bicycle St. Louis
-39,307737,Evan,Lardinois,St. Charles ,MO,,Korte Hammer Down Racing
+39,307737,Evan,Lardinois,St. Charles,MO,,Korte Hammer Down Racing
 40,398204,Geoffrey,Albert,Chicago,IL,,
 41,494806,Christopher,Baldwin,Denver,CO,,Team Cycleton
 42,97351,Brian,Thieme,Saint Charles,MO,,Maplewood Bicycle St. Louis
@@ -1655,7 +1655,7 @@ Place,License #,First,Last,City,State,Time,Team
 54,422849,Yukio,Mariner,Murfreesboro,TN,,MOAB Racing
 55,313306,Arvin,Jansen,Nashville,TN,,I Am Racing
 56,376433,RL,Hesson,Thompsons Station,TN,,I Am Racing
-57,103984,Ben,Beger,Ofallon,MO,,Momentum Racing LLC - MO
+57,103984,Ben,Beger,O Fallon,MO,,Momentum Racing LLC - MO
 58,281084,Ross,Williams,Williamsburg,MI,,Team Athletic Mentors / GREENWAREUSA
 59,277697,Christopher,Poptic,West Chester,OH,,Team Dayton Bicycling
 60,466301,Zachery,Motsinger,Olathe,KS,,Move Up Development
@@ -1708,7 +1708,7 @@ Place,License #,First,Last,City,State,Time,Team
 11,318648,keith,guilford,Edwardsville,IL,,The Cyclery Racing Team
 12,29802,Mike,Rickey,Columbia,IL,,Intelligentsia Coffee
 13,144636,Mark,Murawski,St Louis,MO,,Gateway Cycling Club
-14,46770,Brian,Teipen,Alpharetta,GA,,East Point Track Club
+14,46770,Brian,Teipen,Milton,GA,,East Point Track Club
 15,160576,Matt,Muyres,Minneapolis,MN,,Donkey Label
 16,32882,Joseph,Skrocki,China ,MI,,Essex Brass Cycling Team
 17,165037,Patrick,Weddell,Boone ,NC,,HC Devo p/b Monster Media Racing
@@ -1725,8 +1725,8 @@ Place,License #,First,Last,City,State,Time,Team
 28,289827,Chad,Weisgram,Audubon ,MN,,Vision Racing p/b Sanford POWER
 29,183765,Theodore,Araneta,Kirkwood,MO,,Pastaria - Big Shark Racing Team
 30,2185,Steven,Babcock,Saint Louis,MO,,Velo Force
-31,406399,Simon,Phuah,Downers Grove,IL,,INTENT
-32,82244,Chris,Richter,Fishers,IN,,Team Heroes / First Internet Bank Master
+31,406399,Simon,Phuah,Littleton,CO,,INTENT
+32,82244,Chris,Richter,Carmel,IN,,Team Heroes / First Internet Bank Master
 33,182683,Scott,Shaw,Edwardsville,IL,,The Cyclery Racing Team
 34,133838,Daryl,Hemenway,San Jose,CA,,CoreTechs Cycling TwT
 35,243485,Dan,young,Saint Louis,MO,,Pastaria - Big Shark Racing Team
@@ -1774,7 +1774,7 @@ Place,License #,First,Last,City,State,Time,Team
 77,189565,Chris,Cleeland,St Louis,MO,,Pastaria - Big Shark Racing Team
 78,10703,Mark,Ellis,Indianapolis,IN,,Team Indiebike p/b IU Health
 79,417359,Barry,Bean,Gideon,MO,,Cape Bicycle and Fitness
-80,179908,Vince,DeBlasi,Ballwin ,MO,,Pastaria - Big Shark Racing Team
+80,179908,Vince,DeBlasi,Ballwin,MO,,Pastaria - Big Shark Racing Team
 81,333500,Thomas,Hawley,Mount Vernon,IN,,Schellers Evansville Racing Team
 
 09/02/2017 Criterium Women Women 3/4/5
@@ -1782,10 +1782,10 @@ Place,License #,First,Last,City,State,Time,Team
 1,410272,Gracie,Pendleton,Christiana,TN,,Nashville Local Cycling
 2,427800,Stacy,Bragg,Saint Louis,MO,,Velo Force
 3,515516,Lydia,Chinchilla,Glen Ellyn,IL,,Team Got Wind?
-4,506931,Finn,Taylor,Tulsa,OK,,Yoga Box Racing p/b Transitions LifeCare
+4,506931,Finn,Taylor,Fayetteville,AR,,Yoga Box Racing p/b Transitions LifeCare
 5,441048,justine,emge,Fort Rucker,MO,,SBC Cycling
 6,495795,Noni,Bertagnoli,Mc Kinney,TX,,Dallas Racing
-7,466552,Colleen,Grygier,Gibsonia,PA,,Conemaugh Womens Racing
+7,466552,Colleen,Grygier,Wexford,PA,,Conemaugh Womens Racing
 8,540775,Mariana,Rodriguez Hernandez,West Allis,WI,,ISCorp Powered By Progress
 9,475292,Ariel,Wyant,Tulsa,OK,,
 10,513318,Christin,Stuschka,Champlin,MN,,p/b Borah
@@ -1801,11 +1801,11 @@ Place,License #,First,Last,City,State,Time,Team
 20,205778,Laura,Vance,Lakewood,CO,,Primal Audi Denver Women's Racing
 21,424982,Marianne,Melling,Lawrence,KS,,GP Velotek
 22,420099,Lisa,DeMarni Cromer,Jenks,OK,,Team isocentric
-23,527854,Allison,Schroeder,Chicago,IL,,PSIMET Racing
+23,527854,Allison,Schroeder,Champaign,IL,,PSIMET Racing
 24,497850,Marissa,Carter,Saint Charles,MO,,Team Mack Racing Assn
 25,468081,Ellie,Morgenthaler,Chesterfield,MO,,Naked Women's Racing
 26,265833,Donna,Garland,Oklahoma City,OK,,Yoga Box Racing p/b Transitions LifeCare
-27,369286,Kim,Grisvard,Dublin ,OH,,Audi
+27,369286,Kim,Grisvard,Dublin,OH,,Audi
 28,190294,Katie,Arehart-Rose,Longmont,CO,,Naked Women's
 29,438016,Alayne,Beshey,Fort Dodge,IA,,Lindenwood University
 30,0,Tanya,Colbert,,,,
@@ -1828,7 +1828,7 @@ Place,License #,First,Last,City,State,Time,Team
 47,414408,MaryAnn,Sedor,Warrenville,IL,,INTENT
 48,481436,Amanda,Lappe,St Charles,MO,,Maplewood Bicycle St. Louis
 49,474997,Hannah,Jordan,Tulsa,OK,,Tulsa Wheelmen
-50,530373,Zuzana,Birova,Fishers,IN,,Phoenix Fitness and Training
+50,530373,Zuzana,Birova,Littleton,CO,,Phoenix Fitness and Training
 51,512091,Aylannah,Dylag,Kansas City,MO,,GP Velotek
 52,458179,Michaela,Neely,Andale,KS,,GP Velotek
 53,538398,Julie,Altnether,Ballwin,MO,,
@@ -1839,11 +1839,11 @@ Place,License #,First,Last,City,State,Time,Team
 2,484160,Josie,Talbot,,,,ISCorp Powered By Progress Software*
 3,262479,Lauren,Hall,Cortez,CO,,UnitedHealthcare Pro Cycling*
 4,439071,Diana,Penuela,Garland,TX,,UnitedHealthcare Pro Cycling*
-5,186919,Kendall,Ryan,Ventura,CA,,Team TIBCO - Silicon Valley Bank*
-6,512762,Lily,Williams,Chicago,IL,,Fearless Femme Racing
+5,186919,Kendall,Ryan,Camarillo,CA,,Team TIBCO - Silicon Valley Bank*
+6,512762,Lily,Williams,Asheville,NC,,Fearless Femme Racing
 7,375231,Amy,McClintock,St. Louis,MO,,Pastaria - Big Shark Racing*
 8,379241,Flora,Yan,Plano,TX,,Fearless Femme Racing
-9,358569,Janelle,Cole,Rockford,MI,,UnitedHealthcare Pro Cycling*
+9,358569,Janelle,Cole,Newaygo,MI,,UnitedHealthcare Pro Cycling*
 10,457092,Rachel,Langdon,Louisville,KY,,ISCorp Powered By Progress Software*
 11,327486,Christa,Ghent,Boulder,CO,,LA Sweat
 12,227028,Anne,Donley,Denver,CO,,
@@ -1878,7 +1878,7 @@ Place,License #,First,Last,City,State,Time,Team
 41,475142,Sarah,Coney,,,,
 42,540570,Nina,Wollaston,,,,
 43,400119,Mia,Cheeseman,Madison,WI,,Team Wheel & Sprocket
-44,288729,Jennifer,Wagner,Houston ,TX,,Mellow Mushroom p/b Psimet
+44,288729,Jennifer,Wagner,Houston,TX,,Mellow Mushroom p/b Psimet
 45,527682,Antonieta,Gaxiola,,,,Conade-Visit Mexico-Specialized
 46,207443,Vanessa,Curtis,Iowa City,IA,,Orion Racing p/b K'ul Chocolate
 47,211756,Carol,Seipp,Eagan,MN,,Orion Racing p/b K'ul Chocolate
@@ -1932,10 +1932,10 @@ Place,License #,First,Last,City,State,Time,Team
 24,215681,Marcus,Canady,Raleigh,NC,,Jigawatt Cycling
 25,257611,Hogan,Sills,Terre Haute,IN,,Bissell-ABG-Giant
 26,247652,Grant,Erhard,Saint Louis,MO,,Bissell-ABG-Giant
-27,263035,Andrew,Giniat,Winnetka,IL,,Project Echelon Racing
+27,263035,Andrew,Giniat,Asheville,NC,,Project Echelon Racing
 28,525397,Greg,Henderson,,,,
 29,371826,Timothy,Savre,Glencoe,MN,,Project Echelon Racing
-30,211435,Zack,Allison,Fort Collins ,CO,,TEAM CLIF BAR Cycling
+30,211435,Zack,Allison,Fort Collins,CO,,TEAM CLIF BAR Cycling
 31,359308,Richard,OBriant,Fuquay Varina,NC,,Jigawatt Cycling
 32,481036,John,Borstelmann,Lincoln,NE,,Team Kaos/Joyride Bicycles
 33,232219,Thomas,Gaines,Madison ,WI,,
@@ -1971,7 +1971,7 @@ Place,License #,First,Last,City,State,Time,Team
 63,272180,Jacob,White,Pauls Valley,OK,,Oklahoma Bicycle Project
 64,192686,Blake,Anton,Arroyo Grande,CA,,Herbalife p/b Marc Pro - Nature's Bakery
 65,220775,Thomas,Soladay,Minnetonka,MN,,UCI CT: Rally Cycling
-66,299251,Justin,McQuerry,Athens,GA,,Team Novo Nordisk Development
+66,299251,Justin,McQuerry,Austin,TX,,Team Novo Nordisk Development
 67,320000,Derek,Cote,Burlington,CT,,Greater Hartford Cycling Club
 68,176998,Scott,Ogilvie,St. Louis,MO,,Dogfish/Team Noah
 69,6135,Chris,Carlson,Plano,TX,,RBM/Matrix Racing
@@ -1982,16 +1982,16 @@ Place,License #,First,Last,City,State,Time,Team
 74,43652,Terrence,Keenan,Saint Louis,MO,,Pastaria - Big Shark Racing Team
 75,309324,Dominic,Caiazzo,Bronx,NY,,Lupus Racing Team
 76,211847,Patrick,Casey,Park City,UT,,Palmer Cycling
-77,288716,Dustin,Morici,Saint Charles,IL,,Sammy's Racing
+77,288716,Dustin,Morici,Rolla,MO,,Sammy's Racing
 78,226739,Trevor,Rolette,Tinley Park,IL,,Sammy's Racing
 79,402875,Matt,Salpietro,Indianapolis,IN,,Texas Roadhouse Cycling Team
 80,271607,B.J.,Keane,Defiance,MO,,Pastaria - Big Shark Racing
-81,2443,John,Balmer,Indianapolis ,IN,,Century Road Club Of America
+81,2443,John,Balmer,Indianapolis,IN,,Century Road Club Of America
 82,235209,Jacob,Hill,Saint Petersburg,FL,,Support Clean Sport/SeaSucker/Guttenplan
 83,326166,Stephen,Wagstaff,Racine,WI,,Project Echelon Racing
 84,345004,Daniel,Lausin,Willowick,OH,,Palmer/CSpire Fiber Cycling
 85,293873,Chris,Wiatr,Long Grove,IL,,Team Got Wind?
-86,272809,Ricky,Randall,Highland Village ,TX,,Arapahoe Resources / Garneau*
+86,272809,Ricky,Randall,Highland Village,TX,,Arapahoe Resources / Garneau*
 87,192750,Ted,Horwitz,Haverhill,MA,,Monster Media Racing
 88,119871,Joshua,Friedman,Pittsburgh,PA,,Green Line Velo driven by Zipcar
 89,251580,Arthur,Moran,Jamaica Plain,MA,,Green Line Velo
@@ -2015,7 +2015,7 @@ Place,License #,First,Last,City,State,Time,Team
 107,178970,Mat,Stephens,Dallas,TX,,Arapahoe Resources / Garneau*
 108,148088,Adrian,Hegyvary,Asheville,NC,,UnitedHealthcare Pro Cycling*
 109,255591,Jonathan,Brown,Covington,TN,,UCI CT: Axeon Hagens Berman
-110,218736,Gavin,Mannion,Austin,TX,,UnitedHealthcare Pro Cycling*
+110,218736,Gavin,Mannion,Fort Collins,CO,,UnitedHealthcare Pro Cycling*
 111,72022,Michael,Jacques,Portola Valley,CA,,TEAM CLIF BAR Cycling
 112,431242,Pierrick,Naud,,,,
 113,269476,Michael,Jasinski,Rocklin,CA,,
@@ -2098,7 +2098,7 @@ Place,License #,First,Last,City,State,Time,Team
 38,374941,Aaron,Chisum,Columbia,MO,,
 39,366690,Chris,Dougan,Saint Louis,MO,,The Cyclery Racing Team
 40,468376,Joseph,Scherrer,Saint Louis,MO,,Pastaria - Big Shark Racing Team
-41,509655,Daniel,Brewer,Saint Louis,MO,,
+41,514686,Daniel,Brewer,Saint Louis,MO,,
 42,424257,Edgar,Moskalev,Bridgeton,MO,,
 43,482712,Joseph,Madden,Saint Louis,MO,,
 44,392298,Nicholas,Gomes,Florissant,MO,,Quantum Solutions Intelligentsia
@@ -2128,7 +2128,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,215852,Jonathan,Bell,Saint Louis,MO,,Dogfish/Team Noah
 15,437809,Ethan,Nelson,Minneapolis,MN,,SPBRC-Grand Performance
 16,281084,Ross,Williams,Williamsburg,MI,,Team Athletic Mentors / GREENWAREUSA
-17,503760,Mitch,Reidt,Clayton,MO,,
+17,503760,Mitch,Reidt,Denver,CO,,
 18,358120,Chris,Plooster,Mcpherson,KS,,3 Feet Cycling p/b Foody's
 19,414558,Alexander,Jensen,Tulsa,OK,,Tulsa Wheelmen
 20,420122,Christopher,Pilarski,Saint Charles,MO,,Momentum Racing LLC - MO
@@ -2141,7 +2141,7 @@ Place,License #,First,Last,City,State,Time,Team
 27,278837,Jason,Fergurson,Batavia,IL,,Chicago Cuttin Crew
 28,440912,Samuel,Meullenet,Fayetteville,AR,,Breakaway Cycling Club - NWA
 29,486012,James,Host,Saint Louis,MO,,
-30,408085,Lanny,Dunham,Castle Pines,CO,,Palmares Racing
+30,408085,Lanny,Dunham,Parker,CO,,Palmares Racing
 31,501831,jordan,kuiper,Saint Louis,MO,,
 32,460486,Nick,McClellan,Saint Louis,MO,,SBR Quantum Racing
 33,532168,samuel,janisch,Wauwatosa,WI,,ISCorp Cycling
@@ -2189,7 +2189,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,311425,Lane,Johnson,Shawnee Mission,KS,,Work Together Cycling Solutions
 16,285795,Benjamin,King,Louisville,KY,,Clarksville Schwinn powered by Whayne
 17,433683,Thomas,Torbik,Vernon Hills,IL,,ABD Cycling Team
-18,439089,Daryl,Thomas,Denver ,CO,,Palmares Racing
+18,439089,Daryl,Thomas,Denver,CO,,Palmares Racing
 19,185671,Robert,Kelly,Washington,DC,,Haymarket/Starlight Custom Apparel
 20,406377,Brian,Lea,Bartlesville,OK,,Experience Fayetteville Cycling Team
 21,409342,philip,sousa,Arlington,VA,,PTS Racing
@@ -2213,7 +2213,7 @@ Place,License #,First,Last,City,State,Time,Team
 39,400799,Jacob,Slosar,Edwardsville,IL,,Quantum Solutions Intelligentsia
 40,261865,Alex,Grman,Saint Louis,MO,,
 41,405620,Eric,Franklin,Tulsa,OK,,Oklahoma Bicycle Project
-42,307737,Evan,Lardinois,St. Charles ,MO,,Korte Hammer Down Racing
+42,307737,Evan,Lardinois,St. Charles,MO,,Korte Hammer Down Racing
 43,274271,Chris,Goguen,Franklin,MA,,RACE CF
 44,290270,Robin,Zuend,St Louis,MO,,SBR Quantum Racing
 45,97351,Brian,Thieme,Saint Charles,MO,,Maplewood Bicycle St. Louis
@@ -2276,11 +2276,11 @@ Place,License #,First,Last,City,State,Time,Team
 12,243485,Dan,young,Saint Louis,MO,,Pastaria - Big Shark Racing Team
 13,318648,keith,guilford,Edwardsville,IL,,The Cyclery Racing Team
 14,165037,Patrick,Weddell,Boone ,NC,,HC Devo p/b Monster Media Racing
-15,406399,Simon,Phuah,Downers Grove,IL,,INTENT
+15,406399,Simon,Phuah,Littleton,CO,,INTENT
 16,229405,Chris,Erhard,Saint Louis,MO,,SBR Quantum Racing
 17,420080,Chris,Cook,O Fallon,MO,,Momentum Racing LLC - MO
 18,140740,Norman,Zellers,Scott Air Force Base,IL,,
-19,392104,Doug,Zell,Little Rock ,AR,,Intelligentsia Coffee
+19,392104,Doug,Zell,Lockhart,TX,,Intelligentsia Coffee
 20,107684,Benjamin,Weaver,Columbus,IN,,Texas Roadhouse Cycling Team
 21,41398,Karim,Abdelkader,Bloomington,IN,,
 22,54928,Todd,Metz,Rockdale,IL,,
@@ -2303,7 +2303,7 @@ Place,License #,First,Last,City,State,Time,Team
 39,333364,Anthony,Reguero,Irvine,CA,,WIN TEAM RACING
 40,276629,Christian,Verry,Saint Louis,MO,,Gateway Cycling Club
 41,56245,Brendon,Hale,St. Paul,MN,,Jimmy Jack's
-42,482205,Dennis,Lilly,Saint Louis,MO,,
+42,482205,Dennis,Lilly,St Louis,MO,,
 43,272010,Patrick,Gribbon,Wildwood,MO,,Gateway Cycling Club
 44,331440,Guillermo,Garsed,Chesterfield,MO,,Dogfish/Team Noah
 45,53358,Bill,Marshall,Olathe,KS,,Olathe Subaru Trek Racing
@@ -2314,7 +2314,7 @@ Place,License #,First,Last,City,State,Time,Team
 50,174113,Joe,Fuller,Prospect,KY,,Clarksville Schwinn powered by Whayne
 51,311494,Josh,Ginsburg,Indianapolis,IN,,Phoenix Fitness and Training
 52,133838,Daryl,Hemenway,San Jose,CA,,CoreTechs Cycling TwT
-53,103984,Ben,Beger,Ofallon,MO,,Momentum Racing LLC - MO
+53,103984,Ben,Beger,O Fallon,MO,,Momentum Racing LLC - MO
 54,229106,Chak,Lattanand,Saint Louis,MO,,
 55,275550,JP,Brocket,Overland Park,KS,,Kuat Trek P/B A&B Cycle
 56,10703,Mark,Ellis,Indianapolis,IN,,Team Indiebike p/b IU Health
@@ -2346,8 +2346,8 @@ Place,License #,First,Last,City,State,Time,Team
 82,195007,Daniel,Stutts,Rolla,MO,,Velo Force
 83,333500,Thomas,Hawley,Mount Vernon,IN,,Schellers Evansville Racing Team
 DNS,254527,Brendan,Canty,Lexington,KY,,Commonwealth Eye Surgery / Crankworks
-DNS,253970,Gary,Gaddis,Saint Louis,MO,,Pastaria - Big Shark Racing Team
-DNF,179908,Vince,DeBlasi,Ballwin ,MO,,Pastaria - Big Shark Racing Team
+DNS,253970,Gary,Gaddis,University City,MO,,Pastaria - Big Shark Racing Team
+DNF,179908,Vince,DeBlasi,Ballwin,MO,,Pastaria - Big Shark Racing Team
 
 09/01/2017 Criterium Women Women 3/4/5
 Place,License #,First,Last,City,State,Time,Team
@@ -2357,9 +2357,9 @@ Place,License #,First,Last,City,State,Time,Team
 4,475292,Ariel,Wyant,Tulsa,OK,,
 5,482735,Sarah,Schuetter,Evansville,IN,,Dan's Comp Factory Racing
 6,513318,Christin,Stuschka,Champlin,MN,,p/b Borah
-7,527854,Allison,Schroeder,Chicago,IL,,PSIMET Racing
+7,527854,Allison,Schroeder,Champaign,IL,,PSIMET Racing
 8,441048,justine,emge,Fort Rucker,MO,,SBC Cycling
-9,466552,Colleen,Grygier,Gibsonia,PA,,Conemaugh Womens Racing
+9,466552,Colleen,Grygier,Wexford,PA,,Conemaugh Womens Racing
 10,410272,Gracie,Pendleton,Christiana,TN,,Nashville Local Cycling
 11,503371,Anna,Affias,Chicago,IL,,Spidermonkey Cycling
 12,381336,Lori,Hinds,Mapleton,IL,,Bloomington Cycle Racing Team
@@ -2369,7 +2369,7 @@ Place,License #,First,Last,City,State,Time,Team
 16,343350,Amy,Kruger,Mount Vernon,IN,,Dan's Comp Factory Racing
 17,474997,Hannah,Jordan,Tulsa,OK,,Tulsa Wheelmen
 18,502899,Leigh,Dukeman,Bloomington,IN,,Bakehouse Cycling
-19,506931,Finn,Taylor,Tulsa,OK,,Yoga Box Racing p/b Transitions LifeCare
+19,506931,Finn,Taylor,Fayetteville,AR,,Yoga Box Racing p/b Transitions LifeCare
 20,245651,Christine,Roettger,Saint Louis,MO,,
 21,497850,Marissa,Carter,Saint Charles,MO,,Team Mack Racing Assn
 22,309087,Kelly,Skinner,Lees Summit,MO,,
@@ -2400,9 +2400,9 @@ Place,License #,First,Last,City,State,Time,Team
 47,458179,Michaela,Neely,Andale,KS,,GP Velotek
 48,366392,Rebecca,Furuta,Longmont,CO,,Team Novo Nordisk Women
 49,528713,Reyna,Michel-Trapaga,Fox Lake,IL,,
-50,424446,Renee,Ehrlich,Florissant,MO,,Balanced: Bike Fitting & Coaching Cycling Team
+50,424446,Renee,Ehrlich,St. Paul,MO,,Balanced: Bike Fitting & Coaching Cycling Team
 51,460967,Heather,Patton,Mount Vernon,IL,,Korte Hammer Down Racing
-DNS,369286,Kim,Grisvard,Dublin ,OH,,Audi
+DNS,369286,Kim,Grisvard,Dublin,OH,,Audi
 DNS,480100,Molly,Benton,Olathe,KS,,Midwest Cycling Trek Stores Women's Cycl
 DNS,529532,Jennifer,ZIlka,Saint Louis,MO,,Pastaria - Big Shark Racing Team
 DNF,400068,Judy,Slosar,Edwardsville,IL,,GP Velotek
@@ -2412,7 +2412,7 @@ DNF,498377,Katie,Van Hook,Saint Louis,MO,,Pastaria - Big Shark Racing Team
 Place,License #,First,Last,City,State,Time,Team
 1,262479,Lauren,Hall,Cortez,CO,,UnitedHealthcare Pro Cycling*
 2,439071,Diana,Penuela,Garland,TX,,UnitedHealthcare Pro Cycling*
-3,186919,Kendall,Ryan,Ventura,CA,,Team TIBCO - Silicon Valley Bank*
+3,186919,Kendall,Ryan,Camarillo,CA,,Team TIBCO - Silicon Valley Bank*
 4,484160,Josie,Talbot,,,,ISCorp Powered By Progress Software*
 5,475142,Sarah,Coney,,,,
 6,271181,Kyrstin,Bluhm,Nashville,TN,,Fearless Femme Racing
@@ -2424,14 +2424,14 @@ Place,License #,First,Last,City,State,Time,Team
 12,487207,Kat,Sweatt,Birmingham,AL,,Mellow Mushroom Racing
 13,529804,Caroline,Baur,,,,
 14,313982,Kate,Kirkpatrick,Washington,DC,,Mellow Mushroom p/b Psimet
-15,512762,Lily,Williams,Chicago,IL,,Fearless Femme Racing
+15,512762,Lily,Williams,Asheville,NC,,Fearless Femme Racing
 16,227028,Anne,Donley,Denver,CO,,
 17,0,Erika,Varela,,,,Conade-Visit Mexico-Specialized
 18,381993,Solymar,Rivera,Dallas,TX,,Sun & Ski Women's Racing
 19,84776,Debbie,Milne,Greenville,SC,,Papa John's Racing p/b TREK
 20,523767,Annika,Teschke,Saint Charles,MO,,
 21,460027,Madison,Kelly,Naples,FL,,Papa John's Racing p/b TREK
-22,358569,Janelle,Cole,Rockford,MI,,UnitedHealthcare Pro Cycling*
+22,358569,Janelle,Cole,Newaygo,MI,,UnitedHealthcare Pro Cycling*
 23,89443,Tiffany,Pezzulo,Salt Lake City,UT,,LA Sweat
 24,41951,Tina,Pic,Bountiful,UT,,Papa John's Racing p/b TREK
 25,424035,Cynthia,Frazier,Lexington,VA,,Velo Classic p/b Stan's NoTubes
@@ -2445,7 +2445,7 @@ Place,License #,First,Last,City,State,Time,Team
 33,384168,Paige,Shumskas,Pipersville,PA,,Fearless Femme Racing
 34,291446,Daphne,Karagianis,Chicago,IL,,Velo Classic p/b Stan's NoTubes
 35,529694,DanielydelValle,Garcia,,TX,,
-36,288729,Jennifer,Wagner,Houston ,TX,,Mellow Mushroom p/b Psimet
+36,288729,Jennifer,Wagner,Houston,TX,,Mellow Mushroom p/b Psimet
 37,0,Julyn,Aguila,,,,Conade-Visit Mexico-Specialized
 38,36345,Laura,Van Gilder,Cresco,PA,,Mellow Mushroom p/b Psimet
 39,432214,Lauretta,Hanson,Milligan College,TN,,UnitedHealthcare Pro Cycling*

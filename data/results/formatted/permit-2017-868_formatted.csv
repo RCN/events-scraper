@@ -24,7 +24,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,210238,Dwaine,Allgier,Salt Lake City,UT,3:12:00,Zone Five Racing
 2,524797,Morten,Pedersen,Draper,UT,3:13:24,Pavestone Cycling
-3,502639,Jeff,Phillips,Salt Lake City,UT,3:18:54,
+3,502639,Jeff,Phillips,Salt Lake,UT,3:18:54,
 4,530952,Boyd,Timothy,Highland,UT,3:21:08,Zone Five Racing
 5,498098,Michael,Gould,San Clemente,CA,3:22:18,HUNKR.com - PEDALindustries
 6,449782,Ben,Raybould,Salt Lake City,UT,3:22:53,
@@ -50,7 +50,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,251566,nathan,cisney,Layton,UT,3:09:57,AFCU Ptown Cross
 3,311977,Samuel,Dearden,West Valley City,UT,3:10:03,Zone Five Racing
 4,473326,Adam,Baker,Las Vegas,NV,3:10:17,
-5,416923,Scott,Miller,Kent,WA,3:10:58,
+5,416923,Scott,Miller,Layton,UT,3:10:58,
 6,422817,Preston,Edwards,American Fork,UT,3:22:29,Zone Five Racing
 7,347028,McKay,Robinson,Herriman,UT,3:23:57,Zanconato Racing
 8,199992,Chad,Chenoweth,Salt Lake City,UT,3:27:03,Plan7
@@ -91,7 +91,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 07/15/2017 Road Race Men Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
-1,267198,Rob,Squire,Sandy,UT,3:01:21,Canyon Bicycles Pro Cycling
+1,267198,Rob,Squire,Salt Lake City,UT,3:01:21,Canyon Bicycles Pro Cycling
 2,163112,James,Driscoll,Park City,UT,3:01:53,DNA Cycling
 3,0,Brian,Mccallic,,,3:06:10,
 4,282287,Mark,Flis,Park City,UT,3:06:15,

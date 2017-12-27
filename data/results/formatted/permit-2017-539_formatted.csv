@@ -25,7 +25,7 @@ Place,License #,First,Last,City,State,Time,Team
 22,197252,Craig,STREIT,Scottsdale,AZ,0:00:00,
 23,342600,Keenan,DUNCAN,Tucson,AZ,0:00:00,
 24,253798,Michael,DZIEDZIC,Tempe,AZ,0:00:00,
-25,215821,Ryan,BIBKO,Kent,WA,0:00:00,
+25,215821,Ryan,BIBKO,Colorado Springs,CO,0:00:00,
 26,237283,Joseph,IULIANO,Tucson,AZ,0:00:00,
 DNF,395984,Armon,HAGHIGHAT,Scottsdale,AZ,0:00:00,
 
@@ -39,7 +39,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,514512,Seth,WALL,Jefferson,MD,0:00:00,
 7,522649,Riley,SPILLER,Phoenix,AZ,0:00:00,
 8,422175,Ronny,ALVAREZ,Oro Valley,AZ,0:00:00,
-9,502980,Benjamin,CRISTOFORI,Tucson,AZ,0:00:00,
+9,502980,Benjamin,CRISTOFORI,Marana,AZ,0:00:00,
 10,526460,Jeremy,HUTCHINSON,Sierra Vista,AZ,0:00:00,
 11,520574,Curtis,MCCRARY,Tucson,AZ,0:00:00,
 12,523414,Joshua,SCHREINER,Fort Huachuca,AZ,0:00:00,
@@ -86,15 +86,15 @@ Place,License #,First,Last,City,State,Time,Team
 3,493861,Joshua,WATTS,Phoenix,AZ,0:00:00,
 4,428380,Tony,MONTEFERRANTE,Scottsdale,AZ,0:00:00,
 5,394505,Castle,GAY,Tucson,AZ,0:00:00,
-6,332886,Tim,SCOTT,Sahuarita ,AZ,0:00:00,
-7,422930,Scott,JONES,Tempe,AZ,0:00:00,
+6,332886,Tim,SCOTT,Sahuarita,AZ,0:00:00,
+7,422930,Scott,JONES,Scottsdale,AZ,0:00:00,
 8,422305,Michael,HAST,Tucson,AZ,0:00:00,
 9,458879,David,STOUT,Tucson,AZ,0:00:00,
 10,392507,Kyle,GANDY,Phoenix,AZ,0:00:00,
 11,48436,Brett,VAN DE SANDE,Tempe,AZ,0:00:00,
 12,253918,David,UBINGER,El Paso,TX,0:00:00,
 13,422606,Alex,KAUFMAN,Flagstaff,AZ,0:00:00,
-DNS,366759,Adam,DUNN,Gilbert,AZ,0:00:00,
+DNS,366759,Adam,DUNN,Mesa,AZ,0:00:00,
 
 03/10/2017 Criterium Men Cat. 1/2/3/4/5 Fixies 30 Minutes 13-99
 Place,License #,First,Last,City,State,Time,Team
@@ -111,7 +111,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,27519,Eric,PEARCE,Tucson,AZ,0:00:00,
 5,223515,Gerry,CLAPPER,Scottsdale,AZ,0:00:00,
 6,459051,Stephen,LEAKE,Lexington,IL,0:00:00,
-7,192230,Mark,COWIN,Frederica ,DE,0:00:00,
+7,192230,Mark,COWIN,Frederica,DE,0:00:00,
 8,200910,Kurt,KROEMER,Phoenix,AZ,0:00:00,
 9,0,Craig,HARDING,,,0:00:00,
 10,459264,George,VILLANUEVA,Tucson,AZ,0:00:00,
@@ -134,7 +134,7 @@ DNS,46714,Shannon,FOX,Englewood,CO,0:00:00,
 Place,License #,First,Last,City,State,Time,Team
 1,466441,Steven,LONG,Vail,AZ,0:00:00,
 2,428440,Kenneth,STARCKE,Tucson,AZ,0:00:00,
-3,522248,William,Lyall,Tucson,AZ,0:00:00,
+3,522248,William,Lyall,Denver,CO,0:00:00,
 
 03/10/2017 Criterium Men Cat. 1/2/3/4/5 Masters 30 Minutes 70-99
 Place,License #,First,Last,City,State,Time,Team
@@ -145,7 +145,7 @@ DNF,45539,Norman,KIBBLE,Tucson,AZ,0:00:00,
 
 03/10/2017 Criterium Men Cat. 1/2/3/4 Masters 30 Minutes 35-99
 Place,License #,First,Last,City,State,Time,Team
-1,366759,Adam,DUNN,Gilbert,AZ,0:00:00,
+1,366759,Adam,DUNN,Mesa,AZ,0:00:00,
 2,321592,Thomas,FIORILLO,Denver,CO,0:00:00,
 3,205616,Shawn,DALY,Santa Rosa,CA,0:00:00,
 4,206228,Andrew,SCOTT,Tucson,AZ,0:00:00,
@@ -160,8 +160,8 @@ Place,License #,First,Last,City,State,Time,Team
 3,53911,Joseph,BUCHANAN,Camarillo,CA,0:00:00,
 4,83075,James,WEBSTER,Tucson,AZ,0:00:00,
 5,394881,Lynn,ORCHARD,Tucson,AZ,0:00:00,
-6,440780,Jose,NICOLA,,,0:00:00,
-7,119446,Allyn,SMITH,Saint Joseph,MO,0:00:00,
+6,467095,Jose,NICOLA,,,0:00:00,
+7,119446,Allyn,SMITH,St Joseph,MO,0:00:00,
 8,40545,Scott,ELLIS,Tucson,AZ,0:00:00,
 
 03/10/2017 Criterium Women Pro/Cat 1/2/3 50 Minutes 15-99
@@ -184,7 +184,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,395723,Nathalie,POTVIN,Scottsdale,AZ,0:00:00,
 5,394437,Raemy,WINTON,Flagstaff,AZ,0:00:00,
 6,402850,Victoria,TROCHE,Phoenix,AZ,0:00:00,
-DNF,459515,Alissa,ALBRECHT,Tempe,FL,0:00:00,
+DNF,459515,Alissa,ALBRECHT,Tempe,AZ,0:00:00,
 
 03/10/2017 Criterium Women Cat. 1/2/3/4/5 Masters 30 Minutes 35-99
 Place,License #,First,Last,City,State,Time,Team

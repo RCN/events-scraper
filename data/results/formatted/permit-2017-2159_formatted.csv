@@ -87,12 +87,12 @@ Place,License #,First,Last,City,State,Time,Team
 40,525099,Erik,Crandlemire,Silver Spring,MD,,NCVC/UnitedHealthcare
 41,267101,Phillip,Ash,Clarksville,MD,,DC Velo Limited/ Team Beyer Auto
 42,528495,Young,Kim,Alexandria,VA,,
-43,523481,Christopher,Kallapodi,Alexandria,VA,,WWVC Racing
+43,523481,Christopher,Kallapodi,Chicago,IL,,WWVC Racing
 44,369359,Iain,MacKeith,Mc Lean,VA,,NCVC/UnitedHealthcare
 45,485139,Toney,Rogers,Brandywine,MD,,Getting It In Cyclists
 46,489738,Erik,Argueta,Arlington,VA,,DistrictTaco Racing
 47,487616,Chris,Boland,Fairfax,VA,,Pro Mountain Outfitters
-48,468171,Tim,Vandish,Arlington,VA,,NCVC/UnitedHealthcare
+48,468171,Tim,Vandish,Alexandria,VA,,NCVC/UnitedHealthcare
 49,366331,Gentry,Jefferson,Hagerstown,MD,,MILLER SCHOOL of ALBEMARLE
 50,428161,Christopher,Baugher,Bowie,MD,,Annapolis Bicycle Racing Team
 51,513621,Jesse,Godby,Alexandria,VA,,
@@ -126,9 +126,9 @@ Place,License #,First,Last,City,State,Time,Team
 10,498113,Nick,Taylor,Mt Rainier,MD,,DistrictTaco Racing
 11,70353,Eric,Sorensen,Annandale,VA,,VeloWorks-Spokes Etc
 12,0,Alex,Heyman,,,,DT Racing
-13,496381,Chris,Hill,Hollywood,MD,,TEAM BIKE DOCTOR
+13,496381,Chris,Hill,Lexington Park,MD,,TEAM BIKE DOCTOR
 14,390412,Alex,Kasch,Arlington,VA,,NCVC/UnitedHealthcare
-15,380055,Manuel,Paniagua,Silver Spring ,MD,,
+15,380055,Manuel,Paniagua,Silver Spring,MD,,
 16,516995,Curtis,Alia,Jessup,MD,,NCVC/UnitedHealthcare
 17,102416,Abe,Ehlers,Bethesda,MD,,Artemis Racing
 18,494191,David,Lopez,Washington,DC,,District Taco Racing
@@ -136,14 +136,14 @@ Place,License #,First,Last,City,State,Time,Team
 20,296122,Will,Mitchell,Washington,DC,,DistrictTaco Racing
 21,507839,Tony (PUSH 186),Leong,Crownsville,MD,,S'ville Bikes/ Lee and Associates Race Team
 22,459726,Andrew,McLaren,Alexandria,VA,,Veloworks-Spokes Etc
-23,493748,Benjamen,Shrewsberry,Shippensburg,PA,,AVC/Team Hagerstown-Washington Co
+23,493748,Benjamen,Shrewsberry,Fredericksburg,VA,,AVC/Team Hagerstown-Washington Co
 24,369115,Chris,Brennan,Alexandria,VA,,VeloWorks-Spokes Etc
 25,484201,Krzysztof,Jedrzejewski,Springfield,VA,,WWVC Racing
 26,159286,Steve,Fife,Herndon,VA,,TEAM BIKE DOCTOR
 27,468652,Matthew,Ficke,Washington,DC,,District Velocity Racing p/b Bicycle Pro Shop
 28,56909,Jesse,Morse,Mclean,VA,,
 29,406418,Samuel,Yarashus,Annandale,VA,,NCVC/UnitedHealthcare
-30,292461,Dan,Burns,Columbia ,MD,,
+30,292461,Dan,Burns,Columbia,MD,,
 31,290838,Zachary,Berkow,Bethesda,MD,,DistrictTaco Racing
 32,14595,mark,Hagen,Washington,DC,,Charm City Cycling/
 33,350676,Phithak,Baingam,Las Vegas,NV,,
@@ -153,13 +153,13 @@ Place,License #,First,Last,City,State,Time,Team
 37,425481,Jon,Balatbat,Springfield,VA,,WWVC
 38,454850,Christopher,Neureiter,Arlington,VA,,NCVC/UnitedHealthcare
 39,424496,Peter,Siestrzewitowski,Arlingtona,VA,,DistrictTaco Racing
-40,320586,Cameron,Quick,Gaithersburg ,MD,,Phase Cycling
+40,320586,Cameron,Quick,Gaithersburg,MD,,Phase Cycling
 41,438690,Kelvin,Scott,Fort Meade,MD,,US Military Endurance Sports
 42,159286,Steve,Fife,Herndon,VA,,TEAM BIKE DOCTOR
 43,267101,Phillip,Ash,Clarksville,MD,,DC Velo Limited/ Team Beyer Auto
 44,480090,Brian,Phipps,Jessup,MD,,Getting It In Cyclist
 45,423804,Sean,Price,Sterling,VA,,WWVC Racing
-46,523481,Christopher,Kallapodi,Alexandria,VA,,WWVC Racing
+46,523481,Christopher,Kallapodi,Chicago,IL,,WWVC Racing
 47,407397,Trimane,Goddard,Mitchellville,MD,,Phase Cycling
 48,292588,John,Churan,Annadale,VA,,WWVC Racing
 49,428502,Tommy,McCauley,Bowie,MD,,Phase Cycling
@@ -179,10 +179,10 @@ Place,License #,First,Last,City,State,Time,Team
 10,59226,Harry,Fang,Chevy Chase,MD,,NCVC/UnitedHealthcare
 11,53940,David,Scharff,Baltimore,MD,,Kelly Benefit Strategies/LSV
 12,115342,Ken,Calender,Salinas,CA,,Don Chapin/Monterey Bay Race Team
-13,292461,Dan,Burns,Columbia ,MD,,
+13,292461,Dan,Burns,Columbia,MD,,
 14,195218,Ad,Bax,Bethesda,MD,,Team Beyer Auto
 15,303990,James,Stroud,Oakton,VA,,Evolution Cycling Club p/b Long & Foster
-16,52480,Joel,Vowell,Fairfax,VA,,CoreTechs TwT
+16,52480,Joel,Vowell,Fort Myer,VA,,CoreTechs TwT
 17,3304,Ramon F.,Benitez,Glenwood,MD,,Catocin Cycling / HydroMonkies NSMI Cycling Team
 18,50268,Scot,Jaworski,Annandale,VA,,NCVC/UnitedHealthcare
 19,51562,Ralph,Muoio,Washington,DC,,Kelly Benefits Strategies / LSV
@@ -227,7 +227,7 @@ Place,License #,First,Last,City,State,Time,Team
 19,162204,Pete,Custer,Alexandria,VA,,Haymarket/Starlight Custom Apparel
 20,284095,Greg,Capelle,Catonsville,MD,,Haymarket/Starlight Custom Apparel
 21,303127,Pierce,Schmerge,Herndon,VA,,TEAM BIKE DOCTOR
-22,299925,Chad,Capobianco,Watkinsville,GA,,District Taco
+22,299925,Chad,Capobianco,Aldie,VA,,District Taco
 23,362104,Patrick,Jarenwattananon,Washington,DC,,District Velocity Racing p/b Bicycle Pro Shop
 24,185671,Robert,Kelly,Washington,DC,,Haymarket/Starlight Custom Apparel
 25,381400,Anwar,Gorham,Baltimore,MD,,Kelly Benefit Strategies / LSV
@@ -239,7 +239,7 @@ DNS,510164,William,Longwell,Arlington,VA,,NCVC/UnitedHealthcare
 DNF,290879,Scott,Catanzaro,Washington,DC,,DistrictTaco Racing
 DNF,396300,Osiris,Hoil,Arlington,VA,,District Taco Cycling p/b BicycleSPACE
 DNF,272645,Paul,Rades,Silver Spring,MD,,District Velocity Racing p/b Bicycle Pro Shop
-DNF,220150,Jared,Nieters,Haymarket,VA,,Haymarket/Starlight Custom Apparel
+DNF,220150,Jared,Nieters,Amissville,VA,,Haymarket/Starlight Custom Apparel
 DNF,369115,Chris,Brennan,Alexandria,VA,,VeloWorks-Spokes Etc
 DNF,254540,Albert,Gonzalez,Garden Grove ,CA,,District Taco Racing
 DNF,468652,Matthew,Ficke,Washington,DC,,District Velocity Racing p/b Bicycle Pro Shop
@@ -258,7 +258,7 @@ Place,License #,First,Last,City,State,Time,Team
 8,445430,Marc,Hendel,St. Louis,MO,,
 9,485510,Franz,Loyola,Arlington,VA,,Squadra Coppi
 10,510887,Brendan,McConnaughay,Mclean,VA,,NCVC/UnitedHealthcare
-11,390025,Dylan,Stagner,Washington ,DC,,Great Eskape
+11,390025,Dylan,Stagner,Washington,DC,,Great Eskape
 12,532499,mike,danko,Washington,DC,,Bike Rack Racing
 13,521108,Steven,Weiss,Alexandria,VA,,NCVC/UnitedHealthcare
 14,291308,Mark,Kavanagh,Arlington,VA,,WWVC Racing
@@ -289,13 +289,13 @@ Place,License #,First,Last,City,State,Time,Team
 39,94228,Curtis,Mason,Whittier,CA,,
 40,532896,Paul,Blake,Manassas Park,VA,,
 41,344984,Bill,Beckman,Arlington,VA,,Squadra Coppi
-42,489709,Brendan,Jacobs,Silver Spring,MD,,Rock Creek Velo
+42,527142,Brendan,Jacobs,Silver Spring,MD,,Rock Creek Velo
 43,438889,Paul,Neureiter,Arlington,VA,,NCVC/UnitedHealthcare
 44,0,Casey,Snyder,,,,
 45,0,Benjamin,Britton,,,,Kelly Benefits
 46,516271,Rafael,Rivera,Arlington,VA,,
 47,0,Alex,Keckeisen,,,,
-48,492435,Sean,McKnight,Bethesda,MD,,VeloFix DC
+48,492435,Sean,McKnight,Washington,DC,,VeloFix DC
 49,115337,Douglas,Gray,Carrollton,TX,,
 50,0,Irvin,Luza,,,,FREAKSDC
 51,357514,Jason,Hughes,Annandale,VA,,Team RWB
@@ -363,7 +363,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,274754,Ainhoa,Perez-Diez,Olney,MD,,ABRT
 10,301843,Sophie,Mittelstadt,Bethesda,MD,,Colorado College
 11,500785,Sarah,Granade,Arlington,VA,,VeloWorks-Spokes Etc
-12,252502,Marion,Palmieri,Yorktown ,VA,,Mermaid Winery p/b VA Asset Group
+12,252502,Marion,Palmieri,Yorktown,VA,,Mermaid Winery p/b VA Asset Group
 13,358909,Mary,Schmerge,Herndon,VA,,Haymarket/Starlight Custom Apparel
 14,403617,Lauren,Nesbitt,Silver Spring,MD,,Phase Cycling
 15,467381,Chandra,Little,Upper Marlboro,MD,,Phase Cycling Team
@@ -371,11 +371,11 @@ Place,License #,First,Last,City,State,Time,Team
 07/22/2017 Road Race Women Cat 3
 Place,License #,First,Last,City,State,Time,Team
 1,499043,Adair,Lindsay,Washington,DC,,NCVC/UnitedHealthcare
-2,476619,Paige,Kostanecki,Charottesville,VA,,BRC Racing pb Reynolds GM-Subaru
+2,476619,Paige,Kostanecki,Charlottesville,VA,,BRC Racing pb Reynolds GM-Subaru
 3,271851,Rachel,Weaver,Pittsburgh,PA,,NovaCare
 4,455230,Chelsea,Richwine,Arlington,VA,,
 5,285595,Jamie,Morton,Falls Church,VA,,VeloWorks-Spokes Etc
 6,468038,Teresa,Amundson,Arlington,VA,,NCVC/UnitedHealthcare
 7,406988,Beth,Durman,Alexandria,VA,,Veloworks-Spokes Etc.
-8,252502,Marion,Palmieri,Yorktown ,VA,,Mermaid Winery p/b VA Asset Group
+8,252502,Marion,Palmieri,Yorktown,VA,,Mermaid Winery p/b VA Asset Group
 9,220922,Christine,Fuentes,Herndon,VA,,Evolution Cycling Club p/b Long & Foster

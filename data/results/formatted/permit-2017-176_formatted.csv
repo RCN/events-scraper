@@ -10,7 +10,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,318648,keith,guilford,Edwardsville,IL,,The Cyclery Racing Team
 7,173579,T David,Cummings,St Louis,MO,,Gateway Cycling Club
 8,140740,Norman,Zellers,Scott Air Force Base,IL,,
-9,177388,Steven,Chaney,St. Louis ,MO,,Dogfish/Team Noah
+9,177388,Steven,Chaney,St. Louis,MO,,Dogfish/Team Noah
 10,331440,Guillermo,Garsed,Chesterfield,MO,,Dogfish/Team Noah
 11,176607,Bill,Sowers,Bentonville,AR,,Walmart/GPP Cycling Team
 
@@ -24,7 +24,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,45535,Lonnie,Kennedy,Florissant,MO,,
 7,265342,Dennis,Roberts,Wildwood,MO,,ChristianCycling St Louis
 8,346676,Stephen,Rhodes,O Fallon,IL,,Korte Hammer Down Racing
-9,179908,Vince,DeBlasi,Ballwin ,MO,,Pastaria - Big Shark Racing Team
+9,179908,Vince,DeBlasi,Ballwin,MO,,Pastaria - Big Shark Racing Team
 
 04/09/2017 Criterium Men Cat 1/2/3/4/5 Juniors 9-14
 Place,License #,First,Last,City,State,Time,Team
@@ -39,7 +39,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,408899,Kyle,Izzo,Saint Charles,IL,,Sammy's Bike
 4,473336,Ethan,Barton,Roseville,MN,,SPBRC-Grand Performance
 5,482135,John,Fratinardo,Saint Louis,MO,,Dogfish/Team Noah
-6,503760,Mitch,Reidt,Clayton,MO,,
+6,503760,Mitch,Reidt,Denver,CO,,
 7,474738,Mitch,Stevens,Kirkwood,MO,,Maplewood Bicycle St. Louis
 8,370558,Pete,Majors,Lees Summit,MO,,Bicycle Shack Racing
 9,484357,Benjamin,Kollaja,Stillwater,MN,,
@@ -48,7 +48,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,500512,William,Zoughaib,Sainte Genevieve,MO,,
 13,337274,Jeremy,Ruegg,St. Louis,MO,,Saint Louis University
 14,485811,Javier,Perruca Munoz,St Charles,MO,,Lindenwood University
-15,496527,Ryan,Chien,Reno,NV,,Kingfield
+15,496527,Ryan,Chien,Arlington,VA,,Kingfield
 16,489109,Sean,Heaton,Winfield,KS,,
 17,516562,Tyler,Batton,Poplar Bluff,MO,,
 18,425202,Reid,Schur,St. Louis,MO,,
@@ -85,11 +85,11 @@ Place,License #,First,Last,City,State,Time,Team
 20,255040,Kyle,Cress,Hillsboro,IL,,Korte Hammer Down Racing
 21,347112,Austin,Gomes,Florissant,MO,,Lindenwood University
 22,430954,Marco,Wajda,Brookfield,WI,,Marian University
-23,2443,John,Balmer,Indianapolis ,IN,,Century Road Club Of America
+23,2443,John,Balmer,Indianapolis,IN,,Century Road Club Of America
 24,386458,Evan,Blankenship,University City,MO,,Korte Hammer Down Racing
-25,403588,Jack,Niewold,Madison,WI,,University of Minnesota-Twin Cities
+25,403588,Jack,Niewold,Minneapolis,MN,,University of Minnesota-Twin Cities
 26,280745,Chazmichael,Morales,El Segundo,CA,,Marian University
-27,288716,Dustin,Morici,Saint Charles,IL,,Sammy's Racing
+27,288716,Dustin,Morici,Rolla,MO,,Sammy's Racing
 28,269908,Riley,Burgon,Parker,CO,,Dogfish/Team Noah
 29,425275,Logan,Grace,Minneapolis,MN,,
 30,388008,Hugo,Scala Jr,Dallas,TX,,Marian University
@@ -117,7 +117,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,311427,Cole,Johnson,Shawnee Mission,KS,,Lindenwood University
 11,358698,Garrett,McNear,Louisville,KY,,Papa John's Racing Team
 12,400198,Ryan,hospelhorn,Normal,IL,,Lindenwood University
-13,177388,Steven,Chaney,St. Louis ,MO,,Dogfish/Team Noah
+13,177388,Steven,Chaney,St. Louis,MO,,Dogfish/Team Noah
 14,346648,Thomas,Carter,Saint Charles,MO,,Lindenwood University
 15,331440,Guillermo,Garsed,Chesterfield,MO,,Dogfish/Team Noah
 DNF,244626,Brian,Gaines,St. Charles,MO,,
@@ -135,9 +135,9 @@ Place,License #,First,Last,City,State,Time,Team
 5,361292,Kate,Seiler,Louisville,KY,,Sho-Air TWENTY20 Development
 6,431931,Madeline,Arpin,Minneapolis,MN,,p/b Borah
 7,432062,Briana,Johnson,Minneapolis,MN,,
-8,422910,Keerthanaa,Jeeva,Goleta,CA,,p/b Borah
+8,422910,Keerthanaa,Jeeva,Minneapolis,MN,,p/b Borah
 9,367894,Melissa,Gomes,Florissant,MO,,Quantum Solutions Intelligentsia
-10,424446,Renee,Ehrlich,Florissant,MO,,Balanced: Bike Fitting & Coaching Cycling Team
+10,424446,Renee,Ehrlich,St. Paul,MO,,Balanced: Bike Fitting & Coaching Cycling Team
 11,438223,Janette,Barber,Saint Louis,MO,,Balanced: Bike Fitting & Coaching Cycling Team
 12,486657,Healey,Miller,Lancaster,PA,,Lindenwood University
 
@@ -159,7 +159,7 @@ DNF,315188,Marta,Morris,Grand Junction,CO,,Marian University
 Place,License #,First,Last,City,State,Time,Team
 1,325596,Brianne,Guilford,Edwardsville,IL,,GP Velotek
 2,427800,Stacy,Bragg,Saint Louis,MO,,Pastaria - Big Shark Racing Team
-3,498352,Waverly,Johnston,Minneapolis,MN,,
+3,498352,Waverly,Johnston,Bloomington,MN,,
 4,468081,Ellie,Morgenthaler,Chesterfield,MO,,Lindenwood University
 5,438016,Alayne,Beshey,Fort Dodge,IA,,Lindenwood University
 
@@ -179,15 +179,15 @@ Place,License #,First,Last,City,State,Time,Team
 2,29802,Mike,Rickey,Columbia,IL,00:00:00.035,Intelligentsia Coffee
 3,182683,Scott,Shaw,Edwardsville,IL,00:00:00.034,The Cyclery Racing Team
 4,265342,Dennis,Roberts,Wildwood,MO,00:00:00.029,ChristianCycling St Louis
-5,2443,John,Balmer,Indianapolis ,IN,00:00:00.028,Century Road Club Of America
+5,2443,John,Balmer,Indianapolis,IN,00:00:00.028,Century Road Club Of America
 6,62731,Juan,Ramirez,Saint Peters,MO,00:00:00.021,Pastaria - Big Shark Racing Team
 7,346068,Fredy,Kornett,Ofallon,IL,00:00:00.020,Korte Hammer Down Racing
 8,210464,Scott,Sifferman,Mt Vernon,MO,00:00:00.020,SBC Cycling
 9,243485,Dan,young,Saint Louis,MO,00:00:00.017,Pastaria - Big Shark Racing Team
 10,280630,Peter,Stevens,St. Louis,MO,00:00:00.017,Velo Force
 11,58377,Francisco,Bugarin,Hermann,MO,00:00:00.016,
-12,179908,Vince,DeBlasi,Ballwin ,MO,00:00:00.015,Pastaria - Big Shark Racing Team
-13,324966,Dana,Braet,Saint Louis,MO,00:00:00.012,Velo Force
+12,179908,Vince,DeBlasi,Ballwin,MO,00:00:00.015,Pastaria - Big Shark Racing Team
+13,324966,Dana,Braet,Clayton,MO,00:00:00.012,Velo Force
 14,45535,Lonnie,Kennedy,Florissant,MO,00:00:00.010,
 15,23974,Joel,Melka,Uniontown,MO,00:00:00.010,
 16,346676,Stephen,Rhodes,O Fallon,IL,00:00:00.008,Korte Hammer Down Racing
@@ -214,9 +214,9 @@ Place,License #,First,Last,City,State,Time,Team
 12,429706,Brian,Silvester,Staunton,IL,00:00:00.013,The Cyclery Racing Team
 13,280409,Brian,Wingbermuehle,St. Louis,MO,00:00:00.012,Dogfish/Team Noah
 14,201821,Kenneth,Vernier,Sterling Heights,MI,00:00:00.012,Team O2
-15,103984,Ben,Beger,Ofallon,MO,00:00:00.009,Momentum Racing LLC - MO
+15,103984,Ben,Beger,O Fallon,MO,00:00:00.009,Momentum Racing LLC - MO
 16,289511,Eric,Finks,Clinton,MO,00:00:00.008,
-17,177388,Steven,Chaney,St. Louis ,MO,00:00:00.007,Dogfish/Team Noah
+17,177388,Steven,Chaney,St. Louis,MO,00:00:00.007,Dogfish/Team Noah
 18,331440,Guillermo,Garsed,Chesterfield,MO,00:00:00.006,Dogfish/Team Noah
 19,277071,Brian,Smith,Ofallon,MO,00:00:00.006,Quantum Solutions Intelligentsia
 20,176607,Bill,Sowers,Bentonville,AR,00:00:00.005,Walmart/GPP Cycling Team
@@ -227,7 +227,7 @@ Place,License #,First,Last,City,State,Time,Team
 04/09/2017 Omnium Men Cat 4/5 9-99
 Place,License #,First,Last,City,State,Time,Team
 1,500512,William,Zoughaib,Sainte Genevieve,MO,00:00:00.031,
-2,503760,Mitch,Reidt,Clayton,MO,00:00:00.026,
+2,503760,Mitch,Reidt,Denver,CO,00:00:00.026,
 3,497823,Jordan,Konynenbelt,Minneapolis,MN,00:00:00.025,
 4,487412,Dylan,Schatz,Sullivan,MO,00:00:00.025,
 5,382399,Jason,Keena,Poplar Bluff,MO,00:00:00.025,Lindenwood University
@@ -235,14 +235,14 @@ Place,License #,First,Last,City,State,Time,Team
 7,362259,Benjamin,Rogers,Springfield,MO,00:00:00.020,Ozark Cycling Club
 8,482135,John,Fratinardo,Saint Louis,MO,00:00:00.017,Dogfish/Team Noah
 9,408899,Kyle,Izzo,Saint Charles,IL,00:00:00.016,Sammy's Bike
-10,496527,Ryan,Chien,Reno,NV,00:00:00.015,Kingfield
+10,496527,Ryan,Chien,Arlington,VA,00:00:00.015,Kingfield
 11,473336,Ethan,Barton,Roseville,MN,00:00:00.014,SPBRC-Grand Performance
 12,370558,Pete,Majors,Lees Summit,MO,00:00:00.012,Bicycle Shack Racing
 13,470102,Devin,Handler,Saint Louis,MO,00:00:00.012,Pastaria - Big Shark Racing Team
 14,501823,Max,Bien,Burlington,NC,00:00:00.010,
 15,474738,Mitch,Stevens,Kirkwood,MO,00:00:00.009,Maplewood Bicycle St. Louis
 16,295693,Brian,Rogers,Clayton,MO,00:00:00.009,Velo Force
-17,513248,Robb,Finegan,St. Louis,MO,00:00:00.008,Maplewood Bicycle St. Louis
+17,513248,Robb,Finegan,Lincoln,NE,00:00:00.008,Maplewood Bicycle St. Louis
 18,484357,Benjamin,Kollaja,Stillwater,MN,00:00:00.007,
 19,514036,Daniel,Cicha,Farley,MO,00:00:00.006,Lindenwood University
 20,468937,Tyler,Cheslik,Harrisonville,MO,00:00:00.006,Bicycle Shack Racing
@@ -269,18 +269,18 @@ Place,License #,First,Last,City,State,Time,Team
 12,320000,Derek,Cote,Burlington,CT,00:00:00.020,Team ERRACE
 13,267850,Zachary,Nehr,Fox Point,WI,00:00:00.015,Marian University
 14,430954,Marco,Wajda,Brookfield,WI,00:00:00.014,Marian University
-15,157753,Trevor,Lister,Springfield ,IL,00:00:00.014,The Cyclery Racing Team
+15,157753,Trevor,Lister,Springfield,IL,00:00:00.014,The Cyclery Racing Team
 16,379175,Jesse,Siemen,St Louis,MO,00:00:00.012,Pastaria - Big Shark Racing Team
 17,311425,Lane,Johnson,Shawnee Mission,KS,00:00:00.012,Move Up Development
 18,374595,Macen,Van Allen,Nevada,IA,00:00:00.012,Above and Beyond Cancer p/b Scheels
 19,492820,Wesley,Phipson,St Charles,MO,00:00:00.012,Lindenwood University
 20,377930,Nathaniel,Schoonover,Wentzville,MO,00:00:00.011,Lindenwood University
 21,301315,Jackson,McNear,Louisville,KY,00:00:00.009,
-22,403588,Jack,Niewold,Madison,WI,00:00:00.007,University of Minnesota-Twin Cities
+22,403588,Jack,Niewold,Minneapolis,MN,00:00:00.007,University of Minnesota-Twin Cities
 23,43652,Terrence,Keenan,Saint Louis,MO,00:00:00.006,Pastaria - Big Shark Racing Team
 24,405582,James,Lewallen IV,Belleville,IL,00:00:00.006,Lindenwood University
 25,386458,Evan,Blankenship,University City,MO,00:00:00.005,Lindenwood University
-26,2443,John,Balmer,Indianapolis ,IN,00:00:00.003,Century Road Club Of America
+26,2443,John,Balmer,Indianapolis,IN,00:00:00.003,Century Road Club Of America
 27,382221,Chase,Wark,Zimmerman,MN,00:00:00.003,
 28,282543,Christopher,Curran,Maryland Heights,MO,00:00:00.002,Bloomington Cycle Racing Team
 29,269908,Riley,Burgon,Parker,CO,00:00:00.002,Dogfish/Team Noah
@@ -311,7 +311,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,473688,Tony,Gumbel,Newburgh,IN,00:00:00.005,Dan's Comp Factory Racing
 21,400198,Ryan,hospelhorn,Normal,IL,00:00:00.004,Lindenwood University
 22,71694,Hans,Wright,Little Rock,AR,00:00:00.004,Windsor Door Racing
-23,177388,Steven,Chaney,St. Louis ,MO,00:00:00.003,Dogfish/Team Noah
+23,177388,Steven,Chaney,St. Louis,MO,00:00:00.003,Dogfish/Team Noah
 24,411181,Larry,Donald,Evansville,IN,00:00:00.002,
 25,331440,Guillermo,Garsed,Chesterfield,MO,00:00:00.001,Dogfish/Team Noah
 26,304203,David,Ferguson,Owensboro,KY,00:00:00.001,
@@ -329,8 +329,8 @@ Place,License #,First,Last,City,State,Time,Team
 9,486657,Healey,Miller,Lancaster,PA,00:00:00.024,Lindenwood University
 10,460932,Shannon,Cook,Memphis,TN,00:00:00.016,Marx and Bensdorf Cycling Team
 11,529631,Abbey,Sundermeyer,Bridgeton,MO,00:00:00.016,
-12,424446,Renee,Ehrlich,Florissant,MO,00:00:00.015,Balanced: Bike Fitting & Coaching Cycling Team
-13,422910,Keerthanaa,Jeeva,Goleta,CA,00:00:00.014,p/b Borah
+12,424446,Renee,Ehrlich,St. Paul,MO,00:00:00.015,Balanced: Bike Fitting & Coaching Cycling Team
+13,422910,Keerthanaa,Jeeva,Minneapolis,MN,00:00:00.014,p/b Borah
 14,482735,Sarah,Schuetter,Evansville,IN,00:00:00.014,Dan's Comp Factory Racing
 15,460967,Heather,Patton,Mount Vernon,IL,00:00:00.013,Korte Hammer Down Racing
 16,465889,Raylyn,Nuss,Lake Saint Louis,MO,00:00:00.010,
@@ -364,7 +364,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,438016,Alayne,Beshey,Fort Dodge,IA,00:00:00.028,Lindenwood University
 5,325596,Brianne,Guilford,Edwardsville,IL,00:00:00.025,GP Velotek
 6,405957,Kate,Vermann,Saint Louis,MO,00:00:00.025,Billy Goat Racing Team
-7,498352,Waverly,Johnston,Minneapolis,MN,00:00:00.016,
+7,498352,Waverly,Johnston,Bloomington,MN,00:00:00.016,
 
 04/08/2017 Individual Time Trial Men Pro/Cat 1/2/3/4/5 Juniors 9-99
 Place,License #,First,Last,City,State,Time,Team
@@ -375,7 +375,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,320838,Spencer,Seggebruch,Saint Louis,MO,00:26:24.780,Michelob Ultra - Big Shark Racing Team
 2,219225,Evan,Hartig,Dubuque,IA,00:26:45.070,Lindenwood University
 3,320000,Derek,Cote,Burlington,CT,00:29:00.750,Team ERRACE
-4,157753,Trevor,Lister,Springfield ,IL,00:29:21.900,The Cyclery Racing Team
+4,157753,Trevor,Lister,Springfield,IL,00:29:21.900,The Cyclery Racing Team
 5,374595,Macen,Van Allen,Nevada,IA,00:29:22.320,Above and Beyond Cancer p/b Scheels
 6,358808,Jonah,MeadVanCort,Ithaca,NY,00:29:31.780,Lindenwood University
 7,307328,Brenden,Hardy,Iowa City,IA,00:30:16.250,Above and Beyond Cancer p/b Scheels
@@ -394,14 +394,14 @@ Place,License #,First,Last,City,State,Time,Team
 
 04/08/2017 Individual Time Trial Men Cat 1/2/3/4/5 Masters 50+
 Place,License #,First,Last,City,State,Time,Team
-1,2443,John,Balmer,Indianapolis ,IN,00:32:09.400,Century Road Club Of America
+1,2443,John,Balmer,Indianapolis,IN,00:32:09.400,Century Road Club Of America
 2,210464,Scott,Sifferman,Mt Vernon,MO,00:32:11.000,SBC Cycling
 3,50908,Gary,Dyer,Alton,IL,00:32:38.030,The Cyclery Racing Team
 4,265342,Dennis,Roberts,Wildwood,MO,00:32:41.470,ChristianCycling St Louis
 5,280630,Peter,Stevens,St. Louis,MO,00:33:16.100,Velo Force
 6,23974,Joel,Melka,Uniontown,MO,00:33:50.820,
 7,29802,Mike,Rickey,Columbia,IL,00:34:53.250,Intelligentsia Coffee
-8,179908,Vince,DeBlasi,Ballwin ,MO,00:36:06.220,Pastaria - Big Shark Racing Team
+8,179908,Vince,DeBlasi,Ballwin,MO,00:36:06.220,Pastaria - Big Shark Racing Team
 9,203967,Tim,Claire,Rayville,MO,00:36:11.530,3 Feet Cycling p/b Foody's
 
 04/08/2017 Individual Time Trial Men Cat 5 9-99
@@ -448,7 +448,7 @@ Place,License #,First,Last,City,State,Time,Team
 04/08/2017 Road Race Men Cat 1/2/3/4/5 Masters '55-59
 Place,License #,First,Last,City,State,Time,Team
 1,50908,Gary,Dyer,Alton,IL,,The Cyclery Racing Team
-2,324966,Dana,Braet,Saint Louis,MO,,Velo Force
+2,324966,Dana,Braet,Clayton,MO,,Velo Force
 3,243823,Bernd,Faust,O&#39;fallon,MO,,
 4,70729,Louis,Stiffelman,Saint Louis,MO,,Velo Force
 5,265342,Dennis,Roberts,Wildwood,MO,,ChristianCycling St Louis
@@ -465,7 +465,7 @@ Place,License #,First,Last,City,State,Time,Team
 2,268673,Brian,Koscielski,St Louis,MO,,Dogfish/Team Noah
 3,128064,James,VanDeven,De Soto,MO,,Dogfish/Team Noah
 4,140740,Norman,Zellers,Scott Air Force Base,IL,,
-5,103984,Ben,Beger,Ofallon,MO,,Momentum Racing LLC - MO
+5,103984,Ben,Beger,O Fallon,MO,,Momentum Racing LLC - MO
 6,289511,Eric,Finks,Clinton,MO,,
 7,294031,Jason,Evans,Rogers,AR,,Walmart/GPP Cycling Team
 8,210771,Craig,Cooper,St Louis,MO,,Pastaria - Big Shark Racing
@@ -493,14 +493,14 @@ Place,License #,First,Last,City,State,Time,Team
 4,29802,Mike,Rickey,Columbia,IL,,Intelligentsia Coffee
 5,62731,Juan,Ramirez,Saint Peters,MO,,Pastaria - Big Shark Racing Team
 6,243485,Dan,young,Saint Louis,MO,,Pastaria - Big Shark Racing Team
-7,179908,Vince,DeBlasi,Ballwin ,MO,,Pastaria - Big Shark Racing Team
+7,179908,Vince,DeBlasi,Ballwin,MO,,Pastaria - Big Shark Racing Team
 8,407021,Jeff,Sobocinski,Collierville,TN,,
 
 04/08/2017 Road Race Men Cat 1/2/3/4/5 60-64
 Place,License #,First,Last,City,State,Time,Team
 1,45535,Lonnie,Kennedy,Florissant,MO,,
 2,525606,Michael,Ludwig,St. Peters,MO,,Pastaria - Big Shark Racing Team
-3,482205,Dennis,Lilly,Saint Louis,MO,,
+3,482205,Dennis,Lilly,St Louis,MO,,
 DNF,23974,Joel,Melka,Uniontown,MO,,
 
 04/08/2017 Road Race Men Cat 1/2/3/4/5 Juniors 9-14
@@ -521,7 +521,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,267850,Zachary,Nehr,Fox Point,WI,,Marian University
 7,15149,Chris,Harre,Webster Groves,MO,,Pastaria - Big Shark Racing Team
 8,377930,Nathaniel,Schoonover,Wentzville,MO,,Lindenwood University
-9,403588,Jack,Niewold,Madison,WI,,University of Minnesota-Twin Cities
+9,403588,Jack,Niewold,Minneapolis,MN,,University of Minnesota-Twin Cities
 10,43652,Terrence,Keenan,Saint Louis,MO,,Pastaria - Big Shark Racing Team
 11,386458,Evan,Blankenship,University City,MO,,Korte Hammer Down Racing
 12,311425,Lane,Johnson,Shawnee Mission,KS,,Move Up Development
@@ -532,7 +532,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,428327,Zachary,Scharnhorst,Quincy,IL,,Momentum Racing LLC - MO
 18,227874,Keaton,Hanson,St. Louis,MO,,
 19,395206,Ian,Umstead,Murray,KY,,Volharden/WRA Development
-20,157753,Trevor,Lister,Springfield ,IL,,The Cyclery Racing Team
+20,157753,Trevor,Lister,Springfield,IL,,The Cyclery Racing Team
 21,282543,Christopher,Curran,Maryland Heights,MO,,Bloomington Cycle Racing Team
 22,148168,Andrew,Lister,Springfield,IL,,The Cyclery Racing Team
 23,226313,Michael (Casey),Saunders,Saint Louis,MO,,Dogfish/Team Noah
@@ -540,7 +540,7 @@ Place,License #,First,Last,City,State,Time,Team
 DNF,425275,Logan,Grace,Minneapolis,MN,,
 DNF,300418,Cody,Anderson,Bonne Terre,MO,,Momentum Racing LLC - MO
 DNF,247336,Konrad,Witt,Wood Dale,IL,,Lindenwood University
-DNF,288716,Dustin,Morici,Saint Charles,IL,,Sammy's Racing
+DNF,288716,Dustin,Morici,Rolla,MO,,Sammy's Racing
 DNF,126190,Brian,Dziewa,Saint Louis,MO,,Billy Goat Racing Team
 DNF,309567,Sven,Gartner,Park Ridge,IL,,Sammy's Racing
 DNF,307328,Brenden,Hardy,Iowa City,IA,,Above and Beyond Cancer p/b Scheels
@@ -550,7 +550,7 @@ DNF,294085,Kyle,Mindick,Mchenry,IL,,Marian University
 DNF,388008,Hugo,Scala Jr,Dallas,TX,,Marian University
 DNF,293467,Jordan,Marhanka,Sellersburg,IN,,Marian University
 DNF,251991,David,Gray,St. Louis,MO,,Pastaria - Big Shark Racing Team
-DNF,307737,Evan,Lardinois,St. Charles ,MO,,Korte Hammer Down Racing
+DNF,307737,Evan,Lardinois,St. Charles,MO,,Korte Hammer Down Racing
 DNF,255040,Kyle,Cress,Hillsboro,IL,,Korte Hammer Down Racing
 DNF,219225,Evan,Hartig,Dubuque,IA,,Lindenwood University
 DNF,374595,Macen,Van Allen,Nevada,IA,,Above and Beyond Cancer p/b Scheels
@@ -568,9 +568,9 @@ Place,License #,First,Last,City,State,Time,Team
 3,514036,Daniel,Cicha,Farley,MO,,Lindenwood University
 4,484357,Benjamin,Kollaja,Stillwater,MN,,
 5,527149,Colin,Gibson,Columbia,MO,,
-6,527522,Zachary,Tucker,Richmond Heights,MO,,
+6,527522,Zachary,Tucker,Saint Louis,MO,,
 7,489109,Sean,Heaton,Winfield,KS,,
-8,513709,James,Reed,Ballwin,MO,,
+8,513709,James,Reed,Manchester,MO,,
 9,525801,Paul,Hogan,Minneapolis,MN,,
 10,514675,Perry,Trolard,Saint Louis,MO,,
 11,403225,James,Cole,St. Louis,MO,,Lindenwood University
@@ -579,7 +579,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,460573,Ian,McLeod,Columbia,MO,,
 15,485811,Javier,Perruca Munoz,St Charles,MO,,Lindenwood University
 16,433282,Paul,Hon,Saint Charles,MO,,
-17,509655,Daniel,Brewer,Saint Louis,MO,,
+17,514686,Daniel,Brewer,Saint Louis,MO,,
 18,417832,Ryan,Oldani,Saint Louis,MO,,Mike's Bikes STL
 19,517145,Daniel,Burton,Belleville,IL,,Korte Hammer Down Racing
 20,498320,David,Layfield,O Fallon,IL,,Metro East Cycling
@@ -589,12 +589,12 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,487412,Dylan,Schatz,Sullivan,MO,,
 2,362259,Benjamin,Rogers,Springfield,MO,,Ozark Cycling Club
-3,503760,Mitch,Reidt,Clayton,MO,,
-4,496527,Ryan,Chien,Reno,NV,,Kingfield
+3,503760,Mitch,Reidt,Denver,CO,,
+4,496527,Ryan,Chien,Arlington,VA,,Kingfield
 5,470102,Devin,Handler,Saint Louis,MO,,Pastaria - Big Shark Racing Team
 6,501823,Max,Bien,Burlington,NC,,
 7,295693,Brian,Rogers,Clayton,MO,,Velo Force
-8,513248,Robb,Finegan,St. Louis,MO,,Maplewood Bicycle St. Louis
+8,513248,Robb,Finegan,Lincoln,NE,,Maplewood Bicycle St. Louis
 9,500512,William,Zoughaib,Sainte Genevieve,MO,,
 10,468937,Tyler,Cheslik,Harrisonville,MO,,Bicycle Shack Racing
 11,482135,John,Fratinardo,Saint Louis,MO,,Dogfish/Team Noah
@@ -658,7 +658,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,481436,Amanda,Lappe,St Charles,MO,,
 8,527609,Sarah,Lawrence-Lohse,Ofallon,MO,,Maplewood Bicycle St. Louis
 9,497850,Marissa,Carter,Saint Charles,MO,,Team Mack Racing Assn
-10,422910,Keerthanaa,Jeeva,Goleta,CA,,p/b Borah
+10,422910,Keerthanaa,Jeeva,Minneapolis,MN,,p/b Borah
 11,527164,Holly,Cover,St. Louis,MO,,
 12,438223,Janette,Barber,Saint Louis,MO,,Balanced: Bike Fitting & Coaching Cycling Team
 13,460967,Heather,Patton,Mount Vernon,IL,,Korte Hammer Down Racing
@@ -690,7 +690,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,468081,Ellie,Morgenthaler,Chesterfield,MO,,Lindenwood University
 4,427573,Leigh,Ruston,Arlington,TN,,Marx and Bensdorf Cycling Team
 DNF,413175,Amy,Brooksher,Troy,MO,,
-DNF,498352,Waverly,Johnston,Minneapolis,MN,,
+DNF,498352,Waverly,Johnston,Bloomington,MN,,
 DNF,438016,Alayne,Beshey,Fort Dodge,IA,,Lindenwood University
 
 04/08/2017 Time Trial Men Pro/Cat 1/2/3/4/5 Juniors 9-99
@@ -702,7 +702,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,320838,Spencer,Seggebruch,Saint Louis,MO,00:26:24.780,Michelob Ultra - Big Shark Racing Team
 2,219225,Evan,Hartig,Dubuque,IA,00:26:45.070,Lindenwood University
 3,320000,Derek,Cote,Burlington,CT,00:29:00.750,Team ERRACE
-4,157753,Trevor,Lister,Springfield ,IL,00:29:21.900,The Cyclery Racing Team
+4,157753,Trevor,Lister,Springfield,IL,00:29:21.900,The Cyclery Racing Team
 5,374595,Macen,Van Allen,Nevada,IA,00:29:22.320,Above and Beyond Cancer p/b Scheels
 6,358808,Jonah,MeadVanCort,Ithaca,NY,00:29:31.780,Lindenwood University
 7,307328,Brenden,Hardy,Iowa City,IA,00:30:16.250,Above and Beyond Cancer p/b Scheels
@@ -725,14 +725,14 @@ Place,License #,First,Last,City,State,Time,Team
 
 04/08/2017 Time Trial Men Cat 1/2/3/4/5 Masters 50+
 Place,License #,First,Last,City,State,Time,Team
-1,2443,John,Balmer,Indianapolis ,IN,00:32:09.400,Century Road Club Of America
+1,2443,John,Balmer,Indianapolis,IN,00:32:09.400,Century Road Club Of America
 2,210464,Scott,Sifferman,Mt Vernon,MO,00:32:11.000,SBC Cycling
 3,50908,Gary,Dyer,Alton,IL,00:32:38.030,The Cyclery Racing Team
 4,265342,Dennis,Roberts,Wildwood,MO,00:32:41.470,ChristianCycling St Louis
 5,280630,Peter,Stevens,St. Louis,MO,00:33:16.100,Velo Force
 6,23974,Joel,Melka,Uniontown,MO,00:33:50.820,
 7,29802,Mike,Rickey,Columbia,IL,00:34:53.250,Intelligentsia Coffee
-8,179908,Vince,DeBlasi,Ballwin ,MO,00:36:06.220,Pastaria - Big Shark Racing Team
+8,179908,Vince,DeBlasi,Ballwin,MO,00:36:06.220,Pastaria - Big Shark Racing Team
 9,203967,Tim,Claire,Rayville,MO,00:36:11.530,3 Feet Cycling p/b Foody's
 
 04/08/2017 Time Trial Men Cat 5 9-99
@@ -793,7 +793,7 @@ Place,License #,First,Last,City,State,Time,Team
 10,405582,James,Lewallen IV,Belleville,IL,,Lindenwood University
 11,311427,Cole,Johnson,Shawnee Mission,KS,,Lindenwood University
 12,97351,Brian,Thieme,Saint Charles,MO,,Maplewood Bicycle St. Louis
-13,2443,John,Balmer,Indianapolis ,IN,,Century Road Club Of America
+13,2443,John,Balmer,Indianapolis,IN,,Century Road Club Of America
 14,485811,Javier,Perruca Munoz,St Charles,MO,,Lindenwood University
 15,400198,Ryan,hospelhorn,Normal,IL,,Lindenwood University
 16,110443,Joshua,Carter,Saint Charles ,MO,,EGO p/b Sammys Bikes
@@ -806,4 +806,4 @@ Place,License #,First,Last,City,State,Time,Team
 4,523767,Annika,Teschke,Saint Charles,MO,,Lindenwood University
 5,497850,Marissa,Carter,Saint Charles,MO,,Team Mack Racing Assn
 6,438223,Janette,Barber,Saint Louis,MO,,Balanced: Bike Fitting & Coaching Cycling Team
-7,424446,Renee,Ehrlich,Florissant,MO,,Balanced: Bike Fitting & Coaching Cycling Team
+7,424446,Renee,Ehrlich,St. Paul,MO,,Balanced: Bike Fitting & Coaching Cycling Team

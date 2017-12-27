@@ -72,7 +72,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,423537,Lee,Yarbro,Cookeville,TN,,Hub Cycling-Caney Fork Racing
 13,466721,Caleb,Bennett,Brentwood,TN,,I Am Racing
 14,496941,Adam,Firrone,Memphis,TN,,BPC Cycling
-15,496506,James,Butler,Collierville,TN,,Lift Center Racing
+15,496506,James,Butler,Eads,TN,,Lift Center Racing
 16,378688,Scott,Silvers,Cordova,TN,,BPC Cycling
 17,482646,Paul,Schwer,Manchester,TN,,MOAB Racing
 18,423094,Phillip,Young,Memphis,TN,,Los Locos
@@ -103,7 +103,7 @@ DNF,494029,michael,shipley,Milan,TN,,Lift Center Racing
 06/18/2017 Criterium Women Pro/Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
 1,288099,Stephanie,Nave,Johnson City,TN,,OrthoCarolina Winston Womens Cycling
-2,379218,Jessica,Edens,Kingston Springs ,TN,,Nashville Local Cycling
+2,379218,Jessica,Edens,Kingston Springs,TN,,Nashville Local Cycling
 3,365519,Arden,Stelly,Ooltewah,TN,,OrthoCarolina Winston Womens Cycling
 4,487207,Kat,Sweatt,Birmingham,AL,,Mellow Mushroom Racing
 5,227681,Kirsten,Sass,Mckenzie,TN,,Team WE p/b Gran Fondo Cycles
@@ -149,7 +149,7 @@ Place,License #,First,Last,City,State,Time,Team
 06/18/2017 Criterium Mixed Cat 3/4/5 Masters 40-49
 Place,License #,First,Last,City,State,Time,Team
 1,311663,Jeffrey,Fejfar,Olive Branch,MS,,Marx and Bensdorf Cycling Team
-2,113615,James,Buckingham,Madison,TN,,Hattie B's Racing
+2,113615,James,Buckingham,White House,TN,,Hattie B's Racing
 3,303641,Jeff,Perry,Lake Mathews,CA,,
 4,18103,Madison,Joiner,Milan,TN,,Marx and Bensdorf Cycling Team
 5,484136,William,MacDonald,Nashville,TN,,Nashville Local Cycling
@@ -241,7 +241,7 @@ Place,License #,First,Last,City,State,Time,Team
 18,515348,Blake,Roth,Hendersonville,TN,,Nashville Local Cycling
 19,528314,Shawn,Mckinney,Hernando,MS,,Journeymen Racing Multisport
 20,522297,Ron,Anderson,Nashville,TN,,Nashville Local Cycling
-21,500899,Tyler,Kenyon,Oakland ,TN,,
+21,500899,Tyler,Kenyon,Oakland,TN,,
 22,460356,Logan,Karr,Memphis,TN,,
 23,504610,David,Amster,Antioch,TN,,
 24,410709,Adrian,Martin,Finger,TN,,
@@ -281,7 +281,7 @@ Place,License #,First,Last,City,State,Time,Team
 24,394231,Hays,Patrick,Millington,TN,,BPC Cycling
 25,321104,Stuart,Janssen,Memphis,TN,,BPC Cycling
 26,423094,Phillip,Young,Memphis,TN,,Los Locos
-27,496506,James,Butler,Collierville,TN,,Lift Center Racing
+27,496506,James,Butler,Eads,TN,,Lift Center Racing
 DNF,429394,Lukas,Hooper,Germantown,TN,,901 Racing
 DNF,523613,Brandon,Edinger,Nashville,TN,,Nashville Local Cycling
 DNF,411316,Jacob,Kuper,Gallatin,TN,,I Am Racing
@@ -315,7 +315,7 @@ Place,License #,First,Last,City,State,Time,Team
 3,288099,Stephanie,Nave,Johnson City,TN,,OrthoCarolina Winston Womens Cycling
 4,431738,Karlie,Carter,Madison,AL,,Johnson & Hayes Physical Therapists
 5,480443,Kaitlyn,Benavides,Nashville,TN,,Team Belladium p/b Red Kite
-6,379218,Jessica,Edens,Kingston Springs ,TN,,Nashville Local Cycling
+6,379218,Jessica,Edens,Kingston Springs,TN,,Nashville Local Cycling
 7,153533,Pamela,Tate,Cordova,TN,,Marx and Bensdorf Cycling Team
 8,311038,Marda,Kaiser Rehnelt,Memphis,TN,,Marx and Bensdorf Cycling Team
 9,410272,Gracie,Pendleton,Christiana,TN,,Nashville Local Cycling
@@ -379,9 +379,9 @@ Place,License #,First,Last,City,State,Time,Team
 3,18103,Madison,Joiner,Milan,TN,,Marx and Bensdorf Cycling Team
 4,133359,Paul,Carter,Clarksville,TN,,Riverside Bicycle Racing
 5,244316,Joseph,Swanson,Hernando,MS,,NinetyWest Racing
-6,474558,Chris,Beck,Clarksville ,TN,,Riverside Bicycle Racing
+6,474558,Chris,Beck,Clarksville,TN,,Riverside Bicycle Racing
 7,254741,Tim,Moore,Collierville,TN,,901 Racing
-8,113615,James,Buckingham,Madison,TN,,Hattie B's Racing
+8,113615,James,Buckingham,White House,TN,,Hattie B's Racing
 9,303641,Jeff,Perry,Lake Mathews,CA,,
 10,378688,Scott,Silvers,Cordova,TN,,BPC Cycling
 11,456907,Charles,Polmatier,Birmingham,AL,,MOVEDADDY.COM pb www.podiumfinishnutriti
@@ -469,7 +469,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,424092,James,Caperton,Shelbyville,TN,00:11:46.840,
 15,250841,Curt,Arthur,Memphis,TN,00:11:48.490,
 16,394231,Hays,Patrick,Millington,TN,00:11:55.400,BPC Cycling
-17,496506,James,Butler,Collierville,TN,00:12:01.100,Lift Center Racing
+17,496506,James,Butler,Eads,TN,00:12:01.100,Lift Center Racing
 18,411316,Jacob,Kuper,Gallatin,TN,00:12:07.150,I Am Racing
 19,496941,Adam,Firrone,Memphis,TN,00:12:09.650,BPC Cycling
 20,482039,Kyle,Dortch,Sharon,TN,00:15:23.180,Lift Center Racing
@@ -491,7 +491,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 06/17/2017 Time Trial Women Pro/Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
-1,379218,Jessica,Edens,Kingston Springs ,TN,00:11:36.520,Nashville Local Cycling
+1,379218,Jessica,Edens,Kingston Springs,TN,00:11:36.520,Nashville Local Cycling
 2,365519,Arden,Stelly,Ooltewah,TN,00:11:40.400,OrthoCarolina Winston Womens Cycling
 3,288099,Stephanie,Nave,Johnson City,TN,00:11:43.210,OrthoCarolina Winston Womens Cycling
 4,311038,Marda,Kaiser Rehnelt,Memphis,TN,00:11:46.740,Marx and Bensdorf Cycling Team
@@ -549,7 +549,7 @@ Place,License #,First,Last,City,State,Time,Team
 5,493873,Alan,Edington,Bon Aqua,TN,00:11:14.670,Nashville Local Cycling
 6,303641,Jeff,Perry,Lake Mathews,CA,00:11:34.200,
 7,484136,William,MacDonald,Nashville,TN,00:11:43.890,Nashville Local Cycling
-8,113615,James,Buckingham,Madison,TN,00:11:45.040,Hattie B's Racing
+8,113615,James,Buckingham,White House,TN,00:11:45.040,Hattie B's Racing
 9,244316,Joseph,Swanson,Hernando,MS,00:12:08.610,NinetyWest Racing
 
 06/17/2017 Time Trial Mixed Cat 1/2/3/4 Masters 35-44

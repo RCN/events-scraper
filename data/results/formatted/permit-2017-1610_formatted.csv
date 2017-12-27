@@ -18,7 +18,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,336388,Corey,Davis,Danville,VA,2:13:33,Palmetto State Medical Elite Cycling Team
 15,193086,Ben,Renkema,Greenville,SC,2:13:33,Palmetto State Medical Elite Cycling Team
 16,89187,Ryan,Dewald,Mount Penn,PA,2:13:33,Team Skyline
-17,344034,Brett,Wachtendorf,Winooski,VT,2:13:33,Gateway Harley-Davidson Trek U25 Development Team*
+17,344034,Brett,Wachtendorf,Boulder,CO,2:13:33,Gateway Harley-Davidson Trek U25 Development Team*
 18,300855,Kai,Wiggins,Washington,DC,2:13:33,CCB VELOTOOLER
 19,399388,George,Simpson,Fort Collins,CO,2:13:33,Gateway Harley-Davidson Trek U25 Development Team*
 20,402258,Andzs,Flaksis,Austin,TX,2:13:33,Holowesko | Citadel p/b Hincapie Sportswear*
@@ -74,8 +74,8 @@ DNF,359308,Richard,O'Briant,Fuquay Varina,NC,DNF,Jigawatt Cycling P/B Inside Out
 DNF,342206,Ryan,Joyce,Charlotte,NC,DNF,Kens Bike Shop
 DNF,339836,Gorgi,Popstefanov,Washington,DC,DNF,Metra/XRCEL/Cycles 54
 DNF,224432,John,Hunter,Victor,NY,DNF,Nalgene / Borah Teamwear Cycling
-DNF,316474,John,Holden,Lamar,MO,DNF,Nalgene pb Borah Teamwear
-DNF,18224,Michael,Jones,Endicott ,NY,DNF,Nalgene pb Borah Teamwear
+DNF,316474,John,Holden,Fairport,NY,DNF,Nalgene pb Borah Teamwear
+DNF,18224,Michael,Jones,Endicott,NY,DNF,Nalgene pb Borah Teamwear
 DNF,424110,Sean,Meyer,Pittsford,NY,DNF,Nalgene pb Borah Teamwear
 DNF,263324,Parker,Kyzer,Spartanburg,SC,DNF,Palmetto State Medical Elite Cycling Team
 DNF,299967,Michael,Black,Whitehall,PA,DNF,QCW Breakawaybikes.com P/B JL Velo
@@ -90,7 +90,7 @@ DNF,198228,Johann,Burrowes,Brooklyn,NY,DNF,WS United
 09/10/2017 Criterium Men Cat 2/3
 Place,License #,First,Last,City,State,Time,Team
 1,430542,Joe,Ammon,Brooklyn,NY,0:54:53,CRCA/Foundation
-2,299925,Chad,Capobianco,Watkinsville,GA,0:54:53,District Taco
+2,299925,Chad,Capobianco,Aldie,VA,0:54:53,District Taco
 3,328624,Ryan,Wei,Bethlehem,PA,0:54:53,Team Clif Bar Cycling
 4,274271,Chris,Goguen,Franklin,MA,0:54:53,RACE CF | racecf.org
 5,110142,Joe,Hallman,Lebanon,PA,0:54:57,Divine Swine Cycling
@@ -116,7 +116,7 @@ Place,License #,First,Last,City,State,Time,Team
 25,428309,Leo,Kirkpatrick Baird,Bernardsville,NJ,0:55:01,KMS Cycling - Killington Mountain School
 26,468525,Michael,Stromberg,Brooklyn,NY,0:55:01,Century Road Club Assoc/ e2Value
 27,472559,Anthony,Cao,Ardsley,NY,0:55:01,CRCA/Foundation
-28,296751,Michael,Green,Wyndmoor ,PA,0:55:01,Arrow Racing
+28,296751,Michael,Green,Wyndmoor,PA,0:55:01,Arrow Racing
 29,468175,Eric,Loehle,Georgetown,MA,0:55:01,Monster Media Racing p/b Butcher Box
 30,270507,Andrew,Dudle,Emmaus ,PA,0:55:01,South Mountain Cycle and Cafe
 31,466366,Carlo,Quicho,Boston,MA,0:55:01,Monster Media Racing p/b ButcherBox
@@ -132,14 +132,14 @@ DNF,47473,Chris,Chong Tenn,Corona,NY,DNF,CRCA - Ashe
 DNF,391278,Constantin,Schreiber,Brooklyn,NY,DNF,CRCA / Team VESELKA p/b Cafe Grumpy
 DNF,167365,Alan,Buday,Manorville,NY,DNF,CRCA/Dave Jordan Racing
 DNF,88447,John,Olsen,Staten Island,NY,DNF,CRCA/Dave Jordan Racing
-DNF,283659,Philip,Daniels,Philadelphia ,PA,DNF,Dangerous Creatures
+DNF,283659,Philip,Daniels,Philadelphia,PA,DNF,Dangerous Creatures
 DNF,497895,Cobie,Arnold,Lebanon,PA,DNF,Deluxx Bikes
 DNF,301870,Seth,Houston,Perkasie,PA,DNF,Doylestown Bike Works
 DNF,55557,Greg,Danielewicz,Bensalem,PA,DNF,Guy's Racing Club
 DNF,45388,Aubrey,Gordon,Reading,PA,DNF,liberty cycle
 DNF,7235,Steve,Cochrane,Princeton,NJ,DNF,MAMBO KINGS
 DNF,366199,Sam,Riegel,Kendall Park,NJ,DNF,Rothman Institute p/b Talksoft
-DNF,158787,Wasyel,Danysh,New Providence ,NJ,DNF,US Military Endurance Sports
+DNF,158787,Wasyel,Danysh,New Providence,NJ,DNF,US Military Endurance Sports
 DNF,68718,James,Joseph,Brooklyn,NY,DNF,Ws united
 DNF,425257,Connor,Thompson,Sinking Spring,PA,DNF,T-Town
 DNF,251325,Andrew,Walsh,Hackensack,NJ,DNF,
@@ -162,7 +162,7 @@ Place,License #,First,Last,City,State,Time,Team
 12,424035,Cynthia,Frazier,Lexington,VA,0:58:35,Velo Classic p/b Stan's NoTubes
 13,89443,Tiffany,Pezzulo,Salt Lake City,UT,0:58:35,LA Sweat
 14,379241,Flora,Yan,Plano,TX,0:58:35,Fearless Femme Racing
-15,267467,Christy,Keely,Greenville ,SC,0:58:35,Total Cyclist
+15,267467,Christy,Keely,Greenville,SC,0:58:35,Total Cyclist
 16,238481,Julie,Kuliecza,Richmond,VA,0:58:35,Hagens Berman | Supermint
 17,397657,Laura,Jorgensen,Asheville,NC,0:58:35,Mellow Mushroom Pizza Bakers p/b Van Dessel
 18,357580,Emily,Spence,Brooklyn,NY,0:58:43,Mellow Mushroom

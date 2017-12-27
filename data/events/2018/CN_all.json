@@ -1,0 +1,722 @@
+[
+  {
+    "permit": "2018-288",
+    "name": "2018 San Bruno Mountain Hill Climb",
+    "dates": ["2018-01-01T08:00:00.000Z"],
+    "location": {
+      "cityState": "Brisbane, CA",
+      "detailed": ["East Side of San Bruno Mtn", "Brisbane, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/East+Side+of+San+Bruno+Mtn+Brisbane,+CA+94005,+USA"
+    },
+    "promoter": {
+      "club": "USA Cycling Race Director",
+      "raceDirector": "Thomas Simpson",
+      "url": "https://usacycling.org/clubs/index.php?club=14196"
+    },
+    "eventWebSite": "http://penvelo.org/san-bruno-mountain-hill-climb/",
+    "registrationLink": "http://penvelo.org/secondary/events.html",
+    "status": "Permitted",
+    "usacCategory": "Category - E",
+    "year": 2018,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2018&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2018-250",
+    "name": "Early Bird Criterium Training Series",
+    "dates": ["2018-01-07T08:00:00.000Z", "2018-01-28T08:00:00.000Z"],
+    "location": {
+      "cityState": "Fremont, CA",
+      "detailed": ["Campus Court", "Fremont, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/Campus+Court+Fremont,+CA+94536,+USA"
+    },
+    "promoter": {
+      "club": "Golden Chain Cyclists",
+      "raceDirector": "Robert Leibold",
+      "url": "https://usacycling.org/clubs/index.php?club=2568"
+    },
+    "eventWebSite": "http://www.velopromo.com",
+    "registrationLink": "http://www.bikereg.com",
+    "status": "Permitted",
+    "usacCategory": "Category - G",
+    "year": 2018,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2018&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2018-406",
+    "name": "Clovis Training Crits - Beginning Racer Program",
+    "dates": ["2018-01-07T08:00:00.000Z", "2018-01-28T08:00:00.000Z"],
+    "location": {
+      "cityState": "Clovis, CA",
+      "detailed": ["3200 Villa Ave", "Clovis, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/3200+Villa+Ave+Clovis,+CA+93612,+USA"
+    },
+    "promoter": {
+      "club": "ACADEMY",
+      "raceDirector": "Justin Morgan",
+      "url": "https://usacycling.org/clubs/index.php?club=12310"
+    },
+    "eventWebSite": "http://www.facebook.com/clovis.training.crits/",
+    "status": "Permitted",
+    "usacCategory": "Category - G",
+    "year": 2018,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2018&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2018-110",
+    "name": "Data Driven Athlete Napa Valley Training Camp",
+    "dates": ["2018-01-13T08:00:00.000Z", "2018-01-15T08:00:00.000Z"],
+    "location": {
+      "cityState": "Calistoga, CA",
+      "detailed": "Calistoga, CA",
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/+Calistoga,+CA+94515,+USA"
+    },
+    "promoter": {
+      "club": "USA Cycling Coaches",
+      "raceDirector": "USA Cycling Coaches",
+      "url": "https://usacycling.org/clubs/index.php?club=13940"
+    },
+    "eventWebSite": "http://datadrivenathlete.com/napa-valley-camp/",
+    "status": "Permitted",
+    "usacCategory": "Category - G",
+    "year": 2018,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2018&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2018-391",
+    "name": "2018 Coast Ride",
+    "dates": ["2018-01-13T08:00:00.000Z", "2018-01-15T08:00:00.000Z"],
+    "location": {
+      "cityState": "San Francisco, CA",
+      "detailed": "San Francisco, CA",
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/+San+Francisco,+CA+94121,+USA"
+    },
+    "promoter": {
+      "club": "Fusion Sport USA",
+      "raceDirector": "Scott Witthoff",
+      "url": "https://usacycling.org/clubs/index.php?club=10480"
+    },
+    "eventWebSite": "http://www.thecoastride.org",
+    "status": "Permitted",
+    "usacCategory": "Category - F",
+    "year": 2018,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Fun",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2018&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2018-376",
+    "name": "Cal Aggie Criterium",
+    "dates": ["2018-01-27T08:00:00.000Z"],
+    "location": {
+      "cityState": "Sacramento, CA",
+      "detailed": ["3800 Land Park Drive", "Sacramento, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/3800+Land+Park+Drive+Sacramento,+CA+95822,+USA"
+    },
+    "promoter": {
+      "club": "University of California-Davis",
+      "raceDirector": "Dustin Denton",
+      "url": "https://usacycling.org/clubs/index.php?club=806"
+    },
+    "eventWebSite": "http://www.ncnca.org",
+    "status": "Permit in Process",
+    "usacCategory": "Category - E",
+    "year": 2018,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2018&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2018-263",
+    "name": "Grasshopper Adventure Series",
+    "dates": ["2018-01-27T08:00:00.000Z", "2018-03-17T07:00:00.000Z"],
+    "location": {
+      "cityState": "Occidental, CA",
+      "detailed": ["Occidental Community Center", "Occidental, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/Occidental+Community+Center+Occidental,+CA+95465,+USA"
+    },
+    "promoter": {
+      "club": "USA Cycling Race Director",
+      "raceDirector": "USA Cycling Race Director",
+      "url": "https://usacycling.org/clubs/index.php?club=14196"
+    },
+    "eventWebSite": "http://www.grasshopperadventureseries.com",
+    "status": "Permitted",
+    "usacCategory": "Category - F",
+    "year": 2018,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Fun",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2018&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2018-168",
+    "name": "2018 Folsom Winter Criterium",
+    "dates": ["2018-02-03T08:00:00.000Z"],
+    "location": {
+      "cityState": "Folsom, CA",
+      "detailed": ["181 Blue Ravine Rd.", "Folsom, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/181+Blue+Ravine+Rd.+Folsom,+CA+95630,+USA"
+    },
+    "promoter": {
+      "club": "Sierra Nevada/Reliable Racing p/b Folsom Bike",
+      "raceDirector": "Sierra Nevada/Reliable Racing p/b Folsom Bike",
+      "url": "https://usacycling.org/clubs/index.php?club=9895"
+    },
+    "eventWebSite": "http://sierranevadaracing.com",
+    "registrationLink": "http://bikereg.com",
+    "status": "Permitted",
+    "usacCategory": "Category - D",
+    "year": 2018,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2018&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2018-346",
+    "name": "Beat the Clock Time Trial Series - 1",
+    "dates": ["2018-02-10T08:00:00.000Z"],
+    "location": {
+      "cityState": "Woodside, CA",
+      "detailed": "Woodside, CA",
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/+Woodside,+CA+94062,+USA"
+    },
+    "promoter": {
+      "club": "Peninsula Velo Cycling Club",
+      "raceDirector": "Jeromy Cottell",
+      "url": "https://usacycling.org/clubs/index.php?club=327"
+    },
+    "status": "Permit in Process",
+    "usacCategory": "Category - F",
+    "year": 2018,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Fun",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2018&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2018-299",
+    "name": "OTF Stage Race",
+    "dates": ["2018-02-10T08:00:00.000Z", "2018-02-11T08:00:00.000Z"],
+    "location": {
+      "cityState": "Madera , CA",
+      "detailed": ["36133 Road 603", "Madera , CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/36133+Road+603++Madera+,+CA+93636,+USA"
+    },
+    "promoter": {
+      "club": "Off The Front",
+      "raceDirector": "Steven Grusis",
+      "url": "https://usacycling.org/clubs/index.php?club=15110"
+    },
+    "eventWebSite":
+      "http://www.facebook.com/Steve-Grusis-Race-Promotions-501684569917598/",
+    "registrationLink": "http://www.bikereg.com/otf-stage-race",
+    "status": "Permitted",
+    "usacCategory": "Category - E",
+    "year": 2018,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2018&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2018-413",
+    "name": "Cantua Creek Road Race",
+    "dates": ["2018-02-17T08:00:00.000Z"],
+    "location": {
+      "cityState": "Coalinga, CA",
+      "detailed": ["Highway 33 and Coalinga Mendota Road", "Coalinga, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/Highway+33+and+Coalinga+Mendota+Road+Coalinga,+CA+93210,+USA"
+    },
+    "promoter": {
+      "club": "Golden Chain Cyclists",
+      "raceDirector": "Robert Leibold",
+      "url": "https://usacycling.org/clubs/index.php?club=2568"
+    },
+    "eventWebSite": "http://www.velopromo.com",
+    "status": "Pending",
+    "usacCategory": "Category - E",
+    "year": 2018,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2018&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2018-417",
+    "name": "Pine Flat Road Race",
+    "dates": ["2018-02-18T08:00:00.000Z"],
+    "location": {
+      "cityState": "Piedra, CA",
+      "detailed": ["Island Park Marina, Pine Flat Lake", "Piedra, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/Island+Park+Marina,+Pine+Flat+Lake+Piedra,+CA+93649,+USA"
+    },
+    "promoter": {
+      "club": "Golden Chain Cyclists",
+      "raceDirector": "Robert Leibold",
+      "url": "https://usacycling.org/clubs/index.php?club=2568"
+    },
+    "eventWebSite": "http://www.velopromo.com",
+    "status": "Pending",
+    "usacCategory": "Category - E",
+    "year": 2018,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2018&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2018-455",
+    "name": "Cherry Pie Criterium",
+    "dates": ["2018-02-19T08:00:00.000Z"],
+    "location": {
+      "cityState": "Napa, CA",
+      "detailed": ["2277 Napa Vallejo Hwy", "Napa, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/2277+Napa+Vallejo+Hwy+Napa,+CA+94558,+USA"
+    },
+    "promoter": {
+      "club": "Eagle Cycling Club",
+      "raceDirector": "Felix Riesenberg",
+      "url": "https://usacycling.org/clubs/index.php?club=6211"
+    },
+    "eventWebSite": "http://www.eaglecyclingclub.org",
+    "status": "Pending",
+    "usacCategory": "Category - D",
+    "year": 2018,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2018&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2018-420",
+    "name": "Snelling Road Race",
+    "dates": ["2018-02-24T08:00:00.000Z"],
+    "location": {
+      "cityState": "Snelling, CA",
+      "detailed": ["Henderson County Park", "Snelling, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/Henderson+County+Park+Snelling,+CA+95369,+USA"
+    },
+    "promoter": {
+      "club": "Golden Chain Cyclists",
+      "raceDirector": "Robert Leibold",
+      "url": "https://usacycling.org/clubs/index.php?club=2568"
+    },
+    "eventWebSite": "http://www.velopromo.com",
+    "status": "Pending",
+    "usacCategory": "Category - E",
+    "year": 2018,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2018&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2018-460",
+    "name": "Death Valley National Park Tour",
+    "dates": ["2018-03-11T08:00:00.000Z", "2018-03-16T07:00:00.000Z"],
+    "location": {
+      "cityState": "Death Valley, CA",
+      "detailed": "Death Valley, CA",
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/+Death+Valley,+CA+92328,+USA"
+    },
+    "promoter": {
+      "club": "USA Cycling Race Director",
+      "raceDirector": "USA Cycling Race Director",
+      "url": "https://usacycling.org/clubs/index.php?club=14196"
+    },
+    "eventWebSite":
+      "http://cyclingescapes.com/bicycletours/california/deathvalley/biketour.html",
+    "registrationLink": "http://cyclingescapes.com/registration.html",
+    "status": "Permitted",
+    "usacCategory": "Category - F",
+    "year": 2018,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Fun",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2018&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2018-179",
+    "name": "2018 SUBARU Sea Otter Classic - Road",
+    "dates": ["2018-04-19T07:00:00.000Z", "2018-04-22T07:00:00.000Z"],
+    "location": {
+      "cityState": "Monterey, CA",
+      "detailed": ["Laguna Seca Recreation Area", "Monterey, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/Laguna+Seca+Recreation+Area+Monterey,+CA+93940,+USA"
+    },
+    "promoter": {
+      "club": "USA Cycling Race Director",
+      "raceDirector": "Sea Otter Classic Foundation Inc.",
+      "url": "https://usacycling.org/clubs/index.php?club=14196"
+    },
+    "eventWebSite": "http://www.seaotterclassic.com",
+    "status": "Pending",
+    "usacCategory": "Category - D",
+    "year": 2018,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2018&race=Road&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2018-177",
+    "name": "2018 SUBARU Sea Otter Classic-Gran Fondo",
+    "dates": ["2018-04-21T07:00:00.000Z"],
+    "location": {
+      "cityState": "Monterey, CA",
+      "detailed": ["Laguna Seca Recreation Area", "Monterey, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/Laguna+Seca+Recreation+Area+Monterey,+CA+93940,+USA"
+    },
+    "promoter": {
+      "club": "USA Cycling Race Director",
+      "raceDirector": "Sea Otter Classic Foundation Inc.",
+      "url": "https://usacycling.org/clubs/index.php?club=14196"
+    },
+    "eventWebSite": "http://www.seaotterclassic.com",
+    "registrationLink": "http://www.seaotterclassic.com",
+    "status": "Permitted",
+    "usacCategory": "Category - F",
+    "year": 2018,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Fun",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2018&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2018-281",
+    "name": "Honor Ride Sacramento",
+    "dates": ["2018-04-21T07:00:00.000Z"],
+    "location": {
+      "cityState": "Rocklin, CA",
+      "detailed": ["270 Technology Way Ste 100", "Rocklin, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/270+Technology+Way+Ste+100+Rocklin,+CA+95765,+USA"
+    },
+    "promoter": {
+      "club": "Project Hero",
+      "raceDirector": "Jack Shepard",
+      "url": "https://usacycling.org/clubs/index.php?club=13438"
+    },
+    "eventWebSite": "http://projecthero.org/events/honor-ride",
+    "registrationLink": "http://projecthero.org/events/honor-ride",
+    "status": "Permitted",
+    "usacCategory": "Category - F",
+    "year": 2018,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Fun",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2018&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2018-330",
+    "name": "CycleNation Ride",
+    "dates": ["2018-04-28T07:00:00.000Z"],
+    "location": {
+      "cityState": "Livermore, CA",
+      "detailed": "Livermore, CA",
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/+Livermore,+CA+94550,+USA"
+    },
+    "promoter": {
+      "club": "Medalist Sports",
+      "raceDirector": "Chris Aronhalt",
+      "url": "https://usacycling.org/clubs/index.php?club=10894"
+    },
+    "eventWebSite": "http://www.americanheart.org",
+    "registrationLink":
+      "http://honor.americanheart.org/site/TR?fr_id=4991&pg=entry",
+    "status": "Permitted",
+    "usacCategory": "Category - F",
+    "year": 2018,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Fun",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2018&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2018-264",
+    "name": "Grasshopper Adventure Series",
+    "dates": ["2018-05-05T07:00:00.000Z"],
+    "location": {
+      "cityState": "Geyserville , CA",
+      "detailed": ["Warm Springs Dam", "Geyserville , CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/Warm+Springs+Dam+Geyserville+,+CA+95465,+USA"
+    },
+    "promoter": {
+      "club": "USA Cycling Race Director",
+      "raceDirector": "USA Cycling Race Director",
+      "url": "https://usacycling.org/clubs/index.php?club=14196"
+    },
+    "eventWebSite": "http://www.grasshopperadventureseries.com",
+    "status": "Permitted",
+    "usacCategory": "Category - F",
+    "year": 2018,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Fun",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2018&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2018-204",
+    "name": "Crush Challenge",
+    "dates": ["2018-05-12T07:00:00.000Z"],
+    "location": {
+      "cityState": "Napa, CA",
+      "detailed": ["8383 Silverado Trail", "Napa, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/8383+Silverado+Trail+Napa,+CA+94558,+USA"
+    },
+    "promoter": {
+      "club": "Medalist Sports",
+      "raceDirector": "Chris Aronhalt",
+      "url": "https://usacycling.org/clubs/index.php?club=10894"
+    },
+    "eventWebSite": "http://www.crushchallenge.net",
+    "registrationLink": "http://www.crushchallenge.net",
+    "status": "Permitted",
+    "usacCategory": "Category - F",
+    "year": 2018,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Fun",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2018&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2018-266",
+    "name": "Grasshopper Adventure Series",
+    "dates": ["2018-05-19T07:00:00.000Z"],
+    "location": {
+      "cityState": "Duncans Mills, CA",
+      "detailed": ["Duncans Mills", "Duncans Mills, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/Duncans+Mills++Duncans+Mills,+CA+95465,+USA"
+    },
+    "promoter": {
+      "club": "USA Cycling Race Director",
+      "raceDirector": "USA Cycling Race Director",
+      "url": "https://usacycling.org/clubs/index.php?club=14196"
+    },
+    "eventWebSite": "http://www.grasshopperadventureseries.com",
+    "registrationLink":
+      "http://www.eventbrite.com/e/grasshopper-adventure-series-2018-tickets-38078181867",
+    "status": "Permitted",
+    "usacCategory": "Category - F",
+    "year": 2018,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Fun",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2018&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2018-182",
+    "name": "RBC GranFondo Silicon Valley",
+    "dates": ["2018-06-23T07:00:00.000Z"],
+    "location": {
+      "cityState": "East Palo Alto, CA",
+      "detailed": ["University Circle", "East Palo Alto, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/University+Circle+East+Palo+Alto,+CA+94303,+USA"
+    },
+    "promoter": {
+      "club": "USA Cycling Race Director",
+      "raceDirector": "USA Cycling Race Director",
+      "url": "https://usacycling.org/clubs/index.php?club=14196"
+    },
+    "eventWebSite": "http://www.rbcgranfondo.com/silicon-valley/",
+    "registrationLink":
+      "http://https://ccnbikes.com/#!/events/rbc-granfondo-silicon-valley?_ga=2.190642859.1618365924.1508171038-31578658.1508171038",
+    "status": "Permitted",
+    "usacCategory": "Category - F",
+    "year": 2018,
+    "state": "CN",
+    "discipline": "Road",
+    "usacEventType": "Fun",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2018&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2018-349",
+    "name": "Ninja Mountain Bike Performance | Santa Cruz (SC041418)",
+    "dates": ["2018-04-14T07:00:00.000Z", "2018-04-15T07:00:00.000Z"],
+    "location": {
+      "cityState": "Santa Cruz, CA",
+      "detailed": "Santa Cruz, CA",
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/+Santa+Cruz,+CA+95060,+USA"
+    },
+    "promoter": {
+      "club": "Team Ninja",
+      "raceDirector": "Richard La China",
+      "url": "https://usacycling.org/clubs/index.php?club=15312"
+    },
+    "eventWebSite": "http://sandiegomountainbikeskills.com/california/",
+    "registrationLink": "http://sandiegomountainbikeskills.com/california/",
+    "status": "Permitted",
+    "usacCategory": "Category - G",
+    "year": 2018,
+    "state": "CN",
+    "discipline": "Mountain",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2018&race=Mountain&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2018-176",
+    "name": "2018 SUBARU Sea Otter Classic - Tours",
+    "dates": ["2018-04-19T07:00:00.000Z", "2018-04-21T07:00:00.000Z"],
+    "location": {
+      "cityState": "Monterey, CA",
+      "detailed": ["Laguna Seca Recreation Area", "Monterey, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/Laguna+Seca+Recreation+Area+Monterey,+CA+93940,+USA"
+    },
+    "promoter": {
+      "club": "USA Cycling Race Director",
+      "raceDirector": "Sea Otter Classic Foundation Inc.",
+      "url": "https://usacycling.org/clubs/index.php?club=14196"
+    },
+    "eventWebSite": "http://www.seaotterclassic.com",
+    "registrationLink": "http://www.seaotterclassic.com",
+    "status": "Permitted",
+    "usacCategory": "Category - F",
+    "year": 2018,
+    "state": "CN",
+    "discipline": "Mountain",
+    "usacEventType": "Fun",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2018&race=Mountain&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2018-178",
+    "name": "2018 SUBARU Sea Otter Classic - Mountain Bike",
+    "dates": ["2018-04-19T07:00:00.000Z", "2018-04-22T07:00:00.000Z"],
+    "location": {
+      "cityState": "Monterey, CA",
+      "detailed": ["Laguna Seca Recreation Area", "Monterey, CA"],
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/Laguna+Seca+Recreation+Area+Monterey,+CA+93940,+USA"
+    },
+    "promoter": {
+      "club": "USA Cycling Race Director",
+      "raceDirector": "Sea Otter Classic Foundation Inc.",
+      "url": "https://usacycling.org/clubs/index.php?club=14196"
+    },
+    "eventWebSite": "http://www.seaotterclassic.com",
+    "registrationLink": "http://www.seaotterclassic.com",
+    "status": "Permitted",
+    "usacCategory": "Category - A",
+    "year": 2018,
+    "state": "CN",
+    "discipline": "Mountain",
+    "usacEventType": "Results & Ranking",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2018&race=Mountain&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+  },
+  {
+    "permit": "2018-404",
+    "name": "Central Coast Cyclocross Series",
+    "dates": ["2018-01-06T08:00:00.000Z", "2018-01-20T08:00:00.000Z"],
+    "location": {
+      "cityState": "Monterey, CA",
+      "detailed": "Monterey, CA",
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/+Monterey,+CA+93940,+USA"
+    },
+    "promoter": {
+      "club": "CCCX Cycling Club",
+      "raceDirector": "Keith DeFiebre",
+      "url": "https://usacycling.org/clubs/index.php?club=14829"
+    },
+    "eventWebSite": "http://www.cccxcycling.com ",
+    "status": "Permitted",
+    "usacCategory": "Category - E",
+    "year": 2018,
+    "state": "CN",
+    "discipline": "Cyclocross",
+    "usacEventType": "",
+    "competitive": "competitive",
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2018&race=Cyclocross&rrfilter=all&noncomp=0&state=CN&cnt=0&"
+  }
+]

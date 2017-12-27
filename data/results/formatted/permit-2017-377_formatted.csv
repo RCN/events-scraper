@@ -3,7 +3,7 @@
 05/19/2017 Criterium Men Pro/Cat 1/2/3
 Place,License #,First,Last,City,State,Time,Team
 1,333300,Lane,Maher,Harwinton,CT,0:58:43,Hot Tubes Development Cycling Team
-2,231409,lucas,fortini,Fairfield,CT,0:58:45,Race CF
+2,231409,lucas,fortini,Arlington,MA,0:58:45,Race CF
 3,52534,Adam,Myerson,Dorchester,MA,0:58:45,Cycle-Smart
 4,192750,Ted,Horwitz,Haverhill,MA,0:58:45,Monster Media Racing pb Butcher Box
 5,273689,Cole,Archambault,Northampton ,MA,0:58:45,GREEN LINE VELO driven by Zipcar
@@ -11,13 +11,13 @@ Place,License #,First,Last,City,State,Time,Team
 7,407169,Alexander,Chrystall,Wellesley,MA,0:58:45,New England Devo p/b Cadence Wealth Management
 8,499151,Geno,Villafano,Vernon Rockville,CT,0:58:45,Storrs Center Cycle Racing
 9,320000,Derek,Cote,Burlington,CT,0:58:45,Team ERRACE p/b DSO Manufacturing
-10,309018,Keith,Mullaly,Belmont,NC,0:58:45,Levine Law Group p/b Huseby
+10,309018,Keith,Mullaly,Wethersfield,CT,0:58:45,Levine Law Group p/b Huseby
 11,214503,David,Maynard,Middletown,CT,0:58:45,Team ERRACE
 12,311527,Kenneth,McNeill,Rutland,VT,0:58:45,Cyclus Sports NY
 13,138607,Jacob,Hacker,New Haven,CT,0:58:45,
 14,344882,Wyatt,Cote,Burlington,CT,0:58:45,CT Cycling Advancement Program
 15,165565,Scott,Yarosh,Hatfield,MA,0:58:45,JAM / NCC
-16,387921,Alec,Hoover,Kingston ,NY,0:58:45,Team Errace p/b DSO mfg
+16,387921,Alec,Hoover,Ripon,WI,0:58:45,Team Errace p/b DSO mfg
 17,427981,ezra,sonderling,Wooster,OH,0:58:45,Grinta! P/B Best Buddies
 18,251580,A.J.,Moran,Jamaica Plain,MA,0:58:45,GREEN LINE VELO driven by Zipcar
 19,99523,Hunter,Pronovost,Cheshire,CT,0:58:45,Cheshire Cycle Racing
@@ -36,7 +36,7 @@ Place,License #,First,Last,City,State,Time,Team
 32,0,Dominic,Ciazzo,,,0:58:45,Lupus Racing
 33,113804,Damon,Lecompte,Lunenburg,MA,0:58:45,ncc
 34,83498,Sean,Cahill,Burlington,CT,0:58:45,Team ERRACE
-35,103281,Massimiliano,Accaputo,Rocky Hill ,CT,0:58:45,CVC/Hartford Healthcare Sports Medicine
+35,103281,Massimiliano,Accaputo,South Glastonbury,CT,0:58:45,CVC/Hartford Healthcare Sports Medicine
 36,305134,Michael,Martin,Brooklyn,CT,0:58:45,B2C2/JRA Cycles
 37,357229,Ian,Whaley,Monroe,CT,0:58:45,Van Dessel Factory Team
 38,164128,Aidan,Charles,Middletown,CT,0:58:45,CT Cycling Advancement Program
@@ -85,7 +85,7 @@ Place,License #,First,Last,City,State,Time,Team
 30,54549,Mark,Paggioli,Glastonbury,CT,0:47:54,CVC - Hartford Healthcare Sports Medicine
 31,260859,Morgan,Rueckert,West Hartford,CT,0:47:54,Team ERRACE p/b DSO Manufacturing
 32,0,unknown,rider,,,0:47:54,
-33,103281,Massimiliano,Accaputo,Rocky Hill ,CT,0:47:54,CVC/Hartford Healthcare Sports Medicine
+33,103281,Massimiliano,Accaputo,South Glastonbury,CT,0:47:54,CVC/Hartford Healthcare Sports Medicine
 34,237439,Patrick,Cunningham,New Hartford,CT,0:47:54,Benidorm Bikes/Eastern Bloc Cycling Club
 35,29708,Paul,Richard,Amesbury,MA,0:47:54,CCB Racing
 36,129914,Alec,Donahue,Easthampton,MA,0:47:54,JAM / NCC
@@ -116,9 +116,9 @@ Place,License #,First,Last,City,State,Time,Team
 9,0,Rowyn,Burgess,,,0:23:50,rail trailers
 10,499994,Wyeth,Curtis,Grafton,MA,0:23:52,New England Devo p/b Cadence Wealth Management
 11,504329,Kristian,Adlianitski,Cheshire,CT,0:23:54,NYTT
-12,503987,William,Rueckert,W Hartford,CT,0:24:37,CCAP West Hartford ERRACERs
+12,503987,William,Rueckert,West Hartford,CT,0:24:37,CCAP West Hartford ERRACERs
 13,485984,Nathaniel,Summers,Southington,CT,lap,CCAP ERRACERS
-14,507456,Colin,Hamilton,W Hartford,CT,lap,West Hartford ERRACERS / CCAP
+14,507456,Colin,Hamilton,West Hartford,CT,lap,West Hartford ERRACERS / CCAP
 DNF,427926,Kevin,Mullaly,Wethersfield,CT,dnf,Team Edge
 
 05/19/2017 Criterium Men Junior Junior 15-18
@@ -197,7 +197,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,322222,Christopher,Cavallaro,Hamden,CT,0:49:26,
 5,433612,Jonathan,Guiza,Fairfield ,CT,0:49:26,
 6,330868,Nicholas,Willette,Vernon,CT,0:49:26,Aetna- Expo Wheelmen
-7,271529,Marshall,Johnson,North Stonington ,CT,0:49:26,CLR Racing
+7,271529,Marshall,Johnson,North Stonington,CT,0:49:26,CLR Racing
 8,355922,Jacob,Lipcon,Arlington,MA,0:49:26,Minuteman Road Club
 9,471718,alan,burgess,Middletown,CT,0:49:26,cheshire cycle racing
 10,426305,Brian,Alba,Plainsboro,NJ,0:49:26,Northeastern University
@@ -206,8 +206,8 @@ Place,License #,First,Last,City,State,Time,Team
 13,391241,Chris,Niesen,Easthampton,MA,0:49:26,NCC / JAM
 14,394051,Stephen,Gibertoni,Cheshire,CT,0:49:26,Cheshire Cycle Racing
 15,438505,Kyle,Crowell,Prospect,CT,0:49:26,CT Cycling Advancement Program
-16,0,Travis,Wold,,,0:49:26,
-17,485904,Ken,Greim,Cambridge,MA,0:49:26,GREEN LINE VELO driven by Zipcar
+16,456194,Travis,Wold,Berlin,MA,0:49:26,
+17,485904,Ken,Greim,Belmont,MA,0:49:26,GREEN LINE VELO driven by Zipcar
 18,412071,Michael,Podzaline,North Stonington,CT,0:49:26,Scorpion Racing
 19,315952,Nathan,Coste,Bristol,RI,0:49:26,Swansea Velo Club / Bikeworks
 20,442889,Morgan,Rockett,Needham,MA,0:49:26,GREEN LINE VELO driven by Zipcar
@@ -219,7 +219,7 @@ Place,License #,First,Last,City,State,Time,Team
 26,293161,Andrew,Goodale,Maynard,MA,0:49:26,Race CF
 27,496520,Simon,Bauwens,New Haven,CT,0:49:26,
 28,344882,Wyatt,Cote,Burlington,CT,0:49:26,West Hartford ERRACERS/CCAP
-29,408284,Mark,Hewitt,South Deerfield,MA,0:49:26,JAM / NCC
+29,408284,Mark,Hewitt,Mattapan,MA,0:49:26,JAM / NCC
 30,512294,Nic,Koleszar,Wilton,CT,0:49:26,
 31,440102,Timothy,Johnson,New Haven,CT,0:49:26,
 32,457807,William,Botta,Del Mar,CA,0:49:26,Bulldog Cycling
@@ -250,7 +250,7 @@ Place,License #,First,Last,City,State,Time,Team
 05/19/2017 Criterium Women Junior Junior -9
 Place,License #,First,Last,City,State,Time,Team
 1,484443,Julia,Shatalov,Cheshire,CT,0:20:35,Nutmeg Youth Triathlon Team
-2,474725,Sadie,Rueckert,W Hartford,CT,0:24:37,CCAP West Hartford ERRACERs
+2,474725,Sadie,Rueckert,West Hartford,CT,0:24:37,CCAP West Hartford ERRACERs
 3,532221,Anna,Lindner,Cheshire,CT,0:24:37,NYTT
 4,0,Isabella,Crespo,,,lap,EERACERS
 5,529499,Alicia,Shatalov,Cheshire,CT,lap,Nutmeg Youth Triathlon Team

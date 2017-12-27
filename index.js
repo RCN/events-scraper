@@ -22,3 +22,4 @@ require('babel-polyfill')
 // require('./lib/scrapers/example-scraper');
 // require('./lib/scrapers/usac-racers');
 require('./lib/scrapers/usac-events');
+// require('./lib/scrapers/bikereg/scrape-all')

@@ -14,9 +14,9 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,514693,Patrick,Breen,Findlay,OH,0:29:57,Rice University
 2,487076,Carlos,Moreno,Houston,TX,0:30:02,Rice University
-3,524417,Jerry,Cornell,New Orleans,LA,0:30:02,Tulane University of Louisiana
-4,513333,Kanten,Nichols,Longview,TE,0:30:02,University of North Texas
-5,497089,pierce,powers,Baton Rouge,LA,0:30:02,Louisiana State University
+3,524417,Jerry,Cornell,North Potomac,MD,0:30:02,Tulane University of Louisiana
+4,513333,Kanten,Nichols,Denton,TX,0:30:02,University of North Texas
+5,497089,pierce,powers,Austin,TX,0:30:02,Louisiana State University
 6,494277,Ben,Rasich,Houston,TX,0:30:02,Rice University
 7,502580,Hans,Ajieren,Richardson,TX,0:30:02,The University of Texas at Dallas
 8,525727,Jake,Johnson,Baton Rouge,LA,0:30:02,Louisiana State University
@@ -45,7 +45,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,230527,Joy,Jason,Port Allen,LA,0:16:38,Tulane University of Louisiana
 2,481472,Lily,Stagg,Lafayette,LA,0:17:48,University of Louisiana-Lafayette
-3,525573,Savannah,Porter,Gray,LA,0:20:05,Nicholls State University
+3,525573,Savannah,Porter,Thibodaux,LA,0:20:05,Nicholls State University
 
 02/26/2017 Criterium Women A
 Place,License #,First,Last,City,State,Time,Team
@@ -74,14 +74,14 @@ Place,License #,First,Last,City,State,Time,Team
 
 02/26/2017 Omnium Men C
 Place,License #,First,Last,City,State,Time,Team
-1,513333,Kanten,Nichols,Longview,TE,51,University of North Texas
+1,513333,Kanten,Nichols,Denton,TX,51,University of North Texas
 2,487076,Carlos,Moreno,Houston,TX,45,Rice University
 3,514693,Patrick,Breen,Findlay,OH,44,Rice University
 4,364762,Andy,Heuser,Saint Charles,IL,32,University of North Texas
 5,494277,Ben,Rasich,Houston,TX,30,Rice University
 6,502580,Hans,Ajieren,Richardson,TX,29,The University of Texas at Dallas
-6,524417,Jerry,Cornell,New Orleans,LA,29,Tulane University of Louisiana
-8,497089,pierce,powers,Baton Rouge,LA,24,Louisiana State University
+6,524417,Jerry,Cornell,North Potomac,MD,29,Tulane University of Louisiana
+8,497089,pierce,powers,Austin,TX,24,Louisiana State University
 9,459092,Joseph,Wertz,Breaux Bridge,LA,16,University of Louisiana-Lafayette
 10,525727,Jake,Johnson,Baton Rouge,LA,8,Louisiana State University
 
@@ -109,7 +109,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,230527,Joy,Jason,Port Allen,LA,63,Tulane University of Louisiana
 2,481472,Lily,Stagg,Lafayette,LA,47,University of Louisiana-Lafayette
-3,525573,Savannah,Porter,Gray,LA,45,Nicholls State University
+3,525573,Savannah,Porter,Thibodaux,LA,45,Nicholls State University
 
 02/26/2017 Omnium Women A
 Place,License #,First,Last,City,State,Time,Team
@@ -137,13 +137,13 @@ Place,License #,First,Last,City,State,Time,Team
 02/25/2017 Individual Time Trial Men C
 Place,License #,First,Last,City,State,Time,Team
 1,364762,Andy,Heuser,Saint Charles,IL,0:08:54,University of North Texas
-2,513333,Kanten,Nichols,Longview,TE,0:09:13,University of North Texas
+2,513333,Kanten,Nichols,Denton,TX,0:09:13,University of North Texas
 3,494277,Ben,Rasich,Houston,TX,0:09:28,Rice University
 4,514693,Patrick,Breen,Findlay,OH,0:09:31,Rice University
 5,487076,Carlos,Moreno,Houston,TX,0:09:59,Rice University
 6,502580,Hans,Ajieren,Richardson,TX,0:10:05,The University of Texas at Dallas
-7,497089,pierce,powers,Baton Rouge,LA,0:10:06,Louisiana State University
-8,524417,Jerry,Cornell,New Orleans,LA,0:10:09,Tulane University of Louisiana
+7,497089,pierce,powers,Austin,TX,0:10:06,Louisiana State University
+8,524417,Jerry,Cornell,North Potomac,MD,0:10:09,Tulane University of Louisiana
 9,459092,Joseph,Wertz,Breaux Bridge,LA,0:11:08,University of Louisiana-Lafayette
 
 02/25/2017 Individual Time Trial Men B
@@ -168,7 +168,7 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,230527,Joy,Jason,Port Allen,LA,0:10:12.0,Tulane University of Louisiana
 2,481472,Lily,Stagg,Lafayette,LA,0:12:59.0,University of Louisiana-Lafayette
-3,525573,Savannah,Porter,Gray,LA,0:13:08.0,Nicholls State University
+3,525573,Savannah,Porter,Thibodaux,LA,0:13:08.0,Nicholls State University
 
 02/25/2017 Individual Time Trial Women A
 Place,License #,First,Last,City,State,Time,Team
@@ -197,14 +197,14 @@ Place,License #,First,Last,City,State,Time,Team
 
 02/25/2017 Road Race Men C
 Place,License #,First,Last,City,State,Time,Team
-1,513333,Kanten,Nichols,Longview,TE,2:19:13,University of North Texas
+1,513333,Kanten,Nichols,Denton,TX,2:19:13,University of North Texas
 2,364762,Andy,Heuser,Saint Charles,IL,2:19:13,University of North Texas
 3,487076,Carlos,Moreno,Houston,TX,2:19:13,Rice University
 4,502580,Hans,Ajieren,Richardson,TX,2:19:13,The University of Texas at Dallas
 5,514693,Patrick,Breen,Findlay,OH,2:19:13,Rice University
-6,524417,Jerry,Cornell,New Orleans,LA,2:19:13,Tulane University of Louisiana
+6,524417,Jerry,Cornell,North Potomac,MD,2:19:13,Tulane University of Louisiana
 7,494277,Ben,Rasich,Houston,TX,2:19:13,Rice University
-8,497089,pierce,powers,Baton Rouge,LA,2:19:13,Louisiana State University
+8,497089,pierce,powers,Austin,TX,2:19:13,Louisiana State University
 9,459092,Joseph,Wertz,Breaux Bridge,LA,2:38:24,University of Louisiana-Lafayette
 
 02/25/2017 Road Race Men B
@@ -230,7 +230,7 @@ DNF,355844,Jaden,Kifer,New Orleans,LA,,Louisiana State University Health Science
 02/25/2017 Road Race Women C
 Place,License #,First,Last,City,State,Time,Team
 1,230527,Joy,Jason,Port Allen,LA,1:06:12,Tulane University of Louisiana
-2,525573,Savannah,Porter,Gray,LA,1:17:02,Nicholls State University
+2,525573,Savannah,Porter,Thibodaux,LA,1:17:02,Nicholls State University
 3,481472,Lily,Stagg,Lafayette,LA,1:18:03,University of Louisiana-Lafayette
 
 02/25/2017 Road Race Women A

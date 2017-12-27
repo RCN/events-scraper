@@ -12,15 +12,15 @@ Place,License #,First,Last,City,State,Time,Team
 8,428009,Sam,Fritz,Princeton,MN,1:20:02,Above and Beyond Cancer p/b Scheels
 9,303319,Maxx,Chance,Boulder,CO,1:20:02,303 Project*
 10,189118,Morgan,Schmitt,Seattle,WA,1:20:02,Arapahoe Resources / Garneau*
-11,185493,Peter,Olejniczak,Roseville,MN,1:20:02,Borah Factory Racing
+11,185493,Peter,Olejniczak,Minneapolis,MN,1:20:02,Borah Factory Racing
 12,188572,Andrew,Dahlheim,Greenville,SC,1:20:02,Arapahoe Resources / Garneau
 13,303586,Tobin,Ortenblad,Santacruz,CA,1:20:02,Donkey Label
 14,200977,John,Purvis,Parthenon,AR,1:20:02,Oklahoma Bicycle Project
-15,256955,Evan,Huffman,El Dorado Hills,CA,1:20:02,Rally Cycling*
+15,256955,Evan,Huffman,Sacramento,CA,1:20:02,Rally Cycling*
 16,394826,Aria,Kiani,Santa Rosa,CA,1:20:02,Support Clean Sport/SeaSucker/Guttenplan Coaching
 17,533833,Liam,Magennis,,,1:20:02,UCI CT: NSW Institute of Sport
 18,426188,Cory,Lockwood,Tehachapi,CA,1:20:02,Elevate - KHS Pro Cycling*
-19,342402,Kevin,Girkins,Austin,TX,1:20:02,ELBOWZ Racing p/b Synergy.O*
+19,342402,Kevin,Girkins,San Marcos,TX,1:20:02,ELBOWZ Racing p/b Synergy.O*
 20,282640,Brendan,Rhim,Greenville,SC,1:20:02,UCI CT: Holowesko | Citadel Racing Team p/b Hincapie Racing
 21,236923,Connor,Brown,Grandview,MO,1:20:02,Elevate - KHS Pro Cycling*
 22,219434,Justin,Mauch,Sterling,VA,1:20:02,Herbalife p/b Marc Pro - Nature' Bakery*
@@ -43,7 +43,7 @@ Place,License #,First,Last,City,State,Time,Team
 39,290219,Miguel,Bryon,Miami,FL,1:24:01,UCI CT: Holowesko | Citadel Racing Team p/b Hincapie Racing
 40,336388,Corey,Davis,Danville,VA,1:24:01,Palmetto State Medical Elite Cycling Team
 41,498925,Liam,White,,,1:24:01,xXx Racing
-42,456576,Samuel,Boardman,Washington,CA,1:24:01,Herbalife p/b Marc Pro - Nature' Bakery*
+42,456576,Samuel,Boardman,Los Angeles,CA,1:24:01,Herbalife p/b Marc Pro - Nature' Bakery*
 43,245537,Anthony,Olson,Boulder,CO,1:24:01,Team Rio Grande
 44,311386,Maxwell,Ackermann,Madison,WI,1:24:01,Gateway Harley-Davidson Trek U25 Development
 45,318896,Micah,Engle,Dillsburg,PA,1:24:01,Gateway Harley-Davidson Trek U25 Development
@@ -59,9 +59,9 @@ Place,License #,First,Last,City,State,Time,Team
 55,210129,Conner,Sallee,Dallas,TX,1:25:17,ELBOWZ Racing p/b Synergy.O*
 56,205741,Stefan,Rothe,Austin,TX,1:25:17,ELBOWZ Racing p/b Synergy.O*
 57,287780,Taylor,Warren,San Diego,CA,1:25:17,303 Project*
-58,295785,Colin,Catlin,Arden Hills,MN,1:25:17,Centric Racing p/b Catella
+58,295785,Colin,Catlin,Saint Paul,MN,1:25:17,Centric Racing p/b Catella
 59,472870,Julio,Padilla,,,1:25:17,Arapahoe Resources / Garneau
-60,263035,Andrew,Giniat,Winnetka,IL,1:25:17,North Memorial Health p/b Project Echelon
+60,263035,Andrew,Giniat,Asheville,NC,1:25:17,North Memorial Health p/b Project Echelon
 61,511361,Samuel,Munday,Athens,GA,1:25:17,Team Novo Nordisk Development
 62,388008,Hugo,Scala Jr,Dallas,TX,1:25:17,Dallas Racing
 63,319214,Grant,Koontz,Spring,TX,1:25:17,Arapahoe Resources / Garneau
@@ -89,7 +89,7 @@ Place,License #,First,Last,City,State,Time,Team
 85,526739,Callum,Gordon,,,1:27:34,Centric Racing p/b Catella
 86,0,Gerardo,Medina Bobles,,,1:27:34,Stork-CCN
 87,243156,Levon,Kalemkiarian,Stillwater,MN,1:27:34,Donkey Label
-88,211435,Zack,Allison,Fort Collins ,CO,1:27:34,Team Rio Grande
+88,211435,Zack,Allison,Fort Collins,CO,1:27:34,Team Rio Grande
 89,240153,Glenn,Ferreira,Manville,NJ,1:28:27,BATTLEY H-D / Localist p/b Cutaway
 90,316080,Adam,Ventling,Urbandale,IA,1:28:27,Above and Beyond Cancer p/b Scheels
 91,430954,Marco,Wajda,Brookfield,WI,1:28:27,North Memorial Health p/b Project Echelon
@@ -129,13 +129,13 @@ DNF,324184,Franklin,Deese,Greensboro,NC,,Cyclus Sports
 06/18/2017 Criterium Women Pro/Cat 1/2 Prt 1
 Place,License #,First,Last,City,State,Time,Team
 1,533030,Marlies,MejiasGarcia,,PA,0:54:46,UCI CTW: Weber Shimano Ladies Power
-2,273081,Ruth,Winder,Lafayette,CA,0:54:46,UnitedHealthcare Pro Cycling*
+2,273081,Ruth,Winder,Boulder,CO,0:54:46,UnitedHealthcare Pro Cycling*
 3,275988,Emma,White,Delanson,NY,0:54:46,Rally Cycling*
 4,454819,Kirsti,Lay,,,0:55:04,Rally Cycling*
 5,531310,Ashlee,Ankudinoff,,,0:55:09,North Memorial Healthcare
 6,481904,Emma,Grant,Norwich,VT,0:55:09,Colavita/Bianchi USA*
 7,353542,Brianna,Walle,Beaverton,OR,0:55:12,Team TIBCO - Silicon Valley Bank*
-8,512762,Lily,Williams,Chicago,IL,0:55:13,Chicago Womens Elite Cycling
+8,512762,Lily,Williams,Asheville,NC,0:55:13,Chicago Womens Elite Cycling
 9,502931,Katherine,Maine,,,0:55:16,Rally Cycling*
 10,510315,Sara,Bergen,,,0:55:19,Rally Cycling*
 11,289582,Tayler,Wiles,Fairfax,CA,0:55:22,UnitedHealthcare Pro Cycling*
@@ -147,7 +147,7 @@ Place,License #,First,Last,City,State,Time,Team
 17,292211,Jennifer,Tetrick,Sausalito,CA,0:57:53,UCI WPT: Team TIBCO-Silicon Valley Bank
 18,532362,Elyse,Fraser,,,0:57:53,Cycling New Zealand
 19,439071,Diana,Penuela,Garland,TX,0:57:55,UnitedHealthcare Pro Cycling*
-20,358569,Janelle,Cole,Rockford,MI,0:57:55,UnitedHealthcare Pro Cycling*
+20,358569,Janelle,Cole,Newaygo,MI,0:57:55,UnitedHealthcare Pro Cycling*
 21,252835,Whitney,Allison,Fort Collins,CO,0:57:58,Colavita/Bianchi USA*
 22,395081,Brenna,Wrye-Simpson,Portland,OR,0:58:01,LA Sweat
 23,466699,Catherine,Ouellette,Saint-lambert,QC,0:58:03,The Cyclery - 4iiii
@@ -155,8 +155,8 @@ Place,License #,First,Last,City,State,Time,Team
 25,418029,Ariane,Bonhomme,,,0:58:31,The Cyclery - 4iiii
 26,454732,Annie,Foreman-Mackey,,,0:58:31,The Cyclery - 4iiii
 27,206044,Amber,Pierce,Mansfield Center,CT,1:00:15,Colavita/Bianchi USA*
-28,308334,Heather,Fischer,Del Rio,TX,1:01:37,UCI WPT: Team TIBCO-Silicon Valley Bank
-29,186919,Kendall,Ryan,Ventura,CA,1:01:37,UCI WPT: Team TIBCO-Silicon Valley Bank
+28,308334,Heather,Fischer,Boulder,CO,1:01:37,UCI WPT: Team TIBCO-Silicon Valley Bank
+29,186919,Kendall,Ryan,Camarillo,CA,1:01:37,UCI WPT: Team TIBCO-Silicon Valley Bank
 30,392698,Irena,Ossola,Santa Fe,NM,1:01:37,North Memorial Healthcare
 31,353750,Anna,Christiansen,Portland,OR,1:01:37,LA Sweat
 32,174914,Erica,Allar,Demorest,GA,1:01:37,Rally Cycling*
@@ -168,7 +168,7 @@ Place,License #,First,Last,City,State,Time,Team
 38,0,Jessica,Mundy,,,1:02:35,Colavita/Bianchi USA*
 39,532386,Kirstie,James,,,1:02:35,Cycling New Zealand
 40,541527,Alijah,Beatty,Washington,IA,1:02:35,Orion Racing p/b K'ul Chocolate
-41,441168,Jenna,Stauffer,Highlands Ranch ,CO,1:02:35,Orion Racing p/b K'ul Chocolate
+41,441168,Jenna,Stauffer,Highlands Ranch,CO,1:02:35,Orion Racing p/b K'ul Chocolate
 42,394701,Kimberly,Lucie,Tucson,AZ,1:02:35,LA Sweat
 43,424919,Ayesha,McGowan,El Sobrante,CA,1:02:35,JAKROO p/b Chrome Industries
 44,345626,Jennifer,Hale,Saint Paul,MN,1:02:35,North Memorial Healthcare
@@ -203,18 +203,18 @@ Place,License #,First,Last,City,State,Time,Team
 1,292378,Colin,Joyce,Pocatello,ID,10:26:19,Rally Cycling*
 2,275694,Brandon,McNulty,Phoenix,AZ,10:27:13,Rally Cycling*
 3,437845,Bryan,Gomez,New York,NY,10:27:28,Gateway Harley-Davidson Trek U25 Development Team*
-4,342402,Kevin,Girkins,Austin,TX,10:27:46,ELBOWZ Racing p/b Synergy.O*
+4,342402,Kevin,Girkins,San Marcos,TX,10:27:46,ELBOWZ Racing p/b Synergy.O*
 5,426188,Cory,Lockwood,Tehachapi,CA,10:27:48,Elevate - KHS Pro Cycling*
 6,219434,Justin,Mauch,Sterling,VA,10:27:52,Herbalife p/b Marc Pro - Nature' Bakery*
 7,189118,Morgan,Schmitt,Seattle,WA,10:27:56,Arapahoe Resources / Garneau*
 8,533903,Dylan,Sunderland,,,10:27:56,UCI CT: NSW Institute of Sport
 9,236923,Connor,Brown,Grandview,MO,10:27:56,Elevate - KHS Pro Cycling*
-10,256955,Evan,Huffman,El Dorado Hills,CA,10:27:59,Rally Cycling*
+10,256955,Evan,Huffman,Sacramento,CA,10:27:59,Rally Cycling*
 11,303319,Maxx,Chance,Boulder,CO,10:28:56,303 Project
 12,445034,Orlando,Garibay,,,10:29:08,Cylance Cycling*
 13,282640,Brendan,Rhim,Greenville,SC,10:29:10,UCI CT: Holowesko | Citadel Racing Team p/b Hincapie Racing
 14,132539,Charles (Brad),Huff,Springfield,MO,10:29:25,Rally Cycling*
-15,185493,Peter,Olejniczak,Roseville,MN,10:30:26,Borah Factory Racing
+15,185493,Peter,Olejniczak,Minneapolis,MN,10:30:26,Borah Factory Racing
 16,428009,Sam,Fritz,Princeton,MN,10:30:30,Above and Beyond Cancer p/b Scheels
 17,200977,John,Purvis,Parthenon,AR,10:30:38,Oklahoma Bicycle Project
 18,188572,Andrew,Dahlheim,Greenville,SC,10:30:44,Arapahoe Resources / Garneau
@@ -231,7 +231,7 @@ Place,License #,First,Last,City,State,Time,Team
 29,243416,MacKenzie,Brennan,Greenville,SC,10:33:56,UCI CT: Holowesko | Citadel Racing Team p/b Hincapie Racing
 30,319002,Innokenty,Zavyalov,San Marcos,CA,10:34:05,Elevate - KHS Pro Cycling*
 31,441096,Thomas,Humphreys,Chevy Chase,MD,10:34:07,BATTLEY H-D / Localist p/b Cutaway
-32,456576,Samuel,Boardman,Washington,CA,10:34:10,Herbalife p/b Marc Pro - Nature' Bakery*
+32,456576,Samuel,Boardman,Los Angeles,CA,10:34:10,Herbalife p/b Marc Pro - Nature' Bakery*
 33,498925,Liam,White,,,10:34:27,xXx Racing
 34,178970,Mat,Stephens,Dallas,TX,10:34:28,Arapahoe Resources / Garneau
 35,336388,Corey,Davis,Danville,VA,10:34:34,Palmetto State Medical Elite Cycling Team
@@ -251,10 +251,10 @@ Place,License #,First,Last,City,State,Time,Team
 49,245537,Anthony,Olson,Boulder,CO,10:36:17,Team Rio Grande
 50,287780,Taylor,Warren,San Diego,CA,10:36:26,303 Project
 51,510495,Jose Alfredo,Rodriguez Victoria,,,10:36:31,Elevate - KHS Pro Cycling*
-52,263035,Andrew,Giniat,Winnetka,IL,10:36:37,North Memorial Health p/b Project Echelon
+52,263035,Andrew,Giniat,Asheville,NC,10:36:37,North Memorial Health p/b Project Echelon
 53,433033,Robert,wasch,Wyoming,PA,10:36:39,CS Velo Elite
 54,306291,Johnny,Mitchell,Johnson City,TN,10:36:40,Palmetto State Medical Elite Cycling Team
-55,295785,Colin,Catlin,Arden Hills,MN,10:36:43,Centric Racing p/b Catella
+55,295785,Colin,Catlin,Saint Paul,MN,10:36:43,Centric Racing p/b Catella
 56,388008,Hugo,Scala Jr,Dallas,TX,10:36:44,Dallas Racing
 57,220775,Thomas,Soladay,Minnetonka,MN,10:36:48,Rally Cycling*
 58,269412,Adam,Koble,Tulsa,OK,10:37:09,Oklahoma Bicycle Project
@@ -301,7 +301,7 @@ Place,License #,First,Last,City,State,Time,Team
 99,430954,Marco,Wajda,Brookfield,WI,11:14:22,North Memorial Health p/b Project Echelon
 100,325930,Jefferey,May,Greenville,TX,11:17:18,Dallas Racing
 101,374170,Nate,Taggatz,Fort Collins,CO,11:19:18,Team Rio Grande
-102,211435,Zack,Allison,Fort Collins ,CO,11:29:04,Team Rio Grande
+102,211435,Zack,Allison,Fort Collins,CO,11:29:04,Team Rio Grande
 103,430695,John,Heinlein III,Stillwater,MN,11:29:54,North Memorial Health p/b Project Echelon
 104,256520,Steven,Davis,Canyon Country,CA,11:34:02,Centric Racing p/b Catella
 105,0,Gerardo,Medina Bobles,,,11:35:16,Stork-CCN
@@ -313,10 +313,10 @@ Place,License #,First,Last,City,State,Time,Team
 Place,License #,First,Last,City,State,Time,Team
 1,275988,Emma,White,Delanson,NY,8:26:18,Rally Cycling*
 2,533030,Marlies,MejiasGarcia,,PA,8:26:22,UCI CTW: Weber Shimano Ladies Power
-3,273081,Ruth,Winder,Lafayette,CA,8:26:22,UnitedHealthcare Pro Cycling*
+3,273081,Ruth,Winder,Boulder,CO,8:26:22,UnitedHealthcare Pro Cycling*
 4,353542,Brianna,Walle,Beaverton,OR,8:27:04,Team TIBCO - Silicon Valley Bank*
 5,289582,Tayler,Wiles,Fairfax,CA,8:27:22,UnitedHealthcare Pro Cycling*
-6,512762,Lily,Williams,Chicago,IL,8:27:59,Chicago Womens Elite Cycling
+6,512762,Lily,Williams,Asheville,NC,8:27:59,Chicago Womens Elite Cycling
 7,454819,Kirsti,Lay,,,8:28:05,Rally Cycling*
 8,531310,Ashlee,Ankudinoff,,,8:28:11,North Memorial Healthcare
 9,481904,Emma,Grant,Norwich,VT,8:28:11,Colavita/Bianchi USA*
@@ -333,7 +333,7 @@ Place,License #,First,Last,City,State,Time,Team
 20,395081,Brenna,Wrye-Simpson,Portland,OR,8:31:51,LA Sweat
 21,454732,Annie,Foreman-Mackey,,,8:32:00,The Cyclery - 4iiii
 22,328844,Katharine,Hall,Oakland,CA,8:32:09,UnitedHealthcare Pro Cycling*
-23,358569,Janelle,Cole,Rockford,MI,8:32:24,UnitedHealthcare Pro Cycling*
+23,358569,Janelle,Cole,Newaygo,MI,8:32:24,UnitedHealthcare Pro Cycling*
 24,439071,Diana,Penuela,Garland,TX,8:33:19,UnitedHealthcare Pro Cycling*
 25,292211,Jennifer,Tetrick,Sausalito,CA,8:34:18,UCI WPT: Team TIBCO-Silicon Valley Bank
 26,466699,Catherine,Ouellette,Saint-lambert,QC,8:34:50,The Cyclery - 4iiii
@@ -343,8 +343,8 @@ Place,License #,First,Last,City,State,Time,Team
 30,473503,Carrie,Cartmill,,,8:35:34,Rise Racing
 31,0,Racquel,Sheath,,,8:35:49,Cycling New Zealand
 32,499797,Danielle,Morshead,San Anselmo,CA,8:36:45,Team ERRACE
-33,308334,Heather,Fischer,Del Rio,TX,8:37:03,UCI WPT: Team TIBCO-Silicon Valley Bank
-34,186919,Kendall,Ryan,Ventura,CA,8:37:33,UCI WPT: Team TIBCO-Silicon Valley Bank
+33,308334,Heather,Fischer,Boulder,CO,8:37:03,UCI WPT: Team TIBCO-Silicon Valley Bank
+34,186919,Kendall,Ryan,Camarillo,CA,8:37:33,UCI WPT: Team TIBCO-Silicon Valley Bank
 35,516158,Marie-Soleil,Blais,,,8:37:43,North Memorial Healthcare
 36,533047,Camila,Valbuena,,PA,8:37:46,UCI CTW: Weber Shimano Ladies Power
 37,0,Holly,Edmondston,,,8:38:27,Cycling New Zealand
@@ -370,7 +370,7 @@ Place,License #,First,Last,City,State,Time,Team
 57,316704,Rachel,Wills,Wilmette,IL,9:11:18,Chicago Womens Elite Cycling
 58,532386,Kirstie,James,,,9:12:39,Cycling New Zealand
 59,276333,Diedre,Ribbens,Minneapolis,MN,9:13:00,Orion Racing p/b K'ul Chocolate
-60,441168,Jenna,Stauffer,Highlands Ranch ,CO,9:13:02,Orion Racing p/b K'ul Chocolate
+60,441168,Jenna,Stauffer,Highlands Ranch,CO,9:13:02,Orion Racing p/b K'ul Chocolate
 61,0,Emily,Flynn,,,9:14:15,The Cyclery - 4iiii
 62,406781,Christine,Thornburg,Lincolnshire,IL,9:19:03,Chicago Womens Elite Cycling
 63,466411,Rachel,McKinnon,Charleston,SC,9:27:10,Foxy Moxy
@@ -395,17 +395,17 @@ Place,License #,First,Last,City,State,Time,Team
 10,445034,Orlando,Garibay,,,2:57:11,Cylance Cycling*
 11,306291,Johnny,Mitchell,Johnson City,TN,2:57:11,Palmetto State Medical Elite Cycling Team
 12,236923,Connor,Brown,Grandview,MO,2:57:11,UCI CT: Elevate-KHS Pro Cycling
-13,342402,Kevin,Girkins,Austin,TX,2:57:11,ELBOWZ Racing
+13,342402,Kevin,Girkins,San Marcos,TX,2:57:11,ELBOWZ Racing
 14,303319,Maxx,Chance,Boulder,CO,2:57:11,303 Project
 15,426188,Cory,Lockwood,Tehachapi,CA,2:57:11,UCI CT: Elevate-KHS Pro Cycling
 16,73305,Danny,Pate,Colorado Springs,CO,2:57:11,Rally Cycling*
 17,219434,Justin,Mauch,Sterling,VA,2:57:11,Herbalife p/b Marc Pro - Nature's Bakery
-18,256955,Evan,Huffman,El Dorado Hills,CA,2:57:11,Rally Cycling*
+18,256955,Evan,Huffman,Sacramento,CA,2:57:11,Rally Cycling*
 19,132539,Charles (Brad),Huff,Springfield,MO,2:57:11,Rally Cycling*
 20,394826,Aria,Kiani,Santa Rosa,CA,2:57:29,Support Clean Sport/SeaSucker/Guttenplan Coaching
 21,222180,Tyler,Magner,Griffin,GA,2:58:04,UCI CT: Holowesko | Citadel Racing Team p/b Hincapie Racing
 22,282640,Brendan,Rhim,Greenville,SC,2:58:08,UCI CT: Holowesko | Citadel Racing Team p/b Hincapie Racing
-23,185493,Peter,Olejniczak,Roseville,MN,2:59:18,Borah Factory Racing
+23,185493,Peter,Olejniczak,Minneapolis,MN,2:59:18,Borah Factory Racing
 24,178970,Mat,Stephens,Dallas,TX,2:59:18,Arapahoe Resources / Garneau
 25,188572,Andrew,Dahlheim,Greenville,SC,2:59:22,Arapahoe Resources / Garneau
 26,311386,Maxwell,Ackermann,Madison,WI,2:59:25,Gateway Harley-Davidson Trek U25 Development
@@ -413,7 +413,7 @@ Place,License #,First,Last,City,State,Time,Team
 28,379489,William,Cooper,Pittsburgh,PA,2:59:25,CS Velo Elite
 29,380188,Matt,McLoone,Washington,DC,2:59:25,BATTLEY H-D / Localist p/b Cutaway
 30,428009,Sam,Fritz,Princeton,MN,2:59:27,Above and Beyond Cancer p/b Scheels
-31,456576,Samuel,Boardman,Washington,CA,2:59:27,Herbalife p/b Marc Pro - Nature's Bakery
+31,456576,Samuel,Boardman,Los Angeles,CA,2:59:27,Herbalife p/b Marc Pro - Nature's Bakery
 32,441096,Thomas,Humphreys,Chevy Chase,MD,2:59:27,BATTLEY H-D / Localist p/b Cutaway
 33,399746,Connor,Dilger,Iowa City,IA,2:59:27,Above and Beyond Cancer p/b Scheels
 34,403731,Gavin,Murray,Sebastopol,CA,2:59:27,Stork-CCN
@@ -428,7 +428,7 @@ Place,License #,First,Last,City,State,Time,Team
 43,354762,Bryan,Lewis,Charlottesville,VA,2:59:27,UCI CT: Cylance Cycling
 44,332190,Christopher,HarlandDunaway,Berkeley,CA,2:59:32,Herbalife p/b Marc Pro - Nature's Bakery
 45,338924,Nicholas,Torraca,Grapevine,TX,2:59:32,UCI CT: Elevate-KHS Pro Cycling
-46,295785,Colin,Catlin,Arden Hills,MN,2:59:38,Centric Racing p/b Catella
+46,295785,Colin,Catlin,Saint Paul,MN,2:59:38,Centric Racing p/b Catella
 47,433033,Robert,wasch,Wyoming,PA,2:59:38,CS Velo Elite
 48,403696,Tim,Weigelt,Philadelphia,PA,2:59:38,CS Velo Elite
 49,336388,Corey,Davis,Danville,VA,2:59:38,Palmetto State Medical Elite Cycling Team
@@ -449,7 +449,7 @@ Place,License #,First,Last,City,State,Time,Team
 64,373958,Jules,Goguely,Palo Alto,CA,2:59:48,Stork-CCN
 65,379658,Chaz,Hogenauer,Boise,ID,2:59:48,303 Project
 66,303586,Tobin,Ortenblad,Santacruz,CA,2:59:48,Donkey Label
-67,263035,Andrew,Giniat,Winnetka,IL,2:59:48,North Memorial Health p/b Project Echelon
+67,263035,Andrew,Giniat,Asheville,NC,2:59:48,North Memorial Health p/b Project Echelon
 68,443877,Justin,Prior,Woodinville,WA,2:59:48,Support Clean Sport/SeaSucker/Guttenplan Coaching
 69,245537,Anthony,Olson,Boulder,CO,2:59:48,Team Rio Grande
 70,399388,George,Simpson,Fort Collins,CO,2:59:48,Gateway Harley-Davidson Trek U25 Development
@@ -500,7 +500,7 @@ Place,License #,First,Last,City,State,Time,Team
 115,0,Gerardo,Medina Bobles,,,3:26:51,Stork-CCN
 116,481597,Hamish,Beadle,Alpharetta,GA,3:26:51,Team Novo Nordisk Development
 117,535286,Philip,Clarke,Garland,TX,3:38:14,Dallas Racing
-118,211435,Zack,Allison,Fort Collins ,CO,3:29:01,Team Rio Grande
+118,211435,Zack,Allison,Fort Collins,CO,3:29:01,Team Rio Grande
 119,418955,Nicholas,Greeff,Arvada,CO,3:29:01,303 Project
 120,311313,Alec,Guggemos,Saint Paul,MN,3:29:14,North Memorial Health p/b Project Echelon
 121,324184,Franklin,Deese,Greensboro,NC,3:43:51,Cyclus Sports
@@ -509,12 +509,12 @@ Place,License #,First,Last,City,State,Time,Team
 
 06/17/2017 Road Race Women Pro/Cat 1/2 Prt 1
 Place,License #,First,Last,City,State,Time,Team
-1,273081,Ruth,Winder,Lafayette,CA,2:36:23,UnitedHealthcare Pro Cycling*
+1,273081,Ruth,Winder,Boulder,CO,2:36:23,UnitedHealthcare Pro Cycling*
 2,275988,Emma,White,Delanson,NY,2:36:23,Rally Cycling*
 3,533030,Marlies,MejiasGarcia,,PA,2:36:23,UCI CTW: Weber Shimano Ladies Power
 4,353542,Brianna,Walle,Beaverton,OR,2:36:23,Team TIBCO - Silicon Valley Bank*
 5,455794,Rushlee,Buchanan,Asheville,NC,2:36:26,UnitedHealthcare Pro Cycling*
-6,512762,Lily,Williams,Chicago,IL,2:36:26,Chicago Womens Elite Cycling
+6,512762,Lily,Williams,Asheville,NC,2:36:26,Chicago Womens Elite Cycling
 7,418029,Ariane,Bonhomme,,,2:36:26,The Cyclery - 4iiii
 8,418050,Allison,Beveridge,,,2:36:26,Rally Cycling*
 9,289582,Tayler,Wiles,Fairfax,CA,2:36:28,UnitedHealthcare Pro Cycling*
@@ -526,7 +526,7 @@ Place,License #,First,Last,City,State,Time,Team
 15,510315,Sara,Bergen,,,2:36:45,Rally Cycling*
 16,252835,Whitney,Allison,Fort Collins,CO,2:36:45,UCI CTW: Colavita/Bianchi USA
 17,174914,Erica,Allar,Demorest,GA,2:36:57,Rally Cycling*
-18,308334,Heather,Fischer,Del Rio,TX,2:36:57,UCI WPT: Team TIBCO-Silicon Valley Bank
+18,308334,Heather,Fischer,Boulder,CO,2:36:57,UCI WPT: Team TIBCO-Silicon Valley Bank
 19,499797,Danielle,Morshead,San Anselmo,CA,2:36:57,Team ERRACE
 20,392698,Irena,Ossola,Santa Fe,NM,2:36:57,North Memorial Healthcare
 21,328844,Katharine,Hall,Oakland,CA,2:36:57,UnitedHealthcare Pro Cycling*
@@ -541,7 +541,7 @@ Place,License #,First,Last,City,State,Time,Team
 30,0,Rocio,Parrado,,,2:37:24,UCI CTW: Weber Shimano Ladies Power
 31,0,Holly,Edmondston,,,2:37:32,Cycling New Zealand
 32,439071,Diana,Penuela,Garland,TX,2:38:04,UnitedHealthcare Pro Cycling*
-33,358569,Janelle,Cole,Rockford,MI,2:38:04,UnitedHealthcare Pro Cycling*
+33,358569,Janelle,Cole,Newaygo,MI,2:38:04,UnitedHealthcare Pro Cycling*
 34,206044,Amber,Pierce,Mansfield Center,CT,2:38:04,UCI CTW: Colavita/Bianchi USA
 35,467180,Carlyn,Jackson,Minneapolis,MN,2:38:20,Orion Racing p/b K'ul Chocolate
 36,362328,Beth Ann,Orton,Bend,OR,2:38:40,North Memorial Healthcare
@@ -549,7 +549,7 @@ Place,License #,First,Last,City,State,Time,Team
 38,353750,Anna,Christiansen,Portland,OR,2:39:33,LA Sweat
 39,516158,Marie-Soleil,Blais,,,2:39:34,North Memorial Healthcare
 40,292211,Jennifer,Tetrick,Sausalito,CA,2:39:43,UCI WPT: Team TIBCO-Silicon Valley Bank
-41,186919,Kendall,Ryan,Ventura,CA,2:39:43,UCI WPT: Team TIBCO-Silicon Valley Bank
+41,186919,Kendall,Ryan,Camarillo,CA,2:39:43,UCI WPT: Team TIBCO-Silicon Valley Bank
 42,528512,Madeleine,Park,Denville,NJ,2:39:43,UCI WPT: Team TIBCO-Silicon Valley Bank
 43,185507,Heather,Haviland,Waukesha,WI,2:39:43,Chicago Womens Elite Cycling
 44,508146,Kendelle,Hodges,Lambertville,NJ,2:39:43,UCI CTW: Colavita/Bianchi USA
@@ -567,7 +567,7 @@ Place,License #,First,Last,City,State,Time,Team
 56,541527,Alijah,Beatty,Washington,IA,2:42:10,Orion Racing p/b K'ul Chocolate
 57,533046,Jessenia,Meneses,,,2:42:12,UCI CTW: Weber Shimano Ladies Power
 58,533051,Maria,Fadiga,,PA,2:42:12,UCI CTW: Weber Shimano Ladies Power
-59,441168,Jenna,Stauffer,Highlands Ranch ,CO,2:44:53,Orion Racing p/b K'ul Chocolate
+59,441168,Jenna,Stauffer,Highlands Ranch,CO,2:44:53,Orion Racing p/b K'ul Chocolate
 60,0,Emily,Flynn,,,2:44:53,The Cyclery - 4iiii
 61,466411,Rachel,McKinnon,Charleston,SC,2:44:53,Foxy Moxy
 62,316704,Rachel,Wills,Wilmette,IL,2:44:53,Chicago Womens Elite Cycling
@@ -590,12 +590,12 @@ Place,License #,First,Last,City,State,Time,Team
 7,502802,Ayden,Toovey,,,1:17:45,UCI CT: NSW Institute of Sport
 8,331782,Tony,Baca,Austin,TX,1:17:45,ELBOWZ Racing p/b Synergy.O*
 9,237712,Samuel,Bassetti,Santa Rosa,CA,1:17:45,Herbalife p/b Marc Pro - Nature' Bakery*
-10,263035,Andrew,Giniat,Winnetka,IL,1:17:45,North Memorial Health p/b Project Echelon
-11,342402,Kevin,Girkins,Austin,TX,1:17:45,ELBOWZ Racing p/b Synergy.O*
+10,263035,Andrew,Giniat,Asheville,NC,1:17:45,North Memorial Health p/b Project Echelon
+11,342402,Kevin,Girkins,San Marcos,TX,1:17:45,ELBOWZ Racing p/b Synergy.O*
 12,178970,Mat,Stephens,Dallas,TX,1:17:45,Arapahoe Resources / Garneau
 13,292378,Colin,Joyce,Pocatello,ID,1:17:45,UCI CT: Rally Cycling
 14,215644,Quinten,Kirby,San Diego,CA,1:17:45,Support Clean Sport/SeaSucker/Guttenplan Coaching
-15,185493,Peter,Olejniczak,Roseville,MN,1:17:45,Borah Factory Racing
+15,185493,Peter,Olejniczak,Minneapolis,MN,1:17:45,Borah Factory Racing
 16,220775,Thomas,Soladay,Minnetonka,MN,1:17:45,UCI CT: Rally Cycling
 17,399746,Connor,Dilger,Iowa City,IA,1:17:45,Above and Beyond Cancer p/b Scheels
 18,319002,Innokenty,Zavyalov,San Marcos,CA,1:17:45,UCI CT: Elevate-KHS Pro Cycling
@@ -634,7 +634,7 @@ Place,License #,First,Last,City,State,Time,Team
 51,430695,John,Heinlein III,Stillwater,MN,1:17:45,North Memorial Health p/b Project Echelon
 52,269412,Adam,Koble,Tulsa,OK,1:17:45,Oklahoma Bicycle Project
 53,309396,Stephan,Hoffman,Soquel,CA,1:17:45,Donkey Label
-54,456576,Samuel,Boardman,Washington,CA,1:17:45,Herbalife p/b Marc Pro - Nature's Bakery
+54,456576,Samuel,Boardman,Los Angeles,CA,1:17:45,Herbalife p/b Marc Pro - Nature's Bakery
 55,299155,Ryan,O'Boyle,Shorewood,IL,1:17:45,xXx Racing
 56,245537,Anthony,Olson,Boulder,CO,1:17:45,Team Rio Grande
 57,0,Dylan,Sunderland,,,1:17:45,UCI CT: NSW Institute of Sport
@@ -672,12 +672,12 @@ Place,License #,First,Last,City,State,Time,Team
 89,382065,David,Greif,Tucson,AZ,1:18:12,North Memorial Health p/b Project Echelon
 90,472870,Julio,Padilla,,,1:18:12,Arapahoe Resources / Garneau
 91,325930,Jefferey,May,Greenville,TX,1:18:12,Dallas Racing
-92,256955,Evan,Huffman,El Dorado Hills,CA,1:18:12,UCI CT: Rally Cycling
+92,256955,Evan,Huffman,Sacramento,CA,1:18:12,UCI CT: Rally Cycling
 93,299287,Thorsten,Askervold,Mill Creek,WA,1:18:12,Stork-CCN
 94,233166,Jonathan,Toftoy,Eden Prairie,MN,1:18:17,Donkey Label
 95,445034,Orlando,Garibay,,,1:18:17,Cylance Cycling*
 96,243156,Levon,Kalemkiarian,Stillwater,MN,1:18:17,Donkey Label
-97,295785,Colin,Catlin,Arden Hills,MN,1:18:17,Centric Racing p/b Catella
+97,295785,Colin,Catlin,Saint Paul,MN,1:18:17,Centric Racing p/b Catella
 98,0,Gerardo,Medina Bobles,,,1:18:17,Stork-CCN
 99,403731,Gavin,Murray,Sebastopol,CA,1:18:17,Stork-CCN
 100,263324,Parker,Kyzer,Spartanburg,SC,1:18:17,Palmetto State Medical Elite Cycling Team
@@ -686,7 +686,7 @@ Place,License #,First,Last,City,State,Time,Team
 103,529695,Brian,Babilonia,Garland,TX,1:18:17,Dallas Racing
 104,531042,Ryan,Cavanaugh,,,1:18:17,UCI CT: NSW Institute of Sport
 105,379489,William,Cooper,Pittsburgh,PA,1:18:20,CS Velo Elite
-106,211435,Zack,Allison,Fort Collins ,CO,1:18:20,Team Rio Grande
+106,211435,Zack,Allison,Fort Collins,CO,1:18:20,Team Rio Grande
 107,202401,Brett,Rindt,Fort Collins,CO,1:18:23,Team Rio Grande
 108,526739,Callum,Gordon,,,1:18:23,Centric Racing p/b Catella
 109,209784,Randy,Reichardt,Des Moines,IA,1:18:23,Above and Beyond Cancer p/b Scheels
@@ -712,10 +712,10 @@ Place,License #,First,Last,City,State,Time,Team
 2,418050,Allison,Beveridge,,,0:54:23,Rally Cycling*
 3,282412,Ellen,Noble,Kennebunkport,ME,0:54:23,Colavita/Bianchi USA*
 4,275988,Emma,White,Delanson,NY,0:54:23,Rally Cycling*
-5,186919,Kendall,Ryan,Ventura,CA,0:54:23,Team TIBCO - Silicon Valley Bank*
+5,186919,Kendall,Ryan,Camarillo,CA,0:54:23,Team TIBCO - Silicon Valley Bank*
 6,510315,Sara,Bergen,,,0:54:23,Rally Cycling*
 7,475319,Holly,Edmondston,,,0:54:23,Cycling New Zealand
-8,273081,Ruth,Winder,Lafayette,CA,0:54:23,UnitedHealthcare Pro Cycling*
+8,273081,Ruth,Winder,Boulder,CO,0:54:23,UnitedHealthcare Pro Cycling*
 9,174914,Erica,Allar,Demorest,GA,0:54:23,Rally Cycling*
 10,439071,Diana,Penuela,Garland,TX,0:54:23,UnitedHealthcare Pro Cycling*
 11,394701,Kimberly,Lucie,Tucson,AZ,0:54:23,LA Sweat
@@ -723,7 +723,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,473503,Carrie,Cartmill,,,0:54:23,Rise Racing
 14,353542,Brianna,Walle,Beaverton,OR,0:54:23,UCI WPT: Team TIBCO-Silicon Valley Bank
 15,0,Jessica,Mundy,,,0:54:23,Colavita/Bianchi USA*
-16,358569,Janelle,Cole,Rockford,MI,0:54:23,UCI WPT: UnitedHealthcare Pro Cycling
+16,358569,Janelle,Cole,Newaygo,MI,0:54:23,UCI WPT: UnitedHealthcare Pro Cycling
 17,455794,Rushlee,Buchanan,Asheville,NC,0:54:23,UCI WPT: UnitedHealthcare Pro Cycling
 18,289582,Tayler,Wiles,Fairfax,CA,0:54:23,UCI WPT: UnitedHealthcare Pro Cycling
 19,362328,Beth Ann,Orton,Bend,OR,0:54:23,North Memorial Healthcare
@@ -740,7 +740,7 @@ Place,License #,First,Last,City,State,Time,Team
 30,353750,Anna,Christiansen,Portland,OR,0:54:23,LA Sweat
 31,499797,Danielle,Morshead,San Anselmo,CA,0:54:23,Team ERRACE
 32,0,Ariane,Bonhomme,,,0:54:23,The Cyclery - 4iiii
-33,512762,Lily,Williams,Chicago,IL,0:54:23,Chicago Womens Elite Cycling
+33,512762,Lily,Williams,Asheville,NC,0:54:23,Chicago Womens Elite Cycling
 34,0,Racquel,Sheath,,,0:54:23,Cycling New Zealand
 35,541527,Alijah,Beatty,Washington,IA,0:54:23,Orion Racing p/b K'ul Chocolate
 36,528512,Madeleine,Park,Denville,NJ,0:54:23,UCI WPT: Team TIBCO-Silicon Valley Bank
@@ -757,7 +757,7 @@ Place,License #,First,Last,City,State,Time,Team
 47,424919,Ayesha,McGowan,El Sobrante,CA,0:54:23,JAKROO p/b Chrome Industries
 48,206044,Amber,Pierce,Mansfield Center,CT,0:54:23,Colavita/Bianchi USA*
 49,485546,Emily,Jordan,Denver,CO,0:54:23,Orion Racing p/b K'ul Chocolate
-50,308334,Heather,Fischer,Del Rio,TX,0:54:23,UCI WPT: Team TIBCO-Silicon Valley Bank
+50,308334,Heather,Fischer,Boulder,CO,0:54:23,UCI WPT: Team TIBCO-Silicon Valley Bank
 51,382212,Tarah,Cole,Bethel,OH,0:54:23,Orion Racing p/b K'ul Chocolate
 52,345626,Jennifer,Hale,Saint Paul,MN,0:54:23,North Memorial Healthcare
 53,481904,Emma,Grant,Norwich,VT,0:54:23,Colavita/Bianchi USA*
@@ -774,7 +774,7 @@ Place,License #,First,Last,City,State,Time,Team
 64,0,Emily,Flynn,,,0:56:58,The Cyclery - 4iiii
 65,467180,Carlyn,Jackson,Minneapolis,MN,0:57:35,Orion Racing p/b K'ul Chocolate
 66,532361,Bryony,Botha,,,0:57:35,Cycling New Zealand
-67,441168,Jenna,Stauffer,Highlands Ranch ,CO,0:58:16,Orion Racing p/b K'ul Chocolate
+67,441168,Jenna,Stauffer,Highlands Ranch,CO,0:58:16,Orion Racing p/b K'ul Chocolate
 68,532386,Kirstie,James,,,0:58:16,Cycling New Zealand
 69,0,Amelie,Bruneau,,,0:58:55,The Cyclery - 4iiii
 
@@ -795,7 +795,7 @@ Place,License #,First,Last,City,State,Time,Team
 13,275694,Brandon,McNulty,Phoenix,AZ,3:19:41,Rally Cycling*
 14,380188,Matt,McLoone,Washington,DC,3:19:41,BATTLEY H-D / Localist p/b Cutaway
 15,237712,Samuel,Bassetti,Santa Rosa,CA,3:19:41,Herbalife p/b Marc Pro - Nature's Bakery
-16,342402,Kevin,Girkins,Austin,TX,3:19:41,ELBOWZ Racing
+16,342402,Kevin,Girkins,San Marcos,TX,3:19:41,ELBOWZ Racing
 17,243416,MacKenzie,Brennan,Greenville,SC,3:19:41,Holowesko | Citadel p/b Hincapie Sportswear*
 18,428009,Sam,Fritz,Princeton,MN,3:19:41,Above and Beyond Cancer p/b Scheels
 19,425382,Austin,Stephens,Huntington Beach,CA,3:19:41,303 Project
@@ -811,12 +811,12 @@ Place,License #,First,Last,City,State,Time,Team
 29,282640,Brendan,Rhim,Greenville,SC,3:19:41,Holowesko | Citadel p/b Hincapie Sportswear*
 30,263324,Parker,Kyzer,Spartanburg,SC,3:19:41,Palmetto State Medical Elite Cycling Team
 31,232232,Brandon,Krawczyk,Saint Paul,MN,3:19:41,Borah Factory Racing
-32,185493,Peter,Olejniczak,Roseville,MN,3:19:41,Borah Factory Racing
+32,185493,Peter,Olejniczak,Minneapolis,MN,3:19:41,Borah Factory Racing
 33,215644,Quinten,Kirby,San Diego,CA,3:19:41,Support Clean Sport/SeaSucker/Guttenplan Coaching
 34,236923,Connor,Brown,Grandview,MO,3:19:41,Elevate - KHS Pro Cycling*
 35,470657,Sait,Arana,Silver Spring,MD,3:19:41,Support Clean Sport/SeaSucker/Guttenplan Coaching
 36,303586,Tobin,Ortenblad,Santacruz,CA,3:19:41,Donkey Label
-37,256955,Evan,Huffman,El Dorado Hills,CA,3:19:41,Rally Cycling*
+37,256955,Evan,Huffman,Sacramento,CA,3:19:41,Rally Cycling*
 38,219434,Justin,Mauch,Sterling,VA,3:19:41,Herbalife p/b Marc Pro - Nature's Bakery
 39,379658,Chaz,Hogenauer,Boise,ID,3:19:41,303 Project
 40,311386,Maxwell,Ackermann,Madison,WI,3:19:41,Gateway Harley-Davidson Trek U25 Development
@@ -827,11 +827,11 @@ Place,License #,First,Last,City,State,Time,Team
 45,194743,Winston,David,Greenville,SC,3:19:41,Palmetto State Medical Elite Cycling Team
 46,303319,Maxx,Chance,Boulder,CO,3:19:41,303 Project
 47,388008,Hugo,Scala Jr,Dallas,TX,3:19:41,Dallas Racing
-48,263035,Andrew,Giniat,Winnetka,IL,3:19:41,North Memorial Health p/b Project Echelon
+48,263035,Andrew,Giniat,Asheville,NC,3:19:41,North Memorial Health p/b Project Echelon
 49,267850,Zachary,Nehr,Fox Point,WI,3:19:41,Stork-CCN
 50,403731,Gavin,Murray,Sebastopol,CA,3:19:41,Stork-CCN
 51,205741,Stefan,Rothe,Austin,TX,3:19:41,ELBOWZ Racing
-52,456576,Samuel,Boardman,Washington,CA,3:19:41,Herbalife p/b Marc Pro - Nature's Bakery
+52,456576,Samuel,Boardman,Los Angeles,CA,3:19:41,Herbalife p/b Marc Pro - Nature's Bakery
 53,441096,Thomas,Humphreys,Chevy Chase,MD,3:19:41,BATTLEY H-D / Localist p/b Cutaway
 54,318896,Micah,Engle,Dillsburg,PA,3:19:41,Gateway Harley-Davidson Trek U25 Development
 55,245537,Anthony,Olson,Boulder,CO,3:19:41,Team Rio Grande
@@ -852,7 +852,7 @@ Place,License #,First,Last,City,State,Time,Team
 70,188572,Andrew,Dahlheim,Greenville,SC,3:19:41,Arapahoe Resources / Garneau
 71,420701,Vitor,Zucco Schizzi,Irving,TX,3:19:41,ELBOWZ Racing
 72,403657,Cristhian,Ravelo,Avon,CO,3:19:41,303 Project
-73,295785,Colin,Catlin,Arden Hills,MN,3:19:41,Centric Racing p/b Catella
+73,295785,Colin,Catlin,Saint Paul,MN,3:19:41,Centric Racing p/b Catella
 74,169774,Brian,McCulloch,Yucaipa,CA,3:19:41,Elevate - KHS Pro Cycling*
 75,433033,Robert,wasch,Wyoming,PA,3:20:04,CS Velo Elite
 76,218355,Samuel (Hunter),Snipe Grove,Pomona,CA,3:20:12,UCI CT: Cylance Cycling
@@ -893,7 +893,7 @@ Place,License #,First,Last,City,State,Time,Team
 111,424384,Dennis,Ramirez,Barnhart,MO,3:27:14,Gateway Harley-Davidson Trek U25 Development
 112,238136,Kyle,Anderson,Wichita Falls,TX,3:31:14,BATTLEY H-D / Localist p/b Cutaway
 113,265398,Logan,Phippen,Athens,GA,3:40:41,Team Novo Nordisk Development
-114,211435,Zack,Allison,Fort Collins ,CO,3:40:41,Team Rio Grande
+114,211435,Zack,Allison,Fort Collins,CO,3:40:41,Team Rio Grande
 115,251907,Sean,Mailen,Minneapolis,MN,3:45:11,Borah Factory Racing
 116,403696,Tim,Weigelt,Philadelphia,PA,3:48:43,CS Velo Elite
 117,0,Gerardo,Medina Bobles,,,3:48:43,Stork-CCN
@@ -908,10 +908,10 @@ Place,License #,First,Last,City,State,Time,Team
 
 06/15/2017 Road Race Women Pro/Cat 1/2 Prt 1
 Place,License #,First,Last,City,State,Time,Team
-1,273081,Ruth,Winder,Lafayette,CA,2:53:42,UnitedHealthcare Pro Cycling*
+1,273081,Ruth,Winder,Boulder,CO,2:53:42,UnitedHealthcare Pro Cycling*
 2,533030,Marlies,MejiasGarcia,,PA,2:53:42,UCI CTW: Weber Shimano Ladies Power
 3,275988,Emma,White,Delanson,NY,2:53:42,Rally Cycling*
-4,186919,Kendall,Ryan,Ventura,CA,2:53:42,Team TIBCO - Silicon Valley Bank*
+4,186919,Kendall,Ryan,Camarillo,CA,2:53:42,Team TIBCO - Silicon Valley Bank*
 5,353542,Brianna,Walle,Beaverton,OR,2:53:44,Team TIBCO - Silicon Valley Bank*
 6,392698,Irena,Ossola,Santa Fe,NM,2:53:46,North Memorial Healthcare
 7,531310,Ashlee,Ankudinoff,,,2:53:46,North Memorial Healthcare
@@ -922,10 +922,10 @@ Place,License #,First,Last,City,State,Time,Team
 12,174914,Erica,Allar,Demorest,GA,2:53:46,Rally Cycling*
 13,417020,Stephanie,Roorda,,,2:53:46,The Cyclery - 4iiii
 14,481904,Emma,Grant,Norwich,VT,2:53:46,UCI CTW: Colavita/Bianchi USA
-15,358569,Janelle,Cole,Rockford,MI,2:53:46,UnitedHealthcare Pro Cycling*
+15,358569,Janelle,Cole,Newaygo,MI,2:53:46,UnitedHealthcare Pro Cycling*
 16,252835,Whitney,Allison,Fort Collins,CO,2:53:46,UCI CTW: Colavita/Bianchi USA
 17,0,Ariane,Bonhomme,,,2:53:46,The Cyclery - 4iiii
-18,512762,Lily,Williams,Chicago,IL,2:53:46,Chicago Womens Elite Cycling
+18,512762,Lily,Williams,Asheville,NC,2:53:46,Chicago Womens Elite Cycling
 19,289582,Tayler,Wiles,Fairfax,CA,2:53:46,UnitedHealthcare Pro Cycling*
 20,0,Holly,Edmondston,,,2:53:54,Cycling New Zealand
 21,516158,Marie-Soleil,Blais,,,2:53:56,North Memorial Healthcare
@@ -962,7 +962,7 @@ Place,License #,First,Last,City,State,Time,Team
 52,366797,Caitlin,Laroche,Manitou Springs,CO,2:55:35,Rally Cycling*
 53,328844,Katharine,Hall,Oakland,CA,2:55:35,UnitedHealthcare Pro Cycling*
 54,533046,Jessenia,Meneses,,,2:55:49,UCI CTW: Weber Shimano Ladies Power
-55,308334,Heather,Fischer,Del Rio,TX,2:56:01,UCI WPT: Team TIBCO-Silicon Valley Bank
+55,308334,Heather,Fischer,Boulder,CO,2:56:01,UCI WPT: Team TIBCO-Silicon Valley Bank
 56,407338,Emily,Houtchens,Malvern,IA,2:56:27,Orion Racing p/b K'ul Chocolate
 57,532386,Kirstie,James,,,3:17:25,Cycling New Zealand
 58,532361,Bryony,Botha,,,3:17:25,Cycling New Zealand
@@ -971,7 +971,7 @@ Place,License #,First,Last,City,State,Time,Team
 61,316704,Rachel,Wills,Wilmette,IL,3:17:25,Chicago Womens Elite Cycling
 62,0,Emma,Roberts,,,3:17:25,North Memorial Healthcare
 63,406781,Christine,Thornburg,Lincolnshire,IL,3:17:25,Chicago Womens Elite Cycling
-64,441168,Jenna,Stauffer,Highlands Ranch ,CO,3:17:25,Orion Racing p/b K'ul Chocolate
+64,441168,Jenna,Stauffer,Highlands Ranch,CO,3:17:25,Orion Racing p/b K'ul Chocolate
 65,508146,Kendelle,Hodges,Lambertville,NJ,3:17:25,UCI CTW: Colavita/Bianchi USA
 66,0,Amelie,Bruneau,,,3:17:25,The Cyclery - 4iiii
 67,466411,Rachel,McKinnon,Charleston,SC,3:33:00,Foxy Moxy
@@ -1009,22 +1009,22 @@ Place,License #,First,Last,City,State,Time,Team
 24,263324,Parker,Kyzer,Spartanburg,SC,1:23:22,Palmetto State Medical Elite Cycling Team
 25,243416,MacKenzie,Brennan,Greenville,SC,1:23:22,UCI CT: Holowesko | Citadel Racing Team p/b Hincapie Racing
 26,533903,Dylan,Sunderland,,,1:23:22,UCI CT: NSW Institute of Sport
-27,263035,Andrew,Giniat,Winnetka,IL,1:23:22,North Memorial Health p/b Project Echelon
+27,263035,Andrew,Giniat,Asheville,NC,1:23:22,North Memorial Health p/b Project Echelon
 28,470657,Sait,Arana,Silver Spring,MD,1:23:22,Support Clean Sport/SeaSucker/Guttenplan Coaching
 29,502802,Ayden,Toovey,,,1:23:22,UCI CT: NSW Institute of Sport
-30,185493,Peter,Olejniczak,Roseville,MN,1:23:22,Borah Factory Racing
+30,185493,Peter,Olejniczak,Minneapolis,MN,1:23:22,Borah Factory Racing
 31,373958,Jules,Goguely,Palo Alto,CA,1:23:22,Stork-CCN
 32,382065,David,Greif,Tucson,AZ,1:23:22,North Memorial Health p/b Project Echelon
 33,194743,Winston,David,Greenville,SC,1:23:22,Palmetto State Medical Elite Cycling Team
 34,306291,Johnny,Mitchell,Johnson City,TN,1:23:22,Palmetto State Medical Elite Cycling Team
 35,292378,Colin,Joyce,Pocatello,ID,1:23:22,UCI CT: Rally Cycling
-36,342402,Kevin,Girkins,Austin,TX,1:23:22,ELBOWZ Racing
+36,342402,Kevin,Girkins,San Marcos,TX,1:23:22,ELBOWZ Racing
 37,319002,Innokenty,Zavyalov,San Marcos,CA,1:23:22,UCI CT: Elevate-KHS Pro Cycling
 38,219225,Evan,Hartig,Dubuque,IA,1:23:22,Borah Factory Racing
 39,232232,Brandon,Krawczyk,Saint Paul,MN,1:23:22,Borah Factory Racing
 40,297555,Christopher,Meacham,Mooresville,NC,1:23:22,Palmetto State Medical Elite Cycling Team
 41,240153,Glenn,Ferreira,Manville,NJ,1:23:22,BATTLEY H-D / Localist p/b Cutaway
-42,456576,Samuel,Boardman,Washington,CA,1:23:22,Herbalife p/b Marc Pro - Nature's Bakery
+42,456576,Samuel,Boardman,Los Angeles,CA,1:23:22,Herbalife p/b Marc Pro - Nature's Bakery
 43,219434,Justin,Mauch,Sterling,VA,1:23:22,Herbalife p/b Marc Pro - Nature's Bakery
 44,526739,Callum,Gordon,,,1:23:22,Centric Racing p/b Catella
 45,299155,Ryan,O'Boyle,Shorewood,IL,1:23:22,xXx Racing
@@ -1059,8 +1059,8 @@ Place,License #,First,Last,City,State,Time,Team
 74,533833,Liam,Magennis,,,1:23:22,UCI CT: NSW Institute of Sport
 75,498925,Liam,White,,,1:23:22,xXx Racing
 76,254728,Austin,Arguello,Beaverton,OR,1:23:22,Support Clean Sport/SeaSucker/Guttenplan Coaching
-77,295785,Colin,Catlin,Arden Hills,MN,1:23:22,Centric Racing p/b Catella
-78,256955,Evan,Huffman,El Dorado Hills,CA,1:23:22,UCI CT: Rally Cycling
+77,295785,Colin,Catlin,Saint Paul,MN,1:23:22,Centric Racing p/b Catella
+78,256955,Evan,Huffman,Sacramento,CA,1:23:22,UCI CT: Rally Cycling
 79,218355,Samuel (Hunter),Snipe Grove,Pomona,CA,1:23:22,UCI CT: Cylance Cycling
 80,0,Stuart,Shaw,,,1:23:22,UCI CT: NSW Institute of Sport
 81,205741,Stefan,Rothe,Austin,TX,1:23:22,ELBOWZ Racing
@@ -1105,7 +1105,7 @@ Place,License #,First,Last,City,State,Time,Team
 120,0,Gerardo,Medina Bobles,,,1:23:22,Stork-CCN
 121,406220,Bjorn,Larson,Duluth,MN,1:23:22,Centric Racing p/b Catella
 122,202401,Brett,Rindt,Fort Collins,CO,1:23:22,Team Rio Grande
-123,211435,Zack,Allison,Fort Collins ,CO,1:23:22,Team Rio Grande
+123,211435,Zack,Allison,Fort Collins,CO,1:23:22,Team Rio Grande
 124,245537,Anthony,Olson,Boulder,CO,1:23:22,Team Rio Grande
 125,271420,Dean,Haas,Lakewood,CO,1:23:22,Team Rio Grande
 126,374170,Nate,Taggatz,Fort Collins,CO,1:23:22,Team Rio Grande
@@ -1122,7 +1122,7 @@ Place,License #,First,Last,City,State,Time,Team
 137,330644,Chris,Young,Chicago,IL,1:23:51,xXx Racing
 138,193722,Alexander,Meyer,Minneapolis,MN,1:24:14,Donkey Label
 139,299287,Thorsten,Askervold,Mill Creek,WA,1:24:58,Stork-CCN
-140,299251,Justin,McQuerry,Athens,GA,1:24:58,Team Novo Nordisk Development
+140,299251,Justin,McQuerry,Austin,TX,1:24:58,Team Novo Nordisk Development
 141,480001,Caleb,Aoake,Alpharetta,GA,1:24:09,Team Novo Nordisk Development
 142,371826,Timothy,Savre,Glencoe,MN,1:24:14,North Memorial Health p/b Project Echelon
 143,481597,Hamish,Beadle,Alpharetta,GA,1:27:45,Team Novo Nordisk Development
@@ -1135,7 +1135,7 @@ Place,License #,First,Last,City,State,Time,Team
 1,275988,Emma,White,Delanson,NY,0:56:46,Rally Cycling*
 2,533030,Marlies,MejiasGarcia,,PA,0:56:46,UCI CTW: Weber Shimano Ladies Power
 3,282412,Ellen,Noble,Kennebunkport,ME,0:56:46,Colavita/Bianchi USA*
-4,186919,Kendall,Ryan,Ventura,CA,0:56:46,Team TIBCO - Silicon Valley Bank*
+4,186919,Kendall,Ryan,Camarillo,CA,0:56:46,Team TIBCO - Silicon Valley Bank*
 5,174914,Erica,Allar,Demorest,GA,0:56:46,Rally Cycling*
 6,392698,Irena,Ossola,Santa Fe,NM,0:56:46,North Memorial Healthcare
 7,418050,Allison,Beveridge,,,0:56:46,Rally Cycling*
@@ -1143,7 +1143,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,394701,Kimberly,Lucie,Tucson,AZ,0:56:46,LA Sweat*
 10,473503,Carrie,Cartmill,,,0:56:46,Rise Racing
 11,395081,Brenna,Wrye-Simpson,Portland,OR,0:56:46,LA Sweat
-12,512762,Lily,Williams,Chicago,IL,0:56:46,Chicago Womens Elite Cycling
+12,512762,Lily,Williams,Asheville,NC,0:56:46,Chicago Womens Elite Cycling
 13,362328,Beth Ann,Orton,Bend,OR,0:56:46,North Memorial Healthcare
 14,353542,Brianna,Walle,Beaverton,OR,0:56:46,UCI WPT: Team TIBCO-Silicon Valley Bank
 15,533047,Camila,Valbuena,,PA,0:56:46,UCI CTW: Weber Shimano Ladies Power
@@ -1164,7 +1164,7 @@ Place,License #,First,Last,City,State,Time,Team
 30,252835,Whitney,Allison,Fort Collins,CO,0:56:46,Colavita/Bianchi USA*
 31,289582,Tayler,Wiles,Fairfax,CA,0:56:46,UCI WPT: UnitedHealthcare Pro Cycling
 32,533051,Maria,Fadiga,,PA,0:56:46,UCI CTW: Weber Shimano Ladies Power
-33,358569,Janelle,Cole,Rockford,MI,0:56:46,UCI WPT: UnitedHealthcare Pro Cycling
+33,358569,Janelle,Cole,Newaygo,MI,0:56:46,UCI WPT: UnitedHealthcare Pro Cycling
 34,532362,Elyse,Fraser,,,0:56:46,Cycling New Zealand
 35,528512,Madeleine,Park,Denville,NJ,0:56:46,UCI WPT: Team TIBCO-Silicon Valley Bank
 36,531310,Ashlee,Ankudinoff,,,0:56:46,North Memorial Healthcare
@@ -1175,7 +1175,7 @@ Place,License #,First,Last,City,State,Time,Team
 41,466699,Catherine,Ouellette,Saint-lambert,QC,0:56:46,The Cyclery - 4iiii
 42,502931,Katherine,Maine,,,0:56:46,Rally Cycling*
 43,353750,Anna,Christiansen,Portland,OR,0:56:46,LA Sweat
-44,308334,Heather,Fischer,Del Rio,TX,0:56:46,UCI WPT: Team TIBCO-Silicon Valley Bank
+44,308334,Heather,Fischer,Boulder,CO,0:56:46,UCI WPT: Team TIBCO-Silicon Valley Bank
 45,211756,Carol,Seipp,Eagan,MN,0:56:46,Orion Racing p/b K'ul Chocolate
 46,424919,Ayesha,McGowan,El Sobrante,CA,0:56:46,JAKROO p/b Chrome Industries
 47,185507,Heather,Haviland,Waukesha,WI,0:56:46,Chicago Womens Elite Cycling
@@ -1197,7 +1197,7 @@ Place,License #,First,Last,City,State,Time,Team
 63,397071,Erin,Goodall,Portland,OR,0:56:46,LA Sweat
 64,0,Emily,Flynn,,,0:57:31,The Cyclery - 4iiii
 65,0,Suzanne,Hamilton,,,0:57:31,The Cyclery - 4iiii
-66,441168,Jenna,Stauffer,Highlands Ranch ,CO,0:57:31,Orion Racing p/b K'ul Chocolate
+66,441168,Jenna,Stauffer,Highlands Ranch,CO,0:57:31,Orion Racing p/b K'ul Chocolate
 67,466411,Rachel,McKinnon,Charleston,SC,0:57:45,Foxy Moxy
 68,0,Emma,Roberts,,,0:57:48,North Memorial Healthcare
 69,532361,Bryony,Botha,,,0:58:23,Cycling New Zealand
@@ -1207,13 +1207,13 @@ Place,License #,First,Last,City,State,Time,Team
 73,292211,Jennifer,Tetrick,Sausalito,CA,0:56:46,UCI WPT: Team TIBCO-Silicon Valley Bank
 74,455794,Rushlee,Buchanan,Asheville,NC,0:56:46,UCI WPT: UnitedHealthcare Pro Cycling
 75,328844,Katharine,Hall,Oakland,CA,0:56:46,UCI WPT: UnitedHealthcare Pro Cycling
-76,273081,Ruth,Winder,Lafayette,CA,0:56:46,UCI WPT: UnitedHealthcare Pro Cycling
+76,273081,Ruth,Winder,Boulder,CO,0:56:46,UCI WPT: UnitedHealthcare Pro Cycling
 77,532386,Kirstie,James,,,1:00:33,Cycling New Zealand
 
 06/14/2017 Time Trial Men Pro/Cat 1 Prt 1
 Place,License #,First,Last,City,State,Time,Team
 1,275694,Brandon,McNulty,Phoenix,AZ,0:09:16.820,Rally Cycling*
-2,256955,Evan,Huffman,El Dorado Hills,CA,0:09:23.740,Rally Cycling*
+2,256955,Evan,Huffman,Sacramento,CA,0:09:23.740,Rally Cycling*
 3,437845,Bryan,Gomez,New York,NY,0:09:27.760,Gateway Harley-Davidson Trek U25 Development Team*
 4,243416,MacKenzie,Brennan,Greenville,SC,0:09:27.780,Holowesko | Citadel p/b Hincapie Sportswear*
 5,292378,Colin,Joyce,Pocatello,ID,0:09:30.900,Rally Cycling*
@@ -1227,8 +1227,8 @@ Place,License #,First,Last,City,State,Time,Team
 13,219434,Justin,Mauch,Sterling,VA,0:09:43.630,Herbalife p/b Marc Pro - Nature's Bakery
 14,354762,Bryan,Lewis,Charlottesville,VA,0:09:43.800,UCI CT: Cylance Cycling
 15,282640,Brendan,Rhim,Greenville,SC,0:09:44.820,UCI CT: Holowesko | Citadel Racing Team p/b Hincapie Racing
-16,456576,Samuel,Boardman,Washington,CA,0:09:46.600,Herbalife p/b Marc Pro - Nature's Bakery
-17,342402,Kevin,Girkins,Austin,TX,0:09:47.140,ELBOWZ Racing
+16,456576,Samuel,Boardman,Los Angeles,CA,0:09:46.600,Herbalife p/b Marc Pro - Nature's Bakery
+17,342402,Kevin,Girkins,San Marcos,TX,0:09:47.140,ELBOWZ Racing
 18,189118,Morgan,Schmitt,Seattle,WA,0:09:47.330,Arapahoe Resources / Garneau
 19,236923,Connor,Brown,Grandview,MO,0:09:47.680,UCI CT: Elevate-KHS Pro Cycling
 20,73305,Danny,Pate,Colorado Springs,CO,0:09:48.510,Rally Cycling*
@@ -1245,13 +1245,13 @@ Place,License #,First,Last,City,State,Time,Team
 31,420701,Vitor,Zucco Schizzi,Irving,TX,0:10:03.120,ELBOWZ Racing
 32,320582,Matthew,Zimmer,Dewitt ,IA,0:10:03.910,Gateway Harley-Davidson Trek U25 Development Team*
 33,380188,Matt,McLoone,Washington,DC,0:10:04.510,BATTLEY H-D / Localist p/b Cutaway
-34,211435,Zack,Allison,Fort Collins ,CO,0:10:06.170,Team Rio Grande
+34,211435,Zack,Allison,Fort Collins,CO,0:10:06.170,Team Rio Grande
 35,433033,Robert,wasch,Wyoming,PA,0:10:07.170,CS Velo Elite
 36,336388,Corey,Davis,Danville,VA,0:10:07.510,Palmetto State Medical Elite Cycling Team
-37,295785,Colin,Catlin,Arden Hills,MN,0:10:07.610,Centric Racing p/b Catella
+37,295785,Colin,Catlin,Saint Paul,MN,0:10:07.610,Centric Racing p/b Catella
 38,399746,Connor,Dilger,Iowa City,IA,0:10:08.570,Above and Beyond Cancer p/b Scheels
 39,371826,Timothy,Savre,Glencoe,MN,0:10:08.890,North Memorial Health p/b Project Echelon
-40,185493,Peter,Olejniczak,Roseville,MN,0:10:10.200,Borah Factory Racing
+40,185493,Peter,Olejniczak,Minneapolis,MN,0:10:10.200,Borah Factory Racing
 41,316080,Adam,Ventling,Urbandale,IA,0:10:11.610,Above and Beyond Cancer p/b Scheels
 42,303586,Tobin,Ortenblad,Santacruz,CA,0:10:12.240,Donkey Label
 43,0,Liam,Magennis,,,0:10:12.930,UCI CT: NSW Institute of Sport
@@ -1296,7 +1296,7 @@ Place,License #,First,Last,City,State,Time,Team
 82,287780,Taylor,Warren,San Diego,CA,0:10:35.180,303 Project
 83,424384,Dennis,Ramirez,Barnhart,MO,0:10:35.210,Gateway Harley-Davidson Trek U25 Development Team*
 84,466134,Pablo,Cruz,Wichita Falls,TX,0:10:35.390,Oklahoma Bicycle Project
-85,263035,Andrew,Giniat,Winnetka,IL,0:10:36.370,North Memorial Health p/b Project Echelon
+85,263035,Andrew,Giniat,Asheville,NC,0:10:36.370,North Memorial Health p/b Project Echelon
 86,406220,Bjorn,Larson,Duluth,MN,0:10:37.170,Centric Racing p/b Catella
 87,333156,Bart,Hollaren,Minneapolis,MN,0:10:38.620,Donkey Label
 88,0,Joshua,Taylor,,,0:10:38.800,UCI CT: NSW Institute of Sport
@@ -1349,7 +1349,7 @@ Place,License #,First,Last,City,State,Time,Team
 135,169774,Brian,McCulloch,Yucaipa,CA,0:11:16.310,UCI CT: Elevate-KHS Pro Cycling
 136,430954,Marco,Wajda,Brookfield,WI,0:11:16.420,North Memorial Health p/b Project Echelon
 137,337206,Sawyer,Currie,Edmond,OK,0:11:22.470,Dallas Racing
-138,299251,Justin,McQuerry,Athens,GA,0:11:23.790,Team Novo Nordisk Development
+138,299251,Justin,McQuerry,Austin,TX,0:11:23.790,Team Novo Nordisk Development
 139,325930,Jefferey,May,Greenville,TX,0:11:24.390,Dallas Racing
 140,0,Cullen,Browne,,,0:11:25.960,Oklahoma Bicycle Project
 141,193722,Alexander,Meyer,Minneapolis,MN,0:11:27.040,Donkey Label
@@ -1367,7 +1367,7 @@ Place,License #,First,Last,City,State,Time,Team
 4,529433,Ingrid,Drexel Clouthier,,,0:10:38.180,Team TIBCO - Silicon Valley Bank*
 5,275988,Emma,White,Delanson,NY,0:10:41.290,Rally Cycling*
 6,454732,Annie,Foreman-Mackey,,,0:10:45.510,The Cyclery - 4iiii
-7,273081,Ruth,Winder,Lafayette,CA,0:10:46.890,UnitedHealthcare Pro Cycling*
+7,273081,Ruth,Winder,Boulder,CO,0:10:46.890,UnitedHealthcare Pro Cycling*
 8,533030,Marlies,MejiasGarcia,,PA,0:10:50.690,UCI CTW: Weber Shimano Ladies Power
 9,454819,Kirsti,Lay,,,0:10:54.730,Rally Cycling*
 10,418050,Allison,Beveridge,,,0:10:54.860,Rally Cycling*
@@ -1385,12 +1385,12 @@ Place,License #,First,Last,City,State,Time,Team
 22,417020,Stephanie,Roorda,,,0:11:14.260,The Cyclery - 4iiii
 23,0,Ariane,Bonhomme,,,0:11:17.020,The Cyclery - 4iiii
 24,502931,Katherine,Maine,,,0:11:19.920,Rally Cycling*
-25,308334,Heather,Fischer,Del Rio,TX,0:11:20.860,Team TIBCO - Silicon Valley Bank*
-26,512762,Lily,Williams,Chicago,IL,0:11:25.460,Chicago Womens Elite Cycling
-27,186919,Kendall,Ryan,Ventura,CA,0:11:26.180,Team TIBCO - Silicon Valley Bank*
+25,308334,Heather,Fischer,Boulder,CO,0:11:20.860,Team TIBCO - Silicon Valley Bank*
+26,512762,Lily,Williams,Asheville,NC,0:11:25.460,Chicago Womens Elite Cycling
+27,186919,Kendall,Ryan,Camarillo,CA,0:11:26.180,Team TIBCO - Silicon Valley Bank*
 28,516158,Marie-Soleil,Blais,,,0:11:27.670,North Memorial Healthcare
 29,185507,Heather,Haviland,Waukesha,WI,0:11:29.810,Chicago Womens Elite Cycling
-30,358569,Janelle,Cole,Rockford,MI,0:11:30.020,UnitedHealthcare Pro Cycling*
+30,358569,Janelle,Cole,Newaygo,MI,0:11:30.020,UnitedHealthcare Pro Cycling*
 31,508146,Kendelle,Hodges,Lambertville,NJ,0:11:31.980,UCI CTW: Colavita/Bianchi USA
 32,439071,Diana,Penuela,Garland,TX,0:11:33.920,UnitedHealthcare Pro Cycling*
 33,528512,Madeleine,Park,Denville,NJ,0:11:34.160,Team TIBCO - Silicon Valley Bank*
@@ -1428,7 +1428,7 @@ Place,License #,First,Last,City,State,Time,Team
 65,395130,Melanie,Beale,Boulder,CO,0:12:22.160,LA Sweat
 66,0,Catherine,Ouellette,,,0:12:22.690,The Cyclery - 4iiii
 67,0,Rocio,Parrado,,,0:12:22.730,UCI CTW: Weber Shimano Ladies Power
-68,441168,Jenna,Stauffer,Highlands Ranch ,CO,0:12:22.910,Orion Racing p/b K'ul Chocolate
+68,441168,Jenna,Stauffer,Highlands Ranch,CO,0:12:22.910,Orion Racing p/b K'ul Chocolate
 69,533046,Jessenia,Meneses,,,0:12:25.780,UCI CTW: Weber Shimano Ladies Power
 70,211756,Carol,Seipp,Eagan,MN,0:12:26.230,Orion Racing p/b K'ul Chocolate
 71,407338,Emily,Houtchens,Malvern,IA,0:12:26.660,Orion Racing p/b K'ul Chocolate

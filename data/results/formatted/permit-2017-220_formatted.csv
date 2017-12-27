@@ -40,7 +40,7 @@ Place,License #,First,Last,City,State,Time,Team
 36,48125,Greg,Fink,Marietta,GA,2:48:10.8,Wahoo Fitness Masters Cycling
 37,377671,Austin,Ulich,Athens,GA,2:48:11.0,Pharmaco Deep South p/b NGCA Elite
 38,193035,Brandon,Feehery,Knoxville,TN,2:48:11.1,Crit Life
-39,299251,Justin,McQuerry,Athens,GA,2:48:11.3,Team Novo Nordisk Development
+39,299251,Justin,McQuerry,Austin,TX,2:48:11.3,Team Novo Nordisk Development
 40,367996,john,butler,Watkinsville,GA,2:48:11.3,
 41,82398,Ray,Healy,Alpharetta,GA,2:48:11.6,Corinth/Harden Racing
 42,472550,Ulugbek,Saidov,Athens,GA,2:48:11.7,Team Novo Nordisk
@@ -102,7 +102,7 @@ Place,License #,First,Last,City,State,Time,Team
 39,527993,Afotey,Quaye,Atlanta,GA,2:28:01.9,The Spindle ATL
 40,519146,Matthew,Poole,Carrollton,GA,2:28:06.4,
 41,402554,Michael,Forrest,Roswell,GA,2:28:10.9,Team Whitetail Bicycles p/b Pur
-42,96120,Wayne,Nix,Murphy,NC,2:28:15.4,
+42,96120,Wayne,Nix,Alpharetta,GA,2:28:15.4,
 
 03/19/2017 Road Race Men CAT 4
 Place,License #,First,Last,City,State,Time,Team
@@ -115,7 +115,7 @@ Place,License #,First,Last,City,State,Time,Team
 7,408616,Ben,Milcarek,Suwanee,GA,2:23:18.4,NGCA-Mission Source
 8,520358,Henrik,Klessmann,Marietta,GA,2:23:22.9,Team Mission Source / NGCA
 9,513439,Zane,Davis,Rossville,GA,2:23:27.4,scenic city velo/village volksw
-10,217539,Nathan,Harris,Frisco,CO,2:23:31.9,
+10,217539,Nathan,Harris,Spring,TX,2:23:31.9,
 11,394461,Paul,Harkins,Jefferson,GA,2:23:36.4,Reeves Young
 12,473812,kevin,maxey,Decatur,GA,2:23:40.9,litespeed - bmw
 13,219066,Kevin,Cook,Roswell,GA,2:23:45.4,
@@ -190,7 +190,7 @@ Place,License #,First,Last,City,State,Time,Team
 9,240265,Nello,Teer,Alpharetta,GA,3:05:10.0,
 10,51676,Norman,Brookins,Columbus,GA,3:05:10.3,Columbus Bike Racing
 11,423004,Jim,Whitehead,Canton,GA,3:05:10.4,NGCA / Team Mission Source
-12,528611,Ian,Fillinger,,,3:05:10.5,Todd's Racing
+12,528611,Ian,Fillinger,,GA,3:05:10.5,Todd's Racing
 13,368221,Chris,Isenberg,Tucson,AZ,3:05:11.4,NGCA Team Mission Source
 14,345562,Van,Mixon,Macon,GA,3:05:11.5,Georgia Neurosurgical Institute
 15,308291,Chris,Withers,Waynesboro,GA,3:05:11.7,Carolina Cycle Tours Race Team
@@ -210,7 +210,7 @@ Place,License #,First,Last,City,State,Time,Team
 03/19/2017 Road Race Men CAT 1/2/3/4 MASTER 55+
 Place,License #,First,Last,City,State,Time,Team
 1,337762,Gregory,Hilt,Apex,NC,3:05:10.6,CatUP Coaching
-2,256450,Timothy,Goodin,Chattanooga ,TN,3:05:11.3,Village Volkswagen
+2,256450,Timothy,Goodin,Chattanooga,TN,3:05:11.3,Village Volkswagen
 3,186828,Greg,Morgan,Simpsonville,SC,3:05:11.3,Spinx
 4,60179,Steve,Lewis,Chattanooga,TN,3:05:12.7,Scenic City Velo
 5,47406,Richard,Boughton,Roswell,GA,3:06:19.0,
@@ -267,7 +267,7 @@ Place,License #,First,Last,City,State,Time,Team
 14,400727,Dillon,Swaim,Lilburn,GA,,Prima Tappa p/b Mansfield Oil
 15,43378,Patrick,Raines,Cary,NC,,Ken's Bike Shop
 16,470113,Emanuel,Mini,Athens,GA,,Team Novo Nordisk
-17,299251,Justin,McQuerry,Athens,GA,,Team Novo Nordisk Development
+17,299251,Justin,McQuerry,Austin,TX,,Team Novo Nordisk Development
 18,331876,Josh,Brown,New Bern,NC,,Cyclus Sports
 19,472550,Ulugbek,Saidov,Athens,GA,,Team Novo Nordisk
 20,368681,Brad,Cox,Anniston,AL,,Mellow Mushroom Pizza Bakers
@@ -285,7 +285,7 @@ Place,License #,First,Last,City,State,Time,Team
 32,504904,Dmitry,Ponkratov,Athens,GA,,Team Novo Nordisk
 33,175041,Rich,Harper,Raleigh,NC,,Ken's Bike Shop
 34,480001,Caleb,Aoake,Alpharetta,GA,,Team Novo Nordisk
-35,374617,Chad,Conley,Cartersville,GA,,NGCA Elite team
+35,374617,Chad,Conley,Atlanta,GA,,NGCA Elite team
 36,21638,Andy,Lougher,Atlanta,GA,,Ridley Masters p/b Reality Bikes
 37,324184,Franklin,Deese,Greensboro,NC,,Cyclus Sports
 38,295295,Ian,Baun,Pittsburgh,PA,,Cyclus Sports
@@ -306,7 +306,7 @@ Place,License #,First,Last,City,State,Time,Team
 53,502775,Rasmus,Ulstrup Kunosson,Athens,GA,,Team Novo Nordisk
 54,472551,Alisher,Vokhobov,Athens,GA,,Team Novo Nordisk
 55,0,Unknown,Rider,,,,
-56,173111,Charles,Rossignol,Atlanta,GA,,LITESPEED-BMW
+56,173111,Charles,Rossignol,Flagstaff,AZ,,LITESPEED-BMW
 57,526322,Cristobal,Sarrion Lopez,Athens,GA,,Team Novo Nordisk
 58,481597,Hamish,Beadle,Alpharetta,GA,,Team Novo Nordisk
 59,142548,Daudi,Cobb,Decatur,GA,,Peachtree Bikes
@@ -321,7 +321,7 @@ Place,License #,First,Last,City,State,Time,Team
 6,441068,David,McBeath,Mount Pleasant,SC,,Low Country Racing
 7,524082,milan,harris,Dadeville,AL,,AlaCOMP Race Team
 8,476876,Jason,Mundy,Dacula,GA,,Mundy's Collision Center
-9,494731,Andrew,Chaplain,Atlanta,GA,,North Georgia Cycling Associati
+9,494731,Andrew,Chaplain,Athens,GA,,North Georgia Cycling Associati
 10,468360,Jeffery,Cahill,Roswell,GA,,United States Military Enduranc
 11,385178,Doug,Sharp,Gatlinburg,TN,,Knoxvello
 12,525980,Forrest,Kirkendall,Decatur,GA,,Snyder Factory Racing
@@ -354,7 +354,7 @@ Place,License #,First,Last,City,State,Time,Team
 
 03/18/2017 Criterium Men CAT 4
 Place,License #,First,Last,City,State,Time,Team
-1,217539,Nathan,Harris,Frisco,CO,,
+1,217539,Nathan,Harris,Spring,TX,,
 2,383566,JAMES,STUART,Atlanta,GA,,mission source/NGCA
 3,433330,Johnny,Hall,Woodstock,GA,,Giovanni's Tile Design p/b Rosw
 4,484937,Drew,Rosedale,Atlanta,GA,,L5Flyers Cycling Team

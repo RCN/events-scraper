@@ -6,7 +6,8 @@
     "location": {
       "cityState": "San Francisco, CA",
       "detailed": "San Francisco, CA",
-      "googleMapsUrl": "http://maps.google.com/maps/place/+San+Francisco,+CA+94121,+USA"
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/+San+Francisco,+CA+94121,+USA"
     },
     "promoter": {
       "club": "Fusion Sport USA",
@@ -20,7 +21,8 @@
     "discipline": "Road",
     "usacEventType": "Fun",
     "competitive": "competitive",
-    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-831",
@@ -43,7 +45,8 @@
     "discipline": "Road",
     "usacEventType": "Fun",
     "competitive": "competitive",
-    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-238",
@@ -52,7 +55,8 @@
     "location": {
       "cityState": "Monterey, CA",
       "detailed": ["Laguna Seca Recreation Area", "Monterey, CA"],
-      "googleMapsUrl": "http://maps.google.com/maps/place/Laguna+Seca+Recreation+Area+Monterey,+CA+93940,+USA"
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/Laguna+Seca+Recreation+Area+Monterey,+CA+93940,+USA"
     },
     "promoter": {
       "club": "Sea Otter Classic, Inc.",
@@ -67,7 +71,8 @@
     "discipline": "Road",
     "usacEventType": "Fun",
     "competitive": "competitive",
-    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-742",
@@ -76,7 +81,8 @@
     "location": {
       "cityState": "Monterey, CA",
       "detailed": ["Laguna Seca Recreation Area", "Monterey, CA"],
-      "googleMapsUrl": "http://maps.google.com/maps/place/Laguna+Seca+Recreation+Area+Monterey,+CA+93940,+USA"
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/Laguna+Seca+Recreation+Area+Monterey,+CA+93940,+USA"
     },
     "promoter": {
       "club": "Sea Otter Classic, Inc.",
@@ -91,7 +97,8 @@
     "discipline": "Road",
     "usacEventType": "Fun",
     "competitive": "competitive",
-    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-166",
@@ -100,7 +107,8 @@
     "location": {
       "cityState": "Livermore, CA",
       "detailed": "Livermore, CA",
-      "googleMapsUrl": "http://maps.google.com/maps/place/+Livermore,+CA+94550,+USA"
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/+Livermore,+CA+94550,+USA"
     },
     "promoter": {
       "club": "American Heart Association",
@@ -115,7 +123,8 @@
     "discipline": "Road",
     "usacEventType": "Fun",
     "competitive": "competitive",
-    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-340",
@@ -124,14 +133,16 @@
     "location": {
       "cityState": "Rocklin, CA",
       "detailed": ["270 Technology Way Ste 100", "Rocklin, CA"],
-      "googleMapsUrl": "http://maps.google.com/maps/place/270+Technology+Way+Ste+100+Rocklin,+CA+95765,+USA"
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/270+Technology+Way+Ste+100+Rocklin,+CA+95765,+USA"
     },
     "promoter": {
       "club": "Project Hero",
       "raceDirector": "Jack Shepard",
       "url": "https://usacycling.org/clubs/index.php?club=13438"
     },
-    "eventWebSite": "http://r2r.convio.net/site/TR/Cycling/General?fr_id=1250&pg=entry",
+    "eventWebSite":
+      "http://r2r.convio.net/site/TR/Cycling/General?fr_id=1250&pg=entry",
     "status": "Complete",
     "usacCategory": "Category - F",
     "year": 2017,
@@ -139,7 +150,8 @@
     "discipline": "Road",
     "usacEventType": "Fun",
     "competitive": "competitive",
-    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-1964",
@@ -148,14 +160,16 @@
     "location": {
       "cityState": "San Luis Obispo, CA",
       "detailed": "San Luis Obispo, CA",
-      "googleMapsUrl": "http://maps.google.com/maps/place/+San+Luis+Obispo,+CA+94116,+USA"
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/+San+Luis+Obispo,+CA+94116,+USA"
     },
     "promoter": {
       "club": "USA Cycling Race Director",
       "raceDirector": "Raymond Lee",
       "url": "https://usacycling.org/clubs/index.php?club=14196"
     },
-    "eventWebSite": "http://www.eventbrite.com/e/tour-de-donut-2017-registration-33855006235?aff=es2",
+    "eventWebSite":
+      "http://www.eventbrite.com/e/tour-de-donut-2017-registration-33855006235?aff=es2",
     "status": "Complete",
     "usacCategory": "Category - F",
     "year": 2017,
@@ -163,7 +177,8 @@
     "discipline": "Road",
     "usacEventType": "Fun",
     "competitive": "competitive",
-    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-2031",
@@ -172,7 +187,8 @@
     "location": {
       "cityState": "Nevada City, CA",
       "detailed": ["503 Sacramento St.", "Nevada City, CA"],
-      "googleMapsUrl": "http://maps.google.com/maps/place/503+Sacramento+St.+Nevada+City,+CA+95959,+USA"
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/503+Sacramento+St.+Nevada+City,+CA+95959,+USA"
     },
     "promoter": {
       "club": "ol'Republic/SERT",
@@ -187,7 +203,8 @@
     "discipline": "Road",
     "usacEventType": "Fun",
     "competitive": "competitive",
-    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-2032",
@@ -196,7 +213,8 @@
     "location": {
       "cityState": "Nevada City, CA",
       "detailed": ["503 Sacramento St.", "Nevada City, CA"],
-      "googleMapsUrl": "http://maps.google.com/maps/place/503+Sacramento+St.+Nevada+City,+CA+95959,+USA"
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/503+Sacramento+St.+Nevada+City,+CA+95959,+USA"
     },
     "promoter": {
       "club": "ol'Republic/SERT",
@@ -211,7 +229,8 @@
     "discipline": "Road",
     "usacEventType": "Fun",
     "competitive": "competitive",
-    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-2735",
@@ -220,7 +239,8 @@
     "location": {
       "cityState": "Santa Rosa, CA",
       "detailed": ["4400 Day School Place,", "Santa Rosa, CA"],
-      "googleMapsUrl": "http://maps.google.com/maps/place/4400+Day+School+Place,+Santa+Rosa,+CA+95403,+USA"
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/4400+Day+School+Place,+Santa+Rosa,+CA+95403,+USA"
     },
     "promoter": {
       "club": "Team Swift",
@@ -228,14 +248,15 @@
       "url": "https://usacycling.org/clubs/index.php?club=10356"
     },
     "eventWebSite": "http://www.teamswift.org",
-    "status": "Permitted",
+    "status": "Complete",
     "usacCategory": "Category - F",
     "year": 2017,
     "state": "CN",
     "discipline": "Road",
     "usacEventType": "Fun",
     "competitive": "competitive",
-    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-2472",
@@ -244,7 +265,8 @@
     "location": {
       "cityState": "Oakdale , CA",
       "detailed": ["445 E F st", "Oakdale , CA"],
-      "googleMapsUrl": "http://maps.google.com/maps/place/445+E+F+st++Oakdale+,+CA+95361,+USA"
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/445+E+F+st++Oakdale+,+CA+95361,+USA"
     },
     "promoter": {
       "club": "Bell Real Estate Cycling",
@@ -252,14 +274,15 @@
       "url": "https://usacycling.org/clubs/index.php?club=14700"
     },
     "eventWebSite": "http://www.bikesforkids.bike",
-    "status": "Permitted",
+    "status": "Complete",
     "usacCategory": "Category - F",
     "year": 2017,
     "state": "CN",
     "discipline": "Road",
     "usacEventType": "Fun",
     "competitive": "competitive",
-    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-2988",
@@ -268,23 +291,25 @@
     "location": {
       "cityState": "Death Valley, CA",
       "detailed": ["Highway 190", "Death Valley, CA"],
-      "googleMapsUrl": "http://maps.google.com/maps/place/Highway+190+Death+Valley,+CA+92328,+USA"
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/Highway+190+Death+Valley,+CA+92328,+USA"
     },
     "promoter": {
       "club": "USA Cycling Race Director",
       "raceDirector": "Erica Gratton",
       "url": "https://usacycling.org/clubs/index.php?club=14196"
     },
-    "eventWebSite": "http://www.cyclingescapes.com/bicycletours/california/deathvalley/biketour.html",
-    "registrationLink": "http://www.cyclingescapes.com/onlineregistration.html",
-    "status": "Permitted",
+    "eventWebSite":
+      "http://www.cyclingescapes.com/bicycletours/california/deathvalley/biketour.html",
+    "status": "Complete",
     "usacCategory": "Category - F",
     "year": 2017,
     "state": "CN",
     "discipline": "Road",
     "usacEventType": "Fun",
     "competitive": "competitive",
-    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Road&rrfilter=F&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-235",
@@ -293,7 +318,8 @@
     "location": {
       "cityState": "Monterey, CA",
       "detailed": ["Laguna Seca Recreation Area", "Monterey, CA"],
-      "googleMapsUrl": "http://maps.google.com/maps/place/Laguna+Seca+Recreation+Area+Monterey,+CA+93940,+USA"
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/Laguna+Seca+Recreation+Area+Monterey,+CA+93940,+USA"
     },
     "promoter": {
       "club": "Sea Otter Classic, Inc.",
@@ -308,7 +334,8 @@
     "discipline": "Mountain",
     "usacEventType": "Fun",
     "competitive": "competitive",
-    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=F&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-412",
@@ -332,7 +359,8 @@
     "discipline": "Mountain",
     "usacEventType": "Fun",
     "competitive": "competitive",
-    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=F&noncomp=0&state=CN&cnt=0&"
   },
   {
     "permit": "2017-2739",
@@ -341,7 +369,8 @@
     "location": {
       "cityState": "Nevada City, CA",
       "detailed": ["800 Hoover Lane", "Nevada City, CA"],
-      "googleMapsUrl": "http://maps.google.com/maps/place/800+Hoover+Lane+Nevada+City,+CA+95959,+USA"
+      "googleMapsUrl":
+        "http://maps.google.com/maps/place/800+Hoover+Lane+Nevada+City,+CA+95959,+USA"
     },
     "promoter": {
       "club": "Youth Bicyclists of Nev. Co. (YBONC) Foundation",
@@ -356,6 +385,7 @@
     "discipline": "Mountain",
     "usacEventType": "Fun",
     "competitive": "competitive",
-    "_urlUsedToPullThisEvent": "https://www.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=F&noncomp=0&state=CN&cnt=0&"
+    "_urlUsedToPullThisEvent":
+      "https://legacy.usacycling.org/events/state_search.php?ajax=2&fyear=2017&race=Mountain&rrfilter=F&noncomp=0&state=CN&cnt=0&"
   }
 ]

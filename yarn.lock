@@ -2381,13 +2381,14 @@ levn@^0.3.0, levn@~0.3.0:
     prelude-ls "~1.1.2"
     type-check "~0.3.2"
 
-little-scraper@^2.0.0:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/little-scraper/-/little-scraper-2.0.1.tgz#35b9166395c9a12468532d494e5856bc0d2630c9"
+little-scraper@^3.3.0:
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/little-scraper/-/little-scraper-3.3.0.tgz#36b0f324e8c90ca067e278b9aae5d8d56f5cbdba"
   dependencies:
     bluebird "^3.4.0"
     chalk "^2.1.0"
     lodash "^4.12.0"
+    make-dir "^1.1.0"
     moment "^2.10.6"
     ramda "^0.25.0"
     request "^2.48.0"
@@ -2558,6 +2559,12 @@ loose-envify@^1.0.0:
 lowercase-keys@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/lowercase-keys/-/lowercase-keys-1.0.0.tgz#4e3366b39e7f5457e35f1324bdf6f88d0bfc7306"
+
+make-dir@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/make-dir/-/make-dir-1.1.0.tgz#19b4369fe48c116f53c2af95ad102c0e39e85d51"
+  dependencies:
+    pify "^3.0.0"
 
 map-stream@~0.1.0:
   version "0.1.0"
@@ -2865,6 +2872,10 @@ performance-now@^0.2.0:
 pify@^2.0.0:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/pify/-/pify-2.3.0.tgz#ed141a6ac043a849ea588498e7dca8b15330e90c"
+
+pify@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/pify/-/pify-3.0.0.tgz#e5a4acd2c101fdf3d9a4d07f0dbc4db49dd28176"
 
 pinkie-promise@^2.0.0:
   version "2.0.1"

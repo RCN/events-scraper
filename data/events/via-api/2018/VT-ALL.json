@@ -1,0 +1,56 @@
+[
+  {
+    "id": "2018-756",
+    "event_id": "756",
+    "event_year": "2018",
+    "title": "Guilford Gravel Grinder",
+    "category": "F",
+    "address": {
+      "street": "Sunrise Farm, 102 Thomas Road",
+      "city": "Guilford",
+      "state": "VT",
+      "zip": "05301"
+    },
+    "lat": 42.818314,
+    "lon": -72.662369,
+    "organizer": "326414",
+    "email": "miles.w.billings@gmail.com",
+    "contact": "0",
+    "date_start": "2018-05-20",
+    "date_end": "2018-05-20",
+    "setup_date_start": "",
+    "setup_date_end": "",
+    "training_date_start": "",
+    "training_date_end": "",
+    "teardown_date_start": "",
+    "teardown_date_end": "",
+    "registration_start": "1969-12-31",
+    "registration_late": "-0001-11-30",
+    "registration_end": "1969-12-31",
+    "usac_registration": "N",
+    "ncca": "",
+    "ncca_conf": "",
+    "web_page": "www.facebook.com/guilfordgravelgrinder/",
+    "reg_url": "www.bikereg.com/guilford-gravel",
+    "flyer_url": "",
+    "status": "2",
+    "competitive": "N",
+    "kidsfunride": "N",
+    "nonconsecutive": "",
+    "registration_groupid": "0",
+    "registration_hold": "N",
+    "registration_notify": "",
+    "event_days": "1",
+    "description":
+      "This is a 40 mile ride with approx. 4,900ft of climbing starting and ending at Sunrise Farm.",
+    "course":
+      "Roads are mostly smooth dirt but small rocks and shallow pot holes exist. Road gearing with climbing gears to tackle short 15% sections and extended 8-10% sections are recommended. 36x28 gears will work for most, although some champs could get away with 39x28.",
+    "registration": "https://www.bikereg.com/guilford-gravel",
+    "notes":
+      "More info including pictures from last year: https://www.facebook.com/guilfordgravelgrinder\r\nRoute: https://www.strava.com/routes/7471796. A GPX with turn-by-turn instructions will be provided, and it is recommended that participants upload it to their GPS device. While all turns will be marked, not all will be manned by volunteers. Roads will be open, albeit with very little traffic. Normal traffic rules apply.\r\n\r\nThe ride starts and finishes at Sunrise Farm in Guilford, where we'll have ample parking, bathroom access, and a picnic lunch after everyone finishes. Prizes include Maple Syrup and bragging rights among your friends.\r\n\r\nThis event is covered under USA Cycling, and a valid USAC license is required. One-day licenses available day of the event.\r\n\r\nRain or shine. Combined field limit of 125.",
+    "directions":
+      "Enter this address in your GPS: Sunrise Farm, 102 Thomas Road, Guilford VT 05301",
+    "hide": "n",
+    "_discipline": "ROAD"
+  }
+]

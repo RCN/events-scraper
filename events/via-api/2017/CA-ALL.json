@@ -46,7 +46,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-151",
@@ -97,7 +98,8 @@
     "notes": "more information coming soon",
     "directions":
       "Thursday, Friday and Sunday we will meet at bikecoach.com fitness studio. 700 E Redlands Blvd, Suite M. Saturday we will meet at the Redlands Soccer Park 1790 N. Dearborn St. Redlands, CA 92374.",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-324",
@@ -146,7 +148,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-291",
@@ -195,7 +198,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-325",
@@ -244,7 +248,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-431",
@@ -293,7 +298,8 @@
     "registration": "Reg is closed",
     "notes": "None",
     "directions": "See Event bright ",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-198",
@@ -342,7 +348,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-314",
@@ -393,7 +400,8 @@
       "Personal Checks are made out to me.  The Coast Ride will donate all proceeds to a Non Profit as previous years",
     "notes": "Non Competitive",
     "directions": "Sports Basement San Francisco",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-137",
@@ -442,7 +450,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-311",
@@ -491,7 +500,8 @@
     "registration": "more information coming soon",
     "notes": "more information coming soon",
     "directions": "more information coming soon",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-582",
@@ -540,7 +550,8 @@
     "registration": "Onsite",
     "notes": "",
     "directions": "Use Google maps",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-346",
@@ -589,7 +600,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-373",
@@ -640,7 +652,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-211",
@@ -689,7 +702,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-295",
@@ -738,7 +752,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-418",
@@ -788,7 +803,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "TRACK"
   },
   {
     "id": "2017-569",
@@ -837,7 +853,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-544",
@@ -886,7 +903,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "MTN"
   },
   {
     "id": "2017-203",
@@ -935,7 +953,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-399",
@@ -984,7 +1003,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-621",
@@ -1033,7 +1053,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-701",
@@ -1082,7 +1103,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "TRACK"
   },
   {
     "id": "2017-69",
@@ -1131,7 +1153,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-345",
@@ -1180,7 +1203,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-709",
@@ -1229,7 +1253,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "TRACK"
   },
   {
     "id": "2017-361",
@@ -1278,7 +1303,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-778",
@@ -1327,7 +1353,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-322",
@@ -1376,7 +1403,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "N"
+    "hide": "N",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-160",
@@ -1425,7 +1453,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-706",
@@ -1474,7 +1503,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "TRACK"
   },
   {
     "id": "2017-708",
@@ -1523,7 +1553,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "TRACK"
   },
   {
     "id": "2017-374",
@@ -1572,7 +1603,8 @@
     "registration": "None",
     "notes": "None",
     "directions": "None",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-485",
@@ -1621,7 +1653,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-38",
@@ -1670,7 +1703,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-439",
@@ -1719,7 +1753,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-428",
@@ -1768,7 +1803,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-430",
@@ -1817,7 +1853,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1024",
@@ -1866,7 +1903,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "TRACK"
   },
   {
     "id": "2017-329",
@@ -1915,7 +1953,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-577",
@@ -1964,7 +2003,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-312",
@@ -2013,7 +2053,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-580",
@@ -2064,7 +2105,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "TRACK"
   },
   {
     "id": "2017-436",
@@ -2113,7 +2155,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-463",
@@ -2162,7 +2205,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-831",
@@ -2214,7 +2258,8 @@
     "notes": "This is not a race.",
     "directions":
       "Ride starts at the City of Chico\"s parking lot between 4th and 5th streets.  Where the hands are located!",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-465",
@@ -2263,7 +2308,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-931",
@@ -2312,7 +2358,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-764",
@@ -2361,7 +2408,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1027",
@@ -2410,7 +2458,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-348",
@@ -2459,7 +2508,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-592",
@@ -2508,7 +2558,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-593",
@@ -2557,7 +2608,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-953",
@@ -2606,7 +2658,8 @@
     "registration": "Categories:\r\nJuniors\r\nCAT45\r\nPro 123\r\nMasters",
     "notes": "5pm-7pm",
     "directions": "El Dorado Park Area 3",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-732",
@@ -2655,7 +2708,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "MTN"
   },
   {
     "id": "2017-990",
@@ -2704,7 +2758,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-690",
@@ -2753,7 +2808,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-936",
@@ -2802,7 +2858,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-76",
@@ -2851,7 +2908,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "BMX"
   },
   {
     "id": "2017-522",
@@ -2900,7 +2958,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1011",
@@ -2949,7 +3008,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-62",
@@ -2998,7 +3058,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-820",
@@ -3047,7 +3108,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-523",
@@ -3096,7 +3158,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1166",
@@ -3145,7 +3208,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-315",
@@ -3195,7 +3259,8 @@
     "notes": "N/A",
     "directions":
       "Waterfront Park - 1600 Pacific Highway - San Diego, CA 92101",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-932",
@@ -3244,7 +3309,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-524",
@@ -3293,7 +3359,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-668",
@@ -3342,7 +3409,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "MTN"
   },
   {
     "id": "2017-702",
@@ -3391,7 +3459,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "TRACK"
   },
   {
     "id": "2017-825",
@@ -3443,7 +3512,8 @@
     "notes":
       "Crit-.88 course with a slight rise \r\n\r\nCircuit race- 3.8 mile loop that is slightly technical.",
     "directions": "1 Shields Ave Davis Ca 95616",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-734",
@@ -3493,7 +3563,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-986",
@@ -3542,7 +3613,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "MTN"
   },
   {
     "id": "2017-598",
@@ -3591,7 +3663,8 @@
     "registration": "Register online at ridelikeaninja.com",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "MTN"
   },
   {
     "id": "2017-623",
@@ -3640,7 +3713,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-941",
@@ -3689,7 +3763,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1017",
@@ -3738,7 +3813,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-565",
@@ -3787,7 +3863,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-447",
@@ -3836,7 +3913,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-671",
@@ -3885,7 +3963,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-908",
@@ -3935,7 +4014,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-987",
@@ -3984,7 +4064,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "MTN"
   },
   {
     "id": "2017-70",
@@ -4033,7 +4114,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-937",
@@ -4082,7 +4164,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-521",
@@ -4131,7 +4214,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "MTN"
   },
   {
     "id": "2017-313",
@@ -4180,7 +4264,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-236",
@@ -4229,7 +4314,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "MTN"
   },
   {
     "id": "2017-466",
@@ -4278,7 +4364,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "MTN"
   },
   {
     "id": "2017-237",
@@ -4327,7 +4414,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-238",
@@ -4376,7 +4464,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-235",
@@ -4425,7 +4514,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "MTN"
   },
   {
     "id": "2017-742",
@@ -4474,7 +4564,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-525",
@@ -4523,7 +4614,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1021",
@@ -4572,7 +4664,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-724",
@@ -4621,7 +4714,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "MTN"
   },
   {
     "id": "2017-1060",
@@ -4670,7 +4764,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-166",
@@ -4719,7 +4814,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-496",
@@ -4768,7 +4864,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1049",
@@ -4817,7 +4914,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1245",
@@ -4867,7 +4965,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1562",
@@ -4917,7 +5016,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-938",
@@ -4966,7 +5066,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1300",
@@ -5015,7 +5116,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-837",
@@ -5064,7 +5166,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-785",
@@ -5113,7 +5216,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1671",
@@ -5162,7 +5266,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "BMX"
   },
   {
     "id": "2017-591",
@@ -5211,7 +5316,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1299",
@@ -5260,7 +5366,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1198",
@@ -5309,7 +5416,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1666",
@@ -5358,7 +5466,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "TRACK"
   },
   {
     "id": "2017-1288",
@@ -5407,7 +5516,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1762",
@@ -5456,7 +5566,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "TRACK"
   },
   {
     "id": "2017-1267",
@@ -5506,7 +5617,8 @@
     "registration": "Private Event",
     "notes": "Private Event",
     "directions": "Private Event",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-512",
@@ -5558,7 +5670,8 @@
     "notes": "",
     "directions":
       "Laguna Mountain Lodge\r\n10678 Sunrise Highway \r\nMount Laguna, CA 91948",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "MTN"
   },
   {
     "id": "2017-1259",
@@ -5607,7 +5720,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1681",
@@ -5656,7 +5770,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-703",
@@ -5705,7 +5820,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "TRACK"
   },
   {
     "id": "2017-1455",
@@ -5755,7 +5871,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-340",
@@ -5804,7 +5921,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-497",
@@ -5853,7 +5971,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "N"
+    "hide": "N",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1741",
@@ -5902,7 +6021,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "BMX"
   },
   {
     "id": "2017-1266",
@@ -5951,7 +6071,8 @@
     "registration": "Private event",
     "notes": "Private event",
     "directions": "Private event",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1264",
@@ -6000,7 +6121,8 @@
     "registration": "Private event",
     "notes": "Private event",
     "directions": "Private event",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1282",
@@ -6049,7 +6171,8 @@
     "registration": "In progress",
     "notes": "In progress",
     "directions": "In progress",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1265",
@@ -6098,7 +6221,8 @@
     "registration": "Private event",
     "notes": "Private event",
     "directions": "Private event",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1215",
@@ -6147,7 +6271,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1412",
@@ -6196,7 +6321,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1216",
@@ -6245,7 +6371,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1719",
@@ -6294,7 +6421,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-662",
@@ -6343,7 +6471,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1142",
@@ -6394,7 +6523,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1413",
@@ -6443,7 +6573,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1964",
@@ -6494,7 +6625,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1874",
@@ -6543,7 +6675,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1638",
@@ -6592,7 +6725,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "MTN"
   },
   {
     "id": "2017-1635",
@@ -6641,7 +6775,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "CX"
   },
   {
     "id": "2017-956",
@@ -6690,7 +6825,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1490",
@@ -6739,7 +6875,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-280",
@@ -6788,7 +6925,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1499",
@@ -6837,7 +6975,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1788",
@@ -6886,7 +7025,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-881",
@@ -6935,7 +7075,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "MTN"
   },
   {
     "id": "2017-1722",
@@ -6984,7 +7125,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-705",
@@ -7033,7 +7175,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "TRACK"
   },
   {
     "id": "2017-1465",
@@ -7082,7 +7225,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1857",
@@ -7131,7 +7275,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1881",
@@ -7180,7 +7325,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1389",
@@ -7229,7 +7375,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2003",
@@ -7278,7 +7425,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-82",
@@ -7328,7 +7476,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1988",
@@ -7377,7 +7526,8 @@
     "registration": "TBA",
     "notes": "TBA",
     "directions": "TBA",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2032",
@@ -7426,7 +7576,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2031",
@@ -7475,7 +7626,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1937",
@@ -7524,7 +7676,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1620",
@@ -7573,7 +7726,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1749",
@@ -7622,7 +7776,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2112",
@@ -7671,7 +7826,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "BMX"
   },
   {
     "id": "2017-1420",
@@ -7720,7 +7876,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1397",
@@ -7769,7 +7926,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1977",
@@ -7818,7 +7976,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2061",
@@ -7873,7 +8032,8 @@
       "Clinic limited to the Serious Cycling Team and clients of Coach Brinton",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-978",
@@ -7922,7 +8082,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1919",
@@ -7971,7 +8132,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1061",
@@ -8020,7 +8182,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1935",
@@ -8069,7 +8232,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1921",
@@ -8118,7 +8282,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1176",
@@ -8167,7 +8332,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "TRACK"
   },
   {
     "id": "2017-1748",
@@ -8217,7 +8383,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2095",
@@ -8266,7 +8433,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "N"
+    "hide": "N",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2122",
@@ -8315,7 +8483,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2116",
@@ -8364,7 +8533,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1418",
@@ -8414,7 +8584,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1992",
@@ -8463,7 +8634,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2152",
@@ -8512,7 +8684,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "TRACK"
   },
   {
     "id": "2017-2277",
@@ -8561,7 +8734,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2070",
@@ -8610,7 +8784,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "TRACK"
   },
   {
     "id": "2017-2200",
@@ -8660,7 +8835,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2181",
@@ -8709,7 +8885,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2228",
@@ -8758,7 +8935,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "BMX"
   },
   {
     "id": "2017-1995",
@@ -8811,7 +8989,8 @@
       "All fields are limited and typically sell-out. Please register early. \r\n\r\nAll participants will sign a waiver/release form at registration. Those under 18 require a parent’s signature. \r\n\r\nBike Race is USA Cycling sanctioned. Riders must present a current USA Cycling license at registration. 1-day License  and Annual Licenses may be purchased on-site. \r\n\r\nCompetitor age is determined by the age of the rider on Dec. 31st, 2017.\r\n\r\nFixed Gear races are open USA Cycling Category 1-5. Every rider must have a license, those without are able to purchase a 1-day license when registering or on site.\r\n\r\nHeld under USA Cycling Permit \r\nNo refunds \r\nThe event will be run rain or shine  ",
     "directions":
       "S/F is 4th and C Street, San Rafael CA. Racer parking in garage on 3rd and C Street or on surrounding city streets. ",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1885",
@@ -8860,7 +9039,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "TRACK"
   },
   {
     "id": "2017-2242",
@@ -8909,7 +9089,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1927",
@@ -8958,7 +9139,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1908",
@@ -9007,7 +9189,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2297",
@@ -9056,7 +9239,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-11",
@@ -9105,7 +9289,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "TRACK"
   },
   {
     "id": "2017-784",
@@ -9154,7 +9339,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-89",
@@ -9203,7 +9389,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2341",
@@ -9252,7 +9439,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2151",
@@ -9301,7 +9489,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2007",
@@ -9350,7 +9539,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2278",
@@ -9399,7 +9589,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1700",
@@ -9449,7 +9640,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "CX"
   },
   {
     "id": "2017-2344",
@@ -9498,7 +9690,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2343",
@@ -9547,7 +9740,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2354",
@@ -9596,7 +9790,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2355",
@@ -9645,7 +9840,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2279",
@@ -9694,7 +9890,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-412",
@@ -9743,7 +9940,8 @@
     "registration": "Details to follow",
     "notes": "Details to follow",
     "directions": "Details to follow",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "MTN"
   },
   {
     "id": "2017-2008",
@@ -9793,7 +9991,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2555",
@@ -9842,7 +10041,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2399",
@@ -9891,7 +10091,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "TRACK"
   },
   {
     "id": "2017-2299",
@@ -9940,7 +10141,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2652",
@@ -9989,7 +10191,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "CX"
   },
   {
     "id": "2017-2576",
@@ -10038,7 +10241,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2280",
@@ -10088,7 +10292,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2296",
@@ -10137,7 +10342,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "TRACK"
   },
   {
     "id": "2017-2356",
@@ -10186,7 +10392,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2168",
@@ -10235,7 +10442,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2461",
@@ -10284,7 +10492,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "N"
+    "hide": "N",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1178",
@@ -10333,7 +10542,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "TRACK"
   },
   {
     "id": "2017-272",
@@ -10382,7 +10592,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1944",
@@ -10432,7 +10643,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "MTN"
   },
   {
     "id": "2017-2874",
@@ -10481,7 +10693,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "MTN"
   },
   {
     "id": "2017-2686",
@@ -10530,7 +10743,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "BMX"
   },
   {
     "id": "2017-2643",
@@ -10579,7 +10793,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2498",
@@ -10629,7 +10844,8 @@
     "registration": "https://sandiegomountainbikeskills.com/california/",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "MTN"
   },
   {
     "id": "2017-2526",
@@ -10678,7 +10894,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "TRACK"
   },
   {
     "id": "2017-2531",
@@ -10727,7 +10944,8 @@
     "registration": "Contact racing@lavelodrome.org",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "TRACK"
   },
   {
     "id": "2017-2601",
@@ -10777,7 +10995,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "MTN"
   },
   {
     "id": "2017-1866",
@@ -10827,7 +11046,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "CX"
   },
   {
     "id": "2017-2040",
@@ -10876,7 +11096,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "MTN"
   },
   {
     "id": "2017-2691",
@@ -10925,7 +11146,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "CX"
   },
   {
     "id": "2017-2739",
@@ -10974,7 +11196,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "MTN"
   },
   {
     "id": "2017-2929",
@@ -11023,7 +11246,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2735",
@@ -11072,7 +11296,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2758",
@@ -11123,7 +11348,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2384",
@@ -11172,7 +11398,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2798",
@@ -11221,7 +11448,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "MTN"
   },
   {
     "id": "2017-2123",
@@ -11271,7 +11499,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2716",
@@ -11320,7 +11549,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2472",
@@ -11369,7 +11599,8 @@
     "registration": "https://www.eventbrite.com/o/bikes-for-kids-8139444048",
     "notes": "",
     "directions": "Google it \r\nOakdale Bike Shop 445 E F st Oakdale CA",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-3088",
@@ -11418,7 +11649,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "MTN"
   },
   {
     "id": "2017-1822",
@@ -11467,7 +11699,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-979",
@@ -11516,7 +11749,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-3024",
@@ -11565,7 +11799,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "TRACK"
   },
   {
     "id": "2017-3106",
@@ -11614,7 +11849,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "CX"
   },
   {
     "id": "2017-1818",
@@ -11664,7 +11900,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2233",
@@ -11713,7 +11950,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-1985",
@@ -11764,7 +12002,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "MTN"
   },
   {
     "id": "2017-1943",
@@ -11813,7 +12052,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2381",
@@ -11862,7 +12102,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2746",
@@ -11911,7 +12152,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "MTN"
   },
   {
     "id": "2017-3102",
@@ -11962,7 +12204,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "CX"
   },
   {
     "id": "2017-2788",
@@ -12011,7 +12254,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "TRACK"
   },
   {
     "id": "2017-3125",
@@ -12060,7 +12304,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "CX"
   },
   {
     "id": "2017-2882",
@@ -12110,7 +12355,8 @@
     "registration": "Register at www.revolutioncoaching.com",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2971",
@@ -12164,7 +12410,8 @@
     "notes": "",
     "directions":
       "Ride Start location is the Westlake Village Inn. Their address is: 31943 Agoura Road - Westlake Village, Ca 91361",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2990",
@@ -12213,7 +12460,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "MTN"
   },
   {
     "id": "2017-3029",
@@ -12262,7 +12510,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "MTN"
   },
   {
     "id": "2017-3085",
@@ -12312,7 +12561,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "CX"
   },
   {
     "id": "2017-2989",
@@ -12361,7 +12611,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "CX"
   },
   {
     "id": "2017-845",
@@ -12415,7 +12666,8 @@
       "Registration includes breakfast, lunch and refreshments from presenting sponsor Figueroa Mountain Brewing Company. The ride will be followed by a post ride party in downtown Santa Ynez including live music and awards.",
     "directions":
       "Carmichael Training Systems\r\n3640 Sagunto Street\r\nSanta Ynez, CA 93460\r\n34.612860, -120.078402",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-3113",
@@ -12465,7 +12717,8 @@
     "registration": "https://sandiegomountainbikeskills.com/multi-day-events/",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "MTN"
   },
   {
     "id": "2017-2988",
@@ -12518,7 +12771,8 @@
     "notes":
       "This is not a race. It is a 6 day cycling vacation in Death Valley National Park. Hotel accomodations are included in your registration fee.",
     "directions": "Highway 190\r\nDeath Valley, Ca \r\n92328",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-3159",
@@ -12567,7 +12821,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "CX"
   },
   {
     "id": "2017-2991",
@@ -12621,7 +12876,8 @@
       "This is not a race. It is a 5 day climbing cycling camp based out of the Santa Monica Mountains in Westlake Village, Ca.",
     "directions":
       "Westlake Village Inn is located at:\r\n31943 Agoura Road\r\nWestlake Village, Ca 91361",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2759",
@@ -12670,7 +12926,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-2425",
@@ -12721,7 +12978,8 @@
     "registration": "Register online:  http://www.bikereg.com/cx-nation-cup",
     "notes": "",
     "directions": "Highway 12 to Maxwell Park in Sonoma.",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "CX"
   },
   {
     "id": "2017-2877",
@@ -12771,7 +13029,8 @@
     "registration": "https://sandiegomountainbikeskills.com/california/",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "MTN"
   },
   {
     "id": "2017-3118",
@@ -12821,7 +13080,8 @@
     "registration": "https://sandiegomountainbikeskills.com/california/",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "MTN"
   },
   {
     "id": "2017-3171",
@@ -12870,7 +13130,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "CX"
   },
   {
     "id": "2017-3031",
@@ -12920,7 +13181,8 @@
     "registration": "https://sandiegomountainbikeskills.com/california/",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "MTN"
   },
   {
     "id": "2017-3191",
@@ -12969,7 +13231,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "CX"
   },
   {
     "id": "2017-3190",
@@ -13020,7 +13283,8 @@
     "registration": "http://cyclingescapes.com/registration.html",
     "notes": "",
     "directions": "Westlake Viallge Inn",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-3131",
@@ -13069,7 +13333,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "ROAD"
   },
   {
     "id": "2017-3184",
@@ -13118,7 +13383,8 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "CX"
   },
   {
     "id": "2017-75",
@@ -13167,6 +13433,7 @@
     "registration": "",
     "notes": "",
     "directions": "",
-    "hide": "n"
+    "hide": "n",
+    "_discipline": "BMX"
   }
 ]

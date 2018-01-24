@@ -1,0 +1,2 @@
+TODO:
+- cross-check event types vs all event types, it could be that there are some events that don't have type. To do that we would need to fetch events by types and all withouth filters

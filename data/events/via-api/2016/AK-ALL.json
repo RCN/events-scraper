@@ -1,0 +1,57 @@
+[
+  {
+    "id": "2016-1858",
+    "event_id": "1858",
+    "event_year": "2016",
+    "title": "Pillar Mt. Downhill",
+    "category": "F",
+    "address": {
+      "street": "Pillar Mountain",
+      "city": "Kodiak",
+      "state": "AK",
+      "zip": "99615"
+    },
+    "lat": null,
+    "lon": null,
+    "organizer": "215307",
+    "email": "58northkodiak@gmail.com",
+    "contact": "0",
+    "date_start": "2016-05-29",
+    "date_end": "2016-05-29",
+    "setup_date_start": "",
+    "setup_date_end": "",
+    "training_date_start": "",
+    "training_date_end": "",
+    "teardown_date_start": "",
+    "teardown_date_end": "",
+    "registration_start": "1969-12-31",
+    "registration_late": "-0001-11-30",
+    "registration_end": "1969-12-31",
+    "usac_registration": "N",
+    "ncca": "",
+    "ncca_conf": "",
+    "web_page": "58-degrees.com",
+    "reg_url": "",
+    "flyer_url": "",
+    "status": "4",
+    "competitive": "N",
+    "kidsfunride": "N",
+    "nonconsecutive": "",
+    "registration_groupid": "0",
+    "registration_hold": "N",
+    "registration_notify": "",
+    "event_days": "1",
+    "description":
+      "Kodiak&#39;s Pillar Mountain Downhill Ride on the Backside trail during Crabfest.",
+    "course":
+      "The ride will be held on Sunday, May 29th at 2PM, Racers will meet at the entrance to the backside trail on Pillar Mt, approximately 3/4th&#39;s to the top, roadside.  The race ends at the Pillar Creek Hatchery parking lot, located at 9547 Monashka Bay Road - approximately halfway outside of town to &#x22;White Sands Beach&#x22;.  Transportation will not be provided!  Helmets are absolutely required. \r\n\r\nThe Backside trail can be a very challenging and dangerous trail to ride when ridden at full speed.  It is, however a perfectly capable trail for riders of all skill levels and ages with proper respect for their environment.",
+    "registration":
+      "Registration can be done at 58 Degrees North - located at 1231 Mill Bay Road.  A registration fee of 10$ per rider will be required as well as a signed waiver - anyone under the age of 18 will require an approved legal guardian or parent&#39;s signature as well.",
+    "notes":
+      "Helmets are 100% Required!!!  Barbecue after race possibly pending at Pillar Creek.  Transportation not provided.\r\n\r\nRace Starts at 2pm",
+    "directions":
+      "Start - Backside trail pull-off, roughly 3/4 to the top of Pillar Mt.  Signs will be posted.\r\n\r\nEnd - Pillar Creek Hatchery parking lot. 9547 Monashka Bay Rd.",
+    "hide": "n",
+    "_discipline": "MTN"
+  }
+]

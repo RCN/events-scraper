@@ -152,5 +152,59 @@
       "Sargent's Park (At Holman Stadium)\r\n31-35 Sargent Ave\r\nNashua, NH 03064",
     "hide": "n",
     "_discipline": "ROAD"
+  },
+  {
+    "id": "2018-794",
+    "event_id": "794",
+    "event_year": "2018",
+    "title": "Kearsarge Klassic ",
+    "category": "F",
+    "address": {
+      "street": "179 Little Sunapee Rd.",
+      "city": "New London",
+      "state": "NH",
+      "zip": "03257"
+    },
+    "lat": 43.4248994,
+    "lon": -71.995518,
+    "organizer": "132430",
+    "email": "jowers2@comcast.net",
+    "contact": "132430",
+    "date_start": "2018-09-08",
+    "date_end": "2018-09-08",
+    "setup_date_start": "",
+    "setup_date_end": "",
+    "training_date_start": "",
+    "training_date_end": "",
+    "teardown_date_start": "",
+    "teardown_date_end": "",
+    "registration_start": "1969-12-31",
+    "registration_late": "-0001-11-30",
+    "registration_end": "1969-12-31",
+    "usac_registration": "N",
+    "ncca": "",
+    "ncca_conf": "",
+    "web_page": "ausbonsargent.org",
+    "reg_url": "www.BikeReg.com",
+    "flyer_url": "",
+    "status": "2",
+    "competitive": "N",
+    "kidsfunride": "N",
+    "nonconsecutive": "",
+    "registration_groupid": "0",
+    "registration_hold": "N",
+    "registration_notify": "",
+    "event_days": "1",
+    "description":
+      "The Kearsarge Klassic is a dirt road gravel event fund raiser for the Ausbon Sargent Land Preservation Trust. ",
+    "course":
+      "There are four ride options including a 25 mile recreational circuit. All the courses are on primarily dirt roads in the Kearsarge, Sunapee, and Ragged Mountain region of New Hampshire",
+    "registration": "Registration is available on line through bikereg.com",
+    "notes":
+      "A cyclocross or gravel specific bike with 28mm or larger tires is recommended. Cue sheets will be available for all routes online. For race details consult bikereg.com and ausbonsargent.org",
+    "directions":
+      "The start/finish and registration is at the Phillips Barn, New London Historical Society, 179 Little Sunapee Rd., New London, NH",
+    "hide": "n",
+    "_discipline": "ROAD"
   }
 ]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": 657,
+    "global_id": "ncnca.org?id=657",
+    "global_id_lineage": ["ncnca.org?id=657"],
+    "author": "1",
+    "status": "publish",
+    "date": "2017-12-11 19:30:01",
+    "date_utc": "2017-12-12 02:30:01",
+    "modified": "2017-12-11 19:30:01",
+    "modified_utc": "2017-12-12 02:30:01",
+    "url":
+      "http://ncnca.org/event/uci-masters-track-cycling-world-championships/",
+    "rest_url": "http://ncnca.org/wp-json/tribe/events/v1/events/657",
+    "title": "UCI Masters Track Cycling World Championships",
+    "description": "",
+    "excerpt": "",
+    "slug": "uci-masters-track-cycling-world-championships",
+    "image": false,
+    "all_day": true,
+    "start_date": "2017-10-06 00:00:00",
+    "start_date_details": {
+      "year": "2017",
+      "month": "10",
+      "day": "06",
+      "hour": "00",
+      "minutes": "00",
+      "seconds": "00"
+    },
+    "end_date": "2017-10-13 23:59:59",
+    "end_date_details": {
+      "year": "2017",
+      "month": "10",
+      "day": "13",
+      "hour": "23",
+      "minutes": "59",
+      "seconds": "59"
+    },
+    "utc_start_date": "2017-10-06 07:00:00",
+    "utc_start_date_details": {
+      "year": "2017",
+      "month": "10",
+      "day": "06",
+      "hour": "07",
+      "minutes": "00",
+      "seconds": "00"
+    },
+    "utc_end_date": "2017-10-14 06:59:59",
+    "utc_end_date_details": {
+      "year": "2017",
+      "month": "10",
+      "day": "14",
+      "hour": "06",
+      "minutes": "59",
+      "seconds": "59"
+    },
+    "timezone": "UTC-7",
+    "timezone_abbr": "",
+    "cost": "",
+    "cost_details": {
+      "currency_symbol": "",
+      "currency_position": "prefix",
+      "values": []
+    },
+    "website": "",
+    "show_map": true,
+    "show_map_link": true,
+    "hide_from_listings": false,
+    "sticky": false,
+    "featured": false,
+    "categories": [
+      {
+        "name": "Track",
+        "slug": "track",
+        "term_group": 0,
+        "term_taxonomy_id": 7,
+        "taxonomy": "tribe_events_cat",
+        "description": "",
+        "parent": 0,
+        "count": 5,
+        "filter": "raw",
+        "id": 7,
+        "urls": {
+          "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/7",
+          "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories"
+        }
+      }
+    ],
+    "tags": [],
+    "venue": [],
+    "organizer": [
+      {
+        "id": 659,
+        "author": "1",
+        "status": "publish",
+        "date": "2017-12-11 19:30:01",
+        "date_utc": "2017-12-12 02:30:01",
+        "modified": "2017-12-11 19:30:01",
+        "modified_utc": "2017-12-12 02:30:01",
+        "url": "http://ncnca.org/organizer/uci/",
+        "organizer": "UCI",
+        "website": "http://www.uci.ch/",
+        "global_id": "ncnca.org?id=659",
+        "global_id_lineage": ["ncnca.org?id=659"]
+      }
+    ]
+  },
+  {
+    "id": 286,
+    "global_id": "ncnca.org?id=286",
+    "global_id_lineage": ["ncnca.org?id=286"],
+    "author": "1",
+    "status": "publish",
+    "date": "2017-11-21 20:33:00",
+    "date_utc": "2017-11-22 03:33:00",
+    "modified": "2017-12-28 15:33:54",
+    "modified_utc": "2017-12-28 22:33:54",
+    "url": "http://ncnca.org/event/ncnca-board-meeting/2017-11-20/",
+    "rest_url": "http://ncnca.org/wp-json/tribe/events/v1/events/286",
+    "title": "NCNCA Board Meeting",
+    "description": "",
+    "excerpt": "",
+    "slug": "ncnca-board-meeting",
+    "image": false,
+    "all_day": false,
+    "start_date": "2017-11-20 19:00:00",
+    "start_date_details": {
+      "year": "2017",
+      "month": "11",
+      "day": "20",
+      "hour": "19",
+      "minutes": "00",
+      "seconds": "00"
+    },
+    "end_date": "2017-11-20 21:00:00",
+    "end_date_details": {
+      "year": "2017",
+      "month": "11",
+      "day": "20",
+      "hour": "21",
+      "minutes": "00",
+      "seconds": "00"
+    },
+    "utc_start_date": "2017-11-21 02:00:00",
+    "utc_start_date_details": {
+      "year": "2017",
+      "month": "11",
+      "day": "21",
+      "hour": "02",
+      "minutes": "00",
+      "seconds": "00"
+    },
+    "utc_end_date": "2017-11-21 04:00:00",
+    "utc_end_date_details": {
+      "year": "2017",
+      "month": "11",
+      "day": "21",
+      "hour": "04",
+      "minutes": "00",
+      "seconds": "00"
+    },
+    "timezone": "UTC-7",
+    "timezone_abbr": "UTC-7",
+    "cost": "",
+    "cost_details": {
+      "currency_symbol": "",
+      "currency_position": "prefix",
+      "values": []
+    },
+    "website": "",
+    "show_map": true,
+    "show_map_link": true,
+    "hide_from_listings": false,
+    "sticky": false,
+    "featured": false,
+    "categories": [
+      {
+        "name": "Meeting",
+        "slug": "meeting",
+        "term_group": 0,
+        "term_taxonomy_id": 22,
+        "taxonomy": "tribe_events_cat",
+        "description": "",
+        "parent": 0,
+        "count": 14,
+        "filter": "raw",
+        "id": 22,
+        "urls": {
+          "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/22",
+          "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories"
+        }
+      }
+    ],
+    "tags": [],
+    "venue": [],
+    "organizer": []
+  },
+  {
+    "id": 597,
+    "global_id": "ncnca.org?id=597",
+    "global_id_lineage": ["ncnca.org?id=597"],
+    "author": "1",
+    "status": "publish",
+    "date": "2017-12-10 01:18:45",
+    "date_utc": "2017-12-10 08:18:45",
+    "modified": "2017-12-10 01:44:01",
+    "modified_utc": "2017-12-10 08:44:01",
+    "url": "http://ncnca.org/event/sacramento-cyclocross/",
+    "rest_url": "http://ncnca.org/wp-json/tribe/events/v1/events/597",
+    "title": "Sacramento Cyclocross",
+    "description": "",
+    "excerpt": "",
+    "slug": "sacramento-cyclocross",
+    "image": false,
+    "all_day": true,
+    "start_date": "2017-12-16 00:00:00",
+    "start_date_details": {
+      "year": "2017",
+      "month": "12",
+      "day": "16",
+      "hour": "00",
+      "minutes": "00",
+      "seconds": "00"
+    },
+    "end_date": "2017-12-16 23:59:59",
+    "end_date_details": {
+      "year": "2017",
+      "month": "12",
+      "day": "16",
+      "hour": "23",
+      "minutes": "59",
+      "seconds": "59"
+    },
+    "utc_start_date": "2017-12-16 07:00:00",
+    "utc_start_date_details": {
+      "year": "2017",
+      "month": "12",
+      "day": "16",
+      "hour": "07",
+      "minutes": "00",
+      "seconds": "00"
+    },
+    "utc_end_date": "2017-12-17 06:59:59",
+    "utc_end_date_details": {
+      "year": "2017",
+      "month": "12",
+      "day": "17",
+      "hour": "06",
+      "minutes": "59",
+      "seconds": "59"
+    },
+    "timezone": "UTC-7",
+    "timezone_abbr": "",
+    "cost": "",
+    "cost_details": {
+      "currency_symbol": "",
+      "currency_position": "prefix",
+      "values": []
+    },
+    "website": "",
+    "show_map": true,
+    "show_map_link": true,
+    "hide_from_listings": false,
+    "sticky": false,
+    "featured": false,
+    "categories": [
+      {
+        "name": "Cyclocross",
+        "slug": "cyclocross",
+        "term_group": 0,
+        "term_taxonomy_id": 4,
+        "taxonomy": "tribe_events_cat",
+        "description": "",
+        "parent": 0,
+        "count": 6,
+        "filter": "raw",
+        "id": 4,
+        "urls": {
+          "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/4",
+          "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories"
+        }
+      }
+    ],
+    "tags": [],
+    "venue": {
+      "id": 618,
+      "author": "1",
+      "status": "publish",
+      "date": "2017-12-10 01:44:01",
+      "date_utc": "2017-12-10 08:44:01",
+      "modified": "2017-12-10 01:44:01",
+      "modified_utc": "2017-12-10 08:44:01",
+      "url": "http://ncnca.org/venue/miller-park-sacramento/",
+      "venue": "Miller Park, Sacramento",
+      "address": "2701 Marina View Dr",
+      "city": "Sacramento",
+      "country": "United States",
+      "state": "CA",
+      "zip": "95818",
+      "stateprovince": "CA",
+      "geo_lat": 38.5643745,
+      "geo_lng": -121.5192237,
+      "show_map": true,
+      "show_map_link": true,
+      "global_id": "ncnca.org?id=618",
+      "global_id_lineage": ["ncnca.org?id=618"]
+    },
+    "organizer": [
+      {
+        "id": 599,
+        "author": "1",
+        "status": "publish",
+        "date": "2017-12-10 01:18:45",
+        "date_utc": "2017-12-10 08:18:45",
+        "modified": "2017-12-10 01:18:45",
+        "modified_utc": "2017-12-10 08:18:45",
+        "url": "http://ncnca.org/organizer/sacramento-cyclocross/",
+        "organizer": "Sacramento Cyclocross",
+        "website": "http://www.saccyclocross.com/",
+        "global_id": "ncnca.org?id=599",
+        "global_id_lineage": ["ncnca.org?id=599"]
+      }
+    ]
+  },
+  {
+    "id": 601,
+    "global_id": "ncnca.org?id=601",
+    "global_id_lineage": ["ncnca.org?id=601"],
+    "author": "1",
+    "status": "publish",
+    "date": "2017-12-10 01:20:16",
+    "date_utc": "2017-12-10 08:20:16",
+    "modified": "2017-12-10 01:42:04",
+    "modified_utc": "2017-12-10 08:42:04",
+    "url": "http://ncnca.org/event/surf-city-cyclo-x/",
+    "rest_url": "http://ncnca.org/wp-json/tribe/events/v1/events/601",
+    "title": "Surf City Cyclo-X",
+    "description": "",
+    "excerpt": "",
+    "slug": "surf-city-cyclo-x",
+    "image": false,
+    "all_day": true,
+    "start_date": "2017-12-17 00:00:00",
+    "start_date_details": {
+      "year": "2017",
+      "month": "12",
+      "day": "17",
+      "hour": "00",
+      "minutes": "00",
+      "seconds": "00"
+    },
+    "end_date": "2017-12-17 23:59:59",
+    "end_date_details": {
+      "year": "2017",
+      "month": "12",
+      "day": "17",
+      "hour": "23",
+      "minutes": "59",
+      "seconds": "59"
+    },
+    "utc_start_date": "2017-12-17 07:00:00",
+    "utc_start_date_details": {
+      "year": "2017",
+      "month": "12",
+      "day": "17",
+      "hour": "07",
+      "minutes": "00",
+      "seconds": "00"
+    },
+    "utc_end_date": "2017-12-18 06:59:59",
+    "utc_end_date_details": {
+      "year": "2017",
+      "month": "12",
+      "day": "18",
+      "hour": "06",
+      "minutes": "59",
+      "seconds": "59"
+    },
+    "timezone": "UTC-7",
+    "timezone_abbr": "",
+    "cost": "",
+    "cost_details": {
+      "currency_symbol": "",
+      "currency_position": "prefix",
+      "values": []
+    },
+    "website": "http://www.cyclo-x.com/",
+    "show_map": true,
+    "show_map_link": true,
+    "hide_from_listings": false,
+    "sticky": false,
+    "featured": false,
+    "categories": [
+      {
+        "name": "Cyclocross",
+        "slug": "cyclocross",
+        "term_group": 0,
+        "term_taxonomy_id": 4,
+        "taxonomy": "tribe_events_cat",
+        "description": "",
+        "parent": 0,
+        "count": 6,
+        "filter": "raw",
+        "id": 4,
+        "urls": {
+          "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/4",
+          "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories"
+        }
+      }
+    ],
+    "tags": [],
+    "venue": {
+      "id": 617,
+      "author": "1",
+      "status": "publish",
+      "date": "2017-12-10 01:42:04",
+      "date_utc": "2017-12-10 08:42:04",
+      "modified": "2017-12-10 01:42:04",
+      "modified_utc": "2017-12-10 08:42:04",
+      "url": "http://ncnca.org/venue/cal-fire-training-facility/",
+      "venue": "CAL FIRE Training Facility",
+      "address": "13575 Empire Grade Rd",
+      "city": "Santa Cruz",
+      "country": "United States",
+      "state": "CA",
+      "zip": "95060",
+      "stateprovince": "CA",
+      "geo_lat": 37.1296288,
+      "geo_lng": -122.1689643,
+      "show_map": true,
+      "show_map_link": true,
+      "global_id": "ncnca.org?id=617",
+      "global_id_lineage": ["ncnca.org?id=617"]
+    },
+    "organizer": [
+      {
+        "id": 603,
+        "author": "1",
+        "status": "publish",
+        "date": "2017-12-10 01:20:16",
+        "date_utc": "2017-12-10 08:20:16",
+        "modified": "2017-12-10 01:20:16",
+        "modified_utc": "2017-12-10 08:20:16",
+        "url": "http://ncnca.org/organizer/surf-city-cyclo-x/",
+        "organizer": "Surf City Cyclo-X",
+        "website": "http://www.cyclo-x.com/",
+        "global_id": "ncnca.org?id=603",
+        "global_id_lineage": ["ncnca.org?id=603"]
+      }
+    ]
+  },
+  {
+    "id": 693,
+    "global_id": "ncnca.org?id=693",
+    "global_id_lineage": ["ncnca.org?id=693"],
+    "author": "1",
+    "status": "publish",
+    "date": "2017-11-21 20:33:00",
+    "date_utc": "2017-11-22 03:33:00",
+    "modified": "2017-12-28 15:34:02",
+    "modified_utc": "2017-12-28 22:34:02",
+    "url": "http://ncnca.org/event/ncnca-board-meeting/2017-12-18/",
+    "rest_url": "http://ncnca.org/wp-json/tribe/events/v1/events/693",
+    "title": "NCNCA Board Meeting",
+    "description": "",
+    "excerpt": "",
+    "slug": "ncnca-board-meeting-2017-12-18",
+    "image": false,
+    "all_day": false,
+    "start_date": "2017-12-18 19:00:00",
+    "start_date_details": {
+      "year": "2017",
+      "month": "12",
+      "day": "18",
+      "hour": "19",
+      "minutes": "00",
+      "seconds": "00"
+    },
+    "end_date": "2017-12-18 21:00:00",
+    "end_date_details": {
+      "year": "2017",
+      "month": "12",
+      "day": "18",
+      "hour": "21",
+      "minutes": "00",
+      "seconds": "00"
+    },
+    "utc_start_date": "2017-12-19 02:00:00",
+    "utc_start_date_details": {
+      "year": "2017",
+      "month": "12",
+      "day": "19",
+      "hour": "02",
+      "minutes": "00",
+      "seconds": "00"
+    },
+    "utc_end_date": "2017-12-19 04:00:00",
+    "utc_end_date_details": {
+      "year": "2017",
+      "month": "12",
+      "day": "19",
+      "hour": "04",
+      "minutes": "00",
+      "seconds": "00"
+    },
+    "timezone": "UTC-7",
+    "timezone_abbr": "",
+    "cost": "",
+    "cost_details": {
+      "currency_symbol": "",
+      "currency_position": "prefix",
+      "values": []
+    },
+    "website": "",
+    "show_map": true,
+    "show_map_link": true,
+    "hide_from_listings": false,
+    "sticky": false,
+    "featured": false,
+    "categories": [
+      {
+        "name": "Meeting",
+        "slug": "meeting",
+        "term_group": 0,
+        "term_taxonomy_id": 22,
+        "taxonomy": "tribe_events_cat",
+        "description": "",
+        "parent": 0,
+        "count": 14,
+        "filter": "raw",
+        "id": 22,
+        "urls": {
+          "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/22",
+          "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories"
+        }
+      }
+    ],
+    "tags": [],
+    "venue": [],
+    "organizer": []
+  }
+]

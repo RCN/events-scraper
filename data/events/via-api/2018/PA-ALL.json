@@ -540,7 +540,7 @@
     "web_page": "www.facebook.com/SmoketownAirportCrit/",
     "reg_url": "www.bikereg.com/smoketown-criterium",
     "flyer_url": "",
-    "status": "1",
+    "status": "2",
     "competitive": "Y",
     "kidsfunride": "Y",
     "nonconsecutive": "",
@@ -551,13 +551,12 @@
     "description":
       "Smoketown Airport Criterium is a closed course located at Smoketown Airport on the actual runway!  This course is safe, family friendly and a unique event for everyone and is once again a PA BAR Event!",
     "course":
-      "Course: The Smoketown Airport Criterium course offers the unique experience of racing on an airport runway. This course offers the spectators a full view of the race from just about anywhere along the course and is very safe (no curbs and surrounded by grass). The course is a 1 mile loop with 3 gradual turns and one 180 degree high speed corner. All masters’ categories are for licensed racers in categories 1-4, only.",
+      "The Smoketown Airport Criterium course offers the unique experience of racing on an airport runway. This course offers the spectators a full view of the race from just about anywhere along the course and is very safe (no curbs and surrounded by grass). The course is a 1 mile loop with 3 gradual turns and one 180 degree high speed corner. All masters categories are for licensed racers in categories 1-4 only.",
     "registration":
-      "Pre-registration is encouraged at http://bikereg.com. Registration: Opens at 6:30 am and closes 15 min prior to posted start times.",
+      "Pre-registration is encouraged at https://www.bikereg.com/smoketown-criterium. Registration: Opens at 6:30 am and closes 15 min prior to posted start times.\r\nPre Registration : $30 (Additional races are $10) \r\nDay of registration: $40 (Additional races are $20) ",
     "notes":
-      "All prizes are $$ CASH $$ unless noted otherwise. Purse subject to change.\r\nRunway 5K Info: http://www.active.com/smoketownpa/running/runway-5k-to end-poverty-2016\r\nRegistration on the day of the event is $40.00, $3.00 of that will be donated to a local charity.\r\nBikeReg fees not included in the $30/$40 entry fee. Additional races are $10 pre-reg, $20 day of.\r\nThe race will be held RAIN or SHINE. ",
-    "directions":
-      "Use 311 Airport Drive, Bird in Hand, PA 17505 in google maps for directions",
+      "*PA BAR RACE*\r\nAll prizes are cash unless noted otherwise. Purse subject to change. RACE WILL BE HELD RAIN OR SHINE. All master categories are for licensed racers in categories 1-4 only. Contact: Brandon Linton 484-323-7205 or email: blinton@outlook.com",
+    "directions": "311 Airport Drive, Smoketown, Pa 17505",
     "hide": "n",
     "_discipline": "ROAD"
   },
@@ -923,8 +922,8 @@
       "state": "PA",
       "zip": "19044"
     },
-    "lat": null,
-    "lon": null,
+    "lat": 40.2083956,
+    "lon": -75.176469,
     "organizer": "380459",
     "email": "dhaggerty@horsham.org",
     "contact": "0",

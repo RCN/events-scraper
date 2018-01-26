@@ -24,5 +24,5 @@ require('babel-polyfill')
 // require('./lib/scrapers/usac-racers');
 // require('./lib/scrapers/usac-events');
 // require('./lib/scrapers/usac-events-via-api')
-// require('./lib/scrapers/ncnca')
-require('./lib/scrapers/bikereg/scrape-all')
+require('./lib/scrapers/ncnca')
+// require('./lib/scrapers/bikereg/scrape-all')

@@ -1,0 +1,233 @@
+[
+  {
+    "id": 26,
+    "count": 17,
+    "description": "",
+    "name": "Championships",
+    "slug": "championships",
+    "taxonomy": "tribe_events_cat",
+    "parent": 0,
+    "meta": [],
+    "url": "http://ncnca.org/events/category/championships/",
+    "urls": {
+      "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/26",
+      "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories"
+    }
+  },
+  {
+    "id": 14,
+    "count": 17,
+    "description": "",
+    "name": "Circuit Race",
+    "slug": "circuit-race",
+    "taxonomy": "tribe_events_cat",
+    "parent": 6,
+    "meta": [],
+    "url": "http://ncnca.org/events/category/road/circuit-race/",
+    "urls": {
+      "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/14",
+      "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories",
+      "up": "http://ncnca.org/wp-json/tribe/events/v1/categories/6"
+    }
+  },
+  {
+    "id": 9,
+    "count": 8,
+    "description": "",
+    "name": "Clinic",
+    "slug": "clinic",
+    "taxonomy": "tribe_events_cat",
+    "parent": 0,
+    "meta": [],
+    "url": "http://ncnca.org/events/category/clinic/",
+    "urls": {
+      "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/9",
+      "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories"
+    }
+  },
+  {
+    "id": 24,
+    "count": 51,
+    "description": "",
+    "name": "Criterium",
+    "slug": "criterium",
+    "taxonomy": "tribe_events_cat",
+    "parent": 6,
+    "meta": [],
+    "url": "http://ncnca.org/events/category/road/criterium/",
+    "urls": {
+      "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/24",
+      "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories",
+      "up": "http://ncnca.org/wp-json/tribe/events/v1/categories/6"
+    }
+  },
+  {
+    "id": 4,
+    "count": 6,
+    "description": "",
+    "name": "Cyclocross",
+    "slug": "cyclocross",
+    "taxonomy": "tribe_events_cat",
+    "parent": 0,
+    "meta": [],
+    "url": "http://ncnca.org/events/category/cyclocross/",
+    "urls": {
+      "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/4",
+      "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories"
+    }
+  },
+  {
+    "id": 16,
+    "count": 5,
+    "description": "",
+    "name": "Hillclimb",
+    "slug": "hillclimb",
+    "taxonomy": "tribe_events_cat",
+    "parent": 6,
+    "meta": [],
+    "url": "http://ncnca.org/events/category/road/hillclimb/",
+    "urls": {
+      "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/16",
+      "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories",
+      "up": "http://ncnca.org/wp-json/tribe/events/v1/categories/6"
+    }
+  },
+  {
+    "id": 17,
+    "count": 1,
+    "description": "",
+    "name": "Juniors",
+    "slug": "juniors",
+    "taxonomy": "tribe_events_cat",
+    "parent": 0,
+    "meta": [],
+    "url": "http://ncnca.org/events/category/juniors/",
+    "urls": {
+      "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/17",
+      "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories"
+    }
+  },
+  {
+    "id": 22,
+    "count": 14,
+    "description": "",
+    "name": "Meeting",
+    "slug": "meeting",
+    "taxonomy": "tribe_events_cat",
+    "parent": 0,
+    "meta": [],
+    "url": "http://ncnca.org/events/category/meeting/",
+    "urls": {
+      "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/22",
+      "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories"
+    }
+  },
+  {
+    "id": 5,
+    "count": 4,
+    "description": "",
+    "name": "MTB",
+    "slug": "mtb",
+    "taxonomy": "tribe_events_cat",
+    "parent": 0,
+    "meta": [],
+    "url": "http://ncnca.org/events/category/mtb/",
+    "urls": {
+      "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/5",
+      "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories"
+    }
+  },
+  {
+    "id": 25,
+    "count": 2,
+    "description": "",
+    "name": "Non-competitive",
+    "slug": "non-competitive",
+    "taxonomy": "tribe_events_cat",
+    "parent": 0,
+    "meta": [],
+    "url": "http://ncnca.org/events/category/non-competitive/",
+    "urls": {
+      "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/25",
+      "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories"
+    }
+  },
+  {
+    "id": 6,
+    "count": 114,
+    "description": "",
+    "name": "Road",
+    "slug": "road",
+    "taxonomy": "tribe_events_cat",
+    "parent": 0,
+    "meta": [],
+    "url": "http://ncnca.org/events/category/road/",
+    "urls": {
+      "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/6",
+      "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories"
+    }
+  },
+  {
+    "id": 21,
+    "count": 31,
+    "description": "",
+    "name": "Road Race",
+    "slug": "road-race",
+    "taxonomy": "tribe_events_cat",
+    "parent": 6,
+    "meta": [],
+    "url": "http://ncnca.org/events/category/road/road-race/",
+    "urls": {
+      "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/21",
+      "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories",
+      "up": "http://ncnca.org/wp-json/tribe/events/v1/categories/6"
+    }
+  },
+  {
+    "id": 23,
+    "count": 6,
+    "description": "",
+    "name": "Stage Race",
+    "slug": "stage-race",
+    "taxonomy": "tribe_events_cat",
+    "parent": 6,
+    "meta": [],
+    "url": "http://ncnca.org/events/category/road/stage-race/",
+    "urls": {
+      "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/23",
+      "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories",
+      "up": "http://ncnca.org/wp-json/tribe/events/v1/categories/6"
+    }
+  },
+  {
+    "id": 15,
+    "count": 20,
+    "description": "",
+    "name": "Time Trial",
+    "slug": "time-trial",
+    "taxonomy": "tribe_events_cat",
+    "parent": 6,
+    "meta": [],
+    "url": "http://ncnca.org/events/category/road/time-trial/",
+    "urls": {
+      "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/15",
+      "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories",
+      "up": "http://ncnca.org/wp-json/tribe/events/v1/categories/6"
+    }
+  },
+  {
+    "id": 7,
+    "count": 5,
+    "description": "",
+    "name": "Track",
+    "slug": "track",
+    "taxonomy": "tribe_events_cat",
+    "parent": 0,
+    "meta": [],
+    "url": "http://ncnca.org/events/category/track/",
+    "urls": {
+      "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/7",
+      "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories"
+    }
+  }
+]

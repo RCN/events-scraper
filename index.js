@@ -6,21 +6,23 @@ require('dotenv').config()
 require('babel-register')({
   //see https://babeljs.io/docs/usage/options/#options for more config options
   babelrc: false,
-  "presets": [
-    ["env", {
-      "targets": {
-        "node": "current"
+  presets: [
+    [
+      'env',
+      {
+        targets: {
+          node: 'current'
+        }
       }
-    }]
+    ]
   ],
-  "plugins": [
-    "transform-object-rest-spread"
-  ],
+  plugins: ['transform-object-rest-spread']
 })
 require('babel-polyfill')
 // require('./lib/scrapers/usac-results')
 // require('./lib/scrapers/example-scraper');
 // require('./lib/scrapers/usac-racers');
 // require('./lib/scrapers/usac-events');
-require('./lib/scrapers/usac-events-via-api');
+// require('./lib/scrapers/usac-events-via-api')
+require('./lib/scrapers/ncnca')
 // require('./lib/scrapers/bikereg/scrape-all')

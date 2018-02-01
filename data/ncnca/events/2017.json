@@ -1,111 +1,5 @@
 [
   {
-    "id": 657,
-    "global_id": "ncnca.org?id=657",
-    "global_id_lineage": ["ncnca.org?id=657"],
-    "author": "1",
-    "status": "publish",
-    "date": "2017-12-11 19:30:01",
-    "date_utc": "2017-12-12 02:30:01",
-    "modified": "2017-12-11 19:30:01",
-    "modified_utc": "2017-12-12 02:30:01",
-    "url":
-      "http://ncnca.org/event/uci-masters-track-cycling-world-championships/",
-    "rest_url": "http://ncnca.org/wp-json/tribe/events/v1/events/657",
-    "title": "UCI Masters Track Cycling World Championships",
-    "description": "",
-    "excerpt": "",
-    "slug": "uci-masters-track-cycling-world-championships",
-    "image": false,
-    "all_day": true,
-    "start_date": "2017-10-06 00:00:00",
-    "start_date_details": {
-      "year": "2017",
-      "month": "10",
-      "day": "06",
-      "hour": "00",
-      "minutes": "00",
-      "seconds": "00"
-    },
-    "end_date": "2017-10-13 23:59:59",
-    "end_date_details": {
-      "year": "2017",
-      "month": "10",
-      "day": "13",
-      "hour": "23",
-      "minutes": "59",
-      "seconds": "59"
-    },
-    "utc_start_date": "2017-10-06 07:00:00",
-    "utc_start_date_details": {
-      "year": "2017",
-      "month": "10",
-      "day": "06",
-      "hour": "07",
-      "minutes": "00",
-      "seconds": "00"
-    },
-    "utc_end_date": "2017-10-14 06:59:59",
-    "utc_end_date_details": {
-      "year": "2017",
-      "month": "10",
-      "day": "14",
-      "hour": "06",
-      "minutes": "59",
-      "seconds": "59"
-    },
-    "timezone": "UTC-7",
-    "timezone_abbr": "",
-    "cost": "",
-    "cost_details": {
-      "currency_symbol": "",
-      "currency_position": "prefix",
-      "values": []
-    },
-    "website": "",
-    "show_map": true,
-    "show_map_link": true,
-    "hide_from_listings": false,
-    "sticky": false,
-    "featured": false,
-    "categories": [
-      {
-        "name": "Track",
-        "slug": "track",
-        "term_group": 0,
-        "term_taxonomy_id": 7,
-        "taxonomy": "tribe_events_cat",
-        "description": "",
-        "parent": 0,
-        "count": 5,
-        "filter": "raw",
-        "id": 7,
-        "urls": {
-          "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/7",
-          "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories"
-        }
-      }
-    ],
-    "tags": [],
-    "venue": [],
-    "organizer": [
-      {
-        "id": 659,
-        "author": "1",
-        "status": "publish",
-        "date": "2017-12-11 19:30:01",
-        "date_utc": "2017-12-12 02:30:01",
-        "modified": "2017-12-11 19:30:01",
-        "modified_utc": "2017-12-12 02:30:01",
-        "url": "http://ncnca.org/organizer/uci/",
-        "organizer": "UCI",
-        "website": "http://www.uci.ch/",
-        "global_id": "ncnca.org?id=659",
-        "global_id_lineage": ["ncnca.org?id=659"]
-      }
-    ]
-  },
-  {
     "id": 286,
     "global_id": "ncnca.org?id=286",
     "global_id_lineage": ["ncnca.org?id=286"],
@@ -446,6 +340,112 @@
         "website": "http://www.cyclo-x.com/",
         "global_id": "ncnca.org?id=603",
         "global_id_lineage": ["ncnca.org?id=603"]
+      }
+    ]
+  },
+  {
+    "id": 657,
+    "global_id": "ncnca.org?id=657",
+    "global_id_lineage": ["ncnca.org?id=657"],
+    "author": "1",
+    "status": "publish",
+    "date": "2017-12-11 19:30:01",
+    "date_utc": "2017-12-12 02:30:01",
+    "modified": "2017-12-11 19:30:01",
+    "modified_utc": "2017-12-12 02:30:01",
+    "url":
+      "http://ncnca.org/event/uci-masters-track-cycling-world-championships/",
+    "rest_url": "http://ncnca.org/wp-json/tribe/events/v1/events/657",
+    "title": "UCI Masters Track Cycling World Championships",
+    "description": "",
+    "excerpt": "",
+    "slug": "uci-masters-track-cycling-world-championships",
+    "image": false,
+    "all_day": true,
+    "start_date": "2017-10-06 00:00:00",
+    "start_date_details": {
+      "year": "2017",
+      "month": "10",
+      "day": "06",
+      "hour": "00",
+      "minutes": "00",
+      "seconds": "00"
+    },
+    "end_date": "2017-10-13 23:59:59",
+    "end_date_details": {
+      "year": "2017",
+      "month": "10",
+      "day": "13",
+      "hour": "23",
+      "minutes": "59",
+      "seconds": "59"
+    },
+    "utc_start_date": "2017-10-06 07:00:00",
+    "utc_start_date_details": {
+      "year": "2017",
+      "month": "10",
+      "day": "06",
+      "hour": "07",
+      "minutes": "00",
+      "seconds": "00"
+    },
+    "utc_end_date": "2017-10-14 06:59:59",
+    "utc_end_date_details": {
+      "year": "2017",
+      "month": "10",
+      "day": "14",
+      "hour": "06",
+      "minutes": "59",
+      "seconds": "59"
+    },
+    "timezone": "UTC-7",
+    "timezone_abbr": "",
+    "cost": "",
+    "cost_details": {
+      "currency_symbol": "",
+      "currency_position": "prefix",
+      "values": []
+    },
+    "website": "",
+    "show_map": true,
+    "show_map_link": true,
+    "hide_from_listings": false,
+    "sticky": false,
+    "featured": false,
+    "categories": [
+      {
+        "name": "Track",
+        "slug": "track",
+        "term_group": 0,
+        "term_taxonomy_id": 7,
+        "taxonomy": "tribe_events_cat",
+        "description": "",
+        "parent": 0,
+        "count": 5,
+        "filter": "raw",
+        "id": 7,
+        "urls": {
+          "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/7",
+          "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories"
+        }
+      }
+    ],
+    "tags": [],
+    "venue": [],
+    "organizer": [
+      {
+        "id": 659,
+        "author": "1",
+        "status": "publish",
+        "date": "2017-12-11 19:30:01",
+        "date_utc": "2017-12-12 02:30:01",
+        "modified": "2017-12-11 19:30:01",
+        "modified_utc": "2017-12-12 02:30:01",
+        "url": "http://ncnca.org/organizer/uci/",
+        "organizer": "UCI",
+        "website": "http://www.uci.ch/",
+        "global_id": "ncnca.org?id=659",
+        "global_id_lineage": ["ncnca.org?id=659"]
       }
     ]
   },

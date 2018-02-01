@@ -171,7 +171,10 @@
         "global_id": "ncnca.org?id=166",
         "global_id_lineage": ["ncnca.org?id=166"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/",
+    "flyerUrl": "http://www.usacycling.org/events/getflyer.php?permit=2018-250",
+    "permit": "2018-250"
   },
   {
     "id": 246,
@@ -345,7 +348,10 @@
         "global_id": "ncnca.org?id=166",
         "global_id_lineage": ["ncnca.org?id=166"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/",
+    "flyerUrl": "http://www.usacycling.org/events/getflyer.php?permit=2018-250",
+    "permit": "2018-250"
   },
   {
     "id": 247,
@@ -519,7 +525,10 @@
         "global_id": "ncnca.org?id=166",
         "global_id_lineage": ["ncnca.org?id=166"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/",
+    "flyerUrl": "http://www.usacycling.org/events/getflyer.php?permit=2018-250",
+    "permit": "2018-250"
   },
   {
     "id": 248,
@@ -693,7 +702,10 @@
         "global_id": "ncnca.org?id=166",
         "global_id_lineage": ["ncnca.org?id=166"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/",
+    "flyerUrl": "http://www.usacycling.org/events/getflyer.php?permit=2018-250",
+    "permit": "2018-250"
   },
   {
     "id": 338,
@@ -855,7 +867,10 @@
         "global_id": "ncnca.org?id=341",
         "global_id_lineage": ["ncnca.org?id=341"]
       }
-    ]
+    ],
+    "flyerUrl":
+      "https://legacy.usacycling.org/events/getflyer.php?permit=2018-406",
+    "permit": "2018-406"
   },
   {
     "id": 342,
@@ -1017,7 +1032,10 @@
         "global_id": "ncnca.org?id=341",
         "global_id_lineage": ["ncnca.org?id=341"]
       }
-    ]
+    ],
+    "flyerUrl":
+      "https://legacy.usacycling.org/events/getflyer.php?permit=2018-406",
+    "permit": "2018-406"
   },
   {
     "id": 343,
@@ -1179,7 +1197,10 @@
         "global_id": "ncnca.org?id=341",
         "global_id_lineage": ["ncnca.org?id=341"]
       }
-    ]
+    ],
+    "flyerUrl":
+      "https://legacy.usacycling.org/events/getflyer.php?permit=2018-406",
+    "permit": "2018-406"
   },
   {
     "id": 344,
@@ -1341,7 +1362,10 @@
         "global_id": "ncnca.org?id=341",
         "global_id_lineage": ["ncnca.org?id=341"]
       }
-    ]
+    ],
+    "flyerUrl":
+      "https://legacy.usacycling.org/events/getflyer.php?permit=2018-406",
+    "permit": "2018-406"
   },
   {
     "id": 348,
@@ -1484,7 +1508,14 @@
         "global_id": "ncnca.org?id=692",
         "global_id_lineage": ["ncnca.org?id=692"]
       }
-    ]
+    ],
+    "registrationUrl":
+      "https://legacy.usacycling.org/myusac/index.php?pagename=registration&eventid=376&year=2018",
+    "resultsUrl":
+      "http://www.usacycling.org/results/index.php?year=2018&id=376",
+    "flyerUrl":
+      "https://legacy.usacycling.org/events/getflyer.php?permit=2018-376",
+    "permit": "2018-376"
   },
   {
     "id": 351,
@@ -1645,7 +1676,13 @@
         "global_id": "ncnca.org?id=170",
         "global_id_lineage": ["ncnca.org?id=170"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/sbhc2018",
+    "resultsUrl":
+      "http://www.usacycling.org/results/index.php?year=2018&id=288",
+    "flyerUrl":
+      "https://legacy.usacycling.org/events/getflyer.php?permit=2018-288",
+    "permit": "2018-288"
   },
   {
     "id": 353,
@@ -1933,7 +1970,13 @@
         "global_id": "ncnca.org?id=79",
         "global_id_lineage": ["ncnca.org?id=79"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/events/?pid=4870",
+    "resultsUrl":
+      "http://www.usacycling.org/results/index.php?year=2018&id=477",
+    "flyerUrl":
+      "https://legacy.usacycling.org/events/getflyer.php?permit=2018-477",
+    "permit": "2018-477"
   },
   {
     "id": 363,
@@ -2054,7 +2097,11 @@
         "global_id": "ncnca.org?id=360",
         "global_id_lineage": ["ncnca.org?id=360"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/folsom-winter-criterium0",
+    "flyerUrl":
+      "https://legacy.usacycling.org/events/getflyer.php?permit=2018-168",
+    "permit": "2018-168"
   },
   {
     "id": 365,
@@ -3108,7 +3155,13 @@
         "global_id": "ncnca.org?id=375",
         "global_id_lineage": ["ncnca.org?id=375"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/otf-stage-race",
+    "resultsUrl":
+      "https://www.usacycling.org/results/index.php?year=2018&id=299",
+    "flyerUrl":
+      "https://legacy.usacycling.org/events/getflyer.php?permit=2018-299",
+    "permit": "2018-299"
   },
   {
     "id": 379,
@@ -3254,7 +3307,13 @@
         "global_id": "ncnca.org?id=75",
         "global_id_lineage": ["ncnca.org?id=75"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/",
+    "resultsUrl":
+      "http://www.usacycling.org/results/index.php?year=2018&id=413",
+    "flyerUrl":
+      "https://legacy.usacycling.org/events/getflyer.php?permit=2018-413",
+    "permit": "2018-413"
   },
   {
     "id": 381,
@@ -3399,7 +3458,13 @@
         "global_id": "ncnca.org?id=75",
         "global_id_lineage": ["ncnca.org?id=75"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/",
+    "resultsUrl":
+      "http://www.usacycling.org/results/index.php?year=2018&id=417",
+    "flyerUrl":
+      "https://legacy.usacycling.org/events/getflyer.php?permit=2018-417",
+    "permit": "2018-417"
   },
   {
     "id": 383,
@@ -3542,7 +3607,13 @@
         "global_id": "ncnca.org?id=385",
         "global_id_lineage": ["ncnca.org?id=385"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/cherry-pie",
+    "resultsUrl":
+      "http://www.usacycling.org/results/index.php?year=2018&id=455",
+    "flyerUrl":
+      "https://legacy.usacycling.org/events/getflyer.php?permit=2018-455",
+    "permit": "2018-455"
   },
   {
     "id": 386,
@@ -3687,7 +3758,12 @@
         "global_id": "ncnca.org?id=75",
         "global_id_lineage": ["ncnca.org?id=75"]
       }
-    ]
+    ],
+    "resultsUrl":
+      "http://www.usacycling.org/results/index.php?year=2018&id=420",
+    "flyerUrl":
+      "https://legacy.usacycling.org/events/getflyer.php?permit=2018-420",
+    "permit": "2018-420"
   },
   {
     "id": 390,
@@ -3900,7 +3976,13 @@
         "global_id": "ncnca.org?id=75",
         "global_id_lineage": ["ncnca.org?id=75"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/madera-county-stage-race",
+    "resultsUrl":
+      "http://www.usacycling.org/results/index.php?year=2018&id=528",
+    "flyerUrl":
+      "https://legacy.usacycling.org/events/getflyer.php?permit=2018-528",
+    "permit": "2018-528"
   },
   {
     "id": 392,
@@ -4045,7 +4127,13 @@
         "global_id": "ncnca.org?id=79",
         "global_id_lineage": ["ncnca.org?id=79"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/events/?pid=4870",
+    "resultsUrl":
+      "http://www.usacycling.org/results/index.php?year=2018&id=478",
+    "flyerUrl":
+      "https://legacy.usacycling.org/events/getflyer.php?permit=2018-478",
+    "permit": "2018-478"
   },
   {
     "id": 394,
@@ -4311,7 +4399,13 @@
         "global_id": "ncnca.org?id=75",
         "global_id_lineage": ["ncnca.org?id=75"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/wards-ferry-road-race",
+    "resultsUrl":
+      "http://www.usacycling.org/results/index.php?year=2018&id=656",
+    "flyerUrl":
+      "https://legacy.usacycling.org/events/getflyer.php?permit=2018-656",
+    "permit": "2018-656"
   },
   {
     "id": 399,
@@ -4471,7 +4565,13 @@
         "global_id": "ncnca.org?id=401",
         "global_id_lineage": ["ncnca.org?id=401"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.usacycling.org/",
+    "resultsUrl":
+      "http://www.usacycling.org/results/index.php?year=2018&id=654",
+    "flyerUrl":
+      "https://legacy.usacycling.org/events/getflyer.php?permit=2018-654",
+    "permit": "2018-654"
   },
   {
     "id": 402,
@@ -5339,7 +5439,8 @@
         "global_id": "ncnca.org?id=79",
         "global_id_lineage": ["ncnca.org?id=79"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/events/?pid=4870"
   },
   {
     "id": 417,
@@ -5462,7 +5563,8 @@
         "global_id": "ncnca.org?id=79",
         "global_id_lineage": ["ncnca.org?id=79"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/events/?pid=4870"
   },
   {
     "id": 419,
@@ -6668,7 +6770,8 @@
         "global_id": "ncnca.org?id=79",
         "global_id_lineage": ["ncnca.org?id=79"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/events/?pid=4870"
   },
   {
     "id": 443,
@@ -7035,7 +7138,8 @@
         "global_id": "ncnca.org?id=79",
         "global_id_lineage": ["ncnca.org?id=79"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/events/?pid=4870"
   },
   {
     "id": 451,
@@ -7296,7 +7400,8 @@
         "global_id": "ncnca.org?id=79",
         "global_id_lineage": ["ncnca.org?id=79"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/events/?pid=4870"
   },
   {
     "id": 456,
@@ -8272,7 +8377,8 @@
         "global_id": "ncnca.org?id=79",
         "global_id_lineage": ["ncnca.org?id=79"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/events/?pid=4870"
   },
   {
     "id": 491,
@@ -8779,7 +8885,8 @@
         "global_id": "ncnca.org?id=79",
         "global_id_lineage": ["ncnca.org?id=79"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/events/?pid=4870"
   },
   {
     "id": 500,
@@ -8922,7 +9029,8 @@
         "global_id": "ncnca.org?id=79",
         "global_id_lineage": ["ncnca.org?id=79"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/events/?pid=4870"
   },
   {
     "id": 502,
@@ -9065,7 +9173,8 @@
         "global_id": "ncnca.org?id=79",
         "global_id_lineage": ["ncnca.org?id=79"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/events/?pid=4870"
   },
   {
     "id": 504,
@@ -9208,7 +9317,8 @@
         "global_id": "ncnca.org?id=79",
         "global_id_lineage": ["ncnca.org?id=79"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/events/?pid=4870"
   },
   {
     "id": 506,
@@ -9924,7 +10034,8 @@
         "global_id": "ncnca.org?id=79",
         "global_id_lineage": ["ncnca.org?id=79"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/events/?pid=4870"
   },
   {
     "id": 522,
@@ -10047,7 +10158,8 @@
         "global_id": "ncnca.org?id=79",
         "global_id_lineage": ["ncnca.org?id=79"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/events/?pid=4870"
   },
   {
     "id": 524,
@@ -11131,7 +11243,8 @@
         "global_id": "ncnca.org?id=79",
         "global_id_lineage": ["ncnca.org?id=79"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/events/?pid=4870"
   },
   {
     "id": 546,
@@ -11395,7 +11508,8 @@
         "global_id": "ncnca.org?id=79",
         "global_id_lineage": ["ncnca.org?id=79"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/events/?pid=4870"
   },
   {
     "id": 551,
@@ -11518,7 +11632,8 @@
         "global_id": "ncnca.org?id=79",
         "global_id_lineage": ["ncnca.org?id=79"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/events/?pid=4870"
   },
   {
     "id": 553,
@@ -11762,7 +11877,8 @@
         "global_id": "ncnca.org?id=79",
         "global_id_lineage": ["ncnca.org?id=79"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/events/?pid=4870"
   },
   {
     "id": 558,
@@ -12008,7 +12124,8 @@
         "global_id": "ncnca.org?id=79",
         "global_id_lineage": ["ncnca.org?id=79"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/events/?pid=4870"
   },
   {
     "id": 562,
@@ -12500,7 +12617,8 @@
         "global_id": "ncnca.org?id=79",
         "global_id_lineage": ["ncnca.org?id=79"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/events/?pid=4870"
   },
   {
     "id": 570,
@@ -12994,7 +13112,8 @@
         "global_id": "ncnca.org?id=79",
         "global_id_lineage": ["ncnca.org?id=79"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/events/?pid=4870"
   },
   {
     "id": 578,
@@ -13953,7 +14072,12 @@
         "global_id": "ncnca.org?id=45",
         "global_id_lineage": ["ncnca.org?id=45"]
       }
-    ]
+    ],
+    "resultsUrl":
+      "http://www.usacycling.org/results/index.php?year=2018&id=404",
+    "flyerUrl":
+      "https://legacy.usacycling.org/events/getflyer.php?permit=2018-404",
+    "permit": "2018-404"
   },
   {
     "id": 611,
@@ -14079,7 +14203,12 @@
         "global_id": "ncnca.org?id=45",
         "global_id_lineage": ["ncnca.org?id=45"]
       }
-    ]
+    ],
+    "resultsUrl":
+      "http://www.usacycling.org/results/index.php?year=2018&id=404",
+    "flyerUrl":
+      "https://legacy.usacycling.org/events/getflyer.php?permit=2018-404",
+    "permit": "2018-404"
   },
   {
     "id": 613,
@@ -17663,7 +17792,14 @@
         "global_id": "ncnca.org?id=170",
         "global_id_lineage": ["ncnca.org?id=170"]
       }
-    ]
+    ],
+    "registrationUrl":
+      "https://www.bikereg.com/beat-the-clock-training-series-1",
+    "resultsUrl":
+      "http://www.usacycling.org/results/index.php?year=2018&id=346",
+    "flyerUrl":
+      "https://legacy.usacycling.org/events/getflyer.php?permit=2018-346",
+    "permit": "2018-346"
   },
   {
     "id": 891,
@@ -17807,7 +17943,14 @@
         "global_id": "ncnca.org?id=170",
         "global_id_lineage": ["ncnca.org?id=170"]
       }
-    ]
+    ],
+    "registrationUrl":
+      "https://www.bikereg.com/beat-the-clock-training-series-1",
+    "resultsUrl":
+      "http://www.usacycling.org/results/index.php?year=2018&id=346",
+    "flyerUrl":
+      "https://legacy.usacycling.org/events/getflyer.php?permit=2018-346",
+    "permit": "2018-346"
   },
   {
     "id": 892,
@@ -17951,7 +18094,14 @@
         "global_id": "ncnca.org?id=170",
         "global_id_lineage": ["ncnca.org?id=170"]
       }
-    ]
+    ],
+    "registrationUrl":
+      "https://www.bikereg.com/beat-the-clock-training-series-1",
+    "resultsUrl":
+      "http://www.usacycling.org/results/index.php?year=2018&id=346",
+    "flyerUrl":
+      "https://legacy.usacycling.org/events/getflyer.php?permit=2018-346",
+    "permit": "2018-346"
   },
   {
     "id": 893,
@@ -18095,6 +18245,13 @@
         "global_id": "ncnca.org?id=170",
         "global_id_lineage": ["ncnca.org?id=170"]
       }
-    ]
+    ],
+    "registrationUrl":
+      "https://www.bikereg.com/beat-the-clock-training-series-1",
+    "resultsUrl":
+      "http://www.usacycling.org/results/index.php?year=2018&id=346",
+    "flyerUrl":
+      "https://legacy.usacycling.org/events/getflyer.php?permit=2018-346",
+    "permit": "2018-346"
   }
 ]

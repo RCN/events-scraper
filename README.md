@@ -1,4 +1,7 @@
-# usac-scraper
+# Events Scraper
+
+Scrapes bike events from USAC, BikeReg and NCNCA to be shown on https://rcn.io. Merges data from those together to get the ultimate event information.
+
 
 ### Results
 If following results url mutltiple results open, e.g.:

@@ -9435,8 +9435,8 @@
     "status": "publish",
     "date": "2017-12-09 23:39:44",
     "date_utc": "2017-12-10 06:39:44",
-    "modified": "2017-12-09 23:39:44",
-    "modified_utc": "2017-12-10 06:39:44",
+    "modified": "2018-02-01 20:48:51",
+    "modified_utc": "2018-02-02 03:48:51",
     "url": "http://ncnca.org/event/pescadero-road-race/",
     "rest_url": "http://ncnca.org/wp-json/tribe/events/v1/events/508",
     "title": "Pescadero Road Race",
@@ -9482,14 +9482,14 @@
       "seconds": "59"
     },
     "timezone": "UTC-7",
-    "timezone_abbr": "",
+    "timezone_abbr": "UTC-7",
     "cost": "",
     "cost_details": {
       "currency_symbol": "",
       "currency_position": "prefix",
       "values": []
     },
-    "website": "",
+    "website": "http://www.altovelo.org/page/show/765625-pescadero-road-race",
     "show_map": true,
     "show_map_link": true,
     "hide_from_listings": false,
@@ -9531,7 +9531,29 @@
       }
     ],
     "tags": [],
-    "venue": [],
+    "venue": {
+      "id": 904,
+      "author": "1",
+      "status": "publish",
+      "date": "2018-02-01 20:48:51",
+      "date_utc": "2018-02-02 03:48:51",
+      "modified": "2018-02-01 20:48:51",
+      "modified_utc": "2018-02-02 03:48:51",
+      "url": "http://ncnca.org/venue/pescadero-road-race/",
+      "venue": "Pescadero Road Race",
+      "address": "350 Butano Cut-Off",
+      "city": "Pescadero",
+      "country": "United States",
+      "state": "CA",
+      "zip": "94060",
+      "stateprovince": "CA",
+      "geo_lat": 37.2479536,
+      "geo_lng": -122.3646592,
+      "show_map": true,
+      "show_map_link": true,
+      "global_id": "ncnca.org?id=904",
+      "global_id_lineage": ["ncnca.org?id=904"]
+    },
     "organizer": [
       {
         "id": 510,
@@ -9546,7 +9568,13 @@
         "global_id": "ncnca.org?id=510",
         "global_id_lineage": ["ncnca.org?id=510"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/",
+    "resultsUrl":
+      "http://www.usacycling.org/results/index.php?year=2018&id=784",
+    "flyerUrl":
+      "https://legacy.usacycling.org/events/getflyer.php?permit=2018-784",
+    "permit": "2018-784"
   },
   {
     "id": 511,

@@ -1,7 +1,7 @@
 [
   {
     "id": 26,
-    "count": 17,
+    "count": 24,
     "description": "",
     "name": "Championships",
     "slug": "championships",
@@ -47,7 +47,7 @@
   },
   {
     "id": 24,
-    "count": 51,
+    "count": 52,
     "description": "",
     "name": "Criterium",
     "slug": "criterium",
@@ -154,7 +154,7 @@
   },
   {
     "id": 6,
-    "count": 114,
+    "count": 115,
     "description": "",
     "name": "Road",
     "slug": "road",

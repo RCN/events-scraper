@@ -92,7 +92,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -109,7 +109,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -269,7 +269,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -286,7 +286,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -446,7 +446,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -463,7 +463,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -623,7 +623,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -640,7 +640,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -801,7 +801,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -818,7 +818,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -966,7 +966,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -983,7 +983,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -1131,7 +1131,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -1148,7 +1148,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -1296,7 +1296,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -1313,7 +1313,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -1444,7 +1444,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -1461,7 +1461,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -1611,7 +1611,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -1692,9 +1692,9 @@
     "status": "publish",
     "date": "2017-11-21 21:52:19",
     "date_utc": "2017-11-22 04:52:19",
-    "modified": "2018-01-31 00:03:51",
-    "modified_utc": "2018-01-31 07:03:51",
-    "url": "http://ncnca.org/event/central-coast-road-series/2018-02-10/",
+    "modified": "2018-02-02 16:45:43",
+    "modified_utc": "2018-02-02 23:45:43",
+    "url": "http://ncnca.org/event/central-coast-road-series/2018-02-25/",
     "rest_url": "http://ncnca.org/wp-json/tribe/events/v1/events/353",
     "title": "Central Coast Road Series",
     "description": "",
@@ -1702,38 +1702,38 @@
     "slug": "central-coast-road-series",
     "image": false,
     "all_day": true,
-    "start_date": "2018-02-10 00:00:00",
+    "start_date": "2018-02-25 00:00:00",
     "start_date_details": {
       "year": "2018",
       "month": "02",
-      "day": "10",
+      "day": "25",
       "hour": "00",
       "minutes": "00",
       "seconds": "00"
     },
-    "end_date": "2018-02-10 23:59:59",
+    "end_date": "2018-02-25 23:59:59",
     "end_date_details": {
       "year": "2018",
       "month": "02",
-      "day": "10",
+      "day": "25",
       "hour": "23",
       "minutes": "59",
       "seconds": "59"
     },
-    "utc_start_date": "2018-02-10 07:00:00",
+    "utc_start_date": "2018-02-25 07:00:00",
     "utc_start_date_details": {
       "year": "2018",
       "month": "02",
-      "day": "10",
+      "day": "25",
       "hour": "07",
       "minutes": "00",
       "seconds": "00"
     },
-    "utc_end_date": "2018-02-11 06:59:59",
+    "utc_end_date": "2018-02-26 06:59:59",
     "utc_end_date_details": {
       "year": "2018",
       "month": "02",
-      "day": "11",
+      "day": "26",
       "hour": "06",
       "minutes": "59",
       "seconds": "59"
@@ -1778,7 +1778,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -1921,7 +1921,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -2055,7 +2055,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -2072,7 +2072,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -2111,8 +2111,8 @@
     "status": "publish",
     "date": "2017-11-21 21:52:19",
     "date_utc": "2017-11-22 04:52:19",
-    "modified": "2018-01-31 00:03:53",
-    "modified_utc": "2018-01-31 07:03:53",
+    "modified": "2018-02-02 16:45:45",
+    "modified_utc": "2018-02-02 23:45:45",
     "url": "http://ncnca.org/event/central-coast-road-series/2018-03-17/",
     "rest_url": "http://ncnca.org/wp-json/tribe/events/v1/events/365",
     "title": "Central Coast Road Series",
@@ -2197,7 +2197,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -2254,8 +2254,8 @@
     "status": "publish",
     "date": "2017-11-21 21:52:19",
     "date_utc": "2017-11-22 04:52:19",
-    "modified": "2018-01-31 00:03:56",
-    "modified_utc": "2018-01-31 07:03:56",
+    "modified": "2018-02-02 16:45:48",
+    "modified_utc": "2018-02-02 23:45:48",
     "url": "http://ncnca.org/event/central-coast-road-series/2018-04-08/",
     "rest_url": "http://ncnca.org/wp-json/tribe/events/v1/events/366",
     "title": "Central Coast Road Series",
@@ -2340,7 +2340,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -2397,12 +2397,12 @@
     "status": "publish",
     "date": "2017-11-21 21:52:19",
     "date_utc": "2017-11-22 04:52:19",
-    "modified": "2018-01-31 00:04:00",
-    "modified_utc": "2018-01-31 07:04:00",
-    "url": "http://ncnca.org/event/central-coast-road-series/2018-06-10/",
+    "modified": "2018-02-02 16:52:30",
+    "modified_utc": "2018-02-02 23:52:30",
+    "url": "http://ncnca.org/event/central-coast-road-series-2018-06-10/",
     "rest_url": "http://ncnca.org/wp-json/tribe/events/v1/events/367",
     "title": "Central Coast Road Series",
-    "description": "",
+    "description": "<p>Masters Road Race Championships</p>",
     "excerpt": "",
     "slug": "central-coast-road-series-2018-06-10",
     "image": false,
@@ -2444,7 +2444,7 @@
       "seconds": "59"
     },
     "timezone": "UTC-7",
-    "timezone_abbr": "",
+    "timezone_abbr": "UTC-7",
     "cost": "",
     "cost_details": {
       "currency_symbol": "",
@@ -2458,6 +2458,22 @@
     "sticky": false,
     "featured": false,
     "categories": [
+      {
+        "name": "Championships",
+        "slug": "championships",
+        "term_group": 0,
+        "term_taxonomy_id": 26,
+        "taxonomy": "tribe_events_cat",
+        "description": "",
+        "parent": 0,
+        "count": 24,
+        "filter": "raw",
+        "id": 26,
+        "urls": {
+          "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/26",
+          "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories"
+        }
+      },
       {
         "name": "Circuit Race",
         "slug": "circuit-race",
@@ -2483,7 +2499,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -2540,8 +2556,8 @@
     "status": "publish",
     "date": "2017-11-21 21:52:19",
     "date_utc": "2017-11-22 04:52:19",
-    "modified": "2018-01-31 00:04:04",
-    "modified_utc": "2018-01-31 07:04:04",
+    "modified": "2018-02-02 16:45:56",
+    "modified_utc": "2018-02-02 23:45:56",
     "url": "http://ncnca.org/event/central-coast-road-series/2018-07-01/",
     "rest_url": "http://ncnca.org/wp-json/tribe/events/v1/events/368",
     "title": "Central Coast Road Series",
@@ -2626,7 +2642,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -2683,12 +2699,12 @@
     "status": "publish",
     "date": "2017-11-21 21:52:19",
     "date_utc": "2017-11-22 04:52:19",
-    "modified": "2018-01-31 00:04:07",
-    "modified_utc": "2018-01-31 07:04:07",
-    "url": "http://ncnca.org/event/central-coast-road-series/2018-07-14/",
+    "modified": "2018-02-02 16:48:20",
+    "modified_utc": "2018-02-02 23:48:20",
+    "url": "http://ncnca.org/event/central-coast-road-series-2018-07-14/",
     "rest_url": "http://ncnca.org/wp-json/tribe/events/v1/events/369",
     "title": "Central Coast Road Series",
-    "description": "",
+    "description": "<p>Juniors Road Race Championships</p>",
     "excerpt": "",
     "slug": "central-coast-road-series-2018-07-14",
     "image": false,
@@ -2730,7 +2746,7 @@
       "seconds": "59"
     },
     "timezone": "UTC-7",
-    "timezone_abbr": "",
+    "timezone_abbr": "UTC-7",
     "cost": "",
     "cost_details": {
       "currency_symbol": "",
@@ -2744,6 +2760,22 @@
     "sticky": false,
     "featured": false,
     "categories": [
+      {
+        "name": "Championships",
+        "slug": "championships",
+        "term_group": 0,
+        "term_taxonomy_id": 26,
+        "taxonomy": "tribe_events_cat",
+        "description": "",
+        "parent": 0,
+        "count": 24,
+        "filter": "raw",
+        "id": 26,
+        "urls": {
+          "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/26",
+          "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories"
+        }
+      },
       {
         "name": "Circuit Race",
         "slug": "circuit-race",
@@ -2769,7 +2801,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -2826,8 +2858,8 @@
     "status": "publish",
     "date": "2017-11-21 21:52:19",
     "date_utc": "2017-11-22 04:52:19",
-    "modified": "2018-01-31 00:04:11",
-    "modified_utc": "2018-01-31 07:04:11",
+    "modified": "2018-02-02 16:46:05",
+    "modified_utc": "2018-02-02 23:46:05",
     "url": "http://ncnca.org/event/central-coast-road-series/2018-09-09/",
     "rest_url": "http://ncnca.org/wp-json/tribe/events/v1/events/370",
     "title": "Central Coast Road Series",
@@ -2912,7 +2944,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -3056,7 +3088,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -3240,7 +3272,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -3392,7 +3424,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -3543,7 +3575,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -3560,7 +3592,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -3692,7 +3724,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -3842,7 +3874,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -3876,7 +3908,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -4061,7 +4093,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -4078,7 +4110,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -4212,7 +4244,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -4229,7 +4261,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -4334,7 +4366,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -4485,7 +4517,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -4502,7 +4534,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -4650,7 +4682,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -4789,7 +4821,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -4806,7 +4838,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -4945,7 +4977,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -5066,7 +5098,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -5083,7 +5115,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -5187,7 +5219,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -5291,7 +5323,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -5395,7 +5427,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -5519,7 +5551,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -5643,7 +5675,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -5660,7 +5692,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -5766,7 +5798,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -5907,7 +5939,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -6030,7 +6062,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -6047,7 +6079,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -6152,7 +6184,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -6274,7 +6306,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -6378,7 +6410,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -6482,7 +6514,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -6621,7 +6653,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -6743,7 +6775,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -6850,7 +6882,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -6867,7 +6899,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -6972,7 +7004,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -6989,7 +7021,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -7094,7 +7126,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -7111,7 +7143,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -7235,7 +7267,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -7252,7 +7284,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -7356,7 +7388,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -7373,7 +7405,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -7480,7 +7512,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -7497,7 +7529,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -7601,7 +7633,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -7722,7 +7754,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -7739,7 +7771,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -7845,7 +7877,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -7862,7 +7894,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -7985,7 +8017,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -8089,7 +8121,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -8212,7 +8244,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -8333,7 +8365,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -8350,7 +8382,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -8457,7 +8489,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -8474,7 +8506,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -8579,7 +8611,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -8632,12 +8664,13 @@
     "status": "publish",
     "date": "2017-12-09 23:30:25",
     "date_utc": "2017-12-10 06:30:25",
-    "modified": "2017-12-11 18:08:36",
-    "modified_utc": "2017-12-12 01:08:36",
+    "modified": "2018-02-02 16:44:36",
+    "modified_utc": "2018-02-02 23:44:36",
     "url": "http://ncnca.org/event/folsom-spring-criterium/",
     "rest_url": "http://ncnca.org/wp-json/tribe/events/v1/events/496",
     "title": "Folsom Spring Criterium",
-    "description": "",
+    "description":
+      "<p>Masters and Juniors Districts Criterium Championships</p>",
     "excerpt": "",
     "slug": "folsom-spring-criterium",
     "image": false,
@@ -8679,7 +8712,7 @@
       "seconds": "59"
     },
     "timezone": "UTC-7",
-    "timezone_abbr": "",
+    "timezone_abbr": "UTC-7",
     "cost": "",
     "cost_details": {
       "currency_symbol": "",
@@ -8694,6 +8727,22 @@
     "featured": false,
     "categories": [
       {
+        "name": "Championships",
+        "slug": "championships",
+        "term_group": 0,
+        "term_taxonomy_id": 26,
+        "taxonomy": "tribe_events_cat",
+        "description": "",
+        "parent": 0,
+        "count": 24,
+        "filter": "raw",
+        "id": 26,
+        "urls": {
+          "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/26",
+          "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories"
+        }
+      },
+      {
         "name": "Criterium",
         "slug": "criterium",
         "term_group": 0,
@@ -8701,7 +8750,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -8718,7 +8767,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -8841,7 +8890,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -8968,7 +9017,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -9112,7 +9161,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -9129,7 +9178,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -9256,7 +9305,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -9397,7 +9446,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -9504,7 +9553,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -9653,7 +9702,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -9670,7 +9719,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -9775,7 +9824,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -9792,7 +9841,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -9897,7 +9946,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -10018,7 +10067,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -10035,7 +10084,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -10142,7 +10191,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -10266,7 +10315,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -10283,7 +10332,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -10388,7 +10437,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -10495,7 +10544,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -10512,7 +10561,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -10617,7 +10666,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -10634,7 +10683,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -10739,7 +10788,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -10756,7 +10805,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -10860,7 +10909,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -10914,12 +10963,12 @@
     "status": "publish",
     "date": "2017-12-09 23:50:12",
     "date_utc": "2017-12-10 06:50:12",
-    "modified": "2017-12-09 23:50:12",
-    "modified_utc": "2017-12-10 06:50:12",
+    "modified": "2018-02-02 16:48:51",
+    "modified_utc": "2018-02-02 23:48:51",
     "url": "http://ncnca.org/event/july-4th-davis-criterium/",
     "rest_url": "http://ncnca.org/wp-json/tribe/events/v1/events/539",
     "title": "July 4th Davis Criterium",
-    "description": "",
+    "description": "<p>Elite Districts Criterium Championships</p>",
     "excerpt": "",
     "slug": "july-4th-davis-criterium",
     "image": false,
@@ -10961,7 +11010,7 @@
       "seconds": "59"
     },
     "timezone": "UTC-7",
-    "timezone_abbr": "",
+    "timezone_abbr": "UTC-7",
     "cost": "",
     "cost_details": {
       "currency_symbol": "",
@@ -10976,6 +11025,22 @@
     "featured": false,
     "categories": [
       {
+        "name": "Championships",
+        "slug": "championships",
+        "term_group": 0,
+        "term_taxonomy_id": 26,
+        "taxonomy": "tribe_events_cat",
+        "description": "",
+        "parent": 0,
+        "count": 24,
+        "filter": "raw",
+        "id": 26,
+        "urls": {
+          "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/26",
+          "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories"
+        }
+      },
+      {
         "name": "Criterium",
         "slug": "criterium",
         "term_group": 0,
@@ -10983,7 +11048,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -11000,7 +11065,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -11104,7 +11169,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -11121,7 +11186,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -11227,7 +11292,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -11244,7 +11309,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -11354,7 +11419,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -11492,7 +11557,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -11633,7 +11698,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -11740,7 +11805,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -11757,7 +11822,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -11861,7 +11926,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -11878,7 +11943,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -11985,7 +12050,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -12108,7 +12173,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -12125,7 +12190,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -12163,12 +12228,12 @@
     "status": "publish",
     "date": "2017-12-10 00:10:34",
     "date_utc": "2017-12-10 07:10:34",
-    "modified": "2017-12-10 00:10:34",
-    "modified_utc": "2017-12-10 07:10:34",
+    "modified": "2018-02-02 16:49:44",
+    "modified_utc": "2018-02-02 23:49:44",
     "url": "http://ncnca.org/event/dunnigan-hills-road-race-vp-17/",
     "rest_url": "http://ncnca.org/wp-json/tribe/events/v1/events/562",
     "title": "Dunnigan Hills Road Race &#8211; VP #17",
-    "description": "",
+    "description": "<p>Elite Road Race Championships</p>",
     "excerpt": "",
     "slug": "dunnigan-hills-road-race-vp-17",
     "image": false,
@@ -12210,7 +12275,7 @@
       "seconds": "59"
     },
     "timezone": "UTC-7",
-    "timezone_abbr": "",
+    "timezone_abbr": "UTC-7",
     "cost": "",
     "cost_details": {
       "currency_symbol": "",
@@ -12225,6 +12290,22 @@
     "featured": false,
     "categories": [
       {
+        "name": "Championships",
+        "slug": "championships",
+        "term_group": 0,
+        "term_taxonomy_id": 26,
+        "taxonomy": "tribe_events_cat",
+        "description": "",
+        "parent": 0,
+        "count": 24,
+        "filter": "raw",
+        "id": 26,
+        "urls": {
+          "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/26",
+          "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories"
+        }
+      },
+      {
         "name": "Road",
         "slug": "road",
         "term_group": 0,
@@ -12232,7 +12313,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -12355,7 +12436,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -12372,7 +12453,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -12478,7 +12559,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -12601,7 +12682,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -12725,7 +12806,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -12848,7 +12929,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -12971,7 +13052,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -12988,7 +13069,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -13096,7 +13177,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -13113,7 +13194,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -13220,7 +13301,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -13237,7 +13318,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -13360,7 +13441,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -13450,7 +13531,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -13467,7 +13548,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -13504,12 +13585,12 @@
     "status": "publish",
     "date": "2017-12-10 00:18:15",
     "date_utc": "2017-12-10 07:18:15",
-    "modified": "2017-12-10 00:18:15",
-    "modified_utc": "2017-12-10 07:18:15",
+    "modified": "2018-02-02 16:49:26",
+    "modified_utc": "2018-02-02 23:49:26",
     "url": "http://ncnca.org/event/esparto-time-trial-vp-25/",
     "rest_url": "http://ncnca.org/wp-json/tribe/events/v1/events/584",
     "title": "Esparto Time Trial &#8211; VP #25",
-    "description": "",
+    "description": "<p>District Time Trial Championships</p>",
     "excerpt": "",
     "slug": "esparto-time-trial-vp-25",
     "image": false,
@@ -13551,7 +13632,7 @@
       "seconds": "59"
     },
     "timezone": "UTC-7",
-    "timezone_abbr": "",
+    "timezone_abbr": "UTC-7",
     "cost": "",
     "cost_details": {
       "currency_symbol": "",
@@ -13566,6 +13647,22 @@
     "featured": false,
     "categories": [
       {
+        "name": "Championships",
+        "slug": "championships",
+        "term_group": 0,
+        "term_taxonomy_id": 26,
+        "taxonomy": "tribe_events_cat",
+        "description": "",
+        "parent": 0,
+        "count": 24,
+        "filter": "raw",
+        "id": 26,
+        "urls": {
+          "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/26",
+          "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories"
+        }
+      },
+      {
         "name": "Road",
         "slug": "road",
         "term_group": 0,
@@ -13573,7 +13670,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -13696,7 +13793,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -13713,7 +13810,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -13819,7 +13916,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -13959,7 +14056,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -14427,7 +14524,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 17,
+        "count": 24,
         "filter": "raw",
         "id": 26,
         "urls": {
@@ -14548,7 +14645,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 17,
+        "count": 24,
         "filter": "raw",
         "id": 26,
         "urls": {
@@ -14669,7 +14766,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 17,
+        "count": 24,
         "filter": "raw",
         "id": 26,
         "urls": {
@@ -14774,7 +14871,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 17,
+        "count": 24,
         "filter": "raw",
         "id": 26,
         "urls": {
@@ -14879,7 +14976,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 17,
+        "count": 24,
         "filter": "raw",
         "id": 26,
         "urls": {
@@ -14895,7 +14992,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -15017,7 +15114,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 17,
+        "count": 24,
         "filter": "raw",
         "id": 26,
         "urls": {
@@ -15139,7 +15236,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 17,
+        "count": 24,
         "filter": "raw",
         "id": 26,
         "urls": {
@@ -15155,7 +15252,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -15294,7 +15391,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 17,
+        "count": 24,
         "filter": "raw",
         "id": 26,
         "urls": {
@@ -15310,7 +15407,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -15415,7 +15512,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 17,
+        "count": 24,
         "filter": "raw",
         "id": 26,
         "urls": {
@@ -15431,7 +15528,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 51,
+        "count": 52,
         "filter": "raw",
         "id": 24,
         "urls": {
@@ -15448,7 +15545,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -15587,7 +15684,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 17,
+        "count": 24,
         "filter": "raw",
         "id": 26,
         "urls": {
@@ -15724,7 +15821,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 17,
+        "count": 24,
         "filter": "raw",
         "id": 26,
         "urls": {
@@ -15845,7 +15942,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 17,
+        "count": 24,
         "filter": "raw",
         "id": 26,
         "urls": {
@@ -15966,7 +16063,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 17,
+        "count": 24,
         "filter": "raw",
         "id": 26,
         "urls": {
@@ -15982,7 +16079,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -16087,7 +16184,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 17,
+        "count": 24,
         "filter": "raw",
         "id": 26,
         "urls": {
@@ -16208,7 +16305,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 17,
+        "count": 24,
         "filter": "raw",
         "id": 26,
         "urls": {
@@ -16329,7 +16426,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 17,
+        "count": 24,
         "filter": "raw",
         "id": 26,
         "urls": {
@@ -16450,7 +16547,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 17,
+        "count": 24,
         "filter": "raw",
         "id": 26,
         "urls": {
@@ -17756,7 +17853,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -17907,7 +18004,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -18058,7 +18155,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -18209,7 +18306,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 115,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -18281,5 +18378,149 @@
     "flyerUrl":
       "https://legacy.usacycling.org/events/getflyer.php?permit=2018-346",
     "permit": "2018-346"
+  },
+  {
+    "id": 917,
+    "global_id": "ncnca.org?id=917",
+    "global_id_lineage": ["ncnca.org?id=917"],
+    "author": "1",
+    "status": "publish",
+    "date": "2018-02-02 16:41:02",
+    "date_utc": "2018-02-02 23:41:02",
+    "modified": "2018-02-02 16:45:30",
+    "modified_utc": "2018-02-02 23:45:30",
+    "url":
+      "http://ncnca.org/event/rko-18-red-kite-omnium-finale-red-kite-omnium-championship-weekend-day-2/",
+    "rest_url": "http://ncnca.org/wp-json/tribe/events/v1/events/917",
+    "title":
+      "RKO #18: Red Kite Omnium Finale – Red Kite Omnium Championship Weekend (Day 2)",
+    "description":
+      "<p>Masters and Juniors Districts Criterium Championships</p>",
+    "excerpt": "",
+    "slug":
+      "rko-18-red-kite-omnium-finale-red-kite-omnium-championship-weekend-day-2",
+    "image": false,
+    "all_day": true,
+    "start_date": "2018-09-02 00:00:00",
+    "start_date_details": {
+      "year": "2018",
+      "month": "09",
+      "day": "02",
+      "hour": "00",
+      "minutes": "00",
+      "seconds": "00"
+    },
+    "end_date": "2018-09-02 23:59:59",
+    "end_date_details": {
+      "year": "2018",
+      "month": "09",
+      "day": "02",
+      "hour": "23",
+      "minutes": "59",
+      "seconds": "59"
+    },
+    "utc_start_date": "2018-09-02 07:00:00",
+    "utc_start_date_details": {
+      "year": "2018",
+      "month": "09",
+      "day": "02",
+      "hour": "07",
+      "minutes": "00",
+      "seconds": "00"
+    },
+    "utc_end_date": "2018-09-03 06:59:59",
+    "utc_end_date_details": {
+      "year": "2018",
+      "month": "09",
+      "day": "03",
+      "hour": "06",
+      "minutes": "59",
+      "seconds": "59"
+    },
+    "timezone": "UTC-7",
+    "timezone_abbr": "UTC-7",
+    "cost": "",
+    "cost_details": {
+      "currency_symbol": "",
+      "currency_position": "prefix",
+      "values": []
+    },
+    "website": "",
+    "show_map": true,
+    "show_map_link": true,
+    "hide_from_listings": false,
+    "sticky": false,
+    "featured": false,
+    "categories": [
+      {
+        "name": "Championships",
+        "slug": "championships",
+        "term_group": 0,
+        "term_taxonomy_id": 26,
+        "taxonomy": "tribe_events_cat",
+        "description": "",
+        "parent": 0,
+        "count": 24,
+        "filter": "raw",
+        "id": 26,
+        "urls": {
+          "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/26",
+          "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories"
+        }
+      },
+      {
+        "name": "Criterium",
+        "slug": "criterium",
+        "term_group": 0,
+        "term_taxonomy_id": 24,
+        "taxonomy": "tribe_events_cat",
+        "description": "",
+        "parent": 6,
+        "count": 52,
+        "filter": "raw",
+        "id": 24,
+        "urls": {
+          "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/24",
+          "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories",
+          "up": "http://ncnca.org/wp-json/tribe/events/v1/categories/6"
+        }
+      },
+      {
+        "name": "Road",
+        "slug": "road",
+        "term_group": 0,
+        "term_taxonomy_id": 6,
+        "taxonomy": "tribe_events_cat",
+        "description": "",
+        "parent": 0,
+        "count": 115,
+        "filter": "raw",
+        "id": 6,
+        "urls": {
+          "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/6",
+          "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories"
+        }
+      }
+    ],
+    "tags": [],
+    "venue": [],
+    "organizer": [
+      {
+        "id": 79,
+        "author": "1",
+        "status": "publish",
+        "date": "2017-07-30 18:09:15",
+        "date_utc": "2017-07-31 01:09:15",
+        "modified": "2018-01-11 05:37:01",
+        "modified_utc": "2018-01-11 12:37:01",
+        "url": "http://ncnca.org/organizer/red-kite-racing/",
+        "organizer": "Red Kite Racing",
+        "phone": "510-882-8235",
+        "website": "www.redkiteracing.com",
+        "global_id": "ncnca.org?id=79",
+        "global_id_lineage": ["ncnca.org?id=79"]
+      }
+    ],
+    "registrationUrl": "https://www.bikereg.com/events/?pid=4870"
   }
 ]

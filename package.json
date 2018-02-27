@@ -55,6 +55,7 @@
     "walk-sync": "^0.3.2"
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "babel-env": "^2.4.1",
     "bluebird": "^3.4.0",
     "cheerio": "^0.22.0",

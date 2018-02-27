@@ -36,3 +36,5 @@ node_modules
 .node_repl_history
 
 data/cache
+
+__do-not-commit-me__.js

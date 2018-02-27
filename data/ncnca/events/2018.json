@@ -1627,7 +1627,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 20,
+        "count": 21,
         "filter": "raw",
         "id": 15,
         "urls": {
@@ -2995,7 +2995,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 20,
+        "count": 21,
         "filter": "raw",
         "id": 15,
         "urls": {
@@ -3815,7 +3815,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 20,
+        "count": 21,
         "filter": "raw",
         "id": 15,
         "urls": {
@@ -4435,7 +4435,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 20,
+        "count": 21,
         "filter": "raw",
         "id": 15,
         "urls": {
@@ -4785,7 +4785,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 20,
+        "count": 21,
         "filter": "raw",
         "id": 15,
         "urls": {
@@ -5509,7 +5509,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 20,
+        "count": 21,
         "filter": "raw",
         "id": 15,
         "urls": {
@@ -5698,8 +5698,8 @@
     "status": "publish",
     "date": "2017-12-09 21:41:34",
     "date_utc": "2017-12-10 04:41:34",
-    "modified": "2017-12-09 21:41:34",
-    "modified_utc": "2017-12-10 04:41:34",
+    "modified": "2018-02-22 18:33:02",
+    "modified_utc": "2018-02-23 01:33:02",
     "url": "http://ncnca.org/event/copperopolis-road-race-vp-11/",
     "rest_url": "http://ncnca.org/wp-json/tribe/events/v1/events/421",
     "title": "Copperopolis Road Race – VP #11",
@@ -5745,7 +5745,7 @@
       "seconds": "59"
     },
     "timezone": "UTC-7",
-    "timezone_abbr": "",
+    "timezone_abbr": "UTC-7",
     "cost": "",
     "cost_details": {
       "currency_symbol": "",
@@ -5794,7 +5794,28 @@
       }
     ],
     "tags": [],
-    "venue": [],
+    "venue": {
+      "id": 976,
+      "author": "1",
+      "status": "publish",
+      "date": "2018-02-22 18:33:03",
+      "date_utc": "2018-02-23 01:33:03",
+      "modified": "2018-02-22 18:33:03",
+      "modified_utc": "2018-02-23 01:33:03",
+      "url": "http://ncnca.org/venue/copperopolis-road-race/",
+      "venue": "Copperopolis Road Race",
+      "city": "Milton",
+      "country": "United States",
+      "state": "CA",
+      "zip": "95230",
+      "stateprovince": "CA",
+      "geo_lat": 38.032608,
+      "geo_lng": -120.851875,
+      "show_map": true,
+      "show_map_link": true,
+      "global_id": "ncnca.org?id=976",
+      "global_id_lineage": ["ncnca.org?id=976"]
+    },
     "organizer": [
       {
         "id": 75,
@@ -5811,7 +5832,13 @@
         "global_id": "ncnca.org?id=75",
         "global_id_lineage": ["ncnca.org?id=75"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/copperopolis-road-race",
+    "resultsUrl":
+      "http://www.usacycling.org/results/index.php?year=2018&id=1099",
+    "flyerUrl":
+      "https://legacy.usacycling.org/events/getflyer.php?permit=2018-1099",
+    "permit": "2018-1099"
   },
   {
     "id": 423,
@@ -5821,12 +5848,12 @@
     "status": "publish",
     "date": "2017-12-09 21:43:05",
     "date_utc": "2017-12-10 04:43:05",
-    "modified": "2017-12-15 16:19:51",
-    "modified_utc": "2017-12-15 23:19:51",
+    "modified": "2018-02-26 17:20:28",
+    "modified_utc": "2018-02-27 00:20:28",
     "url":
       "http://ncnca.org/event/wccc-davis-cal-road-race-collegiate-and-junior-only/",
     "rest_url": "http://ncnca.org/wp-json/tribe/events/v1/events/423",
-    "title": "WCCC: Davis Flatland Race Weekend",
+    "title": "WCCC: Davis Flatland Race Weekend &#8211; Crit (Collegiate Only)",
     "description": "",
     "excerpt": "",
     "slug": "wccc-davis-cal-road-race-collegiate-and-junior-only",
@@ -5869,147 +5896,7 @@
       "seconds": "59"
     },
     "timezone": "UTC-7",
-    "timezone_abbr": "",
-    "cost": "",
-    "cost_details": {
-      "currency_symbol": "",
-      "currency_position": "prefix",
-      "values": []
-    },
-    "website": "",
-    "show_map": true,
-    "show_map_link": true,
-    "hide_from_listings": false,
-    "sticky": false,
-    "featured": false,
-    "categories": [
-      {
-        "name": "Circuit Race",
-        "slug": "circuit-race",
-        "term_group": 0,
-        "term_taxonomy_id": 14,
-        "taxonomy": "tribe_events_cat",
-        "description": "",
-        "parent": 6,
-        "count": 16,
-        "filter": "raw",
-        "id": 14,
-        "urls": {
-          "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/14",
-          "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories",
-          "up": "http://ncnca.org/wp-json/tribe/events/v1/categories/6"
-        }
-      },
-      {
-        "name": "Road",
-        "slug": "road",
-        "term_group": 0,
-        "term_taxonomy_id": 6,
-        "taxonomy": "tribe_events_cat",
-        "description": "",
-        "parent": 0,
-        "count": 114,
-        "filter": "raw",
-        "id": 6,
-        "urls": {
-          "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/6",
-          "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories"
-        }
-      },
-      {
-        "name": "Time Trial",
-        "slug": "time-trial",
-        "term_group": 0,
-        "term_taxonomy_id": 15,
-        "taxonomy": "tribe_events_cat",
-        "description": "",
-        "parent": 6,
-        "count": 20,
-        "filter": "raw",
-        "id": 15,
-        "urls": {
-          "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/15",
-          "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories",
-          "up": "http://ncnca.org/wp-json/tribe/events/v1/categories/6"
-        }
-      }
-    ],
-    "tags": [],
-    "venue": [],
-    "organizer": [
-      {
-        "id": 692,
-        "author": "1",
-        "status": "publish",
-        "date": "2017-12-15 15:09:43",
-        "date_utc": "2017-12-15 22:09:43",
-        "modified": "2018-01-11 05:33:41",
-        "modified_utc": "2018-01-11 12:33:41",
-        "url": "http://ncnca.org/organizer/dustin-denton/",
-        "organizer": "Dustin Denton, Michael Leiken",
-        "phone": "09) 337-5053, (775) 848-5975",
-        "global_id": "ncnca.org?id=692",
-        "global_id_lineage": ["ncnca.org?id=692"]
-      }
-    ]
-  },
-  {
-    "id": 427,
-    "global_id": "ncnca.org?id=427",
-    "global_id_lineage": ["ncnca.org?id=427"],
-    "author": "1",
-    "status": "publish",
-    "date": "2017-12-09 21:43:40",
-    "date_utc": "2017-12-10 04:43:40",
-    "modified": "2017-12-15 16:20:01",
-    "modified_utc": "2017-12-15 23:20:01",
-    "url":
-      "http://ncnca.org/event/wccc-davis-cal-team-time-trial-collegiate-only/",
-    "rest_url": "http://ncnca.org/wp-json/tribe/events/v1/events/427",
-    "title": "WCCC: Davis Flatland Race Weekend",
-    "description": "",
-    "excerpt": "",
-    "slug": "wccc-davis-cal-team-time-trial-collegiate-only",
-    "image": false,
-    "all_day": true,
-    "start_date": "2018-04-01 00:00:00",
-    "start_date_details": {
-      "year": "2018",
-      "month": "04",
-      "day": "01",
-      "hour": "00",
-      "minutes": "00",
-      "seconds": "00"
-    },
-    "end_date": "2018-04-01 23:59:59",
-    "end_date_details": {
-      "year": "2018",
-      "month": "04",
-      "day": "01",
-      "hour": "23",
-      "minutes": "59",
-      "seconds": "59"
-    },
-    "utc_start_date": "2018-04-01 07:00:00",
-    "utc_start_date_details": {
-      "year": "2018",
-      "month": "04",
-      "day": "01",
-      "hour": "07",
-      "minutes": "00",
-      "seconds": "00"
-    },
-    "utc_end_date": "2018-04-02 06:59:59",
-    "utc_end_date_details": {
-      "year": "2018",
-      "month": "04",
-      "day": "02",
-      "hour": "06",
-      "minutes": "59",
-      "seconds": "59"
-    },
-    "timezone": "UTC-7",
-    "timezone_abbr": "",
+    "timezone_abbr": "UTC-7",
     "cost": "",
     "cost_details": {
       "currency_symbol": "",
@@ -6055,10 +5942,49 @@
           "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/6",
           "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories"
         }
+      },
+      {
+        "name": "Time Trial",
+        "slug": "time-trial",
+        "term_group": 0,
+        "term_taxonomy_id": 15,
+        "taxonomy": "tribe_events_cat",
+        "description": "",
+        "parent": 6,
+        "count": 21,
+        "filter": "raw",
+        "id": 15,
+        "urls": {
+          "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/15",
+          "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories",
+          "up": "http://ncnca.org/wp-json/tribe/events/v1/categories/6"
+        }
       }
     ],
     "tags": [],
-    "venue": [],
+    "venue": {
+      "id": 983,
+      "author": "1",
+      "status": "publish",
+      "date": "2018-02-26 17:20:30",
+      "date_utc": "2018-02-27 00:20:30",
+      "modified": "2018-02-26 17:20:30",
+      "modified_utc": "2018-02-27 00:20:30",
+      "url": "http://ncnca.org/venue/uc-davis-weekend-crit/",
+      "venue": "UC Davis Weekend Crit",
+      "address": "Centennial Walk & Shields Ave",
+      "city": "Davis",
+      "country": "United States",
+      "state": "CA",
+      "zip": "95616",
+      "stateprovince": "CA",
+      "geo_lat": 38.5404376,
+      "geo_lng": -121.7491509,
+      "show_map": true,
+      "show_map_link": true,
+      "global_id": "ncnca.org?id=983",
+      "global_id_lineage": ["ncnca.org?id=983"]
+    },
     "organizer": [
       {
         "id": 692,
@@ -6074,7 +6000,164 @@
         "global_id": "ncnca.org?id=692",
         "global_id_lineage": ["ncnca.org?id=692"]
       }
-    ]
+    ],
+    "registrationUrl": "https://legacy.usacycling.org/register/2018-1113",
+    "resultsUrl":
+      "http://www.usacycling.org/results/index.php?year=2018&id=1113",
+    "flyerUrl":
+      "https://legacy.usacycling.org/events/getflyer.php?permit=2018-1113",
+    "permit": "2018-1113"
+  },
+  {
+    "id": 427,
+    "global_id": "ncnca.org?id=427",
+    "global_id_lineage": ["ncnca.org?id=427"],
+    "author": "1",
+    "status": "publish",
+    "date": "2017-12-09 21:43:40",
+    "date_utc": "2017-12-10 04:43:40",
+    "modified": "2018-02-26 17:17:56",
+    "modified_utc": "2018-02-27 00:17:56",
+    "url":
+      "http://ncnca.org/event/wccc-davis-cal-team-time-trial-collegiate-only/",
+    "rest_url": "http://ncnca.org/wp-json/tribe/events/v1/events/427",
+    "title": "WCCC: Davis Flatland Race Weekend &#8211; Circuit Race",
+    "description": "",
+    "excerpt": "",
+    "slug": "wccc-davis-cal-team-time-trial-collegiate-only",
+    "image": false,
+    "all_day": true,
+    "start_date": "2018-04-01 00:00:00",
+    "start_date_details": {
+      "year": "2018",
+      "month": "04",
+      "day": "01",
+      "hour": "00",
+      "minutes": "00",
+      "seconds": "00"
+    },
+    "end_date": "2018-04-01 23:59:59",
+    "end_date_details": {
+      "year": "2018",
+      "month": "04",
+      "day": "01",
+      "hour": "23",
+      "minutes": "59",
+      "seconds": "59"
+    },
+    "utc_start_date": "2018-04-01 07:00:00",
+    "utc_start_date_details": {
+      "year": "2018",
+      "month": "04",
+      "day": "01",
+      "hour": "07",
+      "minutes": "00",
+      "seconds": "00"
+    },
+    "utc_end_date": "2018-04-02 06:59:59",
+    "utc_end_date_details": {
+      "year": "2018",
+      "month": "04",
+      "day": "02",
+      "hour": "06",
+      "minutes": "59",
+      "seconds": "59"
+    },
+    "timezone": "UTC-7",
+    "timezone_abbr": "UTC-7",
+    "cost": "",
+    "cost_details": {
+      "currency_symbol": "",
+      "currency_position": "prefix",
+      "values": []
+    },
+    "website": "",
+    "show_map": true,
+    "show_map_link": true,
+    "hide_from_listings": false,
+    "sticky": false,
+    "featured": false,
+    "categories": [
+      {
+        "name": "Circuit Race",
+        "slug": "circuit-race",
+        "term_group": 0,
+        "term_taxonomy_id": 14,
+        "taxonomy": "tribe_events_cat",
+        "description": "",
+        "parent": 6,
+        "count": 16,
+        "filter": "raw",
+        "id": 14,
+        "urls": {
+          "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/14",
+          "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories",
+          "up": "http://ncnca.org/wp-json/tribe/events/v1/categories/6"
+        }
+      },
+      {
+        "name": "Road",
+        "slug": "road",
+        "term_group": 0,
+        "term_taxonomy_id": 6,
+        "taxonomy": "tribe_events_cat",
+        "description": "",
+        "parent": 0,
+        "count": 114,
+        "filter": "raw",
+        "id": 6,
+        "urls": {
+          "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/6",
+          "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories"
+        }
+      }
+    ],
+    "tags": [],
+    "venue": {
+      "id": 981,
+      "author": "1",
+      "status": "publish",
+      "date": "2018-02-26 17:17:57",
+      "date_utc": "2018-02-27 00:17:57",
+      "modified": "2018-02-26 17:17:57",
+      "modified_utc": "2018-02-27 00:17:57",
+      "url": "http://ncnca.org/venue/uc-davis-weekend-circuit-race/",
+      "venue": "UC Davis Weekend Circuit Race",
+      "address": "Campbell Rd & Garrod Dr",
+      "city": "Davis",
+      "country": "United States",
+      "state": "CA",
+      "zip": "95616",
+      "stateprovince": "CA",
+      "geo_lat": 38.532408,
+      "geo_lng": -121.7730458,
+      "show_map": true,
+      "show_map_link": true,
+      "global_id": "ncnca.org?id=981",
+      "global_id_lineage": ["ncnca.org?id=981"]
+    },
+    "organizer": [
+      {
+        "id": 692,
+        "author": "1",
+        "status": "publish",
+        "date": "2017-12-15 15:09:43",
+        "date_utc": "2017-12-15 22:09:43",
+        "modified": "2018-01-11 05:33:41",
+        "modified_utc": "2018-01-11 12:33:41",
+        "url": "http://ncnca.org/organizer/dustin-denton/",
+        "organizer": "Dustin Denton, Michael Leiken",
+        "phone": "09) 337-5053, (775) 848-5975",
+        "global_id": "ncnca.org?id=692",
+        "global_id_lineage": ["ncnca.org?id=692"]
+      }
+    ],
+    "registrationUrl": "https://legacy.usacycling.org/register/2018-1113",
+    "resultsUrl":
+      "http://www.usacycling.org/results/index.php?year=2018&id=1113",
+    "flyerUrl":
+      "https://legacy.usacycling.org/events/getflyer.php?permit=2018-1113",
+    "permit": "2018-1113"
   },
   {
     "id": 429,
@@ -6468,8 +6551,8 @@
     "status": "publish",
     "date": "2017-12-09 21:47:43",
     "date_utc": "2017-12-10 04:47:43",
-    "modified": "2017-12-09 21:47:43",
-    "modified_utc": "2017-12-10 04:47:43",
+    "modified": "2018-02-26 17:09:29",
+    "modified_utc": "2018-02-27 00:09:29",
     "url": "http://ncnca.org/event/wccc-stanford-championship/",
     "rest_url": "http://ncnca.org/wp-json/tribe/events/v1/events/436",
     "title": "WCCC &#8211; Stanford Championship",
@@ -6515,7 +6598,174 @@
       "seconds": "59"
     },
     "timezone": "UTC-7",
-    "timezone_abbr": "",
+    "timezone_abbr": "UTC-7",
+    "cost": "",
+    "cost_details": {
+      "currency_symbol": "",
+      "currency_position": "prefix",
+      "values": []
+    },
+    "website": "",
+    "show_map": true,
+    "show_map_link": true,
+    "hide_from_listings": false,
+    "sticky": false,
+    "featured": false,
+    "categories": [
+      {
+        "name": "Circuit Race",
+        "slug": "circuit-race",
+        "term_group": 0,
+        "term_taxonomy_id": 14,
+        "taxonomy": "tribe_events_cat",
+        "description": "",
+        "parent": 6,
+        "count": 16,
+        "filter": "raw",
+        "id": 14,
+        "urls": {
+          "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/14",
+          "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories",
+          "up": "http://ncnca.org/wp-json/tribe/events/v1/categories/6"
+        }
+      },
+      {
+        "name": "Road",
+        "slug": "road",
+        "term_group": 0,
+        "term_taxonomy_id": 6,
+        "taxonomy": "tribe_events_cat",
+        "description": "",
+        "parent": 0,
+        "count": 114,
+        "filter": "raw",
+        "id": 6,
+        "urls": {
+          "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/6",
+          "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories"
+        }
+      },
+      {
+        "name": "Time Trial",
+        "slug": "time-trial",
+        "term_group": 0,
+        "term_taxonomy_id": 15,
+        "taxonomy": "tribe_events_cat",
+        "description": "",
+        "parent": 6,
+        "count": 21,
+        "filter": "raw",
+        "id": 15,
+        "urls": {
+          "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/15",
+          "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories",
+          "up": "http://ncnca.org/wp-json/tribe/events/v1/categories/6"
+        }
+      }
+    ],
+    "tags": [],
+    "venue": {
+      "id": 977,
+      "author": "1",
+      "status": "publish",
+      "date": "2018-02-26 17:09:29",
+      "date_utc": "2018-02-27 00:09:29",
+      "modified": "2018-02-26 17:09:29",
+      "modified_utc": "2018-02-27 00:09:29",
+      "url": "http://ncnca.org/venue/stanford-race-weekend-time-trial/",
+      "venue": "Stanford Race Weekend Time Trial",
+      "address": "Eucalyptus Rd & Watkins Gate Rd",
+      "city": "Seaside",
+      "country": "United States",
+      "state": "CA",
+      "zip": "93955",
+      "stateprovince": "CA",
+      "geo_lat": 36.6216724,
+      "geo_lng": -121.7690605,
+      "show_map": true,
+      "show_map_link": true,
+      "global_id": "ncnca.org?id=977",
+      "global_id_lineage": ["ncnca.org?id=977"]
+    },
+    "organizer": [
+      {
+        "id": 45,
+        "author": "1",
+        "status": "publish",
+        "date": "2017-07-30 16:56:10",
+        "date_utc": "2017-07-30 23:56:10",
+        "modified": "2018-01-11 05:35:55",
+        "modified_utc": "2018-01-11 12:35:55",
+        "url": "http://ncnca.org/organizer/keith-defiebre/",
+        "organizer": "Keith DeFiebre",
+        "website": "http://www.cccxcycling.com/",
+        "global_id": "ncnca.org?id=45",
+        "global_id_lineage": ["ncnca.org?id=45"]
+      }
+    ],
+    "registrationUrl": "http://www.bikereg.com/stanforduniversityroadrace",
+    "resultsUrl":
+      "http://www.usacycling.org/results/index.php?year=2018&id=1080",
+    "flyerUrl":
+      "https://legacy.usacycling.org/events/getflyer.php?permit=2018-1080",
+    "permit": "2018-1080"
+  },
+  {
+    "id": 439,
+    "global_id": "ncnca.org?id=439",
+    "global_id_lineage": ["ncnca.org?id=439"],
+    "author": "1",
+    "status": "publish",
+    "date": "2017-12-09 21:48:14",
+    "date_utc": "2017-12-10 04:48:14",
+    "modified": "2018-02-26 17:11:02",
+    "modified_utc": "2018-02-27 00:11:02",
+    "url": "http://ncnca.org/event/wccc-stanford-championship-2/",
+    "rest_url": "http://ncnca.org/wp-json/tribe/events/v1/events/439",
+    "title": "WCCC &#8211; Stanford Championship",
+    "description": "",
+    "excerpt": "",
+    "slug": "wccc-stanford-championship-2",
+    "image": false,
+    "all_day": true,
+    "start_date": "2018-04-15 00:00:00",
+    "start_date_details": {
+      "year": "2018",
+      "month": "04",
+      "day": "15",
+      "hour": "00",
+      "minutes": "00",
+      "seconds": "00"
+    },
+    "end_date": "2018-04-15 23:59:59",
+    "end_date_details": {
+      "year": "2018",
+      "month": "04",
+      "day": "15",
+      "hour": "23",
+      "minutes": "59",
+      "seconds": "59"
+    },
+    "utc_start_date": "2018-04-15 07:00:00",
+    "utc_start_date_details": {
+      "year": "2018",
+      "month": "04",
+      "day": "15",
+      "hour": "07",
+      "minutes": "00",
+      "seconds": "00"
+    },
+    "utc_end_date": "2018-04-16 06:59:59",
+    "utc_end_date_details": {
+      "year": "2018",
+      "month": "04",
+      "day": "16",
+      "hour": "06",
+      "minutes": "59",
+      "seconds": "59"
+    },
+    "timezone": "UTC-7",
+    "timezone_abbr": "UTC-7",
     "cost": "",
     "cost_details": {
       "currency_symbol": "",
@@ -6564,7 +6814,29 @@
       }
     ],
     "tags": [],
-    "venue": [],
+    "venue": {
+      "id": 978,
+      "author": "1",
+      "status": "publish",
+      "date": "2018-02-26 17:11:03",
+      "date_utc": "2018-02-27 00:11:03",
+      "modified": "2018-02-26 17:11:03",
+      "modified_utc": "2018-02-27 00:11:03",
+      "url": "http://ncnca.org/venue/stanford-race-weekend-road-race/",
+      "venue": "Stanford Race Weekend Road Race",
+      "address": "8th Ave & Gigling Rd",
+      "city": "Seaside",
+      "country": "United States",
+      "state": "CA",
+      "zip": "93955",
+      "stateprovince": "CA",
+      "geo_lat": 36.643705,
+      "geo_lng": -121.787389,
+      "show_map": true,
+      "show_map_link": true,
+      "global_id": "ncnca.org?id=978",
+      "global_id_lineage": ["ncnca.org?id=978"]
+    },
     "organizer": [
       {
         "id": 45,
@@ -6579,130 +6851,14 @@
         "website": "http://www.cccxcycling.com/",
         "global_id": "ncnca.org?id=45",
         "global_id_lineage": ["ncnca.org?id=45"]
-      }
-    ]
-  },
-  {
-    "id": 439,
-    "global_id": "ncnca.org?id=439",
-    "global_id_lineage": ["ncnca.org?id=439"],
-    "author": "1",
-    "status": "publish",
-    "date": "2017-12-09 21:48:14",
-    "date_utc": "2017-12-10 04:48:14",
-    "modified": "2017-12-09 21:48:14",
-    "modified_utc": "2017-12-10 04:48:14",
-    "url": "http://ncnca.org/event/wccc-stanford-championship-2/",
-    "rest_url": "http://ncnca.org/wp-json/tribe/events/v1/events/439",
-    "title": "WCCC &#8211; Stanford Championship",
-    "description": "",
-    "excerpt": "",
-    "slug": "wccc-stanford-championship-2",
-    "image": false,
-    "all_day": true,
-    "start_date": "2018-04-15 00:00:00",
-    "start_date_details": {
-      "year": "2018",
-      "month": "04",
-      "day": "15",
-      "hour": "00",
-      "minutes": "00",
-      "seconds": "00"
-    },
-    "end_date": "2018-04-15 23:59:59",
-    "end_date_details": {
-      "year": "2018",
-      "month": "04",
-      "day": "15",
-      "hour": "23",
-      "minutes": "59",
-      "seconds": "59"
-    },
-    "utc_start_date": "2018-04-15 07:00:00",
-    "utc_start_date_details": {
-      "year": "2018",
-      "month": "04",
-      "day": "15",
-      "hour": "07",
-      "minutes": "00",
-      "seconds": "00"
-    },
-    "utc_end_date": "2018-04-16 06:59:59",
-    "utc_end_date_details": {
-      "year": "2018",
-      "month": "04",
-      "day": "16",
-      "hour": "06",
-      "minutes": "59",
-      "seconds": "59"
-    },
-    "timezone": "UTC-7",
-    "timezone_abbr": "",
-    "cost": "",
-    "cost_details": {
-      "currency_symbol": "",
-      "currency_position": "prefix",
-      "values": []
-    },
-    "website": "",
-    "show_map": true,
-    "show_map_link": true,
-    "hide_from_listings": false,
-    "sticky": false,
-    "featured": false,
-    "categories": [
-      {
-        "name": "Circuit Race",
-        "slug": "circuit-race",
-        "term_group": 0,
-        "term_taxonomy_id": 14,
-        "taxonomy": "tribe_events_cat",
-        "description": "",
-        "parent": 6,
-        "count": 16,
-        "filter": "raw",
-        "id": 14,
-        "urls": {
-          "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/14",
-          "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories",
-          "up": "http://ncnca.org/wp-json/tribe/events/v1/categories/6"
-        }
-      },
-      {
-        "name": "Road",
-        "slug": "road",
-        "term_group": 0,
-        "term_taxonomy_id": 6,
-        "taxonomy": "tribe_events_cat",
-        "description": "",
-        "parent": 0,
-        "count": 114,
-        "filter": "raw",
-        "id": 6,
-        "urls": {
-          "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/6",
-          "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories"
-        }
       }
     ],
-    "tags": [],
-    "venue": [],
-    "organizer": [
-      {
-        "id": 45,
-        "author": "1",
-        "status": "publish",
-        "date": "2017-07-30 16:56:10",
-        "date_utc": "2017-07-30 23:56:10",
-        "modified": "2018-01-11 05:35:55",
-        "modified_utc": "2018-01-11 12:35:55",
-        "url": "http://ncnca.org/organizer/keith-defiebre/",
-        "organizer": "Keith DeFiebre",
-        "website": "http://www.cccxcycling.com/",
-        "global_id": "ncnca.org?id=45",
-        "global_id_lineage": ["ncnca.org?id=45"]
-      }
-    ]
+    "registrationUrl": "http://www.bikereg.com/stanforduniversityroadrace",
+    "resultsUrl":
+      "http://www.usacycling.org/results/index.php?year=2018&id=1080",
+    "flyerUrl":
+      "https://legacy.usacycling.org/events/getflyer.php?permit=2018-1080",
+    "permit": "2018-1080"
   },
   {
     "id": 441,
@@ -9398,7 +9554,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 20,
+        "count": 21,
         "filter": "raw",
         "id": 15,
         "urls": {
@@ -10022,7 +10178,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 20,
+        "count": 21,
         "filter": "raw",
         "id": 15,
         "urls": {
@@ -10513,7 +10669,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 20,
+        "count": 21,
         "filter": "raw",
         "id": 15,
         "urls": {
@@ -11495,7 +11651,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 20,
+        "count": 21,
         "filter": "raw",
         "id": 15,
         "urls": {
@@ -11633,7 +11789,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 20,
+        "count": 21,
         "filter": "raw",
         "id": 15,
         "urls": {
@@ -12758,7 +12914,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 20,
+        "count": 21,
         "filter": "raw",
         "id": 15,
         "urls": {
@@ -13746,7 +13902,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 20,
+        "count": 21,
         "filter": "raw",
         "id": 15,
         "urls": {
@@ -15345,7 +15501,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 20,
+        "count": 21,
         "filter": "raw",
         "id": 15,
         "urls": {
@@ -15638,7 +15794,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 20,
+        "count": 21,
         "filter": "raw",
         "id": 15,
         "urls": {
@@ -17929,7 +18085,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 20,
+        "count": 21,
         "filter": "raw",
         "id": 15,
         "urls": {
@@ -18080,7 +18236,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 20,
+        "count": 21,
         "filter": "raw",
         "id": 15,
         "urls": {
@@ -18231,7 +18387,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 20,
+        "count": 21,
         "filter": "raw",
         "id": 15,
         "urls": {
@@ -18382,7 +18538,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 20,
+        "count": 21,
         "filter": "raw",
         "id": 15,
         "urls": {

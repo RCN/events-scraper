@@ -109,7 +109,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -286,7 +286,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -463,7 +463,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -640,7 +640,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -818,7 +818,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -983,7 +983,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -1148,7 +1148,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -1313,7 +1313,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -1461,7 +1461,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -1611,7 +1611,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -1692,9 +1692,9 @@
     "status": "publish",
     "date": "2017-11-21 21:52:19",
     "date_utc": "2017-11-22 04:52:19",
-    "modified": "2018-02-15 16:42:00",
-    "modified_utc": "2018-02-15 23:42:00",
-    "url": "http://ncnca.org/event/central-coast-road-series/2018-03-17/",
+    "modified": "2018-03-01 19:48:35",
+    "modified_utc": "2018-03-02 02:48:35",
+    "url": "http://ncnca.org/event/central-coast-road-series/2018-04-08/",
     "rest_url": "http://ncnca.org/wp-json/tribe/events/v1/events/353",
     "title": "Central Coast Road Series",
     "description": "",
@@ -1702,38 +1702,38 @@
     "slug": "central-coast-road-series",
     "image": false,
     "all_day": true,
-    "start_date": "2018-03-17 00:00:00",
+    "start_date": "2018-04-08 00:00:00",
     "start_date_details": {
       "year": "2018",
-      "month": "03",
-      "day": "17",
+      "month": "04",
+      "day": "08",
       "hour": "00",
       "minutes": "00",
       "seconds": "00"
     },
-    "end_date": "2018-03-17 23:59:59",
+    "end_date": "2018-04-08 23:59:59",
     "end_date_details": {
       "year": "2018",
-      "month": "03",
-      "day": "17",
+      "month": "04",
+      "day": "08",
       "hour": "23",
       "minutes": "59",
       "seconds": "59"
     },
-    "utc_start_date": "2018-03-17 07:00:00",
+    "utc_start_date": "2018-04-08 07:00:00",
     "utc_start_date_details": {
       "year": "2018",
-      "month": "03",
-      "day": "17",
+      "month": "04",
+      "day": "08",
       "hour": "07",
       "minutes": "00",
       "seconds": "00"
     },
-    "utc_end_date": "2018-03-18 06:59:59",
+    "utc_end_date": "2018-04-09 06:59:59",
     "utc_end_date_details": {
       "year": "2018",
-      "month": "03",
-      "day": "18",
+      "month": "04",
+      "day": "09",
       "hour": "06",
       "minutes": "59",
       "seconds": "59"
@@ -1761,7 +1761,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 16,
+        "count": 15,
         "filter": "raw",
         "id": 14,
         "urls": {
@@ -1778,7 +1778,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -1904,7 +1904,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 16,
+        "count": 15,
         "filter": "raw",
         "id": 14,
         "urls": {
@@ -1921,7 +1921,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -2072,7 +2072,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -2102,149 +2102,6 @@
     "flyerUrl":
       "https://legacy.usacycling.org/events/getflyer.php?permit=2018-168",
     "permit": "2018-168"
-  },
-  {
-    "id": 366,
-    "global_id": "ncnca.org?id=366",
-    "global_id_lineage": ["ncnca.org?id=366"],
-    "author": "1",
-    "status": "publish",
-    "date": "2017-11-21 21:52:19",
-    "date_utc": "2017-11-22 04:52:19",
-    "modified": "2018-02-15 16:42:04",
-    "modified_utc": "2018-02-15 23:42:04",
-    "url": "http://ncnca.org/event/central-coast-road-series/2018-04-08/",
-    "rest_url": "http://ncnca.org/wp-json/tribe/events/v1/events/366",
-    "title": "Central Coast Road Series",
-    "description": "",
-    "excerpt": "",
-    "slug": "central-coast-road-series-2018-04-08",
-    "image": false,
-    "all_day": true,
-    "start_date": "2018-04-08 00:00:00",
-    "start_date_details": {
-      "year": "2018",
-      "month": "04",
-      "day": "08",
-      "hour": "00",
-      "minutes": "00",
-      "seconds": "00"
-    },
-    "end_date": "2018-04-08 23:59:59",
-    "end_date_details": {
-      "year": "2018",
-      "month": "04",
-      "day": "08",
-      "hour": "23",
-      "minutes": "59",
-      "seconds": "59"
-    },
-    "utc_start_date": "2018-04-08 07:00:00",
-    "utc_start_date_details": {
-      "year": "2018",
-      "month": "04",
-      "day": "08",
-      "hour": "07",
-      "minutes": "00",
-      "seconds": "00"
-    },
-    "utc_end_date": "2018-04-09 06:59:59",
-    "utc_end_date_details": {
-      "year": "2018",
-      "month": "04",
-      "day": "09",
-      "hour": "06",
-      "minutes": "59",
-      "seconds": "59"
-    },
-    "timezone": "UTC-7",
-    "timezone_abbr": "",
-    "cost": "",
-    "cost_details": {
-      "currency_symbol": "",
-      "currency_position": "prefix",
-      "values": []
-    },
-    "website": "www.cccxcycling.com",
-    "show_map": true,
-    "show_map_link": true,
-    "hide_from_listings": false,
-    "sticky": false,
-    "featured": false,
-    "categories": [
-      {
-        "name": "Circuit Race",
-        "slug": "circuit-race",
-        "term_group": 0,
-        "term_taxonomy_id": 14,
-        "taxonomy": "tribe_events_cat",
-        "description": "",
-        "parent": 6,
-        "count": 16,
-        "filter": "raw",
-        "id": 14,
-        "urls": {
-          "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/14",
-          "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories",
-          "up": "http://ncnca.org/wp-json/tribe/events/v1/categories/6"
-        }
-      },
-      {
-        "name": "Road",
-        "slug": "road",
-        "term_group": 0,
-        "term_taxonomy_id": 6,
-        "taxonomy": "tribe_events_cat",
-        "description": "",
-        "parent": 0,
-        "count": 114,
-        "filter": "raw",
-        "id": 6,
-        "urls": {
-          "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/6",
-          "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories"
-        }
-      }
-    ],
-    "tags": [],
-    "venue": {
-      "id": 355,
-      "author": "1",
-      "status": "publish",
-      "date": "2017-11-21 21:52:19",
-      "date_utc": "2017-11-22 04:52:19",
-      "modified": "2017-11-21 21:55:49",
-      "modified_utc": "2017-11-22 04:55:49",
-      "url": "http://ncnca.org/venue/central-coast-road-series-seaside/",
-      "venue": "Central Coast Road Series &#8211; Seaside",
-      "address": "Parker Flats Cut Off Rd",
-      "city": "Seaside",
-      "country": "United States",
-      "state": "CA",
-      "stateprovince": "CA",
-      "geo_lat": 36.6343555,
-      "geo_lng": -121.7816455,
-      "show_map": true,
-      "show_map_link": true,
-      "global_id": "ncnca.org?id=355",
-      "global_id_lineage": ["ncnca.org?id=355"]
-    },
-    "organizer": [
-      {
-        "id": 45,
-        "author": "1",
-        "status": "publish",
-        "date": "2017-07-30 16:56:10",
-        "date_utc": "2017-07-30 23:56:10",
-        "modified": "2018-01-11 05:35:55",
-        "modified_utc": "2018-01-11 12:35:55",
-        "url": "http://ncnca.org/organizer/keith-defiebre/",
-        "organizer": "Keith DeFiebre",
-        "website": "http://www.cccxcycling.com/",
-        "global_id": "ncnca.org?id=45",
-        "global_id_lineage": ["ncnca.org?id=45"]
-      }
-    ]
   },
   {
     "id": 367,
@@ -2339,7 +2196,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 16,
+        "count": 15,
         "filter": "raw",
         "id": 14,
         "urls": {
@@ -2356,7 +2213,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -2413,8 +2270,8 @@
     "status": "publish",
     "date": "2017-11-21 21:52:19",
     "date_utc": "2017-11-22 04:52:19",
-    "modified": "2018-02-15 16:42:08",
-    "modified_utc": "2018-02-15 23:42:08",
+    "modified": "2018-03-01 19:48:38",
+    "modified_utc": "2018-03-02 02:48:38",
     "url": "http://ncnca.org/event/central-coast-road-series/2018-07-01/",
     "rest_url": "http://ncnca.org/wp-json/tribe/events/v1/events/368",
     "title": "Central Coast Road Series",
@@ -2482,7 +2339,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 16,
+        "count": 15,
         "filter": "raw",
         "id": 14,
         "urls": {
@@ -2499,7 +2356,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -2641,7 +2498,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 16,
+        "count": 15,
         "filter": "raw",
         "id": 14,
         "urls": {
@@ -2658,7 +2515,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -2715,8 +2572,8 @@
     "status": "publish",
     "date": "2017-11-21 21:52:19",
     "date_utc": "2017-11-22 04:52:19",
-    "modified": "2018-02-15 16:42:12",
-    "modified_utc": "2018-02-15 23:42:12",
+    "modified": "2018-03-01 19:48:42",
+    "modified_utc": "2018-03-02 02:48:42",
     "url": "http://ncnca.org/event/central-coast-road-series/2018-09-09/",
     "rest_url": "http://ncnca.org/wp-json/tribe/events/v1/events/370",
     "title": "Central Coast Road Series",
@@ -2784,7 +2641,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 16,
+        "count": 15,
         "filter": "raw",
         "id": 14,
         "urls": {
@@ -2801,7 +2658,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -2928,7 +2785,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 16,
+        "count": 15,
         "filter": "raw",
         "id": 14,
         "urls": {
@@ -2945,7 +2802,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -3129,7 +2986,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -3281,7 +3138,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -3449,7 +3306,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -3581,7 +3438,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -3662,11 +3519,11 @@
     "status": "publish",
     "date": "2017-12-09 21:19:48",
     "date_utc": "2017-12-10 04:19:48",
-    "modified": "2018-01-07 20:16:40",
-    "modified_utc": "2018-01-08 03:16:40",
+    "modified": "2018-03-01 19:08:09",
+    "modified_utc": "2018-03-02 02:08:09",
     "url": "http://ncnca.org/event/madera-stage-race-vp-8/",
     "rest_url": "http://ncnca.org/wp-json/tribe/events/v1/events/390",
-    "title": "Madera Stage Race – VP #8",
+    "title": "Madera Stage Race – VP #8 – Cancelled",
     "description": "",
     "excerpt": "",
     "slug": "madera-stage-race-vp-8",
@@ -3719,7 +3576,7 @@
     "website": "",
     "show_map": true,
     "show_map_link": true,
-    "hide_from_listings": false,
+    "hide_from_listings": true,
     "sticky": false,
     "featured": false,
     "categories": [
@@ -3765,7 +3622,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -3967,7 +3824,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -4118,7 +3975,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -4251,7 +4108,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -4419,7 +4276,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -4567,7 +4424,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -4718,7 +4575,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 16,
+        "count": 15,
         "filter": "raw",
         "id": 14,
         "urls": {
@@ -4752,7 +4609,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -4919,7 +4776,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -5057,7 +4914,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -5161,7 +5018,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -5265,7 +5122,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -5369,7 +5226,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -5493,7 +5350,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -5575,8 +5432,8 @@
     "status": "publish",
     "date": "2017-12-09 21:40:53",
     "date_utc": "2017-12-10 04:40:53",
-    "modified": "2017-12-09 21:40:53",
-    "modified_utc": "2017-12-10 04:40:53",
+    "modified": "2018-03-01 19:42:49",
+    "modified_utc": "2018-03-02 02:42:49",
     "url": "http://ncnca.org/event/santa-cruz-classic-criterium-vp-10/",
     "rest_url": "http://ncnca.org/wp-json/tribe/events/v1/events/419",
     "title": "Santa Cruz Classic Criterium – VP #10",
@@ -5622,7 +5479,7 @@
       "seconds": "59"
     },
     "timezone": "UTC-7",
-    "timezone_abbr": "",
+    "timezone_abbr": "UTC-7",
     "cost": "",
     "cost_details": {
       "currency_symbol": "",
@@ -5661,7 +5518,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -5671,7 +5528,29 @@
       }
     ],
     "tags": [],
-    "venue": [],
+    "venue": {
+      "id": 993,
+      "author": "1",
+      "status": "publish",
+      "date": "2018-03-01 19:42:49",
+      "date_utc": "2018-03-02 02:42:49",
+      "modified": "2018-03-01 19:42:49",
+      "modified_utc": "2018-03-02 02:42:49",
+      "url": "http://ncnca.org/venue/santa-cruz-classic-criterium/",
+      "venue": "Santa Cruz Classic Criterium",
+      "address": "Main St & 3rd St",
+      "city": "Santa Cruz",
+      "country": "United States",
+      "state": "CA",
+      "zip": "95060",
+      "stateprovince": "CA",
+      "geo_lat": 36.966388,
+      "geo_lng": -122.0235604,
+      "show_map": true,
+      "show_map_link": true,
+      "global_id": "ncnca.org?id=993",
+      "global_id_lineage": ["ncnca.org?id=993"]
+    },
     "organizer": [
       {
         "id": 75,
@@ -5688,7 +5567,13 @@
         "global_id": "ncnca.org?id=75",
         "global_id_lineage": ["ncnca.org?id=75"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/",
+    "resultsUrl":
+      "http://www.usacycling.org/results/index.php?year=2018&id=1097",
+    "flyerUrl":
+      "https://legacy.usacycling.org/events/getflyer.php?permit=2018-1097",
+    "permit": "2018-1097"
   },
   {
     "id": 421,
@@ -5767,7 +5652,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -5935,7 +5820,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -6086,7 +5971,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 16,
+        "count": 15,
         "filter": "raw",
         "id": 14,
         "urls": {
@@ -6103,7 +5988,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -6167,8 +6052,8 @@
     "status": "publish",
     "date": "2017-12-09 21:45:14",
     "date_utc": "2017-12-10 04:45:14",
-    "modified": "2017-12-09 21:45:14",
-    "modified_utc": "2017-12-10 04:45:14",
+    "modified": "2018-03-01 19:08:23",
+    "modified_utc": "2018-03-02 02:08:23",
     "url": "http://ncnca.org/event/turlock-lake-road-race/",
     "rest_url": "http://ncnca.org/wp-json/tribe/events/v1/events/429",
     "title": "Turlock Lake Road Race",
@@ -6214,7 +6099,7 @@
       "seconds": "59"
     },
     "timezone": "UTC-7",
-    "timezone_abbr": "",
+    "timezone_abbr": "UTC-7",
     "cost": "",
     "cost_details": {
       "currency_symbol": "",
@@ -6236,7 +6121,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -6263,7 +6148,27 @@
       }
     ],
     "tags": [],
-    "venue": [],
+    "venue": {
+      "id": 991,
+      "author": "1",
+      "status": "publish",
+      "date": "2018-03-01 18:04:16",
+      "date_utc": "2018-03-02 01:04:16",
+      "modified": "2018-03-01 18:04:16",
+      "modified_utc": "2018-03-02 01:04:16",
+      "url": "http://ncnca.org/venue/turlock-lake-road-race/",
+      "venue": "Turlock Lake Road Race",
+      "address": "22600 Lake Road",
+      "city": "La Grange",
+      "country": "United States",
+      "state": "CA",
+      "zip": "95329",
+      "stateprovince": "CA",
+      "show_map": true,
+      "show_map_link": true,
+      "global_id": "ncnca.org?id=991",
+      "global_id_lineage": ["ncnca.org?id=991"]
+    },
     "organizer": [
       {
         "id": 431,
@@ -6279,7 +6184,13 @@
         "global_id": "ncnca.org?id=431",
         "global_id_lineage": ["ncnca.org?id=431"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/tlrr",
+    "resultsUrl":
+      "http://www.usacycling.org/results/index.php?year=2018&id=599",
+    "flyerUrl":
+      "https://legacy.usacycling.org/events/getflyer.php?permit=2018-599",
+    "permit": "2018-599"
   },
   {
     "id": 432,
@@ -6358,7 +6269,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -6489,7 +6400,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -6620,7 +6531,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 16,
+        "count": 15,
         "filter": "raw",
         "id": 14,
         "urls": {
@@ -6637,7 +6548,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -6787,7 +6698,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -6937,7 +6848,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 16,
+        "count": 15,
         "filter": "raw",
         "id": 14,
         "urls": {
@@ -6954,7 +6865,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -7078,7 +6989,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -7200,7 +7111,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -7322,7 +7233,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -7429,7 +7340,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 16,
+        "count": 15,
         "filter": "raw",
         "id": 14,
         "urls": {
@@ -7463,7 +7374,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -7584,7 +7495,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -7708,7 +7619,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -7743,8 +7654,8 @@
     "status": "publish",
     "date": "2017-12-09 23:21:29",
     "date_utc": "2017-12-10 06:21:29",
-    "modified": "2017-12-09 23:21:29",
-    "modified_utc": "2017-12-10 06:21:29",
+    "modified": "2018-03-01 19:28:48",
+    "modified_utc": "2018-03-02 02:28:48",
     "url": "http://ncnca.org/event/wente-road-race/",
     "rest_url": "http://ncnca.org/wp-json/tribe/events/v1/events/472",
     "title": "Wente Road Race",
@@ -7790,7 +7701,7 @@
       "seconds": "59"
     },
     "timezone": "UTC-7",
-    "timezone_abbr": "",
+    "timezone_abbr": "UTC-7",
     "cost": "",
     "cost_details": {
       "currency_symbol": "",
@@ -7812,7 +7723,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -7839,7 +7750,29 @@
       }
     ],
     "tags": [],
-    "venue": [],
+    "venue": {
+      "id": 992,
+      "author": "1",
+      "status": "publish",
+      "date": "2018-03-01 19:28:16",
+      "date_utc": "2018-03-02 02:28:16",
+      "modified": "2018-03-01 19:28:16",
+      "modified_utc": "2018-03-02 02:28:16",
+      "url": "http://ncnca.org/venue/wente-vineyards-road-race/",
+      "venue": "Wente Vineyards Road Race",
+      "address": "Marathon Dr & Greenville Rd",
+      "city": "Livermore",
+      "country": "United States",
+      "state": "CA",
+      "zip": "94550",
+      "stateprovince": "CA",
+      "geo_lat": 37.6980868,
+      "geo_lng": -121.6969207,
+      "show_map": true,
+      "show_map_link": true,
+      "global_id": "ncnca.org?id=992",
+      "global_id_lineage": ["ncnca.org?id=992"]
+    },
     "organizer": [
       {
         "id": 475,
@@ -7854,7 +7787,13 @@
         "global_id": "ncnca.org?id=475",
         "global_id_lineage": ["ncnca.org?id=475"]
       }
-    ]
+    ],
+    "registrationUrl": "https://www.bikereg.com/",
+    "resultsUrl":
+      "http://www.usacycling.org/results/index.php?year=2018&id=889",
+    "flyerUrl":
+      "https://legacy.usacycling.org/events/getflyer.php?permit=2018-889",
+    "permit": "2018-889"
   },
   {
     "id": 476,
@@ -7950,7 +7889,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -8073,7 +8012,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -8206,7 +8145,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 16,
+        "count": 15,
         "filter": "raw",
         "id": 14,
         "urls": {
@@ -8223,7 +8162,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -8354,7 +8293,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -8477,7 +8416,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -8615,7 +8554,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -8739,7 +8678,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -8844,7 +8783,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -8983,7 +8922,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -9089,7 +9028,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 16,
+        "count": 15,
         "filter": "raw",
         "id": 14,
         "urls": {
@@ -9106,7 +9045,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -9233,7 +9172,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -9394,7 +9333,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -9521,7 +9460,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -9662,7 +9601,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -9769,7 +9708,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -9935,7 +9874,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -10057,7 +9996,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -10162,7 +10101,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -10300,7 +10239,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -10407,7 +10346,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -10548,7 +10487,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -10653,7 +10592,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -10777,7 +10716,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -10899,7 +10838,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -11021,7 +10960,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -11125,7 +11064,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -11281,7 +11220,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -11402,7 +11341,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -11525,7 +11464,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -11635,7 +11574,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -11773,7 +11712,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -11897,7 +11836,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 6,
-        "count": 16,
+        "count": 15,
         "filter": "raw",
         "id": 14,
         "urls": {
@@ -11914,7 +11853,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -12038,7 +11977,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -12159,7 +12098,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -12266,7 +12205,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -12406,7 +12345,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -12529,7 +12468,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -12669,7 +12608,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -12775,7 +12714,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -12898,7 +12837,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -13022,7 +12961,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -13145,7 +13084,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -13285,7 +13224,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -13410,7 +13349,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -13534,7 +13473,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -13657,7 +13596,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -13764,7 +13703,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -13886,7 +13825,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -14026,7 +13965,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -14132,7 +14071,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -14272,7 +14211,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -15208,7 +15147,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -15468,7 +15407,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -15623,7 +15562,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -15761,7 +15700,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -16295,7 +16234,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -18069,7 +18008,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -18220,7 +18159,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -18371,7 +18310,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -18522,7 +18461,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {
@@ -18709,7 +18648,7 @@
         "taxonomy": "tribe_events_cat",
         "description": "",
         "parent": 0,
-        "count": 114,
+        "count": 113,
         "filter": "raw",
         "id": 6,
         "urls": {

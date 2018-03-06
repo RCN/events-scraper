@@ -1,6 +1,34 @@
 {
-  "extends": "standard",
+  "parserOptions": {
+    sourceType: "module",
+    ecmaVersion: 2017,
+    "ecmaFeatures": {
+      "jsx": true
+    },
+  },
+  "env": {
+    "browser": true,
+    "node": true,
+    "es6": true
+  },
+  "globals" : {
+    "__ENV": true,
+    "analytics": true,
+    "describe": true,
+    "it": true,
+    "expect": true,
+  },
+  "extends": [
+    "standard",
+    "prettier",
+    "prettier/standard"
+  ],
+  "plugins": [
+    "prettier",
+    "standard"
+  ],
   "rules": {
+    "prettier/prettier": "error",
     "comma-dangle": [1, "only-multiline"],
     "space-before-function-paren": ["error", { "anonymous": "never", "named": "never" }],
     "spaced-comment": 0,

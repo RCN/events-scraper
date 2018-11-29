@@ -26,3 +26,7 @@ require('babel-polyfill')
 // require('./lib/scrapers/usac-events-via-api')
 require('./lib/scrapers/ncnca')
 // require('./lib/scrapers/bikereg/scrape-all')
+
+require('./lib/converters/usac')
+
+// require('./lib/github')

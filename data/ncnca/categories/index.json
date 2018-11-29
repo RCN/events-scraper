@@ -1,7 +1,7 @@
 [
   {
     "id": 26,
-    "count": 23,
+    "count": 24,
     "description": "",
     "name": "Championships",
     "slug": "championships",
@@ -16,7 +16,7 @@
   },
   {
     "id": 14,
-    "count": 16,
+    "count": 15,
     "description": "",
     "name": "Circuit Race",
     "slug": "circuit-race",
@@ -47,7 +47,7 @@
   },
   {
     "id": 24,
-    "count": 52,
+    "count": 53,
     "description": "",
     "name": "Criterium",
     "slug": "criterium",
@@ -94,7 +94,7 @@
   },
   {
     "id": 17,
-    "count": 1,
+    "count": 11,
     "description": "",
     "name": "Juniors",
     "slug": "juniors",
@@ -124,7 +124,7 @@
   },
   {
     "id": 5,
-    "count": 4,
+    "count": 39,
     "description": "",
     "name": "MTB",
     "slug": "mtb",
@@ -154,7 +154,7 @@
   },
   {
     "id": 6,
-    "count": 114,
+    "count": 116,
     "description": "",
     "name": "Road",
     "slug": "road",
@@ -169,7 +169,7 @@
   },
   {
     "id": 21,
-    "count": 31,
+    "count": 32,
     "description": "",
     "name": "Road Race",
     "slug": "road-race",
@@ -185,7 +185,7 @@
   },
   {
     "id": 23,
-    "count": 6,
+    "count": 7,
     "description": "",
     "name": "Stage Race",
     "slug": "stage-race",
@@ -201,7 +201,7 @@
   },
   {
     "id": 15,
-    "count": 20,
+    "count": 21,
     "description": "",
     "name": "Time Trial",
     "slug": "time-trial",
@@ -217,7 +217,7 @@
   },
   {
     "id": 7,
-    "count": 5,
+    "count": 6,
     "description": "",
     "name": "Track",
     "slug": "track",
@@ -227,6 +227,21 @@
     "url": "http://ncnca.org/events/category/track/",
     "urls": {
       "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/7",
+      "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories"
+    }
+  },
+  {
+    "id": 19,
+    "count": 20,
+    "description": "",
+    "name": "Women",
+    "slug": "women",
+    "taxonomy": "tribe_events_cat",
+    "parent": 0,
+    "meta": [],
+    "url": "http://ncnca.org/events/category/women/",
+    "urls": {
+      "self": "http://ncnca.org/wp-json/tribe/events/v1/categories/19",
       "collection": "http://ncnca.org/wp-json/tribe/events/v1/categories"
     }
   }

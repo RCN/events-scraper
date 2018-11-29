@@ -4,6 +4,9 @@ Version 1:
  ✔ unit tests will be run as part of regular build enforsing additional constrains @done(2017-10-18) @project(Version 1)
 
 
+Version 1.1:
+  - diff JSON files and push to github only if files are different
+
 Version 2:
 - support multi-type events
   - validate that permit has same id
